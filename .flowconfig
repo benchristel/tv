@@ -1,0 +1,13 @@
+[ignore]
+<PROJECT_ROOT>/node_modules/.*/package.json
+
+[include]
+
+[libs]
+flow-typed/@benchristel/taste.js
+
+[lints]
+
+[options]
+
+[strict]

@@ -1,0 +1,10 @@
+.TestResults {
+  background: #ffe8d0;
+  padding: 16px;
+  border-bottom: 3px solid #e40;
+  color: #210;
+}
+
+.TestResults pre {
+  margin: 0;
+}
