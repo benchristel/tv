@@ -1,0 +1,21 @@
+{
+  "name": "react-flow-snowpack-taste",
+  "version": "1.0.0",
+  "author": "Ben Christel <bchristel@pivotal.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@benchristel/taste": "^0.2.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-webpack": "^3.0.0",
+    "flow-bin": "^0.174.1",
+    "snowpack": "^3.8.8",
+    "snowpack-flow-remove-types": "^0.0.0"
+  },
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build"
+  }
+}
