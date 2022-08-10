@@ -13,6 +13,7 @@ module.exports = {
     target: "es6"
   },
   buildOptions: {
-    out: "docs"
+    out: "docs",
+    baseUrl: "."
   }
 };
