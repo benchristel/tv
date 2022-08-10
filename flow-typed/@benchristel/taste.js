@@ -24,4 +24,5 @@ declare module "@benchristel/taste" {
     declare export function getAllTests(): Tests
     declare export function runTests(Tests): Promise<TestResults>
     declare export function formatTestResultsAsText(TestResults): string
+    declare export function not(Predicate): Predicate
 }
