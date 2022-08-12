@@ -1946,60 +1946,310 @@ B00XPYTvCRY 10:02 Introspective Awareness in Meditation - Buddhist Wisdom meets 
 
 # Adam Savage's Tested
 
-dpgVOHFhI6M 10:47 LEGO Horizon Forbidden West Tallneck Lighting Kit Build!
 dXdkfaEbeLQ 10:18 Ask Adam Savage: When Did You Know Making Would Be A Sustainable Career?
-sMV99wKhcLg 8:29 Adam Savage Inspects a Prototype Machined Brass Pen!
-dYaS2MeXQk0 9:15 Adam Savage's Favorite Tools: Cordless Heat Gun!
-NM9Hxpk_tPo 18:32 Adam Savage's One Day Builds: Annular Cutter Storage!
 PbnDO_IMMoY 7:39 Ask Adam Savage: What IS It About The Matrix?
-fSIC_xODA_o 10:22 Star Wars Vintage Action Figure Guides!
-aZYOugt3Bmw 15:24 Inside Wētā Workshop's Animatronics Lab!
 kBoNZjWsrOY 15:21 Ask Adam Savage: All About Clamps
 6HOWrW4p-Xg 11:29 Ask Adam Savage: Adam's Top 5 Movie Soundtracks
 Wz-iPCiim9U 5:01 Ask Adam Savage: “Did You Have Work/Life Balance During MythBusters?”
+UUNBBNLCqmU 7:39 Ask Adam Savage: Best Glue for Foam
+eGRfEvMEoSM 6:16 Ask Adam Savage: "Do You Have Lucid Dreams?"
+qQlF7upgTlA 10:03 Ask Adam Savage: "What Do You Think Will Be Your Legacy?"
+7KllsOwtHK0 7:39 Ask Adam Savage: Ark of the Covenant Replicas and Duct Tape Bullwhips
+5CRSXcoasQQ 12:00 Ask Adam Savage: Creating With ADHD
+W7XvCLDzY10 7:51 Ask Adam Savage: How to Set Up a New Shop
+KZWWL3Kdhhk 9:04 Ask Adam Savage: On Sharing Space With Mrs Donttrythis
+vyCrHLYiGNo 10:09 Ask Adam Savage: Efficiency and First Order of Retrievability in Shops
+6LqBJzLB5jg 5:57 Ask Adam Savage: Best Tools and Projects for First-Time Makers
+L3D8BhJIfL0 11:12 Ask Adam Savage: Avoiding Accidents and "The Hands"
+eS8aLmXEmQQ 11:20 Ask Adam Savage: When to Ask for Help on a Job
+TpqUG6iFEBE 7:38 Ask Adam Savage: What's the One Thing Visitors Flock to in The Cave?
+IVE3G_uCW1Y 9:05 Ask Adam Savage: Building vs. Modifying Tools
+WBbxrHO8zq8 7:28 Ask Adam Savage: Favorite Miniature and Jumbo Versions of Tools
+8Q_7nkvjl-g 8:58 Ask Adam Savage: The Origin of Adam and Jamie's "MythBusters Look"
+usB6jqa4Yt4 7:56 Ask Adam Savage: When to Buy and How to Mark Your Tools
+riyvh8zOG_A 5:58 Ask Adam Savage: On Reading Critical Viewer Comments
+G9TJQEJJZKI 6:58 Ask Adam Savage: Current TV Series Adam Would Want to Address on MythBusters
+fWZ8rUEdhUc 7:58 Ask Adam Savage: What's on Adam's Personal Bucket List?
+WrGW5oGnILo 7:58 Ask Adam Savage: Setting Up a Shop in Your Garage
+2tZ0EGJIgD8 15:16 Ask Adam Savage: Adjusting to Life Post-Mythbusters
+jIAbRPW0jXg 5:41 Ask Adam Savage: On Making "In Universe" Prop Build Decisions
+E1tuc-levnI 6:14 Ask Adam Savage: Do I Want to Go to Space?
+a6E0FMtdJpM 10:51 Ask Adam Savage: Who Modified the Cars on MythBusters?
+aRln8atkNaY 13:43 Ask Adam Savage: Behind the MythBusters Cement Truck Explosion
+mqXtr7C5VCg 11:45 Ask Adam Savage: Job Interview Advice, Jamie's Flamethrower and More
+lbnGzrLWlBw 5:25 Ask Adam Savage: The Origin of M5, M6 and M7 (Plus, Their Neighbors)
+DNhbUQhiVf8 7:51 Ask Adam Savage: Will I Ever Retire, Plus Combatting Negative Feedback
+Bh6VLA7uUvM 11:21 Ask Adam Savage: The Challenge of Using Explosives and Firearms in San Francisco
+I1XVHq3sTdk 7:59 Ask Adam Savage: When to Keep/Store a Project, Plus Favorite Puppet in Film History
+MztikUm9T1c 15:34 Ask Adam Savage: My Favorite Build of Jamie's
+c6TopwNu7Ok 8:22 Ask Adam Savage: How Useful Is My Tattoo?
+6HV37guAllc 6:23 Ask Adam Savage: Makers in the Film Industry
+l1RemggFxwA 8:16 Ask Adam Savage: How to Weather Leather
+jP4DGyMUbMA 6:50 Ask Adam Savage: My "Why Didn't I Think of That" Moments
+Z10JnKiu4Tg 6:49 Ask Adam Savage: Post-Build Depression, Custom Lightsabers and Unfinished Blasters
+AlcLyaOw-ls 8:22 Ask Adam Savage: The "One Day Build" Concept
+8fgfi7Kc1hg 13:30 Ask Adam Savage: How I Jump Back Into a Set-Aside Project
+DXyc91HL7Y8 7:47 Ask Adam Savage: Does Self-Filming Make Builds Longer?
+LprSB3_rles 11:12 Ask Adam Savage: When to Make vs. Buy Something
+8mXv0_N_NHg 8:17 Ask Adam Savage: The Myth Jamie Suggested That I LOVED (But We Didn't Do)
+qkz19jFh7x0 8:06 Ask Adam Savage: Bailing on Boring Projects
+FIDJ2XMTb_s 10:06 Ask Adam Savage: Land Cruiser Pros and Cons Plus Drywall Screws
+stMPdtH3S9E 11:10 Ask Adam Savage: Metric Blocks, Biscuit Bazooka and Barrel of Bricks
+L5De68zSf14 11:55 Ask Adam Savage: Should You Take Jobs at a Loss to "Get Your Name Out"?
+_Xt-YHdRlQI 12:00 Ask Adam Savage: Stewart/Colbert Rally to Restore Sanity and/or Fear Invite
+IuF1tWlV6nE 9:33 Ask Adam Savage: Blade Runner 2099, Workbench Tops and Custom Lightsabers
+psgf9pqjkPs 8:37 Ask Adam Savage: Is Failure Still an Option?
+qPlWUFxXFGs 10:24 Ask Adam Savage: Tips for Organizing Reference Materials (Both Digital and Physical)
+5Oe2S_xvL5o 9:01 Ask Adam Savage: The MythBusters Pilot Episodes
+WfyZuedOsF4 9:12 Ask Adam Savage: On Finding Organizational Inspiration and Discarding Things You Need Later
+9mxGo7QglRU 12:36 Ask Adam Savage: Transitioning From Jamie's Employee to Equal
+CVU3EZnjmUg 9:33 Ask Adam Savage: How to Store One-Off Items (Plus Home Organization Issues With Mrs. Donttrythis)
+70TZua1j3Fc 11:27 Ask Adam Savage: When to Discard Scrap Materials
+56NXn-6nqMA 8:58 Ask Adam Savage: Why the Hindenburg Episode Was Huge (and Fun!) for MythBusters
+4m-lTiCmSro 6:45 Ask Adam Savage: Airbrushing Tips and DIY Tools
+QmRXguvO0bs 13:45 Ask Adam Savage: Managing Tools and Materials When You Have Two Shops
+F_YVzJfhC6o 10:47 Ask Adam Savage: Tips for Building Within Tight Budget Constraints
+d4O2wtDW2LA 10:17 Ask Adam Savage: The Tool That Does Only One Thing, But Does It Well
+H0X9y0iyBmY 12:13 Ask Adam Savage: Lathe Tips (Plus Adam's Watch!)
+qeRcHlwp2AQ 9:43 Ask Adam Savage: The Tool That Makes Adam Giddy
+q3sCIpFZzfU 8:04 Ask Adam Savage: The Tool That Didn't Live Up to My Hopes
+Gj0OMUozEKw 8:25 Ask Adam Savage: Favorite Play/Musical Experience
+7oieelDea5o 10:28 Ask Adam Savage: Do I Do Projects at Home?
+8zIOfPy7sCg 10:48 Ask Adam Savage: Myths Adam Wishes Were Taken Further
+V1XbZPafG7M 14:56 Ask Adam Savage: How to Deal With Creative Block
+aNwZQdUmR7A 11:58 Ask Adam Savage: Weirdest Things Fans Ask to Be Signed
+AoXNSquNsbY 14:00 Ask Adam Savage: The Myth That Pushed Adam to His Breaking Point
+uKlQyWwdqXk 11:13 Ask Adam Savage: Is Mrs. Donttrythis a Maker?
+QuzIlMxLnQM 12:42 Ask Adam Savage: Collaborating/Competing With Jamie on MythBusters
+r1uxC8RUiKU 9:05 Ask Adam Savage: Feeling Overwhelmed by STUFF
+D_yHttkfWCA 11:43 Ask Adam Savage: Origin of "Well, There's Your Problem" on MythBusters
+Ie79jtBfr1M 11:59 Ask Adam Savage: Movie Scene That Had the Biggest Emotional Impact
+REXSV1x18Y8 11:37 Ask Adam Savage: Most Egregious Errors in TV and Movies
+fW8R-WbLQEs 11:14 Ask Adam Savage: Films Where the Props Were Better Than the Film Itself
+EtdAto9ymA8 9:22 Ask Adam Savage: Coming Out of Prop-Making "Retirement"
+BW2l9UE05No 8:47 Ask Adam Savage: Criteria for Removing Items From Shop
+KvnWuo_vTFU 9:58 Ask Adam Savage: Origin Story of the Cave
+8-1NoqJXX-c 6:32 Ask Adam Savage: If I Could Rebuild My Shop From Scratch
+UBIoaI_zqxU 6:33 Ask Adam Savage: Pegboard and Other Storage Solutions
+rpBxyXYzJnU 8:13 Ask Adam Savage: Inspiration from Cosplays Seen in Recent Conventions
+25eZ17IoRK4 11:34 Ask Adam Savage: On Storage, Compressed Air and Expendables
+04uc8uEE36k 10:13 Ask Adam Savage: Making a "Renter Friendly" Home Workshop
+dNry9KLISYo 5:30 Ask Adam Savage: 3D Printer vs Vacuum Former for Cosplay
+sHz3zZu3Z0o 8:54 Ask Adam Savage: Managing Distraction While Working
+sN-wQYRDECw 12:15 Ask Adam Savage: How Mandalorian's Digital Effects Are Game-Changing
+NRDWkJbrcrU 11:43 Ask Adam Savage: On Interacting With Fans
+KoEw_A1MfC0 11:40 Ask Adam Savage: Is Hacking Making?
+L-s3jFny6M8 12:19 Ask Adam Savage: Has Celebrity Changed Adam's Con Experience?
+uK-0Yndxmss 11:27 Ask Adam Savage: Managing Anxiety When Delivering Creative Work
+kDzhe6Ll1sA 14:50 Ask Adam Savage: On Turning a Hobby Into a (Still Enjoyable) Business
+Gf-7RlvDeaw 12:14 Ask Adam Savage: How Scripted Was Shark Week?
+tiByvxW3-SQ 9:12 Ask Adam Savage: On Being Clever vs. Good in the Workplace
+-GzHr2MYS0w 16:47 Ask Adam Savage: On Being a Freelancer (and Setting Prices)
+NSPHIP9BM8I 12:01 Ask Adam Savage: My Past in Theatre
+1wR9i5BLjeU 10:49 Ask Adam Savage: My Worst and Most Tedious Jobs
+YpEHNIADWiA 10:22 Ask Adam Savage: First Job Ever Plus That Charmin Commercial
+uiS1iR9uWQU 10:24 Ask Adam Savage: How Much Is Cosplay Physical vs. Mental?
+rnfbjySCtCU 5:43 Ask Adam Savage: Machining vs 3D Printing
+x0N2A8lNUXo 9:47 Ask Adam Savage: Transforming Toys into Realistic-Looking Props
+D4ZYMUc8vng 12:58 Ask Adam Savage: "How I Broke My Neck"
+V4PrNE8HsuI 12:18 Ask Adam Savage: "Which Star Wars Scenes Bring You Joy?"
+mzC97eXYrDI 4:35 Ask Adam Savage: MythBusters Celebrity Guests That (Sadly) Never Happened
+5A6ZGOmV0CM 7:16 Ask Adam Savage: Favorite Object Built on MythBusters
+ZuW7_-rbvJc 5:24 Ask Adam Savage: Which Previous Job Adam Would Do Again (and Again)?
+Nr81hpP5wK4 6:55 Ask Adam Savage: The Day I Saw Unparalleled Joy on Jamie's Face
+RTa_oneCUPg 11:51 Ask Adam Savage: When to Intervene and When to Let Mistakes Happen
+uXL8zhR17ts 15:37 Ask Adam Savage: Thoughts About Galaxy's Edge
+x6c32uqznyQ 15:18 Ask Adam Savage: When Good Lightsaber Battles Go Bad
+HNzigDaI5u8 12:15 Ask Adam Savage: Why Waterslide Wipeout Was Less Fun Than It Looked
+xjHGCalVf6U 8:16 Ask Adam Savage: Managing Failure as a Maker
+ELauebvLb1M 15:17 Ask Adam Savage: Coping With (and Learning From) Failure
+y-0bBTuLAR8 11:09 Ask Adam Savage: Favorite Life Experience as a Result of MythBusters
+tgx0bPAi8Q8 6:56 Ask Adam Savage: Learning to Stunt Drive on MythBusters
+thRFK-MSZAw 6:26 Ask Adam Savage: MythBusters' Contribution to Science
+jHwM-nnG-vI 9:45 Ask Adam Savage: Collecting Failures
+LihTFh63wpM 14:01 Ask Adam Savage: Managing Negative Emotions During a Build
+jEfQAo-BuB0 7:19 Ask Adam Savage: "Why I Actually Hate Duct Tape"
+2T7lh1HzZjw 9:14 Ask Adam Savage: How to Approach Building an Accurate Costume
+8FBNmf9H-_4 10:01 Ask Adam Savage: Performing for an Audience vs. a Camera
+T6BlB3l-F4U 7:14 Ask Adam Savage: Proportion vs. Measurement in Cosplay
+9a1eQAge2sg 11:06 Ask Adam Savage: Choosing Which Version of a Character to Cosplay
+T5fjMnfSSbQ 7:23 Ask Adam Savage: A Caution Against the "Comparing Mind"
+hSAuQETf79M 6:35 Ask Adam Savage: Which Myth Didn't Get the Love It Deserved?
+16ctTeUJvSU 13:03 Ask Adam Savage: How Adam Chooses His Cosplays (Plus a Nathan Fillion Story!)
+HU--YQtD-xk 6:59 Ask Adam Savage: Training a New Shop Employee With "All the PPE"
+v3TYRKECRNA 7:13 Ask Adam Savage: Predicting Results on MythBusters
+_iu7u0SQCUk 13:37 Ask Adam Savage: How MythBusters' Crew Size Changed Over Time
+8UXDae5czgs 7:08 Ask Adam Savage: On Sharing Your Workshop
+sosCBJv2tV8 6:59 Ask Adam Savage: Shop Anchor Points
+XorzjtqIDWM 6:53 Ask Adam Savage: Testing the Bulletproof Water Myth
+QCcIdfIdfD0 6:58 Ask Adam Savage: Designing Mobility in a Small Shop
+g7nz1yCPFk0 4:59 Ask Adam Savage: How to Keep Track of Rarely Used Items
+ZMIetBwWKoI 5:36 Ask Adam Savage: How Dangerous Was Duct Tape Canyon?
+Sn6_TE9i5r8 9:00 Ask Adam Savage: About M5's Wall of Labeled Storage Bins
+dsN__voQd8o 10:32 Ask Adam Savage: Tips for Setting Up a Workshop
+beVj_xinOHY 12:33 Ask Adam Savage: When Good Materials Go Bad
+v6JPhkWg_ok 8:44 Ask Adam Savage: Testing Myths With "No Basis in Science"
+xUjcHW7SHaI 11:05 Ask Adam Savage: Plane on a Conveyor Belt Controversy
+oFrjTAa7N4M 7:22 Ask Adam Savage: The Importance of Practical Effects
+am5MLfCk8dc 10:37 Ask Adam Savage: "Which film most impacted modern cinema: Blade Runner or Alien?"
+Z4dG9DYGSdA 11:56 Ask Adam Savage: The Myth More Dangerous Than It Seemed
+vpAb8YkKKWg 10:50 Ask Adam Savage: Favorite Actor from Alien
+Z9UIbpuppkM 9:19 Ask Adam Savage: About MythBusters' Narrator
+Lcf0IOb0VY0 7:31 Ask Adam Savage: Working on R2D2 at ILM
+h70kbIzPgig 13:09 Ask Adam Savage: How Lead Balloon Changed MythBusters
+mFwzgXnxG30 7:09 Ask Adam Savage: Why M7 Spun Off from M5
+bUAa1TgSY1c 9:30 Ask Adam Savage: Testing Fiction-Based Myths on MythBusters
+EAlX_NOFYDI 12:04 Ask Adam Savage: High Speed and MythBusters
+ztE3xoVDtG0 6:30 Ask Adam Savage: Voight-Kampf Machines and Electric Sheep
+2FyfZeAgv54 4:06 Ask Adam Savage: Myth Adam Would Like to Test Today
+rdNPws3pyHw 10:14 Ask Adam Savage: Why I Still Like Blade Runner
+uw4csWqepkA 10:41 Ask Adam Savage: How MythBusters' Stunt Training Later Saved Adam's Life
+Uxx4Y1lOM00 12:43 Ask Adam Savage: Favorite Blade Runner Cut (Plus: Is Deckard a Replicant?)
+zdkqBWtVNSA 14:04 Ask Adam Savage: Savage Builds' Complex Builds, Plus Those Rocket Gloves
+DXWzAcWj6b0 13:40 Ask Adam Savage: Remembering the U2 and Blue Angels Flights from MythBusters
+H6yVtuPG1lc 13:58 Ask Adam Savage: Working With Tory on Savage Builds
+ei2jLKORXn4 14:19 Ask Adam Savage: Savage Builds Wheel of Death Re-Do and Unrealized Ideas
+2WFFhicVeXI 12:00 Ask Adam Savage: Origin of "I Reject Your Reality ..."
+zyNdK6iXcyM 8:57 Ask Adam Savage: Most Important Myth
+4OnOyyTyvcc 11:29 Ask Adam Savage: "Is ADHD a Positive or Negative for Makers?"
+XkRHl8v5vrU 4:35 Ask Adam Savage: "Would You Go Back to ILM?"
+COh6jTqWZmU 15:46 Ask Adam Savage: "What's Your End-of-Life Plan for Your Shop?"
+yqmPea6d8ec 8:30 Ask Adam Savage: From Messy to (More) Organized
+mwdHPG_heV0 8:44 Ask Adam Savage: Public Education, Doctor Who and Scissors
+ebDc1uWiJD4 11:04 Ask Adam Savage: The Importance of Portfolio
+4CHlcNqB20Q 8:42 Ask Adam Savage: Props from Literature and Favorite Animation as a Youth
+YBILSR7Hu5o 9:36 Ask Adam Savage: Best Age to Introduce the Creative Process
+7vRG0QpAT24 7:57 Ask Adam Savage: When Grant Met NSYNC
+8aOzfsbex8U 3:50 Ask Adam Savage: Favorite Recent ILM CG or Artwork
+qvU5PZgSowk 9:06 Ask Adam Savage: "Was ILM Your Dream Job or a Stepping Stone?"
+ZN-9DiI4jr0 10:11 Ask Adam Savage: Digital vs. Practical Effects, Boredom and Never-Seen Props
+qvBAoxuf9zE 11:36 Ask Adam Savage: ILM Hiring Practices and Prop Policies
+j26Xc4ngIaM 8:33 Ask Adam Savage: Most Valuable Skill Acquired at ILM
+PhkZQeTQ6oM 5:31 Ask Adam Savage: How Ridiculous Was Filming the MythBusters Herding Cats Episode?
+2GGkWdLm7PI 10:19 Ask Adam Savage: My First Day and Movies at ILM
+IkawOT_Cg-s 8:41 Ask Adam Savage: Would You Have Changed Anything About MythBusters?
+mxPQBIu_Hro 8:43 Ask Adam Savage: Were Any Myths Deemed Too Simple to Test on MythBusters?
+AkBxe0DXzZs 7:07 Ask Adam Savage: Most Obscure Skill Acquired During MythBusters
+4u7I-6AcA00 6:38 Ask Adam Savage: "Which MythBusters' Result Impacted Your Everyday Life?"
+kaI-Ri7Ias4 7:23 Ask Adam Savage: What Projects Are Best to Attract New Makers?
+HMzg0bVY2Ds 11:09 Ask Adam Savage: Key Quality in a MythBusters Reboot
+8wG-gr_IRHQ 9:34 Ask Adam Savage: Most Surprising MythBusters Result
+rDnGHwqnfyM 10:33 Ask Adam Savage: M5 vs. M7 Myths
+GC4oa5YKN-M 6:35 Ask Adam Savage: "Are You a Ghostbusters II Fan?"
+VEgqBVdsJZg 9:34 Ask Adam Savage: "Do You Own a Screen-Used Prop from Ghostbusters?"
+DUsBoLT1Yv8 5:25 Ask Adam Savage: What Is a "Maker"?
+-AvhYMPvPR4 5:45 Ask Adam Savage: Is Adam an Adrenaline Junkie?
+gGzGX8YfSaw 6:53 Ask Adam Savage: Prototyping on MythBusters
+N-XpBXr7YHQ 12:00 Ask Adam Savage: Ghostbusters' All-Female Reboot, Abandoned Props and FX
+MOsOlF0-Gas 7:01 Ask Adam Savage: The Myth That "Got Away"
+MhPrj-32Y88 9:05 Ask Adam Savage: "Do You Have a Bill Murray Story?"
+StQcRsCkIjw 8:13 Ask Adam Savage: Those Scripted MythBusters Blueprint Segments
+_9bfOcx4h-4 8:35 Ask Adam Savage: Favorite Wood for Building Storage
+qSDzoOQxG-I 9:08 Ask Adam Savage: Exciting Maker Tour Discoveries
+I5ol3lM2HDo 9:56 Ask Adam Savage: Pros and Cons of "Worldwide Fame"
+iUNnmuMkGxs 7:44 Ask Adam Savage: "Is There Anything Too Dangerous to Repair Yourself?"
+fsb8NxzNozo 4:31 Ask Adam Savage: LEGO MOCs
+-8JUTYj7Q30 16:02 Ask Adam Savage: What MythBusters DIDN'T film, the Bomb Range and Simultaneous Myths
+wSoCA0bO1_M 11:19 Ask Adam Savage: "Did MythBusters Influence Your Current Creative Problem-Solving?"
+cgFmFqh90PU 13:02 Ask Adam Savage: MythBusters' Unsung Heroes
+zyFAlep9CA4 8:48 Ask Adam Savage: Grossest MythBusters Myth
+OSMLCySKMWo 8:23 Ask Adam Savage: First Thought When Jamie Asked Me on Board
+U0QqMQ2Makg 12:12 Ask Adam Savage: "Was MythBusters Intended to Be Educational?"
+mlBnrx5Z3Ww 9:55 Ask Adam Savage: "Do You Lament Being a Generalist?"
+EDLU4k9R81c 9:00 Ask Adam Savage: "Why Do You Refuse to Acknowledge Some Indiana Jones Films?"
+jp2wZ4q68FQ 5:45 Ask Adam Savage: Tips for Projects in a Limited Work Space
+a6voK4rDiUM 13:43 Ask Adam Savage: Stolen Indiana Jones Whip Update
+HypnuwjJUgY 5:37 Ask Adam Savage: Ideal Qualities in a Collaborator
+h-5hIMkLxRs 12:23 Ask Adam Savage: Essential Pieces for Indiana Jones Cosplay
+hjINCIPY4Wo 4:58 Ask Adam Savage: Organizing Tupperware
+nTmpDF3VtwQ 11:33 Ask Adam Savage: Favorite Scene from Raiders of the Lost Ark
+pZ2qSzZPyPw 11:40 Ask Adam Savage: Fondest Berkeley Repertory Memories
+DQnS5SdZ9BE 3:39 Ask Adam Savage: Preferred Sketchbook
+hjx2vezyhj4 3:43 Ask Adam Savage: Most Underappreciated TV Series
+B9aa__BK8Zk 16:30 Ask Adam Savage: What Books Changed Your Way of Thinking?
+wldwf-9B-Us 13:17 Ask Adam Savage: Researching and Recommending Tools
+Af-jExEh4SU 3:39 Ask Adam Savage: Best Pen for Writing Labels
+nIP3AI8DsG0 4:47 Ask Adam Savage: How to Find Garage Kits
+AEHsxb_rSAk 4:56 Ask Adam Savage: Destigmatizing Hearing Loss
+4BJAKHv-NLE 13:56 Ask Adam Savage: "Funny Stories about Grant Imahara"
+XGFSn2Xm8ks 1:00:23 Ask Adam Savage: "Did you ever meet George Lucas?"
+H4-jGNoMlWU 49:07 Ask Adam Savage: "Do you ever just chill out in your shop?"
+7COvFaFTAy4 40:33 Ask Adam Savage: "Do you ever feel imposter syndrome?"
+Ki0g7I3mASA 28:52 Ask Adam Savage: "Are You an Educator or Entertainer?"
+Zt3649jao68 2:49 Ask Adam Savage: What Full-Size Working Prop Would You Want to Make?
+nZZlEbttaO0 5:37 Ask Adam Savage: Career Paths for Makers and Polymaths
+HMsKjzt7Gpk 3:01 Ask Adam Savage: What's the One Thing You'd Save in a Fire?
+aWFHIfmzTYE 2:59 Ask Adam Savage: Preferred Shop Stools
+XHHp3dW-TCw 3:46 Ask Adam Savage: Costume Storage
+cHEq3HkZf-8 4:49 Ask Adam Savage: Working With Other Makers
+1jx_O0no0pY 1:12 Ask Adam Savage: What is Savage Builds?
+o_xUJfX-Hy0 4:17 Ask Adam Savage: A Movie You Wish You'd Worked On
+tZ4Uyo3oIg4 4:48 Ask Adam Savage: Least-Used but Most Important Tool
+5i1zcFjjYAE 3:49 Ask Adam Savage: The Role of Cardboard in Making
+qD528UrBNLA 3:53 Ask Adam Savage: How to Interact With Famous People
+IDcnw167dN0 2:06 Ask Adam Savage: Connecting to Crafting
+qjJwbi8yADM 1:34 Ask Adam Savage: Most Difficult Myth
+R9Qm5DQAuag 2:02 Ask Adam Savage: Failed Explosions on MythBusters
+exCrXc8hAAA 2:32 Ask Adam Savage: How Does Adam Savage Decide Next Projects?
+MwsLhlVlaZc 2:32 Ask Adam Savage: Adam's Favorite Cosplay
+1XFhm8nry-Y 2:29 Ask Adam Savage: How to Deal With Success
+yw8gFo2DJvM 3:37 Ask Adam Savage: The Role of Social Media
+OO8xF-kgMJU 1:55 Ask Adam Savage: Nourishing Kids' Interest in Science and Art
+8VDiTgL0qL4 2:15 Ask Adam Savage: Cosplaying as a Celebrity
+GRSq75EdzmE 3:11 Ask Adam Savage: Ah-Ha Moments
+e3YB3z0YIh8 1:18 Ask Adam Savage: Small, Extra Arms vs. Prehensile Tail
+Nx73IDlgSF4 2:34 Ask Adam Savage: Favorite Guest on MythBusters
+CaFR4vGKrvc 1:50 Ask Adam Savage: Which Tools Don't Work?
+Xwpufxg__6A 1:28 Ask Adam Savage: Best Adaption of a Book
+-BM_ghu0qq8 4:03 Ask Adam Savage: Worst Injury While Making?
+kmHgfmkEwDE 3:25 Ask Adam Savage: Getting Over Maker's Block
+8Cu9Zxr-fjg 3:43 Ask Adam Savage: Favorite Shop Tools!
+jY3O8Kt2IVg 3:09 Ask Adam Savage: Favorite Things to Take Apart
+X-UWkbx3ppU 2:24 Ask Adam Savage: State of Mind for Making
+lgQ2N-dFgQc 2:01 Ask Adam Savage: Overcoming Large Learning Curves
+LImkIx2wasw 2:12 Ask Adam Savage: Old vs New Technology
+4t1B0iH4jb4 2:20 Ask Adam Savage: Tips for Kids to Become Makers
+GVnoTrJNAtc 3:07 Ask Adam Savage: Who Cleans Up the Mess after Builds?
+yzYS9yEcJAY 2:48 Ask Adam Savage: Giving Ourselves More Credit
+9okIF3RZRcc 2:36 Ask Adam Savage: Recovering from a Mistake
+J-9dGGKAQPE 2:15 Ask Adam Savage: Biggest Explosion?
+0PQul0uH_oc 2:43 Ask Adam Savage: Most Satisfying Recent Project?
+iCl8ek0gLPA 3:44 Ask Adam Savage: Being Dropped in Bubble Wrap?
+40dx0L5t8-s 2:31 Ask Adam Savage: What Do You Do After Work?
+
+dpgVOHFhI6M 10:47 LEGO Horizon Forbidden West Tallneck Lighting Kit Build!
+sMV99wKhcLg 8:29 Adam Savage Inspects a Prototype Machined Brass Pen!
+dYaS2MeXQk0 9:15 Adam Savage's Favorite Tools: Cordless Heat Gun!
+NM9Hxpk_tPo 18:32 Adam Savage's One Day Builds: Annular Cutter Storage!
+fSIC_xODA_o 10:22 Star Wars Vintage Action Figure Guides!
+aZYOugt3Bmw 15:24 Inside Wētā Workshop's Animatronics Lab!
 CERnsE9nlfQ 17:21 Making a Custom Figure Display Case with LED Spotlights!
 t3dfhHEj0Ow 20:38 How Wētā Workshop Creates "Bigature" Landscapes Out of Foam!
-UUNBBNLCqmU 7:39 Ask Adam Savage: Best Glue for Foam
 Zi4Zsu5y-mw 15:02 Show and Tell: 2001 A Space Odyssey 1/6 Scale Spacesuit!
 1GCy0oOSPYo 11:02 What Adam Regrets About His Tattoo
-eGRfEvMEoSM 6:16 Ask Adam Savage: "Do You Have Lucid Dreams?"
 rbZ33EWIZt0 16:05 How to Make Laser-Cut Wood Kits Look Handcrafted!
 SGUtT2Lo944 1:16:13 Adam Savage's One Day Builds: AT-AT Walker Garage Kit!
 Tr5JBIiXI88 17:52 World-Building a "Bigature" for Wētā Workshop Unleashed!
 uK9XO_Qmt9E 18:47 Adam Savage Lockpicks Open This Tachograph!
-qQlF7upgTlA 10:03 Ask Adam Savage: "What Do You Think Will Be Your Legacy?"
-7KllsOwtHK0 7:39 Ask Adam Savage: Ark of the Covenant Replicas and Duct Tape Bullwhips
 hD94rKE0aAQ 14:12 Let's Build: Transformers ThreeZero DLX Jetpower Optimus Prime!
 l9jVjAUiraw 19:08 Adam Savage Behind the Scenes at Wētā Workshop Unleashed!
 FFt_6ANv1FA 55:54 Adam Savage's Live Builds: KiwiCo Astronaut Starter Kit!
 Cx3z5Xv6J5o 1:26:22 Adam Savage Upgrades His R2-D2 Astromech Droid Build!
-5CRSXcoasQQ 12:00 Ask Adam Savage: Creating With ADHD
-W7XvCLDzY10 7:51 Ask Adam Savage: How to Set Up a New Shop
 U07mw3eQurw 33:56 How To Easily Apply Gold Leaf To Your Artwork!
-KZWWL3Kdhhk 9:04 Ask Adam Savage: On Sharing Space With Mrs Donttrythis
-vyCrHLYiGNo 10:09 Ask Adam Savage: Efficiency and First Order of Retrievability in Shops
 y0kxoQi4m5Q 32:26 Adam Savage Restores a Leather Briefcase!
-6LqBJzLB5jg 5:57 Ask Adam Savage: Best Tools and Projects for First-Time Makers
 xw8DCnuFwkE 36:27 How to Make Vintage Hand-Painted Signs with a Laser Cutter!
 JjuXjqy3AFA 9:13 Adam Savage's 'Man with No Name' Holster Replica!
-L3D8BhJIfL0 11:12 Ask Adam Savage: Avoiding Accidents and "The Hands"
 ApZy-PSeytM 14:55 LEGO Minifigure-Scale Airbus A380 Airplane! (40,000+ Bricks!)
-eS8aLmXEmQQ 11:20 Ask Adam Savage: When to Ask for Help on a Job
 n564Cw0lHLk 19:57 Adam Savage's Curta Calculator Gets CT Scanned!
 rioVXjVCSYI 6:15 Awesome LEGO Chinatown Themed Cityscape!
 RfNIlmKXOWg 32:40 Adam Savage's One Day Builds: Custom Poker Chip Carrier!
 eC2kqv-yKHk 9:28 Massive LEGO Eiffel Tower! (25,000+ Pieces)
 uJuH_b-vSiQ 40:29 Bandai Cup Noodle Model Kit?!? Let's Build It!
-TpqUG6iFEBE 7:38 Ask Adam Savage: What's the One Thing Visitors Flock to in The Cave?
 onZDAKJq6z4 7:52 Adam Savage's Aluminum Foil Ball Cut In Half! (Ft. Waterjet Channel)
 iA5ZMHQzhr4 10:01 Adam Savage's Collection of Narnia Swords!
 DPTu47FBkpg 46:04 Adam Savage's One Day Builds: Chinatown Stunt Knife (Corridor Crew FX Challenge!)
-IVE3G_uCW1Y 9:05 Ask Adam Savage: Building vs. Modifying Tools
 dXbd6XC7WyA 3:15 Adam Savage Inspects the 'Passengers' Spacesuit
-WBbxrHO8zq8 7:28 Ask Adam Savage: Favorite Miniature and Jumbo Versions of Tools
 6Imz_hZf1Qg 11:18 Star Trek Filming Miniature Model and Hand Props!
-8Q_7nkvjl-g 8:58 Ask Adam Savage: The Origin of Adam and Jamie's "MythBusters Look"
-usB6jqa4Yt4 7:56 Ask Adam Savage: When to Buy and How to Mark Your Tools
 YrfIMtjYIWQ 9:18 Original Star Trek Uniforms and Borg Costume!
 E9nBwursJpM 11:14 Adam Savage Inspects Original Aliens Colonial Marine Props!
 l3EsiXhNGTM 8:28 Original Animatronic Gizmo Puppet From Gremlins!
@@ -2013,61 +2263,42 @@ CTtNXOQ0Eiw 6:58 The Original Terminator T-800 Metal Endoskeleton Arm Prop!
 rr7j7ie-Y9Y 7:47 Silicone Creature Masks at Monsterpalooza 2022!
 5Jj8gZW_BkM 8:51 Batman's Original Working Grapple Gun Prop!
 Arm0Mvx45Us 12:28 Adam Savage's One Day Builds: Adding Casters to Costume Cases!
-riyvh8zOG_A 5:58 Ask Adam Savage: On Reading Critical Viewer Comments
 vwJo-ik39eE 9:27 Concept Sculptor Simon Lee's Monsterpalooza Showpiece!
 k4Ps9-1naUk 10:35 The Sci-Fi Robot Helmets of BurgerStrings!
 YIW8KHn_mBo 10:04 The Stop-Motion Animated Puppets of Gremlins 2!
 TjS2GE_MuC8 11:40 Adam Savage Meets Original Kill Bill Bride Katana Prop!
-G9TJQEJJZKI 6:58 Ask Adam Savage: Current TV Series Adam Would Want to Address on MythBusters
-fWZ8rUEdhUc 7:58 Ask Adam Savage: What's on Adam's Personal Bucket List?
 52nftjuvCzo 9:43 HasLab's Reva Force FX Elite Lightsaber Prototype!
-WrGW5oGnILo 7:58 Ask Adam Savage: Setting Up a Shop in Your Garage
 aey9t9rOFGU 11:19 Star Wars Archive Collection Character Maquettes!
 A4v97zfHzcU 28:44 Adam Savage's One Day Builds: Aliens Welding Torch!
 1qtdH5yFt04 8:44 Life-Size Star Wars Imperial Probe Droid Robot Build!
-2tZ0EGJIgD8 15:16 Ask Adam Savage: Adjusting to Life Post-Mythbusters
 Zqz05dYFYu8 13:17 Original X-Wing Model from Star Wars: Episode IV!
-jIAbRPW0jXg 5:41 Ask Adam Savage: On Making "In Universe" Prop Build Decisions
 rOWF3LPTqD0 17:48 Elegoo Saturn 2 8K Resin 3D Printer: First Test Prints!
 hAp4W18qX14 17:08 Adam Savage Stunned By This AT-AT Walker Garage Kit!
 SSvcKIa1Uws 1:02:37 Adam Savage's One Day Builds: Moby Dick Diorama Maquette!
 heVfGT0f22k 27:45 Adam Savage's Guide to Sanding Tools!
-E1tuc-levnI 6:14 Ask Adam Savage: Do I Want to Go to Space?
 SBvohm4TaN0 32:48 The Amazing Miniature Sign Builds of Route 9 Signs!
-a6E0FMtdJpM 10:51 Ask Adam Savage: Who Modified the Cars on MythBusters?
 5kYtfwKXzSQ 3:55 Adam Savage Tests His Temporary Ruler Tattoo!
 rzJG_TapQZI 13:55 LEGO Star Wars Trench Run Automata + Lighting Build!
 2MlWsXDsKc8 12:07 Adam Savage Unpacks Fan Gifts from Planet Comicon!
 7KN9wF3DlaU 27:51 Tested: SLR Magic Cine Lenses for Micro Four Thirds Cameras!
 K0FcUntHyKw 58:02 Adam Savage's One Day Builds: Razor Crest Mods, Part 1!
 2u1z1bApFo4 14:40 How to Use Threaded Inserts for Wood, Metal, and 3D Prints!
-aRln8atkNaY 13:43 Ask Adam Savage: Behind the MythBusters Cement Truck Explosion
 b94cKIw435E 9:09 Show and Tell: Adam Savage's LEGO Minifigure Collection (Including Muppets!)
-mqXtr7C5VCg 11:45 Ask Adam Savage: Job Interview Advice, Jamie's Flamethrower and More
 YfoHVH6wwRo 9:54 Let's Build: Japanese Steamed Bun Shop Kit!
-lbnGzrLWlBw 5:25 Ask Adam Savage: The Origin of M5, M6 and M7 (Plus, Their Neighbors)
 7DjbNwhhDdE 9:21 Why Adam Savage ALWAYS Uses Center Drills
 GtLCJ2b6XEc 21:46 Adam Savage's One Day Builds: Mandalorian Vibroblade Kit!
-DNhbUQhiVf8 7:51 Ask Adam Savage: Will I Ever Retire, Plus Combatting Negative Feedback
 ev2MGnrxHIo 18:02 Adam Savage's Chronicles of Narnia Telmarine Armor!
 jC0Uxc5RKGg 8:32 Jack White Made Me This Surprise Gift!
-Bh6VLA7uUvM 11:21 Ask Adam Savage: The Challenge of Using Explosives and Firearms in San Francisco
-I1XVHq3sTdk 7:59 Ask Adam Savage: When to Keep/Store a Project, Plus Favorite Puppet in Film History
 FUqD4FMtI-8 23:23 The Wandering Earth 1/6 Spacesuit Lighting Mod!
 WkLf69Cy-q8 15:19 A Tale of Two Syd Mead Blade Runner Blasters
 m9lFcduaZPU 6:43 Adam Savage's Rant on Laser Printers
 iAMPkNggLJ0 16:35 The Origin of Ghostbusters' Belt Gizmo Prop!
 5RL7EYSbc_g 55:52 Adam Savage's One Day Builds: The Matrix EMP Switch! Blitzway's 1/4 Scale Apollo 11 Astronaut!
-MztikUm9T1c 15:34 Ask Adam Savage: My Favorite Build of Jamie's
 NMGtR9OLAao 19:17 LEGO Back to the Future DeLorean + LED Lighting Kit Build!
-c6TopwNu7Ok 8:22 Ask Adam Savage: How Useful Is My Tattoo?
 elIcfzl3-e0 28:52 The Color Theory of Star Trek Costumes in 1/6 Scale
-6HV37guAllc 6:23 Ask Adam Savage: Makers in the Film Industry
 d5MTFw9gUc8 8:21 Ghostbusters Prop Replica: Venkman's ESP Test Machine!
 wmjZL8nm3MM 46:58 Adam Savage's One Day Builds: Inglourious Basterds Knife Replica!
 YY1_X_-cTpM 21:34 Adam Savage Repairs His 20-Year-Old Shop Sign!
-l1RemggFxwA 8:16 Ask Adam Savage: How to Weather Leather
-jP4DGyMUbMA 6:50 Ask Adam Savage: My "Why Didn't I Think of That" Moments
 98C9zxR4xTk 25:57 How to Make Diorama Bushes with Old Paint Brushes!
 zR4X775Y-9E 34:51 Adam Savage Reacts To His First One Day Build!
 DxEn4Zj7tow 11:48 Adam Savage's Spring Collection!
@@ -2079,183 +2310,129 @@ ammrI9a1GoU 8:47 Quick Builds: 1/220 Scale Papercraft Model Kit!
 0M93BCHCjAs 5:44 Adam Savage's Favorite Tools: Solvent Dispensing Can!
 o8_8T3IoouU 14:25 Star Trek: The Motion Picture's 1/6 Scale Figures!
 GBr13DOC2j8 22:37 The Making of Modern Star Trek Figures
-Z10JnKiu4Tg 6:49 Ask Adam Savage: Post-Build Depression, Custom Lightsabers and Unfinished Blasters
 FuMf6-9ZsJo 40:29 Adam Savage's One Day Builds: Vintage Bicycle Restoration!
 cfmqdNTN8rk 22:45 How to Make Fake Concrete Sidewalks for Dioramas!
 ruSOwI2xAYI 28:29 Adam Savage's Apocalypse Now Kurtz Dossier Replica Project!
-AlcLyaOw-ls 8:22 Ask Adam Savage: The "One Day Build" Concept
 rL7k8kjIdow 1:03:48 Adam Savage's One Day Builds: James Bond's Spectre Cane!
 veSJ4K5rwWU 14:30 LED Lighting for Miniatures and Dioramas!
-8fgfi7Kc1hg 13:30 Ask Adam Savage: How I Jump Back Into a Set-Aside Project
 NMEkK9cdEqg 30:44 Adam Savage's One Day Builds: RoboCop 2's Cain Stop-Motion Puppet!
-DXyc91HL7Y8 7:47 Ask Adam Savage: Does Self-Filming Make Builds Longer?
 0lAHy9cW-ps 13:20 How to Make Diorama Landscapes with Foil and Plaster!
 9cE4c61Ya0g 13:03 Adam Savage's Dirk Gently Steampunk Crossbow Hero Prop!
-LprSB3_rles 11:12 Ask Adam Savage: When to Make vs. Buy Something
 jOXidWIB-gY 20:13 Adam Savage's One Day Builds: Drill Press Modifications!
-8mXv0_N_NHg 8:17 Ask Adam Savage: The Myth Jamie Suggested That I LOVED (But We Didn't Do)
 vCzSaO4yajI 21:37 Cyberpunk 2077 Diorama Display Build!
 BfQb7giwRz0 11:59 Behind The Scenes of Adam Savage's Dart Blaster Video Shoot!
 4GcuGnjv2Aw 29:01 Adam Savage's One Day Builds: Special Effects Syringe!
 uHukgTMBzKk 16:39 How To Turn Your Sketches Into Digital Drawings!
 ioLtieMWRT8 5:39 Adam Savage Demos Hydraulics with Cheap Plastic Syringes
-qkz19jFh7x0 8:06 Ask Adam Savage: Bailing on Boring Projects
 7og5Ps7Cx0Q 34:19 Reorganizing Adam Savage's Workshop Materials Stock!
 H9eqjVIH6OE 53:16 Adam Savage's Live Builds: KiwiCo Articulated Desk Lamp!
-FIDJ2XMTb_s 10:06 Ask Adam Savage: Land Cruiser Pros and Cons Plus Drywall Screws
 9LVFVTMleio 46:32 Adam Savage’s One Day Builds: Head-Mounted Dart Blaster!
 UtQTIZSf8Mo 38:38 Guide to Prototyping in Cardboard and Foam Core!
 nCoeD7okrU8 8:12 Leonardo Da Vinci's Codex Leicester Replica!
-stMPdtH3S9E 11:10 Ask Adam Savage: Metric Blocks, Biscuit Bazooka and Barrel of Bricks
 8PN8MPw-NE0 23:13 Adam Savage's One Day Repairs: UGG Boots Part Deux!
-L5De68zSf14 11:55 Ask Adam Savage: Should You Take Jobs at a Loss to "Get Your Name Out"?
 YIbb-Bck8wc 46:43 Adam Savage's One Day Builds: Blade Runner 2049 Helmet Parts!
 LttWb771mjw 11:07 LEGO Airplane Dogfight Kinetic Diorama!
 q_YZX1SgZ5Y 27:32 Adam Savage Takes the Aluminum Foil Ball Challenge!
-_Xt-YHdRlQI 12:00 Ask Adam Savage: Stewart/Colbert Rally to Restore Sanity and/or Fear Invite
 bzJE9Rlb_3s 25:40 Adam Savage's One Day Repairs: Old Wood Hand Plane!
-IuF1tWlV6nE 9:33 Ask Adam Savage: Blade Runner 2099, Workbench Tops and Custom Lightsabers
-psgf9pqjkPs 8:37 Ask Adam Savage: Is Failure Still an Option?
 _cZJSHDMxTs 9:55 Show and Tell: Adam Savage's Custom Welding Cart!
 uzF351VecZA 40:38 Adam Savage's One Day Builds: Painting The HasLab Razor Crest!
-qPlWUFxXFGs 10:24 Ask Adam Savage: Tips for Organizing Reference Materials (Both Digital and Physical)
 kRXcDIwq4XM 24:28 Adam Savage's Leonardo Da Vinci Notebooks Collection!
 b581gVb34AQ 11:04 Portable Smoke Machine for Cosplay and Props!
-5Oe2S_xvL5o 9:01 Ask Adam Savage: The MythBusters Pilot Episodes
 xHS83PFsek4 24:20 Adam Savage's One Day Builds: Weathering the Blaster Vault!
 PX0ra2GarkM 12:49 Adam Savage Explains What to Do When You Drop Gobs of Loose Hardware Valve's Handheld Gaming PC Tested!
-WfyZuedOsF4 9:12 Ask Adam Savage: On Finding Organizational Inspiration and Discarding Things You Need Later
 jxDSEulomCg 43:06 Adam Savage's Sci-Fi Blaster Storage Vault!
 Ub0efbg1caw 13:58 Adam Savage's Guide to Flush Cutters and Nippers!
 R33QA--RdYc 9:37 Adam Savage's Favorite Screwdrivers Sent By Fans!
-9mxGo7QglRU 12:36 Ask Adam Savage: Transitioning From Jamie's Employee to Equal
 xMkJGIWrtVA 19:30 Adam Savage Restores An Old Desk Chair!
-CVU3EZnjmUg 9:33 Ask Adam Savage: How to Store One-Off Items (Plus Home Organization Issues With Mrs. Donttrythis)
 rQyFoKpDRAw 5:44 Why the Space Shuttle Discovery Delights Adam Savage SO MUCH
-70TZua1j3Fc 11:27 Ask Adam Savage: When to Discard Scrap Materials
 TRRRRJph9rE 14:58 Adam Savage's Vintage Cinematography Gear!
 NYkF5EwaDBU 19:29 Adam Savage's One Day Builds: RoboCop 2's Cain Robot!
 rgYby0IJSVs 26:37 Adam Savage Upgrades His Knife Sharpener!
 bNHbyebM8n4 5:24 How Smithsonian Transports and Hangs Their Historic Aircraft
 KAdg-ap-OtI 16:47 Why the National Air and Space Museum Is (Temporarily) Closing
-56NXn-6nqMA 8:58 Ask Adam Savage: Why the Hindenburg Episode Was Huge (and Fun!) for MythBusters
 wgB77v1GUEw 28:31 Adam Savage's One Day Repairs: Arriflex Camera Battery Pack
-4m-lTiCmSro 6:45 Ask Adam Savage: Airbrushing Tips and DIY Tools
 TJYK69F8ULk 45:07 Adam Savage's One Day Repairs: Arriflex 35mm Camera Motors!
 BNyKb87iU5I 9:22 Practical Special Effects of Ghostbusters: Afterlife!
 xXNg8Rlo2ak 34:38 Adam Savage Remembers His Mentor in Model Making
 Sy_cxDhWJPk 6:37 Adam Savage Inspects Amelia Earhart's Record-Breaking Aircraft!
 2ZWZjAOLeDI 10:51 Adam Savage Examines the Wright Brothers 1909 Military Flyer
-QmRXguvO0bs 13:45 Ask Adam Savage: Managing Tools and Materials When You Have Two Shops
 hX5Qsrpj9Ao 31:26 Adam Savage's One Day Builds: Surface Plate Cover
 QF4veKPSS1Y 13:09 Making An Acrylic LED Cross-Section Display!
-F_YVzJfhC6o 10:47 Ask Adam Savage: Tips for Building Within Tight Budget Constraints
 V0kQDCVU_48 36:38 Adam Savage's One Day Builds: Mini Apple Box!
 DgT4eSpAQVg 13:48 Adam Savage Visits Ghostbusters: Afterlife's Art Department!
 zMfMAePNpB4 5:17 Adam Savage Reflects on the Small Spaces Astronauts Must Endure
 -WPg7xTl6ZE 11:53 Adam Savage Checks Out Smithsonian's Mannequins!
-d4O2wtDW2LA 10:17 Ask Adam Savage: The Tool That Does Only One Thing, But Does It Well
 IeFIhKaJEFo 31:34 Adam Savage's One Day Builds: Dune Sand Compactor Replica!
 elGK9St0kJ8 5:46 Adam Savage's Quick Tips: How to Fill Nicks in Wood
 H3o2XkVjxzc 23:10 Amazing Laser-Cut Star Wars Shadowbox!
 uEcx6yb5yXQ 41:33 Adam Savage's One Day Builds: Magnetic Lathe Chuck!
 1bmB9Ms-X10 19:56 The Production Design of Ghostbusters: Afterlife!
-H0X9y0iyBmY 12:13 Ask Adam Savage: Lathe Tips (Plus Adam's Watch!)
 93D-JZ_QtUI 14:11 Adam Savage Examines a WWI Aircraft!
-qeRcHlwp2AQ 9:43 Ask Adam Savage: The Tool That Makes Adam Giddy
 kuWZyFCHRIs 18:42 Adam Savage's One Day Repairs: Cleaning Micrometer Gauges
-q3sCIpFZzfU 8:04 Ask Adam Savage: The Tool That Didn't Live Up to My Hopes
 wAOtz5uKDSk 26:30 Wonder Woman Golden Armor Diorama Build!
 ykr2IMSYDMc 30:43 Adam Savage's One Day Builds: Ping Pong Ball Launcher!
 ZoeL2lwLpXs 9:10 Creating Ghostbusters: Afterlife's On Location Set!
 NiZPuE0wBE8 40:58 Adam Savage's Guide to Model Spaceship Paneling!
 n7LFYB8B-IE 11:26 Adam Savage Tours National Air and Space's Conservation Lab!
-Gj0OMUozEKw 8:25 Ask Adam Savage: Favorite Play/Musical Experience
 jQSTJSniXKM 32:25 Adam Savage's One Day Builds: Fixing the Mill's Motor Fan
-7oieelDea5o 10:28 Ask Adam Savage: Do I Do Projects at Home?
 3qOJakmE7Pk 33:52 Adam Savage's One Day Builds: Mythbusters Blueprint Display with Kyle Hill!
 pzaXdNp38hE 18:14 Adam Savage Visits Ghostbusters: Afterlife's Costume Department!
 JPpPE0uf74E 8:20 Adam Savage's Favorite Screwdriver Design!
 5glDh3xNfEg 8:08 Adam Savage Checks Out the Apollo 11 Command Module!
-8zIOfPy7sCg 10:48 Ask Adam Savage: Myths Adam Wishes Were Taken Further
 gaJgfS_2LZ4 32:36 Adam Savage's One Day Builds: Gauge Block Storage Rack!
-V1XbZPafG7M 14:56 Ask Adam Savage: How to Deal With Creative Block
 FOwv35You7k 14:09 Adorable Mini C-Stand + D-I-Y LED Ring Light!
 u5CDKWnWpPs 9:46 How Ghostbusters: Afterlife Brought Back THAT Legacy Character [SPOILER WARNING!]
 _2kmXLP_uXg 33:13 Adam Savage's One Day Builds: Machining Mystery Prop!
 qE7dYhpI_bI 45:08 Adam Savage's Epiphany on the Science of Measurement!
 6BecCJoMRng 4:48 Grant Imahara's Scratch-Built Hoverboard
-aNwZQdUmR7A 11:58 Ask Adam Savage: Weirdest Things Fans Ask to Be Signed
-AoXNSquNsbY 14:00 Ask Adam Savage: The Myth That Pushed Adam to His Breaking Point
 0EfPI-MY2Y4 8:56 Tested: Atlas Orion Anamorphic Cinema Lenses!
 2qqxZKWSXio 12:42 Adam Savage Cosplays as Doctor Strange!
 m6VYpHdBG84 15:48 Adam Savage's One Day Builds: Weathering a Sword Blank!
 vDsVwbWiVFI 8:28 Adam Savage's Quick Electronics Wiring Tips!
 XGstRBM2UDs 15:40 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 10)
-uKlQyWwdqXk 11:13 Ask Adam Savage: Is Mrs. Donttrythis a Maker?
 fuCRr4c21mY 15:37 The Making of Tested's Short Film "The Beacon"!
 q4SHatvp_Jk 18:41 Makers Secret Santa: The Butt Keyboard From Hell!
 7bhKD5t09cY 28:33 Adam Savage's Favorite Tools: Quick-Change Tool Holders!
-QuzIlMxLnQM 12:42 Ask Adam Savage: Collaborating/Competing With Jamie on MythBusters
 e12PRNqwpHc 20:23 Behind The Scenes of Tested's Short Film "The Beacon"!
 x5DqW3RKxNA 23:01 Adam Savage's Spacesuit Secrets!
-r1uxC8RUiKU 9:05 Ask Adam Savage: Feeling Overwhelmed by STUFF
 UmEdray7a0E 14:45 Show and Tell: MythBusters Fart and Plane Boarding Props
 yzy_8tT4TO0 24:35 Adam Savage's One Day Builds: Miniature Astronaut Display!
 XYYvIRaEGR0 17:53 JoyToy 1/18 Scale Mecha Diorama Kit!
-D_yHttkfWCA 11:43 Ask Adam Savage: Origin of "Well, There's Your Problem" on MythBusters
 j7HiJWulFdo 20:22 Adam Savage in Alien's Nostromo Crew Uniform!
 9TZ5yflpmq4 42:15 Adam Savage's One Day Builds: Ghostbusters Ecto Goggles!
 BIf7fuOIB1Q 21:17 Adam Savage's Guide to Staplers and Nail Guns!
-Ie79jtBfr1M 11:59 Ask Adam Savage: Movie Scene That Had the Biggest Emotional Impact
 jk8Fu6zHFzQ 10:06 Grant Imahara's BB-8 Replica!
 l6ZRDCG1ZDA 13:38 Adam Savage's Favorite Books, Movies, and YouTube Channels of 2021!
 Zkx6GR_x7wo 9:45 Adam Savage's One Day Repairs: Broken Pot Lid!
-REXSV1x18Y8 11:37 Ask Adam Savage: Most Egregious Errors in TV and Movies
 xScE3qxQ03I 19:45 Tested in 2021: Favorite Coffee Table Books!
-fW8R-WbLQEs 11:14 Ask Adam Savage: Films Where the Props Were Better Than the Film Itself
 9yzg3a91F5o 45:20 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 4)
-EtdAto9ymA8 9:22 Ask Adam Savage: Coming Out of Prop-Making "Retirement"
 jA8D_bL5Whg 28:46 Jen Schachter’s Snow Globe Diorama Kit!
-BW2l9UE05No 8:47 Ask Adam Savage: Criteria for Removing Items From Shop
-KvnWuo_vTFU 9:58 Ask Adam Savage: Origin Story of the Cave
-8-1NoqJXX-c 6:32 Ask Adam Savage: If I Could Rebuild My Shop From Scratch
-UBIoaI_zqxU 6:33 Ask Adam Savage: Pegboard and Other Storage Solutions
 2O92DT4x0tg 1:04:21 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 3)
-rpBxyXYzJnU 8:13 Ask Adam Savage: Inspiration from Cosplays Seen in Recent Conventions
-25eZ17IoRK4 11:34 Ask Adam Savage: On Storage, Compressed Air and Expendables
 ntpthBbzK70 26:48 Playing Chess in Quest 2 Mixed Reality — Awesome Unity Slices Demo!
 HAirnq80dcQ 1:28:50 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 2)
 XhBSibI2nuA 21:36 Adam Savage and Jason Reitman Talk Ghostbusters: Afterlife!
 Uc2jXrxI1SU 32:14 Adam Savage Inspects Hasbro's Ghostbusters Proton Pack! Dune Crysknife Replica Prop!
 TjdqmqPwhks 18:45 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 9)
-04uc8uEE36k 10:13 Ask Adam Savage: Making a "Renter Friendly" Home Workshop
 yc8yHGvviY8 12:20 Camera Gear for Science Exploration and Expeditions
 OshKZcTFEZY 32:21 Adam Savage's One Day Builds: Ghostbusters: Afterlife Hand Prop!
 0FKxM-zNZBk 1:10:32 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 1)
 sSH1jS9FMcQ 12:25 Adam Savage's Favorite Tools: Drill Powered Paint Can Mixer!
-dNry9KLISYo 5:30 Ask Adam Savage: 3D Printer vs Vacuum Former for Cosplay
 ovHk5PRE_Lo 3:11 Adam Savage's Personal Connection to the Viking Lander
-sHz3zZu3Z0o 8:54 Ask Adam Savage: Managing Distraction While Working
 Y44_IgT3K9w 23:21 How To Make Mini LED Tube Lights!
-sN-wQYRDECw 12:15 Ask Adam Savage: How Mandalorian's Digital Effects Are Game-Changing
 SswGAImAlls 4:28 The Beacon | A Tested Short Film
 2Wjl_Y_iw7Y 10:13 Adam Savage Inspects Original Aliens Hand Prop!
 69JSHw4ERuk 10:33 What's Inside The "National Treasure" Book of Secrets!
 NvWEkWnnWBI 8:26 Rick Baker Mutant Mask from American Werewolf in London!
 yjd7zBd2c98 9:01 Blade's Original Hero "Sword of the Daywalker"!
-NRDWkJbrcrU 11:43 Ask Adam Savage: On Interacting With Fans
 Dx2RLH_6nJc 13:13 ILM's "Batteries Not Included" Robot Puppet!
 L5ZZq_VOHok 8:27 Original Gladiator Maximus Hero Movie Helmet!
 mbAxW6LMnpA 10:41 Adam Savage Learns About Ghostbusters: Afterlife's Visual Effects!
 dj3HqRtC-T8 7:59 Adam Savage Explains Möbius Strips and Klein Bottles!
-KoEw_A1MfC0 11:40 Ask Adam Savage: Is Hacking Making?
 zHxTO7oN7W8 53:58 Adam Savage's Live Builds: KiwiCo Tilt-And-Fold Desk Kit!
 dB6kKNF-JWE 14:08 What's In Your Explorer Bag, Ariel Waldman?
 gZcqcfH5IGA 6:26 Adam Savage's Ghostbusters Prop Department Gift!
 bdzU4Bws_4k 31:19 How Google's Wing Drone Delivery Aircraft Works
 HXzzXkJZiJU 4:00 Comparing U.S. vs. Soviet Spacesuits at Smithsonian Hasbro's Ghostbusters Neutrona Wand!
-L-s3jFny6M8 12:19 Ask Adam Savage: Has Celebrity Changed Adam's Con Experience?
 QL7bwm_FqlA 12:09 $15 Wireless LED Light Kit Tested—Does It Work?
 NhjZAkDOOck 1:01:30 Designing and Prototyping Laser Cutter Projects - Q&A!Insane Display Detail!
 n9kfjOioQU4 4:32 Adam Sees One of National Air and Space's Favorite Artifacts!
@@ -2267,7 +2444,6 @@ cS7mlM5yy1A 1:25:32 Myths Adam Regrets Tackling on MythBusters and Much, Much Mo
 _a2uE8-i_tE 15:19 Amazing Princess Bubblegum and Marceline Cosplay!
 6Uc-jDkPyjk 8:47 Grant Imahara's R2D2 Replica!
 8uLzRDExhBk 7:14 Smithsonian Welcomes The Expanse
-uK-0Yndxmss 11:27 Ask Adam Savage: Managing Anxiety When Delivering Creative Work
 zhe8d9NgcsI 19:41 How To Use Flexible LED Filament Wire for Lighting Projects!
 qfaWpsfSDd4 18:36 Haunted House Miniature Diorama Build!
 dloSR3a57IA 43:24 Adam Savage's One Day Builds: Ghostbusters Proton Pack!
@@ -2278,7 +2454,6 @@ nfYBlBNreCY 12:07 Grant Imahara's Animatronic Grogu Replica
 NxL4SLzAkao 1:27:29 Adam Savage's One Day Builds: Aliens Colonial Marines Armor!
 lDSylp8r4EY 7:25 Adam Savage's Favorite Tools: Electric Cast-Cutting Saw!
 i2crXD9HjSM 8:15 Working on a Fiction-Based Aircraft as a Smithsonian Museum Specialist
-kDzhe6Ll1sA 14:50 Ask Adam Savage: On Turning a Hobby Into a (Still Enjoyable) Business
 hsCSTO8SaQU 10:16 A Tour of Grant Imahara's Shop
 iEaf3t3KUyg 27:25 Adam Savage's One Day Builds: Hasbro Mandalorian Helmet Repaint!
 l0b960BZEAs 6:39 Adam Savage's Favorite Tools: Heat Gun and Iron!
@@ -2292,7 +2467,6 @@ It8h2YJiyhY 9:08 How the Original MythBusters Series Would Be Different Today
 Ew084i7Vmdc 10:02 How To Give LED Strip Lights Special Effects for $10
 d9N5SJpHkfY 14:29 Making Miniature Papercraft Architecture!
 9ythps074zk 9:08 Evil Dead 2's Cabin in the Woods Miniature Model!
-Gf-7RlvDeaw 12:14 Ask Adam Savage: How Scripted Was Shark Week?
 3M0JPy9LNSg 18:01 Inside an Arriflex 16mm Film Camera!
 VZyIWF1VftI 14:34 Adam Savage's Last Film Before MythBusters
 ieR2wRkTZcQ 35:02 Savage Inside: Lenovo Legion 7i Shadowbox Display! (Intel® Gamer Days)
@@ -2302,54 +2476,44 @@ lg1YuthqB9g 8:13 Adam Savage Incognito as Iron Man!
 VswBDMmMgsU 6:26 Adam Savage Drives Ghostbusters: Afterlife’s Ecto-1!
 BFXspOEUY7g 7:33 On Jamie Drinking for Science
 yhmY7csugzQ 12:42 Adam Savage and Fon Davis Reminisce About Galaxy Quest!
-tiByvxW3-SQ 9:12 Ask Adam Savage: On Being Clever vs. Good in the Workplace
 -59CTZkMI4M 5:24 How to Shoot a Zombie Volunteer in the Face Safely
 xfmD1yYqP6k 24:55 Adam Savage's First Gundam Build—RX-78-2 Perfect Grade Unleashed!
 VinT6N1yhBg 8:01 Adam Savage Inspects New Pages from Indiana Jones' Grail Diary!
 RYZgz2vfGvk 4:54 MythBusters: Where Cameras Went to Die
 tzrAM-pKErA 24:21 How Vintage 16mm Cameras Work!
 HbiO-MDyMPY 4:43 MythBusters' Largest Weapon of War
--GzHr2MYS0w 16:47 Ask Adam Savage: On Being a Freelancer (and Setting Prices)
 QVZn7YaRMd8 20:45 How To Make a Custom Neon LED Sign!
 n0IMjn7jJhY 7:59 The Mysterious Origins of Buster, the Crash Test Dummy
 wwvGwxwBwCk 18:08 Tested Favorite Tools: Paper Crafting Cutters!
 0STyxqVXaXI 11:47 Batman (1989) Original Batwing Restored!
 _CaQ3xYIb0g 43:27 Adam Savage's Guide to Cosplay and Prop Electronics!
 xeGWJLsIVbA 4:24 No Bibles Were Harmed ...
-NSPHIP9BM8I 12:01 Ask Adam Savage: My Past in Theatre
 bVCFCdiThxU 4:46 One Example of Adam and Jamie's Competing Methodologies
 SdXBi_Hgies 30:41 Infinity Mirror Mysterio Display Case Build!
 xDthNAUMXYs 15:29 How Star Trek: Discovery's Costumes Are Made!
 AQ6UpH8eUKo 6:28 Adam Savage's Mini Excalibur Sword!
 HLzSECYoIgM 3:24 Creepiest MythBusters Prop Ever?
-1wR9i5BLjeU 10:49 Ask Adam Savage: My Worst and Most Tedious Jobs
 zisLHqEr4Fw 7:54 More Weird and Wonderful Vintage Analog Clocks!
 L6ErHPYuoXI 3:25 A Physical Example of Jamie's Brilliance
 PgiyoweaPb4 18:00 How Lightfield Displays Will Make Holograms Possible
 VxvLpFUMQkU 11:10 Behind MythBusters' Early Blueprints
 2TdeBrw2g_M 2:21 Announcing Adam Savage Behind the Scenes of Ghostbusters: Afterlife!
 snNL5GgOq_c 6:52 Why "Golf Ball Car" Is Pivotal in MythBusters' History
-YpEHNIADWiA 10:22 Ask Adam Savage: First Job Ever Plus That Charmin Commercial
 KziugYW6uLk 11:20 MythBusters' Rocket Car Rockets!
 Cs5YHMgw2tY 29:33 Adventures in CNC: Making a Plywood Room Divider!
 u3QGyagPUSY 9:02 The Return of MythBusters' ROBOSHARK (from Shark Week)!
 Iyl2ZuHRNT0 8:30 Weird and Wonderful Vintage Analog Clocks!
-uiS1iR9uWQU 10:24 Ask Adam Savage: How Much Is Cosplay Physical vs. Mental?
 OLAwyHF8cwg 8:16 How We Manage All Our Video Footage + Edit Off a NAS!
-rnfbjySCtCU 5:43 Ask Adam Savage: Machining vs 3D Printing
 rSOiusnpddc 9:57 Iron Man, Stranger Things, and Transformers at Sideshow Con 2021!
-x0N2A8lNUXo 9:47 Ask Adam Savage: Transforming Toys into Realistic-Looking Props
 V60_AA7Cwgk 10:52 Hot Toys Prototype Figures at Sideshow Con 2021!
 zginChewoKU 31:35 Adam Savage's One Day Builds: 2001 Spacesuit Helmet Repair!
 vetc7rEYnjI 25:03 Adam Savage's Guide to Drill Bits!
 bg-xRlTIXnw 14:19 Star Wars Sculpts and Figures at Sideshow Con 2021!
 6pIZI-TyyGM 9:04 Adam Savage's Lifecasts Collection!
-D4ZYMUc8vng 12:58 Ask Adam Savage: "How I Broke My Neck"
 1g5XhaIp-i4 11:22 3D Printing Hagglethorn Hollow Tabletop Miniatures!
 xOPO2DskYhE 10:51 Adam Savage and Fon Davis Discuss Working on Matrix
 -imr0Cy7NQY 39:42 Adam Savage's One Day Build: Acrylic Display Box!
 HtkdNq-hiS0 12:38 Adam Savage's One Day Beard!
-V4PrNE8HsuI 12:18 Ask Adam Savage: "Which Star Wars Scenes Bring You Joy?"
 4Vliuu9KZ4I 23:04 Making a Custom Lightsaber Display!
 ifIySD3apIU 11:38 Adam Savage Reunites With Fon Davis' Mouser Mecha-Catbot from Battlebots!
 0WhqePxTYpo 23:54 Adam Savage Makes a Papercraft Animal Mask!
@@ -2367,238 +2531,144 @@ ijosoNfEBP4 37:21 Adam Savage's One Day Builds: Aliens Colonial Marines Shoulder
 0gu14BC-vEY 8:07 The FX History of the Dinosaur Input Device!
 AhO8rcGb-GE 9:19 Adam Savage Meets Original Star Wars Props!
 duIiGF7inro 8:37 Adam Savage and the Original Indiana Jones Fedora!
-mzC97eXYrDI 4:35 Ask Adam Savage: MythBusters Celebrity Guests That (Sadly) Never Happened
 CAGd_7djUF8 21:04 How to Make Custom LED Lights for IKEA Display Cabinets!
 iiZ5rh3Uo1o 1:14:52 Adam Savage's One Day Builds: Excalibur Henchmen Armor!
 IiGPSn3fklI 15:03 Adam Savage's Guide to Workshop Hammers!
 cnFynrqs7Fw 14:36 Kayte's Miniature Models from 'Real Steel'!
 dlCiIAS6fsA 26:51 Adam Savage's One Day Builds: MacReady's Hat from The Thing!
-5A6ZGOmV0CM 7:16 Ask Adam Savage: Favorite Object Built on MythBusters
 3hXfsHjDAhk 18:28 How Holographic Doom Works on a Lightfield Display!
 NNNcGCZHvxE 53:53 Adam Savage's One Day Builds: Foamcore Architectural Model!
 RWxCvMzvxlQ 15:25 Adam Savage's Favorite Tools: Great Budget Vacuum Former!
 j8_EoUXvTJk 21:41 Adam Savage's New Milling Machine!
 ajHmyFX9zvk 24:47 Adam Savage's One Day Builds: Workbench Vise Upgrade!
-ZuW7_-rbvJc 5:24 Ask Adam Savage: Which Previous Job Adam Would Do Again (and Again)?
 OUHShx43JVU 1:01:48 Adam Savage's One Day Builds: Miniature Piano!
-Nr81hpP5wK4 6:55 Ask Adam Savage: The Day I Saw Unparalleled Joy on Jamie's Face
 ieoSisOIWE4 8:56 Adam Savage's Beskar Spear Prop Replica!
 WAxxrBF5V3M 1:16:33 Adam Savage's One Day Builds: Famous Gemstones Collection!
-RTa_oneCUPg 11:51 Ask Adam Savage: When to Intervene and When to Let Mistakes Happen
-uXL8zhR17ts 15:37 Ask Adam Savage: Thoughts About Galaxy's Edge
 7D8sXR0ozeE 1:24:21 Adam Savage's One Day Builds: Animatronic Bear Head!
 ttexR6ZgBzs 18:01 Adam Savage's Guide to Workshop Scissors
-x6c32uqznyQ 15:18 Ask Adam Savage: When Good Lightsaber Battles Go Bad
 0wxpcfMB-qc 29:34 How To Professionally Frame Your Artwork at Home!
 uWdYs5R7mJk 21:24 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 8)
 0znjWy-Tr4Q 55:55 Adam Savage's One Day Builds: OneWheel Electric Skateboard Mods!
-HNzigDaI5u8 12:15 Ask Adam Savage: Why Waterslide Wipeout Was Less Fun Than It Looked
-xjHGCalVf6U 8:16 Ask Adam Savage: Managing Failure as a Maker
 mXR_0Yq25W4 14:21 3D Printing a Miniature Cityscape Diorama!
 TjvX8GiYA5w 44:30 Adam Savage's One Day Builds: Monster Puppet Kit!
 _61DYROQNNU 13:37 Adam Savage's Favorite Tools: Fabric Steamer (and a New Hat!)
 5-gurx0S1ks 21:56 Behind the Scenes: Editing Spatial Audio in Virtual Reality!
-ELauebvLb1M 15:17 Ask Adam Savage: Coping With (and Learning From) Failure
 QWBFHoJrosY 35:49 Adam Savage's One Day Builds: Star Wars Acrylic Paints Rack!
-y-0bBTuLAR8 11:09 Ask Adam Savage: Favorite Life Experience as a Result of MythBusters
 l4Uew4czJ1o 41:51 Adam Savage's One Day Builds: Queen Elizabeth's Buzzer Bell!
 f2ajmCIVe9U 7:20 Tested Favorite Tools: Soldering Fume Extractor!
 kZSz0weq7GU 4:47 Adam Savage Geeks Out Over EVA Foam Scale Maille!
-tgx0bPAi8Q8 6:56 Ask Adam Savage: Learning to Stunt Drive on MythBusters
 cLrqogSndWs 1:09:07 Adam Savage's One Day Builds: Epoxy Headcast Helmet Skullcap!
-thRFK-MSZAw 6:26 Ask Adam Savage: MythBusters' Contribution to Science
-jHwM-nnG-vI 9:45 Ask Adam Savage: Collecting Failures
 NsFBHqbNKvA 16:34 The Animatronic Robot Designs of Mark Setrakian!
 DcNPYycz4nU 57:13 Adam Savage's One Day Builds: Mandalorian Blaster Paint and Weathering!
-LihTFh63wpM 14:01 Ask Adam Savage: Managing Negative Emotions During a Build
 lloesAf3CV8 8:53 Medieval Alleyway Book Nook Diorama!
 BXWTNRHkDmQ 8:55 Adam Savage Rancor Maquette Statue Reveal!
-jEfQAo-BuB0 7:19 Ask Adam Savage: "Why I Actually Hate Duct Tape"
 8DkBLbQ1WE4 19:13 Adam Savage Reorganizes His Workshop's Material Storage!
-2T7lh1HzZjw 9:14 Ask Adam Savage: How to Approach Building an Accurate Costume
-8FBNmf9H-_4 10:01 Ask Adam Savage: Performing for an Audience vs. a Camera
 4hhOA5TFvt8 9:09 How to Make a Fake Frosty Beer Bottle!
 Cj0uLKibPW4 1:37:37 Adam Savage's One Day Builds: Mandalorian Amban Blaster Replica!
 Hv14-nlQJ2s 4:17 Inside Adam Savage's Cave: The Return of Moly Dee!
 AFypEVQr7QI 9:27 How the Mythbusters Flatus Containment Device Works!
-T6BlB3l-F4U 7:14 Ask Adam Savage: Proportion vs. Measurement in Cosplay
 4ufQUvxpuAo 36:53 Adam Savage's One Day Builds: Car Engine Model Kit!
 gQi9THORs1A 24:50 3D-Printing Lord of the Print's Godzilla Model!
-9a1eQAge2sg 11:06 Ask Adam Savage: Choosing Which Version of a Character to Cosplay
 r0aae4df3Aw 37:18 Adam Savage's One Day Builds: LEGO Blade Runner Spinner Model!
 iHAkCYwxUb0 9:52 Adam Savage's Favorite Tools: Plastic Forming Strip Heater!
 sdoO1kZOQS4 24:58 Adam Savage's Indiana Jones Grail Diary Prop Replica!
-T5fjMnfSSbQ 7:23 Ask Adam Savage: A Caution Against the "Comparing Mind"
 W1DrW_f_vNo 32:11 Adam Savage's One Day Builds: Hyperdodecahedron Model Kit!
-hSAuQETf79M 6:35 Ask Adam Savage: Which Myth Didn't Get the Love It Deserved?
-16ctTeUJvSU 13:03 Ask Adam Savage: How Adam Chooses His Cosplays (Plus a Nathan Fillion Story!)
 teteroQeKGY 4:28 Adam Savage Tries on Puppet Mouth Masks!
 drLGYpPbrZg 53:36 Adam Savage's One Day Builds: Painting Iron Man Armor, Part 2!
-HU--YQtD-xk 6:59 Ask Adam Savage: Training a New Shop Employee With "All the PPE"
 agH0c5v18WU 8:24 Adam Savage's Vintage Automatic Testing Micrometer
 AwXZPxKPnX0 7:40 How Adam Savage Stores His Vintage Aerospace Sunglasses
-v3TYRKECRNA 7:13 Ask Adam Savage: Predicting Results on MythBusters
 2tQf7cruUMA 37:37 Adam Savage's One Day Builds: Galloping Horse Animation Machine!
-_iu7u0SQCUk 13:37 Ask Adam Savage: How MythBusters' Crew Size Changed Over Time
-8UXDae5czgs 7:08 Ask Adam Savage: On Sharing Your Workshop
 17JxWEZPN4o 5:27 Adam Savage's Replica Creature Head from The Thing!
 CtGMBOqs0us 1:06:18 Adam Savage's One Day Builds: Painting Iron Man Armor!
 F5YmVHB3P5I 12:20 Adam Savage's Favorite Tools: Japanese Hand Saws!
-sosCBJv2tV8 6:59 Ask Adam Savage: Shop Anchor Points
 HqUlPoxrzjM 40:02 Adam Savage's One Day Builds: Hellboy Samaritan Replica Finale!
-XorzjtqIDWM 6:53 Ask Adam Savage: Testing the Bulletproof Water Myth
-QCcIdfIdfD0 6:58 Ask Adam Savage: Designing Mobility in a Small Shop
 ND4Y0gx4aTI 1:05:27 Adam Savage's One Day Builds: Iron Man Armor Boots!
 xf3ma1XFt9Y 8:04 Adam Savage's Favorite Tools: Safe Rust Remover!
 ye0Fws__fVQ 4:55 Adam Savage's Van Gogh Painting Replica!
-g7nz1yCPFk0 4:59 Ask Adam Savage: How to Keep Track of Rarely Used Items
-ZMIetBwWKoI 5:36 Ask Adam Savage: How Dangerous Was Duct Tape Canyon?
 zWaQNVGhuyU 30:56 Adam Savage's One Day Builds: 3D Print UV Curing Oven!
-Sn6_TE9i5r8 9:00 Ask Adam Savage: About M5's Wall of Labeled Storage Bins
-dsN__voQd8o 10:32 Ask Adam Savage: Tips for Setting Up a Workshop
 mCzHH3fE5V0 16:30 Tested: ResinLapse 3D Printing on Elegoo Saturn!
 eJUbdNhdhkk 1:46:32 Adam Savage's One Day Builds: Remaking The Crown!
-beVj_xinOHY 12:33 Ask Adam Savage: When Good Materials Go Bad
 JFJYbIawnCI 12:10 Adam Savage's Favorite Tools: Portable Benchtop Parts Washer!
 lcJN-arQ92Y 8:48 Adam Savage's Rare Taylor Pressure Helmet!
-v6JPhkWg_ok 8:44 Ask Adam Savage: Testing Myths With "No Basis in Science"
 I5dH96JunrQ 55:55 Adam Savage's One Day Builds: Resin 3D Printer Station!
-xUjcHW7SHaI 11:05 Ask Adam Savage: Plane on a Conveyor Belt Controversy
-oFrjTAa7N4M 7:22 Ask Adam Savage: The Importance of Practical Effects
 9pTeyhp1ETE 21:34 Tested's New CNC Machine: Assembling the X-Carve Pro!
 jmYBQSqXnQ4 47:57 Adam Savage's One Day Builds: Shop Dust Collection System!
-am5MLfCk8dc 10:37 Ask Adam Savage: "Which film most impacted modern cinema: Blade Runner or Alien?"
 VZqf5rOJNCE 24:43 Adam Savage's Favorite Tools: Superglue and Glue Accelerators!
 AhEStPPzkvk 9:40 Adam Savage's First Mechanical Hand Build!
-Z4dG9DYGSdA 11:56 Ask Adam Savage: The Myth More Dangerous Than It Seemed
 88otijaNOg4 13:41 Adam Savage's Favorite Books on Pool Hustlers, Card Sharps, and Con Artists!
-vpAb8YkKKWg 10:50 Ask Adam Savage: Favorite Actor from Alien
 ptIF5Mn334Y 28:30 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 7)
-Z9UIbpuppkM 9:19 Ask Adam Savage: About MythBusters' Narrator
 a23XlIqhffI 17:33 Iron Giant 1/50 Scale Diorama Build!
 of9qY62tWKo 40:53 Adam Savage's One Day Builds: Tabletop Maker's Vise!
 hd-35yJAYBo 19:36 Adam Savage's Favorite Tools: Woodworking Chisel Sharpening!
-Lcf0IOb0VY0 7:31 Ask Adam Savage: Working on R2D2 at ILM
 8e_cMCGpR-k 24:08 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 6)
 ATfL9JQ--JE 1:03:05 Adam Savage's One Day Builds: Hellboy Samaritan Prop Barrel Rifling!
-h70kbIzPgig 13:09 Ask Adam Savage: How Lead Balloon Changed MythBusters
-mFwzgXnxG30 7:09 Ask Adam Savage: Why M7 Spun Off from M5
 M-d16zmseGw 10:36 Adam Savage's Favorite Tools: Reciprocating Air Saw!
-bUAa1TgSY1c 9:30 Ask Adam Savage: Testing Fiction-Based Myths on MythBusters
 5NH1-3NBcOk 1:28:31 Adam Savage's One Day Builds: Micrometer Gauge Box Set!
-EAlX_NOFYDI 12:04 Ask Adam Savage: High Speed and MythBusters
 yc0GaUfUi-4 17:01 Star Wars Japanese Dojo Diorama Build!
-ztE3xoVDtG0 6:30 Ask Adam Savage: Voight-Kampf Machines and Electric Sheep
-2FyfZeAgv54 4:06 Ask Adam Savage: Myth Adam Would Like to Test Today
 Z3-Fx-flm6M 40:56 Adam Savage Tests Boston Dynamics Spot's New Robot Arm!
-rdNPws3pyHw 10:14 Ask Adam Savage: Why I Still Like Blade Runner
 36J86bTnYnA 8:28 Stormtrooper Exploded-View Model Kit Build!
 T8lMmVU30W8 10:04 Adam Savage: Blade Runner's VFX and How 2049 Holds Up
 jfUL73pRYq4 1:02:53 Adam Savage's One Day Builds: Studio Ghibli Diorama!
-uw4csWqepkA 10:41 Ask Adam Savage: How MythBusters' Stunt Training Later Saved Adam's Life
-Uxx4Y1lOM00 12:43 Ask Adam Savage: Favorite Blade Runner Cut (Plus: Is Deckard a Replicant?)
 5Cu9Y2vPMgA 5:53 Adam Savage's Favorite Tools: C-Thru Triangle Ruler!
 uBWIFzgXAuQ 17:40 Adam Savage's King George Costume!
 UG5DapCtqc0 25:25 Adam Savage in Real Time: God of War Leviathan Axe Blade
 MiFLyAPyP2U 30:27 Adam Savage Assembles a Mandalorian Blaster Kit!
-zdkqBWtVNSA 14:04 Ask Adam Savage: Savage Builds' Complex Builds, Plus Those Rocket Gloves
-DXWzAcWj6b0 13:40 Ask Adam Savage: Remembering the U2 and Blue Angels Flights from MythBusters
 lUwMEjh2-78 1:12:07 Adam Savage's One Day Builds: St. Edward's Crown
 e_IXwHmKU2g 14:50 Adam Savage Tests the AIR Active Filtration Helmet!
 7FYb1gwi-30 15:10 Weta Workshop's 3D-Printed Giant Eyeballs!
-H6yVtuPG1lc 13:58 Ask Adam Savage: Working With Tory on Savage Builds
-ei2jLKORXn4 14:19 Ask Adam Savage: Savage Builds Wheel of Death Re-Do and Unrealized Ideas
 9MLQEC2Hv28 24:51 Adam Savage's One Day Builds: Wire Storage Solution!
 tkR3bQ8Ak-8 30:37 Adam Savage's Live Builds: Real-Time Box Build!
-2WFFhicVeXI 12:00 Ask Adam Savage: Origin of "I Reject Your Reality ..."
 r93bWMzGo60 1:14:57 Adam Savage's One Day Builds: Custom End Tables!
-zyNdK6iXcyM 8:57 Ask Adam Savage: Most Important Myth
 t9ATZdlUKww 25:10 Adam Savage's Favorite Tools: Haimer 3D Edge Finder!
 perVeCFBrdE 12:39 Adam Savage's Inigo Montoya Princess Bride Sword!
-4OnOyyTyvcc 11:29 Ask Adam Savage: "Is ADHD a Positive or Negative for Makers?"
-XkRHl8v5vrU 4:35 Ask Adam Savage: "Would You Go Back to ILM?"
 Ic2S9ySxO0I 11:26 Adam Savage's One Day Builds: Lathe Collet Storage!
 Mg5gzXzY92k 14:12 Tested: Edge-Lit LED Panel and Figure Display Lights
-COh6jTqWZmU 15:46 Ask Adam Savage: "What's Your End-of-Life Plan for Your Shop?"
 apeZO6C0ZeA 51:52 Adam Savage's One Day Builds: God of War's Leviathan Axe!
-yqmPea6d8ec 8:30 Ask Adam Savage: From Messy to (More) Organized
 gN5QqFKHGo0 7:58 Adam Savage's Favorite Tools: Moly Dee Tapping Fluid
-mwdHPG_heV0 8:44 Ask Adam Savage: Public Education, Doctor Who and Scissors
 wr7U82Q3r-E 14:02 Adam Savage's Nagra Spy Recorder Collection!
-ebDc1uWiJD4 11:04 Ask Adam Savage: The Importance of Portfolio
 im1G0nIzEYE 4:37 Adam Savage's Bronze Beskar Ingot Gift!
 sbqytCVtQb4 21:09 Adam Savage's One Day Builds: New Drill Press Table!
-4CHlcNqB20Q 8:42 Ask Adam Savage: Props from Literature and Favorite Animation as a Youth
 4iIBa0TLe9E 33:32 Adam Savage's One Day Builds: Mercury Spacesuit Wrist Rings, Part 2
-YBILSR7Hu5o 9:36 Ask Adam Savage: Best Age to Introduce the Creative Process
 fM9FtG01wMg 45:11 Adam Savage's One Day Builds: Spacesuit Glove Wrist Rings!
-7vRG0QpAT24 7:57 Ask Adam Savage: When Grant Met NSYNC
 smQFsyrTWhk 16:20 Adam Savage's Essential Modelmaking Cutting Tips
-8aOzfsbex8U 3:50 Ask Adam Savage: Favorite Recent ILM CG or Artwork
 eu7pZukFQ7w 6:27 Adam Savage's Favorite Tools: Blundstone Work Boots!
 FEHYccr5bC8 15:14 Adam Savage Finally Fixes His Giant Swiss Army Knife!
-qvU5PZgSowk 9:06 Ask Adam Savage: "Was ILM Your Dream Job or a Stepping Stone?"
 DF2Mmfj7yxc 12:20 Adam Savage Repairs His Ugg Boots!
 80YLonnG-Lo 28:24 Adam Savage's One Day Builds: Knight Lighter!
-ZN-9DiI4jr0 10:11 Ask Adam Savage: Digital vs. Practical Effects, Boredom and Never-Seen Props
-qvBAoxuf9zE 11:36 Ask Adam Savage: ILM Hiring Practices and Prop Policies
-j26Xc4ngIaM 8:33 Ask Adam Savage: Most Valuable Skill Acquired at ILM
-PhkZQeTQ6oM 5:31 Ask Adam Savage: How Ridiculous Was Filming the MythBusters Herding Cats Episode?
 2SpNjBI1lu0 18:53 How Boston Dynamics' Spot Robot Learns to Dance!
-2GGkWdLm7PI 10:19 Ask Adam Savage: My First Day and Movies at ILM
 ZlXGlBFFzJg 6:21 Adam Savage's Favorite Tools: Monkey Wrench!
 fkWsmKFMxRw 5:49 Adam Savage's Miniature Model from Star Wars: Episode 2!
-IkawOT_Cg-s 8:41 Ask Adam Savage: Would You Have Changed Anything About MythBusters?
 WQA-x2eYn5E 19:06 Adam Savage's One Day Builds: Custom Painting Shop Tools!
 ssfLP2Z_S50 10:08 Favorite Worldbuilding Coffee Table Books
 FQajiZVQWRs 19:47 Adam Savage's Live Streams: Weathering a Beskar Ingot Prop
 xDvqlJGjh-w 47:41 Writing Science Books with Mary Roach - The Adam Savage Project - 1/6/21
 8Sqo8njgt_0 36:20 Adam Savage's One Day Builds: New Lathe Chuck!
 rUIpT2oytXQ 5:58 Tested: Our Favorite Smart Home Wi-Fi Plug
-mxPQBIu_Hro 8:43 Ask Adam Savage: Were Any Myths Deemed Too Simple to Test on MythBusters?
 2UeghPJrUxE 29:12 Adam Savage's One Day Builds: New Workbench Lights!
-AkBxe0DXzZs 7:07 Ask Adam Savage: Most Obscure Skill Acquired During MythBusters
-4u7I-6AcA00 6:38 Ask Adam Savage: "Which MythBusters' Result Impacted Your Everyday Life?"
 gCva75a8ATQ 18:30 Adam Savage's One Day Builds: Electronics Tool Cart!
 M_XYZSHz6DI 48:54 The Mandalorian Season 2 Finale SPOILERCAST - The Adam Savage Project - 12/29/20
 8kbu34dk92s 9:27 Adam Savage's Favorite Tools: McMaster-Carr Catalog!
-kaI-Ri7Ias4 7:23 Ask Adam Savage: What Projects Are Best to Attract New Makers?
 4ycLw4LFXDM 5:14 Adam Savage's Chewbacca Bowcaster Replica!
-HMzg0bVY2Ds 11:09 Ask Adam Savage: Key Quality in a MythBusters Reboot
 uY7zpvjLx4Q 1:17:58 Adam Savage's One Day Builds: Iron Man Mark I Helmet!
-8wG-gr_IRHQ 9:34 Ask Adam Savage: Most Surprising MythBusters Result
-rDnGHwqnfyM 10:33 Ask Adam Savage: M5 vs. M7 Myths
 -R8wUybrspo 43:27 Adam Savage Modifies Boston Dynamics Spot's Robot Form!
 gKjkre4TqPo 37:01 Shop Organization with Laura Kampf - The Adam Savage Project - 12/22/20
 5NbK_H0QmOI 12:26 Adam Savage's Favorite Tools: Hot Wire Cutter!
 BC3grbtsN2g 14:25 What's Inside Adam Savage's Hip Pack!
 nEh5__V9zW8 5:47 Adam Savage Tests His New Pressure Washer!
 beGXa1TO6vo 1:47:53 Adam Savage's One Day Builds: Wookiee Feet!
-GC4oa5YKN-M 6:35 Ask Adam Savage: "Are You a Ghostbusters II Fan?"
 YG_c6evzyEM 14:06 Tested: Blackmagic ATEM Mini Pro ISO Video Switcher!
 dXqsdsB9emE 4:23 Tested: Ooni Koda 16 Gas Powered Pizza Oven!
 Vt0RxHzEhws 1:16:24 Adam Savage's One Day Builds: Iron Man Mark I Armor!
-VEgqBVdsJZg 9:34 Ask Adam Savage: "Do You Own a Screen-Used Prop from Ghostbusters?"
 Wf15R6uZloY 47:42 Mike Birbiglia - The Adam Savage Project - 12/15/20
 8rajGZ_sjo4 10:00 Adam Savage's Favorite Tools: The Savage Industries Apron!
-DUsBoLT1Yv8 5:25 Ask Adam Savage: What Is a "Maker"?
 PJyfQkEFV9w 5:16 Inside Adam Savage's Cave: LED Space Helmet!
--AvhYMPvPR4 5:45 Ask Adam Savage: Is Adam an Adrenaline Junkie?
 BZ0b7s5i6r8 27:32 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 5)
-gGzGX8YfSaw 6:53 Ask Adam Savage: Prototyping on MythBusters
 WBWUxWoNI5o 1:23:25 Adam Savage's One Day Builds: Hellboy Samaritan Storage Display!
-N-XpBXr7YHQ 12:00 Ask Adam Savage: Ghostbusters' All-Female Reboot, Abandoned Props and FX
-MOsOlF0-Gas 7:01 Ask Adam Savage: The Myth That "Got Away"
-MhPrj-32Y88 9:05 Ask Adam Savage: "Do You Have a Bill Murray Story?"
 eBAWHbi4THs 39:39 Adam Savage's One Day Builds: Hellboy Samaritan Full Teardown!
-StQcRsCkIjw 8:13 Ask Adam Savage: Those Scripted MythBusters Blueprint Segments
 ImsjC-f56dQ 52:19 The Mandalorian Season 2 SPOILERCAST - The Adam Savage Project - 12/8/20
 gkNfD_CO3T8 11:31 Adam Savage's Favorite Tools: Blow Dryer Oven!
-_9bfOcx4h-4 8:35 Ask Adam Savage: Favorite Wood for Building Storage
 zIzXQNVPHmA 9:00 Adam Savage's Alien: Covenant Spacesuit Helmet!
-qSDzoOQxG-I 9:08 Ask Adam Savage: Exciting Maker Tour Discoveries
 N_tKi14mFrk 23:16 Adam Savage's One Day Build: Sticky Storage!
-I5ol3lM2HDo 9:56 Ask Adam Savage: Pros and Cons of "Worldwide Fame"
 EmoB4tds0dM 36:07 Making a Hidden World Book Nook Diorama!
 JYWfikf-3DI 24:31 Adam Savage's One Day Builds: Chewbacca's Bowcaster!
 lp3w3CqYGqI 36:21 BattleBots 2020 - The Adam Savage Project - 12/1/20
@@ -2606,69 +2676,45 @@ lqZkBK6lbH4 6:50 Adam Savage's Favorite Tools: All About Awls!
 T5FbjENMND4 9:45 2001: A Space Odyssey Moon-Watcher and Bone Replica!
 ihmSRV95F_c 7:36 Filming Model Miniatures from Moon!
 iuNjDzT6PWo 55:53 Adam Savage's One Day Builds: Luke's Lightsaber!
-iUNnmuMkGxs 7:44 Ask Adam Savage: "Is There Anything Too Dangerous to Repair Yourself?"
-fsb8NxzNozo 4:31 Ask Adam Savage: LEGO MOCs
 Ww7Ts37eN2g 42:55 Adam Savage's One Day Builds: Hellboy Samaritan Bandolier!
 DhEAGJrDaEU 41:00 Foamsmithing - The Adam Savage Project - 11/24/20
--8JUTYj7Q30 16:02 Ask Adam Savage: What MythBusters DIDN'T film, the Bomb Range and Simultaneous Myths
-wSoCA0bO1_M 11:19 Ask Adam Savage: "Did MythBusters Influence Your Current Creative Problem-Solving?"
 GYIa_ryJsOo 9:45 Power Rangers 1995 Movie's Original Costumes!
 SutetC6n9so 42:04 Adam Savage's One Day Builds: Hellboy Samaritan Carrying Case!
-cgFmFqh90PU 13:02 Ask Adam Savage: MythBusters' Unsung Heroes
 YqZGA99RoTI 1:06:59 Adam Savage's Live Builds: KiwiCo Ukulele Kit!
-zyFAlep9CA4 8:48 Ask Adam Savage: Grossest MythBusters Myth
 e-wwk2RVjWY 5:58 Inside Adam Savage's Cave: Alien Nostromo Crew Wings!
 4GehjvyAsZs 48:48 Adam Savage's One Day Builds: Baby Yoda Mod and Repaint!
 41zypEN8hqQ 40:13 Late Night Comedy Writing - The Adam Savage Project - 11/17/20
 7tFwHXpxNLY 11:46 Adam Savage's Favorite Tools: Mobile Filming Rig!
-OSMLCySKMWo 8:23 Ask Adam Savage: First Thought When Jamie Asked Me on Board
 4oH0vkudKWY 8:14 Inside Adam Savage's Cave: Chronicles of Narnia Sword!
-U0QqMQ2Makg 12:12 Ask Adam Savage: "Was MythBusters Intended to Be Educational?"
 rR8M8_-5rXc 3:38 Inside Adam Savage's Cave: LEGO Minifig Blade Runner Blaster!
 wnMH1s36WXo 41:14 Adam Savage's One Day Builds: How to Make an Apple Box!
-mlBnrx5Z3Ww 9:55 Ask Adam Savage: "Do You Lament Being a Generalist?"
 AmWgRWYyN6o 25:15 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 4)
 NkktALohXwQ 4:19 Adam Savage's Custom Ginger Beer Bottle!
 VIMMKlKRbD4 9:48 Tested: Hollyland Mars 400S Pro Wireless HDMI Kit!
 4JQ4O1SPHSY 56:14 Adam Savage's One Day Builds: How to Build a $5 Sword!
 Jh1a4M3YA_0 47:12 Alie Ward's Ologies - The Adam Savage Project - 11/10/20
 -5zSadDZMhA 9:54 Adam Savage's Favorite Tools: Annular Cutters!
-EDLU4k9R81c 9:00 Ask Adam Savage: "Why Do You Refuse to Acknowledge Some Indiana Jones Films?"
 cYH6UuHQCwk 8:20 Adam Savage's Distortion Helmet!
-jp2wZ4q68FQ 5:45 Ask Adam Savage: Tips for Projects in a Limited Work Space
 aLI-6SmkJLU 1:02:15 Adam Savage's One Day Builds: Han Solo's Holster Belt!
-a6voK4rDiUM 13:43 Ask Adam Savage: Stolen Indiana Jones Whip Update
-HypnuwjJUgY 5:37 Ask Adam Savage: Ideal Qualities in a Collaborator
-h-5hIMkLxRs 12:23 Ask Adam Savage: Essential Pieces for Indiana Jones Cosplay
 ziIKLeacBDo 18:52 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 4!
 3sVWJThNzrI 39:53 Ted Lasso SPOILERCAST - The Adam Savage Project - 11/3/20
 rq__Lz1uf7w 8:11 Adam Savage's Favorite Tools: Wireless Endoscope!
-hjINCIPY4Wo 4:58 Ask Adam Savage: Organizing Tupperware
 Qg1vsumLXcY 25:45 Adam Savage's New Custom Workbench!
-nTmpDF3VtwQ 11:33 Ask Adam Savage: Favorite Scene from Raiders of the Lost Ark
 MvkYVuxMy0k 25:08 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 3)
 WfJtqnSexss 29:01 Adam Savage's One Day Builds: Restoring a Fabric Chair!
-pZ2qSzZPyPw 11:40 Ask Adam Savage: Fondest Berkeley Repertory Memories
-DQnS5SdZ9BE 3:39 Ask Adam Savage: Preferred Sketchbook
 AumnIehXwyI 35:57 Adam Savage's One Day Builds: Staple Sorter and Organizer!
 hhdZxzCxhd4 42:01 Comfort Movies During Lockdown - The Adam Savage Project - 10/27/20
 0cQcFsb_5Jc 8:25 Adam Savage's Favorite Tools: 3 Essential Pliers!
 u1kpYxCth5w 13:03 How to Make Creepy Specimen Jars for Halloween!
-hjx2vezyhj4 3:43 Ask Adam Savage: Most Underappreciated TV Series
-B9aa__BK8Zk 16:30 Ask Adam Savage: What Books Changed Your Way of Thinking?
 csu4jQNFfzA 32:44 Adam Savage's One Day Builds: Drafting Tools Sorting Drawer!
-wldwf-9B-Us 13:17 Ask Adam Savage: Researching and Recommending Tools
 12RwfqvTMZk 27:44 How to Make Creepy Plaster Hand Casts for Halloween!
 EEgc5m5LWPk 32:14 Jen's Foam Wig Project - The Adam Savage Project - 10/22/20
 wInlwbGet5A 41:26 Making an EVA Foam Wig for Cosplay and Halloween!
 1NWAxkDZ9xs 34:13 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 3!
 MPy0JzpZuvY 5:52 Adam Savage's Favorite Tools: Safety Wire Pliers
-Af-jExEh4SU 3:39 Ask Adam Savage: Best Pen for Writing Labels
 D5BO1JmYLN0 21:16 Age of Mecha: Awesome 1/35th Scale Mech Figures!
-nIP3AI8DsG0 4:47 Ask Adam Savage: How to Find Garage Kits
 gygyNt2AnKA 26:24 Adam Savage's One Day Builds: Giant Swiss Army Knife Repair!
 UkYR3ik19nw 8:10 Adam Savage's Favorite Tools: Folding Rulers!
-AEHsxb_rSAk 4:56 Ask Adam Savage: Destigmatizing Hearing Loss
 Rf_6etOJXfE 18:35 Augmented Reality Telepresence in HoloLens 2 and Quest 2!
 inQ16HamIWk 52:25 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 2!
 vPhtXBUZxIo 46:48 Muppet Performer Dave Goelz! - The Adam Savage Project - 10/13/20
@@ -2713,7 +2759,6 @@ nRQujY8kNVA 7:45 Adam Savage's Very First Lightsaber Prop Replica!
 s-eCil_0gK0 11:23 "Mrs. Donttrythis and the Watering Can" (Sept. 7, 2020, Q&A Part 4)
 sBqJ8wfRJUs 14:32 "Lockdown Constraints With Interesting Outcomes" (Sept. 7, 2020, Q&A Part 3)
 eu3T8x6eWq8 11:39 Inside Adam Savage's Cave: Spilled Sortimo Storage Box Sorting!
-4BJAKHv-NLE 13:56 Ask Adam Savage: "Funny Stories about Grant Imahara"
 GEK0EeAM2Ws 15:04 Testing iPhone 11 Lens Attachments + Custom Storage Box!
 hcQWtjzkt1w 9:42 "Being Good Natured About Mistakes" (Sept. 7, 2020, Q&A Part 1)
 XVEww6Ylw5c 41:23 Adam Savage's One Day Builds: Thread Tapping Guide Block!
@@ -2813,14 +2858,12 @@ BYqDBC0efj4 1:02:17 Adam Savage Builds a Mini Tabletop Bandsaw!
 dj9lNlLTC_U 12:04 Adam Savage's Favorite Tools: Glass-Cutting Rotary Bit
 W38HXRhsLAo 5:18 The Story of Adam Savage's Contradictory Wall Sign!
 2EGnVPxXYgM 11:12 LEGO BrickHeadz Anatomy Custom Figure!
-XGFSn2Xm8ks 1:00:23 Ask Adam Savage: "Did you ever meet George Lucas?"
 wvCdjyu0QJ4 8:42 Adam Savage's Weekend Builds: Lathe Chuck Rebuild!
 eyMuYC9_fiM 36:08 Adam Savage's Live Builds: LEGO Orca Fishing Boat (from Jaws!)
 GW9Spy4xXNA 8:51 Custom Display and Sorter for Instax Instant Film
 zZUOazRFLaA 31:01 Adam Savage Builds a LEGO Sorting and Storage System!
 tDxUEMPLm3U 4:21 Adam Savage's Favorite Tools: Multi-Blade Utility Knife!
 EWrDR6P6Kl0 15:19 Adam Savage's Giant Music Player Prop!
-H4-jGNoMlWU 49:07 Ask Adam Savage: "Do you ever just chill out in your shop?"
 A3-9Vk_2be4 32:31 Adam Savage's One Day Builds: NASA Retro-Reflector Replica!
 igEqC3snaYY 40:10 Adam Savage's Live Builds: Weathering Prop Money!
 FSww64aUklY 23:55 Tested From Home: Making Wood-Fired Neapolitan Pizza!
@@ -2838,7 +2881,6 @@ nCrB0FnW__s 28:19 Adam Savage's One Day Builds: Movie Sword Rack!
 8TJcFbu7gWE 6:29 Adam Savage's Favorite Tools: Bondhus Hex T-Handles!
 Otid9rax1Go 7:06 Adam Savage's "Cabin Fever" Coat Hanger Sculpture!
 5GYbjDot67A 11:30 The Art of Sideshow Collectibles' Star Wars Figures
-7COvFaFTAy4 40:33 Ask Adam Savage: "Do you ever feel imposter syndrome?"
 0nLlCmZspVM 20:57 Adam Savage's One Day Builds: Tweaking the Table Saw!
 ePgysAtyO5I 52:19 Adam Savage's Live Builds: LEGO Women of NASA!
 ebptyVvDtE8 11:06 How To Use Your iPhone or DSLR as a Webcam!
@@ -2855,7 +2897,6 @@ RAucP_zpZco 6:59 Tested From Home: Kayte Sabicer's Projects!
 eVnWyEvT-KY 27:09 Adam Savage's One Day Builds: Lathe Infrastructure Upgrades!
 hV0OfVGCIuY 3:54 Adam Savage's Favorite Tools: Precision Rotary Tool!
 nbKG9SjZjvQ 5:54 Adam Savage's New Mechanical Claws!
-Ki0g7I3mASA 28:52 Ask Adam Savage: "Are You an Educator or Entertainer?"
 7vKa8YZ64uE 29:36 Adam Savage Answers Your Questions! (4/14/20, Part 2)
 PLHUcP8LfkM 1:28:25 Adam Savage's One Day Builds: LEGO International Space Station!
 2Mhtdb2jJy4 35:04 Adam Savage Answers Your Questions! (4/14/20, Part 1)
@@ -3016,7 +3057,6 @@ tAdaJZx4Ps8 9:51 Adam Savage Meets a Smithsonian Exhibit Developer!
 dntMcmUfxHs 24:40 Adam Savage Explores the 3D Printing and Modelmaking Shop at Smithsonian Exhibits!
 VlsUBj27GqY 12:01 Adam Savage Learns About Smithsonian Exhibits!
 zLSvjwd99SU 9:37 Adam Savage Tours Smithsonian Exhibits' Fabrication Shop!
-Zt3649jao68 2:49 Ask Adam Savage: What Full-Size Working Prop Would You Want to Make?
 4qH-2c0dJ5E 10:45 Tested: Assembling a VR 180 Camera Rig!
 1dck2mdY2h0 12:53 Inside Adam Savage's Cave: New Apollo EVA Gloves!
 1BTcmCZhPe8 12:09 Tested Visits The NASA Ames Maker Space!
@@ -3042,7 +3082,6 @@ QSXsqFQ3Y-c 45:45 Adam Savage's Knights of Ren Cosplay, Part 2
 EezjG4A2f-c 12:56 Tested: Deploying Ocean Sensors from a Plane!
 WFSnf0MSAFc 22:08 Adam Savage Visits National Air and Space Museum's Restoration Hangar!
 ESJcPH7KSvs 11:11 Inside Adam Savage's Cave: Ryan Nagata's First Spacesuit!
-nZZlEbttaO0 5:37 Ask Adam Savage: Career Paths for Makers and Polymaths
 aNTq7qOAFeg 6:55 Adam Savage Builds a Hero's Engine Sweet Cream Pourer!
 2V65z9nT55o 7:20 Adam Savage Examines the Space Shuttle Discovery!
 BQapjBMt6b4 14:12 Painting and Aging Miniature Buildings!
@@ -3070,31 +3109,25 @@ Bh6C2O77EpI 14:39 Adam Savage's One Day Builds: Cave Museum Display!
 2zTdOfqO6g4 33:50 Building a Retro Moon Suit Garage Kit!
 pTHRVsrqyiw 10:13 Warcraft Movie Props, Weapons, and Armor!
 gr4YjCiabOc 37:33 Poppy Northcutt, First Woman in Mission Control! - Offworld Episode 24
-HMsKjzt7Gpk 3:01 Ask Adam Savage: What's the One Thing You'd Save in a Fire?
 Ew-qden-ha8 8:13 Inside Adam Savage's Cave: New Spacesuit Hardware!
 aOQTunQ4Oug 9:27 Show and Tell: Nike's Adapt BB Power-Lacing Shoes!
-aWFHIfmzTYE 2:59 Ask Adam Savage: Preferred Shop Stools
 hNgC3s5Nne0 38:50 Model Behavior: Painting Shiny Model Cars!
 YZV4A4Kl0yM 28:20 Adam Savage's One Day Builds: Hero Prop for TV Show!
 iYb84RjpudE 8:48 Toy Photography with Miniature Sets and Dioramas
 Mx3Yyghttn8 7:41 Making the Borderlands 3 Giant Character Statues!
 Ts42FtG9SGY 29:40 What Exoplanets Look Like in Film vs. Reality - Offworld Episode 23
-XHHp3dW-TCw 3:46 Ask Adam Savage: Costume Storage
 bQQW0khYaOs 3:48 Inside Adam Savage's Cave: Star Wars Tauntaun Statue!
 sNeou5p5f5s 13:33 Replicating Neil Armstrong's Apollo Spacesuit!
 AnxBy32fJX8 32:55 Adam Savage's Week at Weta Workshop, Part 6
 hQKvQmprGgs 20:48 Painting a God of War Leviathan Axe!
 2NYtPWhdhhQ 15:54 Adam Savage's One Day Builds: Iron Man Armor Stand!
-cHEq3HkZf-8 4:49 Ask Adam Savage: Working With Other Makers
 fMR7jClFKnc 25:00 Adam Savage's Week at Weta Workshop, Part 5
 8_XwRFD5Lqs 24:31 Behind the Scenes of Weta Workshop's 'I Am Mother' Robot!
 6nw-RdxJzcY 32:43 Science Fiction Spacesuits - Offworld Episode 22
-1jx_O0no0pY 1:12 Ask Adam Savage: What is Savage Builds?
 5DstR_8RhPM 3:13 Tobor, The Dinosaur Controlled by Power Glove
 _4gbxlKBJlA 23:43 Adam Savage's Week at Weta Workshop, Part 4
 MOOihfy3Iwo 4:04 Adam Savage's Very First Shop Project
 hF86Qd-B4SE 10:37 Show and Tell: Gundam Upgrade Garage Kits!
-o_xUJfX-Hy0 4:17 Ask Adam Savage: A Movie You Wish You'd Worked On
 vY9-3COB2S4 15:21 Shop Tips: Know Your Screw Threads
 Lp3GaB43_3k 10:51 Show and Tell: Synology DS1019+ NAS
 T4xboOb8868 51:11 Adam Savage's Week at Weta Workshop, Part 3
@@ -3109,18 +3142,15 @@ dA2ikno_4z0 3:40 The Fantasy Metal Creatures of Perkunas Design Studio
 rjlYsDZUk3w 1:09:34 Adam Savage's Week at Weta Workshop, Part 2
 m-pGHh9NNko 5:26 Show and Tell: Foam Starter Projects
 _F5bIcT_rOc 31:26 Black Holes in Science Fiction Films - Offworld Episode 21
-tZ4Uyo3oIg4 4:48 Ask Adam Savage: Least-Used but Most Important Tool
 PRN3x5RqQ4E 9:55 Sophy Wong's Wearable Tech Projects!
 4rzDdnlDOcc 45:53 Adam Savage's Week at Weta Workshop, Part 1
 ng3Ivf0eZIY 16:02 Inside Adam Savage's Cave: Concept Art Reimagining Star Wars!
 ABb_1WsxJFk 29:55 The Science of Starship Troopers' Space Bugs - Offworld Episode 20
-5i1zcFjjYAE 3:49 Ask Adam Savage: The Role of Cardboard in Making
 aB8IJ6aLiSo 6:28 Projection Mapped Floating Head Kit!
 fA-wOQM_5hY 16:02 Bits to Atoms: Starlords Arcade Cabinet, Part 7
 TfwKYUmoC-k 5:02 Adam Savage's Computer History Collection!
 y0R8-F4TmPI 8:09 Show and Tell: Animatronic Raven Kit!
 S9xXE44ZZmY 29:38 Would Cyborgs Make Better Astronauts? - Offworld Episode 19
-qD528UrBNLA 3:53 Ask Adam Savage: How to Interact With Famous People
 pn027jfK5fs 4:25 Realistic Flying Monkey Sculpture!
 9RDpcRZaO8s 20:04 Bits to Atoms: Starlords Arcade Cabinet, Part 6
 BteSyEo3GiM 27:45 How to Make Diorama Water Effects!
@@ -3171,50 +3201,36 @@ ffYpNr3PiOs 24:42 Adam Savage's King Arthur Armor Build, Part 5
 djJIjkdJ77A 10:13 Internet-Connected ScreenTimer Project!
 gIyykNaWrlM 2:44 Tested: USB-Powered Soldering Iron!
 80QXP5ls850 6:18 Maker Spaces: Cirque du Soleil's Traveling Workshop
-IDcnw167dN0 2:06 Ask Adam Savage: Connecting to Crafting
 kkuePUZ3j24 16:31 Making a Real-Life RC Tank Soccer Game You Can Play!
 ECAEuXDra7w 26:54 Adam Savage's King Arthur Armor Build, Part 4
 -kdWUMA4Lqc 9:16 Tested: Behind the Scenes of Cirque du Soleil's Volta!
 zcSIvvUcm5c 1:44 Adam Savage Reveals the New Tested T-Shirt!
-qjJwbi8yADM 1:34 Ask Adam Savage: Most Difficult Myth
 oxI8SFkCz0I 28:08 Adam Savage's King Arthur Armor Build, Part 3
 At7BZ1t7Cuw 12:39 Tested: Games in a Tesla with Atari Controller!
-R9Qm5DQAuag 2:02 Ask Adam Savage: Failed Explosions on MythBusters
 etLOLUowvPI 7:40 How to Build an SLA 3D Print Resin Curing Oven
 fHFpKAv2Sk4 17:49 Adam Savage's King Arthur Armor Build, Part 2
 eABESL7Ia6I 7:08 Tested: Sony 1000XM3 Noise-Cancelling Headphones
 742wx_H-VIo 29:11 Star Trek: Discovery Season 2 Discussion! - Offworld Episode 14
-exCrXc8hAAA 2:32 Ask Adam Savage: How Does Adam Savage Decide Next Projects?
 Ek76Q0SEvC0 22:53 Tested: Dremel 3D45 3D Printer!
 vib1-V8ArzM 33:53 Adam Savage's King Arthur Armor Build, Part 1
 Lo3E25GXCEw 10:03 Making a Light-Up Miniature SXSL Sign!
-MwsLhlVlaZc 2:32 Ask Adam Savage: Adam's Favorite Cosplay
 _zIFAi5gz2A 16:34 Modeling Achilles' Sword for 3D Printing!
 GQevJ_9W55s 9:19 Show and Tell: Pip Boy 2000 Mod!
-1XFhm8nry-Y 2:29 Ask Adam Savage: How to Deal With Success
 IEZX3-A63RY 11:33 Adam Savage's Blade Runner Blimp Replica!
 tP8xbr_hn6U 6:13 Tested in 2018: Favorite Coffee Table Books!
-yw8gFo2DJvM 3:37 Ask Adam Savage: The Role of Social Media
 dVSu-WWe5XY 4:43 Tested: Tilta Wireless Follow Focus Lens Control System
-OO8xF-kgMJU 1:55 Ask Adam Savage: Nourishing Kids' Interest in Science and Art
-8VDiTgL0qL4 2:15 Ask Adam Savage: Cosplaying as a Celebrity
 2xntfsLWlDg 11:45 Maker Spaces: Kinetic Sculpture Artist Nemo Gould
 J1mEMmY2ZB8 1:03:38 Peter Jackson and Christian Rivers on the Making of Mortal Engines!
 jbuB1LpNupQ 18:51 Adam Savage Wears Lumecluster's Phoenix Gauntlets!
-GRSq75EdzmE 3:11 Ask Adam Savage: Ah-Ha Moments
 WauW_IMUioI 6:50 Classic Children's Television Puppets and Props!
 lLBrhDqof7A 9:05 Classic Science-Fiction Television Hand Props!
 kK0LDHPZxvw 12:11 Batman (1966) Props and Costumes!
 7oGslDjTnHI 29:33 Adam Savage's One Day Builds: Mortal Engines Hand Cannon!
-e3YB3z0YIh8 1:18 Ask Adam Savage: Small, Extra Arms vs. Prehensile Tail
 K4mxREx11Fo 31:28 In-Depth with The Visual Effects of Mortal Engines!
 KwT0aZd2PQM 7:34 The Kinetic Sculptures of Nemo Gould
 6iIZ9rnS6HU 1:02:24 Adam Savage's One Day Builds: Eric Idle's Guitar Case!
-Nx73IDlgSF4 2:34 Ask Adam Savage: Favorite Guest on MythBusters
 CDn91YfTZzI 9:19 Shop Tips: Drill Bits
-CaFR4vGKrvc 1:50 Ask Adam Savage: Which Tools Don't Work?
 AqLVpBb2gGw 10:58 Simone's Every Day Calendar
-Xwpufxg__6A 1:28 Ask Adam Savage: Best Adaption of a Book
 GlX72rwmHAI 5:29 Shop Tips: Learning Injection Moldmaking
 t3Ktff1Bui4 21:41 Modeling a Judge Dredd Helmet for 3D Printing!
 tCIGE-aTzw0 6:11 Incredible 'Steam Siege' Custom Gundam Diorama!
@@ -3240,26 +3256,21 @@ hv9E3INSgd0 14:32 Awesome Model Trains with Steam Locomotives!
 eyszbfcbeMk 15:41 3D-Printing a Custom Wonder Woman's Tiara for Cosplay!
 RXm3HJ4MASQ 8:41 Laser Cutting a Westworld Data Card!
 Ly5ZDcX1tuo 3:46 Tested Mailbag: Human-Scale 3D-Printed LEGO!
--BM_ghu0qq8 4:03 Ask Adam Savage: Worst Injury While Making?
 Y09ET7bpE1A 8:37 Collecting Material Samples for Your Workshop
 ZfvtGrhYk0I 26:44 Adam Savage's One Day Builds: Kit-Bashing and Scratch-Building!
 Pta2RH9_umA 4:41 Tested Mailbag: AT-DP Garage Kit!
-kmHgfmkEwDE 3:25 Ask Adam Savage: Getting Over Maker's Block
 QyTzTGsySqo 17:41 Assembling the 2,500 Piece 3D-Printed Sculpture!
 JtV_-cLBoH0 4:38 Show and Tell: 2001 EVA Pod Model Kit!
 -5PhT20VC7o 11:46 Designing the National World War I Memorial Sculpture
-8Cu9Zxr-fjg 3:43 Ask Adam Savage: Favorite Shop Tools!
 6HJarJg1npk 11:07 Custom Model Paint Racks for the Tested Workshop!
 MxLOoriXkMc 46:22 Adam Savage's One Day Builds: Overengineered Bottle Opener!
 0AVVXNKHDUw 11:34 Tested: Formlabs Wash and Cure Stations
 xVYmQlUZfVM 22:22 3D Printing in Multiple Colors with the Palette 2
 ebQU7GipJcA 17:50 Weta Workshop Sculptor's Tabletop Miniature World!
-jY3O8Kt2IVg 3:09 Ask Adam Savage: Favorite Things to Take Apart
 cxrpog9KOEo 1:04:27 Making a Mechanical Pong Game!
 YDJQyn8F1yc 15:25 Color Grading a Short Film with the Blackmagic Micro Panel!
 7MRb1VqX0ag 23:20 How Dangerous is Orbital Debris? - Offworld Episode 10: Gravity
 XJ9c1OcuJ7Q 18:36 3D-Printing a NASA ACES Helmet for Adam Savage!
-X-UWkbx3ppU 2:24 Ask Adam Savage: State of Mind for Making
 Aq57iMONXV0 5:11 Awesome Animated LEGO Sculpture!
 RbxEQ6HnH-g 12:29 Adam Savage Paints an Astromech for Magic Wheelchair!
 q1tL6-xCTN4 12:42 Weta Workshop's "The Scale of Our War" Exhibit
@@ -3284,31 +3295,25 @@ AXzurpmc8SE 39:15 Adam Savage's One Day Builds: Everyday Carry Bag!
 eJqjGHAfm6E 6:40 Weta Workshop Artists Make Custom 'Giant Killer Robots'!
 HgQgGzUzgKI 30:53 How to Apply Zombie Prosthetic Makeup!
 2we_2-WS344 38:28 Modding 'The Getaway' Pinball Machine!
-lgQ2N-dFgQc 2:01 Ask Adam Savage: Overcoming Large Learning Curves
 dncRHH9f6MI 3:14 Adam Savage Explains the Universal Greeblie!
-LImkIx2wasw 2:12 Ask Adam Savage: Old vs New Technology
 PGmFOnSGjrA 35:18 How to Make Miniature Underwater Dystopian Cityscapes!
 lF_2B47Guts 21:35 What's Needed in Space Robots? Offworld episode 8: WALL-E
 2ZjxvW17cZ0 19:21 Adam Savage Builds a Onewheel Electric Skateboard!
 mqxP_SvseXU 8:09 How to Make a Laser-Cut Prop Stand!
 3b_0pJTKWGo 35:53 Painting Robot Kits to Look like Rusted Metal!
 mu2usjcYeZM 6:36 Show and Tell: Laser-Cut Sixth-Scale Scooter!
-4t1B0iH4jb4 2:20 Ask Adam Savage: Tips for Kids to Become Makers
 9U3tmOGhYQA 41:47 Bits to Atoms: The Co-op Quadcopter Challenge!
 0Y_h8QOjH5g 3:31 REMIX: 1000 NERF Balls vs. Dinosaurs
-GVnoTrJNAtc 3:07 Ask Adam Savage: Who Cleans Up the Mess after Builds?
 i631vjJnqJw 12:11 Mind-Controlled Plumbob Crystal from The Sims 4!
 G7MDrUG4cws 36:59 Adam Savage's One Day Builds: 1000 Shot NERF Blaster!
 E10407LU3NY 19:12 Bits to Atoms: Adding Smoke and Sounds to Toys!
 l7-bZbePQKE 5:58 The Modelmaking of European Train Enthusiasts! Drifting with Adam Savage and Zoe Bell!
 wHtTzCGe9hI 10:05 Show and Tell: Destiny-Inspired Airsoft Mod!
-yzYS9yEcJAY 2:48 Ask Adam Savage: Giving Ourselves More Credit
 AoZa3DQZNds 6:31 3D Printing Multiple Colors with Prusa i3's Upgrade!
 s8hP2-f_66Q 14:08 Tested: Indoor Skydiving with Virtual Reality!
 M89MIJiWljo 4:13 Model Trains with Working Steam Engines!
 32y7W29Cync 7:24 How the Prosthesis Mech Works!
 aZVFluepenM 20:58 What's Changed in Astronaut Culture? Offworld episode 7: The Right Stuff
-9okIF3RZRcc 2:36 Ask Adam Savage: Recovering from a Mistake
 Gm9aZv2tiFs 4:01 TapGlo Light-Up Ping Pong Table!
 zqXpbqrfrfY 6:39 Dremel's Laser Cutter: What You Should Know
 mAeXBaAqyvE 3:44 Google AIY Kits for Experimenting with Artificial Intelligence
@@ -3318,12 +3323,10 @@ bZ6XLACOtUo 6:10 Kitbashing Model Spaceships with Snap Ships
 b1zuO_piTfQ 3:38 Hacked Star Wars Landspeeder Toy Car!
 krTMy64VusE 14:25 Adam Savage's Maker Faire 2018 Talk!OZ4YKLVoFzs 33:41 Bits to Atoms: The Pi Score Arcade Cabinet
 2Xfr7_UxioE 7:11 Paint Masking Using a Laser Cutter!
-J-9dGGKAQPE 2:15 Ask Adam Savage: Biggest Explosion?
 Ydh0lnHiTKs 14:44 Tested: How To Photograph a NASA Rocket Launch!
 38H41lwZP14 12:03 Adam Savage's New Warcraft Armor!
 _feYE4YYuyI 13:31 Star Wars Studio Scale Y-Wing Model!
 MZAtxIm9ukM 16:21 Tested at the NASA InSight Rocket Launch to Mars!
-0PQul0uH_oc 2:43 Ask Adam Savage: Most Satisfying Recent Project?
 pZvZypeDPkY 19:10 How Could Alien Communication Work? Offworld episode 6: Arrival
 Uayaya9x3kc 1:24 Adam Savage Build Tip: Airbrush Anatomy
 rRSD3h0PooU 1:47 Adam Savage Build Tip: Protecting Chrome Paint Finish
@@ -3332,8 +3335,6 @@ _pPtEA3d2mY 1:50 Adam Savage Build Tip: Using a Scroll Saw
 FaQNtcxmJKY 3:19 Star Trek Tricorder with Working Display!
 83NLPlACMus 4:38 James Bond "Moonraker" Prop Collection!
 K-8zSrByqH4 0:57 Adam Savage needs your help for his next build!
-iCl8ek0gLPA 3:44 Ask Adam Savage: Being Dropped in Bubble Wrap?
-40dx0L5t8-s 2:31 Ask Adam Savage: What Do You Do After Work?
 69PIm52Jrss 8:46 Inside Adam Savage's Cave: Ghost in the Shell Props!
 JJjw1VvXJ0U 5:13 The Creature Art of Akihito
 OUFsT2RYk84 6:56 3D-Printed Sculptures Made in Virtual Reality
