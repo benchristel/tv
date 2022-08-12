@@ -2217,10 +2217,231 @@ J-9dGGKAQPE 2:15 Ask Adam Savage: Biggest Explosion?
 iCl8ek0gLPA 3:44 Ask Adam Savage: Being Dropped in Bubble Wrap?
 40dx0L5t8-s 2:31 Ask Adam Savage: What Do You Do After Work?
 
+NM9Hxpk_tPo 18:32 Adam Savage's One Day Builds: Annular Cutter Storage!
+SGUtT2Lo944 1:16:13 Adam Savage's One Day Builds: AT-AT Walker Garage Kit!
+RfNIlmKXOWg 32:40 Adam Savage's One Day Builds: Custom Poker Chip Carrier!
+DPTu47FBkpg 46:04 Adam Savage's One Day Builds: Chinatown Stunt Knife (Corridor Crew FX Challenge!)
+bJp3B3jZkhE 36:16 Adam Savage's One Day Builds: Aliens Motion Tracker Prop!
+Arm0Mvx45Us 12:28 Adam Savage's One Day Builds: Adding Casters to Costume Cases!
+A4v97zfHzcU 28:44 Adam Savage's One Day Builds: Aliens Welding Torch!
+SSvcKIa1Uws 1:02:37 Adam Savage's One Day Builds: Moby Dick Diorama Maquette!
+K0FcUntHyKw 58:02 Adam Savage's One Day Builds: Razor Crest Mods, Part 1!
+GtLCJ2b6XEc 21:46 Adam Savage's One Day Builds: Mandalorian Vibroblade Kit!
+5RL7EYSbc_g 55:52 Adam Savage's One Day Builds: The Matrix EMP Switch! Blitzway's 1/4 Scale Apollo 11 Astronaut!
+wmjZL8nm3MM 46:58 Adam Savage's One Day Builds: Inglourious Basterds Knife Replica!
+zR4X775Y-9E 34:51 Adam Savage Reacts To His First One Day Build!
+S5o9NORnF1o 57:32 Adam Savage's One Day Builds: Papier-Mâché Mask!
+FuMf6-9ZsJo 40:29 Adam Savage's One Day Builds: Vintage Bicycle Restoration!
+rL7k8kjIdow 1:03:48 Adam Savage's One Day Builds: James Bond's Spectre Cane!
+NMEkK9cdEqg 30:44 Adam Savage's One Day Builds: RoboCop 2's Cain Stop-Motion Puppet!
+jOXidWIB-gY 20:13 Adam Savage's One Day Builds: Drill Press Modifications!
+4GcuGnjv2Aw 29:01 Adam Savage's One Day Builds: Special Effects Syringe!
+9LVFVTMleio 46:32 Adam Savage’s One Day Builds: Head-Mounted Dart Blaster!
+YIbb-Bck8wc 46:43 Adam Savage's One Day Builds: Blade Runner 2049 Helmet Parts!
+uzF351VecZA 40:38 Adam Savage's One Day Builds: Painting The HasLab Razor Crest!
+xHS83PFsek4 24:20 Adam Savage's One Day Builds: Weathering the Blaster Vault!
+NYkF5EwaDBU 19:29 Adam Savage's One Day Builds: RoboCop 2's Cain Robot!
+hX5Qsrpj9Ao 31:26 Adam Savage's One Day Builds: Surface Plate Cover
+V0kQDCVU_48 36:38 Adam Savage's One Day Builds: Mini Apple Box!
+IeFIhKaJEFo 31:34 Adam Savage's One Day Builds: Dune Sand Compactor Replica!
+uEcx6yb5yXQ 41:33 Adam Savage's One Day Builds: Magnetic Lathe Chuck!
+ykr2IMSYDMc 30:43 Adam Savage's One Day Builds: Ping Pong Ball Launcher!
+jQSTJSniXKM 32:25 Adam Savage's One Day Builds: Fixing the Mill's Motor Fan
+3qOJakmE7Pk 33:52 Adam Savage's One Day Builds: Mythbusters Blueprint Display with Kyle Hill!
+gaJgfS_2LZ4 32:36 Adam Savage's One Day Builds: Gauge Block Storage Rack!
+_2kmXLP_uXg 33:13 Adam Savage's One Day Builds: Machining Mystery Prop!
+m6VYpHdBG84 15:48 Adam Savage's One Day Builds: Weathering a Sword Blank!
+yzy_8tT4TO0 24:35 Adam Savage's One Day Builds: Miniature Astronaut Display!
+9TZ5yflpmq4 42:15 Adam Savage's One Day Builds: Ghostbusters Ecto Goggles!
+9yzg3a91F5o 45:20 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 4)
+2O92DT4x0tg 1:04:21 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 3)
+HAirnq80dcQ 1:28:50 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 2)
+OshKZcTFEZY 32:21 Adam Savage's One Day Builds: Ghostbusters: Afterlife Hand Prop!
+0FKxM-zNZBk 1:10:32 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 1)
+dloSR3a57IA 43:24 Adam Savage's One Day Builds: Ghostbusters Proton Pack!
+NxL4SLzAkao 1:27:29 Adam Savage's One Day Builds: Aliens Colonial Marines Armor!
+iEaf3t3KUyg 27:25 Adam Savage's One Day Builds: Hasbro Mandalorian Helmet Repaint!
+zginChewoKU 31:35 Adam Savage's One Day Builds: 2001 Spacesuit Helmet Repair!
+-imr0Cy7NQY 39:42 Adam Savage's One Day Build: Acrylic Display Box!
+xePxGWc_mH0 34:00 Adam Savage's One Day Build: Fake Beard Wiring!
+ijosoNfEBP4 37:21 Adam Savage's One Day Builds: Aliens Colonial Marines Shoulder Lamp!
+iiZ5rh3Uo1o 1:14:52 Adam Savage's One Day Builds: Excalibur Henchmen Armor!
+dlCiIAS6fsA 26:51 Adam Savage's One Day Builds: MacReady's Hat from The Thing!
+NNNcGCZHvxE 53:53 Adam Savage's One Day Builds: Foamcore Architectural Model!
+ajHmyFX9zvk 24:47 Adam Savage's One Day Builds: Workbench Vise Upgrade!
+OUHShx43JVU 1:01:48 Adam Savage's One Day Builds: Miniature Piano!
+WAxxrBF5V3M 1:16:33 Adam Savage's One Day Builds: Famous Gemstones Collection!
+7D8sXR0ozeE 1:24:21 Adam Savage's One Day Builds: Animatronic Bear Head!
+0znjWy-Tr4Q 55:55 Adam Savage's One Day Builds: OneWheel Electric Skateboard Mods!
+TjvX8GiYA5w 44:30 Adam Savage's One Day Builds: Monster Puppet Kit!
+QWBFHoJrosY 35:49 Adam Savage's One Day Builds: Star Wars Acrylic Paints Rack!
+l4Uew4czJ1o 41:51 Adam Savage's One Day Builds: Queen Elizabeth's Buzzer Bell!
+cLrqogSndWs 1:09:07 Adam Savage's One Day Builds: Epoxy Headcast Helmet Skullcap!
+DcNPYycz4nU 57:13 Adam Savage's One Day Builds: Mandalorian Blaster Paint and Weathering!
+Cj0uLKibPW4 1:37:37 Adam Savage's One Day Builds: Mandalorian Amban Blaster Replica!
+4ufQUvxpuAo 36:53 Adam Savage's One Day Builds: Car Engine Model Kit!
+r0aae4df3Aw 37:18 Adam Savage's One Day Builds: LEGO Blade Runner Spinner Model!
+W1DrW_f_vNo 32:11 Adam Savage's One Day Builds: Hyperdodecahedron Model Kit!
+drLGYpPbrZg 53:36 Adam Savage's One Day Builds: Painting Iron Man Armor, Part 2!
+2tQf7cruUMA 37:37 Adam Savage's One Day Builds: Galloping Horse Animation Machine!
+CtGMBOqs0us 1:06:18 Adam Savage's One Day Builds: Painting Iron Man Armor!
+HqUlPoxrzjM 40:02 Adam Savage's One Day Builds: Hellboy Samaritan Replica Finale!
+ND4Y0gx4aTI 1:05:27 Adam Savage's One Day Builds: Iron Man Armor Boots!
+zWaQNVGhuyU 30:56 Adam Savage's One Day Builds: 3D Print UV Curing Oven!
+eJUbdNhdhkk 1:46:32 Adam Savage's One Day Builds: Remaking The Crown!
+I5dH96JunrQ 55:55 Adam Savage's One Day Builds: Resin 3D Printer Station!
+jmYBQSqXnQ4 47:57 Adam Savage's One Day Builds: Shop Dust Collection System!
+of9qY62tWKo 40:53 Adam Savage's One Day Builds: Tabletop Maker's Vise!
+ATfL9JQ--JE 1:03:05 Adam Savage's One Day Builds: Hellboy Samaritan Prop Barrel Rifling!
+5NH1-3NBcOk 1:28:31 Adam Savage's One Day Builds: Micrometer Gauge Box Set!
+jfUL73pRYq4 1:02:53 Adam Savage's One Day Builds: Studio Ghibli Diorama!
+lUwMEjh2-78 1:12:07 Adam Savage's One Day Builds: St. Edward's Crown
+9MLQEC2Hv28 24:51 Adam Savage's One Day Builds: Wire Storage Solution!
+r93bWMzGo60 1:14:57 Adam Savage's One Day Builds: Custom End Tables!
+Ic2S9ySxO0I 11:26 Adam Savage's One Day Builds: Lathe Collet Storage!
+apeZO6C0ZeA 51:52 Adam Savage's One Day Builds: God of War's Leviathan Axe!
+sbqytCVtQb4 21:09 Adam Savage's One Day Builds: New Drill Press Table!
+4iIBa0TLe9E 33:32 Adam Savage's One Day Builds: Mercury Spacesuit Wrist Rings, Part 2
+fM9FtG01wMg 45:11 Adam Savage's One Day Builds: Spacesuit Glove Wrist Rings!
+80YLonnG-Lo 28:24 Adam Savage's One Day Builds: Knight Lighter!
+WQA-x2eYn5E 19:06 Adam Savage's One Day Builds: Custom Painting Shop Tools!
+8Sqo8njgt_0 36:20 Adam Savage's One Day Builds: New Lathe Chuck!
+2UeghPJrUxE 29:12 Adam Savage's One Day Builds: New Workbench Lights!
+gCva75a8ATQ 18:30 Adam Savage's One Day Builds: Electronics Tool Cart!
+uY7zpvjLx4Q 1:17:58 Adam Savage's One Day Builds: Iron Man Mark I Helmet!
+beGXa1TO6vo 1:47:53 Adam Savage's One Day Builds: Wookiee Feet!
+Vt0RxHzEhws 1:16:24 Adam Savage's One Day Builds: Iron Man Mark I Armor!
+WBWUxWoNI5o 1:23:25 Adam Savage's One Day Builds: Hellboy Samaritan Storage Display!
+eBAWHbi4THs 39:39 Adam Savage's One Day Builds: Hellboy Samaritan Full Teardown!
+N_tKi14mFrk 23:16 Adam Savage's One Day Build: Sticky Storage!
+JYWfikf-3DI 24:31 Adam Savage's One Day Builds: Chewbacca's Bowcaster!
+iuNjDzT6PWo 55:53 Adam Savage's One Day Builds: Luke's Lightsaber!
+Ww7Ts37eN2g 42:55 Adam Savage's One Day Builds: Hellboy Samaritan Bandolier!
+SutetC6n9so 42:04 Adam Savage's One Day Builds: Hellboy Samaritan Carrying Case!
+4GehjvyAsZs 48:48 Adam Savage's One Day Builds: Baby Yoda Mod and Repaint!
+wnMH1s36WXo 41:14 Adam Savage's One Day Builds: How to Make an Apple Box!
+4JQ4O1SPHSY 56:14 Adam Savage's One Day Builds: How to Build a $5 Sword!
+aLI-6SmkJLU 1:02:15 Adam Savage's One Day Builds: Han Solo's Holster Belt!
+ziIKLeacBDo 18:52 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 4!
+WfJtqnSexss 29:01 Adam Savage's One Day Builds: Restoring a Fabric Chair!
+AumnIehXwyI 35:57 Adam Savage's One Day Builds: Staple Sorter and Organizer!
+csu4jQNFfzA 32:44 Adam Savage's One Day Builds: Drafting Tools Sorting Drawer!
+1NWAxkDZ9xs 34:13 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 3!
+gygyNt2AnKA 26:24 Adam Savage's One Day Builds: Giant Swiss Army Knife Repair!
+inQ16HamIWk 52:25 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 2!
+lsXLGT5N2uo 1:17:55 Adam Savage's One Day Builds: Ghostbusters Ecto Goggles + Vacuum Former Rebuild!
+Pb1BpA7QN3U 47:41 Adam Savage's One Day Builds: Hellboy's Samaritan Prop!
+HWnDC6KzLg8 28:19 Adam Savage's One Day Builds: LEGO Mandalorian Razor Crest!
+chbZJAJ9y68 25:33 Adam Savage's One Day Builds: Miniature Shipping Container!
+7aGfiNy9Oos 28:23 Adam Savage's One Day Builds: Table Saw Fence Upgrade!
+BEVEYvAO3rI 21:32 Adam Savage's One Day Builds: Car Seat Dog Bed!
+8PEc5blz_fY 21:20 Adam Savage's One Day Builds: Planer and Spindle Sander Station!
+BbrQ4OX-1-E 32:29 Adam Savage's One Day Builds: New Cut and Sew Station!
+XVEww6Ylw5c 41:23 Adam Savage's One Day Builds: Thread Tapping Guide Block!
+EXaDxl60rTQ 54:24 Adam Savage's One Day Builds: Brass Watering Can!
+OxkszitNWN8 17:46 Adam Savage's One Day Builds: Upgrading Captain America Shield!
+lp85yyPSP10 43:29 Adam Savage's One Day Builds: Custom Workshop Apron!
+ivaxOv25RaI 16:13 Adam Savage's One Day Builds: Letter Stamp Holder!
+J170jeH0yXU 34:59 Adam Savage's One Day Builds: Foam Prop Safe!
+BTGN5QNyA-8 42:41 Adam Savage's One Day Builds: Machinist Tool Drawers!
+4MVxJNawefM 23:26 Adam Savage's One Day Builds: Tintype Photo Clamp for Gary Oldman!
+m-ayU2GCQ_Q 34:50 Adam Savage's One Day Builds: Drill Press Modification!
+_KfaSiD-7iY 38:35 Adam Savage's One Day Builds: Lathe Chuck Rolling Rack!
+fru2G4bGL14 40:30 Adam Savage's One Day Builds: Lathe Tailstock Repair!
+98MCz9gQaiE 32:41 Adam Savage's One Day Builds: Giant Nut and Bolt!
+R-De84JfQBU 24:26 Adam Savage's One Day Builds: Spacesuit Display Stand!
+eiQuBonhGiw 31:00 Adam Savage's One Day Builds: Workshop Filming Slate!
+EWXcnVTY3pk 46:48 Adam Savage's One Day Builds: Air Tools Sorting Boxes!
+ieDYlkJTNYI 20:38 Adam Savage's One Day Builds: Custom Pistol Whip Controller!
+hIs3lioHoAo 21:44 Adam Savage's One Day Builds: Headphone Rack!
+qE68mYkpZvQ 31:02 Adam Savage's One Day Builds: Portable Audio Recorder Rig!
+oSHoo_thI2Y 37:24 Adam Savage's One Day Builds: Front Porch Table!
+TsWG4nSi-Hs 42:45 Adam Savage's One Day Builds: Stitching Pony Clamp!
+frwLir1A_qg 42:55 Adam Savage's One Day Builds: Making a Stable Workbench!
+ritwf-_iOlg 1:08:55 Adam Savage's One Day Builds: Mini Chop Saw!
+-xWGRVL-ExA 18:38 Adam Savage's One Day Builds: Mini Machine Vise!
+65r_1TzJXaQ 50:07 Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!
+vOROGorDG6s 33:34 Adam Savage's One Day Builds: Fiber Optic Microscope Ring Light!
+A3-9Vk_2be4 32:31 Adam Savage's One Day Builds: NASA Retro-Reflector Replica!
+TT8PzFaZ0Zw 36:54 Adam Savage's One Day Builds: Lithium Ion Battery Charging Station!
+I7U-QCTS9Os 39:29 Adam Savage's One Day Builds: Repairing Vintage Aviators!
+nCrB0FnW__s 28:19 Adam Savage's One Day Builds: Movie Sword Rack!
+0nLlCmZspVM 20:57 Adam Savage's One Day Builds: Tweaking the Table Saw!
+yWRLz_r_d3A 33:32 Adam Savage's One Day Builds: Little Thwacker Hammer!
+ZNwvjaIW-pU 1:00:10 Adam Savage's One Day Builds: Making a Die Filer Machine!
+eVnWyEvT-KY 27:09 Adam Savage's One Day Builds: Lathe Infrastructure Upgrades!
+PLHUcP8LfkM 1:28:25 Adam Savage's One Day Builds: LEGO International Space Station!
+jPAGZpNZrwU 54:21 Adam Savage's One Day Builds: How To Build a Box!
+z_Ti4GP0ntE 1:07:08 Adam Savage's One Day Builds: Refrigerated Cooling Suit!
+ZjpPgv9XtJA 19:46 Adam Savage's One Day Builds: Thermal Detonator Kit!
+SgCJeoDNmYU 41:21 Adam Savage's One Day Builds: Poker Table!
+x8YTMPuvTGw 33:49 Adam Savage's One Day Builds: Dinosaur Skull Lamp!
+Bw-ttd_EELA 13:54 Adam Savage's One Day Builds: Rickshaw Carriage!
+TqWhLPsEJE8 23:21 Adam Savage's One Day Builds: A Fake Can of Beans!
+8uGS11yuVyo 34:37 Adam Savage's One Day Builds: Portable Soldering Station!
+JMv0PlMKkbs 20:54 Adam Savage's One Day Builds: Gaslamp Lantern Prop!
+6ps4vbQ6Tk0 28:02 Adam Savage's One Day Builds: Workshop Hardware Storage!
+3JRbGcyPUnk 26:11 Adam Savage's One Day Builds: Custom Beat Saber Hilts!
+MP5pbJ6Ajjc 24:32 Adam Savage's One Day Builds: Space Camera Shroud!
+kjxdWnUBmpU 37:16 Adam Savage's One Day Builds: No-Face Animatronic Mouth!
+Dt6BQPNGGTw 41:52 Adam Savage's One Day Builds: Star-Lord Cosplay!
+vqqEFEgx-ZI 35:00 Adam Savage's One Day Builds: Star-Lord's Walkman!
+3jdF1yVBWdc 20:09 Adam Savage’s One Day Builds: Project Egress Apollo Hatch!
+Srg47mr4X5A 14:01 Adam Savage's One Day Builds: LEGO Lunar Lander
+Bh6C2O77EpI 14:39 Adam Savage's One Day Builds: Cave Museum Display!
+YZV4A4Kl0yM 28:20 Adam Savage's One Day Builds: Hero Prop for TV Show!
+2NYtPWhdhhQ 15:54 Adam Savage's One Day Builds: Iron Man Armor Stand!
+7uS7A4x31PY 34:16 Adam Savage's One Day Builds: Scratch-Built Spaceship!
+vCi5usulDIo 1:20:48 Adam Savage's One Day Builds: Swordmaking at Weta Workshop!
+7oGslDjTnHI 29:33 Adam Savage's One Day Builds: Mortal Engines Hand Cannon!
+6iIZ9rnS6HU 1:02:24 Adam Savage's One Day Builds: Eric Idle's Guitar Case!
+ZfvtGrhYk0I 26:44 Adam Savage's One Day Builds: Kit-Bashing and Scratch-Building!
+MxLOoriXkMc 46:22 Adam Savage's One Day Builds: Overengineered Bottle Opener!
+GEhBPI2QVBI 0:34 Last Call for Adam's One Day Builds T-Shirt!
+QCBcWm85gWo 15:33 Adam Savage's One Day Builds: Kit-Bashing a Robot!
+BpaYqFd5S5c 0:48 Adam Savage's New "One Day Builds" T-Shirt!
+WnJDYjbWCwI 1:10:53 Adam Savage's One Day Builds: The First Spacesuit!
+AXzurpmc8SE 39:15 Adam Savage's One Day Builds: Everyday Carry Bag!
+G7MDrUG4cws 36:59 Adam Savage's One Day Builds: 1000 Shot NERF Blaster!
+9XB4Be6TjHU 55:21 Adam Savage's One Day Builds: Snub-Nosed Blade Runner Blasters!
+JL3uZ88vA_0 19:54 Adam Savage's One Day Builds: Custom Workbench LED Lamp!
+F48rk7h-GDo 35:33 Adam Savage's One Day Builds: Foam Ringwraith Gauntlet!
+wl558EoTuEQ 30:19 Adam Savage's One Day Builds: Blade Runner 2049 Binoculars!
+H9L3pX8zTPE 10:27 Adam Savage's One Day Builds: Cave Bathroom Upgrade
+8qvlpRBeMNY 25:19 Adam Savage's One Day Builds: Foam Cosplay Sword!
+BGlcF4Bpg78 37:01 Adam Savage's One Day Builds: Excalibur Sword!
+dqmF2_h8icM 38:35 Adam Savage's One Day Builds: A Better Tape Dispenser!
+9xpPXpnnCNI 39:25 Adam Savage's One Day Builds: Chewbacca and C-3PO!
+1gJ4_Hc17cM 35:38 Adam Savage's One Day Builds: Chewbacca's Bandolier!
+cwOXSXkW-uE 31:49 Adam Savage's One Day Builds: Custom NERF Rifle
+-HfaLqmRO1k 21:52 Adam Savage's One Day Builds: Ping Pong Machine Gun!
+M4M3I0nXEMI 23:41 Adam Savage's One Day Builds: Vsauce Glasses Hack!
+G96YQQ7vW8w 20:26 Adam Savage's One Day Builds: Pedal-Powered Strandbeest!
+7JrCejRYGAM 56:27 Adam Savage's One Day Builds: NASA Spacesuit Parts!
+L9O3KWrvxKA 42:47 Adam Savage's One Day Builds: Totoro Costume!
+0cQ91lO4pH0 30:03 Adam Savage's One Day Builds: Bear Costume!
+qSr_qLkVqDw 19:08 Adam Savage's One Day Builds: Kylo Ren's Costume Gorget!
+3KpdjGlHB30 12:44 Adam Savage's One Day Builds: Iron Giant Bolt!
+ssxCQuv3KzE 13:45 Adam Savage's One Day Builds: Foamcore House!
+U46Yo_6z_F4 21:30 Adam Savage's One Day Builds: LEGO Sisyphus Automata!
+gcDCZ2TmTck 29:20 Adam Savage's One Day Builds: Hellboy Sword!
+8UmBKWQ52oQ 27:53 Adam Savage's One Day Builds: Puppy Car Seat!
+JYwNuP7cwJs 35:37 Adam Savage's One Day Builds: Making a Puppet!
+jaVi06DaTk0 37:21 Adam Savage's One Day Builds: Star Trek Captain's Chair
+LHITcrnGn1U 1:08:35 Adam Savage's One Day Builds: Cylon Models with Battlestar Galactica's Aaron Douglas!
+CBHQ7lQGOf0 1:00:04 Adam Savage's One Day Builds: Cosmonaut Model Kit
+QWiqr-lwYA0 1:07:23 Adam Savage's One Day Builds: Barbarella's Space Rifle
+Et-JvYrQ84o 30:39 Adam Savage's One Day Builds: Custom Multi-Tool Belt Holster
+O1--0DLJv-8 25:10 One Day Builds: Customizing Adam's Hero Sword
+lPLvkrtqkJ8 33:00 Adam Savage's One Day Builds: Traveling Beaver Box
+4sCReGjfZ_A 16:37 Adam Savage's One Day Builds: Han Solo's DL-44 Blaster
+0JnTThZMJAg 13:12 Adam Savage's One Day Builds: Strandbeest Model Kit Fitbit Zip Wireless Activity Tracker
+YXzxEqdvuIE 31:11 One Day Builds: Adam Savage Demonstrates Weathering Tricks Mophie Juice Pack Helium for iPhone 5
+-tUHJnl8qPM 32:11 One Day Builds: Adam Savage Makes Something Wonderful from Scratch Sony NEX-5R Mirrorless Interchangeable Lens Camera
+
 dpgVOHFhI6M 10:47 LEGO Horizon Forbidden West Tallneck Lighting Kit Build!
 sMV99wKhcLg 8:29 Adam Savage Inspects a Prototype Machined Brass Pen!
 dYaS2MeXQk0 9:15 Adam Savage's Favorite Tools: Cordless Heat Gun!
-NM9Hxpk_tPo 18:32 Adam Savage's One Day Builds: Annular Cutter Storage!
 fSIC_xODA_o 10:22 Star Wars Vintage Action Figure Guides!
 aZYOugt3Bmw 15:24 Inside Wētā Workshop's Animatronics Lab!
 CERnsE9nlfQ 17:21 Making a Custom Figure Display Case with LED Spotlights!
@@ -2228,7 +2449,6 @@ t3dfhHEj0Ow 20:38 How Wētā Workshop Creates "Bigature" Landscapes Out of Foam!
 Zi4Zsu5y-mw 15:02 Show and Tell: 2001 A Space Odyssey 1/6 Scale Spacesuit!
 1GCy0oOSPYo 11:02 What Adam Regrets About His Tattoo
 rbZ33EWIZt0 16:05 How to Make Laser-Cut Wood Kits Look Handcrafted!
-SGUtT2Lo944 1:16:13 Adam Savage's One Day Builds: AT-AT Walker Garage Kit!
 Tr5JBIiXI88 17:52 World-Building a "Bigature" for Wētā Workshop Unleashed!
 uK9XO_Qmt9E 18:47 Adam Savage Lockpicks Open This Tachograph!
 hD94rKE0aAQ 14:12 Let's Build: Transformers ThreeZero DLX Jetpower Optimus Prime!
@@ -2242,18 +2462,15 @@ JjuXjqy3AFA 9:13 Adam Savage's 'Man with No Name' Holster Replica!
 ApZy-PSeytM 14:55 LEGO Minifigure-Scale Airbus A380 Airplane! (40,000+ Bricks!)
 n564Cw0lHLk 19:57 Adam Savage's Curta Calculator Gets CT Scanned!
 rioVXjVCSYI 6:15 Awesome LEGO Chinatown Themed Cityscape!
-RfNIlmKXOWg 32:40 Adam Savage's One Day Builds: Custom Poker Chip Carrier!
 eC2kqv-yKHk 9:28 Massive LEGO Eiffel Tower! (25,000+ Pieces)
 uJuH_b-vSiQ 40:29 Bandai Cup Noodle Model Kit?!? Let's Build It!
 onZDAKJq6z4 7:52 Adam Savage's Aluminum Foil Ball Cut In Half! (Ft. Waterjet Channel)
 iA5ZMHQzhr4 10:01 Adam Savage's Collection of Narnia Swords!
-DPTu47FBkpg 46:04 Adam Savage's One Day Builds: Chinatown Stunt Knife (Corridor Crew FX Challenge!)
 dXbd6XC7WyA 3:15 Adam Savage Inspects the 'Passengers' Spacesuit
 6Imz_hZf1Qg 11:18 Star Trek Filming Miniature Model and Hand Props!
 YrfIMtjYIWQ 9:18 Original Star Trek Uniforms and Borg Costume!
 E9nBwursJpM 11:14 Adam Savage Inspects Original Aliens Colonial Marine Props!
 l3EsiXhNGTM 8:28 Original Animatronic Gizmo Puppet From Gremlins!
-bJp3B3jZkhE 36:16 Adam Savage's One Day Builds: Aliens Motion Tracker Prop!
 0dQyqMDJfuo 7:13 1,000 Pound Monster Clay Creature Sculpture!
 Ha8wTXm0oHk 8:58 Elite Creature Collectibles' Guardian Alien Design!
 EvxRQ_r_cfw 14:54 Adam Savage Surprised By Indiana Jones Prop Details!
@@ -2262,83 +2479,65 @@ kdhp1wxvY1M 8:07 Raf Grassetti's Incredible Character Art and 3D Prints!
 CTtNXOQ0Eiw 6:58 The Original Terminator T-800 Metal Endoskeleton Arm Prop!
 rr7j7ie-Y9Y 7:47 Silicone Creature Masks at Monsterpalooza 2022!
 5Jj8gZW_BkM 8:51 Batman's Original Working Grapple Gun Prop!
-Arm0Mvx45Us 12:28 Adam Savage's One Day Builds: Adding Casters to Costume Cases!
 vwJo-ik39eE 9:27 Concept Sculptor Simon Lee's Monsterpalooza Showpiece!
 k4Ps9-1naUk 10:35 The Sci-Fi Robot Helmets of BurgerStrings!
 YIW8KHn_mBo 10:04 The Stop-Motion Animated Puppets of Gremlins 2!
 TjS2GE_MuC8 11:40 Adam Savage Meets Original Kill Bill Bride Katana Prop!
 52nftjuvCzo 9:43 HasLab's Reva Force FX Elite Lightsaber Prototype!
 aey9t9rOFGU 11:19 Star Wars Archive Collection Character Maquettes!
-A4v97zfHzcU 28:44 Adam Savage's One Day Builds: Aliens Welding Torch!
 1qtdH5yFt04 8:44 Life-Size Star Wars Imperial Probe Droid Robot Build!
 Zqz05dYFYu8 13:17 Original X-Wing Model from Star Wars: Episode IV!
 rOWF3LPTqD0 17:48 Elegoo Saturn 2 8K Resin 3D Printer: First Test Prints!
 hAp4W18qX14 17:08 Adam Savage Stunned By This AT-AT Walker Garage Kit!
-SSvcKIa1Uws 1:02:37 Adam Savage's One Day Builds: Moby Dick Diorama Maquette!
 heVfGT0f22k 27:45 Adam Savage's Guide to Sanding Tools!
 SBvohm4TaN0 32:48 The Amazing Miniature Sign Builds of Route 9 Signs!
 5kYtfwKXzSQ 3:55 Adam Savage Tests His Temporary Ruler Tattoo!
 rzJG_TapQZI 13:55 LEGO Star Wars Trench Run Automata + Lighting Build!
 2MlWsXDsKc8 12:07 Adam Savage Unpacks Fan Gifts from Planet Comicon!
 7KN9wF3DlaU 27:51 Tested: SLR Magic Cine Lenses for Micro Four Thirds Cameras!
-K0FcUntHyKw 58:02 Adam Savage's One Day Builds: Razor Crest Mods, Part 1!
 2u1z1bApFo4 14:40 How to Use Threaded Inserts for Wood, Metal, and 3D Prints!
 b94cKIw435E 9:09 Show and Tell: Adam Savage's LEGO Minifigure Collection (Including Muppets!)
 YfoHVH6wwRo 9:54 Let's Build: Japanese Steamed Bun Shop Kit!
 7DjbNwhhDdE 9:21 Why Adam Savage ALWAYS Uses Center Drills
-GtLCJ2b6XEc 21:46 Adam Savage's One Day Builds: Mandalorian Vibroblade Kit!
 ev2MGnrxHIo 18:02 Adam Savage's Chronicles of Narnia Telmarine Armor!
 jC0Uxc5RKGg 8:32 Jack White Made Me This Surprise Gift!
 FUqD4FMtI-8 23:23 The Wandering Earth 1/6 Spacesuit Lighting Mod!
 WkLf69Cy-q8 15:19 A Tale of Two Syd Mead Blade Runner Blasters
 m9lFcduaZPU 6:43 Adam Savage's Rant on Laser Printers
 iAMPkNggLJ0 16:35 The Origin of Ghostbusters' Belt Gizmo Prop!
-5RL7EYSbc_g 55:52 Adam Savage's One Day Builds: The Matrix EMP Switch! Blitzway's 1/4 Scale Apollo 11 Astronaut!
 NMGtR9OLAao 19:17 LEGO Back to the Future DeLorean + LED Lighting Kit Build!
 elIcfzl3-e0 28:52 The Color Theory of Star Trek Costumes in 1/6 Scale
 d5MTFw9gUc8 8:21 Ghostbusters Prop Replica: Venkman's ESP Test Machine!
-wmjZL8nm3MM 46:58 Adam Savage's One Day Builds: Inglourious Basterds Knife Replica!
 YY1_X_-cTpM 21:34 Adam Savage Repairs His 20-Year-Old Shop Sign!
 98C9zxR4xTk 25:57 How to Make Diorama Bushes with Old Paint Brushes!
-zR4X775Y-9E 34:51 Adam Savage Reacts To His First One Day Build!
 DxEn4Zj7tow 11:48 Adam Savage's Spring Collection!
 J6oPJmGsioA 9:38 Show and Tell: Adam Savage's Recent Road Trip Acquisitions! 4K DLP Projector vs OLED TV!
 Vhumui9T9og 5:34 Adam Savage's New Precision Dial Calipers!
-S5o9NORnF1o 57:32 Adam Savage's One Day Builds: Papier-Mâché Mask!
 aUYeR2q2Axo 9:06 [ASMR] 1/220 Scale Papercraft Model Kit Build
 ammrI9a1GoU 8:47 Quick Builds: 1/220 Scale Papercraft Model Kit!
 0M93BCHCjAs 5:44 Adam Savage's Favorite Tools: Solvent Dispensing Can!
 o8_8T3IoouU 14:25 Star Trek: The Motion Picture's 1/6 Scale Figures!
 GBr13DOC2j8 22:37 The Making of Modern Star Trek Figures
-FuMf6-9ZsJo 40:29 Adam Savage's One Day Builds: Vintage Bicycle Restoration!
 cfmqdNTN8rk 22:45 How to Make Fake Concrete Sidewalks for Dioramas!
 ruSOwI2xAYI 28:29 Adam Savage's Apocalypse Now Kurtz Dossier Replica Project!
-rL7k8kjIdow 1:03:48 Adam Savage's One Day Builds: James Bond's Spectre Cane!
 veSJ4K5rwWU 14:30 LED Lighting for Miniatures and Dioramas!
-NMEkK9cdEqg 30:44 Adam Savage's One Day Builds: RoboCop 2's Cain Stop-Motion Puppet!
 0lAHy9cW-ps 13:20 How to Make Diorama Landscapes with Foil and Plaster!
 9cE4c61Ya0g 13:03 Adam Savage's Dirk Gently Steampunk Crossbow Hero Prop!
-jOXidWIB-gY 20:13 Adam Savage's One Day Builds: Drill Press Modifications!
 vCzSaO4yajI 21:37 Cyberpunk 2077 Diorama Display Build!
 BfQb7giwRz0 11:59 Behind The Scenes of Adam Savage's Dart Blaster Video Shoot!
-4GcuGnjv2Aw 29:01 Adam Savage's One Day Builds: Special Effects Syringe!
 uHukgTMBzKk 16:39 How To Turn Your Sketches Into Digital Drawings!
 ioLtieMWRT8 5:39 Adam Savage Demos Hydraulics with Cheap Plastic Syringes
 7og5Ps7Cx0Q 34:19 Reorganizing Adam Savage's Workshop Materials Stock!
 H9eqjVIH6OE 53:16 Adam Savage's Live Builds: KiwiCo Articulated Desk Lamp!
-9LVFVTMleio 46:32 Adam Savage’s One Day Builds: Head-Mounted Dart Blaster!
 UtQTIZSf8Mo 38:38 Guide to Prototyping in Cardboard and Foam Core!
 nCoeD7okrU8 8:12 Leonardo Da Vinci's Codex Leicester Replica!
 8PN8MPw-NE0 23:13 Adam Savage's One Day Repairs: UGG Boots Part Deux!
-YIbb-Bck8wc 46:43 Adam Savage's One Day Builds: Blade Runner 2049 Helmet Parts!
 LttWb771mjw 11:07 LEGO Airplane Dogfight Kinetic Diorama!
 q_YZX1SgZ5Y 27:32 Adam Savage Takes the Aluminum Foil Ball Challenge!
 bzJE9Rlb_3s 25:40 Adam Savage's One Day Repairs: Old Wood Hand Plane!
 _cZJSHDMxTs 9:55 Show and Tell: Adam Savage's Custom Welding Cart!
-uzF351VecZA 40:38 Adam Savage's One Day Builds: Painting The HasLab Razor Crest!
 kRXcDIwq4XM 24:28 Adam Savage's Leonardo Da Vinci Notebooks Collection!
 b581gVb34AQ 11:04 Portable Smoke Machine for Cosplay and Props!
-xHS83PFsek4 24:20 Adam Savage's One Day Builds: Weathering the Blaster Vault!
 PX0ra2GarkM 12:49 Adam Savage Explains What to Do When You Drop Gobs of Loose Hardware Valve's Handheld Gaming PC Tested!
 jxDSEulomCg 43:06 Adam Savage's Sci-Fi Blaster Storage Vault!
 Ub0efbg1caw 13:58 Adam Savage's Guide to Flush Cutters and Nippers!
@@ -2346,7 +2545,6 @@ R33QA--RdYc 9:37 Adam Savage's Favorite Screwdrivers Sent By Fans!
 xMkJGIWrtVA 19:30 Adam Savage Restores An Old Desk Chair!
 rQyFoKpDRAw 5:44 Why the Space Shuttle Discovery Delights Adam Savage SO MUCH
 TRRRRJph9rE 14:58 Adam Savage's Vintage Cinematography Gear!
-NYkF5EwaDBU 19:29 Adam Savage's One Day Builds: RoboCop 2's Cain Robot!
 rgYby0IJSVs 26:37 Adam Savage Upgrades His Knife Sharpener!
 bNHbyebM8n4 5:24 How Smithsonian Transports and Hangs Their Historic Aircraft
 KAdg-ap-OtI 16:47 Why the National Air and Space Museum Is (Temporarily) Closing
@@ -2356,38 +2554,28 @@ BNyKb87iU5I 9:22 Practical Special Effects of Ghostbusters: Afterlife!
 xXNg8Rlo2ak 34:38 Adam Savage Remembers His Mentor in Model Making
 Sy_cxDhWJPk 6:37 Adam Savage Inspects Amelia Earhart's Record-Breaking Aircraft!
 2ZWZjAOLeDI 10:51 Adam Savage Examines the Wright Brothers 1909 Military Flyer
-hX5Qsrpj9Ao 31:26 Adam Savage's One Day Builds: Surface Plate Cover
 QF4veKPSS1Y 13:09 Making An Acrylic LED Cross-Section Display!
-V0kQDCVU_48 36:38 Adam Savage's One Day Builds: Mini Apple Box!
 DgT4eSpAQVg 13:48 Adam Savage Visits Ghostbusters: Afterlife's Art Department!
 zMfMAePNpB4 5:17 Adam Savage Reflects on the Small Spaces Astronauts Must Endure
 -WPg7xTl6ZE 11:53 Adam Savage Checks Out Smithsonian's Mannequins!
-IeFIhKaJEFo 31:34 Adam Savage's One Day Builds: Dune Sand Compactor Replica!
 elGK9St0kJ8 5:46 Adam Savage's Quick Tips: How to Fill Nicks in Wood
 H3o2XkVjxzc 23:10 Amazing Laser-Cut Star Wars Shadowbox!
-uEcx6yb5yXQ 41:33 Adam Savage's One Day Builds: Magnetic Lathe Chuck!
 1bmB9Ms-X10 19:56 The Production Design of Ghostbusters: Afterlife!
 93D-JZ_QtUI 14:11 Adam Savage Examines a WWI Aircraft!
 kuWZyFCHRIs 18:42 Adam Savage's One Day Repairs: Cleaning Micrometer Gauges
 wAOtz5uKDSk 26:30 Wonder Woman Golden Armor Diorama Build!
-ykr2IMSYDMc 30:43 Adam Savage's One Day Builds: Ping Pong Ball Launcher!
 ZoeL2lwLpXs 9:10 Creating Ghostbusters: Afterlife's On Location Set!
 NiZPuE0wBE8 40:58 Adam Savage's Guide to Model Spaceship Paneling!
 n7LFYB8B-IE 11:26 Adam Savage Tours National Air and Space's Conservation Lab!
-jQSTJSniXKM 32:25 Adam Savage's One Day Builds: Fixing the Mill's Motor Fan
-3qOJakmE7Pk 33:52 Adam Savage's One Day Builds: Mythbusters Blueprint Display with Kyle Hill!
 pzaXdNp38hE 18:14 Adam Savage Visits Ghostbusters: Afterlife's Costume Department!
 JPpPE0uf74E 8:20 Adam Savage's Favorite Screwdriver Design!
 5glDh3xNfEg 8:08 Adam Savage Checks Out the Apollo 11 Command Module!
-gaJgfS_2LZ4 32:36 Adam Savage's One Day Builds: Gauge Block Storage Rack!
 FOwv35You7k 14:09 Adorable Mini C-Stand + D-I-Y LED Ring Light!
 u5CDKWnWpPs 9:46 How Ghostbusters: Afterlife Brought Back THAT Legacy Character [SPOILER WARNING!]
-_2kmXLP_uXg 33:13 Adam Savage's One Day Builds: Machining Mystery Prop!
 qE7dYhpI_bI 45:08 Adam Savage's Epiphany on the Science of Measurement!
 6BecCJoMRng 4:48 Grant Imahara's Scratch-Built Hoverboard
 0EfPI-MY2Y4 8:56 Tested: Atlas Orion Anamorphic Cinema Lenses!
 2qqxZKWSXio 12:42 Adam Savage Cosplays as Doctor Strange!
-m6VYpHdBG84 15:48 Adam Savage's One Day Builds: Weathering a Sword Blank!
 vDsVwbWiVFI 8:28 Adam Savage's Quick Electronics Wiring Tips!
 XGstRBM2UDs 15:40 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 10)
 fuCRr4c21mY 15:37 The Making of Tested's Short Film "The Beacon"!
@@ -2396,26 +2584,19 @@ q4SHatvp_Jk 18:41 Makers Secret Santa: The Butt Keyboard From Hell!
 e12PRNqwpHc 20:23 Behind The Scenes of Tested's Short Film "The Beacon"!
 x5DqW3RKxNA 23:01 Adam Savage's Spacesuit Secrets!
 UmEdray7a0E 14:45 Show and Tell: MythBusters Fart and Plane Boarding Props
-yzy_8tT4TO0 24:35 Adam Savage's One Day Builds: Miniature Astronaut Display!
 XYYvIRaEGR0 17:53 JoyToy 1/18 Scale Mecha Diorama Kit!
 j7HiJWulFdo 20:22 Adam Savage in Alien's Nostromo Crew Uniform!
-9TZ5yflpmq4 42:15 Adam Savage's One Day Builds: Ghostbusters Ecto Goggles!
 BIf7fuOIB1Q 21:17 Adam Savage's Guide to Staplers and Nail Guns!
 jk8Fu6zHFzQ 10:06 Grant Imahara's BB-8 Replica!
 l6ZRDCG1ZDA 13:38 Adam Savage's Favorite Books, Movies, and YouTube Channels of 2021!
 Zkx6GR_x7wo 9:45 Adam Savage's One Day Repairs: Broken Pot Lid!
 xScE3qxQ03I 19:45 Tested in 2021: Favorite Coffee Table Books!
-9yzg3a91F5o 45:20 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 4)
 jA8D_bL5Whg 28:46 Jen Schachter’s Snow Globe Diorama Kit!
-2O92DT4x0tg 1:04:21 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 3)
 ntpthBbzK70 26:48 Playing Chess in Quest 2 Mixed Reality — Awesome Unity Slices Demo!
-HAirnq80dcQ 1:28:50 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 2)
 XhBSibI2nuA 21:36 Adam Savage and Jason Reitman Talk Ghostbusters: Afterlife!
 Uc2jXrxI1SU 32:14 Adam Savage Inspects Hasbro's Ghostbusters Proton Pack! Dune Crysknife Replica Prop!
 TjdqmqPwhks 18:45 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 9)
 yc8yHGvviY8 12:20 Camera Gear for Science Exploration and Expeditions
-OshKZcTFEZY 32:21 Adam Savage's One Day Builds: Ghostbusters: Afterlife Hand Prop!
-0FKxM-zNZBk 1:10:32 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 1)
 sSH1jS9FMcQ 12:25 Adam Savage's Favorite Tools: Drill Powered Paint Can Mixer!
 ovHk5PRE_Lo 3:11 Adam Savage's Personal Connection to the Viking Lander
 Y44_IgT3K9w 23:21 How To Make Mini LED Tube Lights!
@@ -2446,16 +2627,13 @@ _a2uE8-i_tE 15:19 Amazing Princess Bubblegum and Marceline Cosplay!
 8uLzRDExhBk 7:14 Smithsonian Welcomes The Expanse
 zhe8d9NgcsI 19:41 How To Use Flexible LED Filament Wire for Lighting Projects!
 qfaWpsfSDd4 18:36 Haunted House Miniature Diorama Build!
-dloSR3a57IA 43:24 Adam Savage's One Day Builds: Ghostbusters Proton Pack!
 Uoh4Q-I03tQ 9:08 Grant Imahara's Battlebot Deadblow
 UF1fxk-aIVI 5:29 Adam Savage Meets Alan Shepard's Mercury Suit!
 s1JfjEqBG8o 9:00 The One Thing Adam Became Expert at During MythBusters
 nfYBlBNreCY 12:07 Grant Imahara's Animatronic Grogu Replica
-NxL4SLzAkao 1:27:29 Adam Savage's One Day Builds: Aliens Colonial Marines Armor!
 lDSylp8r4EY 7:25 Adam Savage's Favorite Tools: Electric Cast-Cutting Saw!
 i2crXD9HjSM 8:15 Working on a Fiction-Based Aircraft as a Smithsonian Museum Specialist
 hsCSTO8SaQU 10:16 A Tour of Grant Imahara's Shop
-iEaf3t3KUyg 27:25 Adam Savage's One Day Builds: Hasbro Mandalorian Helmet Repaint!
 l0b960BZEAs 6:39 Adam Savage's Favorite Tools: Heat Gun and Iron!
 W3XUKBUCLUU 6:07 Conserving the X-Wing at Smithsonian
 eTtoN191-Wo 18:58 How to Add Smoke and Fog to Props, Miniatures, and Photography!
@@ -2506,13 +2684,11 @@ Iyl2ZuHRNT0 8:30 Weird and Wonderful Vintage Analog Clocks!
 OLAwyHF8cwg 8:16 How We Manage All Our Video Footage + Edit Off a NAS!
 rSOiusnpddc 9:57 Iron Man, Stranger Things, and Transformers at Sideshow Con 2021!
 V60_AA7Cwgk 10:52 Hot Toys Prototype Figures at Sideshow Con 2021!
-zginChewoKU 31:35 Adam Savage's One Day Builds: 2001 Spacesuit Helmet Repair!
 vetc7rEYnjI 25:03 Adam Savage's Guide to Drill Bits!
 bg-xRlTIXnw 14:19 Star Wars Sculpts and Figures at Sideshow Con 2021!
 6pIZI-TyyGM 9:04 Adam Savage's Lifecasts Collection!
 1g5XhaIp-i4 11:22 3D Printing Hagglethorn Hollow Tabletop Miniatures!
 xOPO2DskYhE 10:51 Adam Savage and Fon Davis Discuss Working on Matrix
--imr0Cy7NQY 39:42 Adam Savage's One Day Build: Acrylic Display Box!
 HtkdNq-hiS0 12:38 Adam Savage's One Day Beard!
 4Vliuu9KZ4I 23:04 Making a Custom Lightsaber Display!
 ifIySD3apIU 11:38 Adam Savage Reunites With Fon Davis' Mouser Mecha-Catbot from Battlebots!
@@ -2521,237 +2697,163 @@ s8idSAuc7uI 18:02 How to Make Alcohol Inks from Old Markers!
 2A9iGfUb4kQ 23:55 Adam Savage Inspects a $500 Suit of Armor!
 S6J6t6bv3aE 16:29 Show and Tell: Adam Savage's 2001: A Space Odyssey Space Suit!
 kcjCJkXw-NM 12:51 Adam Savage and Fon Davis Talk About Working on Star Wars!
-xePxGWc_mH0 34:00 Adam Savage's One Day Build: Fake Beard Wiring!
 D25Cnn74o1A 13:03 Tested Favorite Tools: Hot Wire Foam Carving Set!
 HjZvC0sEq80 6:24 Mondoshawan Ship Model from The Fifth Element!
 67nQzkYXlXg 4:05 Original Ghostbusters Terror Dog Puppet!
 oClWPnCphfA 22:58 3D Printing an Anatomical Cross-Section Sculpture!
 1dbUewjfipE 6:09 Adam Savage Meets Original Statler and Waldorf Muppets!
-ijosoNfEBP4 37:21 Adam Savage's One Day Builds: Aliens Colonial Marines Shoulder Lamp!
 0gu14BC-vEY 8:07 The FX History of the Dinosaur Input Device!
 AhO8rcGb-GE 9:19 Adam Savage Meets Original Star Wars Props!
 duIiGF7inro 8:37 Adam Savage and the Original Indiana Jones Fedora!
 CAGd_7djUF8 21:04 How to Make Custom LED Lights for IKEA Display Cabinets!
-iiZ5rh3Uo1o 1:14:52 Adam Savage's One Day Builds: Excalibur Henchmen Armor!
 IiGPSn3fklI 15:03 Adam Savage's Guide to Workshop Hammers!
 cnFynrqs7Fw 14:36 Kayte's Miniature Models from 'Real Steel'!
-dlCiIAS6fsA 26:51 Adam Savage's One Day Builds: MacReady's Hat from The Thing!
 3hXfsHjDAhk 18:28 How Holographic Doom Works on a Lightfield Display!
-NNNcGCZHvxE 53:53 Adam Savage's One Day Builds: Foamcore Architectural Model!
 RWxCvMzvxlQ 15:25 Adam Savage's Favorite Tools: Great Budget Vacuum Former!
 j8_EoUXvTJk 21:41 Adam Savage's New Milling Machine!
-ajHmyFX9zvk 24:47 Adam Savage's One Day Builds: Workbench Vise Upgrade!
-OUHShx43JVU 1:01:48 Adam Savage's One Day Builds: Miniature Piano!
 ieoSisOIWE4 8:56 Adam Savage's Beskar Spear Prop Replica!
-WAxxrBF5V3M 1:16:33 Adam Savage's One Day Builds: Famous Gemstones Collection!
-7D8sXR0ozeE 1:24:21 Adam Savage's One Day Builds: Animatronic Bear Head!
 ttexR6ZgBzs 18:01 Adam Savage's Guide to Workshop Scissors
 0wxpcfMB-qc 29:34 How To Professionally Frame Your Artwork at Home!
 uWdYs5R7mJk 21:24 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 8)
-0znjWy-Tr4Q 55:55 Adam Savage's One Day Builds: OneWheel Electric Skateboard Mods!
 mXR_0Yq25W4 14:21 3D Printing a Miniature Cityscape Diorama!
-TjvX8GiYA5w 44:30 Adam Savage's One Day Builds: Monster Puppet Kit!
 _61DYROQNNU 13:37 Adam Savage's Favorite Tools: Fabric Steamer (and a New Hat!)
 5-gurx0S1ks 21:56 Behind the Scenes: Editing Spatial Audio in Virtual Reality!
-QWBFHoJrosY 35:49 Adam Savage's One Day Builds: Star Wars Acrylic Paints Rack!
-l4Uew4czJ1o 41:51 Adam Savage's One Day Builds: Queen Elizabeth's Buzzer Bell!
 f2ajmCIVe9U 7:20 Tested Favorite Tools: Soldering Fume Extractor!
 kZSz0weq7GU 4:47 Adam Savage Geeks Out Over EVA Foam Scale Maille!
-cLrqogSndWs 1:09:07 Adam Savage's One Day Builds: Epoxy Headcast Helmet Skullcap!
 NsFBHqbNKvA 16:34 The Animatronic Robot Designs of Mark Setrakian!
-DcNPYycz4nU 57:13 Adam Savage's One Day Builds: Mandalorian Blaster Paint and Weathering!
 lloesAf3CV8 8:53 Medieval Alleyway Book Nook Diorama!
 BXWTNRHkDmQ 8:55 Adam Savage Rancor Maquette Statue Reveal!
 8DkBLbQ1WE4 19:13 Adam Savage Reorganizes His Workshop's Material Storage!
 4hhOA5TFvt8 9:09 How to Make a Fake Frosty Beer Bottle!
-Cj0uLKibPW4 1:37:37 Adam Savage's One Day Builds: Mandalorian Amban Blaster Replica!
 Hv14-nlQJ2s 4:17 Inside Adam Savage's Cave: The Return of Moly Dee!
 AFypEVQr7QI 9:27 How the Mythbusters Flatus Containment Device Works!
-4ufQUvxpuAo 36:53 Adam Savage's One Day Builds: Car Engine Model Kit!
 gQi9THORs1A 24:50 3D-Printing Lord of the Print's Godzilla Model!
-r0aae4df3Aw 37:18 Adam Savage's One Day Builds: LEGO Blade Runner Spinner Model!
 iHAkCYwxUb0 9:52 Adam Savage's Favorite Tools: Plastic Forming Strip Heater!
 sdoO1kZOQS4 24:58 Adam Savage's Indiana Jones Grail Diary Prop Replica!
-W1DrW_f_vNo 32:11 Adam Savage's One Day Builds: Hyperdodecahedron Model Kit!
 teteroQeKGY 4:28 Adam Savage Tries on Puppet Mouth Masks!
-drLGYpPbrZg 53:36 Adam Savage's One Day Builds: Painting Iron Man Armor, Part 2!
 agH0c5v18WU 8:24 Adam Savage's Vintage Automatic Testing Micrometer
 AwXZPxKPnX0 7:40 How Adam Savage Stores His Vintage Aerospace Sunglasses
-2tQf7cruUMA 37:37 Adam Savage's One Day Builds: Galloping Horse Animation Machine!
 17JxWEZPN4o 5:27 Adam Savage's Replica Creature Head from The Thing!
-CtGMBOqs0us 1:06:18 Adam Savage's One Day Builds: Painting Iron Man Armor!
 F5YmVHB3P5I 12:20 Adam Savage's Favorite Tools: Japanese Hand Saws!
-HqUlPoxrzjM 40:02 Adam Savage's One Day Builds: Hellboy Samaritan Replica Finale!
-ND4Y0gx4aTI 1:05:27 Adam Savage's One Day Builds: Iron Man Armor Boots!
 xf3ma1XFt9Y 8:04 Adam Savage's Favorite Tools: Safe Rust Remover!
 ye0Fws__fVQ 4:55 Adam Savage's Van Gogh Painting Replica!
-zWaQNVGhuyU 30:56 Adam Savage's One Day Builds: 3D Print UV Curing Oven!
 mCzHH3fE5V0 16:30 Tested: ResinLapse 3D Printing on Elegoo Saturn!
-eJUbdNhdhkk 1:46:32 Adam Savage's One Day Builds: Remaking The Crown!
 JFJYbIawnCI 12:10 Adam Savage's Favorite Tools: Portable Benchtop Parts Washer!
 lcJN-arQ92Y 8:48 Adam Savage's Rare Taylor Pressure Helmet!
-I5dH96JunrQ 55:55 Adam Savage's One Day Builds: Resin 3D Printer Station!
 9pTeyhp1ETE 21:34 Tested's New CNC Machine: Assembling the X-Carve Pro!
-jmYBQSqXnQ4 47:57 Adam Savage's One Day Builds: Shop Dust Collection System!
 VZqf5rOJNCE 24:43 Adam Savage's Favorite Tools: Superglue and Glue Accelerators!
 AhEStPPzkvk 9:40 Adam Savage's First Mechanical Hand Build!
 88otijaNOg4 13:41 Adam Savage's Favorite Books on Pool Hustlers, Card Sharps, and Con Artists!
 ptIF5Mn334Y 28:30 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 7)
 a23XlIqhffI 17:33 Iron Giant 1/50 Scale Diorama Build!
-of9qY62tWKo 40:53 Adam Savage's One Day Builds: Tabletop Maker's Vise!
 hd-35yJAYBo 19:36 Adam Savage's Favorite Tools: Woodworking Chisel Sharpening!
 8e_cMCGpR-k 24:08 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 6)
-ATfL9JQ--JE 1:03:05 Adam Savage's One Day Builds: Hellboy Samaritan Prop Barrel Rifling!
 M-d16zmseGw 10:36 Adam Savage's Favorite Tools: Reciprocating Air Saw!
-5NH1-3NBcOk 1:28:31 Adam Savage's One Day Builds: Micrometer Gauge Box Set!
 yc0GaUfUi-4 17:01 Star Wars Japanese Dojo Diorama Build!
 Z3-Fx-flm6M 40:56 Adam Savage Tests Boston Dynamics Spot's New Robot Arm!
 36J86bTnYnA 8:28 Stormtrooper Exploded-View Model Kit Build!
 T8lMmVU30W8 10:04 Adam Savage: Blade Runner's VFX and How 2049 Holds Up
-jfUL73pRYq4 1:02:53 Adam Savage's One Day Builds: Studio Ghibli Diorama!
 5Cu9Y2vPMgA 5:53 Adam Savage's Favorite Tools: C-Thru Triangle Ruler!
 uBWIFzgXAuQ 17:40 Adam Savage's King George Costume!
 UG5DapCtqc0 25:25 Adam Savage in Real Time: God of War Leviathan Axe Blade
 MiFLyAPyP2U 30:27 Adam Savage Assembles a Mandalorian Blaster Kit!
-lUwMEjh2-78 1:12:07 Adam Savage's One Day Builds: St. Edward's Crown
 e_IXwHmKU2g 14:50 Adam Savage Tests the AIR Active Filtration Helmet!
 7FYb1gwi-30 15:10 Weta Workshop's 3D-Printed Giant Eyeballs!
-9MLQEC2Hv28 24:51 Adam Savage's One Day Builds: Wire Storage Solution!
 tkR3bQ8Ak-8 30:37 Adam Savage's Live Builds: Real-Time Box Build!
-r93bWMzGo60 1:14:57 Adam Savage's One Day Builds: Custom End Tables!
 t9ATZdlUKww 25:10 Adam Savage's Favorite Tools: Haimer 3D Edge Finder!
 perVeCFBrdE 12:39 Adam Savage's Inigo Montoya Princess Bride Sword!
-Ic2S9ySxO0I 11:26 Adam Savage's One Day Builds: Lathe Collet Storage!
 Mg5gzXzY92k 14:12 Tested: Edge-Lit LED Panel and Figure Display Lights
-apeZO6C0ZeA 51:52 Adam Savage's One Day Builds: God of War's Leviathan Axe!
 gN5QqFKHGo0 7:58 Adam Savage's Favorite Tools: Moly Dee Tapping Fluid
 wr7U82Q3r-E 14:02 Adam Savage's Nagra Spy Recorder Collection!
 im1G0nIzEYE 4:37 Adam Savage's Bronze Beskar Ingot Gift!
-sbqytCVtQb4 21:09 Adam Savage's One Day Builds: New Drill Press Table!
-4iIBa0TLe9E 33:32 Adam Savage's One Day Builds: Mercury Spacesuit Wrist Rings, Part 2
-fM9FtG01wMg 45:11 Adam Savage's One Day Builds: Spacesuit Glove Wrist Rings!
 smQFsyrTWhk 16:20 Adam Savage's Essential Modelmaking Cutting Tips
 eu7pZukFQ7w 6:27 Adam Savage's Favorite Tools: Blundstone Work Boots!
 FEHYccr5bC8 15:14 Adam Savage Finally Fixes His Giant Swiss Army Knife!
 DF2Mmfj7yxc 12:20 Adam Savage Repairs His Ugg Boots!
-80YLonnG-Lo 28:24 Adam Savage's One Day Builds: Knight Lighter!
 2SpNjBI1lu0 18:53 How Boston Dynamics' Spot Robot Learns to Dance!
 ZlXGlBFFzJg 6:21 Adam Savage's Favorite Tools: Monkey Wrench!
 fkWsmKFMxRw 5:49 Adam Savage's Miniature Model from Star Wars: Episode 2!
-WQA-x2eYn5E 19:06 Adam Savage's One Day Builds: Custom Painting Shop Tools!
 ssfLP2Z_S50 10:08 Favorite Worldbuilding Coffee Table Books
 FQajiZVQWRs 19:47 Adam Savage's Live Streams: Weathering a Beskar Ingot Prop
 xDvqlJGjh-w 47:41 Writing Science Books with Mary Roach - The Adam Savage Project - 1/6/21
-8Sqo8njgt_0 36:20 Adam Savage's One Day Builds: New Lathe Chuck!
 rUIpT2oytXQ 5:58 Tested: Our Favorite Smart Home Wi-Fi Plug
-2UeghPJrUxE 29:12 Adam Savage's One Day Builds: New Workbench Lights!
-gCva75a8ATQ 18:30 Adam Savage's One Day Builds: Electronics Tool Cart!
 M_XYZSHz6DI 48:54 The Mandalorian Season 2 Finale SPOILERCAST - The Adam Savage Project - 12/29/20
 8kbu34dk92s 9:27 Adam Savage's Favorite Tools: McMaster-Carr Catalog!
 4ycLw4LFXDM 5:14 Adam Savage's Chewbacca Bowcaster Replica!
-uY7zpvjLx4Q 1:17:58 Adam Savage's One Day Builds: Iron Man Mark I Helmet!
 -R8wUybrspo 43:27 Adam Savage Modifies Boston Dynamics Spot's Robot Form!
 gKjkre4TqPo 37:01 Shop Organization with Laura Kampf - The Adam Savage Project - 12/22/20
 5NbK_H0QmOI 12:26 Adam Savage's Favorite Tools: Hot Wire Cutter!
 BC3grbtsN2g 14:25 What's Inside Adam Savage's Hip Pack!
 nEh5__V9zW8 5:47 Adam Savage Tests His New Pressure Washer!
-beGXa1TO6vo 1:47:53 Adam Savage's One Day Builds: Wookiee Feet!
 YG_c6evzyEM 14:06 Tested: Blackmagic ATEM Mini Pro ISO Video Switcher!
 dXqsdsB9emE 4:23 Tested: Ooni Koda 16 Gas Powered Pizza Oven!
-Vt0RxHzEhws 1:16:24 Adam Savage's One Day Builds: Iron Man Mark I Armor!
 Wf15R6uZloY 47:42 Mike Birbiglia - The Adam Savage Project - 12/15/20
 8rajGZ_sjo4 10:00 Adam Savage's Favorite Tools: The Savage Industries Apron!
 PJyfQkEFV9w 5:16 Inside Adam Savage's Cave: LED Space Helmet!
 BZ0b7s5i6r8 27:32 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 5)
-WBWUxWoNI5o 1:23:25 Adam Savage's One Day Builds: Hellboy Samaritan Storage Display!
-eBAWHbi4THs 39:39 Adam Savage's One Day Builds: Hellboy Samaritan Full Teardown!
 ImsjC-f56dQ 52:19 The Mandalorian Season 2 SPOILERCAST - The Adam Savage Project - 12/8/20
 gkNfD_CO3T8 11:31 Adam Savage's Favorite Tools: Blow Dryer Oven!
 zIzXQNVPHmA 9:00 Adam Savage's Alien: Covenant Spacesuit Helmet!
-N_tKi14mFrk 23:16 Adam Savage's One Day Build: Sticky Storage!
 EmoB4tds0dM 36:07 Making a Hidden World Book Nook Diorama!
-JYWfikf-3DI 24:31 Adam Savage's One Day Builds: Chewbacca's Bowcaster!
 lp3w3CqYGqI 36:21 BattleBots 2020 - The Adam Savage Project - 12/1/20
 lqZkBK6lbH4 6:50 Adam Savage's Favorite Tools: All About Awls!
 T5FbjENMND4 9:45 2001: A Space Odyssey Moon-Watcher and Bone Replica!
 ihmSRV95F_c 7:36 Filming Model Miniatures from Moon!
-iuNjDzT6PWo 55:53 Adam Savage's One Day Builds: Luke's Lightsaber!
-Ww7Ts37eN2g 42:55 Adam Savage's One Day Builds: Hellboy Samaritan Bandolier!
 DhEAGJrDaEU 41:00 Foamsmithing - The Adam Savage Project - 11/24/20
 GYIa_ryJsOo 9:45 Power Rangers 1995 Movie's Original Costumes!
-SutetC6n9so 42:04 Adam Savage's One Day Builds: Hellboy Samaritan Carrying Case!
 YqZGA99RoTI 1:06:59 Adam Savage's Live Builds: KiwiCo Ukulele Kit!
 e-wwk2RVjWY 5:58 Inside Adam Savage's Cave: Alien Nostromo Crew Wings!
-4GehjvyAsZs 48:48 Adam Savage's One Day Builds: Baby Yoda Mod and Repaint!
 41zypEN8hqQ 40:13 Late Night Comedy Writing - The Adam Savage Project - 11/17/20
 7tFwHXpxNLY 11:46 Adam Savage's Favorite Tools: Mobile Filming Rig!
 4oH0vkudKWY 8:14 Inside Adam Savage's Cave: Chronicles of Narnia Sword!
 rR8M8_-5rXc 3:38 Inside Adam Savage's Cave: LEGO Minifig Blade Runner Blaster!
-wnMH1s36WXo 41:14 Adam Savage's One Day Builds: How to Make an Apple Box!
 AmWgRWYyN6o 25:15 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 4)
 NkktALohXwQ 4:19 Adam Savage's Custom Ginger Beer Bottle!
 VIMMKlKRbD4 9:48 Tested: Hollyland Mars 400S Pro Wireless HDMI Kit!
-4JQ4O1SPHSY 56:14 Adam Savage's One Day Builds: How to Build a $5 Sword!
 Jh1a4M3YA_0 47:12 Alie Ward's Ologies - The Adam Savage Project - 11/10/20
 -5zSadDZMhA 9:54 Adam Savage's Favorite Tools: Annular Cutters!
 cYH6UuHQCwk 8:20 Adam Savage's Distortion Helmet!
-aLI-6SmkJLU 1:02:15 Adam Savage's One Day Builds: Han Solo's Holster Belt!
-ziIKLeacBDo 18:52 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 4!
 3sVWJThNzrI 39:53 Ted Lasso SPOILERCAST - The Adam Savage Project - 11/3/20
 rq__Lz1uf7w 8:11 Adam Savage's Favorite Tools: Wireless Endoscope!
 Qg1vsumLXcY 25:45 Adam Savage's New Custom Workbench!
 MvkYVuxMy0k 25:08 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 3)
-WfJtqnSexss 29:01 Adam Savage's One Day Builds: Restoring a Fabric Chair!
-AumnIehXwyI 35:57 Adam Savage's One Day Builds: Staple Sorter and Organizer!
 hhdZxzCxhd4 42:01 Comfort Movies During Lockdown - The Adam Savage Project - 10/27/20
 0cQcFsb_5Jc 8:25 Adam Savage's Favorite Tools: 3 Essential Pliers!
 u1kpYxCth5w 13:03 How to Make Creepy Specimen Jars for Halloween!
-csu4jQNFfzA 32:44 Adam Savage's One Day Builds: Drafting Tools Sorting Drawer!
 12RwfqvTMZk 27:44 How to Make Creepy Plaster Hand Casts for Halloween!
 EEgc5m5LWPk 32:14 Jen's Foam Wig Project - The Adam Savage Project - 10/22/20
 wInlwbGet5A 41:26 Making an EVA Foam Wig for Cosplay and Halloween!
-1NWAxkDZ9xs 34:13 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 3!
 MPy0JzpZuvY 5:52 Adam Savage's Favorite Tools: Safety Wire Pliers
 D5BO1JmYLN0 21:16 Age of Mecha: Awesome 1/35th Scale Mech Figures!
-gygyNt2AnKA 26:24 Adam Savage's One Day Builds: Giant Swiss Army Knife Repair!
 UkYR3ik19nw 8:10 Adam Savage's Favorite Tools: Folding Rulers!
 Rf_6etOJXfE 18:35 Augmented Reality Telepresence in HoloLens 2 and Quest 2!
-inQ16HamIWk 52:25 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 2!
 vPhtXBUZxIo 46:48 Muppet Performer Dave Goelz! - The Adam Savage Project - 10/13/20
 AYXdr7G4EHY 4:22 Adam Savage's Favorite Tools: Angle Finder!
 eeUoZp8sgT0 10:23 Adam Savage's New Machining Parallels!
 BdqsoDxCui8 23:51 Challenge Accepted: Drifting with Zoe Bell, Part 3
-lsXLGT5N2uo 1:17:55 Adam Savage's One Day Builds: Ghostbusters Ecto Goggles + Vacuum Former Rebuild!
 AuADKoSjJbw 7:17 Life-Size Mercury Space Capsule Cockpit Poster!
-Pb1BpA7QN3U 47:41 Adam Savage's One Day Builds: Hellboy's Samaritan Prop!
 ClxSdX3ynGQ 46:37 99% Invisible - The Adam Savage Project - 10/6/20
 7iss1tfYfyM 8:47 Adam Savage's Favorite Tools: iFixit Repair Toolkit!
 zWTxrnETT9s 18:02 Adam Savage's Cave Loft Tour!
 BCahfydXxaI 15:44 Challenge Accepted: Drifting with Zoe Bell, Part 2
-HWnDC6KzLg8 28:19 Adam Savage's One Day Builds: LEGO Mandalorian Razor Crest!
 H9dX1UV_onk 21:09 Panasonic S1H & S5 Full Frame Camera Testing!
-chbZJAJ9y68 25:33 Adam Savage's One Day Builds: Miniature Shipping Container!
 fdVm29yWCCY 34:16 The Boys Season 2 SPOILERCAST - The Adam Savage Project - 9/29/20
 nTLA_nnCxEo 3:49 Adam Savage's Favorite Tools: Optical Center Punch!
 MtGAiEQEIXE 35:49 How ILM Made The Mandalorian's Razor Crest Motion-Controlled Miniature!
 jFNhmBOsALo 11:49 "Grant Imahara's R2D2 Work" (Sept. 14, 2020, Q&A Part 4)
 j-u0iOtg3mM 23:36 Challenge Accepted: Drifting with Zoe Bell, Part 1
-7aGfiNy9Oos 28:23 Adam Savage's One Day Builds: Table Saw Fence Upgrade!
 70Xl70z8Tv0 14:44 "First Star Wars Prop Built as an ILM Employee" (Sept. 14, 2020, Q&A Part 3)
 gSx4P0kQQNk 23:39 How to Light Hot Toys Figures Without Batteries
 fIwJwRb5qKI 14:02 "Star Wars Prop I'm Most Proud Of" (Sept. 14, 2020, Q&A Part 2)
 u4ZWkIsS9eA 18:51 Tested: VR Simulator Cockpit Rig Build!
-BEVEYvAO3rI 21:32 Adam Savage's One Day Builds: Car Seat Dog Bed!
 Bbo45M8nGW8 12:09 "What Star Wars Can Teach Us Today" (Sept. 14, 2020, Q&A Part 1)
 OOU8yadI2sY 35:21 Cosplay in the COVID Era - The Adam Savage Project - 9/22/20
 2RFEs4mQb44 3:39 Adam Savage's Favorite Tools: Trammel Points and Rotape Beam Compass!
 nBiZRlomFNs 19:03 Adam Savage's Live Builds: LEGO Rickshaw
 0dn0d4WQ9wY 6:51 Adam Savage's ILM Modelshop Greeblie!
 SQ9bbMu3mdo 15:11 "About the Shop Floor" (Sept. 7, 2020, Q&A Part 7)
-8PEc5blz_fY 21:20 Adam Savage's One Day Builds: Planer and Spindle Sander Station!
 ObJFWGW_Doc 5:39 "Most Used Tool Regardless of Project" (Sept. 7, 2020, Q&A Part 6)
 KJgRis_qAGw 18:49 Lighting Setup for 1/6 Scale Figure Photography!
-BbrQ4OX-1-E 32:29 Adam Savage's One Day Builds: New Cut and Sew Station!
 VZrz3e5Yv3c 11:04 "COVID Changes That Should Stay" (Sept. 7, 2020, Q&A Part 5)
 N_NahbrqFwI 35:47 Evan Narcisse - The Adam Savage Project - 9/15/20
 AjJFTXFQWMk 4:59 Adam Savage's Favorite Tools: Socket Driver Adapters!
@@ -2761,93 +2863,68 @@ sBqJ8wfRJUs 14:32 "Lockdown Constraints With Interesting Outcomes" (Sept. 7, 202
 eu3T8x6eWq8 11:39 Inside Adam Savage's Cave: Spilled Sortimo Storage Box Sorting!
 GEK0EeAM2Ws 15:04 Testing iPhone 11 Lens Attachments + Custom Storage Box!
 hcQWtjzkt1w 9:42 "Being Good Natured About Mistakes" (Sept. 7, 2020, Q&A Part 1)
-XVEww6Ylw5c 41:23 Adam Savage's One Day Builds: Thread Tapping Guide Block!
 N02xowDuu04 35:27 Simone Giertz - The Adam Savage Project - 9/8/20
 n5laGi3GO7M 11:26 Adam Savage's Favorite Tools: Machinist's Blue Layout Fluid
-EXaDxl60rTQ 54:24 Adam Savage's One Day Builds: Brass Watering Can!
 O2ICDTv3VJA 9:16 Adam Savage Interviews Expanse Production Designer Tony Ianni
-OxkszitNWN8 17:46 Adam Savage's One Day Builds: Upgrading Captain America Shield!
 BlRaAcVYUbU 43:52 We're Back - The Adam Savage Project - 9/1/20
 cDiAYVTlgnQ 7:12 Adam Savage's Favorite Tools: Artificial Catgut Sinew
 EEWu7HbMzbk 8:39 Adam Savage Cosplays the Outbreak Hazmat Suit!
 SsHYEHVBfKw 4:59 Adam Savage Finishes Sorting His LEGO Collection!
 BfEq4-ld2uU 10:00 Snap Ships Modular Spaceship Building Kits!
 7CDzNJXRmDs 28:22 How To Make Custom 1/6 Scale Fluorescent Tube Lightsabers!
-lp85yyPSP10 43:29 Adam Savage's One Day Builds: Custom Workshop Apron!
 s288Yuz35qQ 9:52 Creature Puppets from Aliens, Flubber, Labyrinth, and Men in Black!
 7wNjATKTzcs 9:02 Adam Savage's Miniature Model from A.I. Artificial Intelligence!
 zVXSOB8wTWw 9:05 Scale Model Miniatures from Star Wars, Alien, and Star Trek!
 pg6vx5YdSh4 12:50 Original Costumes for Rocketeer, Pacific Rim, and V for Vendetta!
-ivaxOv25RaI 16:13 Adam Savage's One Day Builds: Letter Stamp Holder!
 LuwcsjyfSP0 9:39 Stop-Motion Puppets from Star Wars, RoboCop, and Jurassic Park!
-J170jeH0yXU 34:59 Adam Savage's One Day Builds: Foam Prop Safe!
 K9fQn1bQVsQ 7:23 Adam Savage's Favorite Tools: Best Budget Multimeter!
 X3ZA2vRE_Ps 12:32 Adam Savage's Kill Bill Bride Sword Replica!
-BTGN5QNyA-8 42:41 Adam Savage's One Day Builds: Machinist Tool Drawers!
 MhFqT0jYhHA 26:31 How To Make a Star Wars Action Figure Diorama (Free Design!)
 M5ZAfMGXChw 21:19 Star Wars Book Nook Diorama Build!
-4MVxJNawefM 23:26 Adam Savage's One Day Builds: Tintype Photo Clamp for Gary Oldman!
 H2UJqIihJBA 6:00 Adam Savage's Favorite Tools: Best Hot Glue Gun!
 Zwzqm_63zcE 5:46 Inside Adam Savage's Cave: Awesome Tengu Masks!
 VPChPpzIvSE 8:51 Adam Savage Builds an Octopus Puzzle! (Part 4)
-m-ayU2GCQ_Q 34:50 Adam Savage's One Day Builds: Drill Press Modification!
-_KfaSiD-7iY 38:35 Adam Savage's One Day Builds: Lathe Chuck Rolling Rack!
 okbsoGc456g 11:32 Adam Savage's Favorite Tools: Wiggler Machining Center-Finder
 d_dvuaUzq-4 9:30 Adam Savage's Leather Aragorn Vambraces!
 uMPPUZiqU5k 27:04 Raising Octopuses in a Home Aquarium and Laboratory! (Part 3)
-fru2G4bGL14 40:30 Adam Savage's One Day Builds: Lathe Tailstock Repair!
 ALesylse5a0 10:39 How to Draw and Annotate on Live Videos!
-98MCz9gQaiE 32:41 Adam Savage's One Day Builds: Giant Nut and Bolt!
 4ugXRgM-jUQ 4:42 Adam Savage's Favorite Tools: Safety Goggles!
 6SPhGBnvvyU 4:26 Adam Savage's Pet Dragon Puppet!
 lIUICaQSOz0 26:10 Adam Savage Builds an Octopus Puzzle! (Part 2)
-R-De84JfQBU 24:26 Adam Savage's One Day Builds: Spacesuit Display Stand!
 a2ovDhGGCas 12:39 Sideshow Collectible's New Quarter-Scale Superhero Statues!
 KuSP_6F9nxY 15:56 Building a New Gaming and VR PC!
 H24rPSj-9l4 22:08 3D-Printing King Atlan's Artifact Prop from Aquaman!
-eiQuBonhGiw 31:00 Adam Savage's One Day Builds: Workshop Filming Slate!
 HwjLlbBFiXU 11:22 Hot Toys 2020 Star Wars and Marvel Figure Reveals!
 gdPODQSjgQs 8:39 Adam Savage's Favorite Tools: Ratchet and Socket Set!
 jKA6D_k-cFA 6:50 Life-Size Baby Yoda! Sideshow Collectibles' The Child Prototype
 jVoj61CcQAY 25:23 Adam Savage Builds an Octopus Puzzle! (Part 1)
-EWXcnVTY3pk 46:48 Adam Savage's One Day Builds: Air Tools Sorting Boxes!
 RQtY8Y6IDLU 10:03 How to Shoot Drone Videos (4K)
 2fHcqHpGi8Q 18:35 The Beautiful Architectural Model Kits of Metropolitan Craft
-ieDYlkJTNYI 20:38 Adam Savage's One Day Builds: Custom Pistol Whip Controller!
 mIb-3GN2BlU 5:22 Adam Savage's Favorite Tools: EDC Hammer!
 1vk9cDrblOA 12:46 Adam Savage's Mercury Space Capsule Cockpit Replica!
 9lH2q6A4WNI 19:41 Building the 1/5000 Star Destroyer Model Kit! (Part 2)
-hIs3lioHoAo 21:44 Adam Savage's One Day Builds: Headphone Rack!
 fSQD8DBLODE 25:46 VR Immersive Theater in The Under Presents: Tempest!
 R7LGexbvOKE 18:49 Star Wars Death Star Corridor Figure Diorama!
-qE68mYkpZvQ 31:02 Adam Savage's One Day Builds: Portable Audio Recorder Rig!
 TqBbVcJ_-WM 6:00 Adam Savage's Favorite Tools: Woodworking Thread Taps
 mquypbwrF94 15:47 Adam Savage's Apollo A7L Spacesuit Upgrade!
 fMpVSadUV0A 26:44 Building the 1/5000 Star Destroyer Model Kit! (Part 1)
 sKadzTMSh5s 29:41 Adam Savage's Weekend Builds: Material Storage Improvements
 H8042TfPETg 7:39 Adam Savage's Favorite Tools: 4" Calipers
 9JnP9qNtnIQ 12:46 Adam Savage's New Tiny Parts Sorter and Storage!
-oSHoo_thI2Y 37:24 Adam Savage's One Day Builds: Front Porch Table!
 w1ECGIEqnik 1:29:24 Live Q&A and Sword Prop Show and Tell with Adam Savage (June 23, 2020)
 c8DJp8pCUak 16:55 Making an Illuminated Action Figure Display Stand!
-TsWG4nSi-Hs 42:45 Adam Savage's One Day Builds: Stitching Pony Clamp!
 YU2RTL77oXY 4:56 Adam Savage's Favorite Tools: Heavy Duty Bearing Swivel
 HwSqLrRTkGY 8:54 Adam Savage's Octopus Cane!
-frwLir1A_qg 42:55 Adam Savage's One Day Builds: Making a Stable Workbench!
 iDuNZRtZrp8 25:18 Cyberpunk VR Game LOW-FI + QuestDraw AR!
 rYUUYEV6JlQ 31:07 DJI Mavic Air 2 vs. Skydio 2 Autonomous Drone!
-ritwf-_iOlg 1:08:55 Adam Savage's One Day Builds: Mini Chop Saw!
 roXwRxFTfCI 4:02 Adam Savage's Favorite Tools: Essential Shop Rags!
 KHgstunB5fE 6:29 Adam Savage's Favorite High-Power LED Flashlight!
 f7ht0J8Z4aQ 11:58 Laser Cut Vintage Billboard Sign Project!
--xWGRVL-ExA 18:38 Adam Savage's One Day Builds: Mini Machine Vise!
 dXEKp211XAw 16:17 3D-Printed VR Blaster Grip and Adventure Lab Escape Room!
 FlaRH1v6p8c 1:30:03 Live Q&A and ACES Helmet Show and Tell with Adam Savage (June 9, 2020)
 xDxQMZjHR4s 15:49 Model Behavior: Weathering a Transformers Blitzwing Figure!
-65r_1TzJXaQ 50:07 Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!
 PVQFvHuJHec 14:18 Adam Savage's Favorite Tools: Awesome Circle Drawing Tools!
 RiakgHPRZd8 9:43 Adam Savage's Airplane Cockpit Prop for MythBusters!
-vOROGorDG6s 33:34 Adam Savage's One Day Builds: Fiber Optic Microscope Ring Light!
 raCqLesHjRE 7:26 Adam Savage's Favorite Tools: Extended Grabber Micro Forceps!
 V6fU3d_4w_8 10:28 Making a Cutting Mat Riser and Lighting Platform!
 gjz8V-2xiyQ 47:24 Adam Savage's Workshop Office Door Build!
@@ -2864,44 +2941,34 @@ GW9Spy4xXNA 8:51 Custom Display and Sorter for Instax Instant Film
 zZUOazRFLaA 31:01 Adam Savage Builds a LEGO Sorting and Storage System!
 tDxUEMPLm3U 4:21 Adam Savage's Favorite Tools: Multi-Blade Utility Knife!
 EWrDR6P6Kl0 15:19 Adam Savage's Giant Music Player Prop!
-A3-9Vk_2be4 32:31 Adam Savage's One Day Builds: NASA Retro-Reflector Replica!
 igEqC3snaYY 40:10 Adam Savage's Live Builds: Weathering Prop Money!
 FSww64aUklY 23:55 Tested From Home: Making Wood-Fired Neapolitan Pizza!
 cz_MgCS_w8Y 4:49 No $80 Cable Needed: Oculus Quest Link Works Out of the Box!
 NvryPJFkPlM 23:43 Tested From Home: Customizing Home Studio LED Lights!
-TT8PzFaZ0Zw 36:54 Adam Savage's One Day Builds: Lithium Ion Battery Charging Station!
 TCSeWvHCIF4 6:06 Adam Savage's Favorite Tools: Workshop Utility Apron + Everyday Carry!
 Ouf2nz5fyMo 7:10 Adam Savage's Sculpture of a Mechanical Hand!
 IiqfkYAv3Dw 42:24 "How do you deal with knowing someone dislikes your work?" Adam Q&A (5/5/20)
-I7U-QCTS9Os 39:29 Adam Savage's One Day Builds: Repairing Vintage Aviators!
 J0KhC1GpLSQ 36:30 Hand Physics Lab: Hand Tracking Demos in Oculus Quest!
 4mcBcUrPjBo 46:58 Adam Savage's Live Builds: Weathering a Thermal Detonator Kit!
 97aH5D29KbU 13:11 Tested: Microphones for Podcasts, Livestreams, Vlogs, and Virtual Meetings!
-nCrB0FnW__s 28:19 Adam Savage's One Day Builds: Movie Sword Rack!
 8TJcFbu7gWE 6:29 Adam Savage's Favorite Tools: Bondhus Hex T-Handles!
 Otid9rax1Go 7:06 Adam Savage's "Cabin Fever" Coat Hanger Sculpture!
 5GYbjDot67A 11:30 The Art of Sideshow Collectibles' Star Wars Figures
-0nLlCmZspVM 20:57 Adam Savage's One Day Builds: Tweaking the Table Saw!
 ePgysAtyO5I 52:19 Adam Savage's Live Builds: LEGO Women of NASA!
 ebptyVvDtE8 11:06 How To Use Your iPhone or DSLR as a Webcam!
-yWRLz_r_d3A 33:32 Adam Savage's One Day Builds: Little Thwacker Hammer!
 96ZIry7YG7U 5:32 Adam Savage's Favorite Tools: Wearable Magnifiers!
 ZGJsZE-xobE 7:32 Adam Savage's Original Matrix Lightning Gun!
 A9B81mICvrE 32:58 Adam Savage Answers Your Questions! (4/21/20)
 IQhzpoI4ptc 9:08 Tested From Home: LEGO Builds and Camera Test!
-ZNwvjaIW-pU 1:00:10 Adam Savage's One Day Builds: Making a Die Filer Machine!
 OopnMjPHWOE 32:36 Adam Savage Paints and Weathers the Ghostbusters Ecto-1 Model Kit!
 rEyLLtTzAl4 6:05 Behind the Scenes: Using a Vintage Color Meter!
 fOfKTJPVxFE 49:22 Adam Savage's Live Builds: LEGO Blade Runner Spinner!
 RAucP_zpZco 6:59 Tested From Home: Kayte Sabicer's Projects!
-eVnWyEvT-KY 27:09 Adam Savage's One Day Builds: Lathe Infrastructure Upgrades!
 hV0OfVGCIuY 3:54 Adam Savage's Favorite Tools: Precision Rotary Tool!
 nbKG9SjZjvQ 5:54 Adam Savage's New Mechanical Claws!
 7vKa8YZ64uE 29:36 Adam Savage Answers Your Questions! (4/14/20, Part 2)
-PLHUcP8LfkM 1:28:25 Adam Savage's One Day Builds: LEGO International Space Station!
 2Mhtdb2jJy4 35:04 Adam Savage Answers Your Questions! (4/14/20, Part 1)
 ieUVI-J_nyU 10:30 Tested From Home: Joey's Production Studio!
-jPAGZpNZrwU 54:21 Adam Savage's One Day Builds: How To Build a Box!
 Wxd7Q4BqsQc 11:26 Adam Savage Examines an Embalming Toolkit!
 Sfhv9EuJ03E 21:31 Designing a Book Nook Laser-Cut Kit!
 cMthV33CgzE 3:08 Show and Tell: Guru del Toro Collectible Figure!
@@ -2915,7 +2982,6 @@ slvJzIJ_YXM 28:15 Adam Savage Answers Your Questions! (3/31/20, Part 3)
 BFcS9DX-dyA 31:20 Adam Savage Answers Your Questions! (3/31/20, Part 2)
 CN2qhhyk9HE 31:55 Adam Savage Answers Your Questions! (3/31/20, Part 1)
 ccmnSXJG3QE 11:39 Tested From Home: How to Find Tardigrades In Your Backyard!
-z_Ti4GP0ntE 1:07:08 Adam Savage's One Day Builds: Refrigerated Cooling Suit!
 EBlcbou4JEM 2:06 Inside Adam Savage's Cave: Mystery Stone Head from MythBusters
 lfkjRGarGSk 10:32 Tested From Home: Sean Charlesworth's Projects!
 NTHM1xj_wgY 33:30 Star Trek: Picard Finale Discussion! - Offworld Episode 35
@@ -2928,7 +2994,6 @@ rEtgF7YTkLY 53:33 Half-Life: Alyx VR Walkthrough of First Hour!
 3hiNN3CuTNk 16:48 Configuring a Gaming Laptop for VR and Content Creation
 uWpw1NTWBcY 1:28:46 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 1)
 HbsiV1MIOHY 2:54 Adam Savage's Favorite Tools: Westworld Safety Visor!
-ZjpPgv9XtJA 19:46 Adam Savage's One Day Builds: Thermal Detonator Kit!
 dFmmvfteEso 10:14 Adam Savage's Dream Diary Sculpture
 351DxQghbh0 16:39 Making the Custom Microphones for Hamilton!
 jZDe18k7T8o 9:55 Adam Savage's Nailer and Stapler Storage Rack
@@ -2936,24 +3001,20 @@ Sz4mxsYOwzQ 2:00 Adam Savage's Favorite Tools: Chicago Screws
 VTmtoLIzq2M 7:29 Adam Savage Reveals What's Left of the Original Buster!
 60OpF3DCVls 11:26 Adam Savage Explores the Sound Mixing of Hamilton!
 cRVXhA0-TI4 27:25 Inside Valve: Making Half-Life: Alyx for Virtual Reality
-SgCJeoDNmYU 41:21 Adam Savage's One Day Builds: Poker Table!
 HrYrcJTv4H4 4:45 Adam Savage's Favorite Tools: Jewelry Clamps
 wfTLzG7EL44 6:15 Adam Savage's Custom Cosplay Storage Case!
 gDf75VS1NEo 27:30 Adam Savage's Captain America Stealth Suit!
 aNUv3Ad6jrQ 12:26 Adam Savage Goes Backstage at Hamilton!
-x8YTMPuvTGw 33:49 Adam Savage's One Day Builds: Dinosaur Skull Lamp!
 Q2wqMTtbOOw 3:17 Adam Savage's Favorite Tools: Labelmaker
 fq71nnVrc08 15:51 Adam Savage Tours The Expanse's Practical Effects Shop!
 JwlTGoAKKDk 5:54 Adam Savage's Model Shop Archive Props!
 3D7xNAsi0uo 11:51 Adam Savage Examines the Props of Hamilton!
-Bw-ttd_EELA 13:54 Adam Savage's One Day Builds: Rickshaw Carriage!
 dvFS_ZEzwKg 4:27 Adam Savage's Favorite Tools: Automatic Wire Strippers
 -q4phZ4He8A 43:52 Inside ILMxLAB: Making Star Wars Vader Immortal!
 zyaocKS3sfg 28:18 Adam Savage's Spot Robot Rickshaw Carriage!
 ig-2xlXfex4 44:37 Adam Savage Book Club: Humble Pi: When Math Goes Wrong in the Real World
 0KObb7e2y5Q 16:58 Assembling the X-Wing Cutaway Model Kit!
 m_AB7RnD_FQ 2:58 Adam Savage's Favorite Tools: Handheld Sheet Metal Brake
-TqWhLPsEJE8 23:21 Adam Savage's One Day Builds: A Fake Can of Beans!
 Z-MIGpKYJDk 29:46 The Science and State of Cloning - Offworld Episode 34
 NiRcGebkcho 19:49 Painting a Rusted Fallout Fusion Flea!
 nos70z2-MSM 10:43 Adam Savage Opens His 2019 Reddit Secret Santa Gift!
@@ -2968,7 +3029,6 @@ Dtkey7YUyPg 6:43 Custom Cricut Maker Vinyl Cutter Workshop Cart!
 yr0M5a1eTW0 1:41 Announcing the Adam Savage Book Club!
 3TkEPnim798 6:16 Adam Savage Meets the Expanse's Stunt Coordinator!
 okhgjDIrRFQ 7:44 Adam Savage's "Keys to Hell" Sculpture!
-8uGS11yuVyo 34:37 Adam Savage's One Day Builds: Portable Soldering Station!
 l-4HgOGb7bM 8:54 Show and Tell: Relio² Desktop Lighting System
 VwpFS1guqTg 16:22 Tested at the AWS DeepRacer Championship Cup!
 gg-5_4ZOEcw 8:30 Adam Savage Talks Costumes on the Expanse Set!
@@ -2977,7 +3037,6 @@ t2c6lduDuIA 17:01 Hydro Dipping Carbon Fiber Blaster Grips!
 b9wuK8Bcx9c 8:03 Inside Adam Savage's Cave: Modelmaking Inspiration from Weta Workshop!
 7MsorS3LpkU 3:32 Inside Adam Savage's Cave: Leather Man Sculpture!
 7Kpj8mJGIls 9:53 Adam Savage Speaks to an Expanse Graphic Designer!
-JMv0PlMKkbs 20:54 Adam Savage's One Day Builds: Gaslamp Lantern Prop!
 FBtP35yIUQo 9:54 Adam Savage Meets the Expanse's Key Stunt Rigger!
 fFiyUqMg1Hw 28:57 Could Earth Be Moved to a New Solar System? - Offworld Episode 32
 _FHVAPAL8cM 1:20 Adam Savage's Reddit Secret Santa Gift for HungryBaconElephant!
@@ -2997,7 +3056,6 @@ JVfDiEYvO-k 5:28 Imagining Future Fashion with Sixth-Scale Figure Design
 WGtBXFzEKes 9:59 BigShot Toyworks Engineers Some of Our Favorite Toys
 IDBGHxKDw80 12:13 Directing Pixar's "Wind", a SparkShorts Film!
 RgL6YRh2oUc 12:13 How Machine Learning Enables DeepRacer's Autonomous Driving!
-6ps4vbQ6Tk0 28:02 Adam Savage's One Day Builds: Workshop Hardware Storage!
 WPSbtyGQyJk 2:37 Adam Savage's Hellboy Spear Replica!
 rPrG-nvYaa4 5:35 Reina Koyano Transforms Sneakers into Pin-Up Art
 xBl2GVOGMEY 6:16 The Mythical Art Figures of Manas+SUM!
@@ -3012,14 +3070,12 @@ EGuc7Z1RfsQ 12:03 Tesla Cybertruck Test Ride and Impressions!
 rV5kRH-xaOE 4:48 Vintage Gundam Kit Converted to Statue Diorama!
 3Cr15S-TAZU 2:58 Adam Savage's Soft Flail Sculpture!
 fzhiBjgf750 7:25 3D Modeling, Printing, and Painting a Custom Gundam!
-3JRbGcyPUnk 26:11 Adam Savage's One Day Builds: Custom Beat Saber Hilts!
 Xq49o5LhdGM 16:19 Designing a Star Wars Pop-Up Book!
 qwxOkqrca2M 17:49 Model Behavior: A Primer on Paintbrushes!
 Bu1y4m7Y738 7:34 Adam Savage Checks in With North Bergen Student Cosplayers
 giSvH_EYWCo 25:58 Adam Savage Tours North Bergen High School's Alien: The Play Artifacts!
 cGtPAOJSTEo 33:36 Science Fiction's Influence on UFO Pop Culture - Offworld Episode 29
 XEa2Mxsmox4 33:21 Model Behavior: Painting 1/6 Scale Portraits
-MP5pbJ6Ajjc 24:32 Adam Savage's One Day Builds: Space Camera Shroud!
 TOQ7CDKj4Rk 17:34 How Mixed Reality Game Trailers Are Made
 iodElsICUS8 7:51 Felicia Neely Shows Adam Savage Her Enfys Nest Costume!
 XY_RldJvCWs 36:58 Adam Savage Tours the MET's Last Knight Exhibit!
@@ -3029,7 +3085,6 @@ MbwLsfy1h1w 7:31 Adam Savage Examines SKS Props' Foam Armor!
 Htn8GUVKS9U 4:47 Kawaii Mayhem Shows Adam Savage Her Scratch-Built Mysterio Costume!
 W6Tfz5JInKg 6:27 Arcade 1-Up's 3/4 Scale Gaming Cabinets
 Ncg55eo_-Rw 5:40 Uncle Jessy Shows Adam Savage His Magneto Costume!
-kjxdWnUBmpU 37:16 Adam Savage's One Day Builds: No-Face Animatronic Mouth!
 pGwydXktims 6:40 X-Plus's World of Kaiju and Godzilla Collectibles
 41HIH7wGZcY 10:13 Cosplayer Beverly Downen Shows Adam Savage Her Rebuilt Hela Costume!
 PyfELJYoc9g 16:18 Adam Savage Meets Cowbutt Crunchies Cosplay!
@@ -3047,7 +3102,6 @@ JFxYqD60zuY 4:43 The Assemblage Art of Gmonik
 jsFPnt6790M 5:41 The Creatures and Costumes of Creative Character Engineering
 6O_8IJ47Tgg 14:33 LG 4K OLED vs. Samsung 8K QLED Technology Differences!
 K2zLneGGbk8 36:03 Oculus Quest Hand Tracking Demo and Impressions!
-Dt6BQPNGGTw 41:52 Adam Savage's One Day Builds: Star-Lord Cosplay!
 VG1dNQ7RbEg 10:17 Adam Savage Meets a Smithsonian Exhibit Designer!
 BW-pMnAFb6g 7:14 Adam Savage Learns About Smithsonian Exhibits' Installation Process!
 X_rqQcvATtM 6:22 Adam Savage Sees How Smithsonian Uses Replicas to Tell Stories
@@ -3061,8 +3115,6 @@ zLSvjwd99SU 9:37 Adam Savage Tours Smithsonian Exhibits' Fabrication Shop!
 1dck2mdY2h0 12:53 Inside Adam Savage's Cave: New Apollo EVA Gloves!
 1BTcmCZhPe8 12:09 Tested Visits The NASA Ames Maker Space!
 voJwBHBVyEk 4:09 The Great Wall Armor Showcase and Giveaway!
-vqqEFEgx-ZI 35:00 Adam Savage's One Day Builds: Star-Lord's Walkman!
-3jdF1yVBWdc 20:09 Adam Savage’s One Day Builds: Project Egress Apollo Hatch!
 cgqv-MKbogQ 28:16 Digitizing Objects from Smithsonian's Enormous Collection!
 8L_PxZXCH8o 13:56 Making Snow Effects for Diorama Miniatures!
 49xYK0U1gfc 13:25 Adam Savage's Gorgeous Great Wall Armor!
@@ -3101,18 +3153,15 @@ eHryKKH3l1s 9:45 Batman Museum Costumes and Props Tour!
 oFFw48pF1mE 6:57 Adam Savage's Zorg Industries ZF-2!
 cB8ETl0iodE 6:21 Star Trek: Picard Prop and Costume Museum Tour!
 EJSNNXjvljw 30:03 Science Fiction's First Moon Landing - Offworld Episode 25
-Srg47mr4X5A 14:01 Adam Savage's One Day Builds: LEGO Lunar Lander
 wrQhkJt4eho 6:33 Show and Tell: ArtBones Articulated Action Figures
 tFgCLiPn-k4 6:17 LEGO Great Ball Contraption Mini-Golf Modules!
 Th9Fuo8EYyE 5:15 LEGO Abrams Tank that Deploys a Bridge!
-Bh6C2O77EpI 14:39 Adam Savage's One Day Builds: Cave Museum Display!
 2zTdOfqO6g4 33:50 Building a Retro Moon Suit Garage Kit!
 pTHRVsrqyiw 10:13 Warcraft Movie Props, Weapons, and Armor!
 gr4YjCiabOc 37:33 Poppy Northcutt, First Woman in Mission Control! - Offworld Episode 24
 Ew-qden-ha8 8:13 Inside Adam Savage's Cave: New Spacesuit Hardware!
 aOQTunQ4Oug 9:27 Show and Tell: Nike's Adapt BB Power-Lacing Shoes!
 hNgC3s5Nne0 38:50 Model Behavior: Painting Shiny Model Cars!
-YZV4A4Kl0yM 28:20 Adam Savage's One Day Builds: Hero Prop for TV Show!
 iYb84RjpudE 8:48 Toy Photography with Miniature Sets and Dioramas
 Mx3Yyghttn8 7:41 Making the Borderlands 3 Giant Character Statues!
 Ts42FtG9SGY 29:40 What Exoplanets Look Like in Film vs. Reality - Offworld Episode 23
@@ -3120,7 +3169,6 @@ bQQW0khYaOs 3:48 Inside Adam Savage's Cave: Star Wars Tauntaun Statue!
 sNeou5p5f5s 13:33 Replicating Neil Armstrong's Apollo Spacesuit!
 AnxBy32fJX8 32:55 Adam Savage's Week at Weta Workshop, Part 6
 hQKvQmprGgs 20:48 Painting a God of War Leviathan Axe!
-2NYtPWhdhhQ 15:54 Adam Savage's One Day Builds: Iron Man Armor Stand!
 fMR7jClFKnc 25:00 Adam Savage's Week at Weta Workshop, Part 5
 8_XwRFD5Lqs 24:31 Behind the Scenes of Weta Workshop's 'I Am Mother' Robot!
 6nw-RdxJzcY 32:43 Science Fiction Spacesuits - Offworld Episode 22
@@ -3137,7 +3185,6 @@ uvpGmiR5HnA 5:53 Mech Warfare with Airsoft Firing Robots!
 RQEIGfHcDMg 4:17 Avid CNC's 4-Axis CNC Machines!
 f7V14iY_4-E 4:41 Giant Flying LEGO Helicopter!
 dA2ikno_4z0 3:40 The Fantasy Metal Creatures of Perkunas Design Studio
-7uS7A4x31PY 34:16 Adam Savage's One Day Builds: Scratch-Built Spaceship!
 2PGjTt4xkWM 3:06 Self-Solving Rubik's Cube Robot!
 rjlYsDZUk3w 1:09:34 Adam Savage's Week at Weta Workshop, Part 2
 m-pGHh9NNko 5:26 Show and Tell: Foam Starter Projects
@@ -3164,7 +3211,6 @@ qfQPLUirCL4 5:50 The Shape of Water Creature Maquette!
 QsXWn25EnwQ 5:57 Aurum FX's Destiny Blaster Props!
 ad1Wmzcwa1M 42:53 Bits to Atoms: Starlords Arcade Cabinet, Part 4
 ysoY-VKMBlk 5:49 Manas Workshop's Striking Creature Sculpts!
-vCi5usulDIo 1:20:48 Adam Savage's One Day Builds: Swordmaking at Weta Workshop!
 qqUxntC6Hu4 4:20 Hyper Realistic Daruma Dolls!
 80iGijMPN9U 5:55 Creatures and Garage Kits at Monsterpalooza 2019!
 FLC97Gh0BRM 32:48 How Would a Mars Sample Return Work? - Offworld Episode 18
@@ -3225,10 +3271,8 @@ jbuB1LpNupQ 18:51 Adam Savage Wears Lumecluster's Phoenix Gauntlets!
 WauW_IMUioI 6:50 Classic Children's Television Puppets and Props!
 lLBrhDqof7A 9:05 Classic Science-Fiction Television Hand Props!
 kK0LDHPZxvw 12:11 Batman (1966) Props and Costumes!
-7oGslDjTnHI 29:33 Adam Savage's One Day Builds: Mortal Engines Hand Cannon!
 K4mxREx11Fo 31:28 In-Depth with The Visual Effects of Mortal Engines!
 KwT0aZd2PQM 7:34 The Kinetic Sculptures of Nemo Gould
-6iIZ9rnS6HU 1:02:24 Adam Savage's One Day Builds: Eric Idle's Guitar Case!
 CDn91YfTZzI 9:19 Shop Tips: Drill Bits
 AqLVpBb2gGw 10:58 Simone's Every Day Calendar
 GlX72rwmHAI 5:29 Shop Tips: Learning Injection Moldmaking
@@ -3257,13 +3301,11 @@ eyszbfcbeMk 15:41 3D-Printing a Custom Wonder Woman's Tiara for Cosplay!
 RXm3HJ4MASQ 8:41 Laser Cutting a Westworld Data Card!
 Ly5ZDcX1tuo 3:46 Tested Mailbag: Human-Scale 3D-Printed LEGO!
 Y09ET7bpE1A 8:37 Collecting Material Samples for Your Workshop
-ZfvtGrhYk0I 26:44 Adam Savage's One Day Builds: Kit-Bashing and Scratch-Building!
 Pta2RH9_umA 4:41 Tested Mailbag: AT-DP Garage Kit!
 QyTzTGsySqo 17:41 Assembling the 2,500 Piece 3D-Printed Sculpture!
 JtV_-cLBoH0 4:38 Show and Tell: 2001 EVA Pod Model Kit!
 -5PhT20VC7o 11:46 Designing the National World War I Memorial Sculpture
 6HJarJg1npk 11:07 Custom Model Paint Racks for the Tested Workshop!
-MxLOoriXkMc 46:22 Adam Savage's One Day Builds: Overengineered Bottle Opener!
 0AVVXNKHDUw 11:34 Tested: Formlabs Wash and Cure Stations
 xVYmQlUZfVM 22:22 3D Printing in Multiple Colors with the Palette 2
 ebQU7GipJcA 17:50 Weta Workshop Sculptor's Tabletop Miniature World!
@@ -3276,21 +3318,16 @@ RbxEQ6HnH-g 12:29 Adam Savage Paints an Astromech for Magic Wheelchair!
 q1tL6-xCTN4 12:42 Weta Workshop's "The Scale of Our War" Exhibit
 n6gDoxxq_4w 4:46 Impressive LEGO Dystopian Monorail City!
 2AKXyD18DBo 7:11 Star Trek: Discovery Ship Models from Eaglemoss!
-GEhBPI2QVBI 0:34 Last Call for Adam's One Day Builds T-Shirt!
-QCBcWm85gWo 15:33 Adam Savage's One Day Builds: Kit-Bashing a Robot!
 2n5YCFhHjqA 6:47 New 2001: A Space Odyssey Discovery Model!
 h7tz689ZsIM 9:37 Star Wars Star Destroyer Model Replica!
 KGsr4NPr_Uw 10:19 How the LEGO Voltron was Designed!
 o9AoaPXPQiA 5:03 Weta Workshop's First Mech Model Kit!
 XV7qb5Ct3J4 6:30 Adam Savage presents: “A Farewell to Arms”
 7LxFtGqyDls 10:28 Studio-Scale Star Trek: Discovery Starship Models!
-BpaYqFd5S5c 0:48 Adam Savage's New "One Day Builds" T-Shirt!
-WnJDYjbWCwI 1:10:53 Adam Savage's One Day Builds: The First Spacesuit!
 LlvOUpXPIjM 4:04 Minifigure-Scale LEGO Saturn V Rocket!
 jzfktNl2Y0k 27:25 Let's Paint: Dinosaur Garage Kits!
 bbtka70PGWE 10:21 Tested: Kessler Motorized Camera Slider!
 OVGbp9ZkXHg 28:00 Loneliness in Space Travel? - Offworld episode 9
-AXzurpmc8SE 39:15 Adam Savage's One Day Builds: Everyday Carry Bag!
 3EQX8M9cI38 8:00 Weta Workshop's MOOSE Attack Robot from Chappie!
 eJqjGHAfm6E 6:40 Weta Workshop Artists Make Custom 'Giant Killer Robots'!
 HgQgGzUzgKI 30:53 How to Apply Zombie Prosthetic Makeup!
@@ -3305,7 +3342,6 @@ mu2usjcYeZM 6:36 Show and Tell: Laser-Cut Sixth-Scale Scooter!
 9U3tmOGhYQA 41:47 Bits to Atoms: The Co-op Quadcopter Challenge!
 0Y_h8QOjH5g 3:31 REMIX: 1000 NERF Balls vs. Dinosaurs
 i631vjJnqJw 12:11 Mind-Controlled Plumbob Crystal from The Sims 4!
-G7MDrUG4cws 36:59 Adam Savage's One Day Builds: 1000 Shot NERF Blaster!
 E10407LU3NY 19:12 Bits to Atoms: Adding Smoke and Sounds to Toys!
 l7-bZbePQKE 5:58 The Modelmaking of European Train Enthusiasts! Drifting with Adam Savage and Zoe Bell!
 wHtTzCGe9hI 10:05 Show and Tell: Destiny-Inspired Airsoft Mod!
@@ -3331,7 +3367,6 @@ pZvZypeDPkY 19:10 How Could Alien Communication Work? Offworld episode 6: Arriva
 Uayaya9x3kc 1:24 Adam Savage Build Tip: Airbrush Anatomy
 rRSD3h0PooU 1:47 Adam Savage Build Tip: Protecting Chrome Paint Finish
 _pPtEA3d2mY 1:50 Adam Savage Build Tip: Using a Scroll Saw
-9XB4Be6TjHU 55:21 Adam Savage's One Day Builds: Snub-Nosed Blade Runner Blasters!
 FaQNtcxmJKY 3:19 Star Trek Tricorder with Working Display!
 83NLPlACMus 4:38 James Bond "Moonraker" Prop Collection!
 K-8zSrByqH4 0:57 Adam Savage needs your help for his next build!
@@ -3353,9 +3388,7 @@ dAOZa7JYnsw 9:05 Adam Savage Repairs Totoro Cosplay!
 oJ2Bs3qieJw 12:15 Adam Savage Incognito as the Knights of Ren!
 sNr4VrKslEE 23:07 Alien Life in Our Solar System? Offworld episode 5: Europa Report (2013)
 1_aVYTabJDo 5:11 Life-Size K-2SO Puppet Cosplay!
-JL3uZ88vA_0 19:54 Adam Savage's One Day Builds: Custom Workbench LED Lamp!
 BYQ7MXhg1GY 9:52 Show and Tell: Laser-Cut Memory Sphere Display
-F48rk7h-GDo 35:33 Adam Savage's One Day Builds: Foam Ringwraith Gauntlet!
 eZTx6G8z9wA 22:44 Worst Space Billionaire Plot? Offworld episode 4: Moonraker (1979)
 xj6XRUj81Zw 15:54 Testing a Laser-Cut Mini Boat!
 P99037H-Bac 26:14 Storyboarding a Stop-Motion Animated Film
@@ -3376,7 +3409,6 @@ SvHLsI4OfdA 13:23 Testing the Shaper Origin Handheld CNC!
 xNjbYwXaPDI 26:03 How are we searching for aliens? Offworld, Episode 1: Contact (1997) with Dr. Jill Tarter
 YoM1e7_hWIA 6:33 Inside Adam Savage's Cave: Gods of Egypt Stunt Weapons!
 Qsdns4hhAxk 4:17 Show and Tell: Microscape's City Miniatures
-wl558EoTuEQ 30:19 Adam Savage's One Day Builds: Blade Runner 2049 Binoculars!
 wHvLlH-aZxI 3:52 Our Favorite Projects with Frank Ippolito!
 nM8OCxceK2E 10:37 Plasma Cutting a Tested Logo Sign!
 J8V9ZMjP9As 3:53 Adam Savage Opens His Imgur Secret Santa Gift!
@@ -3438,11 +3470,9 @@ gc1x1CexBKI 35:46 Let's Build: LittleBits Droid Inventor Kit (with Anthony Carbo
 VZ-5U1xGEb0 20:02 How To Make a Silicone Brush-Up Mold!
 CEcrgOuBiUM 12:00 Adam Savage Explores the Science-Fiction Spacesuits of FBFX!
 QKlrY33asnE 8:47 Adam Savage's Maker Tour: Incite Focus' Open-Source Adjustable Table
-H9L3pX8zTPE 10:27 Adam Savage's One Day Builds: Cave Bathroom Upgrade
 SnWAF7vNbaM 4:18 Adam Savage Listens to his Vinyl Record Test Pressing!
 IQZFmozrdaA 29:52 Adam Savage's Maker Tour: Incite Focus
 XWqiGi-KSSE 52:39 LEGO with Friends: UCS Batman Tumbler, Part 1
-8qvlpRBeMNY 25:19 Adam Savage's One Day Builds: Foam Cosplay Sword!
 r3Vh5Xj9K_E 13:08 Casting a Glow-in-the-Dark Slimer Model!
 m16_lObyanw 3:23 Announcing the 2017 Tested Premium Community Gift!
 1qg5s-LPvrE 7:33 Starlord's Hero Helmet in Prop Store's Live Auction
@@ -3464,7 +3494,6 @@ IeO2yamsjiQ 16:34 Adam Savage Incognito in the Alien: Covenant Spacesuit!
 WcS7RsPTiUY 50:31 Building an AMD Ryzen PC for Video Editing!PF4A4wdnXkU 27:45 Adam Savage Visits Third Man Records!and VR Cover
 dnGoJv3vmLs 3:12 Bandai Perfect Grade 1/72 Millennium Falcon!
 HqwiZZ-uPDc 4:53 Anatomy Tools' Sculpting Reference Maquettes
-BGlcF4Bpg78 37:01 Adam Savage's One Day Builds: Excalibur Sword!
 44Hjx9uf1hI 6:02 The Scratch-Built Mech Model Kits of Luca Zampriolo
 NZeEtF1jmfM 6:00 UD Replicas' Detailed Superhero Suits
 pY3Dwq4HOYM 4:40 Adam Savage Explores David's Lair in Alien: Covenant
@@ -3494,7 +3523,6 @@ tW_z6MZ1kyk 22:07 Adam Savage's Maker Tour: Artists of Artisan's Asylum
 SrRW6W0k6J0 3:23 Tested Celebrates National Week of Making, Day 2
 PQEBEWm1gOc 2:59 Tested Celebrates National Week of Making!
 0vfuOW1tsX0 27:12 Alonso Martinez's 3D-Printed Animated Robots!
-dqmF2_h8icM 38:35 Adam Savage's One Day Builds: A Better Tape Dispenser!
 lp39A2qPGQk 2:06 Shop Tips: Identifying your Fasteners, Nuts, Bolts, and Hardware
 8lT-nHeKR9g 9:55 Building a Working Miniature Apple II Replica!
 6IXD_d8OcF0 26:26 Adam Savage's Maker Tour: Artisan's Asylum
@@ -3523,7 +3551,6 @@ R_p9z-tRzCs 20:57 History of the Camera Lucida Drawing Tool
 1JOSSwuOpZk 1:14 Announcing a New Show: Science in Progress!
 4ikfAQeMx5o 8:34 Tested: RIVER Mobile Power Station
 i_kr8mAM5Dg 7:54 The Creature and Special Effects of Alien: Covenant!
-9xpPXpnnCNI 39:25 Adam Savage's One Day Builds: Chewbacca and C-3PO!
 x9YUO7QeitU 7:51 Simone Giertz Tests the Makey Makey!
 hcBMnlPte9Y 9:33 Adam Savage Puts On Alien: Covenant's Spacesuit!
 RCW_7-odq_4 6:49 Tested Mailbag: Terminator Props and Costume!
@@ -3583,17 +3610,14 @@ tjgkCf4G9R0 15:32 The Work in Process: Vectorizing Drawings for Laser Cutters
 KosBvDyWgnA 13:34 Adam Savage Behind the Scenes of Ghost in the Shell!
 TU3q_rXMHz8 4:11 Show and Tell: Weta Workshop's Giant Killer Robots Board Game
 jitCQtP4npY 4:43 Tested: Positive vs. Negative Air Pressure
-1gJ4_Hc17cM 35:38 Adam Savage's One Day Builds: Chewbacca's Bandolier!
 ez1oPe0pMiA 25:51 How To Mold and Cast Foam Props!
 kE_e323FofM 12:37 Tested: Sony a6500 Mirrorless Camera
 EPe93qavQFc 2:10 Adam Savage Catches Lightning in a Bottle - Unimpossible Missions
 LWktnug6J2I 4:10 Shop Tips: Using Spray Paint Nozzle Tips
-cwOXSXkW-uE 31:49 Adam Savage's One Day Builds: Custom NERF Rifle
 QXwe51lkJ6M 11:35 Adam Savage Examines the Props and Spacesuits of The Expanse!
 -fJoWSOYn6U 5:00 Adam Savage Explores the Costumes of The Expanse!
 K-YoOYEzuws 3:17 Adam Savage Talks to a Wall - Unimpossible Missions
 XuBo_lHvgjQ 3:38 Shop Tips: Cutting Foam for Propmaking
--HfaLqmRO1k 21:52 Adam Savage's One Day Builds: Ping Pong Machine Gun!
 DzQJ-h2UJDc 4:04 Simone Giertz Laser Cuts Her Secret Santa Gift!
 Ymux31cmZcU 2:53 Adam Savage Gives a Snowball a Chance in Hell - Unimpossible Missions
 lSl-dgvmg68 4:24 Shop Tips: How To Properly Clean Your Paint Brushes
@@ -3616,14 +3640,12 @@ K1vMaYlptNg 19:24 Adam Savage Goes Behind the Scenes of Thunderbirds Are Go!
 0y7QFmiZrf4 3:57 Adam Savage Opens His Secret Santa Gift!
 DwHruarHj40 8:03 Planet Express Spaceship for Futurama Fan Film!
 LCdJJqVWQ1M 13:32 Behind the Scenes of the Futurama Fan Film!
-M4M3I0nXEMI 23:41 Adam Savage's One Day Builds: Vsauce Glasses Hack!
 fuRdfJXpUZo 2:00 The White House's SXSL: Making Programming More Accessible
 NvqorYw72B8 6:17 Adam Savage Interviews Naren Shankar of The Expanse!
 rvCgPRzOa3s 17:02 Behind the Scenes in The Lion King's Puppet Shop
 YUdse5fl3bw 11:30 Tested: Blackmagic Micro Cinema Camera
 CFEnQzvRe9Y 5:28 Adam Savage Interviews the Creators of The Expanse!
 xrTtVZzJ0Do 3:52 Adam Savage Chats with Chef José Andrés at The White House
-G96YQQ7vW8w 20:26 Adam Savage's One Day Builds: Pedal-Powered Strandbeest!
 IiQykhvPG-Q 2:21 Star Wars Rogue One Death Trooper Replica Helmet by Anovos!
 7fYrEC_WDN4 10:04 Tested: DJI Phantom 4 Pro Quadcopter Drone
 2lvpk74mWPM 8:42 Tested: HP Omen 17 Gaming Laptop
@@ -3646,7 +3668,6 @@ BkwTVbqH-88 7:01 Adam Savage Tours Peter Jackson's Movie Prop Collection!
 YBqlDwdR3NI 18:04 What's New: DJI Phantom 4 Professional and Inspire 2
 y5CqPCJK4ZQ 3:35 Show and Tell: Astro A50 Wireless Gaming Headset
 8rrMzgexgH4 10:59 Making Laser-Cut Mechanized Hands for Creature Effects!
-7JrCejRYGAM 56:27 Adam Savage's One Day Builds: NASA Spacesuit Parts!
 pY_x-tLZqQ4 14:43 Features Not Standard: Weather Balloon Launch and Recovery!
 V02oCPDj5u4 7:07 The Star Wars Concept Art of Ralph McQuarrie
 0EVmJWuQjJE 9:11 Microsoft's Surface Studio and Windows 10 Creator Update
@@ -3656,7 +3677,6 @@ NMUecLjmw9Q 3:59 Show and Tell: Laser Cutting Norm's Wedding Favors
 _DsK65T6AxQ 13:54 Adam Savage and John Scalzi Chat Sci-Fi!
 BdMqIUGZ3QQ 4:41 Izmojuki's Beautiful Urban Mech Robot Model!
 XFVwO42Ny8A 9:14 The Design and Development of High-End Collectible Toys
-L9O3KWrvxKA 42:47 Adam Savage's One Day Builds: Totoro Costume!
 qLC7R6eAkiY 12:19 Adam Savage and John Hodgman Talk Comics and Film!
 EpdEd5NbRtc 6:37 Adam Savage Chats Cosplay with Jay Justice!
 pPifX92BeGU 6:04 Adam Savage Meets Machination Studio's Codename Colossus!b54RAg-dFhs 7:56 Features Not Standard: Sous-Vide Ribs in a Truck!
@@ -3689,7 +3709,6 @@ wSc1bfTMn4I 9:53 Star Wars Han Solo in Carbonite Refrigerator!
 L7wxpEpyw24 4:11 Real-Life Futurama Hypnotoad Animatronic!
 u0U-LlB7teU 3:06 Adam Savage's Bear Cosplay Design Poster!
 SoMriIFuHgI 10:40 Tested: Shooting and Editing 360-Degree Video!
-0cQ91lO4pH0 30:03 Adam Savage's One Day Builds: Bear Costume!
 qVWVsiHp7UI 7:35 Futurama Fan Film Props, Puppets, and Costumes!
 xJ21Y3DmLkY 9:02 Star Wars: The Force Awakens Prop Replicas!
 -Nx4N97SVNg 18:57 Painting the Realistic LEGO Cosplay Mask!
@@ -3712,7 +3731,6 @@ quhA4ZtbX_U 6:23 Working "Lost in Space" Analog Computer Replica!
 M0Sloitb9Jg 11:09 Adam Savage Visits the Stanley Kubrick Exhibition!
 BgL_6jWNP2c 21:14 How to Build a Foam Cosplay Helmet! (For Honor game)
 779RGOWsfOM 10:17 Testing a Drone Claw with Simone and Norm!
-qSr_qLkVqDw 19:08 Adam Savage's One Day Builds: Kylo Ren's Costume Gorget!
 NmSnKx2jELg 14:29 Making Historical Fantasy Cosplay Armor for E3! (For Honor Game)
 lVskyd1GPos 9:55 Test Riding the Segway MiniPro Personal Transporter!
 ZfumU7ss1Cg 2:59 Adam Savage's Overlook Maze Model at the Stanley Kubrick Exhibition!
@@ -3763,15 +3781,12 @@ EBi_TqieaQ4 12:43 Ironhead Studio's Incredible Movie Costumes
 ng5T-bZwT40 5:14 The Amazing Art of Akihito
 _Vk-8vKc-QI 3:21 Awesome Monsters vs. Zombies Diorama!
 Gvx4OH_q4N0 6:45 The Best Creatures of Monsterpalooza 2016!
-3KpdjGlHB30 12:44 Adam Savage's One Day Builds: Iron Giant Bolt!
 sUB56nic3lk 12:11 Show and Tell: Rey's Blaster Replica Kit!
 BjZbAzUM9Ao 4:44 Tested: Eero Wi-Fi Router and Extender
-ssxCQuv3KzE 13:45 Adam Savage's One Day Builds: Foamcore House!
 BL0OvdTqzBs 5:28 Tested Visits the Shenzhen Electronics Market!
 m1HyEpxyBro 10:59 Simple Feats of Science: Liquid Nitrogen Experiments!
 pEa-qTf-BZw 1:48 Tested Mailbag: Codenames Box
 LOOhNpjVX_E 4:56 Shop Tips: Covering Your Work Tables
-U46Yo_6z_F4 21:30 Adam Savage's One Day Builds: LEGO Sisyphus Automata!
 UNAa5-uCowY 37:49 Tested: Driving the Tesla Model X w/ Autopilot!
 97eMRhbSGBI 1:21 Adam Savage Mini Science Fair Project
 EBieKwa2ID0 35:45 Tested In-Depth: Oculus Rift vs. HTC Vive
@@ -3801,13 +3816,11 @@ mri1MLhm43w 17:32 ILMxLAB: Star Wars and Cinematic Storytelling in Virtual Reali
 UslTgWF7fpY 5:08 Tested: Avegant Glyph Personal Theater Headset
 RXlpn2W5G1w 1:06:59 Let's Play VR: HTC Vive Demos!
 nwsDK_kSdPU 30:58 In-Depth with the 3D-Printed GhostBusters Ghost Trap!
-gcDCZ2TmTck 29:20 Adam Savage's One Day Builds: Hellboy Sword!
 z6KmX_poEV8 11:44 Making a Working Ghostbusters Ghost Trap!
 ZN5VuU9UjFo 8:20 Tested: Raspberry Pi 3 $35 Computer!
 zN4ftjzjooI 13:04 Visualizing Energy Inside a Microwave Oven!
 GEM0xbezsMY 3:59 What's in the Box: DJI Phantom 4
 oxQfWGMdwno 4:50 Shop Tips: Know Your Hot Glue Guns
-8UmBKWQ52oQ 27:53 Adam Savage's One Day Builds: Puppy Car Seat!
 etxb8eSQTt8 28:12 Tested In-Depth: Nexus 6P Android Smartphone
 4ELdR3XvQwA 32:05 Tested Builds: Stop-Motion with Action Figures!
 uFRaeUFa2oo 3:21 Tested Mailbag: Custom Hot Wheels!
@@ -3830,7 +3843,6 @@ ITiJkdL5QEQ 9:05 Adam Savage Meets the Blade Runner Blaster Prop!
 lr-Okj4xmBk 22:54 Tested In-Depth: Apple TV (4th Generation)
 0IKPYx-NrOA 5:19 Show and Tell: Jason Freeny's Anatomical Figures
 WvTu_N-LB5Y 2:08 Meet Finn!
-JYwNuP7cwJs 35:37 Adam Savage's One Day Builds: Making a Puppet!
 O3PqiCGmn9M 18:43 Tested In-Depth: Dell XPS 13 Laptop (Skylake)
 Lg4tAIr4R2o 14:38 Adam Savage Meets STEAM Educators in Baltimore
 6mUakBwTwrQ 10:41 Meet Gordon Tarpley, C-3PO Suit Builder!
@@ -4033,7 +4045,6 @@ AVV3ZiKZr0s 1:40 Show and Tell: Favorite Helping Hands!
 00XoEWDcQaE 45:38 Tested Builds: ErgoDox Mechanical Keyboards, Part 1
 kELkXqjE59o 4:21 La Colombe's 'The Dragon' Coffee Brewer
 Z1CkJtA2yEQ 4:11 Original Gremlins Puppets and Animatronics!
-jaVi06DaTk0 37:21 Adam Savage's One Day Builds: Star Trek Captain's Chair
 KfeLJUnVpQI 31:57 Tested In-Depth: Smart Home Connected LED Light Bulbs
 x9aPZ0stk4s 5:29 Making Needle Felted Star Wars Characters!
 1A7LW-VANwQ 2:52 Show and Tell: Convention Art Sculpts
@@ -4061,7 +4072,6 @@ hfl21nK9sZI 5:11 Making a Life-Size Rancor from Star Wars
 oKrFZBncjmU 8:37 Star Wars Celebration 2015: Props, Costumes, Collectibles!
 wPXAbPRFS08 2:37 Show and Tell: Navy SPH-3 Flight Helmet
 FSl_Xpncujc 5:26 Science-Fiction Replica Ship Kits from Moebius Models
-LHITcrnGn1U 1:08:35 Adam Savage's One Day Builds: Cylon Models with Battlestar Galactica's Aaron Douglas!
 e5oOAO4j3MQ 25:34 Tested In-Depth: Panasonic Lumix LX100
 JFF1n_m-MvE 5:47 Crafting Felt Creatures with Woolbuddy
 ac1CL98QISQ 2:07 Show and Tell: Nixie Tube Clock
@@ -4103,7 +4113,6 @@ ZZObqLXEpQQ 21:36 Tested In-Depth: Dell Venue 8 7000 Android Tablet
 TiUWWYrDZ5s 5:02 Jamie's Racing Spiders: Episode 3: The Test
 gC876aWMc1Y 4:04 Show and Tell: R2-D2 Sixth Scale Figure
 bDGW9f7FiuY 10:05 The Secrets of Samurai Armor
-CBHQ7lQGOf0 1:00:04 Adam Savage's One Day Builds: Cosmonaut Model Kit
 YmGS2D0Q8vY 22:11 Tested In-Depth: LG Ultra Widescreen Monitor
 4kdE8ANxPjw 3:36 Jamie's Racing Spiders, Episode 2: The Build
 pB5K3ta9JgQ 3:18 Show and Tell: Seek Thermal Imaging Camera
@@ -4148,7 +4157,6 @@ ofPJoE38yR4 5:20 Behind the Scenes with Jamie and Adam's PSA
 v8hFcDhBgZ8 13:02 Tested In-Depth: Boosted Electric Skateboard!
 uKCcgs8P7rs 2:20 12 Days of Christmas: Legendary Board Game
 kND-3dTgkNY 3:22 Print the Mystery Object - Do Do Do Do, Do Doo, Doot - 12/12/2014
-QWiqr-lwYA0 1:07:23 Adam Savage's One Day Builds: Barbarella's Space Rifle
 mnOzzbl0Uqw 21:40 Tested In-Depth: Structure Sensor 3D Scanner
 0SMm10NC8Lk 3:38 Print the Mystery Object - Walk Like an Egyptian - 12/5/2014
 6kNNGNAQtZA 51:19 How To Replace a Cracked Smartphone Screen!
@@ -4315,7 +4323,6 @@ ER7rhQ7N69k 43:41 Adam Savage's 10 Commandments of Making
 Qk1SOcs-_wI 3:17 Show and Tell: LEGO Mystery Build #6
 mvX3pGoCTmE 3:31 MakerBot Mystery Build: Stay Fresh
 4m6EjnEYEEg 16:51 How Giant Tesla Coils Work (with ArcAttack)
-Et-JvYrQ84o 30:39 Adam Savage's One Day Builds: Custom Multi-Tool Belt Holster
 20vv-fqbQ8Q 4:10 Show and Tell: Prototype Boba Fett
 Phny15bR5UY 2:18 MakerBot Mystery Build: Needs One Penny
 baBJdKHw-zQ 13:46 Making a Real-Life Zoidberg Costume!
@@ -4365,7 +4372,6 @@ AbKyy4IsGvI 3:21 Tested: Detonating an Airbag at 2500 Frames Per Second
 9ODmcdjQcHQ 11:17 Tested: Grinding Coffee at 2000 Frames Per Second
 AEm0WBXv-Fw 1:34 Show and Tell: Settlers of Catan Boards
 qlvoBP1lbyQ 3:38 MakerBot Mystery Build: Running Cool
-O1--0DLJv-8 25:10 One Day Builds: Customizing Adam's Hero Sword
 lN4X4grFZa0 23:31 The Game Frame Pixel Art Project
 pdxRSDzy_xY 4:56 Show and Tell: Cardboard Kinetic Creatures
 O0NSqNTGs_Y 2:38 MakerBot Mystery Build: A Little Twisted
@@ -4381,7 +4387,6 @@ cU-cO0RvpwQ 35:10 Jamie Hyneman: "Innovation, Explosions, and the Benefit of Ado
 stgPC7MPpfM 4:11 Inside Adam Savage's Cave: Space Glove Vacuum Chamber
 J9DvVx1nXE0 3:26 Show and Tell: Apply Directly to Forehead
 xbtVjqgpmJQ 3:16 MakerBot Mystery Build: For Dug
-lPLvkrtqkJ8 33:00 Adam Savage's One Day Builds: Traveling Beaver Box
 c7g-IfbG4Jg 22:39 Tested In-Depth: Nest Protect Smart Smoke Detector
 82c9y-YW6aY 4:48 Show and Tell: LEGO Mystery Build #3
 sjJOYa--EUo 1:48 Linksys WRT-1900AC Router Looks Familiar
@@ -4511,7 +4516,6 @@ HVLId_4GjOM 2:17 MakerBot Mystery Build: 19,000 Solutions
 ZWhnHFPLbYA 13:18 Jamie Hyneman on Killer Death Robots and Robot Bloodsport
 q4A7hR2k-5Q 3:45 Show and Tell: Hot Toys Iron Man Mark VII 1/6 Scale Figure
 -okuey77X9E 3:59 Tested Mailbag: We're Being Watched
-4sCReGjfZ_A 16:37 Adam Savage's One Day Builds: Han Solo's DL-44 Blaster
 VhNNzgNZaLA 9:08 Adam Savage Geeks Out Over Woodworking Saws
 hKfRcop0MAs 10:32 Jamie Hyneman on Electronics and Microcontrollers
 o8qnOUc_zOQ 4:25 Show and Tell: Mechanical FlipBook Kit
@@ -4575,7 +4579,6 @@ R9S0fTOVug4 3:27 Testing the Puzzlebox Orbit Brain-Controlled Helicopter
 qhMdNxV3g38 2:36 How To Brew Coffee with the Able Kone Brewing System Not for Most People
 qBWl-LQmp_M 1:56 Show and Tell: Favorite Pocket Flashlights
 R9Z6HVNF3ok 3:14 MakerBot Mystery Build: Nemo's Friend
-0JnTThZMJAg 13:12 Adam Savage's One Day Builds: Strandbeest Model Kit Fitbit Zip Wireless Activity Tracker
 GvzIFxdPN-E 3:35 Show and Tell: Battle Wizards
 Qu6VoMtydDk 3:04 WonderCon 2013: Metal Gear Solid's Raiden Cosplay
 9kr9h0UEjQc 1:08:14 Episode 164 - Will's Dead MacBook - 4/4/2013
@@ -4606,7 +4609,6 @@ OkOB4uLn06s 41:34 Tested In-Depth: Google Nexus 4 Android Smartphone
 oKw1Bdf5eGQ 3:18 Show and Tell: Your Very Own Sad Keanu
 ZlA15Uaw4MA 18:06 The Bay Lights Project: Attaching 25,000 Lights to the Bay Bridge
 tycMj1Kv-Lk 4:41 MakerBot Mystery Build: Bear[d] with Me
-YXzxEqdvuIE 31:11 One Day Builds: Adam Savage Demonstrates Weathering Tricks Mophie Juice Pack Helium for iPhone 5
 _8DZ-9yQiGw 30:55 The Adam Savage Project - Shop Safety - 2/26/2013
 HczkH88KdZk 1:45 Show and Tell: The Writer's Best Friend
 jZ-l_BLOg5o 3:36 MakerBot Mystery Build: Not Included
@@ -4615,7 +4617,6 @@ uRW-YxKWzjA 7:23 Rare Star Wars Toys That Never Made it to Stores
 T-rZ528C8Ss 17:00 The World's Largest Star Wars Memorabilia Collection at Rancho Obi-Wan
 lbBY0TrMURE 6:08 Show and Tell: The World of Art Toys
 p5z5_9nIqcY 3:43 MakerBot Mystery Build: Plastic, Not Tin
--tUHJnl8qPM 32:11 One Day Builds: Adam Savage Makes Something Wonderful from Scratch Sony NEX-5R Mirrorless Interchangeable Lens Camera
 XfYWPN2O1yk 4:57 Show and Tell: Not Your Typical Action Figure
 DBRsMzCyM98 3:23 MakerBot Mystery Build: Empty Your Pockets
 a7U45gRkBPA 13:22 w00tstock Founder's Night with Adam Savage, Wil Wheaton, Paul and Storm
