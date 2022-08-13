@@ -18,7 +18,7 @@ export function TestResults(): React.Node {
   }, [])
 
   return /fail/i.test(message) ? (
-    <div class="TestResults">
+    <div className="TestResults">
       <code>
         <pre>{message}</pre>
       </code>
