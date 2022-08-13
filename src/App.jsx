@@ -52,6 +52,7 @@ function createModel() {
           // clear the cache; we should only ever need to cache
           // one day's schedule at a time.
           scheduleCache = {}
+          console.debug("scheduleCache miss; regenerating")
           scheduleCache[seed] = generateSchedule(seed)
       }
       return scheduleCache[seed]

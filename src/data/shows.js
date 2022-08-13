@@ -175,14 +175,12 @@ itdBLyLCiU0 4:49 WIKITONGUES: Jakob speaking Zipser German
 EMITnQ-w-04 1:01 WIKITONGUES: Hirwa signing Rwandan Sign Language
 hrxUsCrOQ-c 1:35 WIKITONGUES: Faraz speaking Majhi Punjabi
 PWVzPFUgHEo 0:47 WIKITONGUES: Sanjana speaking Nepali
-undefined SHORTS WIKITONGUES: Najib speaking Kalasha
 rEqO7tkF_04 4:20 WIKITONGUES: Rino speaking Balantak
 VPnXITN30VU 6:41 WIKITONGUES: Ana speaking Croatian Sign Language
 kDyUnJ0p8JE 1:04 WIKITONGUES: Riku speaking Assamese
 RtvgMwWEjSo 0:59 WIKITONGUES: Safulo Kacaw speaking Amis
 Gt0jbL8p8AM 2:20 WIKITONGUES: Mary speaking Soli
 QMypNaOcn1E 3:47 WIKITONGUES: James speaking Zambian Sign Language
-undefined SHORTS WIKITONGUES: Keith speaking Maltese
 OWoKDqJQt1c 1:44 WIKITONGUES: Malek speaking Eastern Balochi
 IA4PxlO9OOU 2:58 WIKITONGUES: Evan speaking Hñähñu
 1LIEW4IaKWQ 0:33 WIKITONGUES: Gabriel speaking Hungarian
@@ -228,7 +226,6 @@ tTBDXjKZB08 13:26 WIKITONGUES: Trey speaking Bermudian English
 C380uSo4Ils 1:43 WIKITONGUES: Rose speaking Kikamba
 z2GFNc-X6mA 0:46 WIKITONGUES: Kaisanan speaking Taokas
 zeApE-aD3fI 0:56 WIKITONGUES: Yernur speaking Kazakh
-undefined SHORTS WIKITONGUES: Dmitry speaking Altai
 NG-rV0oGZ9s 1:30 WIKITNOGUES: Ni Luh speaking Balinese
 ak9Zqiddtt8 1:09 WIKITONGUES: PuingAke'Kuking speaking Bah-Biau Punan
 nJU_XnQzzHk 5:03 WIKITONGUES: Nezahualcoyotl speaking Nuyoo Mixtec
@@ -737,7 +734,6 @@ mrnxCBfLHFQ 1:40 WIKITONGUES: Tiger speaking Shangaan
 PpNr0MgTAbY 2:04 WIKITONGUES: Aldade speaking Portuguese and Chuwabo
 Uq2x_P34bTQ 4:22 WIKITONGUES: Ayesha speaking Bengali
 E-ohZtbkyxI 0:53 WIKITONGUES: Martin Speaking Swedish and Polish
-undefined SHORTS WIKITONGUES: Hiljiardo speaking Esperanto
 72L2JsuGcH0 0:51 WIKITONGUES: Anis Speaking Lebanese Arabic
 8RyDKy_HUj0 1:40 WIKITONGUES: Michael speaking Shangaan
 IahmVXN7xEQ 3:23 WIKITONGUES: Ashwath speaking Konkani
@@ -820,7 +816,6 @@ RCZF42aj2Po 3:38 WIKITONGUES: Natasha speaking English
 DbArjSCZvOQ 1:27 WIKITONGUES: Will speaking Mandarin
 iWRrLD7H98s 4:03 WIKITONGUES: Freddie speaking Portuguese
 VgzHAbJjteQ 0:36 WIKITONGUES: Clara speaking French
-undefined SHORTS WIKITONGUES: Sunny speaking Taiwanese Min Nan
 vO87PpdQKV4 3:28 WIKITONGUES: Joel speaking English & Hebrew
 cC50MO--CGQ 3:36 WIKITONGUES: Manuel speaking Totonac
 CouHEysgsPo 2:05 WIKITONGUES: Octavia speaking Hessian
@@ -3474,7 +3469,6 @@ riIpboxWv3U 8:13 Introducing the Chalumeau
 7k_TGe-crFw 3:51 The Rediscovery of Schumann's Violin Concerto
 G-8hUg-nRdM 8:54 Introducing the Cor Anglais
 6gU_zn5uGsM 4:06 TELEMANN: Trio Sonata in A major TWV 42:a6, Allegro
-undefined SHORTS First OAE Player session of 2022🥳 #Shorts
 0yDoqwjarNQ 3:24 JS BACH: Jesus bleibet meine Freude, BWV 147
 ueTWLXIZwtc 3:41 JS BACH: Magnificat
 KKTqN894UCc 3:49 MICHAEL PRAETORIUS: Es ist ein Ros’ entsprungen

@@ -1,36 +1,39 @@
-var rt=(e,a,n)=>new Promise((t,i)=>{var r=l=>{try{s(n.next(l))}catch(d){i(d)}},o=l=>{try{s(n.throw(l))}catch(d){i(d)}},s=l=>l.done?t(l.value):Promise.resolve(l.value).then(r,o);s((n=n.apply(e,a)).next())});function Ye(e,a,n){return n={path:a,exports:{},require:function(t,i){return Wu(t,i==null?n.path:i)}},e(n,n.exports),n.exports}function Wu(){throw new Error("Dynamic requires are not currently supported by @rollup/plugin-commonjs")}var Io=Object.getOwnPropertySymbols,Ou=Object.prototype.hasOwnProperty,Du=Object.prototype.propertyIsEnumerable;function Gu(e){if(e==null)throw new TypeError("Object.assign cannot be called with null or undefined");return Object(e)}function Nu(){try{if(!Object.assign)return!1;var e=new String("abc");if(e[5]="de",Object.getOwnPropertyNames(e)[0]==="5")return!1;for(var a={},n=0;n<10;n++)a["_"+String.fromCharCode(n)]=n;var t=Object.getOwnPropertyNames(a).map(function(r){return a[r]});if(t.join("")!=="0123456789")return!1;var i={};return"abcdefghijklmnopqrst".split("").forEach(function(r){i[r]=r}),Object.keys(Object.assign({},i)).join("")==="abcdefghijklmnopqrst"}catch(r){return!1}}var Ku=Nu()?Object.assign:function(e,a){for(var n,t=Gu(e),i,r=1;r<arguments.length;r++){n=Object(arguments[r]);for(var o in n)Ou.call(n,o)&&(t[o]=n[o]);if(Io){i=Io(n);for(var s=0;s<i.length;s++)Du.call(n,i[s])&&(t[i[s]]=n[i[s]])}}return t},H=Ku;var Ru=Ye(function(e,a){var n=60103,t=60106;a.Fragment=60107,a.StrictMode=60108,a.Profiler=60114;var i=60109,r=60110,o=60112;a.Suspense=60113;var s=60115,l=60116;if(typeof Symbol=="function"&&Symbol.for){var d=Symbol.for;n=d("react.element"),t=d("react.portal"),a.Fragment=d("react.fragment"),a.StrictMode=d("react.strict_mode"),a.Profiler=d("react.profiler"),i=d("react.provider"),r=d("react.context"),o=d("react.forward_ref"),a.Suspense=d("react.suspense"),s=d("react.memo"),l=d("react.lazy")}var f=typeof Symbol=="function"&&Symbol.iterator;function v(h){return h===null||typeof h!="object"?null:(h=f&&h[f]||h["@@iterator"],typeof h=="function"?h:null)}function p(h){for(var A="https://reactjs.org/docs/error-decoder.html?invariant="+h,R=1;R<arguments.length;R++)A+="&args[]="+encodeURIComponent(arguments[R]);return"Minified React error #"+h+"; visit "+A+" for the full message or use the non-minified dev environment for full errors and additional helpful warnings."}var y={isMounted:function(){return!1},enqueueForceUpdate:function(){},enqueueReplaceState:function(){},enqueueSetState:function(){}},B={};function E(h,A,R){this.props=h,this.context=A,this.refs=B,this.updater=R||y}E.prototype.isReactComponent={},E.prototype.setState=function(h,A){if(typeof h!="object"&&typeof h!="function"&&h!=null)throw Error(p(85));this.updater.enqueueSetState(this,h,A,"setState")},E.prototype.forceUpdate=function(h){this.updater.enqueueForceUpdate(this,h,"forceUpdate")};function g(){}g.prototype=E.prototype;function u(h,A,R){this.props=h,this.context=A,this.refs=B,this.updater=R||y}var c=u.prototype=new g;c.constructor=u,H(c,E.prototype),c.isPureReactComponent=!0;var m={current:null},S=Object.prototype.hasOwnProperty,W={key:!0,ref:!0,__self:!0,__source:!0};function M(h,A,R){var L,T={},C=null,P=null;if(A!=null)for(L in A.ref!==void 0&&(P=A.ref),A.key!==void 0&&(C=""+A.key),A)S.call(A,L)&&!W.hasOwnProperty(L)&&(T[L]=A[L]);var N=arguments.length-2;if(N===1)T.children=R;else if(1<N){for(var K=Array(N),J=0;J<N;J++)K[J]=arguments[J+2];T.children=K}if(h&&h.defaultProps)for(L in N=h.defaultProps,N)T[L]===void 0&&(T[L]=N[L]);return{$$typeof:n,type:h,key:C,ref:P,props:T,_owner:m.current}}function w(h,A){return{$$typeof:n,type:h.type,key:A,ref:h.ref,props:h.props,_owner:h._owner}}function D(h){return typeof h=="object"&&h!==null&&h.$$typeof===n}function O(h){var A={"=":"=0",":":"=2"};return"$"+h.replace(/[=:]/g,function(R){return A[R]})}var x=/\/+/g;function ge(h,A){return typeof h=="object"&&h!==null&&h.key!=null?O(""+h.key):A.toString(36)}function wa(h,A,R,L,T){var C=typeof h;(C==="undefined"||C==="boolean")&&(h=null);var P=!1;if(h===null)P=!0;else switch(C){case"string":case"number":P=!0;break;case"object":switch(h.$$typeof){case n:case t:P=!0}}if(P)return P=h,T=T(P),h=L===""?"."+ge(P,0):L,Array.isArray(T)?(R="",h!=null&&(R=h.replace(x,"$&/")+"/"),wa(T,A,R,"",function(J){return J})):T!=null&&(D(T)&&(T=w(T,R+(!T.key||P&&P.key===T.key?"":(""+T.key).replace(x,"$&/")+"/")+h)),A.push(T)),1;if(P=0,L=L===""?".":L+":",Array.isArray(h))for(var N=0;N<h.length;N++){C=h[N];var K=L+ge(C,N);P+=wa(C,A,R,K,T)}else if(K=v(h),typeof K=="function")for(h=K.call(h),N=0;!(C=h.next()).done;)C=C.value,K=L+ge(C,N++),P+=wa(C,A,R,K,T);else if(C==="object")throw A=""+h,Error(p(31,A==="[object Object]"?"object with keys {"+Object.keys(h).join(", ")+"}":A));return P}function $(h,A,R){if(h==null)return h;var L=[],T=0;return wa(h,L,"","",function(C){return A.call(R,C,T++)}),L}function X(h){if(h._status===-1){var A=h._result;A=A(),h._status=0,h._result=A,A.then(function(R){h._status===0&&(R=R.default,h._status=1,h._result=R)},function(R){h._status===0&&(h._status=2,h._result=R)})}if(h._status===1)return h._result;throw h._result}var ua={current:null};function ee(){var h=ua.current;if(h===null)throw Error(p(321));return h}var da={ReactCurrentDispatcher:ua,ReactCurrentBatchConfig:{transition:0},ReactCurrentOwner:m,IsSomeRendererActing:{current:!1},assign:H};a.Children={map:$,forEach:function(h,A,R){$(h,function(){A.apply(this,arguments)},R)},count:function(h){var A=0;return $(h,function(){A++}),A},toArray:function(h){return $(h,function(A){return A})||[]},only:function(h){if(!D(h))throw Error(p(143));return h}},a.Component=E,a.PureComponent=u,a.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED=da,a.cloneElement=function(h,A,R){if(h==null)throw Error(p(267,h));var L=H({},h.props),T=h.key,C=h.ref,P=h._owner;if(A!=null){if(A.ref!==void 0&&(C=A.ref,P=m.current),A.key!==void 0&&(T=""+A.key),h.type&&h.type.defaultProps)var N=h.type.defaultProps;for(K in A)S.call(A,K)&&!W.hasOwnProperty(K)&&(L[K]=A[K]===void 0&&N!==void 0?N[K]:A[K])}var K=arguments.length-2;if(K===1)L.children=R;else if(1<K){N=Array(K);for(var J=0;J<K;J++)N[J]=arguments[J+2];L.children=N}return{$$typeof:n,type:h.type,key:T,ref:C,props:L,_owner:P}},a.createContext=function(h,A){return A===void 0&&(A=null),h={$$typeof:r,_calculateChangedBits:A,_currentValue:h,_currentValue2:h,_threadCount:0,Provider:null,Consumer:null},h.Provider={$$typeof:i,_context:h},h.Consumer=h},a.createElement=M,a.createFactory=function(h){var A=M.bind(null,h);return A.type=h,A},a.createRef=function(){return{current:null}},a.forwardRef=function(h){return{$$typeof:o,render:h}},a.isValidElement=D,a.lazy=function(h){return{$$typeof:l,_payload:{_status:-1,_result:h},_init:X}},a.memo=function(h,A){return{$$typeof:s,type:h,compare:A===void 0?null:A}},a.useCallback=function(h,A){return ee().useCallback(h,A)},a.useContext=function(h,A){return ee().useContext(h,A)},a.useDebugValue=function(){},a.useEffect=function(h,A){return ee().useEffect(h,A)},a.useImperativeHandle=function(h,A,R){return ee().useImperativeHandle(h,A,R)},a.useLayoutEffect=function(h,A){return ee().useLayoutEffect(h,A)},a.useMemo=function(h,A){return ee().useMemo(h,A)},a.useReducer=function(h,A,R){return ee().useReducer(h,A,R)},a.useRef=function(h){return ee().useRef(h)},a.useState=function(h){return ee().useState(h)},a.version="17.0.2"}),U=Ye(function(e){e.exports=Ru});var Yg=U.Children,xg=U.Component,Eo=U.Fragment,Qg=U.Profiler,Vg=U.PureComponent,zg=U.StrictMode,jg=U.Suspense,Jg=U.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED,_g=U.cloneElement,Zg=U.createContext,ue=U.createElement,qg=U.createFactory,Xg=U.createRef,$g=U.forwardRef,eh=U.isValidElement,ah=U.lazy,nh=U.memo,th=U.useCallback,ih=U.useContext,rh=U.useDebugValue,Ba=U.useEffect,oh=U.useImperativeHandle,sh=U.useLayoutEffect,lh=U.useMemo,uh=U.useReducer,ln=U.useRef,Wa=U.useState,dh=U.version;var Uu=Ye(function(e,a){var n,t,i,r;if(typeof performance=="object"&&typeof performance.now=="function"){var o=performance;a.unstable_now=function(){return o.now()}}else{var s=Date,l=s.now();a.unstable_now=function(){return s.now()-l}}if(typeof window=="undefined"||typeof MessageChannel!="function"){var d=null,f=null,v=function(){if(d!==null)try{var T=a.unstable_now();d(!0,T),d=null}catch(C){throw setTimeout(v,0),C}};n=function(T){d!==null?setTimeout(n,0,T):(d=T,setTimeout(v,0))},t=function(T,C){f=setTimeout(T,C)},i=function(){clearTimeout(f)},a.unstable_shouldYield=function(){return!1},r=a.unstable_forceFrameRate=function(){}}else{var p=window.setTimeout,y=window.clearTimeout;if(typeof console!="undefined"){var B=window.cancelAnimationFrame;typeof window.requestAnimationFrame!="function"&&console.error("This browser doesn't support requestAnimationFrame. Make sure that you load a polyfill in older browsers. https://reactjs.org/link/react-polyfills"),typeof B!="function"&&console.error("This browser doesn't support cancelAnimationFrame. Make sure that you load a polyfill in older browsers. https://reactjs.org/link/react-polyfills")}var E=!1,g=null,u=-1,c=5,m=0;a.unstable_shouldYield=function(){return a.unstable_now()>=m},r=function(){},a.unstable_forceFrameRate=function(T){0>T||125<T?console.error("forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported"):c=0<T?Math.floor(1e3/T):5};var S=new MessageChannel,W=S.port2;S.port1.onmessage=function(){if(g!==null){var T=a.unstable_now();m=T+c;try{g(!0,T)?W.postMessage(null):(E=!1,g=null)}catch(C){throw W.postMessage(null),C}}else E=!1},n=function(T){g=T,E||(E=!0,W.postMessage(null))},t=function(T,C){u=p(function(){T(a.unstable_now())},C)},i=function(){y(u),u=-1}}function M(T,C){var P=T.length;T.push(C);e:for(;;){var N=P-1>>>1,K=T[N];if(K!==void 0&&0<O(K,C))T[N]=C,T[P]=K,P=N;else break e}}function w(T){return T=T[0],T===void 0?null:T}function D(T){var C=T[0];if(C!==void 0){var P=T.pop();if(P!==C){T[0]=P;e:for(var N=0,K=T.length;N<K;){var J=2*(N+1)-1,ca=T[J],sn=J+1,Pa=T[sn];if(ca!==void 0&&0>O(ca,P))Pa!==void 0&&0>O(Pa,ca)?(T[N]=Pa,T[sn]=P,N=sn):(T[N]=ca,T[J]=P,N=J);else if(Pa!==void 0&&0>O(Pa,P))T[N]=Pa,T[sn]=P,N=sn;else break e}}return C}return null}function O(T,C){var P=T.sortIndex-C.sortIndex;return P!==0?P:T.id-C.id}var x=[],ge=[],wa=1,$=null,X=3,ua=!1,ee=!1,da=!1;function h(T){for(var C=w(ge);C!==null;){if(C.callback===null)D(ge);else if(C.startTime<=T)D(ge),C.sortIndex=C.expirationTime,M(x,C);else break;C=w(ge)}}function A(T){if(da=!1,h(T),!ee)if(w(x)!==null)ee=!0,n(R);else{var C=w(ge);C!==null&&t(A,C.startTime-T)}}function R(T,C){ee=!1,da&&(da=!1,i()),ua=!0;var P=X;try{for(h(C),$=w(x);$!==null&&(!($.expirationTime>C)||T&&!a.unstable_shouldYield());){var N=$.callback;if(typeof N=="function"){$.callback=null,X=$.priorityLevel;var K=N($.expirationTime<=C);C=a.unstable_now(),typeof K=="function"?$.callback=K:$===w(x)&&D(x),h(C)}else D(x);$=w(x)}if($!==null)var J=!0;else{var ca=w(ge);ca!==null&&t(A,ca.startTime-C),J=!1}return J}finally{$=null,X=P,ua=!1}}var L=r;a.unstable_IdlePriority=5,a.unstable_ImmediatePriority=1,a.unstable_LowPriority=4,a.unstable_NormalPriority=3,a.unstable_Profiling=null,a.unstable_UserBlockingPriority=2,a.unstable_cancelCallback=function(T){T.callback=null},a.unstable_continueExecution=function(){ee||ua||(ee=!0,n(R))},a.unstable_getCurrentPriorityLevel=function(){return X},a.unstable_getFirstCallbackNode=function(){return w(x)},a.unstable_next=function(T){switch(X){case 1:case 2:case 3:var C=3;break;default:C=X}var P=X;X=C;try{return T()}finally{X=P}},a.unstable_pauseExecution=function(){},a.unstable_requestPaint=L,a.unstable_runWithPriority=function(T,C){switch(T){case 1:case 2:case 3:case 4:case 5:break;default:T=3}var P=X;X=T;try{return C()}finally{X=P}},a.unstable_scheduleCallback=function(T,C,P){var N=a.unstable_now();switch(typeof P=="object"&&P!==null?(P=P.delay,P=typeof P=="number"&&0<P?N+P:N):P=N,T){case 1:var K=-1;break;case 2:K=250;break;case 5:K=1073741823;break;case 4:K=1e4;break;default:K=5e3}return K=P+K,T={id:wa++,callback:C,priorityLevel:T,startTime:P,expirationTime:K,sortIndex:-1},P>N?(T.sortIndex=P,M(ge,T),w(x)===null&&T===w(ge)&&(da?i():da=!0,t(A,P-N))):(T.sortIndex=K,M(x,T),ee||ua||(ee=!0,n(R))),T},a.unstable_wrapCallback=function(T){var C=X;return function(){var P=X;X=C;try{return T.apply(this,arguments)}finally{X=P}}}}),_=Ye(function(e){e.exports=Uu});function k(e){for(var a="https://reactjs.org/docs/error-decoder.html?invariant="+e,n=1;n<arguments.length;n++)a+="&args[]="+encodeURIComponent(arguments[n]);return"Minified React error #"+e+"; visit "+a+" for the full message or use the non-minified dev environment for full errors and additional helpful warnings."}if(!U)throw Error(k(227));var wo=new Set,un={};function ga(e,a){Oa(e,a),Oa(e+"Capture",a)}function Oa(e,a){for(un[e]=a,e=0;e<a.length;e++)wo.add(a[e])}var Ne=!(typeof window=="undefined"||typeof window.document=="undefined"||typeof window.document.createElement=="undefined"),Hu=/^[:A-Z_a-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD][:A-Z_a-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD\-.0-9\u00B7\u0300-\u036F\u203F-\u2040]*$/,Po=Object.prototype.hasOwnProperty,Bo={},Wo={};function Lu(e){return Po.call(Wo,e)?!0:Po.call(Bo,e)?!1:Hu.test(e)?Wo[e]=!0:(Bo[e]=!0,!1)}function bu(e,a,n,t){if(n!==null&&n.type===0)return!1;switch(typeof a){case"function":case"symbol":return!0;case"boolean":return t?!1:n!==null?!n.acceptsBooleans:(e=e.toLowerCase().slice(0,5),e!=="data-"&&e!=="aria-");default:return!1}}function Fu(e,a,n,t){if(a===null||typeof a=="undefined"||bu(e,a,n,t))return!0;if(t)return!1;if(n!==null)switch(n.type){case 3:return!a;case 4:return a===!1;case 5:return isNaN(a);case 6:return isNaN(a)||1>a}return!1}function de(e,a,n,t,i,r,o){this.acceptsBooleans=a===2||a===3||a===4,this.attributeName=t,this.attributeNamespace=i,this.mustUseProperty=n,this.propertyName=e,this.type=a,this.sanitizeURL=r,this.removeEmptyString=o}var ae={};"children dangerouslySetInnerHTML defaultValue defaultChecked innerHTML suppressContentEditableWarning suppressHydrationWarning style".split(" ").forEach(function(e){ae[e]=new de(e,0,!1,e,null,!1,!1)});[["acceptCharset","accept-charset"],["className","class"],["htmlFor","for"],["httpEquiv","http-equiv"]].forEach(function(e){var a=e[0];ae[a]=new de(a,1,!1,e[1],null,!1,!1)});["contentEditable","draggable","spellCheck","value"].forEach(function(e){ae[e]=new de(e,2,!1,e.toLowerCase(),null,!1,!1)});["autoReverse","externalResourcesRequired","focusable","preserveAlpha"].forEach(function(e){ae[e]=new de(e,2,!1,e,null,!1,!1)});"allowFullScreen async autoFocus autoPlay controls default defer disabled disablePictureInPicture disableRemotePlayback formNoValidate hidden loop noModule noValidate open playsInline readOnly required reversed scoped seamless itemScope".split(" ").forEach(function(e){ae[e]=new de(e,3,!1,e.toLowerCase(),null,!1,!1)});["checked","multiple","muted","selected"].forEach(function(e){ae[e]=new de(e,3,!0,e,null,!1,!1)});["capture","download"].forEach(function(e){ae[e]=new de(e,4,!1,e,null,!1,!1)});["cols","rows","size","span"].forEach(function(e){ae[e]=new de(e,6,!1,e,null,!1,!1)});["rowSpan","start"].forEach(function(e){ae[e]=new de(e,5,!1,e.toLowerCase(),null,!1,!1)});var Si=/[\-:]([a-z])/g;function fi(e){return e[1].toUpperCase()}"accent-height alignment-baseline arabic-form baseline-shift cap-height clip-path clip-rule color-interpolation color-interpolation-filters color-profile color-rendering dominant-baseline enable-background fill-opacity fill-rule flood-color flood-opacity font-family font-size font-size-adjust font-stretch font-style font-variant font-weight glyph-name glyph-orientation-horizontal glyph-orientation-vertical horiz-adv-x horiz-origin-x image-rendering letter-spacing lighting-color marker-end marker-mid marker-start overline-position overline-thickness paint-order panose-1 pointer-events rendering-intent shape-rendering stop-color stop-opacity strikethrough-position strikethrough-thickness stroke-dasharray stroke-dashoffset stroke-linecap stroke-linejoin stroke-miterlimit stroke-opacity stroke-width text-anchor text-decoration text-rendering underline-position underline-thickness unicode-bidi unicode-range units-per-em v-alphabetic v-hanging v-ideographic v-mathematical vector-effect vert-adv-y vert-origin-x vert-origin-y word-spacing writing-mode xmlns:xlink x-height".split(" ").forEach(function(e){var a=e.replace(Si,fi);ae[a]=new de(a,1,!1,e,null,!1,!1)});"xlink:actuate xlink:arcrole xlink:role xlink:show xlink:title xlink:type".split(" ").forEach(function(e){var a=e.replace(Si,fi);ae[a]=new de(a,1,!1,e,"http://www.w3.org/1999/xlink",!1,!1)});["xml:base","xml:lang","xml:space"].forEach(function(e){var a=e.replace(Si,fi);ae[a]=new de(a,1,!1,e,"http://www.w3.org/XML/1998/namespace",!1,!1)});["tabIndex","crossOrigin"].forEach(function(e){ae[e]=new de(e,1,!1,e.toLowerCase(),null,!1,!1)});ae.xlinkHref=new de("xlinkHref",1,!1,"xlink:href","http://www.w3.org/1999/xlink",!0,!1);["src","href","action","formAction"].forEach(function(e){ae[e]=new de(e,1,!1,e.toLowerCase(),null,!0,!0)});function Ti(e,a,n,t){var i=ae.hasOwnProperty(a)?ae[a]:null,r=i!==null?i.type===0:t?!1:!(!(2<a.length)||a[0]!=="o"&&a[0]!=="O"||a[1]!=="n"&&a[1]!=="N");r||(Fu(a,n,i,t)&&(n=null),t||i===null?Lu(a)&&(n===null?e.removeAttribute(a):e.setAttribute(a,""+n)):i.mustUseProperty?e[i.propertyName]=n===null?i.type===3?!1:"":n:(a=i.attributeName,t=i.attributeNamespace,n===null?e.removeAttribute(a):(i=i.type,n=i===3||i===4&&n===!0?"":""+n,t?e.setAttributeNS(t,a,n):e.setAttribute(a,n))))}var ha=U.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED,dn=60103,ma=60106,xe=60107,ki=60108,cn=60114,Ai=60109,yi=60110,ot=60112,gn=60113,st=60120,lt=60115,Mi=60116,vi=60121,Ci=60128,Oo=60129,Ii=60130,Ei=60131;typeof Symbol=="function"&&Symbol.for&&(Z=Symbol.for,dn=Z("react.element"),ma=Z("react.portal"),xe=Z("react.fragment"),ki=Z("react.strict_mode"),cn=Z("react.profiler"),Ai=Z("react.provider"),yi=Z("react.context"),ot=Z("react.forward_ref"),gn=Z("react.suspense"),st=Z("react.suspense_list"),lt=Z("react.memo"),Mi=Z("react.lazy"),vi=Z("react.block"),Z("react.scope"),Ci=Z("react.opaque.id"),Oo=Z("react.debug_trace_mode"),Ii=Z("react.offscreen"),Ei=Z("react.legacy_hidden"));var Z,Do=typeof Symbol=="function"&&Symbol.iterator;function hn(e){return e===null||typeof e!="object"?null:(e=Do&&e[Do]||e["@@iterator"],typeof e=="function"?e:null)}var wi;function mn(e){if(wi===void 0)try{throw Error()}catch(n){var a=n.stack.trim().match(/\n( *(at )?)/);wi=a&&a[1]||""}return`
-`+wi+e}var Pi=!1;function ut(e,a){if(!e||Pi)return"";Pi=!0;var n=Error.prepareStackTrace;Error.prepareStackTrace=void 0;try{if(a)if(a=function(){throw Error()},Object.defineProperty(a.prototype,"props",{set:function(){throw Error()}}),typeof Reflect=="object"&&Reflect.construct){try{Reflect.construct(a,[])}catch(l){var t=l}Reflect.construct(e,[],a)}else{try{a.call()}catch(l){t=l}e.call(a.prototype)}else{try{throw Error()}catch(l){t=l}e()}}catch(l){if(l&&t&&typeof l.stack=="string"){for(var i=l.stack.split(`
+var rt=(e,n,a)=>new Promise((t,i)=>{var r=l=>{try{o(a.next(l))}catch(d){i(d)}},s=l=>{try{o(a.throw(l))}catch(d){i(d)}},o=l=>l.done?t(l.value):Promise.resolve(l.value).then(r,s);o((a=a.apply(e,n)).next())});function Ye(e,n,a){return a={path:n,exports:{},require:function(t,i){return Pu(t,i==null?a.path:i)}},e(a,a.exports),a.exports}function Pu(){throw new Error("Dynamic requires are not currently supported by @rollup/plugin-commonjs")}var Ms=Object.getOwnPropertySymbols,Nu=Object.prototype.hasOwnProperty,Ku=Object.prototype.propertyIsEnumerable;function Gu(e){if(e==null)throw new TypeError("Object.assign cannot be called with null or undefined");return Object(e)}function Uu(){try{if(!Object.assign)return!1;var e=new String("abc");if(e[5]="de",Object.getOwnPropertyNames(e)[0]==="5")return!1;for(var n={},a=0;a<10;a++)n["_"+String.fromCharCode(a)]=a;var t=Object.getOwnPropertyNames(n).map(function(r){return n[r]});if(t.join("")!=="0123456789")return!1;var i={};return"abcdefghijklmnopqrst".split("").forEach(function(r){i[r]=r}),Object.keys(Object.assign({},i)).join("")==="abcdefghijklmnopqrst"}catch(r){return!1}}var Bu=Uu()?Object.assign:function(e,n){for(var a,t=Gu(e),i,r=1;r<arguments.length;r++){a=Object(arguments[r]);for(var s in a)Nu.call(a,s)&&(t[s]=a[s]);if(Ms){i=Ms(a);for(var o=0;o<i.length;o++)Ku.call(a,i[o])&&(t[i[o]]=a[i[o]])}}return t},L=Bu;var Du=Ye(function(e,n){var a=60103,t=60106;n.Fragment=60107,n.StrictMode=60108,n.Profiler=60114;var i=60109,r=60110,s=60112;n.Suspense=60113;var o=60115,l=60116;if(typeof Symbol=="function"&&Symbol.for){var d=Symbol.for;a=d("react.element"),t=d("react.portal"),n.Fragment=d("react.fragment"),n.StrictMode=d("react.strict_mode"),n.Profiler=d("react.profiler"),i=d("react.provider"),r=d("react.context"),s=d("react.forward_ref"),n.Suspense=d("react.suspense"),o=d("react.memo"),l=d("react.lazy")}var S=typeof Symbol=="function"&&Symbol.iterator;function v(h){return h===null||typeof h!="object"?null:(h=S&&h[S]||h["@@iterator"],typeof h=="function"?h:null)}function f(h){for(var T="https://reactjs.org/docs/error-decoder.html?invariant="+h,D=1;D<arguments.length;D++)T+="&args[]="+encodeURIComponent(arguments[D]);return"Minified React error #"+h+"; visit "+T+" for the full message or use the non-minified dev environment for full errors and additional helpful warnings."}var A={isMounted:function(){return!1},enqueueForceUpdate:function(){},enqueueReplaceState:function(){},enqueueSetState:function(){}},O={};function C(h,T,D){this.props=h,this.context=T,this.refs=O,this.updater=D||A}C.prototype.isReactComponent={},C.prototype.setState=function(h,T){if(typeof h!="object"&&typeof h!="function"&&h!=null)throw Error(f(85));this.updater.enqueueSetState(this,h,T,"setState")},C.prototype.forceUpdate=function(h){this.updater.enqueueForceUpdate(this,h,"forceUpdate")};function g(){}g.prototype=C.prototype;function u(h,T,D){this.props=h,this.context=T,this.refs=O,this.updater=D||A}var c=u.prototype=new g;c.constructor=u,L(c,C.prototype),c.isPureReactComponent=!0;var p={current:null},m=Object.prototype.hasOwnProperty,P={key:!0,ref:!0,__self:!0,__source:!0};function I(h,T,D){var H,k={},M=null,w=null;if(T!=null)for(H in T.ref!==void 0&&(w=T.ref),T.key!==void 0&&(M=""+T.key),T)m.call(T,H)&&!P.hasOwnProperty(H)&&(k[H]=T[H]);var U=arguments.length-2;if(U===1)k.children=D;else if(1<U){for(var B=Array(U),J=0;J<U;J++)B[J]=arguments[J+2];k.children=B}if(h&&h.defaultProps)for(H in U=h.defaultProps,U)k[H]===void 0&&(k[H]=U[H]);return{$$typeof:a,type:h,key:M,ref:w,props:k,_owner:p.current}}function W(h,T){return{$$typeof:a,type:h.type,key:T,ref:h.ref,props:h.props,_owner:h._owner}}function K(h){return typeof h=="object"&&h!==null&&h.$$typeof===a}function N(h){var T={"=":"=0",":":"=2"};return"$"+h.replace(/[=:]/g,function(D){return T[D]})}var x=/\/+/g;function ge(h,T){return typeof h=="object"&&h!==null&&h.key!=null?N(""+h.key):T.toString(36)}function wn(h,T,D,H,k){var M=typeof h;(M==="undefined"||M==="boolean")&&(h=null);var w=!1;if(h===null)w=!0;else switch(M){case"string":case"number":w=!0;break;case"object":switch(h.$$typeof){case a:case t:w=!0}}if(w)return w=h,k=k(w),h=H===""?"."+ge(w,0):H,Array.isArray(k)?(D="",h!=null&&(D=h.replace(x,"$&/")+"/"),wn(k,T,D,"",function(J){return J})):k!=null&&(K(k)&&(k=W(k,D+(!k.key||w&&w.key===k.key?"":(""+k.key).replace(x,"$&/")+"/")+h)),T.push(k)),1;if(w=0,H=H===""?".":H+":",Array.isArray(h))for(var U=0;U<h.length;U++){M=h[U];var B=H+ge(M,U);w+=wn(M,T,D,B,k)}else if(B=v(h),typeof B=="function")for(h=B.call(h),U=0;!(M=h.next()).done;)M=M.value,B=H+ge(M,U++),w+=wn(M,T,D,B,k);else if(M==="object")throw T=""+h,Error(f(31,T==="[object Object]"?"object with keys {"+Object.keys(h).join(", ")+"}":T));return w}function $(h,T,D){if(h==null)return h;var H=[],k=0;return wn(h,H,"","",function(M){return T.call(D,M,k++)}),H}function X(h){if(h._status===-1){var T=h._result;T=T(),h._status=0,h._result=T,T.then(function(D){h._status===0&&(D=D.default,h._status=1,h._result=D)},function(D){h._status===0&&(h._status=2,h._result=D)})}if(h._status===1)return h._result;throw h._result}var dn={current:null};function ee(){var h=dn.current;if(h===null)throw Error(f(321));return h}var cn={ReactCurrentDispatcher:dn,ReactCurrentBatchConfig:{transition:0},ReactCurrentOwner:p,IsSomeRendererActing:{current:!1},assign:L};n.Children={map:$,forEach:function(h,T,D){$(h,function(){T.apply(this,arguments)},D)},count:function(h){var T=0;return $(h,function(){T++}),T},toArray:function(h){return $(h,function(T){return T})||[]},only:function(h){if(!K(h))throw Error(f(143));return h}},n.Component=C,n.PureComponent=u,n.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED=cn,n.cloneElement=function(h,T,D){if(h==null)throw Error(f(267,h));var H=L({},h.props),k=h.key,M=h.ref,w=h._owner;if(T!=null){if(T.ref!==void 0&&(M=T.ref,w=p.current),T.key!==void 0&&(k=""+T.key),h.type&&h.type.defaultProps)var U=h.type.defaultProps;for(B in T)m.call(T,B)&&!P.hasOwnProperty(B)&&(H[B]=T[B]===void 0&&U!==void 0?U[B]:T[B])}var B=arguments.length-2;if(B===1)H.children=D;else if(1<B){U=Array(B);for(var J=0;J<B;J++)U[J]=arguments[J+2];H.children=U}return{$$typeof:a,type:h.type,key:k,ref:M,props:H,_owner:w}},n.createContext=function(h,T){return T===void 0&&(T=null),h={$$typeof:r,_calculateChangedBits:T,_currentValue:h,_currentValue2:h,_threadCount:0,Provider:null,Consumer:null},h.Provider={$$typeof:i,_context:h},h.Consumer=h},n.createElement=I,n.createFactory=function(h){var T=I.bind(null,h);return T.type=h,T},n.createRef=function(){return{current:null}},n.forwardRef=function(h){return{$$typeof:s,render:h}},n.isValidElement=K,n.lazy=function(h){return{$$typeof:l,_payload:{_status:-1,_result:h},_init:X}},n.memo=function(h,T){return{$$typeof:o,type:h,compare:T===void 0?null:T}},n.useCallback=function(h,T){return ee().useCallback(h,T)},n.useContext=function(h,T){return ee().useContext(h,T)},n.useDebugValue=function(){},n.useEffect=function(h,T){return ee().useEffect(h,T)},n.useImperativeHandle=function(h,T,D){return ee().useImperativeHandle(h,T,D)},n.useLayoutEffect=function(h,T){return ee().useLayoutEffect(h,T)},n.useMemo=function(h,T){return ee().useMemo(h,T)},n.useReducer=function(h,T,D){return ee().useReducer(h,T,D)},n.useRef=function(h){return ee().useRef(h)},n.useState=function(h){return ee().useState(h)},n.version="17.0.2"}),R=Ye(function(e){e.exports=Du});var Yg=R.Children,jg=R.Component,Es=R.Fragment,xg=R.Profiler,zg=R.PureComponent,Qg=R.StrictMode,_g=R.Suspense,Jg=R.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED,Vg=R.cloneElement,Zg=R.createContext,ue=R.createElement,qg=R.createFactory,Xg=R.createRef,$g=R.forwardRef,eh=R.isValidElement,nh=R.lazy,ah=R.memo,th=R.useCallback,ih=R.useContext,rh=R.useDebugValue,Pn=R.useEffect,sh=R.useImperativeHandle,oh=R.useLayoutEffect,lh=R.useMemo,uh=R.useReducer,la=R.useRef,Nn=R.useState,dh=R.version;var Ru=Ye(function(e,n){var a,t,i,r;if(typeof performance=="object"&&typeof performance.now=="function"){var s=performance;n.unstable_now=function(){return s.now()}}else{var o=Date,l=o.now();n.unstable_now=function(){return o.now()-l}}if(typeof window=="undefined"||typeof MessageChannel!="function"){var d=null,S=null,v=function(){if(d!==null)try{var k=n.unstable_now();d(!0,k),d=null}catch(M){throw setTimeout(v,0),M}};a=function(k){d!==null?setTimeout(a,0,k):(d=k,setTimeout(v,0))},t=function(k,M){S=setTimeout(k,M)},i=function(){clearTimeout(S)},n.unstable_shouldYield=function(){return!1},r=n.unstable_forceFrameRate=function(){}}else{var f=window.setTimeout,A=window.clearTimeout;if(typeof console!="undefined"){var O=window.cancelAnimationFrame;typeof window.requestAnimationFrame!="function"&&console.error("This browser doesn't support requestAnimationFrame. Make sure that you load a polyfill in older browsers. https://reactjs.org/link/react-polyfills"),typeof O!="function"&&console.error("This browser doesn't support cancelAnimationFrame. Make sure that you load a polyfill in older browsers. https://reactjs.org/link/react-polyfills")}var C=!1,g=null,u=-1,c=5,p=0;n.unstable_shouldYield=function(){return n.unstable_now()>=p},r=function(){},n.unstable_forceFrameRate=function(k){0>k||125<k?console.error("forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported"):c=0<k?Math.floor(1e3/k):5};var m=new MessageChannel,P=m.port2;m.port1.onmessage=function(){if(g!==null){var k=n.unstable_now();p=k+c;try{g(!0,k)?P.postMessage(null):(C=!1,g=null)}catch(M){throw P.postMessage(null),M}}else C=!1},a=function(k){g=k,C||(C=!0,P.postMessage(null))},t=function(k,M){u=f(function(){k(n.unstable_now())},M)},i=function(){A(u),u=-1}}function I(k,M){var w=k.length;k.push(M);e:for(;;){var U=w-1>>>1,B=k[U];if(B!==void 0&&0<N(B,M))k[U]=M,k[w]=B,w=U;else break e}}function W(k){return k=k[0],k===void 0?null:k}function K(k){var M=k[0];if(M!==void 0){var w=k.pop();if(w!==M){k[0]=w;e:for(var U=0,B=k.length;U<B;){var J=2*(U+1)-1,gn=k[J],oa=J+1,On=k[oa];if(gn!==void 0&&0>N(gn,w))On!==void 0&&0>N(On,gn)?(k[U]=On,k[oa]=w,U=oa):(k[U]=gn,k[J]=w,U=J);else if(On!==void 0&&0>N(On,w))k[U]=On,k[oa]=w,U=oa;else break e}}return M}return null}function N(k,M){var w=k.sortIndex-M.sortIndex;return w!==0?w:k.id-M.id}var x=[],ge=[],wn=1,$=null,X=3,dn=!1,ee=!1,cn=!1;function h(k){for(var M=W(ge);M!==null;){if(M.callback===null)K(ge);else if(M.startTime<=k)K(ge),M.sortIndex=M.expirationTime,I(x,M);else break;M=W(ge)}}function T(k){if(cn=!1,h(k),!ee)if(W(x)!==null)ee=!0,a(D);else{var M=W(ge);M!==null&&t(T,M.startTime-k)}}function D(k,M){ee=!1,cn&&(cn=!1,i()),dn=!0;var w=X;try{for(h(M),$=W(x);$!==null&&(!($.expirationTime>M)||k&&!n.unstable_shouldYield());){var U=$.callback;if(typeof U=="function"){$.callback=null,X=$.priorityLevel;var B=U($.expirationTime<=M);M=n.unstable_now(),typeof B=="function"?$.callback=B:$===W(x)&&K(x),h(M)}else K(x);$=W(x)}if($!==null)var J=!0;else{var gn=W(ge);gn!==null&&t(T,gn.startTime-M),J=!1}return J}finally{$=null,X=w,dn=!1}}var H=r;n.unstable_IdlePriority=5,n.unstable_ImmediatePriority=1,n.unstable_LowPriority=4,n.unstable_NormalPriority=3,n.unstable_Profiling=null,n.unstable_UserBlockingPriority=2,n.unstable_cancelCallback=function(k){k.callback=null},n.unstable_continueExecution=function(){ee||dn||(ee=!0,a(D))},n.unstable_getCurrentPriorityLevel=function(){return X},n.unstable_getFirstCallbackNode=function(){return W(x)},n.unstable_next=function(k){switch(X){case 1:case 2:case 3:var M=3;break;default:M=X}var w=X;X=M;try{return k()}finally{X=w}},n.unstable_pauseExecution=function(){},n.unstable_requestPaint=H,n.unstable_runWithPriority=function(k,M){switch(k){case 1:case 2:case 3:case 4:case 5:break;default:k=3}var w=X;X=k;try{return M()}finally{X=w}},n.unstable_scheduleCallback=function(k,M,w){var U=n.unstable_now();switch(typeof w=="object"&&w!==null?(w=w.delay,w=typeof w=="number"&&0<w?U+w:U):w=U,k){case 1:var B=-1;break;case 2:B=250;break;case 5:B=1073741823;break;case 4:B=1e4;break;default:B=5e3}return B=w+B,k={id:wn++,callback:M,priorityLevel:k,startTime:w,expirationTime:B,sortIndex:-1},w>U?(k.sortIndex=w,I(ge,k),W(x)===null&&k===W(ge)&&(cn?i():cn=!0,t(T,w-U))):(k.sortIndex=B,I(x,k),ee||dn||(ee=!0,a(D))),k},n.unstable_wrapCallback=function(k){var M=X;return function(){var w=X;X=M;try{return k.apply(this,arguments)}finally{X=w}}}}),V=Ye(function(e){e.exports=Ru});function y(e){for(var n="https://reactjs.org/docs/error-decoder.html?invariant="+e,a=1;a<arguments.length;a++)n+="&args[]="+encodeURIComponent(arguments[a]);return"Minified React error #"+e+"; visit "+n+" for the full message or use the non-minified dev environment for full errors and additional helpful warnings."}if(!R)throw Error(y(227));var Cs=new Set,ua={};function hn(e,n){Kn(e,n),Kn(e+"Capture",n)}function Kn(e,n){for(ua[e]=n,e=0;e<n.length;e++)Cs.add(n[e])}var Be=!(typeof window=="undefined"||typeof window.document=="undefined"||typeof window.document.createElement=="undefined"),Lu=/^[:A-Z_a-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD][:A-Z_a-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u02FF\u0370-\u037D\u037F-\u1FFF\u200C-\u200D\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD\-.0-9\u00B7\u0300-\u036F\u203F-\u2040]*$/,Ws=Object.prototype.hasOwnProperty,ws={},Os={};function Hu(e){return Ws.call(Os,e)?!0:Ws.call(ws,e)?!1:Lu.test(e)?Os[e]=!0:(ws[e]=!0,!1)}function Fu(e,n,a,t){if(a!==null&&a.type===0)return!1;switch(typeof n){case"function":case"symbol":return!0;case"boolean":return t?!1:a!==null?!a.acceptsBooleans:(e=e.toLowerCase().slice(0,5),e!=="data-"&&e!=="aria-");default:return!1}}function bu(e,n,a,t){if(n===null||typeof n=="undefined"||Fu(e,n,a,t))return!0;if(t)return!1;if(a!==null)switch(a.type){case 3:return!n;case 4:return n===!1;case 5:return isNaN(n);case 6:return isNaN(n)||1>n}return!1}function de(e,n,a,t,i,r,s){this.acceptsBooleans=n===2||n===3||n===4,this.attributeName=t,this.attributeNamespace=i,this.mustUseProperty=a,this.propertyName=e,this.type=n,this.sanitizeURL=r,this.removeEmptyString=s}var ne={};"children dangerouslySetInnerHTML defaultValue defaultChecked innerHTML suppressContentEditableWarning suppressHydrationWarning style".split(" ").forEach(function(e){ne[e]=new de(e,0,!1,e,null,!1,!1)});[["acceptCharset","accept-charset"],["className","class"],["htmlFor","for"],["httpEquiv","http-equiv"]].forEach(function(e){var n=e[0];ne[n]=new de(n,1,!1,e[1],null,!1,!1)});["contentEditable","draggable","spellCheck","value"].forEach(function(e){ne[e]=new de(e,2,!1,e.toLowerCase(),null,!1,!1)});["autoReverse","externalResourcesRequired","focusable","preserveAlpha"].forEach(function(e){ne[e]=new de(e,2,!1,e,null,!1,!1)});"allowFullScreen async autoFocus autoPlay controls default defer disabled disablePictureInPicture disableRemotePlayback formNoValidate hidden loop noModule noValidate open playsInline readOnly required reversed scoped seamless itemScope".split(" ").forEach(function(e){ne[e]=new de(e,3,!1,e.toLowerCase(),null,!1,!1)});["checked","multiple","muted","selected"].forEach(function(e){ne[e]=new de(e,3,!0,e,null,!1,!1)});["capture","download"].forEach(function(e){ne[e]=new de(e,4,!1,e,null,!1,!1)});["cols","rows","size","span"].forEach(function(e){ne[e]=new de(e,6,!1,e,null,!1,!1)});["rowSpan","start"].forEach(function(e){ne[e]=new de(e,5,!1,e.toLowerCase(),null,!1,!1)});var mi=/[\-:]([a-z])/g;function Si(e){return e[1].toUpperCase()}"accent-height alignment-baseline arabic-form baseline-shift cap-height clip-path clip-rule color-interpolation color-interpolation-filters color-profile color-rendering dominant-baseline enable-background fill-opacity fill-rule flood-color flood-opacity font-family font-size font-size-adjust font-stretch font-style font-variant font-weight glyph-name glyph-orientation-horizontal glyph-orientation-vertical horiz-adv-x horiz-origin-x image-rendering letter-spacing lighting-color marker-end marker-mid marker-start overline-position overline-thickness paint-order panose-1 pointer-events rendering-intent shape-rendering stop-color stop-opacity strikethrough-position strikethrough-thickness stroke-dasharray stroke-dashoffset stroke-linecap stroke-linejoin stroke-miterlimit stroke-opacity stroke-width text-anchor text-decoration text-rendering underline-position underline-thickness unicode-bidi unicode-range units-per-em v-alphabetic v-hanging v-ideographic v-mathematical vector-effect vert-adv-y vert-origin-x vert-origin-y word-spacing writing-mode xmlns:xlink x-height".split(" ").forEach(function(e){var n=e.replace(mi,Si);ne[n]=new de(n,1,!1,e,null,!1,!1)});"xlink:actuate xlink:arcrole xlink:role xlink:show xlink:title xlink:type".split(" ").forEach(function(e){var n=e.replace(mi,Si);ne[n]=new de(n,1,!1,e,"http://www.w3.org/1999/xlink",!1,!1)});["xml:base","xml:lang","xml:space"].forEach(function(e){var n=e.replace(mi,Si);ne[n]=new de(n,1,!1,e,"http://www.w3.org/XML/1998/namespace",!1,!1)});["tabIndex","crossOrigin"].forEach(function(e){ne[e]=new de(e,1,!1,e.toLowerCase(),null,!1,!1)});ne.xlinkHref=new de("xlinkHref",1,!1,"xlink:href","http://www.w3.org/1999/xlink",!0,!1);["src","href","action","formAction"].forEach(function(e){ne[e]=new de(e,1,!1,e.toLowerCase(),null,!0,!0)});function ki(e,n,a,t){var i=ne.hasOwnProperty(n)?ne[n]:null,r=i!==null?i.type===0:t?!1:!(!(2<n.length)||n[0]!=="o"&&n[0]!=="O"||n[1]!=="n"&&n[1]!=="N");r||(bu(n,a,i,t)&&(a=null),t||i===null?Hu(n)&&(a===null?e.removeAttribute(n):e.setAttribute(n,""+a)):i.mustUseProperty?e[i.propertyName]=a===null?i.type===3?!1:"":a:(n=i.attributeName,t=i.attributeNamespace,a===null?e.removeAttribute(n):(i=i.type,a=i===3||i===4&&a===!0?"":""+a,t?e.setAttributeNS(t,n,a):e.setAttribute(n,a))))}var pn=R.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED,da=60103,fn=60106,je=60107,yi=60108,ca=60114,Ti=60109,Ai=60110,st=60112,ga=60113,ot=60120,lt=60115,Ii=60116,vi=60121,Mi=60128,Ps=60129,Ei=60130,Ci=60131;typeof Symbol=="function"&&Symbol.for&&(Z=Symbol.for,da=Z("react.element"),fn=Z("react.portal"),je=Z("react.fragment"),yi=Z("react.strict_mode"),ca=Z("react.profiler"),Ti=Z("react.provider"),Ai=Z("react.context"),st=Z("react.forward_ref"),ga=Z("react.suspense"),ot=Z("react.suspense_list"),lt=Z("react.memo"),Ii=Z("react.lazy"),vi=Z("react.block"),Z("react.scope"),Mi=Z("react.opaque.id"),Ps=Z("react.debug_trace_mode"),Ei=Z("react.offscreen"),Ci=Z("react.legacy_hidden"));var Z,Ns=typeof Symbol=="function"&&Symbol.iterator;function ha(e){return e===null||typeof e!="object"?null:(e=Ns&&e[Ns]||e["@@iterator"],typeof e=="function"?e:null)}var Wi;function pa(e){if(Wi===void 0)try{throw Error()}catch(a){var n=a.stack.trim().match(/\n( *(at )?)/);Wi=n&&n[1]||""}return`
+`+Wi+e}var wi=!1;function ut(e,n){if(!e||wi)return"";wi=!0;var a=Error.prepareStackTrace;Error.prepareStackTrace=void 0;try{if(n)if(n=function(){throw Error()},Object.defineProperty(n.prototype,"props",{set:function(){throw Error()}}),typeof Reflect=="object"&&Reflect.construct){try{Reflect.construct(n,[])}catch(l){var t=l}Reflect.construct(e,[],n)}else{try{n.call()}catch(l){t=l}e.call(n.prototype)}else{try{throw Error()}catch(l){t=l}e()}}catch(l){if(l&&t&&typeof l.stack=="string"){for(var i=l.stack.split(`
 `),r=t.stack.split(`
-`),o=i.length-1,s=r.length-1;1<=o&&0<=s&&i[o]!==r[s];)s--;for(;1<=o&&0<=s;o--,s--)if(i[o]!==r[s]){if(o!==1||s!==1)do if(o--,s--,0>s||i[o]!==r[s])return`
-`+i[o].replace(" at new "," at ");while(1<=o&&0<=s);break}}}finally{Pi=!1,Error.prepareStackTrace=n}return(e=e?e.displayName||e.name:"")?mn(e):""}function Yu(e){switch(e.tag){case 5:return mn(e.type);case 16:return mn("Lazy");case 13:return mn("Suspense");case 19:return mn("SuspenseList");case 0:case 2:case 15:return e=ut(e.type,!1),e;case 11:return e=ut(e.type.render,!1),e;case 22:return e=ut(e.type._render,!1),e;case 1:return e=ut(e.type,!0),e;default:return""}}function Da(e){if(e==null)return null;if(typeof e=="function")return e.displayName||e.name||null;if(typeof e=="string")return e;switch(e){case xe:return"Fragment";case ma:return"Portal";case cn:return"Profiler";case ki:return"StrictMode";case gn:return"Suspense";case st:return"SuspenseList"}if(typeof e=="object")switch(e.$$typeof){case yi:return(e.displayName||"Context")+".Consumer";case Ai:return(e._context.displayName||"Context")+".Provider";case ot:var a=e.render;return a=a.displayName||a.name||"",e.displayName||(a!==""?"ForwardRef("+a+")":"ForwardRef");case lt:return Da(e.type);case vi:return Da(e._render);case Mi:a=e._payload,e=e._init;try{return Da(e(a))}catch(n){}}return null}function Qe(e){switch(typeof e){case"boolean":case"number":case"object":case"string":case"undefined":return e;default:return""}}function Go(e){var a=e.type;return(e=e.nodeName)&&e.toLowerCase()==="input"&&(a==="checkbox"||a==="radio")}function xu(e){var a=Go(e)?"checked":"value",n=Object.getOwnPropertyDescriptor(e.constructor.prototype,a),t=""+e[a];if(!e.hasOwnProperty(a)&&typeof n!="undefined"&&typeof n.get=="function"&&typeof n.set=="function"){var i=n.get,r=n.set;return Object.defineProperty(e,a,{configurable:!0,get:function(){return i.call(this)},set:function(o){t=""+o,r.call(this,o)}}),Object.defineProperty(e,a,{enumerable:n.enumerable}),{getValue:function(){return t},setValue:function(o){t=""+o},stopTracking:function(){e._valueTracker=null,delete e[a]}}}}function dt(e){e._valueTracker||(e._valueTracker=xu(e))}function No(e){if(!e)return!1;var a=e._valueTracker;if(!a)return!0;var n=a.getValue(),t="";return e&&(t=Go(e)?e.checked?"true":"false":e.value),e=t,e!==n?(a.setValue(e),!0):!1}function ct(e){if(e=e||(typeof document!="undefined"?document:void 0),typeof e=="undefined")return null;try{return e.activeElement||e.body}catch(a){return e.body}}function Bi(e,a){var n=a.checked;return H({},a,{defaultChecked:void 0,defaultValue:void 0,value:void 0,checked:n!=null?n:e._wrapperState.initialChecked})}function Ko(e,a){var n=a.defaultValue==null?"":a.defaultValue,t=a.checked!=null?a.checked:a.defaultChecked;n=Qe(a.value!=null?a.value:n),e._wrapperState={initialChecked:t,initialValue:n,controlled:a.type==="checkbox"||a.type==="radio"?a.checked!=null:a.value!=null}}function Ro(e,a){a=a.checked,a!=null&&Ti(e,"checked",a,!1)}function Oi(e,a){Ro(e,a);var n=Qe(a.value),t=a.type;if(n!=null)t==="number"?(n===0&&e.value===""||e.value!=n)&&(e.value=""+n):e.value!==""+n&&(e.value=""+n);else if(t==="submit"||t==="reset"){e.removeAttribute("value");return}a.hasOwnProperty("value")?Wi(e,a.type,n):a.hasOwnProperty("defaultValue")&&Wi(e,a.type,Qe(a.defaultValue)),a.checked==null&&a.defaultChecked!=null&&(e.defaultChecked=!!a.defaultChecked)}function Uo(e,a,n){if(a.hasOwnProperty("value")||a.hasOwnProperty("defaultValue")){var t=a.type;if(!(t!=="submit"&&t!=="reset"||a.value!==void 0&&a.value!==null))return;a=""+e._wrapperState.initialValue,n||a===e.value||(e.value=a),e.defaultValue=a}n=e.name,n!==""&&(e.name=""),e.defaultChecked=!!e._wrapperState.initialChecked,n!==""&&(e.name=n)}function Wi(e,a,n){(a!=="number"||ct(e.ownerDocument)!==e)&&(n==null?e.defaultValue=""+e._wrapperState.initialValue:e.defaultValue!==""+n&&(e.defaultValue=""+n))}function Qu(e){var a="";return U.Children.forEach(e,function(n){n!=null&&(a+=n)}),a}function Di(e,a){return e=H({children:void 0},a),(a=Qu(a.children))&&(e.children=a),e}function Ga(e,a,n,t){if(e=e.options,a){a={};for(var i=0;i<n.length;i++)a["$"+n[i]]=!0;for(n=0;n<e.length;n++)i=a.hasOwnProperty("$"+e[n].value),e[n].selected!==i&&(e[n].selected=i),i&&t&&(e[n].defaultSelected=!0)}else{for(n=""+Qe(n),a=null,i=0;i<e.length;i++){if(e[i].value===n){e[i].selected=!0,t&&(e[i].defaultSelected=!0);return}a!==null||e[i].disabled||(a=e[i])}a!==null&&(a.selected=!0)}}function Gi(e,a){if(a.dangerouslySetInnerHTML!=null)throw Error(k(91));return H({},a,{value:void 0,defaultValue:void 0,children:""+e._wrapperState.initialValue})}function Ho(e,a){var n=a.value;if(n==null){if(n=a.children,a=a.defaultValue,n!=null){if(a!=null)throw Error(k(92));if(Array.isArray(n)){if(!(1>=n.length))throw Error(k(93));n=n[0]}a=n}a==null&&(a=""),n=a}e._wrapperState={initialValue:Qe(n)}}function Lo(e,a){var n=Qe(a.value),t=Qe(a.defaultValue);n!=null&&(n=""+n,n!==e.value&&(e.value=n),a.defaultValue==null&&e.defaultValue!==n&&(e.defaultValue=n)),t!=null&&(e.defaultValue=""+t)}function bo(e){var a=e.textContent;a===e._wrapperState.initialValue&&a!==""&&a!==null&&(e.value=a)}var Ni={html:"http://www.w3.org/1999/xhtml",mathml:"http://www.w3.org/1998/Math/MathML",svg:"http://www.w3.org/2000/svg"};function Fo(e){switch(e){case"svg":return"http://www.w3.org/2000/svg";case"math":return"http://www.w3.org/1998/Math/MathML";default:return"http://www.w3.org/1999/xhtml"}}function Ki(e,a){return e==null||e==="http://www.w3.org/1999/xhtml"?Fo(a):e==="http://www.w3.org/2000/svg"&&a==="foreignObject"?"http://www.w3.org/1999/xhtml":e}var gt,Yo=function(e){return typeof MSApp!="undefined"&&MSApp.execUnsafeLocalFunction?function(a,n,t,i){MSApp.execUnsafeLocalFunction(function(){return e(a,n,t,i)})}:e}(function(e,a){if(e.namespaceURI!==Ni.svg||"innerHTML"in e)e.innerHTML=a;else{for(gt=gt||document.createElement("div"),gt.innerHTML="<svg>"+a.valueOf().toString()+"</svg>",a=gt.firstChild;e.firstChild;)e.removeChild(e.firstChild);for(;a.firstChild;)e.appendChild(a.firstChild)}});function pn(e,a){if(a){var n=e.firstChild;if(n&&n===e.lastChild&&n.nodeType===3){n.nodeValue=a;return}}e.textContent=a}var Sn={animationIterationCount:!0,borderImageOutset:!0,borderImageSlice:!0,borderImageWidth:!0,boxFlex:!0,boxFlexGroup:!0,boxOrdinalGroup:!0,columnCount:!0,columns:!0,flex:!0,flexGrow:!0,flexPositive:!0,flexShrink:!0,flexNegative:!0,flexOrder:!0,gridArea:!0,gridRow:!0,gridRowEnd:!0,gridRowSpan:!0,gridRowStart:!0,gridColumn:!0,gridColumnEnd:!0,gridColumnSpan:!0,gridColumnStart:!0,fontWeight:!0,lineClamp:!0,lineHeight:!0,opacity:!0,order:!0,orphans:!0,tabSize:!0,widows:!0,zIndex:!0,zoom:!0,fillOpacity:!0,floodOpacity:!0,stopOpacity:!0,strokeDasharray:!0,strokeDashoffset:!0,strokeMiterlimit:!0,strokeOpacity:!0,strokeWidth:!0},Vu=["Webkit","ms","Moz","O"];Object.keys(Sn).forEach(function(e){Vu.forEach(function(a){a=a+e.charAt(0).toUpperCase()+e.substring(1),Sn[a]=Sn[e]})});function xo(e,a,n){return a==null||typeof a=="boolean"||a===""?"":n||typeof a!="number"||a===0||Sn.hasOwnProperty(e)&&Sn[e]?(""+a).trim():a+"px"}function Qo(e,a){e=e.style;for(var n in a)if(a.hasOwnProperty(n)){var t=n.indexOf("--")===0,i=xo(n,a[n],t);n==="float"&&(n="cssFloat"),t?e.setProperty(n,i):e[n]=i}}var zu=H({menuitem:!0},{area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,keygen:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0});function Ri(e,a){if(a){if(zu[e]&&(a.children!=null||a.dangerouslySetInnerHTML!=null))throw Error(k(137,e));if(a.dangerouslySetInnerHTML!=null){if(a.children!=null)throw Error(k(60));if(!(typeof a.dangerouslySetInnerHTML=="object"&&"__html"in a.dangerouslySetInnerHTML))throw Error(k(61))}if(a.style!=null&&typeof a.style!="object")throw Error(k(62))}}function Ui(e,a){if(e.indexOf("-")===-1)return typeof a.is=="string";switch(e){case"annotation-xml":case"color-profile":case"font-face":case"font-face-src":case"font-face-uri":case"font-face-format":case"font-face-name":case"missing-glyph":return!1;default:return!0}}function Hi(e){return e=e.target||e.srcElement||window,e.correspondingUseElement&&(e=e.correspondingUseElement),e.nodeType===3?e.parentNode:e}var Li=null,Na=null,Ka=null;function Vo(e){if(e=fn(e)){if(typeof Li!="function")throw Error(k(280));var a=e.stateNode;a&&(a=ht(a),Li(e.stateNode,e.type,a))}}function zo(e){Na?Ka?Ka.push(e):Ka=[e]:Na=e}function jo(){if(Na){var e=Na,a=Ka;if(Ka=Na=null,Vo(e),a)for(e=0;e<a.length;e++)Vo(a[e])}}function bi(e,a){return e(a)}function Jo(e,a,n,t,i){return e(a,n,t,i)}function Fi(){}var _o=bi,pa=!1,Yi=!1;function xi(){(Na!==null||Ka!==null)&&(Fi(),jo())}function ju(e,a,n){if(Yi)return e(a,n);Yi=!0;try{return _o(e,a,n)}finally{Yi=!1,xi()}}function Tn(e,a){var n=e.stateNode;if(n===null)return null;var t=ht(n);if(t===null)return null;n=t[a];e:switch(a){case"onClick":case"onClickCapture":case"onDoubleClick":case"onDoubleClickCapture":case"onMouseDown":case"onMouseDownCapture":case"onMouseMove":case"onMouseMoveCapture":case"onMouseUp":case"onMouseUpCapture":case"onMouseEnter":(t=!t.disabled)||(e=e.type,t=!(e==="button"||e==="input"||e==="select"||e==="textarea")),e=!t;break e;default:e=!1}if(e)return null;if(n&&typeof n!="function")throw Error(k(231,a,typeof n));return n}var Qi=!1;if(Ne)try{Ra={},Object.defineProperty(Ra,"passive",{get:function(){Qi=!0}}),window.addEventListener("test",Ra,Ra),window.removeEventListener("test",Ra,Ra)}catch(e){Qi=!1}var Ra;function Ju(e,a,n,t,i,r,o,s,l){var d=Array.prototype.slice.call(arguments,3);try{a.apply(n,d)}catch(f){this.onError(f)}}var kn=!1,mt=null,pt=!1,Vi=null,_u={onError:function(e){kn=!0,mt=e}};function Zu(e,a,n,t,i,r,o,s,l){kn=!1,mt=null,Ju.apply(_u,arguments)}function qu(e,a,n,t,i,r,o,s,l){if(Zu.apply(this,arguments),kn){if(kn){var d=mt;kn=!1,mt=null}else throw Error(k(198));pt||(pt=!0,Vi=d)}}function Sa(e){var a=e,n=e;if(e.alternate)for(;a.return;)a=a.return;else{e=a;do a=e,(a.flags&1026)!=0&&(n=a.return),e=a.return;while(e)}return a.tag===3?n:null}function Zo(e){if(e.tag===13){var a=e.memoizedState;if(a===null&&(e=e.alternate,e!==null&&(a=e.memoizedState)),a!==null)return a.dehydrated}return null}function qo(e){if(Sa(e)!==e)throw Error(k(188))}function Xu(e){var a=e.alternate;if(!a){if(a=Sa(e),a===null)throw Error(k(188));return a!==e?null:e}for(var n=e,t=a;;){var i=n.return;if(i===null)break;var r=i.alternate;if(r===null){if(t=i.return,t!==null){n=t;continue}break}if(i.child===r.child){for(r=i.child;r;){if(r===n)return qo(i),e;if(r===t)return qo(i),a;r=r.sibling}throw Error(k(188))}if(n.return!==t.return)n=i,t=r;else{for(var o=!1,s=i.child;s;){if(s===n){o=!0,n=i,t=r;break}if(s===t){o=!0,t=i,n=r;break}s=s.sibling}if(!o){for(s=r.child;s;){if(s===n){o=!0,n=r,t=i;break}if(s===t){o=!0,t=r,n=i;break}s=s.sibling}if(!o)throw Error(k(189))}}if(n.alternate!==t)throw Error(k(190))}if(n.tag!==3)throw Error(k(188));return n.stateNode.current===n?e:a}function Xo(e){if(e=Xu(e),!e)return null;for(var a=e;;){if(a.tag===5||a.tag===6)return a;if(a.child)a.child.return=a,a=a.child;else{if(a===e)break;for(;!a.sibling;){if(!a.return||a.return===e)return null;a=a.return}a.sibling.return=a.return,a=a.sibling}}return null}function $o(e,a){for(var n=e.alternate;a!==null;){if(a===e||a===n)return!0;a=a.return}return!1}var es,zi,as,ns,ji=!1,Pe=[],Ve=null,ze=null,je=null,An=new Map,yn=new Map,Mn=[],ts="mousedown mouseup touchcancel touchend touchstart auxclick dblclick pointercancel pointerdown pointerup dragend dragstart drop compositionend compositionstart keydown keypress keyup input textInput copy cut paste click change contextmenu reset submit".split(" ");function Ji(e,a,n,t,i){return{blockedOn:e,domEventName:a,eventSystemFlags:n|16,nativeEvent:i,targetContainers:[t]}}function is(e,a){switch(e){case"focusin":case"focusout":Ve=null;break;case"dragenter":case"dragleave":ze=null;break;case"mouseover":case"mouseout":je=null;break;case"pointerover":case"pointerout":An.delete(a.pointerId);break;case"gotpointercapture":case"lostpointercapture":yn.delete(a.pointerId)}}function vn(e,a,n,t,i,r){return e===null||e.nativeEvent!==r?(e=Ji(a,n,t,i,r),a!==null&&(a=fn(a),a!==null&&zi(a)),e):(e.eventSystemFlags|=t,a=e.targetContainers,i!==null&&a.indexOf(i)===-1&&a.push(i),e)}function $u(e,a,n,t,i){switch(a){case"focusin":return Ve=vn(Ve,e,a,n,t,i),!0;case"dragenter":return ze=vn(ze,e,a,n,t,i),!0;case"mouseover":return je=vn(je,e,a,n,t,i),!0;case"pointerover":var r=i.pointerId;return An.set(r,vn(An.get(r)||null,e,a,n,t,i)),!0;case"gotpointercapture":return r=i.pointerId,yn.set(r,vn(yn.get(r)||null,e,a,n,t,i)),!0}return!1}function ed(e){var a=fa(e.target);if(a!==null){var n=Sa(a);if(n!==null){if(a=n.tag,a===13){if(a=Zo(n),a!==null){e.blockedOn=a,ns(e.lanePriority,function(){_.unstable_runWithPriority(e.priority,function(){as(n)})});return}}else if(a===3&&n.stateNode.hydrate){e.blockedOn=n.tag===3?n.stateNode.containerInfo:null;return}}}e.blockedOn=null}function St(e){if(e.blockedOn!==null)return!1;for(var a=e.targetContainers;0<a.length;){var n=_i(e.domEventName,e.eventSystemFlags,a[0],e.nativeEvent);if(n!==null)return a=fn(n),a!==null&&zi(a),e.blockedOn=n,!1;a.shift()}return!0}function rs(e,a,n){St(e)&&n.delete(a)}function ad(){for(ji=!1;0<Pe.length;){var e=Pe[0];if(e.blockedOn!==null){e=fn(e.blockedOn),e!==null&&es(e);break}for(var a=e.targetContainers;0<a.length;){var n=_i(e.domEventName,e.eventSystemFlags,a[0],e.nativeEvent);if(n!==null){e.blockedOn=n;break}a.shift()}e.blockedOn===null&&Pe.shift()}Ve!==null&&St(Ve)&&(Ve=null),ze!==null&&St(ze)&&(ze=null),je!==null&&St(je)&&(je=null),An.forEach(rs),yn.forEach(rs)}function Cn(e,a){e.blockedOn===a&&(e.blockedOn=null,ji||(ji=!0,_.unstable_scheduleCallback(_.unstable_NormalPriority,ad)))}function os(e){function a(i){return Cn(i,e)}if(0<Pe.length){Cn(Pe[0],e);for(var n=1;n<Pe.length;n++){var t=Pe[n];t.blockedOn===e&&(t.blockedOn=null)}}for(Ve!==null&&Cn(Ve,e),ze!==null&&Cn(ze,e),je!==null&&Cn(je,e),An.forEach(a),yn.forEach(a),n=0;n<Mn.length;n++)t=Mn[n],t.blockedOn===e&&(t.blockedOn=null);for(;0<Mn.length&&(n=Mn[0],n.blockedOn===null);)ed(n),n.blockedOn===null&&Mn.shift()}function ft(e,a){var n={};return n[e.toLowerCase()]=a.toLowerCase(),n["Webkit"+e]="webkit"+a,n["Moz"+e]="moz"+a,n}var Ua={animationend:ft("Animation","AnimationEnd"),animationiteration:ft("Animation","AnimationIteration"),animationstart:ft("Animation","AnimationStart"),transitionend:ft("Transition","TransitionEnd")},Zi={},ss={};Ne&&(ss=document.createElement("div").style,"AnimationEvent"in window||(delete Ua.animationend.animation,delete Ua.animationiteration.animation,delete Ua.animationstart.animation),"TransitionEvent"in window||delete Ua.transitionend.transition);function Tt(e){if(Zi[e])return Zi[e];if(!Ua[e])return e;var a=Ua[e],n;for(n in a)if(a.hasOwnProperty(n)&&n in ss)return Zi[e]=a[n];return e}var ls=Tt("animationend"),us=Tt("animationiteration"),ds=Tt("animationstart"),cs=Tt("transitionend"),gs=new Map,qi=new Map,nd=["abort","abort",ls,"animationEnd",us,"animationIteration",ds,"animationStart","canplay","canPlay","canplaythrough","canPlayThrough","durationchange","durationChange","emptied","emptied","encrypted","encrypted","ended","ended","error","error","gotpointercapture","gotPointerCapture","load","load","loadeddata","loadedData","loadedmetadata","loadedMetadata","loadstart","loadStart","lostpointercapture","lostPointerCapture","playing","playing","progress","progress","seeking","seeking","stalled","stalled","suspend","suspend","timeupdate","timeUpdate",cs,"transitionEnd","waiting","waiting"];function Xi(e,a){for(var n=0;n<e.length;n+=2){var t=e[n],i=e[n+1];i="on"+(i[0].toUpperCase()+i.slice(1)),qi.set(t,a),gs.set(t,i),ga(i,[t])}}var td=_.unstable_now;td();var b=8;function Ha(e){if((1&e)!=0)return b=15,1;if((2&e)!=0)return b=14,2;if((4&e)!=0)return b=13,4;var a=24&e;return a!==0?(b=12,a):(e&32)!=0?(b=11,32):(a=192&e,a!==0?(b=10,a):(e&256)!=0?(b=9,256):(a=3584&e,a!==0?(b=8,a):(e&4096)!=0?(b=7,4096):(a=4186112&e,a!==0?(b=6,a):(a=62914560&e,a!==0?(b=5,a):e&67108864?(b=4,67108864):(e&134217728)!=0?(b=3,134217728):(a=805306368&e,a!==0?(b=2,a):(1073741824&e)!=0?(b=1,1073741824):(b=8,e))))))}function id(e){switch(e){case 99:return 15;case 98:return 10;case 97:case 96:return 8;case 95:return 2;default:return 0}}function rd(e){switch(e){case 15:case 14:return 99;case 13:case 12:case 11:case 10:return 98;case 9:case 8:case 7:case 6:case 4:case 5:return 97;case 3:case 2:case 1:return 95;case 0:return 90;default:throw Error(k(358,e))}}function In(e,a){var n=e.pendingLanes;if(n===0)return b=0;var t=0,i=0,r=e.expiredLanes,o=e.suspendedLanes,s=e.pingedLanes;if(r!==0)t=r,i=b=15;else if(r=n&134217727,r!==0){var l=r&~o;l!==0?(t=Ha(l),i=b):(s&=r,s!==0&&(t=Ha(s),i=b))}else r=n&~o,r!==0?(t=Ha(r),i=b):s!==0&&(t=Ha(s),i=b);if(t===0)return 0;if(t=31-Je(t),t=n&((0>t?0:1<<t)<<1)-1,a!==0&&a!==t&&(a&o)==0){if(Ha(a),i<=b)return a;b=i}if(a=e.entangledLanes,a!==0)for(e=e.entanglements,a&=t;0<a;)n=31-Je(a),i=1<<n,t|=e[n],a&=~i;return t}function hs(e){return e=e.pendingLanes&-1073741825,e!==0?e:e&1073741824?1073741824:0}function kt(e,a){switch(e){case 15:return 1;case 14:return 2;case 12:return e=La(24&~a),e===0?kt(10,a):e;case 10:return e=La(192&~a),e===0?kt(8,a):e;case 8:return e=La(3584&~a),e===0&&(e=La(4186112&~a),e===0&&(e=512)),e;case 2:return a=La(805306368&~a),a===0&&(a=268435456),a}throw Error(k(358,e))}function La(e){return e&-e}function $i(e){for(var a=[],n=0;31>n;n++)a.push(e);return a}function At(e,a,n){e.pendingLanes|=a;var t=a-1;e.suspendedLanes&=t,e.pingedLanes&=t,e=e.eventTimes,a=31-Je(a),e[a]=n}var Je=Math.clz32?Math.clz32:od,sd=Math.log,ld=Math.LN2;function od(e){return e===0?32:31-(sd(e)/ld|0)|0}var ud=_.unstable_UserBlockingPriority,dd=_.unstable_runWithPriority,yt=!0;function cd(e,a,n,t){pa||Fi();var i=er,r=pa;pa=!0;try{Jo(i,e,a,n,t)}finally{(pa=r)||xi()}}function gd(e,a,n,t){dd(ud,er.bind(null,e,a,n,t))}function er(e,a,n,t){if(yt){var i;if((i=(a&4)==0)&&0<Pe.length&&-1<ts.indexOf(e))e=Ji(null,e,a,n,t),Pe.push(e);else{var r=_i(e,a,n,t);if(r===null)i&&is(e,t);else{if(i){if(-1<ts.indexOf(e)){e=Ji(r,e,a,n,t),Pe.push(e);return}if($u(r,e,a,n,t))return;is(e,t)}ms(e,a,t,null,n)}}}}function _i(e,a,n,t){var i=Hi(t);if(i=fa(i),i!==null){var r=Sa(i);if(r===null)i=null;else{var o=r.tag;if(o===13){if(i=Zo(r),i!==null)return i;i=null}else if(o===3){if(r.stateNode.hydrate)return r.tag===3?r.stateNode.containerInfo:null;i=null}else r!==i&&(i=null)}}return ms(e,a,t,i,n),null}var _e=null,ar=null,Mt=null;function ps(){if(Mt)return Mt;var e,a=ar,n=a.length,t,i="value"in _e?_e.value:_e.textContent,r=i.length;for(e=0;e<n&&a[e]===i[e];e++);var o=n-e;for(t=1;t<=o&&a[n-t]===i[r-t];t++);return Mt=i.slice(e,1<t?1-t:void 0)}function vt(e){var a=e.keyCode;return"charCode"in e?(e=e.charCode,e===0&&a===13&&(e=13)):e=a,e===10&&(e=13),32<=e||e===13?e:0}function Ct(){return!0}function Ss(){return!1}function fe(e){function a(n,t,i,r,o){this._reactName=n,this._targetInst=i,this.type=t,this.nativeEvent=r,this.target=o,this.currentTarget=null;for(var s in e)e.hasOwnProperty(s)&&(n=e[s],this[s]=n?n(r):r[s]);return this.isDefaultPrevented=(r.defaultPrevented!=null?r.defaultPrevented:r.returnValue===!1)?Ct:Ss,this.isPropagationStopped=Ss,this}return H(a.prototype,{preventDefault:function(){this.defaultPrevented=!0;var n=this.nativeEvent;n&&(n.preventDefault?n.preventDefault():typeof n.returnValue!="unknown"&&(n.returnValue=!1),this.isDefaultPrevented=Ct)},stopPropagation:function(){var n=this.nativeEvent;n&&(n.stopPropagation?n.stopPropagation():typeof n.cancelBubble!="unknown"&&(n.cancelBubble=!0),this.isPropagationStopped=Ct)},persist:function(){},isPersistent:Ct}),a}var ba={eventPhase:0,bubbles:0,cancelable:0,timeStamp:function(e){return e.timeStamp||Date.now()},defaultPrevented:0,isTrusted:0},nr=fe(ba),En=H({},ba,{view:0,detail:0}),hd=fe(En),tr,ir,wn,It=H({},En,{screenX:0,screenY:0,clientX:0,clientY:0,pageX:0,pageY:0,ctrlKey:0,shiftKey:0,altKey:0,metaKey:0,getModifierState:rr,button:0,buttons:0,relatedTarget:function(e){return e.relatedTarget===void 0?e.fromElement===e.srcElement?e.toElement:e.fromElement:e.relatedTarget},movementX:function(e){return"movementX"in e?e.movementX:(e!==wn&&(wn&&e.type==="mousemove"?(tr=e.screenX-wn.screenX,ir=e.screenY-wn.screenY):ir=tr=0,wn=e),tr)},movementY:function(e){return"movementY"in e?e.movementY:ir}}),fs=fe(It),md=H({},It,{dataTransfer:0}),pd=fe(md),Sd=H({},En,{relatedTarget:0}),or=fe(Sd),fd=H({},ba,{animationName:0,elapsedTime:0,pseudoElement:0}),Td=fe(fd),kd=H({},ba,{clipboardData:function(e){return"clipboardData"in e?e.clipboardData:window.clipboardData}}),Ad=fe(kd),yd=H({},ba,{data:0}),Ts=fe(yd),Md={Esc:"Escape",Spacebar:" ",Left:"ArrowLeft",Up:"ArrowUp",Right:"ArrowRight",Down:"ArrowDown",Del:"Delete",Win:"OS",Menu:"ContextMenu",Apps:"ContextMenu",Scroll:"ScrollLock",MozPrintableKey:"Unidentified"},vd={8:"Backspace",9:"Tab",12:"Clear",13:"Enter",16:"Shift",17:"Control",18:"Alt",19:"Pause",20:"CapsLock",27:"Escape",32:" ",33:"PageUp",34:"PageDown",35:"End",36:"Home",37:"ArrowLeft",38:"ArrowUp",39:"ArrowRight",40:"ArrowDown",45:"Insert",46:"Delete",112:"F1",113:"F2",114:"F3",115:"F4",116:"F5",117:"F6",118:"F7",119:"F8",120:"F9",121:"F10",122:"F11",123:"F12",144:"NumLock",145:"ScrollLock",224:"Meta"},Cd={Alt:"altKey",Control:"ctrlKey",Meta:"metaKey",Shift:"shiftKey"};function Id(e){var a=this.nativeEvent;return a.getModifierState?a.getModifierState(e):(e=Cd[e])?!!a[e]:!1}function rr(){return Id}var Ed=H({},En,{key:function(e){if(e.key){var a=Md[e.key]||e.key;if(a!=="Unidentified")return a}return e.type==="keypress"?(e=vt(e),e===13?"Enter":String.fromCharCode(e)):e.type==="keydown"||e.type==="keyup"?vd[e.keyCode]||"Unidentified":""},code:0,location:0,ctrlKey:0,shiftKey:0,altKey:0,metaKey:0,repeat:0,locale:0,getModifierState:rr,charCode:function(e){return e.type==="keypress"?vt(e):0},keyCode:function(e){return e.type==="keydown"||e.type==="keyup"?e.keyCode:0},which:function(e){return e.type==="keypress"?vt(e):e.type==="keydown"||e.type==="keyup"?e.keyCode:0}}),wd=fe(Ed),Pd=H({},It,{pointerId:0,width:0,height:0,pressure:0,tangentialPressure:0,tiltX:0,tiltY:0,twist:0,pointerType:0,isPrimary:0}),ks=fe(Pd),Bd=H({},En,{touches:0,targetTouches:0,changedTouches:0,altKey:0,metaKey:0,ctrlKey:0,shiftKey:0,getModifierState:rr}),Wd=fe(Bd),Od=H({},ba,{propertyName:0,elapsedTime:0,pseudoElement:0}),Dd=fe(Od),Gd=H({},It,{deltaX:function(e){return"deltaX"in e?e.deltaX:"wheelDeltaX"in e?-e.wheelDeltaX:0},deltaY:function(e){return"deltaY"in e?e.deltaY:"wheelDeltaY"in e?-e.wheelDeltaY:"wheelDelta"in e?-e.wheelDelta:0},deltaZ:0,deltaMode:0}),Nd=fe(Gd),Kd=[9,13,27,32],sr=Ne&&"CompositionEvent"in window,Pn=null;Ne&&"documentMode"in document&&(Pn=document.documentMode);var Rd=Ne&&"TextEvent"in window&&!Pn,As=Ne&&(!sr||Pn&&8<Pn&&11>=Pn),ys=String.fromCharCode(32),Ms=!1;function vs(e,a){switch(e){case"keyup":return Kd.indexOf(a.keyCode)!==-1;case"keydown":return a.keyCode!==229;case"keypress":case"mousedown":case"focusout":return!0;default:return!1}}function Cs(e){return e=e.detail,typeof e=="object"&&"data"in e?e.data:null}var Fa=!1;function Ud(e,a){switch(e){case"compositionend":return Cs(a);case"keypress":return a.which!==32?null:(Ms=!0,ys);case"textInput":return e=a.data,e===ys&&Ms?null:e;default:return null}}function Hd(e,a){if(Fa)return e==="compositionend"||!sr&&vs(e,a)?(e=ps(),Mt=ar=_e=null,Fa=!1,e):null;switch(e){case"paste":return null;case"keypress":if(!(a.ctrlKey||a.altKey||a.metaKey)||a.ctrlKey&&a.altKey){if(a.char&&1<a.char.length)return a.char;if(a.which)return String.fromCharCode(a.which)}return null;case"compositionend":return As&&a.locale!=="ko"?null:a.data;default:return null}}var Ld={color:!0,date:!0,datetime:!0,"datetime-local":!0,email:!0,month:!0,number:!0,password:!0,range:!0,search:!0,tel:!0,text:!0,time:!0,url:!0,week:!0};function Is(e){var a=e&&e.nodeName&&e.nodeName.toLowerCase();return a==="input"?!!Ld[e.type]:a==="textarea"}function Es(e,a,n,t){zo(t),a=Et(a,"onChange"),0<a.length&&(n=new nr("onChange","change",null,n,t),e.push({event:n,listeners:a}))}var Bn=null,Wn=null;function bd(e){ws(e,0)}function wt(e){var a=Ya(e);if(No(a))return e}function Fd(e,a){if(e==="change")return a}var Ps=!1;Ne&&(Ne?(Bt="oninput"in document,Bt||(lr=document.createElement("div"),lr.setAttribute("oninput","return;"),Bt=typeof lr.oninput=="function"),Pt=Bt):Pt=!1,Ps=Pt&&(!document.documentMode||9<document.documentMode));var Pt,Bt,lr;function Ws(){Bn&&(Bn.detachEvent("onpropertychange",Bs),Wn=Bn=null)}function Bs(e){if(e.propertyName==="value"&&wt(Wn)){var a=[];if(Es(a,Wn,e,Hi(e)),e=bd,pa)e(a);else{pa=!0;try{bi(e,a)}finally{pa=!1,xi()}}}}function Yd(e,a,n){e==="focusin"?(Ws(),Bn=a,Wn=n,Bn.attachEvent("onpropertychange",Bs)):e==="focusout"&&Ws()}function xd(e){if(e==="selectionchange"||e==="keyup"||e==="keydown")return wt(Wn)}function Qd(e,a){if(e==="click")return wt(a)}function Vd(e,a){if(e==="input"||e==="change")return wt(a)}function zd(e,a){return e===a&&(e!==0||1/e==1/a)||e!==e&&a!==a}var ke=typeof Object.is=="function"?Object.is:zd,jd=Object.prototype.hasOwnProperty;function On(e,a){if(ke(e,a))return!0;if(typeof e!="object"||e===null||typeof a!="object"||a===null)return!1;var n=Object.keys(e),t=Object.keys(a);if(n.length!==t.length)return!1;for(t=0;t<n.length;t++)if(!jd.call(a,n[t])||!ke(e[n[t]],a[n[t]]))return!1;return!0}function Os(e){for(;e&&e.firstChild;)e=e.firstChild;return e}function Ds(e,a){var n=Os(e);e=0;for(var t;n;){if(n.nodeType===3){if(t=e+n.textContent.length,e<=a&&t>=a)return{node:n,offset:a-e};e=t}e:{for(;n;){if(n.nextSibling){n=n.nextSibling;break e}n=n.parentNode}n=void 0}n=Os(n)}}function Gs(e,a){return e&&a?e===a?!0:e&&e.nodeType===3?!1:a&&a.nodeType===3?Gs(e,a.parentNode):"contains"in e?e.contains(a):e.compareDocumentPosition?!!(e.compareDocumentPosition(a)&16):!1:!1}function Ns(){for(var e=window,a=ct();a instanceof e.HTMLIFrameElement;){try{var n=typeof a.contentWindow.location.href=="string"}catch(t){n=!1}if(n)e=a.contentWindow;else break;a=ct(e.document)}return a}function ur(e){var a=e&&e.nodeName&&e.nodeName.toLowerCase();return a&&(a==="input"&&(e.type==="text"||e.type==="search"||e.type==="tel"||e.type==="url"||e.type==="password")||a==="textarea"||e.contentEditable==="true")}var Jd=Ne&&"documentMode"in document&&11>=document.documentMode,xa=null,dr=null,Dn=null,cr=!1;function Ks(e,a,n){var t=n.window===n?n.document:n.nodeType===9?n:n.ownerDocument;cr||xa==null||xa!==ct(t)||(t=xa,"selectionStart"in t&&ur(t)?t={start:t.selectionStart,end:t.selectionEnd}:(t=(t.ownerDocument&&t.ownerDocument.defaultView||window).getSelection(),t={anchorNode:t.anchorNode,anchorOffset:t.anchorOffset,focusNode:t.focusNode,focusOffset:t.focusOffset}),Dn&&On(Dn,t)||(Dn=t,t=Et(dr,"onSelect"),0<t.length&&(a=new nr("onSelect","select",null,a,n),e.push({event:a,listeners:t}),a.target=xa)))}Xi("cancel cancel click click close close contextmenu contextMenu copy copy cut cut auxclick auxClick dblclick doubleClick dragend dragEnd dragstart dragStart drop drop focusin focus focusout blur input input invalid invalid keydown keyDown keypress keyPress keyup keyUp mousedown mouseDown mouseup mouseUp paste paste pause pause play play pointercancel pointerCancel pointerdown pointerDown pointerup pointerUp ratechange rateChange reset reset seeked seeked submit submit touchcancel touchCancel touchend touchEnd touchstart touchStart volumechange volumeChange".split(" "),0);Xi("drag drag dragenter dragEnter dragexit dragExit dragleave dragLeave dragover dragOver mousemove mouseMove mouseout mouseOut mouseover mouseOver pointermove pointerMove pointerout pointerOut pointerover pointerOver scroll scroll toggle toggle touchmove touchMove wheel wheel".split(" "),1);Xi(nd,2);for(var Rs="change selectionchange textInput compositionstart compositionend compositionupdate".split(" "),gr=0;gr<Rs.length;gr++)qi.set(Rs[gr],0);Oa("onMouseEnter",["mouseout","mouseover"]);Oa("onMouseLeave",["mouseout","mouseover"]);Oa("onPointerEnter",["pointerout","pointerover"]);Oa("onPointerLeave",["pointerout","pointerover"]);ga("onChange","change click focusin focusout input keydown keyup selectionchange".split(" "));ga("onSelect","focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange".split(" "));ga("onBeforeInput",["compositionend","keypress","textInput","paste"]);ga("onCompositionEnd","compositionend focusout keydown keypress keyup mousedown".split(" "));ga("onCompositionStart","compositionstart focusout keydown keypress keyup mousedown".split(" "));ga("onCompositionUpdate","compositionupdate focusout keydown keypress keyup mousedown".split(" "));var Gn="abort canplay canplaythrough durationchange emptied encrypted ended error loadeddata loadedmetadata loadstart pause play playing progress ratechange seeked seeking stalled suspend timeupdate volumechange waiting".split(" "),Us=new Set("cancel close invalid load scroll toggle".split(" ").concat(Gn));function Hs(e,a,n){var t=e.type||"unknown-event";e.currentTarget=n,qu(t,a,void 0,e),e.currentTarget=null}function ws(e,a){a=(a&4)!=0;for(var n=0;n<e.length;n++){var t=e[n],i=t.event;t=t.listeners;e:{var r=void 0;if(a)for(var o=t.length-1;0<=o;o--){var s=t[o],l=s.instance,d=s.currentTarget;if(s=s.listener,l!==r&&i.isPropagationStopped())break e;Hs(i,s,d),r=l}else for(o=0;o<t.length;o++){if(s=t[o],l=s.instance,d=s.currentTarget,s=s.listener,l!==r&&i.isPropagationStopped())break e;Hs(i,s,d),r=l}}}if(pt)throw e=Vi,pt=!1,Vi=null,e}function F(e,a){var n=bs(a),t=e+"__bubble";n.has(t)||(Ls(a,e,2,!1),n.add(t))}var Fs="_reactListening"+Math.random().toString(36).slice(2);function xs(e){e[Fs]||(e[Fs]=!0,wo.forEach(function(a){Us.has(a)||Ys(a,!1,e,null),Ys(a,!0,e,null)}))}function Ys(e,a,n,t){var i=4<arguments.length&&arguments[4]!==void 0?arguments[4]:0,r=n;if(e==="selectionchange"&&n.nodeType!==9&&(r=n.ownerDocument),t!==null&&!a&&Us.has(e)){if(e!=="scroll")return;i|=2,r=t}var o=bs(r),s=e+"__"+(a?"capture":"bubble");o.has(s)||(a&&(i|=4),Ls(r,e,i,a),o.add(s))}function Ls(e,a,n,t){var i=qi.get(a);switch(i===void 0?2:i){case 0:i=cd;break;case 1:i=gd;break;default:i=er}n=i.bind(null,a,n,e),i=void 0,!Qi||a!=="touchstart"&&a!=="touchmove"&&a!=="wheel"||(i=!0),t?i!==void 0?e.addEventListener(a,n,{capture:!0,passive:i}):e.addEventListener(a,n,!0):i!==void 0?e.addEventListener(a,n,{passive:i}):e.addEventListener(a,n,!1)}function ms(e,a,n,t,i){var r=t;if((a&1)==0&&(a&2)==0&&t!==null)e:for(;;){if(t===null)return;var o=t.tag;if(o===3||o===4){var s=t.stateNode.containerInfo;if(s===i||s.nodeType===8&&s.parentNode===i)break;if(o===4)for(o=t.return;o!==null;){var l=o.tag;if((l===3||l===4)&&(l=o.stateNode.containerInfo,l===i||l.nodeType===8&&l.parentNode===i))return;o=o.return}for(;s!==null;){if(o=fa(s),o===null)return;if(l=o.tag,l===5||l===6){t=r=o;continue e}s=s.parentNode}}t=t.return}ju(function(){var d=r,f=Hi(n),v=[];e:{var p=gs.get(e);if(p!==void 0){var y=nr,B=e;switch(e){case"keypress":if(vt(n)===0)break e;case"keydown":case"keyup":y=wd;break;case"focusin":B="focus",y=or;break;case"focusout":B="blur",y=or;break;case"beforeblur":case"afterblur":y=or;break;case"click":if(n.button===2)break e;case"auxclick":case"dblclick":case"mousedown":case"mousemove":case"mouseup":case"mouseout":case"mouseover":case"contextmenu":y=fs;break;case"drag":case"dragend":case"dragenter":case"dragexit":case"dragleave":case"dragover":case"dragstart":case"drop":y=pd;break;case"touchcancel":case"touchend":case"touchmove":case"touchstart":y=Wd;break;case ls:case us:case ds:y=Td;break;case cs:y=Dd;break;case"scroll":y=hd;break;case"wheel":y=Nd;break;case"copy":case"cut":case"paste":y=Ad;break;case"gotpointercapture":case"lostpointercapture":case"pointercancel":case"pointerdown":case"pointermove":case"pointerout":case"pointerover":case"pointerup":y=ks}var E=(a&4)!=0,g=!E&&e==="scroll",u=E?p!==null?p+"Capture":null:p;E=[];for(var c=d,m;c!==null;){m=c;var S=m.stateNode;if(m.tag===5&&S!==null&&(m=S,u!==null&&(S=Tn(c,u),S!=null&&E.push(Nn(c,S,m)))),g)break;c=c.return}0<E.length&&(p=new y(p,B,null,n,f),v.push({event:p,listeners:E}))}}if((a&7)==0){e:{if(p=e==="mouseover"||e==="pointerover",y=e==="mouseout"||e==="pointerout",p&&(a&16)==0&&(B=n.relatedTarget||n.fromElement)&&(fa(B)||B[Va]))break e;if((y||p)&&(p=f.window===f?f:(p=f.ownerDocument)?p.defaultView||p.parentWindow:window,y?(B=n.relatedTarget||n.toElement,y=d,B=B?fa(B):null,B!==null&&(g=Sa(B),B!==g||B.tag!==5&&B.tag!==6)&&(B=null)):(y=null,B=d),y!==B)){if(E=fs,S="onMouseLeave",u="onMouseEnter",c="mouse",(e==="pointerout"||e==="pointerover")&&(E=ks,S="onPointerLeave",u="onPointerEnter",c="pointer"),g=y==null?p:Ya(y),m=B==null?p:Ya(B),p=new E(S,c+"leave",y,n,f),p.target=g,p.relatedTarget=m,S=null,fa(f)===d&&(E=new E(u,c+"enter",B,n,f),E.target=m,E.relatedTarget=g,S=E),g=S,y&&B)a:{for(E=y,u=B,c=0,m=E;m;m=Qa(m))c++;for(m=0,S=u;S;S=Qa(S))m++;for(;0<c-m;)E=Qa(E),c--;for(;0<m-c;)u=Qa(u),m--;for(;c--;){if(E===u||u!==null&&E===u.alternate)break a;E=Qa(E),u=Qa(u)}E=null}else E=null;y!==null&&Qs(v,p,y,E,!1),B!==null&&g!==null&&Qs(v,g,B,E,!0)}}e:{if(p=d?Ya(d):window,y=p.nodeName&&p.nodeName.toLowerCase(),y==="select"||y==="input"&&p.type==="file")var W=Fd;else if(Is(p))if(Ps)W=Vd;else{W=xd;var M=Yd}else(y=p.nodeName)&&y.toLowerCase()==="input"&&(p.type==="checkbox"||p.type==="radio")&&(W=Qd);if(W&&(W=W(e,d))){Es(v,W,n,f);break e}M&&M(e,p,d),e==="focusout"&&(M=p._wrapperState)&&M.controlled&&p.type==="number"&&Wi(p,"number",p.value)}switch(M=d?Ya(d):window,e){case"focusin":(Is(M)||M.contentEditable==="true")&&(xa=M,dr=d,Dn=null);break;case"focusout":Dn=dr=xa=null;break;case"mousedown":cr=!0;break;case"contextmenu":case"mouseup":case"dragend":cr=!1,Ks(v,n,f);break;case"selectionchange":if(Jd)break;case"keydown":case"keyup":Ks(v,n,f)}var w;if(sr)e:{switch(e){case"compositionstart":var D="onCompositionStart";break e;case"compositionend":D="onCompositionEnd";break e;case"compositionupdate":D="onCompositionUpdate";break e}D=void 0}else Fa?vs(e,n)&&(D="onCompositionEnd"):e==="keydown"&&n.keyCode===229&&(D="onCompositionStart");D&&(As&&n.locale!=="ko"&&(Fa||D!=="onCompositionStart"?D==="onCompositionEnd"&&Fa&&(w=ps()):(_e=f,ar="value"in _e?_e.value:_e.textContent,Fa=!0)),M=Et(d,D),0<M.length&&(D=new Ts(D,e,null,n,f),v.push({event:D,listeners:M}),w?D.data=w:(w=Cs(n),w!==null&&(D.data=w)))),(w=Rd?Ud(e,n):Hd(e,n))&&(d=Et(d,"onBeforeInput"),0<d.length&&(f=new Ts("onBeforeInput","beforeinput",null,n,f),v.push({event:f,listeners:d}),f.data=w))}ws(v,a)})}function Nn(e,a,n){return{instance:e,listener:a,currentTarget:n}}function Et(e,a){for(var n=a+"Capture",t=[];e!==null;){var i=e,r=i.stateNode;i.tag===5&&r!==null&&(i=r,r=Tn(e,n),r!=null&&t.unshift(Nn(e,r,i)),r=Tn(e,a),r!=null&&t.push(Nn(e,r,i))),e=e.return}return t}function Qa(e){if(e===null)return null;do e=e.return;while(e&&e.tag!==5);return e||null}function Qs(e,a,n,t,i){for(var r=a._reactName,o=[];n!==null&&n!==t;){var s=n,l=s.alternate,d=s.stateNode;if(l!==null&&l===t)break;s.tag===5&&d!==null&&(s=d,i?(l=Tn(n,r),l!=null&&o.unshift(Nn(n,l,s))):i||(l=Tn(n,r),l!=null&&o.push(Nn(n,l,s)))),n=n.return}o.length!==0&&e.push({event:a,listeners:o})}function Wt(){}var hr=null,mr=null;function Vs(e,a){switch(e){case"button":case"input":case"select":case"textarea":return!!a.autoFocus}return!1}function pr(e,a){return e==="textarea"||e==="option"||e==="noscript"||typeof a.children=="string"||typeof a.children=="number"||typeof a.dangerouslySetInnerHTML=="object"&&a.dangerouslySetInnerHTML!==null&&a.dangerouslySetInnerHTML.__html!=null}var zs=typeof setTimeout=="function"?setTimeout:void 0,_d=typeof clearTimeout=="function"?clearTimeout:void 0;function Sr(e){e.nodeType===1?e.textContent="":e.nodeType===9&&(e=e.body,e!=null&&(e.textContent=""))}function za(e){for(;e!=null;e=e.nextSibling){var a=e.nodeType;if(a===1||a===3)break}return e}function js(e){e=e.previousSibling;for(var a=0;e;){if(e.nodeType===8){var n=e.data;if(n==="$"||n==="$!"||n==="$?"){if(a===0)return e;a--}else n==="/$"&&a++}e=e.previousSibling}return null}var fr=0;function Zd(e){return{$$typeof:Ci,toString:e,valueOf:e}}var Ot=Math.random().toString(36).slice(2),Ze="__reactFiber$"+Ot,Dt="__reactProps$"+Ot,Va="__reactContainer$"+Ot,Js="__reactEvents$"+Ot;function fa(e){var a=e[Ze];if(a)return a;for(var n=e.parentNode;n;){if(a=n[Va]||n[Ze]){if(n=a.alternate,a.child!==null||n!==null&&n.child!==null)for(e=js(e);e!==null;){if(n=e[Ze])return n;e=js(e)}return a}e=n,n=e.parentNode}return null}function fn(e){return e=e[Ze]||e[Va],!e||e.tag!==5&&e.tag!==6&&e.tag!==13&&e.tag!==3?null:e}function Ya(e){if(e.tag===5||e.tag===6)return e.stateNode;throw Error(k(33))}function ht(e){return e[Dt]||null}function bs(e){var a=e[Js];return a===void 0&&(a=e[Js]=new Set),a}var Tr=[],ja=-1;function qe(e){return{current:e}}function Y(e){0>ja||(e.current=Tr[ja],Tr[ja]=null,ja--)}function Q(e,a){ja++,Tr[ja]=e.current,e.current=a}var Xe={},ie=qe(Xe),he=qe(!1),Ta=Xe;function Ja(e,a){var n=e.type.contextTypes;if(!n)return Xe;var t=e.stateNode;if(t&&t.__reactInternalMemoizedUnmaskedChildContext===a)return t.__reactInternalMemoizedMaskedChildContext;var i={},r;for(r in n)i[r]=a[r];return t&&(e=e.stateNode,e.__reactInternalMemoizedUnmaskedChildContext=a,e.__reactInternalMemoizedMaskedChildContext=i),i}function me(e){return e=e.childContextTypes,e!=null}function Gt(){Y(he),Y(ie)}function _s(e,a,n){if(ie.current!==Xe)throw Error(k(168));Q(ie,a),Q(he,n)}function Zs(e,a,n){var t=e.stateNode;if(e=a.childContextTypes,typeof t.getChildContext!="function")return n;t=t.getChildContext();for(var i in t)if(!(i in e))throw Error(k(108,Da(a)||"Unknown",i));return H({},n,t)}function Nt(e){return e=(e=e.stateNode)&&e.__reactInternalMemoizedMergedChildContext||Xe,Ta=ie.current,Q(ie,e),Q(he,he.current),!0}function qs(e,a,n){var t=e.stateNode;if(!t)throw Error(k(169));n?(e=Zs(e,a,Ta),t.__reactInternalMemoizedMergedChildContext=e,Y(he),Y(ie),Q(ie,e)):Y(he),Q(he,n)}var kr=null,ka=null,qd=_.unstable_runWithPriority,Ar=_.unstable_scheduleCallback,yr=_.unstable_cancelCallback,Xd=_.unstable_shouldYield,Xs=_.unstable_requestPaint,Mr=_.unstable_now,$d=_.unstable_getCurrentPriorityLevel,Kt=_.unstable_ImmediatePriority,$s=_.unstable_UserBlockingPriority,el=_.unstable_NormalPriority,al=_.unstable_LowPriority,nl=_.unstable_IdlePriority,vr={},ec=Xs!==void 0?Xs:function(){},Ke=null,Rt=null,Cr=!1,tl=Mr(),re=1e4>tl?Mr:function(){return Mr()-tl};function _a(){switch($d()){case Kt:return 99;case $s:return 98;case el:return 97;case al:return 96;case nl:return 95;default:throw Error(k(332))}}function il(e){switch(e){case 99:return Kt;case 98:return $s;case 97:return el;case 96:return al;case 95:return nl;default:throw Error(k(332))}}function Aa(e,a){return e=il(e),qd(e,a)}function Kn(e,a,n){return e=il(e),Ar(e,a,n)}function Be(){if(Rt!==null){var e=Rt;Rt=null,yr(e)}rl()}function rl(){if(!Cr&&Ke!==null){Cr=!0;var e=0;try{var a=Ke;Aa(99,function(){for(;e<a.length;e++){var n=a[e];do n=n(!0);while(n!==null)}}),Ke=null}catch(n){throw Ke!==null&&(Ke=Ke.slice(e+1)),Ar(Kt,Be),n}finally{Cr=!1}}}var ac=ha.ReactCurrentBatchConfig;function Ce(e,a){if(e&&e.defaultProps){a=H({},a),e=e.defaultProps;for(var n in e)a[n]===void 0&&(a[n]=e[n]);return a}return a}var Ut=qe(null),Ht=null,Za=null,Lt=null;function Ir(){Lt=Za=Ht=null}function Er(e){var a=Ut.current;Y(Ut),e.type._context._currentValue=a}function ol(e,a){for(;e!==null;){var n=e.alternate;if((e.childLanes&a)===a){if(n===null||(n.childLanes&a)===a)break;n.childLanes|=a}else e.childLanes|=a,n!==null&&(n.childLanes|=a);e=e.return}}function qa(e,a){Ht=e,Lt=Za=null,e=e.dependencies,e!==null&&e.firstContext!==null&&((e.lanes&a)!=0&&(Ie=!0),e.firstContext=null)}function Ae(e,a){if(Lt!==e&&a!==!1&&a!==0)if((typeof a!="number"||a===1073741823)&&(Lt=e,a=1073741823),a={context:e,observedBits:a,next:null},Za===null){if(Ht===null)throw Error(k(308));Za=a,Ht.dependencies={lanes:0,firstContext:a,responders:null}}else Za=Za.next=a;return e._currentValue}var $e=!1;function wr(e){e.updateQueue={baseState:e.memoizedState,firstBaseUpdate:null,lastBaseUpdate:null,shared:{pending:null},effects:null}}function sl(e,a){e=e.updateQueue,a.updateQueue===e&&(a.updateQueue={baseState:e.baseState,firstBaseUpdate:e.firstBaseUpdate,lastBaseUpdate:e.lastBaseUpdate,shared:e.shared,effects:e.effects})}function ea(e,a){return{eventTime:e,lane:a,tag:0,payload:null,callback:null,next:null}}function aa(e,a){if(e=e.updateQueue,e!==null){e=e.shared;var n=e.pending;n===null?a.next=a:(a.next=n.next,n.next=a),e.pending=a}}function ll(e,a){var n=e.updateQueue,t=e.alternate;if(t!==null&&(t=t.updateQueue,n===t)){var i=null,r=null;if(n=n.firstBaseUpdate,n!==null){do{var o={eventTime:n.eventTime,lane:n.lane,tag:n.tag,payload:n.payload,callback:n.callback,next:null};r===null?i=r=o:r=r.next=o,n=n.next}while(n!==null);r===null?i=r=a:r=r.next=a}else i=r=a;n={baseState:t.baseState,firstBaseUpdate:i,lastBaseUpdate:r,shared:t.shared,effects:t.effects},e.updateQueue=n;return}e=n.lastBaseUpdate,e===null?n.firstBaseUpdate=a:e.next=a,n.lastBaseUpdate=a}function Un(e,a,n,t){var i=e.updateQueue;$e=!1;var r=i.firstBaseUpdate,o=i.lastBaseUpdate,s=i.shared.pending;if(s!==null){i.shared.pending=null;var l=s,d=l.next;l.next=null,o===null?r=d:o.next=d,o=l;var f=e.alternate;if(f!==null){f=f.updateQueue;var v=f.lastBaseUpdate;v!==o&&(v===null?f.firstBaseUpdate=d:v.next=d,f.lastBaseUpdate=l)}}if(r!==null){v=i.baseState,o=0,f=d=l=null;do{s=r.lane;var p=r.eventTime;if((t&s)===s){f!==null&&(f=f.next={eventTime:p,lane:0,tag:r.tag,payload:r.payload,callback:r.callback,next:null});e:{var y=e,B=r;switch(s=a,p=n,B.tag){case 1:if(y=B.payload,typeof y=="function"){v=y.call(p,v,s);break e}v=y;break e;case 3:y.flags=y.flags&-4097|64;case 0:if(y=B.payload,s=typeof y=="function"?y.call(p,v,s):y,s==null)break e;v=H({},v,s);break e;case 2:$e=!0}}r.callback!==null&&(e.flags|=32,s=i.effects,s===null?i.effects=[r]:s.push(r))}else p={eventTime:p,lane:s,tag:r.tag,payload:r.payload,callback:r.callback,next:null},f===null?(d=f=p,l=v):f=f.next=p,o|=s;if(r=r.next,r===null){if(s=i.shared.pending,s===null)break;r=s.next,s.next=null,i.lastBaseUpdate=s,i.shared.pending=null}}while(1);f===null&&(l=v),i.baseState=l,i.firstBaseUpdate=d,i.lastBaseUpdate=f,Rn|=o,e.lanes=o,e.memoizedState=v}}function ul(e,a,n){if(e=a.effects,a.effects=null,e!==null)for(a=0;a<e.length;a++){var t=e[a],i=t.callback;if(i!==null){if(t.callback=null,t=n,typeof i!="function")throw Error(k(191,i));i.call(t)}}}var dl=new U.Component().refs;function bt(e,a,n,t){a=e.memoizedState,n=n(t,a),n=n==null?a:H({},a,n),e.memoizedState=n,e.lanes===0&&(e.updateQueue.baseState=n)}var Ft={isMounted:function(e){return(e=e._reactInternals)?Sa(e)===e:!1},enqueueSetState:function(e,a,n){e=e._reactInternals;var t=Te(),i=na(e),r=ea(t,i);r.payload=a,n!=null&&(r.callback=n),aa(e,r),ta(e,i,t)},enqueueReplaceState:function(e,a,n){e=e._reactInternals;var t=Te(),i=na(e),r=ea(t,i);r.tag=1,r.payload=a,n!=null&&(r.callback=n),aa(e,r),ta(e,i,t)},enqueueForceUpdate:function(e,a){e=e._reactInternals;var n=Te(),t=na(e),i=ea(n,t);i.tag=2,a!=null&&(i.callback=a),aa(e,i),ta(e,t,n)}};function cl(e,a,n,t,i,r,o){return e=e.stateNode,typeof e.shouldComponentUpdate=="function"?e.shouldComponentUpdate(t,r,o):a.prototype&&a.prototype.isPureReactComponent?!On(n,t)||!On(i,r):!0}function gl(e,a,n){var t=!1,i=Xe,r=a.contextType;return typeof r=="object"&&r!==null?r=Ae(r):(i=me(a)?Ta:ie.current,t=a.contextTypes,r=(t=t!=null)?Ja(e,i):Xe),a=new a(n,r),e.memoizedState=a.state!==null&&a.state!==void 0?a.state:null,a.updater=Ft,e.stateNode=a,a._reactInternals=e,t&&(e=e.stateNode,e.__reactInternalMemoizedUnmaskedChildContext=i,e.__reactInternalMemoizedMaskedChildContext=r),a}function hl(e,a,n,t){e=a.state,typeof a.componentWillReceiveProps=="function"&&a.componentWillReceiveProps(n,t),typeof a.UNSAFE_componentWillReceiveProps=="function"&&a.UNSAFE_componentWillReceiveProps(n,t),a.state!==e&&Ft.enqueueReplaceState(a,a.state,null)}function Pr(e,a,n,t){var i=e.stateNode;i.props=n,i.state=e.memoizedState,i.refs=dl,wr(e);var r=a.contextType;typeof r=="object"&&r!==null?i.context=Ae(r):(r=me(a)?Ta:ie.current,i.context=Ja(e,r)),Un(e,n,i,t),i.state=e.memoizedState,r=a.getDerivedStateFromProps,typeof r=="function"&&(bt(e,a,r,n),i.state=e.memoizedState),typeof a.getDerivedStateFromProps=="function"||typeof i.getSnapshotBeforeUpdate=="function"||typeof i.UNSAFE_componentWillMount!="function"&&typeof i.componentWillMount!="function"||(a=i.state,typeof i.componentWillMount=="function"&&i.componentWillMount(),typeof i.UNSAFE_componentWillMount=="function"&&i.UNSAFE_componentWillMount(),a!==i.state&&Ft.enqueueReplaceState(i,i.state,null),Un(e,n,i,t),i.state=e.memoizedState),typeof i.componentDidMount=="function"&&(e.flags|=4)}var Yt=Array.isArray;function Hn(e,a,n){if(e=n.ref,e!==null&&typeof e!="function"&&typeof e!="object"){if(n._owner){if(n=n._owner,n){if(n.tag!==1)throw Error(k(309));var t=n.stateNode}if(!t)throw Error(k(147,e));var i=""+e;return a!==null&&a.ref!==null&&typeof a.ref=="function"&&a.ref._stringRef===i?a.ref:(a=function(r){var o=t.refs;o===dl&&(o=t.refs={}),r===null?delete o[i]:o[i]=r},a._stringRef=i,a)}if(typeof e!="string")throw Error(k(284));if(!n._owner)throw Error(k(290,e))}return e}function xt(e,a){if(e.type!=="textarea")throw Error(k(31,Object.prototype.toString.call(a)==="[object Object]"?"object with keys {"+Object.keys(a).join(", ")+"}":a))}function ml(e){function a(g,u){if(e){var c=g.lastEffect;c!==null?(c.nextEffect=u,g.lastEffect=u):g.firstEffect=g.lastEffect=u,u.nextEffect=null,u.flags=8}}function n(g,u){if(!e)return null;for(;u!==null;)a(g,u),u=u.sibling;return null}function t(g,u){for(g=new Map;u!==null;)u.key!==null?g.set(u.key,u):g.set(u.index,u),u=u.sibling;return g}function i(g,u){return g=ia(g,u),g.index=0,g.sibling=null,g}function r(g,u,c){return g.index=c,e?(c=g.alternate,c!==null?(c=c.index,c<u?(g.flags=2,u):c):(g.flags=2,u)):u}function o(g){return e&&g.alternate===null&&(g.flags=2),g}function s(g,u,c,m){return u===null||u.tag!==6?(u=Br(c,g.mode,m),u.return=g,u):(u=i(u,c),u.return=g,u)}function l(g,u,c,m){return u!==null&&u.elementType===c.type?(m=i(u,c.props),m.ref=Hn(g,u,c),m.return=g,m):(m=Qt(c.type,c.key,c.props,null,g.mode,m),m.ref=Hn(g,u,c),m.return=g,m)}function d(g,u,c,m){return u===null||u.tag!==4||u.stateNode.containerInfo!==c.containerInfo||u.stateNode.implementation!==c.implementation?(u=Wr(c,g.mode,m),u.return=g,u):(u=i(u,c.children||[]),u.return=g,u)}function f(g,u,c,m,S){return u===null||u.tag!==7?(u=Xa(c,g.mode,m,S),u.return=g,u):(u=i(u,c),u.return=g,u)}function v(g,u,c){if(typeof u=="string"||typeof u=="number")return u=Br(""+u,g.mode,c),u.return=g,u;if(typeof u=="object"&&u!==null){switch(u.$$typeof){case dn:return c=Qt(u.type,u.key,u.props,null,g.mode,c),c.ref=Hn(g,null,u),c.return=g,c;case ma:return u=Wr(u,g.mode,c),u.return=g,u}if(Yt(u)||hn(u))return u=Xa(u,g.mode,c,null),u.return=g,u;xt(g,u)}return null}function p(g,u,c,m){var S=u!==null?u.key:null;if(typeof c=="string"||typeof c=="number")return S!==null?null:s(g,u,""+c,m);if(typeof c=="object"&&c!==null){switch(c.$$typeof){case dn:return c.key===S?c.type===xe?f(g,u,c.props.children,m,S):l(g,u,c,m):null;case ma:return c.key===S?d(g,u,c,m):null}if(Yt(c)||hn(c))return S!==null?null:f(g,u,c,m,null);xt(g,c)}return null}function y(g,u,c,m,S){if(typeof m=="string"||typeof m=="number")return g=g.get(c)||null,s(u,g,""+m,S);if(typeof m=="object"&&m!==null){switch(m.$$typeof){case dn:return g=g.get(m.key===null?c:m.key)||null,m.type===xe?f(u,g,m.props.children,S,m.key):l(u,g,m,S);case ma:return g=g.get(m.key===null?c:m.key)||null,d(u,g,m,S)}if(Yt(m)||hn(m))return g=g.get(c)||null,f(u,g,m,S,null);xt(u,m)}return null}function B(g,u,c,m){for(var S=null,W=null,M=u,w=u=0,D=null;M!==null&&w<c.length;w++){M.index>w?(D=M,M=null):D=M.sibling;var O=p(g,M,c[w],m);if(O===null){M===null&&(M=D);break}e&&M&&O.alternate===null&&a(g,M),u=r(O,u,w),W===null?S=O:W.sibling=O,W=O,M=D}if(w===c.length)return n(g,M),S;if(M===null){for(;w<c.length;w++)M=v(g,c[w],m),M!==null&&(u=r(M,u,w),W===null?S=M:W.sibling=M,W=M);return S}for(M=t(g,M);w<c.length;w++)D=y(M,g,w,c[w],m),D!==null&&(e&&D.alternate!==null&&M.delete(D.key===null?w:D.key),u=r(D,u,w),W===null?S=D:W.sibling=D,W=D);return e&&M.forEach(function(x){return a(g,x)}),S}function E(g,u,c,m){var S=hn(c);if(typeof S!="function")throw Error(k(150));if(c=S.call(c),c==null)throw Error(k(151));for(var W=S=null,M=u,w=u=0,D=null,O=c.next();M!==null&&!O.done;w++,O=c.next()){M.index>w?(D=M,M=null):D=M.sibling;var x=p(g,M,O.value,m);if(x===null){M===null&&(M=D);break}e&&M&&x.alternate===null&&a(g,M),u=r(x,u,w),W===null?S=x:W.sibling=x,W=x,M=D}if(O.done)return n(g,M),S;if(M===null){for(;!O.done;w++,O=c.next())O=v(g,O.value,m),O!==null&&(u=r(O,u,w),W===null?S=O:W.sibling=O,W=O);return S}for(M=t(g,M);!O.done;w++,O=c.next())O=y(M,g,w,O.value,m),O!==null&&(e&&O.alternate!==null&&M.delete(O.key===null?w:O.key),u=r(O,u,w),W===null?S=O:W.sibling=O,W=O);return e&&M.forEach(function(ge){return a(g,ge)}),S}return function(g,u,c,m){var S=typeof c=="object"&&c!==null&&c.type===xe&&c.key===null;S&&(c=c.props.children);var W=typeof c=="object"&&c!==null;if(W)switch(c.$$typeof){case dn:e:{for(W=c.key,S=u;S!==null;){if(S.key===W){switch(S.tag){case 7:if(c.type===xe){n(g,S.sibling),u=i(S,c.props.children),u.return=g,g=u;break e}break;default:if(S.elementType===c.type){n(g,S.sibling),u=i(S,c.props),u.ref=Hn(g,S,c),u.return=g,g=u;break e}}n(g,S);break}else a(g,S);S=S.sibling}c.type===xe?(u=Xa(c.props.children,g.mode,m,c.key),u.return=g,g=u):(m=Qt(c.type,c.key,c.props,null,g.mode,m),m.ref=Hn(g,u,c),m.return=g,g=m)}return o(g);case ma:e:{for(S=c.key;u!==null;){if(u.key===S)if(u.tag===4&&u.stateNode.containerInfo===c.containerInfo&&u.stateNode.implementation===c.implementation){n(g,u.sibling),u=i(u,c.children||[]),u.return=g,g=u;break e}else{n(g,u);break}else a(g,u);u=u.sibling}u=Wr(c,g.mode,m),u.return=g,g=u}return o(g)}if(typeof c=="string"||typeof c=="number")return c=""+c,u!==null&&u.tag===6?(n(g,u.sibling),u=i(u,c),u.return=g,g=u):(n(g,u),u=Br(c,g.mode,m),u.return=g,g=u),o(g);if(Yt(c))return B(g,u,c,m);if(hn(c))return E(g,u,c,m);if(W&&xt(g,c),typeof c=="undefined"&&!S)switch(g.tag){case 1:case 22:case 0:case 11:case 15:throw Error(k(152,Da(g.type)||"Component"))}return n(g,u)}}var Vt=ml(!0),pl=ml(!1),Ln={},We=qe(Ln),bn=qe(Ln),Fn=qe(Ln);function ya(e){if(e===Ln)throw Error(k(174));return e}function Or(e,a){switch(Q(Fn,a),Q(bn,e),Q(We,Ln),e=a.nodeType,e){case 9:case 11:a=(a=a.documentElement)?a.namespaceURI:Ki(null,"");break;default:e=e===8?a.parentNode:a,a=e.namespaceURI||null,e=e.tagName,a=Ki(a,e)}Y(We),Q(We,a)}function $a(){Y(We),Y(bn),Y(Fn)}function Sl(e){ya(Fn.current);var a=ya(We.current),n=Ki(a,e.type);a!==n&&(Q(bn,e),Q(We,n))}function Dr(e){bn.current===e&&(Y(We),Y(bn))}var V=qe(0);function zt(e){for(var a=e;a!==null;){if(a.tag===13){var n=a.memoizedState;if(n!==null&&(n=n.dehydrated,n===null||n.data==="$?"||n.data==="$!"))return a}else if(a.tag===19&&a.memoizedProps.revealOrder!==void 0){if((a.flags&64)!=0)return a}else if(a.child!==null){a.child.return=a,a=a.child;continue}if(a===e)break;for(;a.sibling===null;){if(a.return===null||a.return===e)return null;a=a.return}a.sibling.return=a.return,a=a.sibling}return null}var Re=null,ra=null,Oe=!1;function fl(e,a){var n=ye(5,null,null,0);n.elementType="DELETED",n.type="DELETED",n.stateNode=a,n.return=e,n.flags=8,e.lastEffect!==null?(e.lastEffect.nextEffect=n,e.lastEffect=n):e.firstEffect=e.lastEffect=n}function Tl(e,a){switch(e.tag){case 5:var n=e.type;return a=a.nodeType!==1||n.toLowerCase()!==a.nodeName.toLowerCase()?null:a,a!==null?(e.stateNode=a,!0):!1;case 6:return a=e.pendingProps===""||a.nodeType!==3?null:a,a!==null?(e.stateNode=a,!0):!1;case 13:return!1;default:return!1}}function Gr(e){if(Oe){var a=ra;if(a){var n=a;if(!Tl(e,a)){if(a=za(n.nextSibling),!a||!Tl(e,a)){e.flags=e.flags&-1025|2,Oe=!1,Re=e;return}fl(Re,n)}Re=e,ra=za(a.firstChild)}else e.flags=e.flags&-1025|2,Oe=!1,Re=e}}function kl(e){for(e=e.return;e!==null&&e.tag!==5&&e.tag!==3&&e.tag!==13;)e=e.return;Re=e}function jt(e){if(e!==Re)return!1;if(!Oe)return kl(e),Oe=!0,!1;var a=e.type;if(e.tag!==5||a!=="head"&&a!=="body"&&!pr(a,e.memoizedProps))for(a=ra;a;)fl(e,a),a=za(a.nextSibling);if(kl(e),e.tag===13){if(e=e.memoizedState,e=e!==null?e.dehydrated:null,!e)throw Error(k(317));e:{for(e=e.nextSibling,a=0;e;){if(e.nodeType===8){var n=e.data;if(n==="/$"){if(a===0){ra=za(e.nextSibling);break e}a--}else n!=="$"&&n!=="$!"&&n!=="$?"||a++}e=e.nextSibling}ra=null}}else ra=Re?za(e.stateNode.nextSibling):null;return!0}function Nr(){ra=Re=null,Oe=!1}var en=[];function Kr(){for(var e=0;e<en.length;e++)en[e]._workInProgressVersionPrimary=null;en.length=0}var Yn=ha.ReactCurrentDispatcher,Me=ha.ReactCurrentBatchConfig,xn=0,j=null,oe=null,ne=null,Jt=!1,Qn=!1;function pe(){throw Error(k(321))}function Rr(e,a){if(a===null)return!1;for(var n=0;n<a.length&&n<e.length;n++)if(!ke(e[n],a[n]))return!1;return!0}function Ur(e,a,n,t,i,r){if(xn=r,j=a,a.memoizedState=null,a.updateQueue=null,a.lanes=0,Yn.current=e===null||e.memoizedState===null?nc:tc,e=n(t,i),Qn){r=0;do{if(Qn=!1,!(25>r))throw Error(k(301));r+=1,ne=oe=null,a.updateQueue=null,Yn.current=ic,e=n(t,i)}while(Qn)}if(Yn.current=_t,a=oe!==null&&oe.next!==null,xn=0,ne=oe=j=null,Jt=!1,a)throw Error(k(300));return e}function Ma(){var e={memoizedState:null,baseState:null,baseQueue:null,queue:null,next:null};return ne===null?j.memoizedState=ne=e:ne=ne.next=e,ne}function va(){if(oe===null){var e=j.alternate;e=e!==null?e.memoizedState:null}else e=oe.next;var a=ne===null?j.memoizedState:ne.next;if(a!==null)ne=a,oe=e;else{if(e===null)throw Error(k(310));oe=e,e={memoizedState:oe.memoizedState,baseState:oe.baseState,baseQueue:oe.baseQueue,queue:oe.queue,next:null},ne===null?j.memoizedState=ne=e:ne=ne.next=e}return ne}function De(e,a){return typeof a=="function"?a(e):a}function Vn(e){var a=va(),n=a.queue;if(n===null)throw Error(k(311));n.lastRenderedReducer=e;var t=oe,i=t.baseQueue,r=n.pending;if(r!==null){if(i!==null){var o=i.next;i.next=r.next,r.next=o}t.baseQueue=i=r,n.pending=null}if(i!==null){i=i.next,t=t.baseState;var s=o=r=null,l=i;do{var d=l.lane;if((xn&d)===d)s!==null&&(s=s.next={lane:0,action:l.action,eagerReducer:l.eagerReducer,eagerState:l.eagerState,next:null}),t=l.eagerReducer===e?l.eagerState:e(t,l.action);else{var f={lane:d,action:l.action,eagerReducer:l.eagerReducer,eagerState:l.eagerState,next:null};s===null?(o=s=f,r=t):s=s.next=f,j.lanes|=d,Rn|=d}l=l.next}while(l!==null&&l!==i);s===null?r=t:s.next=o,ke(t,a.memoizedState)||(Ie=!0),a.memoizedState=t,a.baseState=r,a.baseQueue=s,n.lastRenderedState=t}return[a.memoizedState,n.dispatch]}function zn(e){var a=va(),n=a.queue;if(n===null)throw Error(k(311));n.lastRenderedReducer=e;var t=n.dispatch,i=n.pending,r=a.memoizedState;if(i!==null){n.pending=null;var o=i=i.next;do r=e(r,o.action),o=o.next;while(o!==i);ke(r,a.memoizedState)||(Ie=!0),a.memoizedState=r,a.baseQueue===null&&(a.baseState=r),n.lastRenderedState=r}return[r,t]}function Al(e,a,n){var t=a._getVersion;t=t(a._source);var i=a._workInProgressVersionPrimary;if(i!==null?e=i===t:(e=e.mutableReadLanes,(e=(xn&e)===e)&&(a._workInProgressVersionPrimary=t,en.push(a))),e)return n(a._source);throw en.push(a),Error(k(350))}function yl(e,a,n,t){var i=ce;if(i===null)throw Error(k(349));var r=a._getVersion,o=r(a._source),s=Yn.current,l=s.useState(function(){return Al(i,a,n)}),d=l[1],f=l[0];l=ne;var v=e.memoizedState,p=v.refs,y=p.getSnapshot,B=v.source;v=v.subscribe;var E=j;return e.memoizedState={refs:p,source:a,subscribe:t},s.useEffect(function(){p.getSnapshot=n,p.setSnapshot=d;var g=r(a._source);if(!ke(o,g)){g=n(a._source),ke(f,g)||(d(g),g=na(E),i.mutableReadLanes|=g&i.pendingLanes),g=i.mutableReadLanes,i.entangledLanes|=g;for(var u=i.entanglements,c=g;0<c;){var m=31-Je(c),S=1<<m;u[m]|=g,c&=~S}}},[n,a,t]),s.useEffect(function(){return t(a._source,function(){var g=p.getSnapshot,u=p.setSnapshot;try{u(g(a._source));var c=na(E);i.mutableReadLanes|=c&i.pendingLanes}catch(m){u(function(){throw m})}})},[a,t]),ke(y,n)&&ke(B,a)&&ke(v,t)||(e={pending:null,dispatch:null,lastRenderedReducer:De,lastRenderedState:f},e.dispatch=d=Hr.bind(null,j,e),l.queue=e,l.baseQueue=null,f=Al(i,a,n),l.memoizedState=l.baseState=f),f}function Ml(e,a,n){var t=va();return yl(t,e,a,n)}function jn(e){var a=Ma();return typeof e=="function"&&(e=e()),a.memoizedState=a.baseState=e,e=a.queue={pending:null,dispatch:null,lastRenderedReducer:De,lastRenderedState:e},e=e.dispatch=Hr.bind(null,j,e),[a.memoizedState,e]}function Zt(e,a,n,t){return e={tag:e,create:a,destroy:n,deps:t,next:null},a=j.updateQueue,a===null?(a={lastEffect:null},j.updateQueue=a,a.lastEffect=e.next=e):(n=a.lastEffect,n===null?a.lastEffect=e.next=e:(t=n.next,n.next=e,e.next=t,a.lastEffect=e)),e}function vl(e){var a=Ma();return e={current:e},a.memoizedState=e}function qt(){return va().memoizedState}function Lr(e,a,n,t){var i=Ma();j.flags|=e,i.memoizedState=Zt(1|a,n,void 0,t===void 0?null:t)}function br(e,a,n,t){var i=va();t=t===void 0?null:t;var r=void 0;if(oe!==null){var o=oe.memoizedState;if(r=o.destroy,t!==null&&Rr(t,o.deps)){Zt(a,n,r,t);return}}j.flags|=e,i.memoizedState=Zt(1|a,n,r,t)}function Cl(e,a){return Lr(516,4,e,a)}function Xt(e,a){return br(516,4,e,a)}function Il(e,a){return br(4,2,e,a)}function El(e,a){if(typeof a=="function")return e=e(),a(e),function(){a(null)};if(a!=null)return e=e(),a.current=e,function(){a.current=null}}function wl(e,a,n){return n=n!=null?n.concat([e]):null,br(4,2,El.bind(null,a,e),n)}function Fr(){}function Pl(e,a){var n=va();a=a===void 0?null:a;var t=n.memoizedState;return t!==null&&a!==null&&Rr(a,t[1])?t[0]:(n.memoizedState=[e,a],e)}function Bl(e,a){var n=va();a=a===void 0?null:a;var t=n.memoizedState;return t!==null&&a!==null&&Rr(a,t[1])?t[0]:(e=e(),n.memoizedState=[e,a],e)}function rc(e,a){var n=_a();Aa(98>n?98:n,function(){e(!0)}),Aa(97<n?97:n,function(){var t=Me.transition;Me.transition=1;try{e(!1),a()}finally{Me.transition=t}})}function Hr(e,a,n){var t=Te(),i=na(e),r={lane:i,action:n,eagerReducer:null,eagerState:null,next:null},o=a.pending;if(o===null?r.next=r:(r.next=o.next,o.next=r),a.pending=r,o=e.alternate,e===j||o!==null&&o===j)Qn=Jt=!0;else{if(e.lanes===0&&(o===null||o.lanes===0)&&(o=a.lastRenderedReducer,o!==null))try{var s=a.lastRenderedState,l=o(s,n);if(r.eagerReducer=o,r.eagerState=l,ke(l,s))return}catch(d){}finally{}ta(e,i,t)}}var _t={readContext:Ae,useCallback:pe,useContext:pe,useEffect:pe,useImperativeHandle:pe,useLayoutEffect:pe,useMemo:pe,useReducer:pe,useRef:pe,useState:pe,useDebugValue:pe,useDeferredValue:pe,useTransition:pe,useMutableSource:pe,useOpaqueIdentifier:pe,unstable_isNewReconciler:!1},nc={readContext:Ae,useCallback:function(e,a){return Ma().memoizedState=[e,a===void 0?null:a],e},useContext:Ae,useEffect:Cl,useImperativeHandle:function(e,a,n){return n=n!=null?n.concat([e]):null,Lr(4,2,El.bind(null,a,e),n)},useLayoutEffect:function(e,a){return Lr(4,2,e,a)},useMemo:function(e,a){var n=Ma();return a=a===void 0?null:a,e=e(),n.memoizedState=[e,a],e},useReducer:function(e,a,n){var t=Ma();return a=n!==void 0?n(a):a,t.memoizedState=t.baseState=a,e=t.queue={pending:null,dispatch:null,lastRenderedReducer:e,lastRenderedState:a},e=e.dispatch=Hr.bind(null,j,e),[t.memoizedState,e]},useRef:vl,useState:jn,useDebugValue:Fr,useDeferredValue:function(e){var a=jn(e),n=a[0],t=a[1];return Cl(function(){var i=Me.transition;Me.transition=1;try{t(e)}finally{Me.transition=i}},[e]),n},useTransition:function(){var e=jn(!1),a=e[0];return e=rc.bind(null,e[1]),vl(e),[e,a]},useMutableSource:function(e,a,n){var t=Ma();return t.memoizedState={refs:{getSnapshot:a,setSnapshot:null},source:e,subscribe:n},yl(t,e,a,n)},useOpaqueIdentifier:function(){if(Oe){var e=!1,a=Zd(function(){throw e||(e=!0,n("r:"+(fr++).toString(36))),Error(k(355))}),n=jn(a)[1];return(j.mode&2)==0&&(j.flags|=516,Zt(5,function(){n("r:"+(fr++).toString(36))},void 0,null)),a}return a="r:"+(fr++).toString(36),jn(a),a},unstable_isNewReconciler:!1},tc={readContext:Ae,useCallback:Pl,useContext:Ae,useEffect:Xt,useImperativeHandle:wl,useLayoutEffect:Il,useMemo:Bl,useReducer:Vn,useRef:qt,useState:function(){return Vn(De)},useDebugValue:Fr,useDeferredValue:function(e){var a=Vn(De),n=a[0],t=a[1];return Xt(function(){var i=Me.transition;Me.transition=1;try{t(e)}finally{Me.transition=i}},[e]),n},useTransition:function(){var e=Vn(De)[0];return[qt().current,e]},useMutableSource:Ml,useOpaqueIdentifier:function(){return Vn(De)[0]},unstable_isNewReconciler:!1},ic={readContext:Ae,useCallback:Pl,useContext:Ae,useEffect:Xt,useImperativeHandle:wl,useLayoutEffect:Il,useMemo:Bl,useReducer:zn,useRef:qt,useState:function(){return zn(De)},useDebugValue:Fr,useDeferredValue:function(e){var a=zn(De),n=a[0],t=a[1];return Xt(function(){var i=Me.transition;Me.transition=1;try{t(e)}finally{Me.transition=i}},[e]),n},useTransition:function(){var e=zn(De)[0];return[qt().current,e]},useMutableSource:Ml,useOpaqueIdentifier:function(){return zn(De)[0]},unstable_isNewReconciler:!1},oc=ha.ReactCurrentOwner,Ie=!1;function Se(e,a,n,t){a.child=e===null?pl(a,null,n,t):Vt(a,e.child,n,t)}function Wl(e,a,n,t,i){n=n.render;var r=a.ref;return qa(a,i),t=Ur(e,a,n,t,r,i),e!==null&&!Ie?(a.updateQueue=e.updateQueue,a.flags&=-517,e.lanes&=~i,Ue(e,a,i)):(a.flags|=1,Se(e,a,t,i),a.child)}function Dl(e,a,n,t,i,r){if(e===null){var o=n.type;return typeof o=="function"&&!Yr(o)&&o.defaultProps===void 0&&n.compare===null&&n.defaultProps===void 0?(a.tag=15,a.type=o,Ol(e,a,o,t,i,r)):(e=Qt(n.type,null,t,a,a.mode,r),e.ref=a.ref,e.return=a,a.child=e)}return o=e.child,(i&r)==0&&(i=o.memoizedProps,n=n.compare,n=n!==null?n:On,n(i,t)&&e.ref===a.ref)?Ue(e,a,r):(a.flags|=1,e=ia(o,t),e.ref=a.ref,e.return=a,a.child=e)}function Ol(e,a,n,t,i,r){if(e!==null&&On(e.memoizedProps,t)&&e.ref===a.ref)if(Ie=!1,(r&i)!=0)(e.flags&16384)!=0&&(Ie=!0);else return a.lanes=e.lanes,Ue(e,a,r);return xr(e,a,n,t,r)}function Qr(e,a,n){var t=a.pendingProps,i=t.children,r=e!==null?e.memoizedState:null;if(t.mode==="hidden"||t.mode==="unstable-defer-without-hiding")if((a.mode&4)==0)a.memoizedState={baseLanes:0},$t(a,n);else if((n&1073741824)!=0)a.memoizedState={baseLanes:0},$t(a,r!==null?r.baseLanes:n);else return e=r!==null?r.baseLanes|n:n,a.lanes=a.childLanes=1073741824,a.memoizedState={baseLanes:e},$t(a,e),null;else r!==null?(t=r.baseLanes|n,a.memoizedState=null):t=n,$t(a,t);return Se(e,a,i,n),a.child}function Gl(e,a){var n=a.ref;(e===null&&n!==null||e!==null&&e.ref!==n)&&(a.flags|=128)}function xr(e,a,n,t,i){var r=me(n)?Ta:ie.current;return r=Ja(a,r),qa(a,i),n=Ur(e,a,n,t,r,i),e!==null&&!Ie?(a.updateQueue=e.updateQueue,a.flags&=-517,e.lanes&=~i,Ue(e,a,i)):(a.flags|=1,Se(e,a,n,i),a.child)}function Nl(e,a,n,t,i){if(me(n)){var r=!0;Nt(a)}else r=!1;if(qa(a,i),a.stateNode===null)e!==null&&(e.alternate=null,a.alternate=null,a.flags|=2),gl(a,n,t),Pr(a,n,t,i),t=!0;else if(e===null){var o=a.stateNode,s=a.memoizedProps;o.props=s;var l=o.context,d=n.contextType;typeof d=="object"&&d!==null?d=Ae(d):(d=me(n)?Ta:ie.current,d=Ja(a,d));var f=n.getDerivedStateFromProps,v=typeof f=="function"||typeof o.getSnapshotBeforeUpdate=="function";v||typeof o.UNSAFE_componentWillReceiveProps!="function"&&typeof o.componentWillReceiveProps!="function"||(s!==t||l!==d)&&hl(a,o,t,d),$e=!1;var p=a.memoizedState;o.state=p,Un(a,t,o,i),l=a.memoizedState,s!==t||p!==l||he.current||$e?(typeof f=="function"&&(bt(a,n,f,t),l=a.memoizedState),(s=$e||cl(a,n,s,t,p,l,d))?(v||typeof o.UNSAFE_componentWillMount!="function"&&typeof o.componentWillMount!="function"||(typeof o.componentWillMount=="function"&&o.componentWillMount(),typeof o.UNSAFE_componentWillMount=="function"&&o.UNSAFE_componentWillMount()),typeof o.componentDidMount=="function"&&(a.flags|=4)):(typeof o.componentDidMount=="function"&&(a.flags|=4),a.memoizedProps=t,a.memoizedState=l),o.props=t,o.state=l,o.context=d,t=s):(typeof o.componentDidMount=="function"&&(a.flags|=4),t=!1)}else{o=a.stateNode,sl(e,a),s=a.memoizedProps,d=a.type===a.elementType?s:Ce(a.type,s),o.props=d,v=a.pendingProps,p=o.context,l=n.contextType,typeof l=="object"&&l!==null?l=Ae(l):(l=me(n)?Ta:ie.current,l=Ja(a,l));var y=n.getDerivedStateFromProps;(f=typeof y=="function"||typeof o.getSnapshotBeforeUpdate=="function")||typeof o.UNSAFE_componentWillReceiveProps!="function"&&typeof o.componentWillReceiveProps!="function"||(s!==v||p!==l)&&hl(a,o,t,l),$e=!1,p=a.memoizedState,o.state=p,Un(a,t,o,i);var B=a.memoizedState;s!==v||p!==B||he.current||$e?(typeof y=="function"&&(bt(a,n,y,t),B=a.memoizedState),(d=$e||cl(a,n,d,t,p,B,l))?(f||typeof o.UNSAFE_componentWillUpdate!="function"&&typeof o.componentWillUpdate!="function"||(typeof o.componentWillUpdate=="function"&&o.componentWillUpdate(t,B,l),typeof o.UNSAFE_componentWillUpdate=="function"&&o.UNSAFE_componentWillUpdate(t,B,l)),typeof o.componentDidUpdate=="function"&&(a.flags|=4),typeof o.getSnapshotBeforeUpdate=="function"&&(a.flags|=256)):(typeof o.componentDidUpdate!="function"||s===e.memoizedProps&&p===e.memoizedState||(a.flags|=4),typeof o.getSnapshotBeforeUpdate!="function"||s===e.memoizedProps&&p===e.memoizedState||(a.flags|=256),a.memoizedProps=t,a.memoizedState=B),o.props=t,o.state=B,o.context=l,t=d):(typeof o.componentDidUpdate!="function"||s===e.memoizedProps&&p===e.memoizedState||(a.flags|=4),typeof o.getSnapshotBeforeUpdate!="function"||s===e.memoizedProps&&p===e.memoizedState||(a.flags|=256),t=!1)}return Vr(e,a,n,t,r,i)}function Vr(e,a,n,t,i,r){Gl(e,a);var o=(a.flags&64)!=0;if(!t&&!o)return i&&qs(a,n,!1),Ue(e,a,r);t=a.stateNode,oc.current=a;var s=o&&typeof n.getDerivedStateFromError!="function"?null:t.render();return a.flags|=1,e!==null&&o?(a.child=Vt(a,e.child,null,r),a.child=Vt(a,null,s,r)):Se(e,a,s,r),a.memoizedState=t.state,i&&qs(a,n,!0),a.child}function Kl(e){var a=e.stateNode;a.pendingContext?_s(e,a.pendingContext,a.pendingContext!==a.context):a.context&&_s(e,a.context,!1),Or(e,a.containerInfo)}var ei={dehydrated:null,retryLane:0};function Ll(e,a,n){var t=a.pendingProps,i=V.current,r=!1,o;return(o=(a.flags&64)!=0)||(o=e!==null&&e.memoizedState===null?!1:(i&2)!=0),o?(r=!0,a.flags&=-65):e!==null&&e.memoizedState===null||t.fallback===void 0||t.unstable_avoidThisFallback===!0||(i|=1),Q(V,i&1),e===null?(t.fallback!==void 0&&Gr(a),e=t.children,i=t.fallback,r?(e=Rl(a,e,i,n),a.child.memoizedState={baseLanes:n},a.memoizedState=ei,e):typeof t.unstable_expectedLoadTime=="number"?(e=Rl(a,e,i,n),a.child.memoizedState={baseLanes:n},a.memoizedState=ei,a.lanes=33554432,e):(n=zr({mode:"visible",children:e},a.mode,n,null),n.return=a,a.child=n)):e.memoizedState!==null?r?(t=Hl(e,a,t.children,t.fallback,n),r=a.child,i=e.child.memoizedState,r.memoizedState=i===null?{baseLanes:n}:{baseLanes:i.baseLanes|n},r.childLanes=e.childLanes&~n,a.memoizedState=ei,t):(n=Ul(e,a,t.children,n),a.memoizedState=null,n):r?(t=Hl(e,a,t.children,t.fallback,n),r=a.child,i=e.child.memoizedState,r.memoizedState=i===null?{baseLanes:n}:{baseLanes:i.baseLanes|n},r.childLanes=e.childLanes&~n,a.memoizedState=ei,t):(n=Ul(e,a,t.children,n),a.memoizedState=null,n)}function Rl(e,a,n,t){var i=e.mode,r=e.child;return a={mode:"hidden",children:a},(i&2)==0&&r!==null?(r.childLanes=0,r.pendingProps=a):r=zr(a,i,0,null),n=Xa(n,i,t,null),r.return=e,n.return=e,r.sibling=n,e.child=r,n}function Ul(e,a,n,t){var i=e.child;return e=i.sibling,n=ia(i,{mode:"visible",children:n}),(a.mode&2)==0&&(n.lanes=t),n.return=a,n.sibling=null,e!==null&&(e.nextEffect=null,e.flags=8,a.firstEffect=a.lastEffect=e),a.child=n}function Hl(e,a,n,t,i){var r=a.mode,o=e.child;e=o.sibling;var s={mode:"hidden",children:n};return(r&2)==0&&a.child!==o?(n=a.child,n.childLanes=0,n.pendingProps=s,o=n.lastEffect,o!==null?(a.firstEffect=n.firstEffect,a.lastEffect=o,o.nextEffect=null):a.firstEffect=a.lastEffect=null):n=ia(o,s),e!==null?t=ia(e,t):(t=Xa(t,r,i,null),t.flags|=2),t.return=a,n.return=a,n.sibling=t,a.child=n,t}function bl(e,a){e.lanes|=a;var n=e.alternate;n!==null&&(n.lanes|=a),ol(e.return,a)}function jr(e,a,n,t,i,r){var o=e.memoizedState;o===null?e.memoizedState={isBackwards:a,rendering:null,renderingStartTime:0,last:t,tail:n,tailMode:i,lastEffect:r}:(o.isBackwards=a,o.rendering=null,o.renderingStartTime=0,o.last=t,o.tail=n,o.tailMode=i,o.lastEffect=r)}function Fl(e,a,n){var t=a.pendingProps,i=t.revealOrder,r=t.tail;if(Se(e,a,t.children,n),t=V.current,(t&2)!=0)t=t&1|2,a.flags|=64;else{if(e!==null&&(e.flags&64)!=0)e:for(e=a.child;e!==null;){if(e.tag===13)e.memoizedState!==null&&bl(e,n);else if(e.tag===19)bl(e,n);else if(e.child!==null){e.child.return=e,e=e.child;continue}if(e===a)break e;for(;e.sibling===null;){if(e.return===null||e.return===a)break e;e=e.return}e.sibling.return=e.return,e=e.sibling}t&=1}if(Q(V,t),(a.mode&2)==0)a.memoizedState=null;else switch(i){case"forwards":for(n=a.child,i=null;n!==null;)e=n.alternate,e!==null&&zt(e)===null&&(i=n),n=n.sibling;n=i,n===null?(i=a.child,a.child=null):(i=n.sibling,n.sibling=null),jr(a,!1,i,n,r,a.lastEffect);break;case"backwards":for(n=null,i=a.child,a.child=null;i!==null;){if(e=i.alternate,e!==null&&zt(e)===null){a.child=i;break}e=i.sibling,i.sibling=n,n=i,i=e}jr(a,!0,n,null,r,a.lastEffect);break;case"together":jr(a,!1,null,null,void 0,a.lastEffect);break;default:a.memoizedState=null}return a.child}function Ue(e,a,n){if(e!==null&&(a.dependencies=e.dependencies),Rn|=a.lanes,(n&a.childLanes)!=0){if(e!==null&&a.child!==e.child)throw Error(k(153));if(a.child!==null){for(e=a.child,n=ia(e,e.pendingProps),a.child=n,n.return=a;e.sibling!==null;)e=e.sibling,n=n.sibling=ia(e,e.pendingProps),n.return=a;n.sibling=null}return a.child}return null}var Yl,Jr,xl,Ql;Yl=function(e,a){for(var n=a.child;n!==null;){if(n.tag===5||n.tag===6)e.appendChild(n.stateNode);else if(n.tag!==4&&n.child!==null){n.child.return=n,n=n.child;continue}if(n===a)break;for(;n.sibling===null;){if(n.return===null||n.return===a)return;n=n.return}n.sibling.return=n.return,n=n.sibling}};Jr=function(){};xl=function(e,a,n,t){var i=e.memoizedProps;if(i!==t){e=a.stateNode,ya(We.current);var r=null;switch(n){case"input":i=Bi(e,i),t=Bi(e,t),r=[];break;case"option":i=Di(e,i),t=Di(e,t),r=[];break;case"select":i=H({},i,{value:void 0}),t=H({},t,{value:void 0}),r=[];break;case"textarea":i=Gi(e,i),t=Gi(e,t),r=[];break;default:typeof i.onClick!="function"&&typeof t.onClick=="function"&&(e.onclick=Wt)}Ri(n,t);var o;n=null;for(d in i)if(!t.hasOwnProperty(d)&&i.hasOwnProperty(d)&&i[d]!=null)if(d==="style"){var s=i[d];for(o in s)s.hasOwnProperty(o)&&(n||(n={}),n[o]="")}else d!=="dangerouslySetInnerHTML"&&d!=="children"&&d!=="suppressContentEditableWarning"&&d!=="suppressHydrationWarning"&&d!=="autoFocus"&&(un.hasOwnProperty(d)?r||(r=[]):(r=r||[]).push(d,null));for(d in t){var l=t[d];if(s=i!=null?i[d]:void 0,t.hasOwnProperty(d)&&l!==s&&(l!=null||s!=null))if(d==="style")if(s){for(o in s)!s.hasOwnProperty(o)||l&&l.hasOwnProperty(o)||(n||(n={}),n[o]="");for(o in l)l.hasOwnProperty(o)&&s[o]!==l[o]&&(n||(n={}),n[o]=l[o])}else n||(r||(r=[]),r.push(d,n)),n=l;else d==="dangerouslySetInnerHTML"?(l=l?l.__html:void 0,s=s?s.__html:void 0,l!=null&&s!==l&&(r=r||[]).push(d,l)):d==="children"?typeof l!="string"&&typeof l!="number"||(r=r||[]).push(d,""+l):d!=="suppressContentEditableWarning"&&d!=="suppressHydrationWarning"&&(un.hasOwnProperty(d)?(l!=null&&d==="onScroll"&&F("scroll",e),r||s===l||(r=[])):typeof l=="object"&&l!==null&&l.$$typeof===Ci?l.toString():(r=r||[]).push(d,l))}n&&(r=r||[]).push("style",n);var d=r;(a.updateQueue=d)&&(a.flags|=4)}};Ql=function(e,a,n,t){n!==t&&(a.flags|=4)};function Jn(e,a){if(!Oe)switch(e.tailMode){case"hidden":a=e.tail;for(var n=null;a!==null;)a.alternate!==null&&(n=a),a=a.sibling;n===null?e.tail=null:n.sibling=null;break;case"collapsed":n=e.tail;for(var t=null;n!==null;)n.alternate!==null&&(t=n),n=n.sibling;t===null?a||e.tail===null?e.tail=null:e.tail.sibling=null:t.sibling=null}}function sc(e,a,n){var t=a.pendingProps;switch(a.tag){case 2:case 16:case 15:case 0:case 11:case 7:case 8:case 12:case 9:case 14:return null;case 1:return me(a.type)&&Gt(),null;case 3:return $a(),Y(he),Y(ie),Kr(),t=a.stateNode,t.pendingContext&&(t.context=t.pendingContext,t.pendingContext=null),(e===null||e.child===null)&&(jt(a)?a.flags|=4:t.hydrate||(a.flags|=256)),Jr(a),null;case 5:Dr(a);var i=ya(Fn.current);if(n=a.type,e!==null&&a.stateNode!=null)xl(e,a,n,t,i),e.ref!==a.ref&&(a.flags|=128);else{if(!t){if(a.stateNode===null)throw Error(k(166));return null}if(e=ya(We.current),jt(a)){t=a.stateNode,n=a.type;var r=a.memoizedProps;switch(t[Ze]=a,t[Dt]=r,n){case"dialog":F("cancel",t),F("close",t);break;case"iframe":case"object":case"embed":F("load",t);break;case"video":case"audio":for(e=0;e<Gn.length;e++)F(Gn[e],t);break;case"source":F("error",t);break;case"img":case"image":case"link":F("error",t),F("load",t);break;case"details":F("toggle",t);break;case"input":Ko(t,r),F("invalid",t);break;case"select":t._wrapperState={wasMultiple:!!r.multiple},F("invalid",t);break;case"textarea":Ho(t,r),F("invalid",t)}Ri(n,r),e=null;for(var o in r)r.hasOwnProperty(o)&&(i=r[o],o==="children"?typeof i=="string"?t.textContent!==i&&(e=["children",i]):typeof i=="number"&&t.textContent!==""+i&&(e=["children",""+i]):un.hasOwnProperty(o)&&i!=null&&o==="onScroll"&&F("scroll",t));switch(n){case"input":dt(t),Uo(t,r,!0);break;case"textarea":dt(t),bo(t);break;case"select":case"option":break;default:typeof r.onClick=="function"&&(t.onclick=Wt)}t=e,a.updateQueue=t,t!==null&&(a.flags|=4)}else{switch(o=i.nodeType===9?i:i.ownerDocument,e===Ni.html&&(e=Fo(n)),e===Ni.html?n==="script"?(e=o.createElement("div"),e.innerHTML="<script></script>",e=e.removeChild(e.firstChild)):typeof t.is=="string"?e=o.createElement(n,{is:t.is}):(e=o.createElement(n),n==="select"&&(o=e,t.multiple?o.multiple=!0:t.size&&(o.size=t.size))):e=o.createElementNS(e,n),e[Ze]=a,e[Dt]=t,Yl(e,a,!1,!1),a.stateNode=e,o=Ui(n,t),n){case"dialog":F("cancel",e),F("close",e),i=t;break;case"iframe":case"object":case"embed":F("load",e),i=t;break;case"video":case"audio":for(i=0;i<Gn.length;i++)F(Gn[i],e);i=t;break;case"source":F("error",e),i=t;break;case"img":case"image":case"link":F("error",e),F("load",e),i=t;break;case"details":F("toggle",e),i=t;break;case"input":Ko(e,t),i=Bi(e,t),F("invalid",e);break;case"option":i=Di(e,t);break;case"select":e._wrapperState={wasMultiple:!!t.multiple},i=H({},t,{value:void 0}),F("invalid",e);break;case"textarea":Ho(e,t),i=Gi(e,t),F("invalid",e);break;default:i=t}Ri(n,i);var s=i;for(r in s)if(s.hasOwnProperty(r)){var l=s[r];r==="style"?Qo(e,l):r==="dangerouslySetInnerHTML"?(l=l?l.__html:void 0,l!=null&&Yo(e,l)):r==="children"?typeof l=="string"?(n!=="textarea"||l!=="")&&pn(e,l):typeof l=="number"&&pn(e,""+l):r!=="suppressContentEditableWarning"&&r!=="suppressHydrationWarning"&&r!=="autoFocus"&&(un.hasOwnProperty(r)?l!=null&&r==="onScroll"&&F("scroll",e):l!=null&&Ti(e,r,l,o))}switch(n){case"input":dt(e),Uo(e,t,!1);break;case"textarea":dt(e),bo(e);break;case"option":t.value!=null&&e.setAttribute("value",""+Qe(t.value));break;case"select":e.multiple=!!t.multiple,r=t.value,r!=null?Ga(e,!!t.multiple,r,!1):t.defaultValue!=null&&Ga(e,!!t.multiple,t.defaultValue,!0);break;default:typeof i.onClick=="function"&&(e.onclick=Wt)}Vs(n,t)&&(a.flags|=4)}a.ref!==null&&(a.flags|=128)}return null;case 6:if(e&&a.stateNode!=null)Ql(e,a,e.memoizedProps,t);else{if(typeof t!="string"&&a.stateNode===null)throw Error(k(166));n=ya(Fn.current),ya(We.current),jt(a)?(t=a.stateNode,n=a.memoizedProps,t[Ze]=a,t.nodeValue!==n&&(a.flags|=4)):(t=(n.nodeType===9?n:n.ownerDocument).createTextNode(t),t[Ze]=a,a.stateNode=t)}return null;case 13:return Y(V),t=a.memoizedState,(a.flags&64)!=0?(a.lanes=n,a):(t=t!==null,n=!1,e===null?a.memoizedProps.fallback!==void 0&&jt(a):n=e.memoizedState!==null,t&&!n&&(a.mode&2)!=0&&(e===null&&a.memoizedProps.unstable_avoidThisFallback!==!0||(V.current&1)!=0?te===0&&(te=3):((te===0||te===3)&&(te=4),ce===null||(Rn&134217727)==0&&(an&134217727)==0||nn(ce,se))),(t||n)&&(a.flags|=4),null);case 4:return $a(),Jr(a),e===null&&xs(a.stateNode.containerInfo),null;case 10:return Er(a),null;case 17:return me(a.type)&&Gt(),null;case 19:if(Y(V),t=a.memoizedState,t===null)return null;if(r=(a.flags&64)!=0,o=t.rendering,o===null)if(r)Jn(t,!1);else{if(te!==0||e!==null&&(e.flags&64)!=0)for(e=a.child;e!==null;){if(o=zt(e),o!==null){for(a.flags|=64,Jn(t,!1),r=o.updateQueue,r!==null&&(a.updateQueue=r,a.flags|=4),t.lastEffect===null&&(a.firstEffect=null),a.lastEffect=t.lastEffect,t=n,n=a.child;n!==null;)r=n,e=t,r.flags&=2,r.nextEffect=null,r.firstEffect=null,r.lastEffect=null,o=r.alternate,o===null?(r.childLanes=0,r.lanes=e,r.child=null,r.memoizedProps=null,r.memoizedState=null,r.updateQueue=null,r.dependencies=null,r.stateNode=null):(r.childLanes=o.childLanes,r.lanes=o.lanes,r.child=o.child,r.memoizedProps=o.memoizedProps,r.memoizedState=o.memoizedState,r.updateQueue=o.updateQueue,r.type=o.type,e=o.dependencies,r.dependencies=e===null?null:{lanes:e.lanes,firstContext:e.firstContext}),n=n.sibling;return Q(V,V.current&1|2),a.child}e=e.sibling}t.tail!==null&&re()>_r&&(a.flags|=64,r=!0,Jn(t,!1),a.lanes=33554432)}else{if(!r)if(e=zt(o),e!==null){if(a.flags|=64,r=!0,n=e.updateQueue,n!==null&&(a.updateQueue=n,a.flags|=4),Jn(t,!0),t.tail===null&&t.tailMode==="hidden"&&!o.alternate&&!Oe)return a=a.lastEffect=t.lastEffect,a!==null&&(a.nextEffect=null),null}else 2*re()-t.renderingStartTime>_r&&n!==1073741824&&(a.flags|=64,r=!0,Jn(t,!1),a.lanes=33554432);t.isBackwards?(o.sibling=a.child,a.child=o):(n=t.last,n!==null?n.sibling=o:a.child=o,t.last=o)}return t.tail!==null?(n=t.tail,t.rendering=n,t.tail=n.sibling,t.lastEffect=a.lastEffect,t.renderingStartTime=re(),n.sibling=null,a=V.current,Q(V,r?a&1|2:a&1),n):null;case 23:case 24:return Zr(),e!==null&&e.memoizedState!==null!=(a.memoizedState!==null)&&t.mode!=="unstable-defer-without-hiding"&&(a.flags|=4),null}throw Error(k(156,a.tag))}function lc(e){switch(e.tag){case 1:me(e.type)&&Gt();var a=e.flags;return a&4096?(e.flags=a&-4097|64,e):null;case 3:if($a(),Y(he),Y(ie),Kr(),a=e.flags,(a&64)!=0)throw Error(k(285));return e.flags=a&-4097|64,e;case 5:return Dr(e),null;case 13:return Y(V),a=e.flags,a&4096?(e.flags=a&-4097|64,e):null;case 19:return Y(V),null;case 4:return $a(),null;case 10:return Er(e),null;case 23:case 24:return Zr(),null;default:return null}}function qr(e,a){try{var n="",t=a;do n+=Yu(t),t=t.return;while(t);var i=n}catch(r){i=`
+`),s=i.length-1,o=r.length-1;1<=s&&0<=o&&i[s]!==r[o];)o--;for(;1<=s&&0<=o;s--,o--)if(i[s]!==r[o]){if(s!==1||o!==1)do if(s--,o--,0>o||i[s]!==r[o])return`
+`+i[s].replace(" at new "," at ");while(1<=s&&0<=o);break}}}finally{wi=!1,Error.prepareStackTrace=a}return(e=e?e.displayName||e.name:"")?pa(e):""}function Yu(e){switch(e.tag){case 5:return pa(e.type);case 16:return pa("Lazy");case 13:return pa("Suspense");case 19:return pa("SuspenseList");case 0:case 2:case 15:return e=ut(e.type,!1),e;case 11:return e=ut(e.type.render,!1),e;case 22:return e=ut(e.type._render,!1),e;case 1:return e=ut(e.type,!0),e;default:return""}}function Gn(e){if(e==null)return null;if(typeof e=="function")return e.displayName||e.name||null;if(typeof e=="string")return e;switch(e){case je:return"Fragment";case fn:return"Portal";case ca:return"Profiler";case yi:return"StrictMode";case ga:return"Suspense";case ot:return"SuspenseList"}if(typeof e=="object")switch(e.$$typeof){case Ai:return(e.displayName||"Context")+".Consumer";case Ti:return(e._context.displayName||"Context")+".Provider";case st:var n=e.render;return n=n.displayName||n.name||"",e.displayName||(n!==""?"ForwardRef("+n+")":"ForwardRef");case lt:return Gn(e.type);case vi:return Gn(e._render);case Ii:n=e._payload,e=e._init;try{return Gn(e(n))}catch(a){}}return null}function xe(e){switch(typeof e){case"boolean":case"number":case"object":case"string":case"undefined":return e;default:return""}}function Ks(e){var n=e.type;return(e=e.nodeName)&&e.toLowerCase()==="input"&&(n==="checkbox"||n==="radio")}function ju(e){var n=Ks(e)?"checked":"value",a=Object.getOwnPropertyDescriptor(e.constructor.prototype,n),t=""+e[n];if(!e.hasOwnProperty(n)&&typeof a!="undefined"&&typeof a.get=="function"&&typeof a.set=="function"){var i=a.get,r=a.set;return Object.defineProperty(e,n,{configurable:!0,get:function(){return i.call(this)},set:function(s){t=""+s,r.call(this,s)}}),Object.defineProperty(e,n,{enumerable:a.enumerable}),{getValue:function(){return t},setValue:function(s){t=""+s},stopTracking:function(){e._valueTracker=null,delete e[n]}}}}function dt(e){e._valueTracker||(e._valueTracker=ju(e))}function Gs(e){if(!e)return!1;var n=e._valueTracker;if(!n)return!0;var a=n.getValue(),t="";return e&&(t=Ks(e)?e.checked?"true":"false":e.value),e=t,e!==a?(n.setValue(e),!0):!1}function ct(e){if(e=e||(typeof document!="undefined"?document:void 0),typeof e=="undefined")return null;try{return e.activeElement||e.body}catch(n){return e.body}}function Oi(e,n){var a=n.checked;return L({},n,{defaultChecked:void 0,defaultValue:void 0,value:void 0,checked:a!=null?a:e._wrapperState.initialChecked})}function Us(e,n){var a=n.defaultValue==null?"":n.defaultValue,t=n.checked!=null?n.checked:n.defaultChecked;a=xe(n.value!=null?n.value:a),e._wrapperState={initialChecked:t,initialValue:a,controlled:n.type==="checkbox"||n.type==="radio"?n.checked!=null:n.value!=null}}function Bs(e,n){n=n.checked,n!=null&&ki(e,"checked",n,!1)}function Ni(e,n){Bs(e,n);var a=xe(n.value),t=n.type;if(a!=null)t==="number"?(a===0&&e.value===""||e.value!=a)&&(e.value=""+a):e.value!==""+a&&(e.value=""+a);else if(t==="submit"||t==="reset"){e.removeAttribute("value");return}n.hasOwnProperty("value")?Pi(e,n.type,a):n.hasOwnProperty("defaultValue")&&Pi(e,n.type,xe(n.defaultValue)),n.checked==null&&n.defaultChecked!=null&&(e.defaultChecked=!!n.defaultChecked)}function Ds(e,n,a){if(n.hasOwnProperty("value")||n.hasOwnProperty("defaultValue")){var t=n.type;if(!(t!=="submit"&&t!=="reset"||n.value!==void 0&&n.value!==null))return;n=""+e._wrapperState.initialValue,a||n===e.value||(e.value=n),e.defaultValue=n}a=e.name,a!==""&&(e.name=""),e.defaultChecked=!!e._wrapperState.initialChecked,a!==""&&(e.name=a)}function Pi(e,n,a){(n!=="number"||ct(e.ownerDocument)!==e)&&(a==null?e.defaultValue=""+e._wrapperState.initialValue:e.defaultValue!==""+a&&(e.defaultValue=""+a))}function xu(e){var n="";return R.Children.forEach(e,function(a){a!=null&&(n+=a)}),n}function Ki(e,n){return e=L({children:void 0},n),(n=xu(n.children))&&(e.children=n),e}function Un(e,n,a,t){if(e=e.options,n){n={};for(var i=0;i<a.length;i++)n["$"+a[i]]=!0;for(a=0;a<e.length;a++)i=n.hasOwnProperty("$"+e[a].value),e[a].selected!==i&&(e[a].selected=i),i&&t&&(e[a].defaultSelected=!0)}else{for(a=""+xe(a),n=null,i=0;i<e.length;i++){if(e[i].value===a){e[i].selected=!0,t&&(e[i].defaultSelected=!0);return}n!==null||e[i].disabled||(n=e[i])}n!==null&&(n.selected=!0)}}function Gi(e,n){if(n.dangerouslySetInnerHTML!=null)throw Error(y(91));return L({},n,{value:void 0,defaultValue:void 0,children:""+e._wrapperState.initialValue})}function Rs(e,n){var a=n.value;if(a==null){if(a=n.children,n=n.defaultValue,a!=null){if(n!=null)throw Error(y(92));if(Array.isArray(a)){if(!(1>=a.length))throw Error(y(93));a=a[0]}n=a}n==null&&(n=""),a=n}e._wrapperState={initialValue:xe(a)}}function Ls(e,n){var a=xe(n.value),t=xe(n.defaultValue);a!=null&&(a=""+a,a!==e.value&&(e.value=a),n.defaultValue==null&&e.defaultValue!==a&&(e.defaultValue=a)),t!=null&&(e.defaultValue=""+t)}function Hs(e){var n=e.textContent;n===e._wrapperState.initialValue&&n!==""&&n!==null&&(e.value=n)}var Ui={html:"http://www.w3.org/1999/xhtml",mathml:"http://www.w3.org/1998/Math/MathML",svg:"http://www.w3.org/2000/svg"};function Fs(e){switch(e){case"svg":return"http://www.w3.org/2000/svg";case"math":return"http://www.w3.org/1998/Math/MathML";default:return"http://www.w3.org/1999/xhtml"}}function Bi(e,n){return e==null||e==="http://www.w3.org/1999/xhtml"?Fs(n):e==="http://www.w3.org/2000/svg"&&n==="foreignObject"?"http://www.w3.org/1999/xhtml":e}var gt,bs=function(e){return typeof MSApp!="undefined"&&MSApp.execUnsafeLocalFunction?function(n,a,t,i){MSApp.execUnsafeLocalFunction(function(){return e(n,a,t,i)})}:e}(function(e,n){if(e.namespaceURI!==Ui.svg||"innerHTML"in e)e.innerHTML=n;else{for(gt=gt||document.createElement("div"),gt.innerHTML="<svg>"+n.valueOf().toString()+"</svg>",n=gt.firstChild;e.firstChild;)e.removeChild(e.firstChild);for(;n.firstChild;)e.appendChild(n.firstChild)}});function fa(e,n){if(n){var a=e.firstChild;if(a&&a===e.lastChild&&a.nodeType===3){a.nodeValue=n;return}}e.textContent=n}var ma={animationIterationCount:!0,borderImageOutset:!0,borderImageSlice:!0,borderImageWidth:!0,boxFlex:!0,boxFlexGroup:!0,boxOrdinalGroup:!0,columnCount:!0,columns:!0,flex:!0,flexGrow:!0,flexPositive:!0,flexShrink:!0,flexNegative:!0,flexOrder:!0,gridArea:!0,gridRow:!0,gridRowEnd:!0,gridRowSpan:!0,gridRowStart:!0,gridColumn:!0,gridColumnEnd:!0,gridColumnSpan:!0,gridColumnStart:!0,fontWeight:!0,lineClamp:!0,lineHeight:!0,opacity:!0,order:!0,orphans:!0,tabSize:!0,widows:!0,zIndex:!0,zoom:!0,fillOpacity:!0,floodOpacity:!0,stopOpacity:!0,strokeDasharray:!0,strokeDashoffset:!0,strokeMiterlimit:!0,strokeOpacity:!0,strokeWidth:!0},zu=["Webkit","ms","Moz","O"];Object.keys(ma).forEach(function(e){zu.forEach(function(n){n=n+e.charAt(0).toUpperCase()+e.substring(1),ma[n]=ma[e]})});function Ys(e,n,a){return n==null||typeof n=="boolean"||n===""?"":a||typeof n!="number"||n===0||ma.hasOwnProperty(e)&&ma[e]?(""+n).trim():n+"px"}function js(e,n){e=e.style;for(var a in n)if(n.hasOwnProperty(a)){var t=a.indexOf("--")===0,i=Ys(a,n[a],t);a==="float"&&(a="cssFloat"),t?e.setProperty(a,i):e[a]=i}}var Qu=L({menuitem:!0},{area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,keygen:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0});function Di(e,n){if(n){if(Qu[e]&&(n.children!=null||n.dangerouslySetInnerHTML!=null))throw Error(y(137,e));if(n.dangerouslySetInnerHTML!=null){if(n.children!=null)throw Error(y(60));if(!(typeof n.dangerouslySetInnerHTML=="object"&&"__html"in n.dangerouslySetInnerHTML))throw Error(y(61))}if(n.style!=null&&typeof n.style!="object")throw Error(y(62))}}function Ri(e,n){if(e.indexOf("-")===-1)return typeof n.is=="string";switch(e){case"annotation-xml":case"color-profile":case"font-face":case"font-face-src":case"font-face-uri":case"font-face-format":case"font-face-name":case"missing-glyph":return!1;default:return!0}}function Li(e){return e=e.target||e.srcElement||window,e.correspondingUseElement&&(e=e.correspondingUseElement),e.nodeType===3?e.parentNode:e}var Hi=null,Bn=null,Dn=null;function xs(e){if(e=Sa(e)){if(typeof Hi!="function")throw Error(y(280));var n=e.stateNode;n&&(n=ht(n),Hi(e.stateNode,e.type,n))}}function zs(e){Bn?Dn?Dn.push(e):Dn=[e]:Bn=e}function Qs(){if(Bn){var e=Bn,n=Dn;if(Dn=Bn=null,xs(e),n)for(e=0;e<n.length;e++)xs(n[e])}}function Fi(e,n){return e(n)}function _s(e,n,a,t,i){return e(n,a,t,i)}function bi(){}var Js=Fi,mn=!1,Yi=!1;function ji(){(Bn!==null||Dn!==null)&&(bi(),Qs())}function _u(e,n,a){if(Yi)return e(n,a);Yi=!0;try{return Js(e,n,a)}finally{Yi=!1,ji()}}function ka(e,n){var a=e.stateNode;if(a===null)return null;var t=ht(a);if(t===null)return null;a=t[n];e:switch(n){case"onClick":case"onClickCapture":case"onDoubleClick":case"onDoubleClickCapture":case"onMouseDown":case"onMouseDownCapture":case"onMouseMove":case"onMouseMoveCapture":case"onMouseUp":case"onMouseUpCapture":case"onMouseEnter":(t=!t.disabled)||(e=e.type,t=!(e==="button"||e==="input"||e==="select"||e==="textarea")),e=!t;break e;default:e=!1}if(e)return null;if(a&&typeof a!="function")throw Error(y(231,n,typeof a));return a}var xi=!1;if(Be)try{Rn={},Object.defineProperty(Rn,"passive",{get:function(){xi=!0}}),window.addEventListener("test",Rn,Rn),window.removeEventListener("test",Rn,Rn)}catch(e){xi=!1}var Rn;function Ju(e,n,a,t,i,r,s,o,l){var d=Array.prototype.slice.call(arguments,3);try{n.apply(a,d)}catch(S){this.onError(S)}}var ya=!1,pt=null,ft=!1,zi=null,Vu={onError:function(e){ya=!0,pt=e}};function Zu(e,n,a,t,i,r,s,o,l){ya=!1,pt=null,Ju.apply(Vu,arguments)}function qu(e,n,a,t,i,r,s,o,l){if(Zu.apply(this,arguments),ya){if(ya){var d=pt;ya=!1,pt=null}else throw Error(y(198));ft||(ft=!0,zi=d)}}function Sn(e){var n=e,a=e;if(e.alternate)for(;n.return;)n=n.return;else{e=n;do n=e,(n.flags&1026)!=0&&(a=n.return),e=n.return;while(e)}return n.tag===3?a:null}function Vs(e){if(e.tag===13){var n=e.memoizedState;if(n===null&&(e=e.alternate,e!==null&&(n=e.memoizedState)),n!==null)return n.dehydrated}return null}function Zs(e){if(Sn(e)!==e)throw Error(y(188))}function Xu(e){var n=e.alternate;if(!n){if(n=Sn(e),n===null)throw Error(y(188));return n!==e?null:e}for(var a=e,t=n;;){var i=a.return;if(i===null)break;var r=i.alternate;if(r===null){if(t=i.return,t!==null){a=t;continue}break}if(i.child===r.child){for(r=i.child;r;){if(r===a)return Zs(i),e;if(r===t)return Zs(i),n;r=r.sibling}throw Error(y(188))}if(a.return!==t.return)a=i,t=r;else{for(var s=!1,o=i.child;o;){if(o===a){s=!0,a=i,t=r;break}if(o===t){s=!0,t=i,a=r;break}o=o.sibling}if(!s){for(o=r.child;o;){if(o===a){s=!0,a=r,t=i;break}if(o===t){s=!0,t=r,a=i;break}o=o.sibling}if(!s)throw Error(y(189))}}if(a.alternate!==t)throw Error(y(190))}if(a.tag!==3)throw Error(y(188));return a.stateNode.current===a?e:n}function qs(e){if(e=Xu(e),!e)return null;for(var n=e;;){if(n.tag===5||n.tag===6)return n;if(n.child)n.child.return=n,n=n.child;else{if(n===e)break;for(;!n.sibling;){if(!n.return||n.return===e)return null;n=n.return}n.sibling.return=n.return,n=n.sibling}}return null}function Xs(e,n){for(var a=e.alternate;n!==null;){if(n===e||n===a)return!0;n=n.return}return!1}var $s,Qi,eo,no,_i=!1,we=[],ze=null,Qe=null,_e=null,Ta=new Map,Aa=new Map,Ia=[],ao="mousedown mouseup touchcancel touchend touchstart auxclick dblclick pointercancel pointerdown pointerup dragend dragstart drop compositionend compositionstart keydown keypress keyup input textInput copy cut paste click change contextmenu reset submit".split(" ");function Ji(e,n,a,t,i){return{blockedOn:e,domEventName:n,eventSystemFlags:a|16,nativeEvent:i,targetContainers:[t]}}function to(e,n){switch(e){case"focusin":case"focusout":ze=null;break;case"dragenter":case"dragleave":Qe=null;break;case"mouseover":case"mouseout":_e=null;break;case"pointerover":case"pointerout":Ta.delete(n.pointerId);break;case"gotpointercapture":case"lostpointercapture":Aa.delete(n.pointerId)}}function va(e,n,a,t,i,r){return e===null||e.nativeEvent!==r?(e=Ji(n,a,t,i,r),n!==null&&(n=Sa(n),n!==null&&Qi(n)),e):(e.eventSystemFlags|=t,n=e.targetContainers,i!==null&&n.indexOf(i)===-1&&n.push(i),e)}function $u(e,n,a,t,i){switch(n){case"focusin":return ze=va(ze,e,n,a,t,i),!0;case"dragenter":return Qe=va(Qe,e,n,a,t,i),!0;case"mouseover":return _e=va(_e,e,n,a,t,i),!0;case"pointerover":var r=i.pointerId;return Ta.set(r,va(Ta.get(r)||null,e,n,a,t,i)),!0;case"gotpointercapture":return r=i.pointerId,Aa.set(r,va(Aa.get(r)||null,e,n,a,t,i)),!0}return!1}function ed(e){var n=kn(e.target);if(n!==null){var a=Sn(n);if(a!==null){if(n=a.tag,n===13){if(n=Vs(a),n!==null){e.blockedOn=n,no(e.lanePriority,function(){V.unstable_runWithPriority(e.priority,function(){eo(a)})});return}}else if(n===3&&a.stateNode.hydrate){e.blockedOn=a.tag===3?a.stateNode.containerInfo:null;return}}}e.blockedOn=null}function mt(e){if(e.blockedOn!==null)return!1;for(var n=e.targetContainers;0<n.length;){var a=Vi(e.domEventName,e.eventSystemFlags,n[0],e.nativeEvent);if(a!==null)return n=Sa(a),n!==null&&Qi(n),e.blockedOn=a,!1;n.shift()}return!0}function io(e,n,a){mt(e)&&a.delete(n)}function nd(){for(_i=!1;0<we.length;){var e=we[0];if(e.blockedOn!==null){e=Sa(e.blockedOn),e!==null&&$s(e);break}for(var n=e.targetContainers;0<n.length;){var a=Vi(e.domEventName,e.eventSystemFlags,n[0],e.nativeEvent);if(a!==null){e.blockedOn=a;break}n.shift()}e.blockedOn===null&&we.shift()}ze!==null&&mt(ze)&&(ze=null),Qe!==null&&mt(Qe)&&(Qe=null),_e!==null&&mt(_e)&&(_e=null),Ta.forEach(io),Aa.forEach(io)}function Ma(e,n){e.blockedOn===n&&(e.blockedOn=null,_i||(_i=!0,V.unstable_scheduleCallback(V.unstable_NormalPriority,nd)))}function ro(e){function n(i){return Ma(i,e)}if(0<we.length){Ma(we[0],e);for(var a=1;a<we.length;a++){var t=we[a];t.blockedOn===e&&(t.blockedOn=null)}}for(ze!==null&&Ma(ze,e),Qe!==null&&Ma(Qe,e),_e!==null&&Ma(_e,e),Ta.forEach(n),Aa.forEach(n),a=0;a<Ia.length;a++)t=Ia[a],t.blockedOn===e&&(t.blockedOn=null);for(;0<Ia.length&&(a=Ia[0],a.blockedOn===null);)ed(a),a.blockedOn===null&&Ia.shift()}function St(e,n){var a={};return a[e.toLowerCase()]=n.toLowerCase(),a["Webkit"+e]="webkit"+n,a["Moz"+e]="moz"+n,a}var Ln={animationend:St("Animation","AnimationEnd"),animationiteration:St("Animation","AnimationIteration"),animationstart:St("Animation","AnimationStart"),transitionend:St("Transition","TransitionEnd")},Zi={},so={};Be&&(so=document.createElement("div").style,"AnimationEvent"in window||(delete Ln.animationend.animation,delete Ln.animationiteration.animation,delete Ln.animationstart.animation),"TransitionEvent"in window||delete Ln.transitionend.transition);function kt(e){if(Zi[e])return Zi[e];if(!Ln[e])return e;var n=Ln[e],a;for(a in n)if(n.hasOwnProperty(a)&&a in so)return Zi[e]=n[a];return e}var oo=kt("animationend"),lo=kt("animationiteration"),uo=kt("animationstart"),co=kt("transitionend"),go=new Map,qi=new Map,ad=["abort","abort",oo,"animationEnd",lo,"animationIteration",uo,"animationStart","canplay","canPlay","canplaythrough","canPlayThrough","durationchange","durationChange","emptied","emptied","encrypted","encrypted","ended","ended","error","error","gotpointercapture","gotPointerCapture","load","load","loadeddata","loadedData","loadedmetadata","loadedMetadata","loadstart","loadStart","lostpointercapture","lostPointerCapture","playing","playing","progress","progress","seeking","seeking","stalled","stalled","suspend","suspend","timeupdate","timeUpdate",co,"transitionEnd","waiting","waiting"];function Xi(e,n){for(var a=0;a<e.length;a+=2){var t=e[a],i=e[a+1];i="on"+(i[0].toUpperCase()+i.slice(1)),qi.set(t,n),go.set(t,i),hn(i,[t])}}var td=V.unstable_now;td();var F=8;function Hn(e){if((1&e)!=0)return F=15,1;if((2&e)!=0)return F=14,2;if((4&e)!=0)return F=13,4;var n=24&e;return n!==0?(F=12,n):(e&32)!=0?(F=11,32):(n=192&e,n!==0?(F=10,n):(e&256)!=0?(F=9,256):(n=3584&e,n!==0?(F=8,n):(e&4096)!=0?(F=7,4096):(n=4186112&e,n!==0?(F=6,n):(n=62914560&e,n!==0?(F=5,n):e&67108864?(F=4,67108864):(e&134217728)!=0?(F=3,134217728):(n=805306368&e,n!==0?(F=2,n):(1073741824&e)!=0?(F=1,1073741824):(F=8,e))))))}function id(e){switch(e){case 99:return 15;case 98:return 10;case 97:case 96:return 8;case 95:return 2;default:return 0}}function rd(e){switch(e){case 15:case 14:return 99;case 13:case 12:case 11:case 10:return 98;case 9:case 8:case 7:case 6:case 4:case 5:return 97;case 3:case 2:case 1:return 95;case 0:return 90;default:throw Error(y(358,e))}}function Ea(e,n){var a=e.pendingLanes;if(a===0)return F=0;var t=0,i=0,r=e.expiredLanes,s=e.suspendedLanes,o=e.pingedLanes;if(r!==0)t=r,i=F=15;else if(r=a&134217727,r!==0){var l=r&~s;l!==0?(t=Hn(l),i=F):(o&=r,o!==0&&(t=Hn(o),i=F))}else r=a&~s,r!==0?(t=Hn(r),i=F):o!==0&&(t=Hn(o),i=F);if(t===0)return 0;if(t=31-Je(t),t=a&((0>t?0:1<<t)<<1)-1,n!==0&&n!==t&&(n&s)==0){if(Hn(n),i<=F)return n;F=i}if(n=e.entangledLanes,n!==0)for(e=e.entanglements,n&=t;0<n;)a=31-Je(n),i=1<<a,t|=e[a],n&=~i;return t}function ho(e){return e=e.pendingLanes&-1073741825,e!==0?e:e&1073741824?1073741824:0}function yt(e,n){switch(e){case 15:return 1;case 14:return 2;case 12:return e=Fn(24&~n),e===0?yt(10,n):e;case 10:return e=Fn(192&~n),e===0?yt(8,n):e;case 8:return e=Fn(3584&~n),e===0&&(e=Fn(4186112&~n),e===0&&(e=512)),e;case 2:return n=Fn(805306368&~n),n===0&&(n=268435456),n}throw Error(y(358,e))}function Fn(e){return e&-e}function $i(e){for(var n=[],a=0;31>a;a++)n.push(e);return n}function Tt(e,n,a){e.pendingLanes|=n;var t=n-1;e.suspendedLanes&=t,e.pingedLanes&=t,e=e.eventTimes,n=31-Je(n),e[n]=a}var Je=Math.clz32?Math.clz32:sd,od=Math.log,ld=Math.LN2;function sd(e){return e===0?32:31-(od(e)/ld|0)|0}var ud=V.unstable_UserBlockingPriority,dd=V.unstable_runWithPriority,At=!0;function cd(e,n,a,t){mn||bi();var i=er,r=mn;mn=!0;try{_s(i,e,n,a,t)}finally{(mn=r)||ji()}}function gd(e,n,a,t){dd(ud,er.bind(null,e,n,a,t))}function er(e,n,a,t){if(At){var i;if((i=(n&4)==0)&&0<we.length&&-1<ao.indexOf(e))e=Ji(null,e,n,a,t),we.push(e);else{var r=Vi(e,n,a,t);if(r===null)i&&to(e,t);else{if(i){if(-1<ao.indexOf(e)){e=Ji(r,e,n,a,t),we.push(e);return}if($u(r,e,n,a,t))return;to(e,t)}po(e,n,t,null,a)}}}}function Vi(e,n,a,t){var i=Li(t);if(i=kn(i),i!==null){var r=Sn(i);if(r===null)i=null;else{var s=r.tag;if(s===13){if(i=Vs(r),i!==null)return i;i=null}else if(s===3){if(r.stateNode.hydrate)return r.tag===3?r.stateNode.containerInfo:null;i=null}else r!==i&&(i=null)}}return po(e,n,t,i,a),null}var Ve=null,nr=null,It=null;function fo(){if(It)return It;var e,n=nr,a=n.length,t,i="value"in Ve?Ve.value:Ve.textContent,r=i.length;for(e=0;e<a&&n[e]===i[e];e++);var s=a-e;for(t=1;t<=s&&n[a-t]===i[r-t];t++);return It=i.slice(e,1<t?1-t:void 0)}function vt(e){var n=e.keyCode;return"charCode"in e?(e=e.charCode,e===0&&n===13&&(e=13)):e=n,e===10&&(e=13),32<=e||e===13?e:0}function Mt(){return!0}function mo(){return!1}function Se(e){function n(a,t,i,r,s){this._reactName=a,this._targetInst=i,this.type=t,this.nativeEvent=r,this.target=s,this.currentTarget=null;for(var o in e)e.hasOwnProperty(o)&&(a=e[o],this[o]=a?a(r):r[o]);return this.isDefaultPrevented=(r.defaultPrevented!=null?r.defaultPrevented:r.returnValue===!1)?Mt:mo,this.isPropagationStopped=mo,this}return L(n.prototype,{preventDefault:function(){this.defaultPrevented=!0;var a=this.nativeEvent;a&&(a.preventDefault?a.preventDefault():typeof a.returnValue!="unknown"&&(a.returnValue=!1),this.isDefaultPrevented=Mt)},stopPropagation:function(){var a=this.nativeEvent;a&&(a.stopPropagation?a.stopPropagation():typeof a.cancelBubble!="unknown"&&(a.cancelBubble=!0),this.isPropagationStopped=Mt)},persist:function(){},isPersistent:Mt}),n}var bn={eventPhase:0,bubbles:0,cancelable:0,timeStamp:function(e){return e.timeStamp||Date.now()},defaultPrevented:0,isTrusted:0},ar=Se(bn),Ca=L({},bn,{view:0,detail:0}),hd=Se(Ca),tr,ir,Wa,Et=L({},Ca,{screenX:0,screenY:0,clientX:0,clientY:0,pageX:0,pageY:0,ctrlKey:0,shiftKey:0,altKey:0,metaKey:0,getModifierState:rr,button:0,buttons:0,relatedTarget:function(e){return e.relatedTarget===void 0?e.fromElement===e.srcElement?e.toElement:e.fromElement:e.relatedTarget},movementX:function(e){return"movementX"in e?e.movementX:(e!==Wa&&(Wa&&e.type==="mousemove"?(tr=e.screenX-Wa.screenX,ir=e.screenY-Wa.screenY):ir=tr=0,Wa=e),tr)},movementY:function(e){return"movementY"in e?e.movementY:ir}}),So=Se(Et),pd=L({},Et,{dataTransfer:0}),fd=Se(pd),md=L({},Ca,{relatedTarget:0}),sr=Se(md),Sd=L({},bn,{animationName:0,elapsedTime:0,pseudoElement:0}),kd=Se(Sd),yd=L({},bn,{clipboardData:function(e){return"clipboardData"in e?e.clipboardData:window.clipboardData}}),Td=Se(yd),Ad=L({},bn,{data:0}),ko=Se(Ad),Id={Esc:"Escape",Spacebar:" ",Left:"ArrowLeft",Up:"ArrowUp",Right:"ArrowRight",Down:"ArrowDown",Del:"Delete",Win:"OS",Menu:"ContextMenu",Apps:"ContextMenu",Scroll:"ScrollLock",MozPrintableKey:"Unidentified"},vd={8:"Backspace",9:"Tab",12:"Clear",13:"Enter",16:"Shift",17:"Control",18:"Alt",19:"Pause",20:"CapsLock",27:"Escape",32:" ",33:"PageUp",34:"PageDown",35:"End",36:"Home",37:"ArrowLeft",38:"ArrowUp",39:"ArrowRight",40:"ArrowDown",45:"Insert",46:"Delete",112:"F1",113:"F2",114:"F3",115:"F4",116:"F5",117:"F6",118:"F7",119:"F8",120:"F9",121:"F10",122:"F11",123:"F12",144:"NumLock",145:"ScrollLock",224:"Meta"},Md={Alt:"altKey",Control:"ctrlKey",Meta:"metaKey",Shift:"shiftKey"};function Ed(e){var n=this.nativeEvent;return n.getModifierState?n.getModifierState(e):(e=Md[e])?!!n[e]:!1}function rr(){return Ed}var Cd=L({},Ca,{key:function(e){if(e.key){var n=Id[e.key]||e.key;if(n!=="Unidentified")return n}return e.type==="keypress"?(e=vt(e),e===13?"Enter":String.fromCharCode(e)):e.type==="keydown"||e.type==="keyup"?vd[e.keyCode]||"Unidentified":""},code:0,location:0,ctrlKey:0,shiftKey:0,altKey:0,metaKey:0,repeat:0,locale:0,getModifierState:rr,charCode:function(e){return e.type==="keypress"?vt(e):0},keyCode:function(e){return e.type==="keydown"||e.type==="keyup"?e.keyCode:0},which:function(e){return e.type==="keypress"?vt(e):e.type==="keydown"||e.type==="keyup"?e.keyCode:0}}),Wd=Se(Cd),wd=L({},Et,{pointerId:0,width:0,height:0,pressure:0,tangentialPressure:0,tiltX:0,tiltY:0,twist:0,pointerType:0,isPrimary:0}),yo=Se(wd),Od=L({},Ca,{touches:0,targetTouches:0,changedTouches:0,altKey:0,metaKey:0,ctrlKey:0,shiftKey:0,getModifierState:rr}),Pd=Se(Od),Nd=L({},bn,{propertyName:0,elapsedTime:0,pseudoElement:0}),Kd=Se(Nd),Gd=L({},Et,{deltaX:function(e){return"deltaX"in e?e.deltaX:"wheelDeltaX"in e?-e.wheelDeltaX:0},deltaY:function(e){return"deltaY"in e?e.deltaY:"wheelDeltaY"in e?-e.wheelDeltaY:"wheelDelta"in e?-e.wheelDelta:0},deltaZ:0,deltaMode:0}),Ud=Se(Gd),Bd=[9,13,27,32],or=Be&&"CompositionEvent"in window,wa=null;Be&&"documentMode"in document&&(wa=document.documentMode);var Dd=Be&&"TextEvent"in window&&!wa,To=Be&&(!or||wa&&8<wa&&11>=wa),Ao=String.fromCharCode(32),Io=!1;function vo(e,n){switch(e){case"keyup":return Bd.indexOf(n.keyCode)!==-1;case"keydown":return n.keyCode!==229;case"keypress":case"mousedown":case"focusout":return!0;default:return!1}}function Mo(e){return e=e.detail,typeof e=="object"&&"data"in e?e.data:null}var Yn=!1;function Rd(e,n){switch(e){case"compositionend":return Mo(n);case"keypress":return n.which!==32?null:(Io=!0,Ao);case"textInput":return e=n.data,e===Ao&&Io?null:e;default:return null}}function Ld(e,n){if(Yn)return e==="compositionend"||!or&&vo(e,n)?(e=fo(),It=nr=Ve=null,Yn=!1,e):null;switch(e){case"paste":return null;case"keypress":if(!(n.ctrlKey||n.altKey||n.metaKey)||n.ctrlKey&&n.altKey){if(n.char&&1<n.char.length)return n.char;if(n.which)return String.fromCharCode(n.which)}return null;case"compositionend":return To&&n.locale!=="ko"?null:n.data;default:return null}}var Hd={color:!0,date:!0,datetime:!0,"datetime-local":!0,email:!0,month:!0,number:!0,password:!0,range:!0,search:!0,tel:!0,text:!0,time:!0,url:!0,week:!0};function Eo(e){var n=e&&e.nodeName&&e.nodeName.toLowerCase();return n==="input"?!!Hd[e.type]:n==="textarea"}function Co(e,n,a,t){zs(t),n=Ct(n,"onChange"),0<n.length&&(a=new ar("onChange","change",null,a,t),e.push({event:a,listeners:n}))}var Oa=null,Pa=null;function Fd(e){Wo(e,0)}function Wt(e){var n=jn(e);if(Gs(n))return e}function bd(e,n){if(e==="change")return n}var wo=!1;Be&&(Be?(Ot="oninput"in document,Ot||(lr=document.createElement("div"),lr.setAttribute("oninput","return;"),Ot=typeof lr.oninput=="function"),wt=Ot):wt=!1,wo=wt&&(!document.documentMode||9<document.documentMode));var wt,Ot,lr;function Po(){Oa&&(Oa.detachEvent("onpropertychange",Oo),Pa=Oa=null)}function Oo(e){if(e.propertyName==="value"&&Wt(Pa)){var n=[];if(Co(n,Pa,e,Li(e)),e=Fd,mn)e(n);else{mn=!0;try{Fi(e,n)}finally{mn=!1,ji()}}}}function Yd(e,n,a){e==="focusin"?(Po(),Oa=n,Pa=a,Oa.attachEvent("onpropertychange",Oo)):e==="focusout"&&Po()}function jd(e){if(e==="selectionchange"||e==="keyup"||e==="keydown")return Wt(Pa)}function xd(e,n){if(e==="click")return Wt(n)}function zd(e,n){if(e==="input"||e==="change")return Wt(n)}function Qd(e,n){return e===n&&(e!==0||1/e==1/n)||e!==e&&n!==n}var ye=typeof Object.is=="function"?Object.is:Qd,_d=Object.prototype.hasOwnProperty;function Na(e,n){if(ye(e,n))return!0;if(typeof e!="object"||e===null||typeof n!="object"||n===null)return!1;var a=Object.keys(e),t=Object.keys(n);if(a.length!==t.length)return!1;for(t=0;t<a.length;t++)if(!_d.call(n,a[t])||!ye(e[a[t]],n[a[t]]))return!1;return!0}function No(e){for(;e&&e.firstChild;)e=e.firstChild;return e}function Ko(e,n){var a=No(e);e=0;for(var t;a;){if(a.nodeType===3){if(t=e+a.textContent.length,e<=n&&t>=n)return{node:a,offset:n-e};e=t}e:{for(;a;){if(a.nextSibling){a=a.nextSibling;break e}a=a.parentNode}a=void 0}a=No(a)}}function Go(e,n){return e&&n?e===n?!0:e&&e.nodeType===3?!1:n&&n.nodeType===3?Go(e,n.parentNode):"contains"in e?e.contains(n):e.compareDocumentPosition?!!(e.compareDocumentPosition(n)&16):!1:!1}function Uo(){for(var e=window,n=ct();n instanceof e.HTMLIFrameElement;){try{var a=typeof n.contentWindow.location.href=="string"}catch(t){a=!1}if(a)e=n.contentWindow;else break;n=ct(e.document)}return n}function ur(e){var n=e&&e.nodeName&&e.nodeName.toLowerCase();return n&&(n==="input"&&(e.type==="text"||e.type==="search"||e.type==="tel"||e.type==="url"||e.type==="password")||n==="textarea"||e.contentEditable==="true")}var Jd=Be&&"documentMode"in document&&11>=document.documentMode,xn=null,dr=null,Ka=null,cr=!1;function Bo(e,n,a){var t=a.window===a?a.document:a.nodeType===9?a:a.ownerDocument;cr||xn==null||xn!==ct(t)||(t=xn,"selectionStart"in t&&ur(t)?t={start:t.selectionStart,end:t.selectionEnd}:(t=(t.ownerDocument&&t.ownerDocument.defaultView||window).getSelection(),t={anchorNode:t.anchorNode,anchorOffset:t.anchorOffset,focusNode:t.focusNode,focusOffset:t.focusOffset}),Ka&&Na(Ka,t)||(Ka=t,t=Ct(dr,"onSelect"),0<t.length&&(n=new ar("onSelect","select",null,n,a),e.push({event:n,listeners:t}),n.target=xn)))}Xi("cancel cancel click click close close contextmenu contextMenu copy copy cut cut auxclick auxClick dblclick doubleClick dragend dragEnd dragstart dragStart drop drop focusin focus focusout blur input input invalid invalid keydown keyDown keypress keyPress keyup keyUp mousedown mouseDown mouseup mouseUp paste paste pause pause play play pointercancel pointerCancel pointerdown pointerDown pointerup pointerUp ratechange rateChange reset reset seeked seeked submit submit touchcancel touchCancel touchend touchEnd touchstart touchStart volumechange volumeChange".split(" "),0);Xi("drag drag dragenter dragEnter dragexit dragExit dragleave dragLeave dragover dragOver mousemove mouseMove mouseout mouseOut mouseover mouseOver pointermove pointerMove pointerout pointerOut pointerover pointerOver scroll scroll toggle toggle touchmove touchMove wheel wheel".split(" "),1);Xi(ad,2);for(var Do="change selectionchange textInput compositionstart compositionend compositionupdate".split(" "),gr=0;gr<Do.length;gr++)qi.set(Do[gr],0);Kn("onMouseEnter",["mouseout","mouseover"]);Kn("onMouseLeave",["mouseout","mouseover"]);Kn("onPointerEnter",["pointerout","pointerover"]);Kn("onPointerLeave",["pointerout","pointerover"]);hn("onChange","change click focusin focusout input keydown keyup selectionchange".split(" "));hn("onSelect","focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange".split(" "));hn("onBeforeInput",["compositionend","keypress","textInput","paste"]);hn("onCompositionEnd","compositionend focusout keydown keypress keyup mousedown".split(" "));hn("onCompositionStart","compositionstart focusout keydown keypress keyup mousedown".split(" "));hn("onCompositionUpdate","compositionupdate focusout keydown keypress keyup mousedown".split(" "));var Ga="abort canplay canplaythrough durationchange emptied encrypted ended error loadeddata loadedmetadata loadstart pause play playing progress ratechange seeked seeking stalled suspend timeupdate volumechange waiting".split(" "),Ro=new Set("cancel close invalid load scroll toggle".split(" ").concat(Ga));function Lo(e,n,a){var t=e.type||"unknown-event";e.currentTarget=a,qu(t,n,void 0,e),e.currentTarget=null}function Wo(e,n){n=(n&4)!=0;for(var a=0;a<e.length;a++){var t=e[a],i=t.event;t=t.listeners;e:{var r=void 0;if(n)for(var s=t.length-1;0<=s;s--){var o=t[s],l=o.instance,d=o.currentTarget;if(o=o.listener,l!==r&&i.isPropagationStopped())break e;Lo(i,o,d),r=l}else for(s=0;s<t.length;s++){if(o=t[s],l=o.instance,d=o.currentTarget,o=o.listener,l!==r&&i.isPropagationStopped())break e;Lo(i,o,d),r=l}}}if(ft)throw e=zi,ft=!1,zi=null,e}function b(e,n){var a=Fo(n),t=e+"__bubble";a.has(t)||(Ho(n,e,2,!1),a.add(t))}var bo="_reactListening"+Math.random().toString(36).slice(2);function jo(e){e[bo]||(e[bo]=!0,Cs.forEach(function(n){Ro.has(n)||Yo(n,!1,e,null),Yo(n,!0,e,null)}))}function Yo(e,n,a,t){var i=4<arguments.length&&arguments[4]!==void 0?arguments[4]:0,r=a;if(e==="selectionchange"&&a.nodeType!==9&&(r=a.ownerDocument),t!==null&&!n&&Ro.has(e)){if(e!=="scroll")return;i|=2,r=t}var s=Fo(r),o=e+"__"+(n?"capture":"bubble");s.has(o)||(n&&(i|=4),Ho(r,e,i,n),s.add(o))}function Ho(e,n,a,t){var i=qi.get(n);switch(i===void 0?2:i){case 0:i=cd;break;case 1:i=gd;break;default:i=er}a=i.bind(null,n,a,e),i=void 0,!xi||n!=="touchstart"&&n!=="touchmove"&&n!=="wheel"||(i=!0),t?i!==void 0?e.addEventListener(n,a,{capture:!0,passive:i}):e.addEventListener(n,a,!0):i!==void 0?e.addEventListener(n,a,{passive:i}):e.addEventListener(n,a,!1)}function po(e,n,a,t,i){var r=t;if((n&1)==0&&(n&2)==0&&t!==null)e:for(;;){if(t===null)return;var s=t.tag;if(s===3||s===4){var o=t.stateNode.containerInfo;if(o===i||o.nodeType===8&&o.parentNode===i)break;if(s===4)for(s=t.return;s!==null;){var l=s.tag;if((l===3||l===4)&&(l=s.stateNode.containerInfo,l===i||l.nodeType===8&&l.parentNode===i))return;s=s.return}for(;o!==null;){if(s=kn(o),s===null)return;if(l=s.tag,l===5||l===6){t=r=s;continue e}o=o.parentNode}}t=t.return}_u(function(){var d=r,S=Li(a),v=[];e:{var f=go.get(e);if(f!==void 0){var A=ar,O=e;switch(e){case"keypress":if(vt(a)===0)break e;case"keydown":case"keyup":A=Wd;break;case"focusin":O="focus",A=sr;break;case"focusout":O="blur",A=sr;break;case"beforeblur":case"afterblur":A=sr;break;case"click":if(a.button===2)break e;case"auxclick":case"dblclick":case"mousedown":case"mousemove":case"mouseup":case"mouseout":case"mouseover":case"contextmenu":A=So;break;case"drag":case"dragend":case"dragenter":case"dragexit":case"dragleave":case"dragover":case"dragstart":case"drop":A=fd;break;case"touchcancel":case"touchend":case"touchmove":case"touchstart":A=Pd;break;case oo:case lo:case uo:A=kd;break;case co:A=Kd;break;case"scroll":A=hd;break;case"wheel":A=Ud;break;case"copy":case"cut":case"paste":A=Td;break;case"gotpointercapture":case"lostpointercapture":case"pointercancel":case"pointerdown":case"pointermove":case"pointerout":case"pointerover":case"pointerup":A=yo}var C=(n&4)!=0,g=!C&&e==="scroll",u=C?f!==null?f+"Capture":null:f;C=[];for(var c=d,p;c!==null;){p=c;var m=p.stateNode;if(p.tag===5&&m!==null&&(p=m,u!==null&&(m=ka(c,u),m!=null&&C.push(Ua(c,m,p)))),g)break;c=c.return}0<C.length&&(f=new A(f,O,null,a,S),v.push({event:f,listeners:C}))}}if((n&7)==0){e:{if(f=e==="mouseover"||e==="pointerover",A=e==="mouseout"||e==="pointerout",f&&(n&16)==0&&(O=a.relatedTarget||a.fromElement)&&(kn(O)||O[Qn]))break e;if((A||f)&&(f=S.window===S?S:(f=S.ownerDocument)?f.defaultView||f.parentWindow:window,A?(O=a.relatedTarget||a.toElement,A=d,O=O?kn(O):null,O!==null&&(g=Sn(O),O!==g||O.tag!==5&&O.tag!==6)&&(O=null)):(A=null,O=d),A!==O)){if(C=So,m="onMouseLeave",u="onMouseEnter",c="mouse",(e==="pointerout"||e==="pointerover")&&(C=yo,m="onPointerLeave",u="onPointerEnter",c="pointer"),g=A==null?f:jn(A),p=O==null?f:jn(O),f=new C(m,c+"leave",A,a,S),f.target=g,f.relatedTarget=p,m=null,kn(S)===d&&(C=new C(u,c+"enter",O,a,S),C.target=p,C.relatedTarget=g,m=C),g=m,A&&O)n:{for(C=A,u=O,c=0,p=C;p;p=zn(p))c++;for(p=0,m=u;m;m=zn(m))p++;for(;0<c-p;)C=zn(C),c--;for(;0<p-c;)u=zn(u),p--;for(;c--;){if(C===u||u!==null&&C===u.alternate)break n;C=zn(C),u=zn(u)}C=null}else C=null;A!==null&&xo(v,f,A,C,!1),O!==null&&g!==null&&xo(v,g,O,C,!0)}}e:{if(f=d?jn(d):window,A=f.nodeName&&f.nodeName.toLowerCase(),A==="select"||A==="input"&&f.type==="file")var P=bd;else if(Eo(f))if(wo)P=zd;else{P=jd;var I=Yd}else(A=f.nodeName)&&A.toLowerCase()==="input"&&(f.type==="checkbox"||f.type==="radio")&&(P=xd);if(P&&(P=P(e,d))){Co(v,P,a,S);break e}I&&I(e,f,d),e==="focusout"&&(I=f._wrapperState)&&I.controlled&&f.type==="number"&&Pi(f,"number",f.value)}switch(I=d?jn(d):window,e){case"focusin":(Eo(I)||I.contentEditable==="true")&&(xn=I,dr=d,Ka=null);break;case"focusout":Ka=dr=xn=null;break;case"mousedown":cr=!0;break;case"contextmenu":case"mouseup":case"dragend":cr=!1,Bo(v,a,S);break;case"selectionchange":if(Jd)break;case"keydown":case"keyup":Bo(v,a,S)}var W;if(or)e:{switch(e){case"compositionstart":var K="onCompositionStart";break e;case"compositionend":K="onCompositionEnd";break e;case"compositionupdate":K="onCompositionUpdate";break e}K=void 0}else Yn?vo(e,a)&&(K="onCompositionEnd"):e==="keydown"&&a.keyCode===229&&(K="onCompositionStart");K&&(To&&a.locale!=="ko"&&(Yn||K!=="onCompositionStart"?K==="onCompositionEnd"&&Yn&&(W=fo()):(Ve=S,nr="value"in Ve?Ve.value:Ve.textContent,Yn=!0)),I=Ct(d,K),0<I.length&&(K=new ko(K,e,null,a,S),v.push({event:K,listeners:I}),W?K.data=W:(W=Mo(a),W!==null&&(K.data=W)))),(W=Dd?Rd(e,a):Ld(e,a))&&(d=Ct(d,"onBeforeInput"),0<d.length&&(S=new ko("onBeforeInput","beforeinput",null,a,S),v.push({event:S,listeners:d}),S.data=W))}Wo(v,n)})}function Ua(e,n,a){return{instance:e,listener:n,currentTarget:a}}function Ct(e,n){for(var a=n+"Capture",t=[];e!==null;){var i=e,r=i.stateNode;i.tag===5&&r!==null&&(i=r,r=ka(e,a),r!=null&&t.unshift(Ua(e,r,i)),r=ka(e,n),r!=null&&t.push(Ua(e,r,i))),e=e.return}return t}function zn(e){if(e===null)return null;do e=e.return;while(e&&e.tag!==5);return e||null}function xo(e,n,a,t,i){for(var r=n._reactName,s=[];a!==null&&a!==t;){var o=a,l=o.alternate,d=o.stateNode;if(l!==null&&l===t)break;o.tag===5&&d!==null&&(o=d,i?(l=ka(a,r),l!=null&&s.unshift(Ua(a,l,o))):i||(l=ka(a,r),l!=null&&s.push(Ua(a,l,o)))),a=a.return}s.length!==0&&e.push({event:n,listeners:s})}function Pt(){}var hr=null,pr=null;function zo(e,n){switch(e){case"button":case"input":case"select":case"textarea":return!!n.autoFocus}return!1}function fr(e,n){return e==="textarea"||e==="option"||e==="noscript"||typeof n.children=="string"||typeof n.children=="number"||typeof n.dangerouslySetInnerHTML=="object"&&n.dangerouslySetInnerHTML!==null&&n.dangerouslySetInnerHTML.__html!=null}var Qo=typeof setTimeout=="function"?setTimeout:void 0,Vd=typeof clearTimeout=="function"?clearTimeout:void 0;function mr(e){e.nodeType===1?e.textContent="":e.nodeType===9&&(e=e.body,e!=null&&(e.textContent=""))}function _n(e){for(;e!=null;e=e.nextSibling){var n=e.nodeType;if(n===1||n===3)break}return e}function _o(e){e=e.previousSibling;for(var n=0;e;){if(e.nodeType===8){var a=e.data;if(a==="$"||a==="$!"||a==="$?"){if(n===0)return e;n--}else a==="/$"&&n++}e=e.previousSibling}return null}var Sr=0;function Zd(e){return{$$typeof:Mi,toString:e,valueOf:e}}var Nt=Math.random().toString(36).slice(2),Ze="__reactFiber$"+Nt,Kt="__reactProps$"+Nt,Qn="__reactContainer$"+Nt,Jo="__reactEvents$"+Nt;function kn(e){var n=e[Ze];if(n)return n;for(var a=e.parentNode;a;){if(n=a[Qn]||a[Ze]){if(a=n.alternate,n.child!==null||a!==null&&a.child!==null)for(e=_o(e);e!==null;){if(a=e[Ze])return a;e=_o(e)}return n}e=a,a=e.parentNode}return null}function Sa(e){return e=e[Ze]||e[Qn],!e||e.tag!==5&&e.tag!==6&&e.tag!==13&&e.tag!==3?null:e}function jn(e){if(e.tag===5||e.tag===6)return e.stateNode;throw Error(y(33))}function ht(e){return e[Kt]||null}function Fo(e){var n=e[Jo];return n===void 0&&(n=e[Jo]=new Set),n}var kr=[],Jn=-1;function qe(e){return{current:e}}function Y(e){0>Jn||(e.current=kr[Jn],kr[Jn]=null,Jn--)}function z(e,n){Jn++,kr[Jn]=e.current,e.current=n}var Xe={},re=qe(Xe),he=qe(!1),yn=Xe;function Vn(e,n){var a=e.type.contextTypes;if(!a)return Xe;var t=e.stateNode;if(t&&t.__reactInternalMemoizedUnmaskedChildContext===n)return t.__reactInternalMemoizedMaskedChildContext;var i={},r;for(r in a)i[r]=n[r];return t&&(e=e.stateNode,e.__reactInternalMemoizedUnmaskedChildContext=n,e.__reactInternalMemoizedMaskedChildContext=i),i}function pe(e){return e=e.childContextTypes,e!=null}function Gt(){Y(he),Y(re)}function Vo(e,n,a){if(re.current!==Xe)throw Error(y(168));z(re,n),z(he,a)}function Zo(e,n,a){var t=e.stateNode;if(e=n.childContextTypes,typeof t.getChildContext!="function")return a;t=t.getChildContext();for(var i in t)if(!(i in e))throw Error(y(108,Gn(n)||"Unknown",i));return L({},a,t)}function Ut(e){return e=(e=e.stateNode)&&e.__reactInternalMemoizedMergedChildContext||Xe,yn=re.current,z(re,e),z(he,he.current),!0}function qo(e,n,a){var t=e.stateNode;if(!t)throw Error(y(169));a?(e=Zo(e,n,yn),t.__reactInternalMemoizedMergedChildContext=e,Y(he),Y(re),z(re,e)):Y(he),z(he,a)}var yr=null,Tn=null,qd=V.unstable_runWithPriority,Tr=V.unstable_scheduleCallback,Ar=V.unstable_cancelCallback,Xd=V.unstable_shouldYield,Xo=V.unstable_requestPaint,Ir=V.unstable_now,$d=V.unstable_getCurrentPriorityLevel,Bt=V.unstable_ImmediatePriority,$o=V.unstable_UserBlockingPriority,el=V.unstable_NormalPriority,nl=V.unstable_LowPriority,al=V.unstable_IdlePriority,vr={},ec=Xo!==void 0?Xo:function(){},De=null,Dt=null,Mr=!1,tl=Ir(),se=1e4>tl?Ir:function(){return Ir()-tl};function Zn(){switch($d()){case Bt:return 99;case $o:return 98;case el:return 97;case nl:return 96;case al:return 95;default:throw Error(y(332))}}function il(e){switch(e){case 99:return Bt;case 98:return $o;case 97:return el;case 96:return nl;case 95:return al;default:throw Error(y(332))}}function An(e,n){return e=il(e),qd(e,n)}function Ba(e,n,a){return e=il(e),Tr(e,n,a)}function Oe(){if(Dt!==null){var e=Dt;Dt=null,Ar(e)}rl()}function rl(){if(!Mr&&De!==null){Mr=!0;var e=0;try{var n=De;An(99,function(){for(;e<n.length;e++){var a=n[e];do a=a(!0);while(a!==null)}}),De=null}catch(a){throw De!==null&&(De=De.slice(e+1)),Tr(Bt,Oe),a}finally{Mr=!1}}}var nc=pn.ReactCurrentBatchConfig;function Me(e,n){if(e&&e.defaultProps){n=L({},n),e=e.defaultProps;for(var a in e)n[a]===void 0&&(n[a]=e[a]);return n}return n}var Rt=qe(null),Lt=null,qn=null,Ht=null;function Er(){Ht=qn=Lt=null}function Cr(e){var n=Rt.current;Y(Rt),e.type._context._currentValue=n}function sl(e,n){for(;e!==null;){var a=e.alternate;if((e.childLanes&n)===n){if(a===null||(a.childLanes&n)===n)break;a.childLanes|=n}else e.childLanes|=n,a!==null&&(a.childLanes|=n);e=e.return}}function Xn(e,n){Lt=e,Ht=qn=null,e=e.dependencies,e!==null&&e.firstContext!==null&&((e.lanes&n)!=0&&(Ee=!0),e.firstContext=null)}function Te(e,n){if(Ht!==e&&n!==!1&&n!==0)if((typeof n!="number"||n===1073741823)&&(Ht=e,n=1073741823),n={context:e,observedBits:n,next:null},qn===null){if(Lt===null)throw Error(y(308));qn=n,Lt.dependencies={lanes:0,firstContext:n,responders:null}}else qn=qn.next=n;return e._currentValue}var $e=!1;function Wr(e){e.updateQueue={baseState:e.memoizedState,firstBaseUpdate:null,lastBaseUpdate:null,shared:{pending:null},effects:null}}function ol(e,n){e=e.updateQueue,n.updateQueue===e&&(n.updateQueue={baseState:e.baseState,firstBaseUpdate:e.firstBaseUpdate,lastBaseUpdate:e.lastBaseUpdate,shared:e.shared,effects:e.effects})}function en(e,n){return{eventTime:e,lane:n,tag:0,payload:null,callback:null,next:null}}function nn(e,n){if(e=e.updateQueue,e!==null){e=e.shared;var a=e.pending;a===null?n.next=n:(n.next=a.next,a.next=n),e.pending=n}}function ll(e,n){var a=e.updateQueue,t=e.alternate;if(t!==null&&(t=t.updateQueue,a===t)){var i=null,r=null;if(a=a.firstBaseUpdate,a!==null){do{var s={eventTime:a.eventTime,lane:a.lane,tag:a.tag,payload:a.payload,callback:a.callback,next:null};r===null?i=r=s:r=r.next=s,a=a.next}while(a!==null);r===null?i=r=n:r=r.next=n}else i=r=n;a={baseState:t.baseState,firstBaseUpdate:i,lastBaseUpdate:r,shared:t.shared,effects:t.effects},e.updateQueue=a;return}e=a.lastBaseUpdate,e===null?a.firstBaseUpdate=n:e.next=n,a.lastBaseUpdate=n}function Ra(e,n,a,t){var i=e.updateQueue;$e=!1;var r=i.firstBaseUpdate,s=i.lastBaseUpdate,o=i.shared.pending;if(o!==null){i.shared.pending=null;var l=o,d=l.next;l.next=null,s===null?r=d:s.next=d,s=l;var S=e.alternate;if(S!==null){S=S.updateQueue;var v=S.lastBaseUpdate;v!==s&&(v===null?S.firstBaseUpdate=d:v.next=d,S.lastBaseUpdate=l)}}if(r!==null){v=i.baseState,s=0,S=d=l=null;do{o=r.lane;var f=r.eventTime;if((t&o)===o){S!==null&&(S=S.next={eventTime:f,lane:0,tag:r.tag,payload:r.payload,callback:r.callback,next:null});e:{var A=e,O=r;switch(o=n,f=a,O.tag){case 1:if(A=O.payload,typeof A=="function"){v=A.call(f,v,o);break e}v=A;break e;case 3:A.flags=A.flags&-4097|64;case 0:if(A=O.payload,o=typeof A=="function"?A.call(f,v,o):A,o==null)break e;v=L({},v,o);break e;case 2:$e=!0}}r.callback!==null&&(e.flags|=32,o=i.effects,o===null?i.effects=[r]:o.push(r))}else f={eventTime:f,lane:o,tag:r.tag,payload:r.payload,callback:r.callback,next:null},S===null?(d=S=f,l=v):S=S.next=f,s|=o;if(r=r.next,r===null){if(o=i.shared.pending,o===null)break;r=o.next,o.next=null,i.lastBaseUpdate=o,i.shared.pending=null}}while(1);S===null&&(l=v),i.baseState=l,i.firstBaseUpdate=d,i.lastBaseUpdate=S,Da|=s,e.lanes=s,e.memoizedState=v}}function ul(e,n,a){if(e=n.effects,n.effects=null,e!==null)for(n=0;n<e.length;n++){var t=e[n],i=t.callback;if(i!==null){if(t.callback=null,t=a,typeof i!="function")throw Error(y(191,i));i.call(t)}}}var dl=new R.Component().refs;function Ft(e,n,a,t){n=e.memoizedState,a=a(t,n),a=a==null?n:L({},n,a),e.memoizedState=a,e.lanes===0&&(e.updateQueue.baseState=a)}var bt={isMounted:function(e){return(e=e._reactInternals)?Sn(e)===e:!1},enqueueSetState:function(e,n,a){e=e._reactInternals;var t=ke(),i=an(e),r=en(t,i);r.payload=n,a!=null&&(r.callback=a),nn(e,r),tn(e,i,t)},enqueueReplaceState:function(e,n,a){e=e._reactInternals;var t=ke(),i=an(e),r=en(t,i);r.tag=1,r.payload=n,a!=null&&(r.callback=a),nn(e,r),tn(e,i,t)},enqueueForceUpdate:function(e,n){e=e._reactInternals;var a=ke(),t=an(e),i=en(a,t);i.tag=2,n!=null&&(i.callback=n),nn(e,i),tn(e,t,a)}};function cl(e,n,a,t,i,r,s){return e=e.stateNode,typeof e.shouldComponentUpdate=="function"?e.shouldComponentUpdate(t,r,s):n.prototype&&n.prototype.isPureReactComponent?!Na(a,t)||!Na(i,r):!0}function gl(e,n,a){var t=!1,i=Xe,r=n.contextType;return typeof r=="object"&&r!==null?r=Te(r):(i=pe(n)?yn:re.current,t=n.contextTypes,r=(t=t!=null)?Vn(e,i):Xe),n=new n(a,r),e.memoizedState=n.state!==null&&n.state!==void 0?n.state:null,n.updater=bt,e.stateNode=n,n._reactInternals=e,t&&(e=e.stateNode,e.__reactInternalMemoizedUnmaskedChildContext=i,e.__reactInternalMemoizedMaskedChildContext=r),n}function hl(e,n,a,t){e=n.state,typeof n.componentWillReceiveProps=="function"&&n.componentWillReceiveProps(a,t),typeof n.UNSAFE_componentWillReceiveProps=="function"&&n.UNSAFE_componentWillReceiveProps(a,t),n.state!==e&&bt.enqueueReplaceState(n,n.state,null)}function wr(e,n,a,t){var i=e.stateNode;i.props=a,i.state=e.memoizedState,i.refs=dl,Wr(e);var r=n.contextType;typeof r=="object"&&r!==null?i.context=Te(r):(r=pe(n)?yn:re.current,i.context=Vn(e,r)),Ra(e,a,i,t),i.state=e.memoizedState,r=n.getDerivedStateFromProps,typeof r=="function"&&(Ft(e,n,r,a),i.state=e.memoizedState),typeof n.getDerivedStateFromProps=="function"||typeof i.getSnapshotBeforeUpdate=="function"||typeof i.UNSAFE_componentWillMount!="function"&&typeof i.componentWillMount!="function"||(n=i.state,typeof i.componentWillMount=="function"&&i.componentWillMount(),typeof i.UNSAFE_componentWillMount=="function"&&i.UNSAFE_componentWillMount(),n!==i.state&&bt.enqueueReplaceState(i,i.state,null),Ra(e,a,i,t),i.state=e.memoizedState),typeof i.componentDidMount=="function"&&(e.flags|=4)}var Yt=Array.isArray;function La(e,n,a){if(e=a.ref,e!==null&&typeof e!="function"&&typeof e!="object"){if(a._owner){if(a=a._owner,a){if(a.tag!==1)throw Error(y(309));var t=a.stateNode}if(!t)throw Error(y(147,e));var i=""+e;return n!==null&&n.ref!==null&&typeof n.ref=="function"&&n.ref._stringRef===i?n.ref:(n=function(r){var s=t.refs;s===dl&&(s=t.refs={}),r===null?delete s[i]:s[i]=r},n._stringRef=i,n)}if(typeof e!="string")throw Error(y(284));if(!a._owner)throw Error(y(290,e))}return e}function jt(e,n){if(e.type!=="textarea")throw Error(y(31,Object.prototype.toString.call(n)==="[object Object]"?"object with keys {"+Object.keys(n).join(", ")+"}":n))}function pl(e){function n(g,u){if(e){var c=g.lastEffect;c!==null?(c.nextEffect=u,g.lastEffect=u):g.firstEffect=g.lastEffect=u,u.nextEffect=null,u.flags=8}}function a(g,u){if(!e)return null;for(;u!==null;)n(g,u),u=u.sibling;return null}function t(g,u){for(g=new Map;u!==null;)u.key!==null?g.set(u.key,u):g.set(u.index,u),u=u.sibling;return g}function i(g,u){return g=rn(g,u),g.index=0,g.sibling=null,g}function r(g,u,c){return g.index=c,e?(c=g.alternate,c!==null?(c=c.index,c<u?(g.flags=2,u):c):(g.flags=2,u)):u}function s(g){return e&&g.alternate===null&&(g.flags=2),g}function o(g,u,c,p){return u===null||u.tag!==6?(u=Or(c,g.mode,p),u.return=g,u):(u=i(u,c),u.return=g,u)}function l(g,u,c,p){return u!==null&&u.elementType===c.type?(p=i(u,c.props),p.ref=La(g,u,c),p.return=g,p):(p=xt(c.type,c.key,c.props,null,g.mode,p),p.ref=La(g,u,c),p.return=g,p)}function d(g,u,c,p){return u===null||u.tag!==4||u.stateNode.containerInfo!==c.containerInfo||u.stateNode.implementation!==c.implementation?(u=Pr(c,g.mode,p),u.return=g,u):(u=i(u,c.children||[]),u.return=g,u)}function S(g,u,c,p,m){return u===null||u.tag!==7?(u=$n(c,g.mode,p,m),u.return=g,u):(u=i(u,c),u.return=g,u)}function v(g,u,c){if(typeof u=="string"||typeof u=="number")return u=Or(""+u,g.mode,c),u.return=g,u;if(typeof u=="object"&&u!==null){switch(u.$$typeof){case da:return c=xt(u.type,u.key,u.props,null,g.mode,c),c.ref=La(g,null,u),c.return=g,c;case fn:return u=Pr(u,g.mode,c),u.return=g,u}if(Yt(u)||ha(u))return u=$n(u,g.mode,c,null),u.return=g,u;jt(g,u)}return null}function f(g,u,c,p){var m=u!==null?u.key:null;if(typeof c=="string"||typeof c=="number")return m!==null?null:o(g,u,""+c,p);if(typeof c=="object"&&c!==null){switch(c.$$typeof){case da:return c.key===m?c.type===je?S(g,u,c.props.children,p,m):l(g,u,c,p):null;case fn:return c.key===m?d(g,u,c,p):null}if(Yt(c)||ha(c))return m!==null?null:S(g,u,c,p,null);jt(g,c)}return null}function A(g,u,c,p,m){if(typeof p=="string"||typeof p=="number")return g=g.get(c)||null,o(u,g,""+p,m);if(typeof p=="object"&&p!==null){switch(p.$$typeof){case da:return g=g.get(p.key===null?c:p.key)||null,p.type===je?S(u,g,p.props.children,m,p.key):l(u,g,p,m);case fn:return g=g.get(p.key===null?c:p.key)||null,d(u,g,p,m)}if(Yt(p)||ha(p))return g=g.get(c)||null,S(u,g,p,m,null);jt(u,p)}return null}function O(g,u,c,p){for(var m=null,P=null,I=u,W=u=0,K=null;I!==null&&W<c.length;W++){I.index>W?(K=I,I=null):K=I.sibling;var N=f(g,I,c[W],p);if(N===null){I===null&&(I=K);break}e&&I&&N.alternate===null&&n(g,I),u=r(N,u,W),P===null?m=N:P.sibling=N,P=N,I=K}if(W===c.length)return a(g,I),m;if(I===null){for(;W<c.length;W++)I=v(g,c[W],p),I!==null&&(u=r(I,u,W),P===null?m=I:P.sibling=I,P=I);return m}for(I=t(g,I);W<c.length;W++)K=A(I,g,W,c[W],p),K!==null&&(e&&K.alternate!==null&&I.delete(K.key===null?W:K.key),u=r(K,u,W),P===null?m=K:P.sibling=K,P=K);return e&&I.forEach(function(x){return n(g,x)}),m}function C(g,u,c,p){var m=ha(c);if(typeof m!="function")throw Error(y(150));if(c=m.call(c),c==null)throw Error(y(151));for(var P=m=null,I=u,W=u=0,K=null,N=c.next();I!==null&&!N.done;W++,N=c.next()){I.index>W?(K=I,I=null):K=I.sibling;var x=f(g,I,N.value,p);if(x===null){I===null&&(I=K);break}e&&I&&x.alternate===null&&n(g,I),u=r(x,u,W),P===null?m=x:P.sibling=x,P=x,I=K}if(N.done)return a(g,I),m;if(I===null){for(;!N.done;W++,N=c.next())N=v(g,N.value,p),N!==null&&(u=r(N,u,W),P===null?m=N:P.sibling=N,P=N);return m}for(I=t(g,I);!N.done;W++,N=c.next())N=A(I,g,W,N.value,p),N!==null&&(e&&N.alternate!==null&&I.delete(N.key===null?W:N.key),u=r(N,u,W),P===null?m=N:P.sibling=N,P=N);return e&&I.forEach(function(ge){return n(g,ge)}),m}return function(g,u,c,p){var m=typeof c=="object"&&c!==null&&c.type===je&&c.key===null;m&&(c=c.props.children);var P=typeof c=="object"&&c!==null;if(P)switch(c.$$typeof){case da:e:{for(P=c.key,m=u;m!==null;){if(m.key===P){switch(m.tag){case 7:if(c.type===je){a(g,m.sibling),u=i(m,c.props.children),u.return=g,g=u;break e}break;default:if(m.elementType===c.type){a(g,m.sibling),u=i(m,c.props),u.ref=La(g,m,c),u.return=g,g=u;break e}}a(g,m);break}else n(g,m);m=m.sibling}c.type===je?(u=$n(c.props.children,g.mode,p,c.key),u.return=g,g=u):(p=xt(c.type,c.key,c.props,null,g.mode,p),p.ref=La(g,u,c),p.return=g,g=p)}return s(g);case fn:e:{for(m=c.key;u!==null;){if(u.key===m)if(u.tag===4&&u.stateNode.containerInfo===c.containerInfo&&u.stateNode.implementation===c.implementation){a(g,u.sibling),u=i(u,c.children||[]),u.return=g,g=u;break e}else{a(g,u);break}else n(g,u);u=u.sibling}u=Pr(c,g.mode,p),u.return=g,g=u}return s(g)}if(typeof c=="string"||typeof c=="number")return c=""+c,u!==null&&u.tag===6?(a(g,u.sibling),u=i(u,c),u.return=g,g=u):(a(g,u),u=Or(c,g.mode,p),u.return=g,g=u),s(g);if(Yt(c))return O(g,u,c,p);if(ha(c))return C(g,u,c,p);if(P&&jt(g,c),typeof c=="undefined"&&!m)switch(g.tag){case 1:case 22:case 0:case 11:case 15:throw Error(y(152,Gn(g.type)||"Component"))}return a(g,u)}}var zt=pl(!0),fl=pl(!1),Ha={},Pe=qe(Ha),Fa=qe(Ha),ba=qe(Ha);function In(e){if(e===Ha)throw Error(y(174));return e}function Nr(e,n){switch(z(ba,n),z(Fa,e),z(Pe,Ha),e=n.nodeType,e){case 9:case 11:n=(n=n.documentElement)?n.namespaceURI:Bi(null,"");break;default:e=e===8?n.parentNode:n,n=e.namespaceURI||null,e=e.tagName,n=Bi(n,e)}Y(Pe),z(Pe,n)}function ea(){Y(Pe),Y(Fa),Y(ba)}function ml(e){In(ba.current);var n=In(Pe.current),a=Bi(n,e.type);n!==a&&(z(Fa,e),z(Pe,a))}function Kr(e){Fa.current===e&&(Y(Pe),Y(Fa))}var Q=qe(0);function Qt(e){for(var n=e;n!==null;){if(n.tag===13){var a=n.memoizedState;if(a!==null&&(a=a.dehydrated,a===null||a.data==="$?"||a.data==="$!"))return n}else if(n.tag===19&&n.memoizedProps.revealOrder!==void 0){if((n.flags&64)!=0)return n}else if(n.child!==null){n.child.return=n,n=n.child;continue}if(n===e)break;for(;n.sibling===null;){if(n.return===null||n.return===e)return null;n=n.return}n.sibling.return=n.return,n=n.sibling}return null}var Re=null,sn=null,Ne=!1;function Sl(e,n){var a=Ae(5,null,null,0);a.elementType="DELETED",a.type="DELETED",a.stateNode=n,a.return=e,a.flags=8,e.lastEffect!==null?(e.lastEffect.nextEffect=a,e.lastEffect=a):e.firstEffect=e.lastEffect=a}function kl(e,n){switch(e.tag){case 5:var a=e.type;return n=n.nodeType!==1||a.toLowerCase()!==n.nodeName.toLowerCase()?null:n,n!==null?(e.stateNode=n,!0):!1;case 6:return n=e.pendingProps===""||n.nodeType!==3?null:n,n!==null?(e.stateNode=n,!0):!1;case 13:return!1;default:return!1}}function Gr(e){if(Ne){var n=sn;if(n){var a=n;if(!kl(e,n)){if(n=_n(a.nextSibling),!n||!kl(e,n)){e.flags=e.flags&-1025|2,Ne=!1,Re=e;return}Sl(Re,a)}Re=e,sn=_n(n.firstChild)}else e.flags=e.flags&-1025|2,Ne=!1,Re=e}}function yl(e){for(e=e.return;e!==null&&e.tag!==5&&e.tag!==3&&e.tag!==13;)e=e.return;Re=e}function _t(e){if(e!==Re)return!1;if(!Ne)return yl(e),Ne=!0,!1;var n=e.type;if(e.tag!==5||n!=="head"&&n!=="body"&&!fr(n,e.memoizedProps))for(n=sn;n;)Sl(e,n),n=_n(n.nextSibling);if(yl(e),e.tag===13){if(e=e.memoizedState,e=e!==null?e.dehydrated:null,!e)throw Error(y(317));e:{for(e=e.nextSibling,n=0;e;){if(e.nodeType===8){var a=e.data;if(a==="/$"){if(n===0){sn=_n(e.nextSibling);break e}n--}else a!=="$"&&a!=="$!"&&a!=="$?"||n++}e=e.nextSibling}sn=null}}else sn=Re?_n(e.stateNode.nextSibling):null;return!0}function Ur(){sn=Re=null,Ne=!1}var na=[];function Br(){for(var e=0;e<na.length;e++)na[e]._workInProgressVersionPrimary=null;na.length=0}var Ya=pn.ReactCurrentDispatcher,Ie=pn.ReactCurrentBatchConfig,ja=0,_=null,oe=null,ae=null,Jt=!1,xa=!1;function fe(){throw Error(y(321))}function Dr(e,n){if(n===null)return!1;for(var a=0;a<n.length&&a<e.length;a++)if(!ye(e[a],n[a]))return!1;return!0}function Rr(e,n,a,t,i,r){if(ja=r,_=n,n.memoizedState=null,n.updateQueue=null,n.lanes=0,Ya.current=e===null||e.memoizedState===null?ac:tc,e=a(t,i),xa){r=0;do{if(xa=!1,!(25>r))throw Error(y(301));r+=1,ae=oe=null,n.updateQueue=null,Ya.current=ic,e=a(t,i)}while(xa)}if(Ya.current=Vt,n=oe!==null&&oe.next!==null,ja=0,ae=oe=_=null,Jt=!1,n)throw Error(y(300));return e}function vn(){var e={memoizedState:null,baseState:null,baseQueue:null,queue:null,next:null};return ae===null?_.memoizedState=ae=e:ae=ae.next=e,ae}function Mn(){if(oe===null){var e=_.alternate;e=e!==null?e.memoizedState:null}else e=oe.next;var n=ae===null?_.memoizedState:ae.next;if(n!==null)ae=n,oe=e;else{if(e===null)throw Error(y(310));oe=e,e={memoizedState:oe.memoizedState,baseState:oe.baseState,baseQueue:oe.baseQueue,queue:oe.queue,next:null},ae===null?_.memoizedState=ae=e:ae=ae.next=e}return ae}function Ke(e,n){return typeof n=="function"?n(e):n}function za(e){var n=Mn(),a=n.queue;if(a===null)throw Error(y(311));a.lastRenderedReducer=e;var t=oe,i=t.baseQueue,r=a.pending;if(r!==null){if(i!==null){var s=i.next;i.next=r.next,r.next=s}t.baseQueue=i=r,a.pending=null}if(i!==null){i=i.next,t=t.baseState;var o=s=r=null,l=i;do{var d=l.lane;if((ja&d)===d)o!==null&&(o=o.next={lane:0,action:l.action,eagerReducer:l.eagerReducer,eagerState:l.eagerState,next:null}),t=l.eagerReducer===e?l.eagerState:e(t,l.action);else{var S={lane:d,action:l.action,eagerReducer:l.eagerReducer,eagerState:l.eagerState,next:null};o===null?(s=o=S,r=t):o=o.next=S,_.lanes|=d,Da|=d}l=l.next}while(l!==null&&l!==i);o===null?r=t:o.next=s,ye(t,n.memoizedState)||(Ee=!0),n.memoizedState=t,n.baseState=r,n.baseQueue=o,a.lastRenderedState=t}return[n.memoizedState,a.dispatch]}function Qa(e){var n=Mn(),a=n.queue;if(a===null)throw Error(y(311));a.lastRenderedReducer=e;var t=a.dispatch,i=a.pending,r=n.memoizedState;if(i!==null){a.pending=null;var s=i=i.next;do r=e(r,s.action),s=s.next;while(s!==i);ye(r,n.memoizedState)||(Ee=!0),n.memoizedState=r,n.baseQueue===null&&(n.baseState=r),a.lastRenderedState=r}return[r,t]}function Tl(e,n,a){var t=n._getVersion;t=t(n._source);var i=n._workInProgressVersionPrimary;if(i!==null?e=i===t:(e=e.mutableReadLanes,(e=(ja&e)===e)&&(n._workInProgressVersionPrimary=t,na.push(n))),e)return a(n._source);throw na.push(n),Error(y(350))}function Al(e,n,a,t){var i=ce;if(i===null)throw Error(y(349));var r=n._getVersion,s=r(n._source),o=Ya.current,l=o.useState(function(){return Tl(i,n,a)}),d=l[1],S=l[0];l=ae;var v=e.memoizedState,f=v.refs,A=f.getSnapshot,O=v.source;v=v.subscribe;var C=_;return e.memoizedState={refs:f,source:n,subscribe:t},o.useEffect(function(){f.getSnapshot=a,f.setSnapshot=d;var g=r(n._source);if(!ye(s,g)){g=a(n._source),ye(S,g)||(d(g),g=an(C),i.mutableReadLanes|=g&i.pendingLanes),g=i.mutableReadLanes,i.entangledLanes|=g;for(var u=i.entanglements,c=g;0<c;){var p=31-Je(c),m=1<<p;u[p]|=g,c&=~m}}},[a,n,t]),o.useEffect(function(){return t(n._source,function(){var g=f.getSnapshot,u=f.setSnapshot;try{u(g(n._source));var c=an(C);i.mutableReadLanes|=c&i.pendingLanes}catch(p){u(function(){throw p})}})},[n,t]),ye(A,a)&&ye(O,n)&&ye(v,t)||(e={pending:null,dispatch:null,lastRenderedReducer:Ke,lastRenderedState:S},e.dispatch=d=Lr.bind(null,_,e),l.queue=e,l.baseQueue=null,S=Tl(i,n,a),l.memoizedState=l.baseState=S),S}function Il(e,n,a){var t=Mn();return Al(t,e,n,a)}function _a(e){var n=vn();return typeof e=="function"&&(e=e()),n.memoizedState=n.baseState=e,e=n.queue={pending:null,dispatch:null,lastRenderedReducer:Ke,lastRenderedState:e},e=e.dispatch=Lr.bind(null,_,e),[n.memoizedState,e]}function Zt(e,n,a,t){return e={tag:e,create:n,destroy:a,deps:t,next:null},n=_.updateQueue,n===null?(n={lastEffect:null},_.updateQueue=n,n.lastEffect=e.next=e):(a=n.lastEffect,a===null?n.lastEffect=e.next=e:(t=a.next,a.next=e,e.next=t,n.lastEffect=e)),e}function vl(e){var n=vn();return e={current:e},n.memoizedState=e}function qt(){return Mn().memoizedState}function Hr(e,n,a,t){var i=vn();_.flags|=e,i.memoizedState=Zt(1|n,a,void 0,t===void 0?null:t)}function Fr(e,n,a,t){var i=Mn();t=t===void 0?null:t;var r=void 0;if(oe!==null){var s=oe.memoizedState;if(r=s.destroy,t!==null&&Dr(t,s.deps)){Zt(n,a,r,t);return}}_.flags|=e,i.memoizedState=Zt(1|n,a,r,t)}function Ml(e,n){return Hr(516,4,e,n)}function Xt(e,n){return Fr(516,4,e,n)}function El(e,n){return Fr(4,2,e,n)}function Cl(e,n){if(typeof n=="function")return e=e(),n(e),function(){n(null)};if(n!=null)return e=e(),n.current=e,function(){n.current=null}}function Wl(e,n,a){return a=a!=null?a.concat([e]):null,Fr(4,2,Cl.bind(null,n,e),a)}function br(){}function wl(e,n){var a=Mn();n=n===void 0?null:n;var t=a.memoizedState;return t!==null&&n!==null&&Dr(n,t[1])?t[0]:(a.memoizedState=[e,n],e)}function Ol(e,n){var a=Mn();n=n===void 0?null:n;var t=a.memoizedState;return t!==null&&n!==null&&Dr(n,t[1])?t[0]:(e=e(),a.memoizedState=[e,n],e)}function rc(e,n){var a=Zn();An(98>a?98:a,function(){e(!0)}),An(97<a?97:a,function(){var t=Ie.transition;Ie.transition=1;try{e(!1),n()}finally{Ie.transition=t}})}function Lr(e,n,a){var t=ke(),i=an(e),r={lane:i,action:a,eagerReducer:null,eagerState:null,next:null},s=n.pending;if(s===null?r.next=r:(r.next=s.next,s.next=r),n.pending=r,s=e.alternate,e===_||s!==null&&s===_)xa=Jt=!0;else{if(e.lanes===0&&(s===null||s.lanes===0)&&(s=n.lastRenderedReducer,s!==null))try{var o=n.lastRenderedState,l=s(o,a);if(r.eagerReducer=s,r.eagerState=l,ye(l,o))return}catch(d){}finally{}tn(e,i,t)}}var Vt={readContext:Te,useCallback:fe,useContext:fe,useEffect:fe,useImperativeHandle:fe,useLayoutEffect:fe,useMemo:fe,useReducer:fe,useRef:fe,useState:fe,useDebugValue:fe,useDeferredValue:fe,useTransition:fe,useMutableSource:fe,useOpaqueIdentifier:fe,unstable_isNewReconciler:!1},ac={readContext:Te,useCallback:function(e,n){return vn().memoizedState=[e,n===void 0?null:n],e},useContext:Te,useEffect:Ml,useImperativeHandle:function(e,n,a){return a=a!=null?a.concat([e]):null,Hr(4,2,Cl.bind(null,n,e),a)},useLayoutEffect:function(e,n){return Hr(4,2,e,n)},useMemo:function(e,n){var a=vn();return n=n===void 0?null:n,e=e(),a.memoizedState=[e,n],e},useReducer:function(e,n,a){var t=vn();return n=a!==void 0?a(n):n,t.memoizedState=t.baseState=n,e=t.queue={pending:null,dispatch:null,lastRenderedReducer:e,lastRenderedState:n},e=e.dispatch=Lr.bind(null,_,e),[t.memoizedState,e]},useRef:vl,useState:_a,useDebugValue:br,useDeferredValue:function(e){var n=_a(e),a=n[0],t=n[1];return Ml(function(){var i=Ie.transition;Ie.transition=1;try{t(e)}finally{Ie.transition=i}},[e]),a},useTransition:function(){var e=_a(!1),n=e[0];return e=rc.bind(null,e[1]),vl(e),[e,n]},useMutableSource:function(e,n,a){var t=vn();return t.memoizedState={refs:{getSnapshot:n,setSnapshot:null},source:e,subscribe:a},Al(t,e,n,a)},useOpaqueIdentifier:function(){if(Ne){var e=!1,n=Zd(function(){throw e||(e=!0,a("r:"+(Sr++).toString(36))),Error(y(355))}),a=_a(n)[1];return(_.mode&2)==0&&(_.flags|=516,Zt(5,function(){a("r:"+(Sr++).toString(36))},void 0,null)),n}return n="r:"+(Sr++).toString(36),_a(n),n},unstable_isNewReconciler:!1},tc={readContext:Te,useCallback:wl,useContext:Te,useEffect:Xt,useImperativeHandle:Wl,useLayoutEffect:El,useMemo:Ol,useReducer:za,useRef:qt,useState:function(){return za(Ke)},useDebugValue:br,useDeferredValue:function(e){var n=za(Ke),a=n[0],t=n[1];return Xt(function(){var i=Ie.transition;Ie.transition=1;try{t(e)}finally{Ie.transition=i}},[e]),a},useTransition:function(){var e=za(Ke)[0];return[qt().current,e]},useMutableSource:Il,useOpaqueIdentifier:function(){return za(Ke)[0]},unstable_isNewReconciler:!1},ic={readContext:Te,useCallback:wl,useContext:Te,useEffect:Xt,useImperativeHandle:Wl,useLayoutEffect:El,useMemo:Ol,useReducer:Qa,useRef:qt,useState:function(){return Qa(Ke)},useDebugValue:br,useDeferredValue:function(e){var n=Qa(Ke),a=n[0],t=n[1];return Xt(function(){var i=Ie.transition;Ie.transition=1;try{t(e)}finally{Ie.transition=i}},[e]),a},useTransition:function(){var e=Qa(Ke)[0];return[qt().current,e]},useMutableSource:Il,useOpaqueIdentifier:function(){return Qa(Ke)[0]},unstable_isNewReconciler:!1},sc=pn.ReactCurrentOwner,Ee=!1;function me(e,n,a,t){n.child=e===null?fl(n,null,a,t):zt(n,e.child,a,t)}function Pl(e,n,a,t,i){a=a.render;var r=n.ref;return Xn(n,i),t=Rr(e,n,a,t,r,i),e!==null&&!Ee?(n.updateQueue=e.updateQueue,n.flags&=-517,e.lanes&=~i,Le(e,n,i)):(n.flags|=1,me(e,n,t,i),n.child)}function Kl(e,n,a,t,i,r){if(e===null){var s=a.type;return typeof s=="function"&&!Yr(s)&&s.defaultProps===void 0&&a.compare===null&&a.defaultProps===void 0?(n.tag=15,n.type=s,Nl(e,n,s,t,i,r)):(e=xt(a.type,null,t,n,n.mode,r),e.ref=n.ref,e.return=n,n.child=e)}return s=e.child,(i&r)==0&&(i=s.memoizedProps,a=a.compare,a=a!==null?a:Na,a(i,t)&&e.ref===n.ref)?Le(e,n,r):(n.flags|=1,e=rn(s,t),e.ref=n.ref,e.return=n,n.child=e)}function Nl(e,n,a,t,i,r){if(e!==null&&Na(e.memoizedProps,t)&&e.ref===n.ref)if(Ee=!1,(r&i)!=0)(e.flags&16384)!=0&&(Ee=!0);else return n.lanes=e.lanes,Le(e,n,r);return jr(e,n,a,t,r)}function xr(e,n,a){var t=n.pendingProps,i=t.children,r=e!==null?e.memoizedState:null;if(t.mode==="hidden"||t.mode==="unstable-defer-without-hiding")if((n.mode&4)==0)n.memoizedState={baseLanes:0},$t(n,a);else if((a&1073741824)!=0)n.memoizedState={baseLanes:0},$t(n,r!==null?r.baseLanes:a);else return e=r!==null?r.baseLanes|a:a,n.lanes=n.childLanes=1073741824,n.memoizedState={baseLanes:e},$t(n,e),null;else r!==null?(t=r.baseLanes|a,n.memoizedState=null):t=a,$t(n,t);return me(e,n,i,a),n.child}function Gl(e,n){var a=n.ref;(e===null&&a!==null||e!==null&&e.ref!==a)&&(n.flags|=128)}function jr(e,n,a,t,i){var r=pe(a)?yn:re.current;return r=Vn(n,r),Xn(n,i),a=Rr(e,n,a,t,r,i),e!==null&&!Ee?(n.updateQueue=e.updateQueue,n.flags&=-517,e.lanes&=~i,Le(e,n,i)):(n.flags|=1,me(e,n,a,i),n.child)}function Ul(e,n,a,t,i){if(pe(a)){var r=!0;Ut(n)}else r=!1;if(Xn(n,i),n.stateNode===null)e!==null&&(e.alternate=null,n.alternate=null,n.flags|=2),gl(n,a,t),wr(n,a,t,i),t=!0;else if(e===null){var s=n.stateNode,o=n.memoizedProps;s.props=o;var l=s.context,d=a.contextType;typeof d=="object"&&d!==null?d=Te(d):(d=pe(a)?yn:re.current,d=Vn(n,d));var S=a.getDerivedStateFromProps,v=typeof S=="function"||typeof s.getSnapshotBeforeUpdate=="function";v||typeof s.UNSAFE_componentWillReceiveProps!="function"&&typeof s.componentWillReceiveProps!="function"||(o!==t||l!==d)&&hl(n,s,t,d),$e=!1;var f=n.memoizedState;s.state=f,Ra(n,t,s,i),l=n.memoizedState,o!==t||f!==l||he.current||$e?(typeof S=="function"&&(Ft(n,a,S,t),l=n.memoizedState),(o=$e||cl(n,a,o,t,f,l,d))?(v||typeof s.UNSAFE_componentWillMount!="function"&&typeof s.componentWillMount!="function"||(typeof s.componentWillMount=="function"&&s.componentWillMount(),typeof s.UNSAFE_componentWillMount=="function"&&s.UNSAFE_componentWillMount()),typeof s.componentDidMount=="function"&&(n.flags|=4)):(typeof s.componentDidMount=="function"&&(n.flags|=4),n.memoizedProps=t,n.memoizedState=l),s.props=t,s.state=l,s.context=d,t=o):(typeof s.componentDidMount=="function"&&(n.flags|=4),t=!1)}else{s=n.stateNode,ol(e,n),o=n.memoizedProps,d=n.type===n.elementType?o:Me(n.type,o),s.props=d,v=n.pendingProps,f=s.context,l=a.contextType,typeof l=="object"&&l!==null?l=Te(l):(l=pe(a)?yn:re.current,l=Vn(n,l));var A=a.getDerivedStateFromProps;(S=typeof A=="function"||typeof s.getSnapshotBeforeUpdate=="function")||typeof s.UNSAFE_componentWillReceiveProps!="function"&&typeof s.componentWillReceiveProps!="function"||(o!==v||f!==l)&&hl(n,s,t,l),$e=!1,f=n.memoizedState,s.state=f,Ra(n,t,s,i);var O=n.memoizedState;o!==v||f!==O||he.current||$e?(typeof A=="function"&&(Ft(n,a,A,t),O=n.memoizedState),(d=$e||cl(n,a,d,t,f,O,l))?(S||typeof s.UNSAFE_componentWillUpdate!="function"&&typeof s.componentWillUpdate!="function"||(typeof s.componentWillUpdate=="function"&&s.componentWillUpdate(t,O,l),typeof s.UNSAFE_componentWillUpdate=="function"&&s.UNSAFE_componentWillUpdate(t,O,l)),typeof s.componentDidUpdate=="function"&&(n.flags|=4),typeof s.getSnapshotBeforeUpdate=="function"&&(n.flags|=256)):(typeof s.componentDidUpdate!="function"||o===e.memoizedProps&&f===e.memoizedState||(n.flags|=4),typeof s.getSnapshotBeforeUpdate!="function"||o===e.memoizedProps&&f===e.memoizedState||(n.flags|=256),n.memoizedProps=t,n.memoizedState=O),s.props=t,s.state=O,s.context=l,t=d):(typeof s.componentDidUpdate!="function"||o===e.memoizedProps&&f===e.memoizedState||(n.flags|=4),typeof s.getSnapshotBeforeUpdate!="function"||o===e.memoizedProps&&f===e.memoizedState||(n.flags|=256),t=!1)}return zr(e,n,a,t,r,i)}function zr(e,n,a,t,i,r){Gl(e,n);var s=(n.flags&64)!=0;if(!t&&!s)return i&&qo(n,a,!1),Le(e,n,r);t=n.stateNode,sc.current=n;var o=s&&typeof a.getDerivedStateFromError!="function"?null:t.render();return n.flags|=1,e!==null&&s?(n.child=zt(n,e.child,null,r),n.child=zt(n,null,o,r)):me(e,n,o,r),n.memoizedState=t.state,i&&qo(n,a,!0),n.child}function Bl(e){var n=e.stateNode;n.pendingContext?Vo(e,n.pendingContext,n.pendingContext!==n.context):n.context&&Vo(e,n.context,!1),Nr(e,n.containerInfo)}var ei={dehydrated:null,retryLane:0};function Hl(e,n,a){var t=n.pendingProps,i=Q.current,r=!1,s;return(s=(n.flags&64)!=0)||(s=e!==null&&e.memoizedState===null?!1:(i&2)!=0),s?(r=!0,n.flags&=-65):e!==null&&e.memoizedState===null||t.fallback===void 0||t.unstable_avoidThisFallback===!0||(i|=1),z(Q,i&1),e===null?(t.fallback!==void 0&&Gr(n),e=t.children,i=t.fallback,r?(e=Dl(n,e,i,a),n.child.memoizedState={baseLanes:a},n.memoizedState=ei,e):typeof t.unstable_expectedLoadTime=="number"?(e=Dl(n,e,i,a),n.child.memoizedState={baseLanes:a},n.memoizedState=ei,n.lanes=33554432,e):(a=Qr({mode:"visible",children:e},n.mode,a,null),a.return=n,n.child=a)):e.memoizedState!==null?r?(t=Ll(e,n,t.children,t.fallback,a),r=n.child,i=e.child.memoizedState,r.memoizedState=i===null?{baseLanes:a}:{baseLanes:i.baseLanes|a},r.childLanes=e.childLanes&~a,n.memoizedState=ei,t):(a=Rl(e,n,t.children,a),n.memoizedState=null,a):r?(t=Ll(e,n,t.children,t.fallback,a),r=n.child,i=e.child.memoizedState,r.memoizedState=i===null?{baseLanes:a}:{baseLanes:i.baseLanes|a},r.childLanes=e.childLanes&~a,n.memoizedState=ei,t):(a=Rl(e,n,t.children,a),n.memoizedState=null,a)}function Dl(e,n,a,t){var i=e.mode,r=e.child;return n={mode:"hidden",children:n},(i&2)==0&&r!==null?(r.childLanes=0,r.pendingProps=n):r=Qr(n,i,0,null),a=$n(a,i,t,null),r.return=e,a.return=e,r.sibling=a,e.child=r,a}function Rl(e,n,a,t){var i=e.child;return e=i.sibling,a=rn(i,{mode:"visible",children:a}),(n.mode&2)==0&&(a.lanes=t),a.return=n,a.sibling=null,e!==null&&(e.nextEffect=null,e.flags=8,n.firstEffect=n.lastEffect=e),n.child=a}function Ll(e,n,a,t,i){var r=n.mode,s=e.child;e=s.sibling;var o={mode:"hidden",children:a};return(r&2)==0&&n.child!==s?(a=n.child,a.childLanes=0,a.pendingProps=o,s=a.lastEffect,s!==null?(n.firstEffect=a.firstEffect,n.lastEffect=s,s.nextEffect=null):n.firstEffect=n.lastEffect=null):a=rn(s,o),e!==null?t=rn(e,t):(t=$n(t,r,i,null),t.flags|=2),t.return=n,a.return=n,a.sibling=t,n.child=a,t}function Fl(e,n){e.lanes|=n;var a=e.alternate;a!==null&&(a.lanes|=n),sl(e.return,n)}function _r(e,n,a,t,i,r){var s=e.memoizedState;s===null?e.memoizedState={isBackwards:n,rendering:null,renderingStartTime:0,last:t,tail:a,tailMode:i,lastEffect:r}:(s.isBackwards=n,s.rendering=null,s.renderingStartTime=0,s.last=t,s.tail=a,s.tailMode=i,s.lastEffect=r)}function bl(e,n,a){var t=n.pendingProps,i=t.revealOrder,r=t.tail;if(me(e,n,t.children,a),t=Q.current,(t&2)!=0)t=t&1|2,n.flags|=64;else{if(e!==null&&(e.flags&64)!=0)e:for(e=n.child;e!==null;){if(e.tag===13)e.memoizedState!==null&&Fl(e,a);else if(e.tag===19)Fl(e,a);else if(e.child!==null){e.child.return=e,e=e.child;continue}if(e===n)break e;for(;e.sibling===null;){if(e.return===null||e.return===n)break e;e=e.return}e.sibling.return=e.return,e=e.sibling}t&=1}if(z(Q,t),(n.mode&2)==0)n.memoizedState=null;else switch(i){case"forwards":for(a=n.child,i=null;a!==null;)e=a.alternate,e!==null&&Qt(e)===null&&(i=a),a=a.sibling;a=i,a===null?(i=n.child,n.child=null):(i=a.sibling,a.sibling=null),_r(n,!1,i,a,r,n.lastEffect);break;case"backwards":for(a=null,i=n.child,n.child=null;i!==null;){if(e=i.alternate,e!==null&&Qt(e)===null){n.child=i;break}e=i.sibling,i.sibling=a,a=i,i=e}_r(n,!0,a,null,r,n.lastEffect);break;case"together":_r(n,!1,null,null,void 0,n.lastEffect);break;default:n.memoizedState=null}return n.child}function Le(e,n,a){if(e!==null&&(n.dependencies=e.dependencies),Da|=n.lanes,(a&n.childLanes)!=0){if(e!==null&&n.child!==e.child)throw Error(y(153));if(n.child!==null){for(e=n.child,a=rn(e,e.pendingProps),n.child=a,a.return=n;e.sibling!==null;)e=e.sibling,a=a.sibling=rn(e,e.pendingProps),a.return=n;a.sibling=null}return n.child}return null}var Yl,Jr,jl,xl;Yl=function(e,n){for(var a=n.child;a!==null;){if(a.tag===5||a.tag===6)e.appendChild(a.stateNode);else if(a.tag!==4&&a.child!==null){a.child.return=a,a=a.child;continue}if(a===n)break;for(;a.sibling===null;){if(a.return===null||a.return===n)return;a=a.return}a.sibling.return=a.return,a=a.sibling}};Jr=function(){};jl=function(e,n,a,t){var i=e.memoizedProps;if(i!==t){e=n.stateNode,In(Pe.current);var r=null;switch(a){case"input":i=Oi(e,i),t=Oi(e,t),r=[];break;case"option":i=Ki(e,i),t=Ki(e,t),r=[];break;case"select":i=L({},i,{value:void 0}),t=L({},t,{value:void 0}),r=[];break;case"textarea":i=Gi(e,i),t=Gi(e,t),r=[];break;default:typeof i.onClick!="function"&&typeof t.onClick=="function"&&(e.onclick=Pt)}Di(a,t);var s;a=null;for(d in i)if(!t.hasOwnProperty(d)&&i.hasOwnProperty(d)&&i[d]!=null)if(d==="style"){var o=i[d];for(s in o)o.hasOwnProperty(s)&&(a||(a={}),a[s]="")}else d!=="dangerouslySetInnerHTML"&&d!=="children"&&d!=="suppressContentEditableWarning"&&d!=="suppressHydrationWarning"&&d!=="autoFocus"&&(ua.hasOwnProperty(d)?r||(r=[]):(r=r||[]).push(d,null));for(d in t){var l=t[d];if(o=i!=null?i[d]:void 0,t.hasOwnProperty(d)&&l!==o&&(l!=null||o!=null))if(d==="style")if(o){for(s in o)!o.hasOwnProperty(s)||l&&l.hasOwnProperty(s)||(a||(a={}),a[s]="");for(s in l)l.hasOwnProperty(s)&&o[s]!==l[s]&&(a||(a={}),a[s]=l[s])}else a||(r||(r=[]),r.push(d,a)),a=l;else d==="dangerouslySetInnerHTML"?(l=l?l.__html:void 0,o=o?o.__html:void 0,l!=null&&o!==l&&(r=r||[]).push(d,l)):d==="children"?typeof l!="string"&&typeof l!="number"||(r=r||[]).push(d,""+l):d!=="suppressContentEditableWarning"&&d!=="suppressHydrationWarning"&&(ua.hasOwnProperty(d)?(l!=null&&d==="onScroll"&&b("scroll",e),r||o===l||(r=[])):typeof l=="object"&&l!==null&&l.$$typeof===Mi?l.toString():(r=r||[]).push(d,l))}a&&(r=r||[]).push("style",a);var d=r;(n.updateQueue=d)&&(n.flags|=4)}};xl=function(e,n,a,t){a!==t&&(n.flags|=4)};function Ja(e,n){if(!Ne)switch(e.tailMode){case"hidden":n=e.tail;for(var a=null;n!==null;)n.alternate!==null&&(a=n),n=n.sibling;a===null?e.tail=null:a.sibling=null;break;case"collapsed":a=e.tail;for(var t=null;a!==null;)a.alternate!==null&&(t=a),a=a.sibling;t===null?n||e.tail===null?e.tail=null:e.tail.sibling=null:t.sibling=null}}function oc(e,n,a){var t=n.pendingProps;switch(n.tag){case 2:case 16:case 15:case 0:case 11:case 7:case 8:case 12:case 9:case 14:return null;case 1:return pe(n.type)&&Gt(),null;case 3:return ea(),Y(he),Y(re),Br(),t=n.stateNode,t.pendingContext&&(t.context=t.pendingContext,t.pendingContext=null),(e===null||e.child===null)&&(_t(n)?n.flags|=4:t.hydrate||(n.flags|=256)),Jr(n),null;case 5:Kr(n);var i=In(ba.current);if(a=n.type,e!==null&&n.stateNode!=null)jl(e,n,a,t,i),e.ref!==n.ref&&(n.flags|=128);else{if(!t){if(n.stateNode===null)throw Error(y(166));return null}if(e=In(Pe.current),_t(n)){t=n.stateNode,a=n.type;var r=n.memoizedProps;switch(t[Ze]=n,t[Kt]=r,a){case"dialog":b("cancel",t),b("close",t);break;case"iframe":case"object":case"embed":b("load",t);break;case"video":case"audio":for(e=0;e<Ga.length;e++)b(Ga[e],t);break;case"source":b("error",t);break;case"img":case"image":case"link":b("error",t),b("load",t);break;case"details":b("toggle",t);break;case"input":Us(t,r),b("invalid",t);break;case"select":t._wrapperState={wasMultiple:!!r.multiple},b("invalid",t);break;case"textarea":Rs(t,r),b("invalid",t)}Di(a,r),e=null;for(var s in r)r.hasOwnProperty(s)&&(i=r[s],s==="children"?typeof i=="string"?t.textContent!==i&&(e=["children",i]):typeof i=="number"&&t.textContent!==""+i&&(e=["children",""+i]):ua.hasOwnProperty(s)&&i!=null&&s==="onScroll"&&b("scroll",t));switch(a){case"input":dt(t),Ds(t,r,!0);break;case"textarea":dt(t),Hs(t);break;case"select":case"option":break;default:typeof r.onClick=="function"&&(t.onclick=Pt)}t=e,n.updateQueue=t,t!==null&&(n.flags|=4)}else{switch(s=i.nodeType===9?i:i.ownerDocument,e===Ui.html&&(e=Fs(a)),e===Ui.html?a==="script"?(e=s.createElement("div"),e.innerHTML="<script></script>",e=e.removeChild(e.firstChild)):typeof t.is=="string"?e=s.createElement(a,{is:t.is}):(e=s.createElement(a),a==="select"&&(s=e,t.multiple?s.multiple=!0:t.size&&(s.size=t.size))):e=s.createElementNS(e,a),e[Ze]=n,e[Kt]=t,Yl(e,n,!1,!1),n.stateNode=e,s=Ri(a,t),a){case"dialog":b("cancel",e),b("close",e),i=t;break;case"iframe":case"object":case"embed":b("load",e),i=t;break;case"video":case"audio":for(i=0;i<Ga.length;i++)b(Ga[i],e);i=t;break;case"source":b("error",e),i=t;break;case"img":case"image":case"link":b("error",e),b("load",e),i=t;break;case"details":b("toggle",e),i=t;break;case"input":Us(e,t),i=Oi(e,t),b("invalid",e);break;case"option":i=Ki(e,t);break;case"select":e._wrapperState={wasMultiple:!!t.multiple},i=L({},t,{value:void 0}),b("invalid",e);break;case"textarea":Rs(e,t),i=Gi(e,t),b("invalid",e);break;default:i=t}Di(a,i);var o=i;for(r in o)if(o.hasOwnProperty(r)){var l=o[r];r==="style"?js(e,l):r==="dangerouslySetInnerHTML"?(l=l?l.__html:void 0,l!=null&&bs(e,l)):r==="children"?typeof l=="string"?(a!=="textarea"||l!=="")&&fa(e,l):typeof l=="number"&&fa(e,""+l):r!=="suppressContentEditableWarning"&&r!=="suppressHydrationWarning"&&r!=="autoFocus"&&(ua.hasOwnProperty(r)?l!=null&&r==="onScroll"&&b("scroll",e):l!=null&&ki(e,r,l,s))}switch(a){case"input":dt(e),Ds(e,t,!1);break;case"textarea":dt(e),Hs(e);break;case"option":t.value!=null&&e.setAttribute("value",""+xe(t.value));break;case"select":e.multiple=!!t.multiple,r=t.value,r!=null?Un(e,!!t.multiple,r,!1):t.defaultValue!=null&&Un(e,!!t.multiple,t.defaultValue,!0);break;default:typeof i.onClick=="function"&&(e.onclick=Pt)}zo(a,t)&&(n.flags|=4)}n.ref!==null&&(n.flags|=128)}return null;case 6:if(e&&n.stateNode!=null)xl(e,n,e.memoizedProps,t);else{if(typeof t!="string"&&n.stateNode===null)throw Error(y(166));a=In(ba.current),In(Pe.current),_t(n)?(t=n.stateNode,a=n.memoizedProps,t[Ze]=n,t.nodeValue!==a&&(n.flags|=4)):(t=(a.nodeType===9?a:a.ownerDocument).createTextNode(t),t[Ze]=n,n.stateNode=t)}return null;case 13:return Y(Q),t=n.memoizedState,(n.flags&64)!=0?(n.lanes=a,n):(t=t!==null,a=!1,e===null?n.memoizedProps.fallback!==void 0&&_t(n):a=e.memoizedState!==null,t&&!a&&(n.mode&2)!=0&&(e===null&&n.memoizedProps.unstable_avoidThisFallback!==!0||(Q.current&1)!=0?te===0&&(te=3):((te===0||te===3)&&(te=4),ce===null||(Da&134217727)==0&&(aa&134217727)==0||ta(ce,le))),(t||a)&&(n.flags|=4),null);case 4:return ea(),Jr(n),e===null&&jo(n.stateNode.containerInfo),null;case 10:return Cr(n),null;case 17:return pe(n.type)&&Gt(),null;case 19:if(Y(Q),t=n.memoizedState,t===null)return null;if(r=(n.flags&64)!=0,s=t.rendering,s===null)if(r)Ja(t,!1);else{if(te!==0||e!==null&&(e.flags&64)!=0)for(e=n.child;e!==null;){if(s=Qt(e),s!==null){for(n.flags|=64,Ja(t,!1),r=s.updateQueue,r!==null&&(n.updateQueue=r,n.flags|=4),t.lastEffect===null&&(n.firstEffect=null),n.lastEffect=t.lastEffect,t=a,a=n.child;a!==null;)r=a,e=t,r.flags&=2,r.nextEffect=null,r.firstEffect=null,r.lastEffect=null,s=r.alternate,s===null?(r.childLanes=0,r.lanes=e,r.child=null,r.memoizedProps=null,r.memoizedState=null,r.updateQueue=null,r.dependencies=null,r.stateNode=null):(r.childLanes=s.childLanes,r.lanes=s.lanes,r.child=s.child,r.memoizedProps=s.memoizedProps,r.memoizedState=s.memoizedState,r.updateQueue=s.updateQueue,r.type=s.type,e=s.dependencies,r.dependencies=e===null?null:{lanes:e.lanes,firstContext:e.firstContext}),a=a.sibling;return z(Q,Q.current&1|2),n.child}e=e.sibling}t.tail!==null&&se()>Vr&&(n.flags|=64,r=!0,Ja(t,!1),n.lanes=33554432)}else{if(!r)if(e=Qt(s),e!==null){if(n.flags|=64,r=!0,a=e.updateQueue,a!==null&&(n.updateQueue=a,n.flags|=4),Ja(t,!0),t.tail===null&&t.tailMode==="hidden"&&!s.alternate&&!Ne)return n=n.lastEffect=t.lastEffect,n!==null&&(n.nextEffect=null),null}else 2*se()-t.renderingStartTime>Vr&&a!==1073741824&&(n.flags|=64,r=!0,Ja(t,!1),n.lanes=33554432);t.isBackwards?(s.sibling=n.child,n.child=s):(a=t.last,a!==null?a.sibling=s:n.child=s,t.last=s)}return t.tail!==null?(a=t.tail,t.rendering=a,t.tail=a.sibling,t.lastEffect=n.lastEffect,t.renderingStartTime=se(),a.sibling=null,n=Q.current,z(Q,r?n&1|2:n&1),a):null;case 23:case 24:return Zr(),e!==null&&e.memoizedState!==null!=(n.memoizedState!==null)&&t.mode!=="unstable-defer-without-hiding"&&(n.flags|=4),null}throw Error(y(156,n.tag))}function lc(e){switch(e.tag){case 1:pe(e.type)&&Gt();var n=e.flags;return n&4096?(e.flags=n&-4097|64,e):null;case 3:if(ea(),Y(he),Y(re),Br(),n=e.flags,(n&64)!=0)throw Error(y(285));return e.flags=n&-4097|64,e;case 5:return Kr(e),null;case 13:return Y(Q),n=e.flags,n&4096?(e.flags=n&-4097|64,e):null;case 19:return Y(Q),null;case 4:return ea(),null;case 10:return Cr(e),null;case 23:case 24:return Zr(),null;default:return null}}function qr(e,n){try{var a="",t=n;do a+=Yu(t),t=t.return;while(t);var i=a}catch(r){i=`
 Error generating stack: `+r.message+`
-`+r.stack}return{value:e,source:a,stack:i}}function Xr(e,a){try{console.error(a.value)}catch(n){setTimeout(function(){throw n})}}var uc=typeof WeakMap=="function"?WeakMap:Map;function Vl(e,a,n){n=ea(-1,n),n.tag=3,n.payload={element:null};var t=a.value;return n.callback=function(){ai||(ai=!0,$r=t),Xr(e,a)},n}function zl(e,a,n){n=ea(-1,n),n.tag=3;var t=e.type.getDerivedStateFromError;if(typeof t=="function"){var i=a.value;n.payload=function(){return Xr(e,a),t(i)}}var r=e.stateNode;return r!==null&&typeof r.componentDidCatch=="function"&&(n.callback=function(){typeof t!="function"&&(Ge===null?Ge=new Set([this]):Ge.add(this),Xr(e,a));var o=a.stack;this.componentDidCatch(a.value,{componentStack:o!==null?o:""})}),n}var dc=typeof WeakSet=="function"?WeakSet:Set;function jl(e){var a=e.ref;if(a!==null)if(typeof a=="function")try{a(null)}catch(n){oa(e,n)}else a.current=null}function cc(e,a){switch(a.tag){case 0:case 11:case 15:case 22:return;case 1:if(a.flags&256&&e!==null){var n=e.memoizedProps,t=e.memoizedState;e=a.stateNode,a=e.getSnapshotBeforeUpdate(a.elementType===a.type?n:Ce(a.type,n),t),e.__reactInternalSnapshotBeforeUpdate=a}return;case 3:a.flags&256&&Sr(a.stateNode.containerInfo);return;case 5:case 6:case 4:case 17:return}throw Error(k(163))}function hc(e,a,n){switch(n.tag){case 0:case 11:case 15:case 22:if(a=n.updateQueue,a=a!==null?a.lastEffect:null,a!==null){e=a=a.next;do{if((e.tag&3)==3){var t=e.create;e.destroy=t()}e=e.next}while(e!==a)}if(a=n.updateQueue,a=a!==null?a.lastEffect:null,a!==null){e=a=a.next;do{var i=e;t=i.next,i=i.tag,(i&4)!=0&&(i&1)!=0&&(Jl(n,e),gc(n,e)),e=t}while(e!==a)}return;case 1:e=n.stateNode,n.flags&4&&(a===null?e.componentDidMount():(t=n.elementType===n.type?a.memoizedProps:Ce(n.type,a.memoizedProps),e.componentDidUpdate(t,a.memoizedState,e.__reactInternalSnapshotBeforeUpdate))),a=n.updateQueue,a!==null&&ul(n,a,e);return;case 3:if(a=n.updateQueue,a!==null){if(e=null,n.child!==null)switch(n.child.tag){case 5:e=n.child.stateNode;break;case 1:e=n.child.stateNode}ul(n,a,e)}return;case 5:e=n.stateNode,a===null&&n.flags&4&&Vs(n.type,n.memoizedProps)&&e.focus();return;case 6:return;case 4:return;case 12:return;case 13:n.memoizedState===null&&(n=n.alternate,n!==null&&(n=n.memoizedState,n!==null&&(n=n.dehydrated,n!==null&&os(n))));return;case 19:case 17:case 20:case 21:case 23:case 24:return}throw Error(k(163))}function _l(e,a){for(var n=e;;){if(n.tag===5){var t=n.stateNode;if(a)t=t.style,typeof t.setProperty=="function"?t.setProperty("display","none","important"):t.display="none";else{t=n.stateNode;var i=n.memoizedProps.style;i=i!=null&&i.hasOwnProperty("display")?i.display:null,t.style.display=xo("display",i)}}else if(n.tag===6)n.stateNode.nodeValue=a?"":n.memoizedProps;else if((n.tag!==23&&n.tag!==24||n.memoizedState===null||n===e)&&n.child!==null){n.child.return=n,n=n.child;continue}if(n===e)break;for(;n.sibling===null;){if(n.return===null||n.return===e)return;n=n.return}n.sibling.return=n.return,n=n.sibling}}function ql(e,a){if(ka&&typeof ka.onCommitFiberUnmount=="function")try{ka.onCommitFiberUnmount(kr,a)}catch(r){}switch(a.tag){case 0:case 11:case 14:case 15:case 22:if(e=a.updateQueue,e!==null&&(e=e.lastEffect,e!==null)){var n=e=e.next;do{var t=n,i=t.destroy;if(t=t.tag,i!==void 0)if((t&4)!=0)Jl(a,n);else{t=a;try{i()}catch(r){oa(t,r)}}n=n.next}while(n!==e)}break;case 1:if(jl(a),e=a.stateNode,typeof e.componentWillUnmount=="function")try{e.props=a.memoizedProps,e.state=a.memoizedState,e.componentWillUnmount()}catch(r){oa(a,r)}break;case 5:jl(a);break;case 4:Zl(e,a)}}function Xl(e){e.alternate=null,e.child=null,e.dependencies=null,e.firstEffect=null,e.lastEffect=null,e.memoizedProps=null,e.memoizedState=null,e.pendingProps=null,e.return=null,e.updateQueue=null}function $l(e){return e.tag===5||e.tag===3||e.tag===4}function eu(e){e:{for(var a=e.return;a!==null;){if($l(a))break e;a=a.return}throw Error(k(160))}var n=a;switch(a=n.stateNode,n.tag){case 5:var t=!1;break;case 3:a=a.containerInfo,t=!0;break;case 4:a=a.containerInfo,t=!0;break;default:throw Error(k(161))}n.flags&16&&(pn(a,""),n.flags&=-17);e:a:for(n=e;;){for(;n.sibling===null;){if(n.return===null||$l(n.return)){n=null;break e}n=n.return}for(n.sibling.return=n.return,n=n.sibling;n.tag!==5&&n.tag!==6&&n.tag!==18;){if(n.flags&2||n.child===null||n.tag===4)continue a;n.child.return=n,n=n.child}if(!(n.flags&2)){n=n.stateNode;break e}}t?eo(e,n,a):ao(e,n,a)}function eo(e,a,n){var t=e.tag,i=t===5||t===6;if(i)e=i?e.stateNode:e.stateNode.instance,a?n.nodeType===8?n.parentNode.insertBefore(e,a):n.insertBefore(e,a):(n.nodeType===8?(a=n.parentNode,a.insertBefore(e,n)):(a=n,a.appendChild(e)),n=n._reactRootContainer,n!=null||a.onclick!==null||(a.onclick=Wt));else if(t!==4&&(e=e.child,e!==null))for(eo(e,a,n),e=e.sibling;e!==null;)eo(e,a,n),e=e.sibling}function ao(e,a,n){var t=e.tag,i=t===5||t===6;if(i)e=i?e.stateNode:e.stateNode.instance,a?n.insertBefore(e,a):n.appendChild(e);else if(t!==4&&(e=e.child,e!==null))for(ao(e,a,n),e=e.sibling;e!==null;)ao(e,a,n),e=e.sibling}function Zl(e,a){for(var n=a,t=!1,i,r;;){if(!t){t=n.return;e:for(;;){if(t===null)throw Error(k(160));switch(i=t.stateNode,t.tag){case 5:r=!1;break e;case 3:i=i.containerInfo,r=!0;break e;case 4:i=i.containerInfo,r=!0;break e}t=t.return}t=!0}if(n.tag===5||n.tag===6){e:for(var o=e,s=n,l=s;;)if(ql(o,l),l.child!==null&&l.tag!==4)l.child.return=l,l=l.child;else{if(l===s)break e;for(;l.sibling===null;){if(l.return===null||l.return===s)break e;l=l.return}l.sibling.return=l.return,l=l.sibling}r?(o=i,s=n.stateNode,o.nodeType===8?o.parentNode.removeChild(s):o.removeChild(s)):i.removeChild(n.stateNode)}else if(n.tag===4){if(n.child!==null){i=n.stateNode.containerInfo,r=!0,n.child.return=n,n=n.child;continue}}else if(ql(e,n),n.child!==null){n.child.return=n,n=n.child;continue}if(n===a)break;for(;n.sibling===null;){if(n.return===null||n.return===a)return;n=n.return,n.tag===4&&(t=!1)}n.sibling.return=n.return,n=n.sibling}}function to(e,a){switch(a.tag){case 0:case 11:case 14:case 15:case 22:var n=a.updateQueue;if(n=n!==null?n.lastEffect:null,n!==null){var t=n=n.next;do(t.tag&3)==3&&(e=t.destroy,t.destroy=void 0,e!==void 0&&e()),t=t.next;while(t!==n)}return;case 1:return;case 5:if(n=a.stateNode,n!=null){t=a.memoizedProps;var i=e!==null?e.memoizedProps:t;e=a.type;var r=a.updateQueue;if(a.updateQueue=null,r!==null){for(n[Dt]=t,e==="input"&&t.type==="radio"&&t.name!=null&&Ro(n,t),Ui(e,i),a=Ui(e,t),i=0;i<r.length;i+=2){var o=r[i],s=r[i+1];o==="style"?Qo(n,s):o==="dangerouslySetInnerHTML"?Yo(n,s):o==="children"?pn(n,s):Ti(n,o,s,a)}switch(e){case"input":Oi(n,t);break;case"textarea":Lo(n,t);break;case"select":e=n._wrapperState.wasMultiple,n._wrapperState.wasMultiple=!!t.multiple,r=t.value,r!=null?Ga(n,!!t.multiple,r,!1):e!==!!t.multiple&&(t.defaultValue!=null?Ga(n,!!t.multiple,t.defaultValue,!0):Ga(n,!!t.multiple,t.multiple?[]:"",!1))}}}return;case 6:if(a.stateNode===null)throw Error(k(162));a.stateNode.nodeValue=a.memoizedProps;return;case 3:n=a.stateNode,n.hydrate&&(n.hydrate=!1,os(n.containerInfo));return;case 12:return;case 13:a.memoizedState!==null&&(no=re(),_l(a.child,!0)),au(a);return;case 19:au(a);return;case 17:return;case 23:case 24:_l(a,a.memoizedState!==null);return}throw Error(k(163))}function au(e){var a=e.updateQueue;if(a!==null){e.updateQueue=null;var n=e.stateNode;n===null&&(n=e.stateNode=new dc),a.forEach(function(t){var i=mc.bind(null,e,t);n.has(t)||(n.add(t),t.then(i,i))})}}function pc(e,a){return e!==null&&(e=e.memoizedState,e===null||e.dehydrated!==null)?(a=a.memoizedState,a!==null&&a.dehydrated===null):!1}var Sc=Math.ceil,ni=ha.ReactCurrentDispatcher,io=ha.ReactCurrentOwner,G=0,ce=null,q=null,se=0,Ca=0,ro=qe(0),te=0,ti=null,tn=0,Rn=0,an=0,oo=0,so=null,no=0,_r=Infinity;function rn(){_r=re()+500}var I=null,ai=!1,$r=null,Ge=null,sa=!1,_n=null,Zn=90,lo=[],uo=[],He=null,qn=0,co=null,ii=-1,Le=0,ri=0,Xn=null,oi=!1;function Te(){return(G&48)!=0?re():ii!==-1?ii:ii=re()}function na(e){if(e=e.mode,(e&2)==0)return 1;if((e&4)==0)return _a()===99?1:2;if(Le===0&&(Le=tn),ac.transition!==0){ri!==0&&(ri=so!==null?so.pendingLanes:0),e=Le;var a=4186112&~ri;return a&=-a,a===0&&(e=4186112&~e,a=e&-e,a===0&&(a=8192)),a}return e=_a(),(G&4)!=0&&e===98?e=kt(12,Le):(e=id(e),e=kt(e,Le)),e}function ta(e,a,n){if(50<qn)throw qn=0,co=null,Error(k(185));if(e=si(e,a),e===null)return null;At(e,a,n),e===ce&&(an|=a,te===4&&nn(e,se));var t=_a();a===1?(G&8)!=0&&(G&48)==0?go(e):(ve(e,n),G===0&&(rn(),Be())):((G&4)==0||t!==98&&t!==99||(He===null?He=new Set([e]):He.add(e)),ve(e,n)),so=e}function si(e,a){e.lanes|=a;var n=e.alternate;for(n!==null&&(n.lanes|=a),n=e,e=e.return;e!==null;)e.childLanes|=a,n=e.alternate,n!==null&&(n.childLanes|=a),n=e,e=e.return;return n.tag===3?n.stateNode:null}function ve(e,a){for(var n=e.callbackNode,t=e.suspendedLanes,i=e.pingedLanes,r=e.expirationTimes,o=e.pendingLanes;0<o;){var s=31-Je(o),l=1<<s,d=r[s];if(d===-1){if((l&t)==0||(l&i)!=0){d=a,Ha(l);var f=b;r[s]=10<=f?d+250:6<=f?d+5e3:-1}}else d<=a&&(e.expiredLanes|=l);o&=~l}if(t=In(e,e===ce?se:0),a=b,t===0)n!==null&&(n!==vr&&yr(n),e.callbackNode=null,e.callbackPriority=0);else{if(n!==null){if(e.callbackPriority===a)return;n!==vr&&yr(n)}a===15?(n=go.bind(null,e),Ke===null?(Ke=[n],Rt=Ar(Kt,rl)):Ke.push(n),n=vr):a===14?n=Kn(99,go.bind(null,e)):(n=rd(a),n=Kn(n,nu.bind(null,e))),e.callbackPriority=a,e.callbackNode=n}}function nu(e){if(ii=-1,ri=Le=0,(G&48)!=0)throw Error(k(327));var a=e.callbackNode;if(la()&&e.callbackNode!==a)return null;var n=In(e,e===ce?se:0);if(n===0)return null;var t=n,i=G;G|=16;var r=iu();(ce!==e||se!==t)&&(rn(),on(e,t));do try{fc();break}catch(s){tu(e,s)}while(1);if(Ir(),ni.current=r,G=i,q!==null?t=0:(ce=null,se=0,t=te),(tn&an)!=0)on(e,0);else if(t!==0){if(t===2&&(G|=64,e.hydrate&&(e.hydrate=!1,Sr(e.containerInfo)),n=hs(e),n!==0&&(t=$n(e,n))),t===1)throw a=ti,on(e,0),nn(e,n),ve(e,re()),a;switch(e.finishedWork=e.current.alternate,e.finishedLanes=n,t){case 0:case 1:throw Error(k(345));case 2:Ia(e);break;case 3:if(nn(e,n),(n&62914560)===n&&(t=no+500-re(),10<t)){if(In(e,0)!==0)break;if(i=e.suspendedLanes,(i&n)!==n){Te(),e.pingedLanes|=e.suspendedLanes&i;break}e.timeoutHandle=zs(Ia.bind(null,e),t);break}Ia(e);break;case 4:if(nn(e,n),(n&4186112)===n)break;for(t=e.eventTimes,i=-1;0<n;){var o=31-Je(n);r=1<<o,o=t[o],o>i&&(i=o),n&=~r}if(n=i,n=re()-n,n=(120>n?120:480>n?480:1080>n?1080:1920>n?1920:3e3>n?3e3:4320>n?4320:1960*Sc(n/1960))-n,10<n){e.timeoutHandle=zs(Ia.bind(null,e),n);break}Ia(e);break;case 5:Ia(e);break;default:throw Error(k(329))}}return ve(e,re()),e.callbackNode===a?nu.bind(null,e):null}function nn(e,a){for(a&=~oo,a&=~an,e.suspendedLanes|=a,e.pingedLanes&=~a,e=e.expirationTimes;0<a;){var n=31-Je(a),t=1<<n;e[n]=-1,a&=~t}}function go(e){if((G&48)!=0)throw Error(k(327));if(la(),e===ce&&(e.expiredLanes&se)!=0){var a=se,n=$n(e,a);(tn&an)!=0&&(a=In(e,a),n=$n(e,a))}else a=In(e,0),n=$n(e,a);if(e.tag!==0&&n===2&&(G|=64,e.hydrate&&(e.hydrate=!1,Sr(e.containerInfo)),a=hs(e),a!==0&&(n=$n(e,a))),n===1)throw n=ti,on(e,0),nn(e,a),ve(e,re()),n;return e.finishedWork=e.current.alternate,e.finishedLanes=a,Ia(e),ve(e,re()),null}function Tc(){if(He!==null){var e=He;He=null,e.forEach(function(a){a.expiredLanes|=24&a.pendingLanes,ve(a,re())})}Be()}function ru(e,a){var n=G;G|=1;try{return e(a)}finally{G=n,G===0&&(rn(),Be())}}function ou(e,a){var n=G;G&=-2,G|=8;try{return e(a)}finally{G=n,G===0&&(rn(),Be())}}function $t(e,a){Q(ro,Ca),Ca|=a,tn|=a}function Zr(){Ca=ro.current,Y(ro)}function on(e,a){e.finishedWork=null,e.finishedLanes=0;var n=e.timeoutHandle;if(n!==-1&&(e.timeoutHandle=-1,_d(n)),q!==null)for(n=q.return;n!==null;){var t=n;switch(t.tag){case 1:t=t.type.childContextTypes,t!=null&&Gt();break;case 3:$a(),Y(he),Y(ie),Kr();break;case 5:Dr(t);break;case 4:$a();break;case 13:Y(V);break;case 19:Y(V);break;case 10:Er(t);break;case 23:case 24:Zr()}n=n.return}ce=e,q=ia(e.current,null),se=Ca=tn=a,te=0,ti=null,oo=an=Rn=0}function tu(e,a){do{var n=q;try{if(Ir(),Yn.current=_t,Jt){for(var t=j.memoizedState;t!==null;){var i=t.queue;i!==null&&(i.pending=null),t=t.next}Jt=!1}if(xn=0,ne=oe=j=null,Qn=!1,io.current=null,n===null||n.return===null){te=1,ti=a,q=null;break}e:{var r=e,o=n.return,s=n,l=a;if(a=se,s.flags|=2048,s.firstEffect=s.lastEffect=null,l!==null&&typeof l=="object"&&typeof l.then=="function"){var d=l;if((s.mode&2)==0){var f=s.alternate;f?(s.updateQueue=f.updateQueue,s.memoizedState=f.memoizedState,s.lanes=f.lanes):(s.updateQueue=null,s.memoizedState=null)}var v=(V.current&1)!=0,p=o;do{var y;if(y=p.tag===13){var B=p.memoizedState;if(B!==null)y=B.dehydrated!==null;else{var E=p.memoizedProps;y=E.fallback===void 0?!1:E.unstable_avoidThisFallback!==!0?!0:!v}}if(y){var g=p.updateQueue;if(g===null){var u=new Set;u.add(d),p.updateQueue=u}else g.add(d);if((p.mode&2)==0){if(p.flags|=64,s.flags|=16384,s.flags&=-2981,s.tag===1)if(s.alternate===null)s.tag=17;else{var c=ea(-1,1);c.tag=2,aa(s,c)}s.lanes|=1;break e}l=void 0,s=a;var m=r.pingCache;if(m===null?(m=r.pingCache=new uc,l=new Set,m.set(d,l)):(l=m.get(d),l===void 0&&(l=new Set,m.set(d,l))),!l.has(s)){l.add(s);var S=kc.bind(null,r,d,s);d.then(S,S)}p.flags|=4096,p.lanes=a;break e}p=p.return}while(p!==null);l=Error((Da(s.type)||"A React component")+` suspended while rendering, but no fallback UI was specified.
+`+r.stack}return{value:e,source:n,stack:i}}function Xr(e,n){try{console.error(n.value)}catch(a){setTimeout(function(){throw a})}}var uc=typeof WeakMap=="function"?WeakMap:Map;function zl(e,n,a){a=en(-1,a),a.tag=3,a.payload={element:null};var t=n.value;return a.callback=function(){ni||(ni=!0,$r=t),Xr(e,n)},a}function Ql(e,n,a){a=en(-1,a),a.tag=3;var t=e.type.getDerivedStateFromError;if(typeof t=="function"){var i=n.value;a.payload=function(){return Xr(e,n),t(i)}}var r=e.stateNode;return r!==null&&typeof r.componentDidCatch=="function"&&(a.callback=function(){typeof t!="function"&&(Ge===null?Ge=new Set([this]):Ge.add(this),Xr(e,n));var s=n.stack;this.componentDidCatch(n.value,{componentStack:s!==null?s:""})}),a}var dc=typeof WeakSet=="function"?WeakSet:Set;function _l(e){var n=e.ref;if(n!==null)if(typeof n=="function")try{n(null)}catch(a){on(e,a)}else n.current=null}function cc(e,n){switch(n.tag){case 0:case 11:case 15:case 22:return;case 1:if(n.flags&256&&e!==null){var a=e.memoizedProps,t=e.memoizedState;e=n.stateNode,n=e.getSnapshotBeforeUpdate(n.elementType===n.type?a:Me(n.type,a),t),e.__reactInternalSnapshotBeforeUpdate=n}return;case 3:n.flags&256&&mr(n.stateNode.containerInfo);return;case 5:case 6:case 4:case 17:return}throw Error(y(163))}function hc(e,n,a){switch(a.tag){case 0:case 11:case 15:case 22:if(n=a.updateQueue,n=n!==null?n.lastEffect:null,n!==null){e=n=n.next;do{if((e.tag&3)==3){var t=e.create;e.destroy=t()}e=e.next}while(e!==n)}if(n=a.updateQueue,n=n!==null?n.lastEffect:null,n!==null){e=n=n.next;do{var i=e;t=i.next,i=i.tag,(i&4)!=0&&(i&1)!=0&&(Jl(a,e),gc(a,e)),e=t}while(e!==n)}return;case 1:e=a.stateNode,a.flags&4&&(n===null?e.componentDidMount():(t=a.elementType===a.type?n.memoizedProps:Me(a.type,n.memoizedProps),e.componentDidUpdate(t,n.memoizedState,e.__reactInternalSnapshotBeforeUpdate))),n=a.updateQueue,n!==null&&ul(a,n,e);return;case 3:if(n=a.updateQueue,n!==null){if(e=null,a.child!==null)switch(a.child.tag){case 5:e=a.child.stateNode;break;case 1:e=a.child.stateNode}ul(a,n,e)}return;case 5:e=a.stateNode,n===null&&a.flags&4&&zo(a.type,a.memoizedProps)&&e.focus();return;case 6:return;case 4:return;case 12:return;case 13:a.memoizedState===null&&(a=a.alternate,a!==null&&(a=a.memoizedState,a!==null&&(a=a.dehydrated,a!==null&&ro(a))));return;case 19:case 17:case 20:case 21:case 23:case 24:return}throw Error(y(163))}function Vl(e,n){for(var a=e;;){if(a.tag===5){var t=a.stateNode;if(n)t=t.style,typeof t.setProperty=="function"?t.setProperty("display","none","important"):t.display="none";else{t=a.stateNode;var i=a.memoizedProps.style;i=i!=null&&i.hasOwnProperty("display")?i.display:null,t.style.display=Ys("display",i)}}else if(a.tag===6)a.stateNode.nodeValue=n?"":a.memoizedProps;else if((a.tag!==23&&a.tag!==24||a.memoizedState===null||a===e)&&a.child!==null){a.child.return=a,a=a.child;continue}if(a===e)break;for(;a.sibling===null;){if(a.return===null||a.return===e)return;a=a.return}a.sibling.return=a.return,a=a.sibling}}function ql(e,n){if(Tn&&typeof Tn.onCommitFiberUnmount=="function")try{Tn.onCommitFiberUnmount(yr,n)}catch(r){}switch(n.tag){case 0:case 11:case 14:case 15:case 22:if(e=n.updateQueue,e!==null&&(e=e.lastEffect,e!==null)){var a=e=e.next;do{var t=a,i=t.destroy;if(t=t.tag,i!==void 0)if((t&4)!=0)Jl(n,a);else{t=n;try{i()}catch(r){on(t,r)}}a=a.next}while(a!==e)}break;case 1:if(_l(n),e=n.stateNode,typeof e.componentWillUnmount=="function")try{e.props=n.memoizedProps,e.state=n.memoizedState,e.componentWillUnmount()}catch(r){on(n,r)}break;case 5:_l(n);break;case 4:Zl(e,n)}}function Xl(e){e.alternate=null,e.child=null,e.dependencies=null,e.firstEffect=null,e.lastEffect=null,e.memoizedProps=null,e.memoizedState=null,e.pendingProps=null,e.return=null,e.updateQueue=null}function $l(e){return e.tag===5||e.tag===3||e.tag===4}function eu(e){e:{for(var n=e.return;n!==null;){if($l(n))break e;n=n.return}throw Error(y(160))}var a=n;switch(n=a.stateNode,a.tag){case 5:var t=!1;break;case 3:n=n.containerInfo,t=!0;break;case 4:n=n.containerInfo,t=!0;break;default:throw Error(y(161))}a.flags&16&&(fa(n,""),a.flags&=-17);e:n:for(a=e;;){for(;a.sibling===null;){if(a.return===null||$l(a.return)){a=null;break e}a=a.return}for(a.sibling.return=a.return,a=a.sibling;a.tag!==5&&a.tag!==6&&a.tag!==18;){if(a.flags&2||a.child===null||a.tag===4)continue n;a.child.return=a,a=a.child}if(!(a.flags&2)){a=a.stateNode;break e}}t?es(e,a,n):ns(e,a,n)}function es(e,n,a){var t=e.tag,i=t===5||t===6;if(i)e=i?e.stateNode:e.stateNode.instance,n?a.nodeType===8?a.parentNode.insertBefore(e,n):a.insertBefore(e,n):(a.nodeType===8?(n=a.parentNode,n.insertBefore(e,a)):(n=a,n.appendChild(e)),a=a._reactRootContainer,a!=null||n.onclick!==null||(n.onclick=Pt));else if(t!==4&&(e=e.child,e!==null))for(es(e,n,a),e=e.sibling;e!==null;)es(e,n,a),e=e.sibling}function ns(e,n,a){var t=e.tag,i=t===5||t===6;if(i)e=i?e.stateNode:e.stateNode.instance,n?a.insertBefore(e,n):a.appendChild(e);else if(t!==4&&(e=e.child,e!==null))for(ns(e,n,a),e=e.sibling;e!==null;)ns(e,n,a),e=e.sibling}function Zl(e,n){for(var a=n,t=!1,i,r;;){if(!t){t=a.return;e:for(;;){if(t===null)throw Error(y(160));switch(i=t.stateNode,t.tag){case 5:r=!1;break e;case 3:i=i.containerInfo,r=!0;break e;case 4:i=i.containerInfo,r=!0;break e}t=t.return}t=!0}if(a.tag===5||a.tag===6){e:for(var s=e,o=a,l=o;;)if(ql(s,l),l.child!==null&&l.tag!==4)l.child.return=l,l=l.child;else{if(l===o)break e;for(;l.sibling===null;){if(l.return===null||l.return===o)break e;l=l.return}l.sibling.return=l.return,l=l.sibling}r?(s=i,o=a.stateNode,s.nodeType===8?s.parentNode.removeChild(o):s.removeChild(o)):i.removeChild(a.stateNode)}else if(a.tag===4){if(a.child!==null){i=a.stateNode.containerInfo,r=!0,a.child.return=a,a=a.child;continue}}else if(ql(e,a),a.child!==null){a.child.return=a,a=a.child;continue}if(a===n)break;for(;a.sibling===null;){if(a.return===null||a.return===n)return;a=a.return,a.tag===4&&(t=!1)}a.sibling.return=a.return,a=a.sibling}}function ts(e,n){switch(n.tag){case 0:case 11:case 14:case 15:case 22:var a=n.updateQueue;if(a=a!==null?a.lastEffect:null,a!==null){var t=a=a.next;do(t.tag&3)==3&&(e=t.destroy,t.destroy=void 0,e!==void 0&&e()),t=t.next;while(t!==a)}return;case 1:return;case 5:if(a=n.stateNode,a!=null){t=n.memoizedProps;var i=e!==null?e.memoizedProps:t;e=n.type;var r=n.updateQueue;if(n.updateQueue=null,r!==null){for(a[Kt]=t,e==="input"&&t.type==="radio"&&t.name!=null&&Bs(a,t),Ri(e,i),n=Ri(e,t),i=0;i<r.length;i+=2){var s=r[i],o=r[i+1];s==="style"?js(a,o):s==="dangerouslySetInnerHTML"?bs(a,o):s==="children"?fa(a,o):ki(a,s,o,n)}switch(e){case"input":Ni(a,t);break;case"textarea":Ls(a,t);break;case"select":e=a._wrapperState.wasMultiple,a._wrapperState.wasMultiple=!!t.multiple,r=t.value,r!=null?Un(a,!!t.multiple,r,!1):e!==!!t.multiple&&(t.defaultValue!=null?Un(a,!!t.multiple,t.defaultValue,!0):Un(a,!!t.multiple,t.multiple?[]:"",!1))}}}return;case 6:if(n.stateNode===null)throw Error(y(162));n.stateNode.nodeValue=n.memoizedProps;return;case 3:a=n.stateNode,a.hydrate&&(a.hydrate=!1,ro(a.containerInfo));return;case 12:return;case 13:n.memoizedState!==null&&(as=se(),Vl(n.child,!0)),nu(n);return;case 19:nu(n);return;case 17:return;case 23:case 24:Vl(n,n.memoizedState!==null);return}throw Error(y(163))}function nu(e){var n=e.updateQueue;if(n!==null){e.updateQueue=null;var a=e.stateNode;a===null&&(a=e.stateNode=new dc),n.forEach(function(t){var i=pc.bind(null,e,t);a.has(t)||(a.add(t),t.then(i,i))})}}function fc(e,n){return e!==null&&(e=e.memoizedState,e===null||e.dehydrated!==null)?(n=n.memoizedState,n!==null&&n.dehydrated===null):!1}var mc=Math.ceil,ai=pn.ReactCurrentDispatcher,is=pn.ReactCurrentOwner,G=0,ce=null,q=null,le=0,En=0,rs=qe(0),te=0,ti=null,ia=0,Da=0,aa=0,ss=0,os=null,as=0,Vr=Infinity;function ra(){Vr=se()+500}var E=null,ni=!1,$r=null,Ge=null,ln=!1,Va=null,Za=90,ls=[],us=[],He=null,qa=0,ds=null,ii=-1,Fe=0,ri=0,Xa=null,si=!1;function ke(){return(G&48)!=0?se():ii!==-1?ii:ii=se()}function an(e){if(e=e.mode,(e&2)==0)return 1;if((e&4)==0)return Zn()===99?1:2;if(Fe===0&&(Fe=ia),nc.transition!==0){ri!==0&&(ri=os!==null?os.pendingLanes:0),e=Fe;var n=4186112&~ri;return n&=-n,n===0&&(e=4186112&~e,n=e&-e,n===0&&(n=8192)),n}return e=Zn(),(G&4)!=0&&e===98?e=yt(12,Fe):(e=id(e),e=yt(e,Fe)),e}function tn(e,n,a){if(50<qa)throw qa=0,ds=null,Error(y(185));if(e=oi(e,n),e===null)return null;Tt(e,n,a),e===ce&&(aa|=n,te===4&&ta(e,le));var t=Zn();n===1?(G&8)!=0&&(G&48)==0?cs(e):(ve(e,a),G===0&&(ra(),Oe())):((G&4)==0||t!==98&&t!==99||(He===null?He=new Set([e]):He.add(e)),ve(e,a)),os=e}function oi(e,n){e.lanes|=n;var a=e.alternate;for(a!==null&&(a.lanes|=n),a=e,e=e.return;e!==null;)e.childLanes|=n,a=e.alternate,a!==null&&(a.childLanes|=n),a=e,e=e.return;return a.tag===3?a.stateNode:null}function ve(e,n){for(var a=e.callbackNode,t=e.suspendedLanes,i=e.pingedLanes,r=e.expirationTimes,s=e.pendingLanes;0<s;){var o=31-Je(s),l=1<<o,d=r[o];if(d===-1){if((l&t)==0||(l&i)!=0){d=n,Hn(l);var S=F;r[o]=10<=S?d+250:6<=S?d+5e3:-1}}else d<=n&&(e.expiredLanes|=l);s&=~l}if(t=Ea(e,e===ce?le:0),n=F,t===0)a!==null&&(a!==vr&&Ar(a),e.callbackNode=null,e.callbackPriority=0);else{if(a!==null){if(e.callbackPriority===n)return;a!==vr&&Ar(a)}n===15?(a=cs.bind(null,e),De===null?(De=[a],Dt=Tr(Bt,rl)):De.push(a),a=vr):n===14?a=Ba(99,cs.bind(null,e)):(a=rd(n),a=Ba(a,au.bind(null,e))),e.callbackPriority=n,e.callbackNode=a}}function au(e){if(ii=-1,ri=Fe=0,(G&48)!=0)throw Error(y(327));var n=e.callbackNode;if(un()&&e.callbackNode!==n)return null;var a=Ea(e,e===ce?le:0);if(a===0)return null;var t=a,i=G;G|=16;var r=iu();(ce!==e||le!==t)&&(ra(),sa(e,t));do try{Sc();break}catch(o){tu(e,o)}while(1);if(Er(),ai.current=r,G=i,q!==null?t=0:(ce=null,le=0,t=te),(ia&aa)!=0)sa(e,0);else if(t!==0){if(t===2&&(G|=64,e.hydrate&&(e.hydrate=!1,mr(e.containerInfo)),a=ho(e),a!==0&&(t=$a(e,a))),t===1)throw n=ti,sa(e,0),ta(e,a),ve(e,se()),n;switch(e.finishedWork=e.current.alternate,e.finishedLanes=a,t){case 0:case 1:throw Error(y(345));case 2:Cn(e);break;case 3:if(ta(e,a),(a&62914560)===a&&(t=as+500-se(),10<t)){if(Ea(e,0)!==0)break;if(i=e.suspendedLanes,(i&a)!==a){ke(),e.pingedLanes|=e.suspendedLanes&i;break}e.timeoutHandle=Qo(Cn.bind(null,e),t);break}Cn(e);break;case 4:if(ta(e,a),(a&4186112)===a)break;for(t=e.eventTimes,i=-1;0<a;){var s=31-Je(a);r=1<<s,s=t[s],s>i&&(i=s),a&=~r}if(a=i,a=se()-a,a=(120>a?120:480>a?480:1080>a?1080:1920>a?1920:3e3>a?3e3:4320>a?4320:1960*mc(a/1960))-a,10<a){e.timeoutHandle=Qo(Cn.bind(null,e),a);break}Cn(e);break;case 5:Cn(e);break;default:throw Error(y(329))}}return ve(e,se()),e.callbackNode===n?au.bind(null,e):null}function ta(e,n){for(n&=~ss,n&=~aa,e.suspendedLanes|=n,e.pingedLanes&=~n,e=e.expirationTimes;0<n;){var a=31-Je(n),t=1<<a;e[a]=-1,n&=~t}}function cs(e){if((G&48)!=0)throw Error(y(327));if(un(),e===ce&&(e.expiredLanes&le)!=0){var n=le,a=$a(e,n);(ia&aa)!=0&&(n=Ea(e,n),a=$a(e,n))}else n=Ea(e,0),a=$a(e,n);if(e.tag!==0&&a===2&&(G|=64,e.hydrate&&(e.hydrate=!1,mr(e.containerInfo)),n=ho(e),n!==0&&(a=$a(e,n))),a===1)throw a=ti,sa(e,0),ta(e,n),ve(e,se()),a;return e.finishedWork=e.current.alternate,e.finishedLanes=n,Cn(e),ve(e,se()),null}function kc(){if(He!==null){var e=He;He=null,e.forEach(function(n){n.expiredLanes|=24&n.pendingLanes,ve(n,se())})}Oe()}function ru(e,n){var a=G;G|=1;try{return e(n)}finally{G=a,G===0&&(ra(),Oe())}}function su(e,n){var a=G;G&=-2,G|=8;try{return e(n)}finally{G=a,G===0&&(ra(),Oe())}}function $t(e,n){z(rs,En),En|=n,ia|=n}function Zr(){En=rs.current,Y(rs)}function sa(e,n){e.finishedWork=null,e.finishedLanes=0;var a=e.timeoutHandle;if(a!==-1&&(e.timeoutHandle=-1,Vd(a)),q!==null)for(a=q.return;a!==null;){var t=a;switch(t.tag){case 1:t=t.type.childContextTypes,t!=null&&Gt();break;case 3:ea(),Y(he),Y(re),Br();break;case 5:Kr(t);break;case 4:ea();break;case 13:Y(Q);break;case 19:Y(Q);break;case 10:Cr(t);break;case 23:case 24:Zr()}a=a.return}ce=e,q=rn(e.current,null),le=En=ia=n,te=0,ti=null,ss=aa=Da=0}function tu(e,n){do{var a=q;try{if(Er(),Ya.current=Vt,Jt){for(var t=_.memoizedState;t!==null;){var i=t.queue;i!==null&&(i.pending=null),t=t.next}Jt=!1}if(ja=0,ae=oe=_=null,xa=!1,is.current=null,a===null||a.return===null){te=1,ti=n,q=null;break}e:{var r=e,s=a.return,o=a,l=n;if(n=le,o.flags|=2048,o.firstEffect=o.lastEffect=null,l!==null&&typeof l=="object"&&typeof l.then=="function"){var d=l;if((o.mode&2)==0){var S=o.alternate;S?(o.updateQueue=S.updateQueue,o.memoizedState=S.memoizedState,o.lanes=S.lanes):(o.updateQueue=null,o.memoizedState=null)}var v=(Q.current&1)!=0,f=s;do{var A;if(A=f.tag===13){var O=f.memoizedState;if(O!==null)A=O.dehydrated!==null;else{var C=f.memoizedProps;A=C.fallback===void 0?!1:C.unstable_avoidThisFallback!==!0?!0:!v}}if(A){var g=f.updateQueue;if(g===null){var u=new Set;u.add(d),f.updateQueue=u}else g.add(d);if((f.mode&2)==0){if(f.flags|=64,o.flags|=16384,o.flags&=-2981,o.tag===1)if(o.alternate===null)o.tag=17;else{var c=en(-1,1);c.tag=2,nn(o,c)}o.lanes|=1;break e}l=void 0,o=n;var p=r.pingCache;if(p===null?(p=r.pingCache=new uc,l=new Set,p.set(d,l)):(l=p.get(d),l===void 0&&(l=new Set,p.set(d,l))),!l.has(o)){l.add(o);var m=yc.bind(null,r,d,o);d.then(m,m)}f.flags|=4096,f.lanes=n;break e}f=f.return}while(f!==null);l=Error((Gn(o.type)||"A React component")+` suspended while rendering, but no fallback UI was specified.
 
-Add a <Suspense fallback=...> component higher in the tree to provide a loading indicator or placeholder to display.`)}te!==5&&(te=2),l=qr(l,s),p=o;do{switch(p.tag){case 3:r=l,p.flags|=4096,a&=-a,p.lanes|=a;var W=Vl(p,r,a);ll(p,W);break e;case 1:r=l;var M=p.type,w=p.stateNode;if((p.flags&64)==0&&(typeof M.getDerivedStateFromError=="function"||w!==null&&typeof w.componentDidCatch=="function"&&(Ge===null||!Ge.has(w)))){p.flags|=4096,a&=-a,p.lanes|=a;var D=zl(p,r,a);ll(p,D);break e}}p=p.return}while(p!==null)}su(n)}catch(O){a=O,q===n&&n!==null&&(q=n=n.return);continue}break}while(1)}function iu(){var e=ni.current;return ni.current=_t,e===null?_t:e}function $n(e,a){var n=G;G|=16;var t=iu();ce===e&&se===a||on(e,a);do try{Ac();break}catch(i){tu(e,i)}while(1);if(Ir(),G=n,ni.current=t,q!==null)throw Error(k(261));return ce=null,se=0,te}function Ac(){for(;q!==null;)lu(q)}function fc(){for(;q!==null&&!Xd();)lu(q)}function lu(e){var a=uu(e.alternate,e,Ca);e.memoizedProps=e.pendingProps,a===null?su(e):q=a,io.current=null}function su(e){var a=e;do{var n=a.alternate;if(e=a.return,(a.flags&2048)==0){if(n=sc(n,a,Ca),n!==null){q=n;return}if(n=a,n.tag!==24&&n.tag!==23||n.memoizedState===null||(Ca&1073741824)!=0||(n.mode&4)==0){for(var t=0,i=n.child;i!==null;)t|=i.lanes|i.childLanes,i=i.sibling;n.childLanes=t}e!==null&&(e.flags&2048)==0&&(e.firstEffect===null&&(e.firstEffect=a.firstEffect),a.lastEffect!==null&&(e.lastEffect!==null&&(e.lastEffect.nextEffect=a.firstEffect),e.lastEffect=a.lastEffect),1<a.flags&&(e.lastEffect!==null?e.lastEffect.nextEffect=a:e.firstEffect=a,e.lastEffect=a))}else{if(n=lc(a),n!==null){n.flags&=2047,q=n;return}e!==null&&(e.firstEffect=e.lastEffect=null,e.flags|=2048)}if(a=a.sibling,a!==null){q=a;return}q=a=e}while(a!==null);te===0&&(te=5)}function Ia(e){var a=_a();return Aa(99,yc.bind(null,e,a)),null}function yc(e,a){do la();while(_n!==null);if((G&48)!=0)throw Error(k(327));var n=e.finishedWork;if(n===null)return null;if(e.finishedWork=null,e.finishedLanes=0,n===e.current)throw Error(k(177));e.callbackNode=null;var t=n.lanes|n.childLanes,i=t,r=e.pendingLanes&~i;e.pendingLanes=i,e.suspendedLanes=0,e.pingedLanes=0,e.expiredLanes&=i,e.mutableReadLanes&=i,e.entangledLanes&=i,i=e.entanglements;for(var o=e.eventTimes,s=e.expirationTimes;0<r;){var l=31-Je(r),d=1<<l;i[l]=0,o[l]=-1,s[l]=-1,r&=~d}if(He!==null&&(t&24)==0&&He.has(e)&&He.delete(e),e===ce&&(q=ce=null,se=0),1<n.flags?n.lastEffect!==null?(n.lastEffect.nextEffect=n,t=n.firstEffect):t=n:t=n.firstEffect,t!==null){if(i=G,G|=32,io.current=null,hr=yt,o=Ns(),ur(o)){if("selectionStart"in o)s={start:o.selectionStart,end:o.selectionEnd};else e:if(s=(s=o.ownerDocument)&&s.defaultView||window,(d=s.getSelection&&s.getSelection())&&d.rangeCount!==0){s=d.anchorNode,r=d.anchorOffset,l=d.focusNode,d=d.focusOffset;try{s.nodeType,l.nodeType}catch(O){s=null;break e}var f=0,v=-1,p=-1,y=0,B=0,E=o,g=null;a:for(;;){for(var u;E!==s||r!==0&&E.nodeType!==3||(v=f+r),E!==l||d!==0&&E.nodeType!==3||(p=f+d),E.nodeType===3&&(f+=E.nodeValue.length),(u=E.firstChild)!==null;)g=E,E=u;for(;;){if(E===o)break a;if(g===s&&++y===r&&(v=f),g===l&&++B===d&&(p=f),(u=E.nextSibling)!==null)break;E=g,g=E.parentNode}E=u}s=v===-1||p===-1?null:{start:v,end:p}}else s=null;s=s||{start:0,end:0}}else s=null;mr={focusedElem:o,selectionRange:s},yt=!1,Xn=null,oi=!1,I=t;do try{Mc()}catch(O){if(I===null)throw Error(k(330));oa(I,O),I=I.nextEffect}while(I!==null);Xn=null,I=t;do try{for(o=e;I!==null;){var c=I.flags;if(c&16&&pn(I.stateNode,""),c&128){var m=I.alternate;if(m!==null){var S=m.ref;S!==null&&(typeof S=="function"?S(null):S.current=null)}}switch(c&1038){case 2:eu(I),I.flags&=-3;break;case 6:eu(I),I.flags&=-3,to(I.alternate,I);break;case 1024:I.flags&=-1025;break;case 1028:I.flags&=-1025,to(I.alternate,I);break;case 4:to(I.alternate,I);break;case 8:s=I,Zl(o,s);var W=s.alternate;Xl(s),W!==null&&Xl(W)}I=I.nextEffect}}catch(O){if(I===null)throw Error(k(330));oa(I,O),I=I.nextEffect}while(I!==null);if(S=mr,m=Ns(),c=S.focusedElem,o=S.selectionRange,m!==c&&c&&c.ownerDocument&&Gs(c.ownerDocument.documentElement,c)){for(o!==null&&ur(c)&&(m=o.start,S=o.end,S===void 0&&(S=m),"selectionStart"in c?(c.selectionStart=m,c.selectionEnd=Math.min(S,c.value.length)):(S=(m=c.ownerDocument||document)&&m.defaultView||window,S.getSelection&&(S=S.getSelection(),s=c.textContent.length,W=Math.min(o.start,s),o=o.end===void 0?W:Math.min(o.end,s),!S.extend&&W>o&&(s=o,o=W,W=s),s=Ds(c,W),r=Ds(c,o),s&&r&&(S.rangeCount!==1||S.anchorNode!==s.node||S.anchorOffset!==s.offset||S.focusNode!==r.node||S.focusOffset!==r.offset)&&(m=m.createRange(),m.setStart(s.node,s.offset),S.removeAllRanges(),W>o?(S.addRange(m),S.extend(r.node,r.offset)):(m.setEnd(r.node,r.offset),S.addRange(m)))))),m=[],S=c;S=S.parentNode;)S.nodeType===1&&m.push({element:S,left:S.scrollLeft,top:S.scrollTop});for(typeof c.focus=="function"&&c.focus(),c=0;c<m.length;c++)S=m[c],S.element.scrollLeft=S.left,S.element.scrollTop=S.top}yt=!!hr,mr=hr=null,e.current=n,I=t;do try{for(c=e;I!==null;){var M=I.flags;if(M&36&&hc(c,I.alternate,I),M&128){m=void 0;var w=I.ref;if(w!==null){var D=I.stateNode;switch(I.tag){case 5:m=D;break;default:m=D}typeof w=="function"?w(m):w.current=m}}I=I.nextEffect}}catch(O){if(I===null)throw Error(k(330));oa(I,O),I=I.nextEffect}while(I!==null);I=null,ec(),G=i}else e.current=n;if(sa)sa=!1,_n=e,Zn=a;else for(I=t;I!==null;)a=I.nextEffect,I.nextEffect=null,I.flags&8&&(M=I,M.sibling=null,M.stateNode=null),I=a;if(t=e.pendingLanes,t===0&&(Ge=null),t===1?e===co?qn++:(qn=0,co=e):qn=0,n=n.stateNode,ka&&typeof ka.onCommitFiberRoot=="function")try{ka.onCommitFiberRoot(kr,n,void 0,(n.current.flags&64)==64)}catch(O){}if(ve(e,re()),ai)throw ai=!1,e=$r,$r=null,e;return(G&8)!=0||Be(),null}function Mc(){for(;I!==null;){var e=I.alternate;oi||Xn===null||((I.flags&8)!=0?$o(I,Xn)&&(oi=!0):I.tag===13&&pc(e,I)&&$o(I,Xn)&&(oi=!0));var a=I.flags;(a&256)!=0&&cc(e,I),(a&512)==0||sa||(sa=!0,Kn(97,function(){return la(),null})),I=I.nextEffect}}function la(){if(Zn!==90){var e=97<Zn?97:Zn;return Zn=90,Aa(e,vc)}return!1}function gc(e,a){lo.push(a,e),sa||(sa=!0,Kn(97,function(){return la(),null}))}function Jl(e,a){uo.push(a,e),sa||(sa=!0,Kn(97,function(){return la(),null}))}function vc(){if(_n===null)return!1;var e=_n;if(_n=null,(G&48)!=0)throw Error(k(331));var a=G;G|=32;var n=uo;uo=[];for(var t=0;t<n.length;t+=2){var i=n[t],r=n[t+1],o=i.destroy;if(i.destroy=void 0,typeof o=="function")try{o()}catch(l){if(r===null)throw Error(k(330));oa(r,l)}}for(n=lo,lo=[],t=0;t<n.length;t+=2){i=n[t],r=n[t+1];try{var s=i.create;i.destroy=s()}catch(l){if(r===null)throw Error(k(330));oa(r,l)}}for(s=e.current.firstEffect;s!==null;)e=s.nextEffect,s.nextEffect=null,s.flags&8&&(s.sibling=null,s.stateNode=null),s=e;return G=a,Be(),!0}function du(e,a,n){a=qr(n,a),a=Vl(e,a,1),aa(e,a),a=Te(),e=si(e,1),e!==null&&(At(e,1,a),ve(e,a))}function oa(e,a){if(e.tag===3)du(e,e,a);else for(var n=e.return;n!==null;){if(n.tag===3){du(n,e,a);break}else if(n.tag===1){var t=n.stateNode;if(typeof n.type.getDerivedStateFromError=="function"||typeof t.componentDidCatch=="function"&&(Ge===null||!Ge.has(t))){e=qr(a,e);var i=zl(n,e,1);if(aa(n,i),i=Te(),n=si(n,1),n!==null)At(n,1,i),ve(n,i);else if(typeof t.componentDidCatch=="function"&&(Ge===null||!Ge.has(t)))try{t.componentDidCatch(a,e)}catch(r){}break}}n=n.return}}function kc(e,a,n){var t=e.pingCache;t!==null&&t.delete(a),a=Te(),e.pingedLanes|=e.suspendedLanes&n,ce===e&&(se&n)===n&&(te===4||te===3&&(se&62914560)===se&&500>re()-no?on(e,0):oo|=n),ve(e,a)}function mc(e,a){var n=e.stateNode;n!==null&&n.delete(a),a=0,a===0&&(a=e.mode,(a&2)==0?a=1:(a&4)==0?a=_a()===99?1:2:(Le===0&&(Le=tn),a=La(62914560&~Le),a===0&&(a=4194304))),n=Te(),e=si(e,a),e!==null&&(At(e,a,n),ve(e,n))}var uu;uu=function(e,a,n){var t=a.lanes;if(e!==null)if(e.memoizedProps!==a.pendingProps||he.current)Ie=!0;else if((n&t)!=0)Ie=(e.flags&16384)!=0;else{switch(Ie=!1,a.tag){case 3:Kl(a),Nr();break;case 5:Sl(a);break;case 1:me(a.type)&&Nt(a);break;case 4:Or(a,a.stateNode.containerInfo);break;case 10:t=a.memoizedProps.value;var i=a.type._context;Q(Ut,i._currentValue),i._currentValue=t;break;case 13:if(a.memoizedState!==null)return(n&a.child.childLanes)!=0?Ll(e,a,n):(Q(V,V.current&1),a=Ue(e,a,n),a!==null?a.sibling:null);Q(V,V.current&1);break;case 19:if(t=(n&a.childLanes)!=0,(e.flags&64)!=0){if(t)return Fl(e,a,n);a.flags|=64}if(i=a.memoizedState,i!==null&&(i.rendering=null,i.tail=null,i.lastEffect=null),Q(V,V.current),t)break;return null;case 23:case 24:return a.lanes=0,Qr(e,a,n)}return Ue(e,a,n)}else Ie=!1;switch(a.lanes=0,a.tag){case 2:if(t=a.type,e!==null&&(e.alternate=null,a.alternate=null,a.flags|=2),e=a.pendingProps,i=Ja(a,ie.current),qa(a,n),i=Ur(null,a,t,e,i,n),a.flags|=1,typeof i=="object"&&i!==null&&typeof i.render=="function"&&i.$$typeof===void 0){if(a.tag=1,a.memoizedState=null,a.updateQueue=null,me(t)){var r=!0;Nt(a)}else r=!1;a.memoizedState=i.state!==null&&i.state!==void 0?i.state:null,wr(a);var o=t.getDerivedStateFromProps;typeof o=="function"&&bt(a,t,o,e),i.updater=Ft,a.stateNode=i,i._reactInternals=a,Pr(a,t,e,n),a=Vr(null,a,t,!0,r,n)}else a.tag=0,Se(null,a,i,n),a=a.child;return a;case 16:i=a.elementType;e:{switch(e!==null&&(e.alternate=null,a.alternate=null,a.flags|=2),e=a.pendingProps,r=i._init,i=r(i._payload),a.type=i,r=a.tag=Cc(i),e=Ce(i,e),r){case 0:a=xr(null,a,i,e,n);break e;case 1:a=Nl(null,a,i,e,n);break e;case 11:a=Wl(null,a,i,e,n);break e;case 14:a=Dl(null,a,i,Ce(i.type,e),t,n);break e}throw Error(k(306,i,""))}return a;case 0:return t=a.type,i=a.pendingProps,i=a.elementType===t?i:Ce(t,i),xr(e,a,t,i,n);case 1:return t=a.type,i=a.pendingProps,i=a.elementType===t?i:Ce(t,i),Nl(e,a,t,i,n);case 3:if(Kl(a),t=a.updateQueue,e===null||t===null)throw Error(k(282));if(t=a.pendingProps,i=a.memoizedState,i=i!==null?i.element:null,sl(e,a),Un(a,t,null,n),t=a.memoizedState.element,t===i)Nr(),a=Ue(e,a,n);else{if(i=a.stateNode,(r=i.hydrate)&&(ra=za(a.stateNode.containerInfo.firstChild),Re=a,r=Oe=!0),r){if(e=i.mutableSourceEagerHydrationData,e!=null)for(i=0;i<e.length;i+=2)r=e[i],r._workInProgressVersionPrimary=e[i+1],en.push(r);for(n=pl(a,null,t,n),a.child=n;n;)n.flags=n.flags&-3|1024,n=n.sibling}else Se(e,a,t,n),Nr();a=a.child}return a;case 5:return Sl(a),e===null&&Gr(a),t=a.type,i=a.pendingProps,r=e!==null?e.memoizedProps:null,o=i.children,pr(t,i)?o=null:r!==null&&pr(t,r)&&(a.flags|=16),Gl(e,a),Se(e,a,o,n),a.child;case 6:return e===null&&Gr(a),null;case 13:return Ll(e,a,n);case 4:return Or(a,a.stateNode.containerInfo),t=a.pendingProps,e===null?a.child=Vt(a,null,t,n):Se(e,a,t,n),a.child;case 11:return t=a.type,i=a.pendingProps,i=a.elementType===t?i:Ce(t,i),Wl(e,a,t,i,n);case 7:return Se(e,a,a.pendingProps,n),a.child;case 8:return Se(e,a,a.pendingProps.children,n),a.child;case 12:return Se(e,a,a.pendingProps.children,n),a.child;case 10:e:{t=a.type._context,i=a.pendingProps,o=a.memoizedProps,r=i.value;var s=a.type._context;if(Q(Ut,s._currentValue),s._currentValue=r,o!==null)if(s=o.value,r=ke(s,r)?0:(typeof t._calculateChangedBits=="function"?t._calculateChangedBits(s,r):1073741823)|0,r===0){if(o.children===i.children&&!he.current){a=Ue(e,a,n);break e}}else for(s=a.child,s!==null&&(s.return=a);s!==null;){var l=s.dependencies;if(l!==null){o=s.child;for(var d=l.firstContext;d!==null;){if(d.context===t&&(d.observedBits&r)!=0){s.tag===1&&(d=ea(-1,n&-n),d.tag=2,aa(s,d)),s.lanes|=n,d=s.alternate,d!==null&&(d.lanes|=n),ol(s.return,n),l.lanes|=n;break}d=d.next}}else o=s.tag===10&&s.type===a.type?null:s.child;if(o!==null)o.return=s;else for(o=s;o!==null;){if(o===a){o=null;break}if(s=o.sibling,s!==null){s.return=o.return,o=s;break}o=o.return}s=o}Se(e,a,i.children,n),a=a.child}return a;case 9:return i=a.type,r=a.pendingProps,t=r.children,qa(a,n),i=Ae(i,r.unstable_observedBits),t=t(i),a.flags|=1,Se(e,a,t,n),a.child;case 14:return i=a.type,r=Ce(i,a.pendingProps),r=Ce(i.type,r),Dl(e,a,i,r,t,n);case 15:return Ol(e,a,a.type,a.pendingProps,t,n);case 17:return t=a.type,i=a.pendingProps,i=a.elementType===t?i:Ce(t,i),e!==null&&(e.alternate=null,a.alternate=null,a.flags|=2),a.tag=1,me(t)?(e=!0,Nt(a)):e=!1,qa(a,n),gl(a,t,i),Pr(a,t,i,n),Vr(null,a,t,!0,e,n);case 19:return Fl(e,a,n);case 23:return Qr(e,a,n);case 24:return Qr(e,a,n)}throw Error(k(156,a.tag))};function Ic(e,a,n,t){this.tag=e,this.key=n,this.sibling=this.child=this.return=this.stateNode=this.type=this.elementType=null,this.index=0,this.ref=null,this.pendingProps=a,this.dependencies=this.memoizedState=this.updateQueue=this.memoizedProps=null,this.mode=t,this.flags=0,this.lastEffect=this.firstEffect=this.nextEffect=null,this.childLanes=this.lanes=0,this.alternate=null}function ye(e,a,n,t){return new Ic(e,a,n,t)}function Yr(e){return e=e.prototype,!(!e||!e.isReactComponent)}function Cc(e){if(typeof e=="function")return Yr(e)?1:0;if(e!=null){if(e=e.$$typeof,e===ot)return 11;if(e===lt)return 14}return 2}function ia(e,a){var n=e.alternate;return n===null?(n=ye(e.tag,a,e.key,e.mode),n.elementType=e.elementType,n.type=e.type,n.stateNode=e.stateNode,n.alternate=e,e.alternate=n):(n.pendingProps=a,n.type=e.type,n.flags=0,n.nextEffect=null,n.firstEffect=null,n.lastEffect=null),n.childLanes=e.childLanes,n.lanes=e.lanes,n.child=e.child,n.memoizedProps=e.memoizedProps,n.memoizedState=e.memoizedState,n.updateQueue=e.updateQueue,a=e.dependencies,n.dependencies=a===null?null:{lanes:a.lanes,firstContext:a.firstContext},n.sibling=e.sibling,n.index=e.index,n.ref=e.ref,n}function Qt(e,a,n,t,i,r){var o=2;if(t=e,typeof e=="function")Yr(e)&&(o=1);else if(typeof e=="string")o=5;else e:switch(e){case xe:return Xa(n.children,i,r,a);case Oo:o=8,i|=16;break;case ki:o=8,i|=1;break;case cn:return e=ye(12,n,a,i|8),e.elementType=cn,e.type=cn,e.lanes=r,e;case gn:return e=ye(13,n,a,i),e.type=gn,e.elementType=gn,e.lanes=r,e;case st:return e=ye(19,n,a,i),e.elementType=st,e.lanes=r,e;case Ii:return zr(n,i,r,a);case Ei:return e=ye(24,n,a,i),e.elementType=Ei,e.lanes=r,e;default:if(typeof e=="object"&&e!==null)switch(e.$$typeof){case Ai:o=10;break e;case yi:o=9;break e;case ot:o=11;break e;case lt:o=14;break e;case Mi:o=16,t=null;break e;case vi:o=22;break e}throw Error(k(130,e==null?e:typeof e,""))}return a=ye(o,n,a,i),a.elementType=e,a.type=t,a.lanes=r,a}function Xa(e,a,n,t){return e=ye(7,e,t,a),e.lanes=n,e}function zr(e,a,n,t){return e=ye(23,e,t,a),e.elementType=Ii,e.lanes=n,e}function Br(e,a,n){return e=ye(6,e,null,a),e.lanes=n,e}function Wr(e,a,n){return a=ye(4,e.children!==null?e.children:[],e.key,a),a.lanes=n,a.stateNode={containerInfo:e.containerInfo,pendingChildren:null,implementation:e.implementation},a}function Ec(e,a,n){this.tag=a,this.containerInfo=e,this.finishedWork=this.pingCache=this.current=this.pendingChildren=null,this.timeoutHandle=-1,this.pendingContext=this.context=null,this.hydrate=n,this.callbackNode=null,this.callbackPriority=0,this.eventTimes=$i(0),this.expirationTimes=$i(-1),this.entangledLanes=this.finishedLanes=this.mutableReadLanes=this.expiredLanes=this.pingedLanes=this.suspendedLanes=this.pendingLanes=0,this.entanglements=$i(0),this.mutableSourceEagerHydrationData=null}function wc(e,a,n){var t=3<arguments.length&&arguments[3]!==void 0?arguments[3]:null;return{$$typeof:ma,key:t==null?null:""+t,children:e,containerInfo:a,implementation:n}}function li(e,a,n,t){var i=a.current,r=Te(),o=na(i);e:if(n){n=n._reactInternals;a:{if(Sa(n)!==n||n.tag!==1)throw Error(k(170));var s=n;do{switch(s.tag){case 3:s=s.stateNode.context;break a;case 1:if(me(s.type)){s=s.stateNode.__reactInternalMemoizedMergedChildContext;break a}}s=s.return}while(s!==null);throw Error(k(171))}if(n.tag===1){var l=n.type;if(me(l)){n=Zs(n,l,s);break e}}n=s}else n=Xe;return a.context===null?a.context=n:a.pendingContext=n,a=ea(r,o),a.payload={element:e},t=t===void 0?null:t,t!==null&&(a.callback=t),aa(i,a),ta(i,o,r),o}function ho(e){if(e=e.current,!e.child)return null;switch(e.child.tag){case 5:return e.child.stateNode;default:return e.child.stateNode}}function cu(e,a){if(e=e.memoizedState,e!==null&&e.dehydrated!==null){var n=e.retryLane;e.retryLane=n!==0&&n<a?n:a}}function mo(e,a){cu(e,a),(e=e.alternate)&&cu(e,a)}function Pc(){return null}function po(e,a,n){var t=n!=null&&n.hydrationOptions!=null&&n.hydrationOptions.mutableSources||null;if(n=new Ec(e,a,n!=null&&n.hydrate===!0),a=ye(3,null,null,a===2?7:a===1?3:0),n.current=a,a.stateNode=n,wr(a),e[Va]=n.current,xs(e.nodeType===8?e.parentNode:e),t)for(e=0;e<t.length;e++){a=t[e];var i=a._getVersion;i=i(a._source),n.mutableSourceEagerHydrationData==null?n.mutableSourceEagerHydrationData=[a,i]:n.mutableSourceEagerHydrationData.push(a,i)}this._internalRoot=n}po.prototype.render=function(e){li(e,this._internalRoot,null,null)};po.prototype.unmount=function(){var e=this._internalRoot,a=e.containerInfo;li(null,e,null,function(){a[Va]=null})};function et(e){return!(!e||e.nodeType!==1&&e.nodeType!==9&&e.nodeType!==11&&(e.nodeType!==8||e.nodeValue!==" react-mount-point-unstable "))}function Bc(e,a){if(a||(a=e?e.nodeType===9?e.documentElement:e.firstChild:null,a=!(!a||a.nodeType!==1||!a.hasAttribute("data-reactroot"))),!a)for(var n;n=e.lastChild;)e.removeChild(n);return new po(e,0,a?{hydrate:!0}:void 0)}function ui(e,a,n,t,i){var r=n._reactRootContainer;if(r){var o=r._internalRoot;if(typeof i=="function"){var s=i;i=function(){var d=ho(o);s.call(d)}}li(a,o,e,i)}else{if(r=n._reactRootContainer=Bc(n,t),o=r._internalRoot,typeof i=="function"){var l=i;i=function(){var d=ho(o);l.call(d)}}ou(function(){li(a,o,e,i)})}return ho(o)}es=function(e){if(e.tag===13){var a=Te();ta(e,4,a),mo(e,4)}};zi=function(e){if(e.tag===13){var a=Te();ta(e,67108864,a),mo(e,67108864)}};as=function(e){if(e.tag===13){var a=Te(),n=na(e);ta(e,n,a),mo(e,n)}};ns=function(e,a){return a()};Li=function(e,a,n){switch(a){case"input":if(Oi(e,n),a=n.name,n.type==="radio"&&a!=null){for(n=e;n.parentNode;)n=n.parentNode;for(n=n.querySelectorAll("input[name="+JSON.stringify(""+a)+'][type="radio"]'),a=0;a<n.length;a++){var t=n[a];if(t!==e&&t.form===e.form){var i=ht(t);if(!i)throw Error(k(90));No(t),Oi(t,i)}}}break;case"textarea":Lo(e,n);break;case"select":a=n.value,a!=null&&Ga(e,!!n.multiple,a,!1)}};bi=ru;Jo=function(e,a,n,t,i){var r=G;G|=4;try{return Aa(98,e.bind(null,a,n,t,i))}finally{G=r,G===0&&(rn(),Be())}};Fi=function(){(G&49)==0&&(Tc(),la())};_o=function(e,a){var n=G;G|=2;try{return e(a)}finally{G=n,G===0&&(rn(),Be())}};function gu(e,a){var n=2<arguments.length&&arguments[2]!==void 0?arguments[2]:null;if(!et(a))throw Error(k(200));return wc(e,a,null,n)}var Wc={Events:[fn,Ya,ht,zo,jo,la,{current:!1}]},at={findFiberByHostInstance:fa,bundleType:0,version:"17.0.2",rendererPackageName:"react-dom"},Oc={bundleType:at.bundleType,version:at.version,rendererPackageName:at.rendererPackageName,rendererConfig:at.rendererConfig,overrideHookState:null,overrideHookStateDeletePath:null,overrideHookStateRenamePath:null,overrideProps:null,overridePropsDeletePath:null,overridePropsRenamePath:null,setSuspenseHandler:null,scheduleUpdate:null,currentDispatcherRef:ha.ReactCurrentDispatcher,findHostInstanceByFiber:function(e){return e=Xo(e),e===null?null:e.stateNode},findFiberByHostInstance:at.findFiberByHostInstance||Pc,findHostInstancesForRefresh:null,scheduleRefresh:null,scheduleRoot:null,setRefreshHandler:null,getCurrentFiber:null};if(typeof __REACT_DEVTOOLS_GLOBAL_HOOK__!="undefined"&&(nt=__REACT_DEVTOOLS_GLOBAL_HOOK__,!nt.isDisabled&&nt.supportsFiber))try{kr=nt.inject(Oc),ka=nt}catch(e){}var nt,Dc=Wc,Gc=gu,Nc=function(e){if(e==null)return null;if(e.nodeType===1)return e;var a=e._reactInternals;if(a===void 0)throw typeof e.render=="function"?Error(k(188)):Error(k(268,Object.keys(e)));return e=Xo(a),e=e===null?null:e.stateNode,e},Kc=function(e,a){var n=G;if((n&48)!=0)return e(a);G|=1;try{if(e)return Aa(99,e.bind(null,a))}finally{G=n,Be()}},Rc=function(e,a,n){if(!et(a))throw Error(k(200));return ui(null,e,a,!0,n)},Uc=function(e,a,n){if(!et(a))throw Error(k(200));return ui(null,e,a,!1,n)},Hc=function(e){if(!et(e))throw Error(k(40));return e._reactRootContainer?(ou(function(){ui(null,null,e,!1,function(){e._reactRootContainer=null,e[Va]=null})}),!0):!1},Lc=ru,bc=function(e,a){return gu(e,a,2<arguments.length&&arguments[2]!==void 0?arguments[2]:null)},Fc=function(e,a,n,t){if(!et(n))throw Error(k(200));if(e==null||e._reactInternals===void 0)throw Error(k(38));return ui(e,a,n,!1,t)},Yc="17.0.2",xc={__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED:Dc,createPortal:Gc,findDOMNode:Nc,flushSync:Kc,hydrate:Rc,render:Uc,unmountComponentAtNode:Hc,unstable_batchedUpdates:Lc,unstable_createPortal:bc,unstable_renderSubtreeIntoContainer:Fc,version:Yc},Qc=Ye(function(e){function a(){if(!(typeof __REACT_DEVTOOLS_GLOBAL_HOOK__=="undefined"||typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.checkDCE!="function"))try{__REACT_DEVTOOLS_GLOBAL_HOOK__.checkDCE(a)}catch(n){console.error(n)}}a(),e.exports=xc}),So=Qc.render;var fo=Symbol(),To=Symbol(),ko=Symbol(),di=Symbol();function Ea(e,a){function n(...t){if(t.length>=e.length)return e(...t);{let i=(...r)=>n(...t,...r);return i[fo]=e,i[To]=n,i[ko]=t,i[di]=n[di],i}}return n[fo]=e,n[To]=n,n[ko]=[],n[di]=a||hu(e),n}function Ao(e){return e[fo]}function Vc(e){return e[To]}function ci(e){return e[ko]||[]}function hu(e){return e[di]||e.name}function jc(){let e=[];return{test:a,getAllTests:n};function a(t,i){e.push(...Object.entries(i).map(([r,o])=>zc(t,r,o)))}function n(){return e}}function z(e,a,...n){let t=a(...n,e);if(typeof t=="function")throw new Error("The matcher function `"+yo(t)+"` returned a function instead of a boolean. You might need to pass another argument to it.");if(!t)throw new gi([e,a,...n])}function zc(e,a,n){return{subject:e,scenario:a,fn:n}}var gi=class extends Error{constructor(a){super("Expectation failed");this.expectArgs=a}};function Jc(e){return e[e.length-1]}function mu(e){return e[0]}var _c=Ea(function(e,a){return e(a)},"which"),le=Ea(function(e,a){var n,t;if(Zc(e))return e(a);if(Array.isArray(e)&&Array.isArray(a))return e.length===a.length&&e.every((i,r)=>le(e[r],a[r]));if(e instanceof Function&&a instanceof Function)return Ao(e)&&Ao(e)===Ao(a)?le(ci(e),ci(a)):e===a;if(e instanceof Date&&a instanceof Date)return e.toISOString()===a.toISOString();if(e instanceof Set&&a instanceof Set)return e.size===a.size&&[...e.values()].every(i=>a.has(i));if(pu(e)&&pu(a)){let i=Object.keys(e),r=Object.keys(a);return i.length===r.length&&i.every(o=>le(e[o],a[o]))&&((n=e.__proto__)==null?void 0:n.constructor)===((t=a.__proto__)==null?void 0:t.constructor)}return e===a},"equals"),Ee=Ea(function(e,a){return e===a},"is"),Mo=Ea(function(e,a,...n){return!e(a,...n)},"not"),Su=Ea(function(e){return/^\s*$/.test(e)},"isBlank");function pu(e){return!!e&&typeof e=="object"}function Zc(e){return e instanceof Function&&Vc(e)===_c&&ci(e).length===1}function yo(e){return hu(e)||"<function>"}function Tu(e){let a=[];return n(e);function n(l){var d;if(l===null)return"null";if(typeof l=="function")return t(l,i);if(typeof l=="string")return vo(l);if(typeof l=="bigint")return`${l}n`;if(Array.isArray(l))return t(l,r);if(l instanceof Date)return`Date(${l.toISOString().replace("T"," ").replace("Z"," UTC")})`;if(l instanceof RegExp)return String(l);if(l instanceof Error)return`${fu(l)}(${vo(l.message)})`;if(l instanceof Set)return t(l,s);if(typeof l=="object"){let f=(d=l==null?void 0:l.__proto__)==null?void 0:d.constructor;return f===Object||!f?t(l,o):`${fu(l)} ${t(l,o)}`}return String(l)}function t(l,d){if(a.indexOf(l)>-1)return"<circular reference>";a.push(l);let f=d(l);return a.pop(),f}function i(l){let d=ci(l).map(n),f=yo(l);return d.length?tt(f+"(",d,",",")"):f}function r(l){return tt("[",l.map(n),",","]")}function o(l){let d=Object.entries(l).map(([f,v])=>`${qc(f)}: ${n(v)}`);return tt("{",d,",","}")}function s(l){let d=[...l.values()].map(n);return tt("Set {",d,",","}")}}function qc(e){return/^[a-zA-Z0-9_$]+$/.test(e)?e:vo(e)}function fu(e){return yo(e.__proto__.constructor)}function vo(e){return'"'+String(e).replace(/\\/g,"\\\\").replace(/\n/g,"\\n").replace(/\t/g,"\\t").replace(/"/g,'\\"').replace(/[\x00-\x1f\x7f]/g,Xc)+'"'}function Xc(e){let a=e.charCodeAt(0).toString(16);return"\\x"+(a.length<2?"0"+a:a)}function hi(e,a){return a.split(`
-`).map(n=>n&&eg($c(e," "))(n)).join(`
-`)}function $c(e,a){return Array(e+1).join(a)}var eg=e=>a=>e+a,ag=Ea(function(a,n){return n.slice(0,a.length)===a?n.slice(a.length):n});function ng(e){return String(e).split(/\r?\n/)}function tg(e){let a=ng(e);Su(mu(a))&&a.shift(),Su(Jc(a))&&a.pop();let n=/^[ \t]*/.exec(mu(a))[0];return a.map(ag(n)).join(`
-`)}function tt(e,a,n,t){return a.length<2?e+a.join("")+t:e+`
-`+hi(2,a.join(n+`
+Add a <Suspense fallback=...> component higher in the tree to provide a loading indicator or placeholder to display.`)}te!==5&&(te=2),l=qr(l,o),f=s;do{switch(f.tag){case 3:r=l,f.flags|=4096,n&=-n,f.lanes|=n;var P=zl(f,r,n);ll(f,P);break e;case 1:r=l;var I=f.type,W=f.stateNode;if((f.flags&64)==0&&(typeof I.getDerivedStateFromError=="function"||W!==null&&typeof W.componentDidCatch=="function"&&(Ge===null||!Ge.has(W)))){f.flags|=4096,n&=-n,f.lanes|=n;var K=Ql(f,r,n);ll(f,K);break e}}f=f.return}while(f!==null)}ou(a)}catch(N){n=N,q===a&&a!==null&&(q=a=a.return);continue}break}while(1)}function iu(){var e=ai.current;return ai.current=Vt,e===null?Vt:e}function $a(e,n){var a=G;G|=16;var t=iu();ce===e&&le===n||sa(e,n);do try{Tc();break}catch(i){tu(e,i)}while(1);if(Er(),G=a,ai.current=t,q!==null)throw Error(y(261));return ce=null,le=0,te}function Tc(){for(;q!==null;)lu(q)}function Sc(){for(;q!==null&&!Xd();)lu(q)}function lu(e){var n=uu(e.alternate,e,En);e.memoizedProps=e.pendingProps,n===null?ou(e):q=n,is.current=null}function ou(e){var n=e;do{var a=n.alternate;if(e=n.return,(n.flags&2048)==0){if(a=oc(a,n,En),a!==null){q=a;return}if(a=n,a.tag!==24&&a.tag!==23||a.memoizedState===null||(En&1073741824)!=0||(a.mode&4)==0){for(var t=0,i=a.child;i!==null;)t|=i.lanes|i.childLanes,i=i.sibling;a.childLanes=t}e!==null&&(e.flags&2048)==0&&(e.firstEffect===null&&(e.firstEffect=n.firstEffect),n.lastEffect!==null&&(e.lastEffect!==null&&(e.lastEffect.nextEffect=n.firstEffect),e.lastEffect=n.lastEffect),1<n.flags&&(e.lastEffect!==null?e.lastEffect.nextEffect=n:e.firstEffect=n,e.lastEffect=n))}else{if(a=lc(n),a!==null){a.flags&=2047,q=a;return}e!==null&&(e.firstEffect=e.lastEffect=null,e.flags|=2048)}if(n=n.sibling,n!==null){q=n;return}q=n=e}while(n!==null);te===0&&(te=5)}function Cn(e){var n=Zn();return An(99,Ac.bind(null,e,n)),null}function Ac(e,n){do un();while(Va!==null);if((G&48)!=0)throw Error(y(327));var a=e.finishedWork;if(a===null)return null;if(e.finishedWork=null,e.finishedLanes=0,a===e.current)throw Error(y(177));e.callbackNode=null;var t=a.lanes|a.childLanes,i=t,r=e.pendingLanes&~i;e.pendingLanes=i,e.suspendedLanes=0,e.pingedLanes=0,e.expiredLanes&=i,e.mutableReadLanes&=i,e.entangledLanes&=i,i=e.entanglements;for(var s=e.eventTimes,o=e.expirationTimes;0<r;){var l=31-Je(r),d=1<<l;i[l]=0,s[l]=-1,o[l]=-1,r&=~d}if(He!==null&&(t&24)==0&&He.has(e)&&He.delete(e),e===ce&&(q=ce=null,le=0),1<a.flags?a.lastEffect!==null?(a.lastEffect.nextEffect=a,t=a.firstEffect):t=a:t=a.firstEffect,t!==null){if(i=G,G|=32,is.current=null,hr=At,s=Uo(),ur(s)){if("selectionStart"in s)o={start:s.selectionStart,end:s.selectionEnd};else e:if(o=(o=s.ownerDocument)&&o.defaultView||window,(d=o.getSelection&&o.getSelection())&&d.rangeCount!==0){o=d.anchorNode,r=d.anchorOffset,l=d.focusNode,d=d.focusOffset;try{o.nodeType,l.nodeType}catch(N){o=null;break e}var S=0,v=-1,f=-1,A=0,O=0,C=s,g=null;n:for(;;){for(var u;C!==o||r!==0&&C.nodeType!==3||(v=S+r),C!==l||d!==0&&C.nodeType!==3||(f=S+d),C.nodeType===3&&(S+=C.nodeValue.length),(u=C.firstChild)!==null;)g=C,C=u;for(;;){if(C===s)break n;if(g===o&&++A===r&&(v=S),g===l&&++O===d&&(f=S),(u=C.nextSibling)!==null)break;C=g,g=C.parentNode}C=u}o=v===-1||f===-1?null:{start:v,end:f}}else o=null;o=o||{start:0,end:0}}else o=null;pr={focusedElem:s,selectionRange:o},At=!1,Xa=null,si=!1,E=t;do try{Ic()}catch(N){if(E===null)throw Error(y(330));on(E,N),E=E.nextEffect}while(E!==null);Xa=null,E=t;do try{for(s=e;E!==null;){var c=E.flags;if(c&16&&fa(E.stateNode,""),c&128){var p=E.alternate;if(p!==null){var m=p.ref;m!==null&&(typeof m=="function"?m(null):m.current=null)}}switch(c&1038){case 2:eu(E),E.flags&=-3;break;case 6:eu(E),E.flags&=-3,ts(E.alternate,E);break;case 1024:E.flags&=-1025;break;case 1028:E.flags&=-1025,ts(E.alternate,E);break;case 4:ts(E.alternate,E);break;case 8:o=E,Zl(s,o);var P=o.alternate;Xl(o),P!==null&&Xl(P)}E=E.nextEffect}}catch(N){if(E===null)throw Error(y(330));on(E,N),E=E.nextEffect}while(E!==null);if(m=pr,p=Uo(),c=m.focusedElem,s=m.selectionRange,p!==c&&c&&c.ownerDocument&&Go(c.ownerDocument.documentElement,c)){for(s!==null&&ur(c)&&(p=s.start,m=s.end,m===void 0&&(m=p),"selectionStart"in c?(c.selectionStart=p,c.selectionEnd=Math.min(m,c.value.length)):(m=(p=c.ownerDocument||document)&&p.defaultView||window,m.getSelection&&(m=m.getSelection(),o=c.textContent.length,P=Math.min(s.start,o),s=s.end===void 0?P:Math.min(s.end,o),!m.extend&&P>s&&(o=s,s=P,P=o),o=Ko(c,P),r=Ko(c,s),o&&r&&(m.rangeCount!==1||m.anchorNode!==o.node||m.anchorOffset!==o.offset||m.focusNode!==r.node||m.focusOffset!==r.offset)&&(p=p.createRange(),p.setStart(o.node,o.offset),m.removeAllRanges(),P>s?(m.addRange(p),m.extend(r.node,r.offset)):(p.setEnd(r.node,r.offset),m.addRange(p)))))),p=[],m=c;m=m.parentNode;)m.nodeType===1&&p.push({element:m,left:m.scrollLeft,top:m.scrollTop});for(typeof c.focus=="function"&&c.focus(),c=0;c<p.length;c++)m=p[c],m.element.scrollLeft=m.left,m.element.scrollTop=m.top}At=!!hr,pr=hr=null,e.current=a,E=t;do try{for(c=e;E!==null;){var I=E.flags;if(I&36&&hc(c,E.alternate,E),I&128){p=void 0;var W=E.ref;if(W!==null){var K=E.stateNode;switch(E.tag){case 5:p=K;break;default:p=K}typeof W=="function"?W(p):W.current=p}}E=E.nextEffect}}catch(N){if(E===null)throw Error(y(330));on(E,N),E=E.nextEffect}while(E!==null);E=null,ec(),G=i}else e.current=a;if(ln)ln=!1,Va=e,Za=n;else for(E=t;E!==null;)n=E.nextEffect,E.nextEffect=null,E.flags&8&&(I=E,I.sibling=null,I.stateNode=null),E=n;if(t=e.pendingLanes,t===0&&(Ge=null),t===1?e===ds?qa++:(qa=0,ds=e):qa=0,a=a.stateNode,Tn&&typeof Tn.onCommitFiberRoot=="function")try{Tn.onCommitFiberRoot(yr,a,void 0,(a.current.flags&64)==64)}catch(N){}if(ve(e,se()),ni)throw ni=!1,e=$r,$r=null,e;return(G&8)!=0||Oe(),null}function Ic(){for(;E!==null;){var e=E.alternate;si||Xa===null||((E.flags&8)!=0?Xs(E,Xa)&&(si=!0):E.tag===13&&fc(e,E)&&Xs(E,Xa)&&(si=!0));var n=E.flags;(n&256)!=0&&cc(e,E),(n&512)==0||ln||(ln=!0,Ba(97,function(){return un(),null})),E=E.nextEffect}}function un(){if(Za!==90){var e=97<Za?97:Za;return Za=90,An(e,vc)}return!1}function gc(e,n){ls.push(n,e),ln||(ln=!0,Ba(97,function(){return un(),null}))}function Jl(e,n){us.push(n,e),ln||(ln=!0,Ba(97,function(){return un(),null}))}function vc(){if(Va===null)return!1;var e=Va;if(Va=null,(G&48)!=0)throw Error(y(331));var n=G;G|=32;var a=us;us=[];for(var t=0;t<a.length;t+=2){var i=a[t],r=a[t+1],s=i.destroy;if(i.destroy=void 0,typeof s=="function")try{s()}catch(l){if(r===null)throw Error(y(330));on(r,l)}}for(a=ls,ls=[],t=0;t<a.length;t+=2){i=a[t],r=a[t+1];try{var o=i.create;i.destroy=o()}catch(l){if(r===null)throw Error(y(330));on(r,l)}}for(o=e.current.firstEffect;o!==null;)e=o.nextEffect,o.nextEffect=null,o.flags&8&&(o.sibling=null,o.stateNode=null),o=e;return G=n,Oe(),!0}function du(e,n,a){n=qr(a,n),n=zl(e,n,1),nn(e,n),n=ke(),e=oi(e,1),e!==null&&(Tt(e,1,n),ve(e,n))}function on(e,n){if(e.tag===3)du(e,e,n);else for(var a=e.return;a!==null;){if(a.tag===3){du(a,e,n);break}else if(a.tag===1){var t=a.stateNode;if(typeof a.type.getDerivedStateFromError=="function"||typeof t.componentDidCatch=="function"&&(Ge===null||!Ge.has(t))){e=qr(n,e);var i=Ql(a,e,1);if(nn(a,i),i=ke(),a=oi(a,1),a!==null)Tt(a,1,i),ve(a,i);else if(typeof t.componentDidCatch=="function"&&(Ge===null||!Ge.has(t)))try{t.componentDidCatch(n,e)}catch(r){}break}}a=a.return}}function yc(e,n,a){var t=e.pingCache;t!==null&&t.delete(n),n=ke(),e.pingedLanes|=e.suspendedLanes&a,ce===e&&(le&a)===a&&(te===4||te===3&&(le&62914560)===le&&500>se()-as?sa(e,0):ss|=a),ve(e,n)}function pc(e,n){var a=e.stateNode;a!==null&&a.delete(n),n=0,n===0&&(n=e.mode,(n&2)==0?n=1:(n&4)==0?n=Zn()===99?1:2:(Fe===0&&(Fe=ia),n=Fn(62914560&~Fe),n===0&&(n=4194304))),a=ke(),e=oi(e,n),e!==null&&(Tt(e,n,a),ve(e,a))}var uu;uu=function(e,n,a){var t=n.lanes;if(e!==null)if(e.memoizedProps!==n.pendingProps||he.current)Ee=!0;else if((a&t)!=0)Ee=(e.flags&16384)!=0;else{switch(Ee=!1,n.tag){case 3:Bl(n),Ur();break;case 5:ml(n);break;case 1:pe(n.type)&&Ut(n);break;case 4:Nr(n,n.stateNode.containerInfo);break;case 10:t=n.memoizedProps.value;var i=n.type._context;z(Rt,i._currentValue),i._currentValue=t;break;case 13:if(n.memoizedState!==null)return(a&n.child.childLanes)!=0?Hl(e,n,a):(z(Q,Q.current&1),n=Le(e,n,a),n!==null?n.sibling:null);z(Q,Q.current&1);break;case 19:if(t=(a&n.childLanes)!=0,(e.flags&64)!=0){if(t)return bl(e,n,a);n.flags|=64}if(i=n.memoizedState,i!==null&&(i.rendering=null,i.tail=null,i.lastEffect=null),z(Q,Q.current),t)break;return null;case 23:case 24:return n.lanes=0,xr(e,n,a)}return Le(e,n,a)}else Ee=!1;switch(n.lanes=0,n.tag){case 2:if(t=n.type,e!==null&&(e.alternate=null,n.alternate=null,n.flags|=2),e=n.pendingProps,i=Vn(n,re.current),Xn(n,a),i=Rr(null,n,t,e,i,a),n.flags|=1,typeof i=="object"&&i!==null&&typeof i.render=="function"&&i.$$typeof===void 0){if(n.tag=1,n.memoizedState=null,n.updateQueue=null,pe(t)){var r=!0;Ut(n)}else r=!1;n.memoizedState=i.state!==null&&i.state!==void 0?i.state:null,Wr(n);var s=t.getDerivedStateFromProps;typeof s=="function"&&Ft(n,t,s,e),i.updater=bt,n.stateNode=i,i._reactInternals=n,wr(n,t,e,a),n=zr(null,n,t,!0,r,a)}else n.tag=0,me(null,n,i,a),n=n.child;return n;case 16:i=n.elementType;e:{switch(e!==null&&(e.alternate=null,n.alternate=null,n.flags|=2),e=n.pendingProps,r=i._init,i=r(i._payload),n.type=i,r=n.tag=Mc(i),e=Me(i,e),r){case 0:n=jr(null,n,i,e,a);break e;case 1:n=Ul(null,n,i,e,a);break e;case 11:n=Pl(null,n,i,e,a);break e;case 14:n=Kl(null,n,i,Me(i.type,e),t,a);break e}throw Error(y(306,i,""))}return n;case 0:return t=n.type,i=n.pendingProps,i=n.elementType===t?i:Me(t,i),jr(e,n,t,i,a);case 1:return t=n.type,i=n.pendingProps,i=n.elementType===t?i:Me(t,i),Ul(e,n,t,i,a);case 3:if(Bl(n),t=n.updateQueue,e===null||t===null)throw Error(y(282));if(t=n.pendingProps,i=n.memoizedState,i=i!==null?i.element:null,ol(e,n),Ra(n,t,null,a),t=n.memoizedState.element,t===i)Ur(),n=Le(e,n,a);else{if(i=n.stateNode,(r=i.hydrate)&&(sn=_n(n.stateNode.containerInfo.firstChild),Re=n,r=Ne=!0),r){if(e=i.mutableSourceEagerHydrationData,e!=null)for(i=0;i<e.length;i+=2)r=e[i],r._workInProgressVersionPrimary=e[i+1],na.push(r);for(a=fl(n,null,t,a),n.child=a;a;)a.flags=a.flags&-3|1024,a=a.sibling}else me(e,n,t,a),Ur();n=n.child}return n;case 5:return ml(n),e===null&&Gr(n),t=n.type,i=n.pendingProps,r=e!==null?e.memoizedProps:null,s=i.children,fr(t,i)?s=null:r!==null&&fr(t,r)&&(n.flags|=16),Gl(e,n),me(e,n,s,a),n.child;case 6:return e===null&&Gr(n),null;case 13:return Hl(e,n,a);case 4:return Nr(n,n.stateNode.containerInfo),t=n.pendingProps,e===null?n.child=zt(n,null,t,a):me(e,n,t,a),n.child;case 11:return t=n.type,i=n.pendingProps,i=n.elementType===t?i:Me(t,i),Pl(e,n,t,i,a);case 7:return me(e,n,n.pendingProps,a),n.child;case 8:return me(e,n,n.pendingProps.children,a),n.child;case 12:return me(e,n,n.pendingProps.children,a),n.child;case 10:e:{t=n.type._context,i=n.pendingProps,s=n.memoizedProps,r=i.value;var o=n.type._context;if(z(Rt,o._currentValue),o._currentValue=r,s!==null)if(o=s.value,r=ye(o,r)?0:(typeof t._calculateChangedBits=="function"?t._calculateChangedBits(o,r):1073741823)|0,r===0){if(s.children===i.children&&!he.current){n=Le(e,n,a);break e}}else for(o=n.child,o!==null&&(o.return=n);o!==null;){var l=o.dependencies;if(l!==null){s=o.child;for(var d=l.firstContext;d!==null;){if(d.context===t&&(d.observedBits&r)!=0){o.tag===1&&(d=en(-1,a&-a),d.tag=2,nn(o,d)),o.lanes|=a,d=o.alternate,d!==null&&(d.lanes|=a),sl(o.return,a),l.lanes|=a;break}d=d.next}}else s=o.tag===10&&o.type===n.type?null:o.child;if(s!==null)s.return=o;else for(s=o;s!==null;){if(s===n){s=null;break}if(o=s.sibling,o!==null){o.return=s.return,s=o;break}s=s.return}o=s}me(e,n,i.children,a),n=n.child}return n;case 9:return i=n.type,r=n.pendingProps,t=r.children,Xn(n,a),i=Te(i,r.unstable_observedBits),t=t(i),n.flags|=1,me(e,n,t,a),n.child;case 14:return i=n.type,r=Me(i,n.pendingProps),r=Me(i.type,r),Kl(e,n,i,r,t,a);case 15:return Nl(e,n,n.type,n.pendingProps,t,a);case 17:return t=n.type,i=n.pendingProps,i=n.elementType===t?i:Me(t,i),e!==null&&(e.alternate=null,n.alternate=null,n.flags|=2),n.tag=1,pe(t)?(e=!0,Ut(n)):e=!1,Xn(n,a),gl(n,t,i),wr(n,t,i,a),zr(null,n,t,!0,e,a);case 19:return bl(e,n,a);case 23:return xr(e,n,a);case 24:return xr(e,n,a)}throw Error(y(156,n.tag))};function Ec(e,n,a,t){this.tag=e,this.key=a,this.sibling=this.child=this.return=this.stateNode=this.type=this.elementType=null,this.index=0,this.ref=null,this.pendingProps=n,this.dependencies=this.memoizedState=this.updateQueue=this.memoizedProps=null,this.mode=t,this.flags=0,this.lastEffect=this.firstEffect=this.nextEffect=null,this.childLanes=this.lanes=0,this.alternate=null}function Ae(e,n,a,t){return new Ec(e,n,a,t)}function Yr(e){return e=e.prototype,!(!e||!e.isReactComponent)}function Mc(e){if(typeof e=="function")return Yr(e)?1:0;if(e!=null){if(e=e.$$typeof,e===st)return 11;if(e===lt)return 14}return 2}function rn(e,n){var a=e.alternate;return a===null?(a=Ae(e.tag,n,e.key,e.mode),a.elementType=e.elementType,a.type=e.type,a.stateNode=e.stateNode,a.alternate=e,e.alternate=a):(a.pendingProps=n,a.type=e.type,a.flags=0,a.nextEffect=null,a.firstEffect=null,a.lastEffect=null),a.childLanes=e.childLanes,a.lanes=e.lanes,a.child=e.child,a.memoizedProps=e.memoizedProps,a.memoizedState=e.memoizedState,a.updateQueue=e.updateQueue,n=e.dependencies,a.dependencies=n===null?null:{lanes:n.lanes,firstContext:n.firstContext},a.sibling=e.sibling,a.index=e.index,a.ref=e.ref,a}function xt(e,n,a,t,i,r){var s=2;if(t=e,typeof e=="function")Yr(e)&&(s=1);else if(typeof e=="string")s=5;else e:switch(e){case je:return $n(a.children,i,r,n);case Ps:s=8,i|=16;break;case yi:s=8,i|=1;break;case ca:return e=Ae(12,a,n,i|8),e.elementType=ca,e.type=ca,e.lanes=r,e;case ga:return e=Ae(13,a,n,i),e.type=ga,e.elementType=ga,e.lanes=r,e;case ot:return e=Ae(19,a,n,i),e.elementType=ot,e.lanes=r,e;case Ei:return Qr(a,i,r,n);case Ci:return e=Ae(24,a,n,i),e.elementType=Ci,e.lanes=r,e;default:if(typeof e=="object"&&e!==null)switch(e.$$typeof){case Ti:s=10;break e;case Ai:s=9;break e;case st:s=11;break e;case lt:s=14;break e;case Ii:s=16,t=null;break e;case vi:s=22;break e}throw Error(y(130,e==null?e:typeof e,""))}return n=Ae(s,a,n,i),n.elementType=e,n.type=t,n.lanes=r,n}function $n(e,n,a,t){return e=Ae(7,e,t,n),e.lanes=a,e}function Qr(e,n,a,t){return e=Ae(23,e,t,n),e.elementType=Ei,e.lanes=a,e}function Or(e,n,a){return e=Ae(6,e,null,n),e.lanes=a,e}function Pr(e,n,a){return n=Ae(4,e.children!==null?e.children:[],e.key,n),n.lanes=a,n.stateNode={containerInfo:e.containerInfo,pendingChildren:null,implementation:e.implementation},n}function Cc(e,n,a){this.tag=n,this.containerInfo=e,this.finishedWork=this.pingCache=this.current=this.pendingChildren=null,this.timeoutHandle=-1,this.pendingContext=this.context=null,this.hydrate=a,this.callbackNode=null,this.callbackPriority=0,this.eventTimes=$i(0),this.expirationTimes=$i(-1),this.entangledLanes=this.finishedLanes=this.mutableReadLanes=this.expiredLanes=this.pingedLanes=this.suspendedLanes=this.pendingLanes=0,this.entanglements=$i(0),this.mutableSourceEagerHydrationData=null}function Wc(e,n,a){var t=3<arguments.length&&arguments[3]!==void 0?arguments[3]:null;return{$$typeof:fn,key:t==null?null:""+t,children:e,containerInfo:n,implementation:a}}function li(e,n,a,t){var i=n.current,r=ke(),s=an(i);e:if(a){a=a._reactInternals;n:{if(Sn(a)!==a||a.tag!==1)throw Error(y(170));var o=a;do{switch(o.tag){case 3:o=o.stateNode.context;break n;case 1:if(pe(o.type)){o=o.stateNode.__reactInternalMemoizedMergedChildContext;break n}}o=o.return}while(o!==null);throw Error(y(171))}if(a.tag===1){var l=a.type;if(pe(l)){a=Zo(a,l,o);break e}}a=o}else a=Xe;return n.context===null?n.context=a:n.pendingContext=a,n=en(r,s),n.payload={element:e},t=t===void 0?null:t,t!==null&&(n.callback=t),nn(i,n),tn(i,s,r),s}function gs(e){if(e=e.current,!e.child)return null;switch(e.child.tag){case 5:return e.child.stateNode;default:return e.child.stateNode}}function cu(e,n){if(e=e.memoizedState,e!==null&&e.dehydrated!==null){var a=e.retryLane;e.retryLane=a!==0&&a<n?a:n}}function hs(e,n){cu(e,n),(e=e.alternate)&&cu(e,n)}function wc(){return null}function ps(e,n,a){var t=a!=null&&a.hydrationOptions!=null&&a.hydrationOptions.mutableSources||null;if(a=new Cc(e,n,a!=null&&a.hydrate===!0),n=Ae(3,null,null,n===2?7:n===1?3:0),a.current=n,n.stateNode=a,Wr(n),e[Qn]=a.current,jo(e.nodeType===8?e.parentNode:e),t)for(e=0;e<t.length;e++){n=t[e];var i=n._getVersion;i=i(n._source),a.mutableSourceEagerHydrationData==null?a.mutableSourceEagerHydrationData=[n,i]:a.mutableSourceEagerHydrationData.push(n,i)}this._internalRoot=a}ps.prototype.render=function(e){li(e,this._internalRoot,null,null)};ps.prototype.unmount=function(){var e=this._internalRoot,n=e.containerInfo;li(null,e,null,function(){n[Qn]=null})};function et(e){return!(!e||e.nodeType!==1&&e.nodeType!==9&&e.nodeType!==11&&(e.nodeType!==8||e.nodeValue!==" react-mount-point-unstable "))}function Oc(e,n){if(n||(n=e?e.nodeType===9?e.documentElement:e.firstChild:null,n=!(!n||n.nodeType!==1||!n.hasAttribute("data-reactroot"))),!n)for(var a;a=e.lastChild;)e.removeChild(a);return new ps(e,0,n?{hydrate:!0}:void 0)}function ui(e,n,a,t,i){var r=a._reactRootContainer;if(r){var s=r._internalRoot;if(typeof i=="function"){var o=i;i=function(){var d=gs(s);o.call(d)}}li(n,s,e,i)}else{if(r=a._reactRootContainer=Oc(a,t),s=r._internalRoot,typeof i=="function"){var l=i;i=function(){var d=gs(s);l.call(d)}}su(function(){li(n,s,e,i)})}return gs(s)}$s=function(e){if(e.tag===13){var n=ke();tn(e,4,n),hs(e,4)}};Qi=function(e){if(e.tag===13){var n=ke();tn(e,67108864,n),hs(e,67108864)}};eo=function(e){if(e.tag===13){var n=ke(),a=an(e);tn(e,a,n),hs(e,a)}};no=function(e,n){return n()};Hi=function(e,n,a){switch(n){case"input":if(Ni(e,a),n=a.name,a.type==="radio"&&n!=null){for(a=e;a.parentNode;)a=a.parentNode;for(a=a.querySelectorAll("input[name="+JSON.stringify(""+n)+'][type="radio"]'),n=0;n<a.length;n++){var t=a[n];if(t!==e&&t.form===e.form){var i=ht(t);if(!i)throw Error(y(90));Gs(t),Ni(t,i)}}}break;case"textarea":Ls(e,a);break;case"select":n=a.value,n!=null&&Un(e,!!a.multiple,n,!1)}};Fi=ru;_s=function(e,n,a,t,i){var r=G;G|=4;try{return An(98,e.bind(null,n,a,t,i))}finally{G=r,G===0&&(ra(),Oe())}};bi=function(){(G&49)==0&&(kc(),un())};Js=function(e,n){var a=G;G|=2;try{return e(n)}finally{G=a,G===0&&(ra(),Oe())}};function gu(e,n){var a=2<arguments.length&&arguments[2]!==void 0?arguments[2]:null;if(!et(n))throw Error(y(200));return Wc(e,n,null,a)}var Pc={Events:[Sa,jn,ht,zs,Qs,un,{current:!1}]},nt={findFiberByHostInstance:kn,bundleType:0,version:"17.0.2",rendererPackageName:"react-dom"},Nc={bundleType:nt.bundleType,version:nt.version,rendererPackageName:nt.rendererPackageName,rendererConfig:nt.rendererConfig,overrideHookState:null,overrideHookStateDeletePath:null,overrideHookStateRenamePath:null,overrideProps:null,overridePropsDeletePath:null,overridePropsRenamePath:null,setSuspenseHandler:null,scheduleUpdate:null,currentDispatcherRef:pn.ReactCurrentDispatcher,findHostInstanceByFiber:function(e){return e=qs(e),e===null?null:e.stateNode},findFiberByHostInstance:nt.findFiberByHostInstance||wc,findHostInstancesForRefresh:null,scheduleRefresh:null,scheduleRoot:null,setRefreshHandler:null,getCurrentFiber:null};if(typeof __REACT_DEVTOOLS_GLOBAL_HOOK__!="undefined"&&(at=__REACT_DEVTOOLS_GLOBAL_HOOK__,!at.isDisabled&&at.supportsFiber))try{yr=at.inject(Nc),Tn=at}catch(e){}var at,Kc=Pc,Gc=gu,Uc=function(e){if(e==null)return null;if(e.nodeType===1)return e;var n=e._reactInternals;if(n===void 0)throw typeof e.render=="function"?Error(y(188)):Error(y(268,Object.keys(e)));return e=qs(n),e=e===null?null:e.stateNode,e},Bc=function(e,n){var a=G;if((a&48)!=0)return e(n);G|=1;try{if(e)return An(99,e.bind(null,n))}finally{G=a,Oe()}},Dc=function(e,n,a){if(!et(n))throw Error(y(200));return ui(null,e,n,!0,a)},Rc=function(e,n,a){if(!et(n))throw Error(y(200));return ui(null,e,n,!1,a)},Lc=function(e){if(!et(e))throw Error(y(40));return e._reactRootContainer?(su(function(){ui(null,null,e,!1,function(){e._reactRootContainer=null,e[Qn]=null})}),!0):!1},Hc=ru,Fc=function(e,n){return gu(e,n,2<arguments.length&&arguments[2]!==void 0?arguments[2]:null)},bc=function(e,n,a,t){if(!et(a))throw Error(y(200));if(e==null||e._reactInternals===void 0)throw Error(y(38));return ui(e,n,a,!1,t)},Yc="17.0.2",jc={__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED:Kc,createPortal:Gc,findDOMNode:Uc,flushSync:Bc,hydrate:Dc,render:Rc,unmountComponentAtNode:Lc,unstable_batchedUpdates:Hc,unstable_createPortal:Fc,unstable_renderSubtreeIntoContainer:bc,version:Yc},xc=Ye(function(e){function n(){if(!(typeof __REACT_DEVTOOLS_GLOBAL_HOOK__=="undefined"||typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.checkDCE!="function"))try{__REACT_DEVTOOLS_GLOBAL_HOOK__.checkDCE(n)}catch(a){console.error(a)}}n(),e.exports=jc}),fs=xc.render;var ms=Symbol(),Ss=Symbol(),ks=Symbol(),di=Symbol();function Wn(e,n){function a(...t){if(t.length>=e.length)return e(...t);{let i=(...r)=>a(...t,...r);return i[ms]=e,i[Ss]=a,i[ks]=t,i[di]=a[di],i}}return a[ms]=e,a[Ss]=a,a[ks]=[],a[di]=n||hu(e),a}function ys(e){return e[ms]}function zc(e){return e[Ss]}function ci(e){return e[ks]||[]}function hu(e){return e[di]||e.name}function _c(){let e=[];return{test:n,getAllTests:a};function n(t,i){e.push(...Object.entries(i).map(([r,s])=>Qc(t,r,s)))}function a(){return e}}function j(e,n,...a){let t=n(...a,e);if(typeof t=="function")throw new Error("The matcher function `"+Ts(t)+"` returned a function instead of a boolean. You might need to pass another argument to it.");if(!t)throw new gi([e,n,...a])}function Qc(e,n,a){return{subject:e,scenario:n,fn:a}}var gi=class extends Error{constructor(n){super("Expectation failed");this.expectArgs=n}};function Jc(e){return e[e.length-1]}function pu(e){return e[0]}var Vc=Wn(function(e,n){return e(n)},"which"),ie=Wn(function(e,n){var a,t;if(Zc(e))return e(n);if(Array.isArray(e)&&Array.isArray(n))return e.length===n.length&&e.every((i,r)=>ie(e[r],n[r]));if(e instanceof Function&&n instanceof Function)return ys(e)&&ys(e)===ys(n)?ie(ci(e),ci(n)):e===n;if(e instanceof Date&&n instanceof Date)return e.toISOString()===n.toISOString();if(e instanceof Set&&n instanceof Set)return e.size===n.size&&[...e.values()].every(i=>n.has(i));if(fu(e)&&fu(n)){let i=Object.keys(e),r=Object.keys(n);return i.length===r.length&&i.every(s=>ie(e[s],n[s]))&&((a=e.__proto__)==null?void 0:a.constructor)===((t=n.__proto__)==null?void 0:t.constructor)}return e===n},"equals"),Ce=Wn(function(e,n){return e===n},"is"),As=Wn(function(e,n,...a){return!e(n,...a)},"not"),mu=Wn(function(e){return/^\s*$/.test(e)},"isBlank");function fu(e){return!!e&&typeof e=="object"}function Zc(e){return e instanceof Function&&zc(e)===Vc&&ci(e).length===1}function Ts(e){return hu(e)||"<function>"}function ku(e){let n=[];return a(e);function a(l){var d;if(l===null)return"null";if(typeof l=="function")return t(l,i);if(typeof l=="string")return Is(l);if(typeof l=="bigint")return`${l}n`;if(Array.isArray(l))return t(l,r);if(l instanceof Date)return`Date(${l.toISOString().replace("T"," ").replace("Z"," UTC")})`;if(l instanceof RegExp)return String(l);if(l instanceof Error)return`${Su(l)}(${Is(l.message)})`;if(l instanceof Set)return t(l,o);if(typeof l=="object"){let S=(d=l==null?void 0:l.__proto__)==null?void 0:d.constructor;return S===Object||!S?t(l,s):`${Su(l)} ${t(l,s)}`}return String(l)}function t(l,d){if(n.indexOf(l)>-1)return"<circular reference>";n.push(l);let S=d(l);return n.pop(),S}function i(l){let d=ci(l).map(a),S=Ts(l);return d.length?tt(S+"(",d,",",")"):S}function r(l){return tt("[",l.map(a),",","]")}function s(l){let d=Object.entries(l).map(([S,v])=>`${qc(S)}: ${a(v)}`);return tt("{",d,",","}")}function o(l){let d=[...l.values()].map(a);return tt("Set {",d,",","}")}}function qc(e){return/^[a-zA-Z0-9_$]+$/.test(e)?e:Is(e)}function Su(e){return Ts(e.__proto__.constructor)}function Is(e){return'"'+String(e).replace(/\\/g,"\\\\").replace(/\n/g,"\\n").replace(/\t/g,"\\t").replace(/"/g,'\\"').replace(/[\x00-\x1f\x7f]/g,Xc)+'"'}function Xc(e){let n=e.charCodeAt(0).toString(16);return"\\x"+(n.length<2?"0"+n:n)}function hi(e,n){return n.split(`
+`).map(a=>a&&eg($c(e," "))(a)).join(`
+`)}function $c(e,n){return Array(e+1).join(n)}var eg=e=>n=>e+n,ng=Wn(function(n,a){return a.slice(0,n.length)===n?a.slice(n.length):a});function ag(e){return String(e).split(/\r?\n/)}function tg(e){let n=ag(e);mu(pu(n))&&n.shift(),mu(Jc(n))&&n.pop();let a=/^[ \t]*/.exec(pu(n))[0];return n.map(ng(a)).join(`
+`)}function tt(e,n,a,t){return n.length<2?e+n.join("")+t:e+`
+`+hi(2,n.join(a+`
 `))+`
-`+t}function Au(e){return rt(this,null,function*(){let a=[];for(let n of e){let t=yield ig(n.fn),i=ku.map(r=>({type:"debug",args:r}));ku.length=0,a.push({test:n,error:t,instrumentLog:i})}return{results:a}})}function ig(e){let a;try{let n=e();if(n instanceof Promise)return new Promise(t=>{n.then(()=>t()).catch(t)})}catch(n){a=n}return Promise.resolve(a)}var ku=[],Ah=Ea(function(a,n){return n instanceof gi&&le(a,n.expectArgs)}),mi=`
+`+t}function Tu(e){return rt(this,null,function*(){let n=[];for(let a of e){let t=yield ig(a.fn),i=yu.map(r=>({type:"debug",args:r}));yu.length=0,n.push({test:a,error:t,instrumentLog:i})}return{results:n}})}function ig(e){let n;try{let a=e();if(a instanceof Promise)return new Promise(t=>{a.then(()=>t()).catch(t)})}catch(a){n=a}return Promise.resolve(n)}var yu=[],Th=Wn(function(n,a){return a instanceof gi&&ie(n,a.expectArgs)}),pi=`
 
-`;function yu({results:e}){let a=!1,n=!1,t=[];for(let i of e){let r=!1;i.error&&(r=a=!0),i.instrumentLog.length&&(r=n=!0),r&&t.push(i)}return a?rg(t):n?sg(e.length,t):og(e.length)}function rg(e){return e.map(Mu).join(mi)+mi+"Tests failed."}function og(e){switch(e){case 0:return"No tests to run.";case 1:return"One test ran, and found no issues.";default:return`${e} tests ran, and found no issues.`}}function sg(e,a){return a.map(Mu).join(mi)+mi+lg(e)+`, but debugging instrumentation is present.
-Remove it before shipping.`}function lg(e){switch(e){case 1:return"The test passed";case 2:return"Both tests passed";default:return`All ${e} tests passed`}}function Mu({test:e,error:a,instrumentLog:n}){let i=[e.subject+" "+e.scenario];return n.length&&i.push(hi(2,dg(n))),a&&i.push(hi(2,ug(a))),i.join(`
-`)}function ug(e){return e instanceof gi?cg(e):gg(e)}function dg(e){return e.map(({args:a})=>vu("debug",a)).join("")}function cg(e){return vu("expect",e.expectArgs)}function gg(e){return Tu(e)+" thrown"+hi(2,hg(e.stack))}function vu(e,a){return tt(e+"(",a.map(Tu),",",")")}function hg(e){if(!e)return"";let a=tg(e).split(`
+`;function Au({results:e}){let n=!1,a=!1,t=[];for(let i of e){let r=!1;i.error&&(r=n=!0),i.instrumentLog.length&&(r=a=!0),r&&t.push(i)}return n?rg(t):a?og(e.length,t):sg(e.length)}function rg(e){return e.map(Iu).join(pi)+pi+"Tests failed."}function sg(e){switch(e){case 0:return"No tests to run.";case 1:return"One test ran, and found no issues.";default:return`${e} tests ran, and found no issues.`}}function og(e,n){return n.map(Iu).join(pi)+pi+lg(e)+`, but debugging instrumentation is present.
+Remove it before shipping.`}function lg(e){switch(e){case 1:return"The test passed";case 2:return"Both tests passed";default:return`All ${e} tests passed`}}function Iu({test:e,error:n,instrumentLog:a}){let i=[e.subject+" "+e.scenario];return a.length&&i.push(hi(2,dg(a))),n&&i.push(hi(2,ug(n))),i.join(`
+`)}function ug(e){return e instanceof gi?cg(e):gg(e)}function dg(e){return e.map(({args:n})=>vu("debug",n)).join("")}function cg(e){return vu("expect",e.expectArgs)}function gg(e){return ku(e)+" thrown"+hi(2,hg(e.stack))}function vu(e,n){return tt(e+"(",n.map(ku),",",")")}function hg(e){if(!e)return"";let n=tg(e).split(`
 `);return`
-`+a.slice(0,mg(a)).map(n=>n.replace(/(file:\/\/|http:\/\/[^/]*)/,"").replace(/^([^@]*)@(.*)$/,"at $1 ($2)")).join(`
-`)}function mg(e){let a=e.findIndex(n=>n.includes("errorFrom"));return a===-1?e.length:a}var yh=Object.freeze({test:{subject:"a thing",scenario:"does something",fn(){}},error:void 0,instrumentLog:[]}),pg=jc(),{getAllTests:Cu}=pg;function pi(...e){}var be={UNSTARTED:-1,ENDED:0,PLAYING:1,PAUSED:2,BUFFERING:3,CUED:5};function Iu(e){let{id:a}=e,[n,t]=Wa(!1),i=ln(null);return Ba(()=>{Sg(a).then(r=>{i.current=r,t(!0)})},[a]),ue(Eo,null,ue("div",{id:e.id}),n&&i.current?e.children(i.current):null)}function Sg(e){return rt(this,null,function*(){let a=yield fg();return new Promise(n=>{let t=new a.Player(e,{height:450,width:800,videoId:null,playerVars:{controls:0,disablekb:1},events:{onReady(){n(t)}}})})})}function fg(){return Eu?Promise.resolve(window.YT):new Promise(e=>{var a;if(document.querySelector("script[src='https://www.youtube.com/iframe_api']")===null){let n=document.createElement("script");n.src="https://www.youtube.com/iframe_api";let t=document.getElementsByTagName("script")[0];(a=t.parentNode)==null||a.insertBefore(n,t)}Co.push(e)})}var Eu=!1,Co=[];window.onYouTubeIframeAPIReady=()=>{Eu=!0,Co.forEach(e=>e(window.YT)),Co.length=0};function Fe(e){return e.split(/\n+/).map(kg).filter(Mo(Tg)).filter(Mo(Ag)).map(it(/ +/,3)).map(([a,n,t])=>({videoId:a,durationSeconds:we(n),title:t}))}pi("parseVideos",{"empty string"(){z(Fe(""),le,[])},spaces(){z(Fe("  "),le,[])},newlines(){z(Fe(`
+`+n.slice(0,pg(n)).map(a=>a.replace(/(file:\/\/|http:\/\/[^/]*)/,"").replace(/^([^@]*)@(.*)$/,"at $1 ($2)")).join(`
+`)}function pg(e){let n=e.findIndex(a=>a.includes("errorFrom"));return n===-1?e.length:n}var Ah=Object.freeze({test:{subject:"a thing",scenario:"does something",fn(){}},error:void 0,instrumentLog:[]}),fg=_c(),{getAllTests:Mu}=fg;function fi(...e){}var be={UNSTARTED:-1,ENDED:0,PLAYING:1,PAUSED:2,BUFFERING:3,CUED:5};function Eu(e){let{id:n}=e,[a,t]=Nn(!1),i=la(null);return Pn(()=>{mg(n).then(r=>{i.current=r,t(!0)})},[n]),ue(Es,null,ue("div",{id:e.id}),a&&i.current?e.children(i.current):null)}function mg(e){return rt(this,null,function*(){let n=yield Sg();return new Promise(a=>{let t=new n.Player(e,{height:450,width:800,videoId:null,playerVars:{controls:0,disablekb:1},events:{onReady(){a(t)}}})})})}function Sg(){return Cu?Promise.resolve(window.YT):new Promise(e=>{var n;if(document.querySelector("script[src='https://www.youtube.com/iframe_api']")===null){let a=document.createElement("script");a.src="https://www.youtube.com/iframe_api";let t=document.getElementsByTagName("script")[0];(n=t.parentNode)==null||n.insertBefore(a,t)}vs.push(e)})}var Cu=!1,vs=[];window.onYouTubeIframeAPIReady=()=>{Cu=!0,vs.forEach(e=>e(window.YT)),vs.length=0};function Ue(e){return e.split(/\n+/).map(yg).filter(As(kg)).filter(As(Tg)).map(it(/ +/,3)).flatMap(([n,a,t])=>a==="SHORTS"?[]:[{videoId:n,durationSeconds:We(a),title:t}])}fi("parseVideos",{"empty string"(){j(Ue(""),ie,[])},spaces(){j(Ue("  "),ie,[])},newlines(){j(Ue(`
 
 
-`),le,[])},"newlines and spaces"(){z(Fe(` 
+`),ie,[])},"newlines and spaces"(){j(Ue(` 
  
  
-`),le,[])},comments(){z(Fe(`#foo
-# bar`),le,[])},"strips spaces before comments"(){z(Fe(`  #foo
-  # bar`),le,[])},"parses actual data"(){z(Fe(`
+`),ie,[])},comments(){j(Ue(`#foo
+# bar`),ie,[])},"strips spaces before comments"(){j(Ue(`  #foo
+  # bar`),ie,[])},"parses actual data"(){j(Ue(`
             leb645Xu6uo 10:54 Captain Murderer - Emlyn Williams
             Ga8tNxnHjt4 3:01 Sut Wnaethoch Chi Sillafu Caernarfon? Y Dydd 1971
-        `),le,[{videoId:"leb645Xu6uo",durationSeconds:654,title:"Captain Murderer - Emlyn Williams"},{videoId:"Ga8tNxnHjt4",durationSeconds:181,title:"Sut Wnaethoch Chi Sillafu Caernarfon? Y Dydd 1971"}])}});function Tg(e){return e.startsWith("#")}function we(e){let a=[1,60,3600,86400],n=e.split(":").map(t=>parseInt(t,10)).reverse();return yg(n,a).map(([t,i])=>t*i).reduce(Mg,0)}pi("parseDuration",{"0:00"(){z(we("0:00"),Ee,0)},"00:00"(){z(we("00:00"),Ee,0)},"1 second"(){z(we("0:01"),Ee,1)},"10 seconds"(){z(we("0:10"),Ee,10)},"1 minute"(){z(we("1:00"),Ee,60)},"1 minute 10 seconds"(){z(we("1:10"),Ee,70)},"10 minutes 10 seconds"(){z(we("10:10"),Ee,610)},"1 hour"(){z(we("1:00:00"),Ee,3600)},"1 hour 1 second"(){z(we("1:00:01"),Ee,3601)},"10 hours 1 second"(){z(we("10:00:01"),Ee,36001)}});function kg(e){return e.trim()}function Ag(e){return e.length===0}var it=(e,a=Infinity)=>n=>{if(typeof e=="string"&&e.length===0)throw"split(): empty delimiter not supported";let t=0,i=0,r=[],o=n;for(;r.length<a-1&&o.length>0;){let s=o.match(e);if(s==null)break;r.push(o.slice(0,s.index)),o=o.slice(s.index+s[0].length)}return r.push(o),r};pi("split",{"empty string"(){z(it(" ")(""),le,[""])},"no limit"(){z(it(" ")("a b c"),le,["a","b","c"])},limit(){z(it(" ",2)("a b c"),le,["a","b c"])},regex(){z(it(/ +/)("a b   c"),le,["a","b","c"])}});function yg(e,a){let n=[];for(let t=0;t<e.length&&t<a.length;t++)n.push([e[t],a[t]]);return n}function Mg(e,a){return e+a}var wu=Fe(`
+        `),ie,[{videoId:"leb645Xu6uo",durationSeconds:654,title:"Captain Murderer - Emlyn Williams"},{videoId:"Ga8tNxnHjt4",durationSeconds:181,title:"Sut Wnaethoch Chi Sillafu Caernarfon? Y Dydd 1971"}])},"removes shorts"(){j(Ue(`
+            undefined SHORTS blah blah
+            leb645Xu6uo 10:54 Captain Murderer - Emlyn Williams
+        `),ie,[{videoId:"leb645Xu6uo",durationSeconds:654,title:"Captain Murderer - Emlyn Williams"}])}});function kg(e){return e.startsWith("#")}function We(e){let n=[1,60,3600,86400],a=e.split(":").map(t=>parseInt(t,10)).reverse();return Ag(a,n).map(([t,i])=>t*i).reduce(Ig,0)}fi("parseDuration",{"0:00"(){j(We("0:00"),Ce,0)},"00:00"(){j(We("00:00"),Ce,0)},"1 second"(){j(We("0:01"),Ce,1)},"10 seconds"(){j(We("0:10"),Ce,10)},"1 minute"(){j(We("1:00"),Ce,60)},"1 minute 10 seconds"(){j(We("1:10"),Ce,70)},"10 minutes 10 seconds"(){j(We("10:10"),Ce,610)},"1 hour"(){j(We("1:00:00"),Ce,3600)},"1 hour 1 second"(){j(We("1:00:01"),Ce,3601)},"10 hours 1 second"(){j(We("10:00:01"),Ce,36001)}});function yg(e){return e.trim()}function Tg(e){return e.length===0}var it=(e,n=Infinity)=>a=>{if(typeof e=="string"&&e.length===0)throw"split(): empty delimiter not supported";let t=0,i=0,r=[],s=a;for(;r.length<n-1&&s.length>0;){let o=s.match(e);if(o==null)break;r.push(s.slice(0,o.index)),s=s.slice(o.index+o[0].length)}return r.push(s),r};fi("split",{"empty string"(){j(it(" ")(""),ie,[""])},"no limit"(){j(it(" ")("a b c"),ie,["a","b","c"])},limit(){j(it(" ",2)("a b c"),ie,["a","b c"])},regex(){j(it(/ +/)("a b   c"),ie,["a","b","c"])}});function Ag(e,n){let a=[];for(let t=0;t<e.length&&t<n.length;t++)a.push([e[t],n[t]]);return a}function Ig(e,n){return e+n}var Wu=Ue(`
 
 # LOTR extras
 
@@ -203,14 +206,12 @@ itdBLyLCiU0 4:49 WIKITONGUES: Jakob speaking Zipser German
 EMITnQ-w-04 1:01 WIKITONGUES: Hirwa signing Rwandan Sign Language
 hrxUsCrOQ-c 1:35 WIKITONGUES: Faraz speaking Majhi Punjabi
 PWVzPFUgHEo 0:47 WIKITONGUES: Sanjana speaking Nepali
-undefined SHORTS WIKITONGUES: Najib speaking Kalasha
 rEqO7tkF_04 4:20 WIKITONGUES: Rino speaking Balantak
 VPnXITN30VU 6:41 WIKITONGUES: Ana speaking Croatian Sign Language
 kDyUnJ0p8JE 1:04 WIKITONGUES: Riku speaking Assamese
 RtvgMwWEjSo 0:59 WIKITONGUES: Safulo Kacaw speaking Amis
 Gt0jbL8p8AM 2:20 WIKITONGUES: Mary speaking Soli
 QMypNaOcn1E 3:47 WIKITONGUES: James speaking Zambian Sign Language
-undefined SHORTS WIKITONGUES: Keith speaking Maltese
 OWoKDqJQt1c 1:44 WIKITONGUES: Malek speaking Eastern Balochi
 IA4PxlO9OOU 2:58 WIKITONGUES: Evan speaking Hñähñu
 1LIEW4IaKWQ 0:33 WIKITONGUES: Gabriel speaking Hungarian
@@ -256,7 +257,6 @@ tTBDXjKZB08 13:26 WIKITONGUES: Trey speaking Bermudian English
 C380uSo4Ils 1:43 WIKITONGUES: Rose speaking Kikamba
 z2GFNc-X6mA 0:46 WIKITONGUES: Kaisanan speaking Taokas
 zeApE-aD3fI 0:56 WIKITONGUES: Yernur speaking Kazakh
-undefined SHORTS WIKITONGUES: Dmitry speaking Altai
 NG-rV0oGZ9s 1:30 WIKITNOGUES: Ni Luh speaking Balinese
 ak9Zqiddtt8 1:09 WIKITONGUES: PuingAke'Kuking speaking Bah-Biau Punan
 nJU_XnQzzHk 5:03 WIKITONGUES: Nezahualcoyotl speaking Nuyoo Mixtec
@@ -765,7 +765,6 @@ mrnxCBfLHFQ 1:40 WIKITONGUES: Tiger speaking Shangaan
 PpNr0MgTAbY 2:04 WIKITONGUES: Aldade speaking Portuguese and Chuwabo
 Uq2x_P34bTQ 4:22 WIKITONGUES: Ayesha speaking Bengali
 E-ohZtbkyxI 0:53 WIKITONGUES: Martin Speaking Swedish and Polish
-undefined SHORTS WIKITONGUES: Hiljiardo speaking Esperanto
 72L2JsuGcH0 0:51 WIKITONGUES: Anis Speaking Lebanese Arabic
 8RyDKy_HUj0 1:40 WIKITONGUES: Michael speaking Shangaan
 IahmVXN7xEQ 3:23 WIKITONGUES: Ashwath speaking Konkani
@@ -848,7 +847,6 @@ RCZF42aj2Po 3:38 WIKITONGUES: Natasha speaking English
 DbArjSCZvOQ 1:27 WIKITONGUES: Will speaking Mandarin
 iWRrLD7H98s 4:03 WIKITONGUES: Freddie speaking Portuguese
 VgzHAbJjteQ 0:36 WIKITONGUES: Clara speaking French
-undefined SHORTS WIKITONGUES: Sunny speaking Taiwanese Min Nan
 vO87PpdQKV4 3:28 WIKITONGUES: Joel speaking English & Hebrew
 cC50MO--CGQ 3:36 WIKITONGUES: Manuel speaking Totonac
 CouHEysgsPo 2:05 WIKITONGUES: Octavia speaking Hessian
@@ -1974,3307 +1972,498 @@ B00XPYTvCRY 10:02 Introspective Awareness in Meditation - Buddhist Wisdom meets 
 
 # Adam Savage's Tested
 
-dpgVOHFhI6M 10:47 LEGO Horizon Forbidden West Tallneck Lighting Kit Build!
 dXdkfaEbeLQ 10:18 Ask Adam Savage: When Did You Know Making Would Be A Sustainable Career?
-sMV99wKhcLg 8:29 Adam Savage Inspects a Prototype Machined Brass Pen!
-dYaS2MeXQk0 9:15 Adam Savage's Favorite Tools: Cordless Heat Gun!
-NM9Hxpk_tPo 18:32 Adam Savage's One Day Builds: Annular Cutter Storage!
 PbnDO_IMMoY 7:39 Ask Adam Savage: What IS It About The Matrix?
-fSIC_xODA_o 10:22 Star Wars Vintage Action Figure Guides!
-aZYOugt3Bmw 15:24 Inside Wētā Workshop's Animatronics Lab!
 kBoNZjWsrOY 15:21 Ask Adam Savage: All About Clamps
 6HOWrW4p-Xg 11:29 Ask Adam Savage: Adam's Top 5 Movie Soundtracks
 Wz-iPCiim9U 5:01 Ask Adam Savage: “Did You Have Work/Life Balance During MythBusters?”
-CERnsE9nlfQ 17:21 Making a Custom Figure Display Case with LED Spotlights!
-t3dfhHEj0Ow 20:38 How Wētā Workshop Creates "Bigature" Landscapes Out of Foam!
 UUNBBNLCqmU 7:39 Ask Adam Savage: Best Glue for Foam
-Zi4Zsu5y-mw 15:02 Show and Tell: 2001 A Space Odyssey 1/6 Scale Spacesuit!
-1GCy0oOSPYo 11:02 What Adam Regrets About His Tattoo
 eGRfEvMEoSM 6:16 Ask Adam Savage: "Do You Have Lucid Dreams?"
-rbZ33EWIZt0 16:05 How to Make Laser-Cut Wood Kits Look Handcrafted!
-SGUtT2Lo944 1:16:13 Adam Savage's One Day Builds: AT-AT Walker Garage Kit!
-Tr5JBIiXI88 17:52 World-Building a "Bigature" for Wētā Workshop Unleashed!
-uK9XO_Qmt9E 18:47 Adam Savage Lockpicks Open This Tachograph!
 qQlF7upgTlA 10:03 Ask Adam Savage: "What Do You Think Will Be Your Legacy?"
 7KllsOwtHK0 7:39 Ask Adam Savage: Ark of the Covenant Replicas and Duct Tape Bullwhips
-hD94rKE0aAQ 14:12 Let's Build: Transformers ThreeZero DLX Jetpower Optimus Prime!
-l9jVjAUiraw 19:08 Adam Savage Behind the Scenes at Wētā Workshop Unleashed!
-FFt_6ANv1FA 55:54 Adam Savage's Live Builds: KiwiCo Astronaut Starter Kit!
-Cx3z5Xv6J5o 1:26:22 Adam Savage Upgrades His R2-D2 Astromech Droid Build!
 5CRSXcoasQQ 12:00 Ask Adam Savage: Creating With ADHD
 W7XvCLDzY10 7:51 Ask Adam Savage: How to Set Up a New Shop
-U07mw3eQurw 33:56 How To Easily Apply Gold Leaf To Your Artwork!
 KZWWL3Kdhhk 9:04 Ask Adam Savage: On Sharing Space With Mrs Donttrythis
 vyCrHLYiGNo 10:09 Ask Adam Savage: Efficiency and First Order of Retrievability in Shops
-y0kxoQi4m5Q 32:26 Adam Savage Restores a Leather Briefcase!
 6LqBJzLB5jg 5:57 Ask Adam Savage: Best Tools and Projects for First-Time Makers
-xw8DCnuFwkE 36:27 How to Make Vintage Hand-Painted Signs with a Laser Cutter!
-JjuXjqy3AFA 9:13 Adam Savage's 'Man with No Name' Holster Replica!
 L3D8BhJIfL0 11:12 Ask Adam Savage: Avoiding Accidents and "The Hands"
-ApZy-PSeytM 14:55 LEGO Minifigure-Scale Airbus A380 Airplane! (40,000+ Bricks!)
 eS8aLmXEmQQ 11:20 Ask Adam Savage: When to Ask for Help on a Job
-n564Cw0lHLk 19:57 Adam Savage's Curta Calculator Gets CT Scanned!
-rioVXjVCSYI 6:15 Awesome LEGO Chinatown Themed Cityscape!
-RfNIlmKXOWg 32:40 Adam Savage's One Day Builds: Custom Poker Chip Carrier!
-eC2kqv-yKHk 9:28 Massive LEGO Eiffel Tower! (25,000+ Pieces)
-uJuH_b-vSiQ 40:29 Bandai Cup Noodle Model Kit?!? Let's Build It!
 TpqUG6iFEBE 7:38 Ask Adam Savage: What's the One Thing Visitors Flock to in The Cave?
-onZDAKJq6z4 7:52 Adam Savage's Aluminum Foil Ball Cut In Half! (Ft. Waterjet Channel)
-iA5ZMHQzhr4 10:01 Adam Savage's Collection of Narnia Swords!
-DPTu47FBkpg 46:04 Adam Savage's One Day Builds: Chinatown Stunt Knife (Corridor Crew FX Challenge!)
 IVE3G_uCW1Y 9:05 Ask Adam Savage: Building vs. Modifying Tools
-dXbd6XC7WyA 3:15 Adam Savage Inspects the 'Passengers' Spacesuit
 WBbxrHO8zq8 7:28 Ask Adam Savage: Favorite Miniature and Jumbo Versions of Tools
-6Imz_hZf1Qg 11:18 Star Trek Filming Miniature Model and Hand Props!
 8Q_7nkvjl-g 8:58 Ask Adam Savage: The Origin of Adam and Jamie's "MythBusters Look"
 usB6jqa4Yt4 7:56 Ask Adam Savage: When to Buy and How to Mark Your Tools
-YrfIMtjYIWQ 9:18 Original Star Trek Uniforms and Borg Costume!
-E9nBwursJpM 11:14 Adam Savage Inspects Original Aliens Colonial Marine Props!
-l3EsiXhNGTM 8:28 Original Animatronic Gizmo Puppet From Gremlins!
-bJp3B3jZkhE 36:16 Adam Savage's One Day Builds: Aliens Motion Tracker Prop!
-0dQyqMDJfuo 7:13 1,000 Pound Monster Clay Creature Sculpture!
-Ha8wTXm0oHk 8:58 Elite Creature Collectibles' Guardian Alien Design!
-EvxRQ_r_cfw 14:54 Adam Savage Surprised By Indiana Jones Prop Details!
-RM7x5lr_eCo 7:48 X-Plus Classic Sci-Fi Movie Model Kits!
-kdhp1wxvY1M 8:07 Raf Grassetti's Incredible Character Art and 3D Prints!
-CTtNXOQ0Eiw 6:58 The Original Terminator T-800 Metal Endoskeleton Arm Prop!
-rr7j7ie-Y9Y 7:47 Silicone Creature Masks at Monsterpalooza 2022!
-5Jj8gZW_BkM 8:51 Batman's Original Working Grapple Gun Prop!
-Arm0Mvx45Us 12:28 Adam Savage's One Day Builds: Adding Casters to Costume Cases!
 riyvh8zOG_A 5:58 Ask Adam Savage: On Reading Critical Viewer Comments
-vwJo-ik39eE 9:27 Concept Sculptor Simon Lee's Monsterpalooza Showpiece!
-k4Ps9-1naUk 10:35 The Sci-Fi Robot Helmets of BurgerStrings!
-YIW8KHn_mBo 10:04 The Stop-Motion Animated Puppets of Gremlins 2!
-TjS2GE_MuC8 11:40 Adam Savage Meets Original Kill Bill Bride Katana Prop!
 G9TJQEJJZKI 6:58 Ask Adam Savage: Current TV Series Adam Would Want to Address on MythBusters
 fWZ8rUEdhUc 7:58 Ask Adam Savage: What's on Adam's Personal Bucket List?
-52nftjuvCzo 9:43 HasLab's Reva Force FX Elite Lightsaber Prototype!
 WrGW5oGnILo 7:58 Ask Adam Savage: Setting Up a Shop in Your Garage
-aey9t9rOFGU 11:19 Star Wars Archive Collection Character Maquettes!
-A4v97zfHzcU 28:44 Adam Savage's One Day Builds: Aliens Welding Torch!
-1qtdH5yFt04 8:44 Life-Size Star Wars Imperial Probe Droid Robot Build!
 2tZ0EGJIgD8 15:16 Ask Adam Savage: Adjusting to Life Post-Mythbusters
-Zqz05dYFYu8 13:17 Original X-Wing Model from Star Wars: Episode IV!
 jIAbRPW0jXg 5:41 Ask Adam Savage: On Making "In Universe" Prop Build Decisions
-rOWF3LPTqD0 17:48 Elegoo Saturn 2 8K Resin 3D Printer: First Test Prints!
-hAp4W18qX14 17:08 Adam Savage Stunned By This AT-AT Walker Garage Kit!
-SSvcKIa1Uws 1:02:37 Adam Savage's One Day Builds: Moby Dick Diorama Maquette!
-heVfGT0f22k 27:45 Adam Savage's Guide to Sanding Tools!
 E1tuc-levnI 6:14 Ask Adam Savage: Do I Want to Go to Space?
-SBvohm4TaN0 32:48 The Amazing Miniature Sign Builds of Route 9 Signs!
 a6E0FMtdJpM 10:51 Ask Adam Savage: Who Modified the Cars on MythBusters?
-5kYtfwKXzSQ 3:55 Adam Savage Tests His Temporary Ruler Tattoo!
-rzJG_TapQZI 13:55 LEGO Star Wars Trench Run Automata + Lighting Build!
-2MlWsXDsKc8 12:07 Adam Savage Unpacks Fan Gifts from Planet Comicon!
-7KN9wF3DlaU 27:51 Tested: SLR Magic Cine Lenses for Micro Four Thirds Cameras!
-K0FcUntHyKw 58:02 Adam Savage's One Day Builds: Razor Crest Mods, Part 1!
-2u1z1bApFo4 14:40 How to Use Threaded Inserts for Wood, Metal, and 3D Prints!
 aRln8atkNaY 13:43 Ask Adam Savage: Behind the MythBusters Cement Truck Explosion
-b94cKIw435E 9:09 Show and Tell: Adam Savage's LEGO Minifigure Collection (Including Muppets!)
 mqXtr7C5VCg 11:45 Ask Adam Savage: Job Interview Advice, Jamie's Flamethrower and More
-YfoHVH6wwRo 9:54 Let's Build: Japanese Steamed Bun Shop Kit!
 lbnGzrLWlBw 5:25 Ask Adam Savage: The Origin of M5, M6 and M7 (Plus, Their Neighbors)
-7DjbNwhhDdE 9:21 Why Adam Savage ALWAYS Uses Center Drills
-GtLCJ2b6XEc 21:46 Adam Savage's One Day Builds: Mandalorian Vibroblade Kit!
 DNhbUQhiVf8 7:51 Ask Adam Savage: Will I Ever Retire, Plus Combatting Negative Feedback
-ev2MGnrxHIo 18:02 Adam Savage's Chronicles of Narnia Telmarine Armor!
-jC0Uxc5RKGg 8:32 Jack White Made Me This Surprise Gift!
 Bh6VLA7uUvM 11:21 Ask Adam Savage: The Challenge of Using Explosives and Firearms in San Francisco
 I1XVHq3sTdk 7:59 Ask Adam Savage: When to Keep/Store a Project, Plus Favorite Puppet in Film History
-FUqD4FMtI-8 23:23 The Wandering Earth 1/6 Spacesuit Lighting Mod!
-WkLf69Cy-q8 15:19 A Tale of Two Syd Mead Blade Runner Blasters
-m9lFcduaZPU 6:43 Adam Savage's Rant on Laser Printers
-iAMPkNggLJ0 16:35 The Origin of Ghostbusters' Belt Gizmo Prop!
-5RL7EYSbc_g 55:52 Adam Savage's One Day Builds: The Matrix EMP Switch! Blitzway's 1/4 Scale Apollo 11 Astronaut!
 MztikUm9T1c 15:34 Ask Adam Savage: My Favorite Build of Jamie's
-NMGtR9OLAao 19:17 LEGO Back to the Future DeLorean + LED Lighting Kit Build!
 c6TopwNu7Ok 8:22 Ask Adam Savage: How Useful Is My Tattoo?
-elIcfzl3-e0 28:52 The Color Theory of Star Trek Costumes in 1/6 Scale
 6HV37guAllc 6:23 Ask Adam Savage: Makers in the Film Industry
-d5MTFw9gUc8 8:21 Ghostbusters Prop Replica: Venkman's ESP Test Machine!
-wmjZL8nm3MM 46:58 Adam Savage's One Day Builds: Inglourious Basterds Knife Replica!
-YY1_X_-cTpM 21:34 Adam Savage Repairs His 20-Year-Old Shop Sign!
 l1RemggFxwA 8:16 Ask Adam Savage: How to Weather Leather
 jP4DGyMUbMA 6:50 Ask Adam Savage: My "Why Didn't I Think of That" Moments
-98C9zxR4xTk 25:57 How to Make Diorama Bushes with Old Paint Brushes!
-zR4X775Y-9E 34:51 Adam Savage Reacts To His First One Day Build!
-DxEn4Zj7tow 11:48 Adam Savage's Spring Collection!
-J6oPJmGsioA 9:38 Show and Tell: Adam Savage's Recent Road Trip Acquisitions! 4K DLP Projector vs OLED TV!
-Vhumui9T9og 5:34 Adam Savage's New Precision Dial Calipers!
-S5o9NORnF1o 57:32 Adam Savage's One Day Builds: Papier-Mâché Mask!
-aUYeR2q2Axo 9:06 [ASMR] 1/220 Scale Papercraft Model Kit Build
-ammrI9a1GoU 8:47 Quick Builds: 1/220 Scale Papercraft Model Kit!
-0M93BCHCjAs 5:44 Adam Savage's Favorite Tools: Solvent Dispensing Can!
-o8_8T3IoouU 14:25 Star Trek: The Motion Picture's 1/6 Scale Figures!
-GBr13DOC2j8 22:37 The Making of Modern Star Trek Figures
 Z10JnKiu4Tg 6:49 Ask Adam Savage: Post-Build Depression, Custom Lightsabers and Unfinished Blasters
-FuMf6-9ZsJo 40:29 Adam Savage's One Day Builds: Vintage Bicycle Restoration!
-cfmqdNTN8rk 22:45 How to Make Fake Concrete Sidewalks for Dioramas!
-ruSOwI2xAYI 28:29 Adam Savage's Apocalypse Now Kurtz Dossier Replica Project!
 AlcLyaOw-ls 8:22 Ask Adam Savage: The "One Day Build" Concept
-rL7k8kjIdow 1:03:48 Adam Savage's One Day Builds: James Bond's Spectre Cane!
-veSJ4K5rwWU 14:30 LED Lighting for Miniatures and Dioramas!
 8fgfi7Kc1hg 13:30 Ask Adam Savage: How I Jump Back Into a Set-Aside Project
-NMEkK9cdEqg 30:44 Adam Savage's One Day Builds: RoboCop 2's Cain Stop-Motion Puppet!
 DXyc91HL7Y8 7:47 Ask Adam Savage: Does Self-Filming Make Builds Longer?
-0lAHy9cW-ps 13:20 How to Make Diorama Landscapes with Foil and Plaster!
-9cE4c61Ya0g 13:03 Adam Savage's Dirk Gently Steampunk Crossbow Hero Prop!
 LprSB3_rles 11:12 Ask Adam Savage: When to Make vs. Buy Something
-jOXidWIB-gY 20:13 Adam Savage's One Day Builds: Drill Press Modifications!
 8mXv0_N_NHg 8:17 Ask Adam Savage: The Myth Jamie Suggested That I LOVED (But We Didn't Do)
-vCzSaO4yajI 21:37 Cyberpunk 2077 Diorama Display Build!
-BfQb7giwRz0 11:59 Behind The Scenes of Adam Savage's Dart Blaster Video Shoot!
-4GcuGnjv2Aw 29:01 Adam Savage's One Day Builds: Special Effects Syringe!
-uHukgTMBzKk 16:39 How To Turn Your Sketches Into Digital Drawings!
-ioLtieMWRT8 5:39 Adam Savage Demos Hydraulics with Cheap Plastic Syringes
 qkz19jFh7x0 8:06 Ask Adam Savage: Bailing on Boring Projects
-7og5Ps7Cx0Q 34:19 Reorganizing Adam Savage's Workshop Materials Stock!
-H9eqjVIH6OE 53:16 Adam Savage's Live Builds: KiwiCo Articulated Desk Lamp!
 FIDJ2XMTb_s 10:06 Ask Adam Savage: Land Cruiser Pros and Cons Plus Drywall Screws
-9LVFVTMleio 46:32 Adam Savage’s One Day Builds: Head-Mounted Dart Blaster!
-UtQTIZSf8Mo 38:38 Guide to Prototyping in Cardboard and Foam Core!
-nCoeD7okrU8 8:12 Leonardo Da Vinci's Codex Leicester Replica!
 stMPdtH3S9E 11:10 Ask Adam Savage: Metric Blocks, Biscuit Bazooka and Barrel of Bricks
-8PN8MPw-NE0 23:13 Adam Savage's One Day Repairs: UGG Boots Part Deux!
 L5De68zSf14 11:55 Ask Adam Savage: Should You Take Jobs at a Loss to "Get Your Name Out"?
-YIbb-Bck8wc 46:43 Adam Savage's One Day Builds: Blade Runner 2049 Helmet Parts!
-LttWb771mjw 11:07 LEGO Airplane Dogfight Kinetic Diorama!
-q_YZX1SgZ5Y 27:32 Adam Savage Takes the Aluminum Foil Ball Challenge!
 _Xt-YHdRlQI 12:00 Ask Adam Savage: Stewart/Colbert Rally to Restore Sanity and/or Fear Invite
-bzJE9Rlb_3s 25:40 Adam Savage's One Day Repairs: Old Wood Hand Plane!
 IuF1tWlV6nE 9:33 Ask Adam Savage: Blade Runner 2099, Workbench Tops and Custom Lightsabers
 psgf9pqjkPs 8:37 Ask Adam Savage: Is Failure Still an Option?
-_cZJSHDMxTs 9:55 Show and Tell: Adam Savage's Custom Welding Cart!
-uzF351VecZA 40:38 Adam Savage's One Day Builds: Painting The HasLab Razor Crest!
 qPlWUFxXFGs 10:24 Ask Adam Savage: Tips for Organizing Reference Materials (Both Digital and Physical)
-kRXcDIwq4XM 24:28 Adam Savage's Leonardo Da Vinci Notebooks Collection!
-b581gVb34AQ 11:04 Portable Smoke Machine for Cosplay and Props!
 5Oe2S_xvL5o 9:01 Ask Adam Savage: The MythBusters Pilot Episodes
-xHS83PFsek4 24:20 Adam Savage's One Day Builds: Weathering the Blaster Vault!
-PX0ra2GarkM 12:49 Adam Savage Explains What to Do When You Drop Gobs of Loose Hardware Valve's Handheld Gaming PC Tested!
 WfyZuedOsF4 9:12 Ask Adam Savage: On Finding Organizational Inspiration and Discarding Things You Need Later
-jxDSEulomCg 43:06 Adam Savage's Sci-Fi Blaster Storage Vault!
-Ub0efbg1caw 13:58 Adam Savage's Guide to Flush Cutters and Nippers!
-R33QA--RdYc 9:37 Adam Savage's Favorite Screwdrivers Sent By Fans!
 9mxGo7QglRU 12:36 Ask Adam Savage: Transitioning From Jamie's Employee to Equal
-xMkJGIWrtVA 19:30 Adam Savage Restores An Old Desk Chair!
 CVU3EZnjmUg 9:33 Ask Adam Savage: How to Store One-Off Items (Plus Home Organization Issues With Mrs. Donttrythis)
-rQyFoKpDRAw 5:44 Why the Space Shuttle Discovery Delights Adam Savage SO MUCH
 70TZua1j3Fc 11:27 Ask Adam Savage: When to Discard Scrap Materials
-TRRRRJph9rE 14:58 Adam Savage's Vintage Cinematography Gear!
-NYkF5EwaDBU 19:29 Adam Savage's One Day Builds: RoboCop 2's Cain Robot!
-rgYby0IJSVs 26:37 Adam Savage Upgrades His Knife Sharpener!
-bNHbyebM8n4 5:24 How Smithsonian Transports and Hangs Their Historic Aircraft
-KAdg-ap-OtI 16:47 Why the National Air and Space Museum Is (Temporarily) Closing
 56NXn-6nqMA 8:58 Ask Adam Savage: Why the Hindenburg Episode Was Huge (and Fun!) for MythBusters
-wgB77v1GUEw 28:31 Adam Savage's One Day Repairs: Arriflex Camera Battery Pack
 4m-lTiCmSro 6:45 Ask Adam Savage: Airbrushing Tips and DIY Tools
-TJYK69F8ULk 45:07 Adam Savage's One Day Repairs: Arriflex 35mm Camera Motors!
-BNyKb87iU5I 9:22 Practical Special Effects of Ghostbusters: Afterlife!
-xXNg8Rlo2ak 34:38 Adam Savage Remembers His Mentor in Model Making
-Sy_cxDhWJPk 6:37 Adam Savage Inspects Amelia Earhart's Record-Breaking Aircraft!
-2ZWZjAOLeDI 10:51 Adam Savage Examines the Wright Brothers 1909 Military Flyer
 QmRXguvO0bs 13:45 Ask Adam Savage: Managing Tools and Materials When You Have Two Shops
-hX5Qsrpj9Ao 31:26 Adam Savage's One Day Builds: Surface Plate Cover
-QF4veKPSS1Y 13:09 Making An Acrylic LED Cross-Section Display!
 F_YVzJfhC6o 10:47 Ask Adam Savage: Tips for Building Within Tight Budget Constraints
-V0kQDCVU_48 36:38 Adam Savage's One Day Builds: Mini Apple Box!
-DgT4eSpAQVg 13:48 Adam Savage Visits Ghostbusters: Afterlife's Art Department!
-zMfMAePNpB4 5:17 Adam Savage Reflects on the Small Spaces Astronauts Must Endure
--WPg7xTl6ZE 11:53 Adam Savage Checks Out Smithsonian's Mannequins!
 d4O2wtDW2LA 10:17 Ask Adam Savage: The Tool That Does Only One Thing, But Does It Well
-IeFIhKaJEFo 31:34 Adam Savage's One Day Builds: Dune Sand Compactor Replica!
-elGK9St0kJ8 5:46 Adam Savage's Quick Tips: How to Fill Nicks in Wood
-H3o2XkVjxzc 23:10 Amazing Laser-Cut Star Wars Shadowbox!
-uEcx6yb5yXQ 41:33 Adam Savage's One Day Builds: Magnetic Lathe Chuck!
-1bmB9Ms-X10 19:56 The Production Design of Ghostbusters: Afterlife!
 H0X9y0iyBmY 12:13 Ask Adam Savage: Lathe Tips (Plus Adam's Watch!)
-93D-JZ_QtUI 14:11 Adam Savage Examines a WWI Aircraft!
 qeRcHlwp2AQ 9:43 Ask Adam Savage: The Tool That Makes Adam Giddy
-kuWZyFCHRIs 18:42 Adam Savage's One Day Repairs: Cleaning Micrometer Gauges
 q3sCIpFZzfU 8:04 Ask Adam Savage: The Tool That Didn't Live Up to My Hopes
-wAOtz5uKDSk 26:30 Wonder Woman Golden Armor Diorama Build!
-ykr2IMSYDMc 30:43 Adam Savage's One Day Builds: Ping Pong Ball Launcher!
-ZoeL2lwLpXs 9:10 Creating Ghostbusters: Afterlife's On Location Set!
-NiZPuE0wBE8 40:58 Adam Savage's Guide to Model Spaceship Paneling!
-n7LFYB8B-IE 11:26 Adam Savage Tours National Air and Space's Conservation Lab!
 Gj0OMUozEKw 8:25 Ask Adam Savage: Favorite Play/Musical Experience
-jQSTJSniXKM 32:25 Adam Savage's One Day Builds: Fixing the Mill's Motor Fan
 7oieelDea5o 10:28 Ask Adam Savage: Do I Do Projects at Home?
-3qOJakmE7Pk 33:52 Adam Savage's One Day Builds: Mythbusters Blueprint Display with Kyle Hill!
-pzaXdNp38hE 18:14 Adam Savage Visits Ghostbusters: Afterlife's Costume Department!
-JPpPE0uf74E 8:20 Adam Savage's Favorite Screwdriver Design!
-5glDh3xNfEg 8:08 Adam Savage Checks Out the Apollo 11 Command Module!
 8zIOfPy7sCg 10:48 Ask Adam Savage: Myths Adam Wishes Were Taken Further
-gaJgfS_2LZ4 32:36 Adam Savage's One Day Builds: Gauge Block Storage Rack!
 V1XbZPafG7M 14:56 Ask Adam Savage: How to Deal With Creative Block
-FOwv35You7k 14:09 Adorable Mini C-Stand + D-I-Y LED Ring Light!
-u5CDKWnWpPs 9:46 How Ghostbusters: Afterlife Brought Back THAT Legacy Character [SPOILER WARNING!]
-_2kmXLP_uXg 33:13 Adam Savage's One Day Builds: Machining Mystery Prop!
-qE7dYhpI_bI 45:08 Adam Savage's Epiphany on the Science of Measurement!
-6BecCJoMRng 4:48 Grant Imahara's Scratch-Built Hoverboard
 aNwZQdUmR7A 11:58 Ask Adam Savage: Weirdest Things Fans Ask to Be Signed
 AoXNSquNsbY 14:00 Ask Adam Savage: The Myth That Pushed Adam to His Breaking Point
-0EfPI-MY2Y4 8:56 Tested: Atlas Orion Anamorphic Cinema Lenses!
-2qqxZKWSXio 12:42 Adam Savage Cosplays as Doctor Strange!
-m6VYpHdBG84 15:48 Adam Savage's One Day Builds: Weathering a Sword Blank!
-vDsVwbWiVFI 8:28 Adam Savage's Quick Electronics Wiring Tips!
-XGstRBM2UDs 15:40 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 10)
 uKlQyWwdqXk 11:13 Ask Adam Savage: Is Mrs. Donttrythis a Maker?
-fuCRr4c21mY 15:37 The Making of Tested's Short Film "The Beacon"!
-q4SHatvp_Jk 18:41 Makers Secret Santa: The Butt Keyboard From Hell!
-7bhKD5t09cY 28:33 Adam Savage's Favorite Tools: Quick-Change Tool Holders!
 QuzIlMxLnQM 12:42 Ask Adam Savage: Collaborating/Competing With Jamie on MythBusters
-e12PRNqwpHc 20:23 Behind The Scenes of Tested's Short Film "The Beacon"!
-x5DqW3RKxNA 23:01 Adam Savage's Spacesuit Secrets!
 r1uxC8RUiKU 9:05 Ask Adam Savage: Feeling Overwhelmed by STUFF
-UmEdray7a0E 14:45 Show and Tell: MythBusters Fart and Plane Boarding Props
-yzy_8tT4TO0 24:35 Adam Savage's One Day Builds: Miniature Astronaut Display!
-XYYvIRaEGR0 17:53 JoyToy 1/18 Scale Mecha Diorama Kit!
 D_yHttkfWCA 11:43 Ask Adam Savage: Origin of "Well, There's Your Problem" on MythBusters
-j7HiJWulFdo 20:22 Adam Savage in Alien's Nostromo Crew Uniform!
-9TZ5yflpmq4 42:15 Adam Savage's One Day Builds: Ghostbusters Ecto Goggles!
-BIf7fuOIB1Q 21:17 Adam Savage's Guide to Staplers and Nail Guns!
 Ie79jtBfr1M 11:59 Ask Adam Savage: Movie Scene That Had the Biggest Emotional Impact
-jk8Fu6zHFzQ 10:06 Grant Imahara's BB-8 Replica!
-l6ZRDCG1ZDA 13:38 Adam Savage's Favorite Books, Movies, and YouTube Channels of 2021!
-Zkx6GR_x7wo 9:45 Adam Savage's One Day Repairs: Broken Pot Lid!
 REXSV1x18Y8 11:37 Ask Adam Savage: Most Egregious Errors in TV and Movies
-xScE3qxQ03I 19:45 Tested in 2021: Favorite Coffee Table Books!
 fW8R-WbLQEs 11:14 Ask Adam Savage: Films Where the Props Were Better Than the Film Itself
-9yzg3a91F5o 45:20 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 4)
 EtdAto9ymA8 9:22 Ask Adam Savage: Coming Out of Prop-Making "Retirement"
-jA8D_bL5Whg 28:46 Jen Schachter’s Snow Globe Diorama Kit!
 BW2l9UE05No 8:47 Ask Adam Savage: Criteria for Removing Items From Shop
 KvnWuo_vTFU 9:58 Ask Adam Savage: Origin Story of the Cave
 8-1NoqJXX-c 6:32 Ask Adam Savage: If I Could Rebuild My Shop From Scratch
 UBIoaI_zqxU 6:33 Ask Adam Savage: Pegboard and Other Storage Solutions
-2O92DT4x0tg 1:04:21 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 3)
 rpBxyXYzJnU 8:13 Ask Adam Savage: Inspiration from Cosplays Seen in Recent Conventions
 25eZ17IoRK4 11:34 Ask Adam Savage: On Storage, Compressed Air and Expendables
-ntpthBbzK70 26:48 Playing Chess in Quest 2 Mixed Reality — Awesome Unity Slices Demo!
-HAirnq80dcQ 1:28:50 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 2)
-XhBSibI2nuA 21:36 Adam Savage and Jason Reitman Talk Ghostbusters: Afterlife!
-Uc2jXrxI1SU 32:14 Adam Savage Inspects Hasbro's Ghostbusters Proton Pack! Dune Crysknife Replica Prop!
-TjdqmqPwhks 18:45 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 9)
 04uc8uEE36k 10:13 Ask Adam Savage: Making a "Renter Friendly" Home Workshop
-yc8yHGvviY8 12:20 Camera Gear for Science Exploration and Expeditions
-OshKZcTFEZY 32:21 Adam Savage's One Day Builds: Ghostbusters: Afterlife Hand Prop!
-0FKxM-zNZBk 1:10:32 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 1)
-sSH1jS9FMcQ 12:25 Adam Savage's Favorite Tools: Drill Powered Paint Can Mixer!
 dNry9KLISYo 5:30 Ask Adam Savage: 3D Printer vs Vacuum Former for Cosplay
-ovHk5PRE_Lo 3:11 Adam Savage's Personal Connection to the Viking Lander
 sHz3zZu3Z0o 8:54 Ask Adam Savage: Managing Distraction While Working
-Y44_IgT3K9w 23:21 How To Make Mini LED Tube Lights!
 sN-wQYRDECw 12:15 Ask Adam Savage: How Mandalorian's Digital Effects Are Game-Changing
-SswGAImAlls 4:28 The Beacon | A Tested Short Film
-2Wjl_Y_iw7Y 10:13 Adam Savage Inspects Original Aliens Hand Prop!
-69JSHw4ERuk 10:33 What's Inside The "National Treasure" Book of Secrets!
-NvWEkWnnWBI 8:26 Rick Baker Mutant Mask from American Werewolf in London!
-yjd7zBd2c98 9:01 Blade's Original Hero "Sword of the Daywalker"!
 NRDWkJbrcrU 11:43 Ask Adam Savage: On Interacting With Fans
-Dx2RLH_6nJc 13:13 ILM's "Batteries Not Included" Robot Puppet!
-L5ZZq_VOHok 8:27 Original Gladiator Maximus Hero Movie Helmet!
-mbAxW6LMnpA 10:41 Adam Savage Learns About Ghostbusters: Afterlife's Visual Effects!
-dj3HqRtC-T8 7:59 Adam Savage Explains Möbius Strips and Klein Bottles!
 KoEw_A1MfC0 11:40 Ask Adam Savage: Is Hacking Making?
-zHxTO7oN7W8 53:58 Adam Savage's Live Builds: KiwiCo Tilt-And-Fold Desk Kit!
-dB6kKNF-JWE 14:08 What's In Your Explorer Bag, Ariel Waldman?
-gZcqcfH5IGA 6:26 Adam Savage's Ghostbusters Prop Department Gift!
-bdzU4Bws_4k 31:19 How Google's Wing Drone Delivery Aircraft Works
-HXzzXkJZiJU 4:00 Comparing U.S. vs. Soviet Spacesuits at Smithsonian Hasbro's Ghostbusters Neutrona Wand!
 L-s3jFny6M8 12:19 Ask Adam Savage: Has Celebrity Changed Adam's Con Experience?
-QL7bwm_FqlA 12:09 $15 Wireless LED Light Kit Tested—Does It Work?
-NhjZAkDOOck 1:01:30 Designing and Prototyping Laser Cutter Projects - Q&A!Insane Display Detail!
-n9kfjOioQU4 4:32 Adam Sees One of National Air and Space's Favorite Artifacts!
-I093ix5wAEE 3:28 Adam Savage's Replica NASA Moon Mission Plaques!
-BDdOBorpp5s 11:02 Adam Savage Inspects Ghostbusters: Afterlife's Hero Props!
-_kyaFVwKNOs 7:51 Adam Savage Meets the Paladins of Cosplay
-f24n1GKqyNc 12:58 Adam Savage Incognito as a Ghostbuster!
-cS7mlM5yy1A 1:25:32 Myths Adam Regrets Tackling on MythBusters and Much, Much More
-_a2uE8-i_tE 15:19 Amazing Princess Bubblegum and Marceline Cosplay!
-6Uc-jDkPyjk 8:47 Grant Imahara's R2D2 Replica!
-8uLzRDExhBk 7:14 Smithsonian Welcomes The Expanse
 uK-0Yndxmss 11:27 Ask Adam Savage: Managing Anxiety When Delivering Creative Work
-zhe8d9NgcsI 19:41 How To Use Flexible LED Filament Wire for Lighting Projects!
-qfaWpsfSDd4 18:36 Haunted House Miniature Diorama Build!
-dloSR3a57IA 43:24 Adam Savage's One Day Builds: Ghostbusters Proton Pack!
-Uoh4Q-I03tQ 9:08 Grant Imahara's Battlebot Deadblow
-UF1fxk-aIVI 5:29 Adam Savage Meets Alan Shepard's Mercury Suit!
-s1JfjEqBG8o 9:00 The One Thing Adam Became Expert at During MythBusters
-nfYBlBNreCY 12:07 Grant Imahara's Animatronic Grogu Replica
-NxL4SLzAkao 1:27:29 Adam Savage's One Day Builds: Aliens Colonial Marines Armor!
-lDSylp8r4EY 7:25 Adam Savage's Favorite Tools: Electric Cast-Cutting Saw!
-i2crXD9HjSM 8:15 Working on a Fiction-Based Aircraft as a Smithsonian Museum Specialist
 kDzhe6Ll1sA 14:50 Ask Adam Savage: On Turning a Hobby Into a (Still Enjoyable) Business
-hsCSTO8SaQU 10:16 A Tour of Grant Imahara's Shop
-iEaf3t3KUyg 27:25 Adam Savage's One Day Builds: Hasbro Mandalorian Helmet Repaint!
-l0b960BZEAs 6:39 Adam Savage's Favorite Tools: Heat Gun and Iron!
-W3XUKBUCLUU 6:07 Conserving the X-Wing at Smithsonian
-eTtoN191-Wo 18:58 How to Add Smoke and Fog to Props, Miniatures, and Photography!
-Jwk_-c6_jAw 5:42 The Mystery of This Original Rocketeer Stunt Pack
-dG6rEzyWSyc 12:54 Adam Savage Tours Ghostbusters: Afterlife’s Farmhouse Set!
-Rd1mTLESWMI 6:24 Adam Savage: How I Wear My Face Mask
-CZojRDHNggI 6:11 Why There's an X-Wing in the Smithsonian
-It8h2YJiyhY 9:08 How the Original MythBusters Series Would Be Different Today
-Ew084i7Vmdc 10:02 How To Give LED Strip Lights Special Effects for $10
-d9N5SJpHkfY 14:29 Making Miniature Papercraft Architecture!
-9ythps074zk 9:08 Evil Dead 2's Cabin in the Woods Miniature Model!
 Gf-7RlvDeaw 12:14 Ask Adam Savage: How Scripted Was Shark Week?
-3M0JPy9LNSg 18:01 Inside an Arriflex 16mm Film Camera!
-VZyIWF1VftI 14:34 Adam Savage's Last Film Before MythBusters
-ieR2wRkTZcQ 35:02 Savage Inside: Lenovo Legion 7i Shadowbox Display! (Intel® Gamer Days)
-jJ6VUAzejmw 43:54 Adam Savage's Live Streams: Conventions, Tennis Elbow, 3D Printing and More
-QKp6SHZHAo0 6:53 Star Trek: Discovery's Klingon Costumes and Armor
-lg1YuthqB9g 8:13 Adam Savage Incognito as Iron Man!
-VswBDMmMgsU 6:26 Adam Savage Drives Ghostbusters: Afterlife’s Ecto-1!
-BFXspOEUY7g 7:33 On Jamie Drinking for Science
-yhmY7csugzQ 12:42 Adam Savage and Fon Davis Reminisce About Galaxy Quest!
 tiByvxW3-SQ 9:12 Ask Adam Savage: On Being Clever vs. Good in the Workplace
--59CTZkMI4M 5:24 How to Shoot a Zombie Volunteer in the Face Safely
-xfmD1yYqP6k 24:55 Adam Savage's First Gundam Build—RX-78-2 Perfect Grade Unleashed!
-VinT6N1yhBg 8:01 Adam Savage Inspects New Pages from Indiana Jones' Grail Diary!
-RYZgz2vfGvk 4:54 MythBusters: Where Cameras Went to Die
-tzrAM-pKErA 24:21 How Vintage 16mm Cameras Work!
-HbiO-MDyMPY 4:43 MythBusters' Largest Weapon of War
 -GzHr2MYS0w 16:47 Ask Adam Savage: On Being a Freelancer (and Setting Prices)
-QVZn7YaRMd8 20:45 How To Make a Custom Neon LED Sign!
-n0IMjn7jJhY 7:59 The Mysterious Origins of Buster, the Crash Test Dummy
-wwvGwxwBwCk 18:08 Tested Favorite Tools: Paper Crafting Cutters!
-0STyxqVXaXI 11:47 Batman (1989) Original Batwing Restored!
-_CaQ3xYIb0g 43:27 Adam Savage's Guide to Cosplay and Prop Electronics!
-xeGWJLsIVbA 4:24 No Bibles Were Harmed ...
 NSPHIP9BM8I 12:01 Ask Adam Savage: My Past in Theatre
-bVCFCdiThxU 4:46 One Example of Adam and Jamie's Competing Methodologies
-SdXBi_Hgies 30:41 Infinity Mirror Mysterio Display Case Build!
-xDthNAUMXYs 15:29 How Star Trek: Discovery's Costumes Are Made!
-AQ6UpH8eUKo 6:28 Adam Savage's Mini Excalibur Sword!
-HLzSECYoIgM 3:24 Creepiest MythBusters Prop Ever?
 1wR9i5BLjeU 10:49 Ask Adam Savage: My Worst and Most Tedious Jobs
-zisLHqEr4Fw 7:54 More Weird and Wonderful Vintage Analog Clocks!
-L6ErHPYuoXI 3:25 A Physical Example of Jamie's Brilliance
-PgiyoweaPb4 18:00 How Lightfield Displays Will Make Holograms Possible
-VxvLpFUMQkU 11:10 Behind MythBusters' Early Blueprints
-2TdeBrw2g_M 2:21 Announcing Adam Savage Behind the Scenes of Ghostbusters: Afterlife!
-snNL5GgOq_c 6:52 Why "Golf Ball Car" Is Pivotal in MythBusters' History
 YpEHNIADWiA 10:22 Ask Adam Savage: First Job Ever Plus That Charmin Commercial
-KziugYW6uLk 11:20 MythBusters' Rocket Car Rockets!
-Cs5YHMgw2tY 29:33 Adventures in CNC: Making a Plywood Room Divider!
-u3QGyagPUSY 9:02 The Return of MythBusters' ROBOSHARK (from Shark Week)!
-Iyl2ZuHRNT0 8:30 Weird and Wonderful Vintage Analog Clocks!
 uiS1iR9uWQU 10:24 Ask Adam Savage: How Much Is Cosplay Physical vs. Mental?
-OLAwyHF8cwg 8:16 How We Manage All Our Video Footage + Edit Off a NAS!
 rnfbjySCtCU 5:43 Ask Adam Savage: Machining vs 3D Printing
-rSOiusnpddc 9:57 Iron Man, Stranger Things, and Transformers at Sideshow Con 2021!
 x0N2A8lNUXo 9:47 Ask Adam Savage: Transforming Toys into Realistic-Looking Props
-V60_AA7Cwgk 10:52 Hot Toys Prototype Figures at Sideshow Con 2021!
-zginChewoKU 31:35 Adam Savage's One Day Builds: 2001 Spacesuit Helmet Repair!
-vetc7rEYnjI 25:03 Adam Savage's Guide to Drill Bits!
-bg-xRlTIXnw 14:19 Star Wars Sculpts and Figures at Sideshow Con 2021!
-6pIZI-TyyGM 9:04 Adam Savage's Lifecasts Collection!
 D4ZYMUc8vng 12:58 Ask Adam Savage: "How I Broke My Neck"
-1g5XhaIp-i4 11:22 3D Printing Hagglethorn Hollow Tabletop Miniatures!
-xOPO2DskYhE 10:51 Adam Savage and Fon Davis Discuss Working on Matrix
--imr0Cy7NQY 39:42 Adam Savage's One Day Build: Acrylic Display Box!
-HtkdNq-hiS0 12:38 Adam Savage's One Day Beard!
 V4PrNE8HsuI 12:18 Ask Adam Savage: "Which Star Wars Scenes Bring You Joy?"
-4Vliuu9KZ4I 23:04 Making a Custom Lightsaber Display!
-ifIySD3apIU 11:38 Adam Savage Reunites With Fon Davis' Mouser Mecha-Catbot from Battlebots!
-0WhqePxTYpo 23:54 Adam Savage Makes a Papercraft Animal Mask!
-s8idSAuc7uI 18:02 How to Make Alcohol Inks from Old Markers!
-2A9iGfUb4kQ 23:55 Adam Savage Inspects a $500 Suit of Armor!
-S6J6t6bv3aE 16:29 Show and Tell: Adam Savage's 2001: A Space Odyssey Space Suit!
-kcjCJkXw-NM 12:51 Adam Savage and Fon Davis Talk About Working on Star Wars!
-xePxGWc_mH0 34:00 Adam Savage's One Day Build: Fake Beard Wiring!
-D25Cnn74o1A 13:03 Tested Favorite Tools: Hot Wire Foam Carving Set!
-HjZvC0sEq80 6:24 Mondoshawan Ship Model from The Fifth Element!
-67nQzkYXlXg 4:05 Original Ghostbusters Terror Dog Puppet!
-oClWPnCphfA 22:58 3D Printing an Anatomical Cross-Section Sculpture!
-1dbUewjfipE 6:09 Adam Savage Meets Original Statler and Waldorf Muppets!
-ijosoNfEBP4 37:21 Adam Savage's One Day Builds: Aliens Colonial Marines Shoulder Lamp!
-0gu14BC-vEY 8:07 The FX History of the Dinosaur Input Device!
-AhO8rcGb-GE 9:19 Adam Savage Meets Original Star Wars Props!
-duIiGF7inro 8:37 Adam Savage and the Original Indiana Jones Fedora!
 mzC97eXYrDI 4:35 Ask Adam Savage: MythBusters Celebrity Guests That (Sadly) Never Happened
-CAGd_7djUF8 21:04 How to Make Custom LED Lights for IKEA Display Cabinets!
-iiZ5rh3Uo1o 1:14:52 Adam Savage's One Day Builds: Excalibur Henchmen Armor!
-IiGPSn3fklI 15:03 Adam Savage's Guide to Workshop Hammers!
-cnFynrqs7Fw 14:36 Kayte's Miniature Models from 'Real Steel'!
-dlCiIAS6fsA 26:51 Adam Savage's One Day Builds: MacReady's Hat from The Thing!
 5A6ZGOmV0CM 7:16 Ask Adam Savage: Favorite Object Built on MythBusters
-3hXfsHjDAhk 18:28 How Holographic Doom Works on a Lightfield Display!
-NNNcGCZHvxE 53:53 Adam Savage's One Day Builds: Foamcore Architectural Model!
-RWxCvMzvxlQ 15:25 Adam Savage's Favorite Tools: Great Budget Vacuum Former!
-j8_EoUXvTJk 21:41 Adam Savage's New Milling Machine!
-ajHmyFX9zvk 24:47 Adam Savage's One Day Builds: Workbench Vise Upgrade!
 ZuW7_-rbvJc 5:24 Ask Adam Savage: Which Previous Job Adam Would Do Again (and Again)?
-OUHShx43JVU 1:01:48 Adam Savage's One Day Builds: Miniature Piano!
 Nr81hpP5wK4 6:55 Ask Adam Savage: The Day I Saw Unparalleled Joy on Jamie's Face
-ieoSisOIWE4 8:56 Adam Savage's Beskar Spear Prop Replica!
-WAxxrBF5V3M 1:16:33 Adam Savage's One Day Builds: Famous Gemstones Collection!
 RTa_oneCUPg 11:51 Ask Adam Savage: When to Intervene and When to Let Mistakes Happen
 uXL8zhR17ts 15:37 Ask Adam Savage: Thoughts About Galaxy's Edge
-7D8sXR0ozeE 1:24:21 Adam Savage's One Day Builds: Animatronic Bear Head!
-ttexR6ZgBzs 18:01 Adam Savage's Guide to Workshop Scissors
 x6c32uqznyQ 15:18 Ask Adam Savage: When Good Lightsaber Battles Go Bad
-0wxpcfMB-qc 29:34 How To Professionally Frame Your Artwork at Home!
-uWdYs5R7mJk 21:24 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 8)
-0znjWy-Tr4Q 55:55 Adam Savage's One Day Builds: OneWheel Electric Skateboard Mods!
 HNzigDaI5u8 12:15 Ask Adam Savage: Why Waterslide Wipeout Was Less Fun Than It Looked
 xjHGCalVf6U 8:16 Ask Adam Savage: Managing Failure as a Maker
-mXR_0Yq25W4 14:21 3D Printing a Miniature Cityscape Diorama!
-TjvX8GiYA5w 44:30 Adam Savage's One Day Builds: Monster Puppet Kit!
-_61DYROQNNU 13:37 Adam Savage's Favorite Tools: Fabric Steamer (and a New Hat!)
-5-gurx0S1ks 21:56 Behind the Scenes: Editing Spatial Audio in Virtual Reality!
 ELauebvLb1M 15:17 Ask Adam Savage: Coping With (and Learning From) Failure
-QWBFHoJrosY 35:49 Adam Savage's One Day Builds: Star Wars Acrylic Paints Rack!
 y-0bBTuLAR8 11:09 Ask Adam Savage: Favorite Life Experience as a Result of MythBusters
-l4Uew4czJ1o 41:51 Adam Savage's One Day Builds: Queen Elizabeth's Buzzer Bell!
-f2ajmCIVe9U 7:20 Tested Favorite Tools: Soldering Fume Extractor!
-kZSz0weq7GU 4:47 Adam Savage Geeks Out Over EVA Foam Scale Maille!
 tgx0bPAi8Q8 6:56 Ask Adam Savage: Learning to Stunt Drive on MythBusters
-cLrqogSndWs 1:09:07 Adam Savage's One Day Builds: Epoxy Headcast Helmet Skullcap!
 thRFK-MSZAw 6:26 Ask Adam Savage: MythBusters' Contribution to Science
 jHwM-nnG-vI 9:45 Ask Adam Savage: Collecting Failures
-NsFBHqbNKvA 16:34 The Animatronic Robot Designs of Mark Setrakian!
-DcNPYycz4nU 57:13 Adam Savage's One Day Builds: Mandalorian Blaster Paint and Weathering!
 LihTFh63wpM 14:01 Ask Adam Savage: Managing Negative Emotions During a Build
-lloesAf3CV8 8:53 Medieval Alleyway Book Nook Diorama!
-BXWTNRHkDmQ 8:55 Adam Savage Rancor Maquette Statue Reveal!
 jEfQAo-BuB0 7:19 Ask Adam Savage: "Why I Actually Hate Duct Tape"
-8DkBLbQ1WE4 19:13 Adam Savage Reorganizes His Workshop's Material Storage!
 2T7lh1HzZjw 9:14 Ask Adam Savage: How to Approach Building an Accurate Costume
 8FBNmf9H-_4 10:01 Ask Adam Savage: Performing for an Audience vs. a Camera
-4hhOA5TFvt8 9:09 How to Make a Fake Frosty Beer Bottle!
-Cj0uLKibPW4 1:37:37 Adam Savage's One Day Builds: Mandalorian Amban Blaster Replica!
-Hv14-nlQJ2s 4:17 Inside Adam Savage's Cave: The Return of Moly Dee!
-AFypEVQr7QI 9:27 How the Mythbusters Flatus Containment Device Works!
 T6BlB3l-F4U 7:14 Ask Adam Savage: Proportion vs. Measurement in Cosplay
-4ufQUvxpuAo 36:53 Adam Savage's One Day Builds: Car Engine Model Kit!
-gQi9THORs1A 24:50 3D-Printing Lord of the Print's Godzilla Model!
 9a1eQAge2sg 11:06 Ask Adam Savage: Choosing Which Version of a Character to Cosplay
-r0aae4df3Aw 37:18 Adam Savage's One Day Builds: LEGO Blade Runner Spinner Model!
-iHAkCYwxUb0 9:52 Adam Savage's Favorite Tools: Plastic Forming Strip Heater!
-sdoO1kZOQS4 24:58 Adam Savage's Indiana Jones Grail Diary Prop Replica!
 T5fjMnfSSbQ 7:23 Ask Adam Savage: A Caution Against the "Comparing Mind"
-W1DrW_f_vNo 32:11 Adam Savage's One Day Builds: Hyperdodecahedron Model Kit!
 hSAuQETf79M 6:35 Ask Adam Savage: Which Myth Didn't Get the Love It Deserved?
 16ctTeUJvSU 13:03 Ask Adam Savage: How Adam Chooses His Cosplays (Plus a Nathan Fillion Story!)
-teteroQeKGY 4:28 Adam Savage Tries on Puppet Mouth Masks!
-drLGYpPbrZg 53:36 Adam Savage's One Day Builds: Painting Iron Man Armor, Part 2!
 HU--YQtD-xk 6:59 Ask Adam Savage: Training a New Shop Employee With "All the PPE"
-agH0c5v18WU 8:24 Adam Savage's Vintage Automatic Testing Micrometer
-AwXZPxKPnX0 7:40 How Adam Savage Stores His Vintage Aerospace Sunglasses
 v3TYRKECRNA 7:13 Ask Adam Savage: Predicting Results on MythBusters
-2tQf7cruUMA 37:37 Adam Savage's One Day Builds: Galloping Horse Animation Machine!
 _iu7u0SQCUk 13:37 Ask Adam Savage: How MythBusters' Crew Size Changed Over Time
 8UXDae5czgs 7:08 Ask Adam Savage: On Sharing Your Workshop
-17JxWEZPN4o 5:27 Adam Savage's Replica Creature Head from The Thing!
-CtGMBOqs0us 1:06:18 Adam Savage's One Day Builds: Painting Iron Man Armor!
-F5YmVHB3P5I 12:20 Adam Savage's Favorite Tools: Japanese Hand Saws!
 sosCBJv2tV8 6:59 Ask Adam Savage: Shop Anchor Points
-HqUlPoxrzjM 40:02 Adam Savage's One Day Builds: Hellboy Samaritan Replica Finale!
 XorzjtqIDWM 6:53 Ask Adam Savage: Testing the Bulletproof Water Myth
 QCcIdfIdfD0 6:58 Ask Adam Savage: Designing Mobility in a Small Shop
-ND4Y0gx4aTI 1:05:27 Adam Savage's One Day Builds: Iron Man Armor Boots!
-xf3ma1XFt9Y 8:04 Adam Savage's Favorite Tools: Safe Rust Remover!
-ye0Fws__fVQ 4:55 Adam Savage's Van Gogh Painting Replica!
 g7nz1yCPFk0 4:59 Ask Adam Savage: How to Keep Track of Rarely Used Items
 ZMIetBwWKoI 5:36 Ask Adam Savage: How Dangerous Was Duct Tape Canyon?
-zWaQNVGhuyU 30:56 Adam Savage's One Day Builds: 3D Print UV Curing Oven!
 Sn6_TE9i5r8 9:00 Ask Adam Savage: About M5's Wall of Labeled Storage Bins
 dsN__voQd8o 10:32 Ask Adam Savage: Tips for Setting Up a Workshop
-mCzHH3fE5V0 16:30 Tested: ResinLapse 3D Printing on Elegoo Saturn!
-eJUbdNhdhkk 1:46:32 Adam Savage's One Day Builds: Remaking The Crown!
 beVj_xinOHY 12:33 Ask Adam Savage: When Good Materials Go Bad
-JFJYbIawnCI 12:10 Adam Savage's Favorite Tools: Portable Benchtop Parts Washer!
-lcJN-arQ92Y 8:48 Adam Savage's Rare Taylor Pressure Helmet!
 v6JPhkWg_ok 8:44 Ask Adam Savage: Testing Myths With "No Basis in Science"
-I5dH96JunrQ 55:55 Adam Savage's One Day Builds: Resin 3D Printer Station!
 xUjcHW7SHaI 11:05 Ask Adam Savage: Plane on a Conveyor Belt Controversy
 oFrjTAa7N4M 7:22 Ask Adam Savage: The Importance of Practical Effects
-9pTeyhp1ETE 21:34 Tested's New CNC Machine: Assembling the X-Carve Pro!
-jmYBQSqXnQ4 47:57 Adam Savage's One Day Builds: Shop Dust Collection System!
 am5MLfCk8dc 10:37 Ask Adam Savage: "Which film most impacted modern cinema: Blade Runner or Alien?"
-VZqf5rOJNCE 24:43 Adam Savage's Favorite Tools: Superglue and Glue Accelerators!
-AhEStPPzkvk 9:40 Adam Savage's First Mechanical Hand Build!
 Z4dG9DYGSdA 11:56 Ask Adam Savage: The Myth More Dangerous Than It Seemed
-88otijaNOg4 13:41 Adam Savage's Favorite Books on Pool Hustlers, Card Sharps, and Con Artists!
 vpAb8YkKKWg 10:50 Ask Adam Savage: Favorite Actor from Alien
-ptIF5Mn334Y 28:30 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 7)
 Z9UIbpuppkM 9:19 Ask Adam Savage: About MythBusters' Narrator
-a23XlIqhffI 17:33 Iron Giant 1/50 Scale Diorama Build!
-of9qY62tWKo 40:53 Adam Savage's One Day Builds: Tabletop Maker's Vise!
-hd-35yJAYBo 19:36 Adam Savage's Favorite Tools: Woodworking Chisel Sharpening!
 Lcf0IOb0VY0 7:31 Ask Adam Savage: Working on R2D2 at ILM
-8e_cMCGpR-k 24:08 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 6)
-ATfL9JQ--JE 1:03:05 Adam Savage's One Day Builds: Hellboy Samaritan Prop Barrel Rifling!
 h70kbIzPgig 13:09 Ask Adam Savage: How Lead Balloon Changed MythBusters
 mFwzgXnxG30 7:09 Ask Adam Savage: Why M7 Spun Off from M5
-M-d16zmseGw 10:36 Adam Savage's Favorite Tools: Reciprocating Air Saw!
 bUAa1TgSY1c 9:30 Ask Adam Savage: Testing Fiction-Based Myths on MythBusters
-5NH1-3NBcOk 1:28:31 Adam Savage's One Day Builds: Micrometer Gauge Box Set!
 EAlX_NOFYDI 12:04 Ask Adam Savage: High Speed and MythBusters
-yc0GaUfUi-4 17:01 Star Wars Japanese Dojo Diorama Build!
 ztE3xoVDtG0 6:30 Ask Adam Savage: Voight-Kampf Machines and Electric Sheep
 2FyfZeAgv54 4:06 Ask Adam Savage: Myth Adam Would Like to Test Today
-Z3-Fx-flm6M 40:56 Adam Savage Tests Boston Dynamics Spot's New Robot Arm!
 rdNPws3pyHw 10:14 Ask Adam Savage: Why I Still Like Blade Runner
-36J86bTnYnA 8:28 Stormtrooper Exploded-View Model Kit Build!
-T8lMmVU30W8 10:04 Adam Savage: Blade Runner's VFX and How 2049 Holds Up
-jfUL73pRYq4 1:02:53 Adam Savage's One Day Builds: Studio Ghibli Diorama!
 uw4csWqepkA 10:41 Ask Adam Savage: How MythBusters' Stunt Training Later Saved Adam's Life
 Uxx4Y1lOM00 12:43 Ask Adam Savage: Favorite Blade Runner Cut (Plus: Is Deckard a Replicant?)
-5Cu9Y2vPMgA 5:53 Adam Savage's Favorite Tools: C-Thru Triangle Ruler!
-uBWIFzgXAuQ 17:40 Adam Savage's King George Costume!
-UG5DapCtqc0 25:25 Adam Savage in Real Time: God of War Leviathan Axe Blade
-MiFLyAPyP2U 30:27 Adam Savage Assembles a Mandalorian Blaster Kit!
 zdkqBWtVNSA 14:04 Ask Adam Savage: Savage Builds' Complex Builds, Plus Those Rocket Gloves
 DXWzAcWj6b0 13:40 Ask Adam Savage: Remembering the U2 and Blue Angels Flights from MythBusters
-lUwMEjh2-78 1:12:07 Adam Savage's One Day Builds: St. Edward's Crown
-e_IXwHmKU2g 14:50 Adam Savage Tests the AIR Active Filtration Helmet!
-7FYb1gwi-30 15:10 Weta Workshop's 3D-Printed Giant Eyeballs!
 H6yVtuPG1lc 13:58 Ask Adam Savage: Working With Tory on Savage Builds
 ei2jLKORXn4 14:19 Ask Adam Savage: Savage Builds Wheel of Death Re-Do and Unrealized Ideas
-9MLQEC2Hv28 24:51 Adam Savage's One Day Builds: Wire Storage Solution!
-tkR3bQ8Ak-8 30:37 Adam Savage's Live Builds: Real-Time Box Build!
 2WFFhicVeXI 12:00 Ask Adam Savage: Origin of "I Reject Your Reality ..."
-r93bWMzGo60 1:14:57 Adam Savage's One Day Builds: Custom End Tables!
 zyNdK6iXcyM 8:57 Ask Adam Savage: Most Important Myth
-t9ATZdlUKww 25:10 Adam Savage's Favorite Tools: Haimer 3D Edge Finder!
-perVeCFBrdE 12:39 Adam Savage's Inigo Montoya Princess Bride Sword!
 4OnOyyTyvcc 11:29 Ask Adam Savage: "Is ADHD a Positive or Negative for Makers?"
 XkRHl8v5vrU 4:35 Ask Adam Savage: "Would You Go Back to ILM?"
-Ic2S9ySxO0I 11:26 Adam Savage's One Day Builds: Lathe Collet Storage!
-Mg5gzXzY92k 14:12 Tested: Edge-Lit LED Panel and Figure Display Lights
 COh6jTqWZmU 15:46 Ask Adam Savage: "What's Your End-of-Life Plan for Your Shop?"
-apeZO6C0ZeA 51:52 Adam Savage's One Day Builds: God of War's Leviathan Axe!
 yqmPea6d8ec 8:30 Ask Adam Savage: From Messy to (More) Organized
-gN5QqFKHGo0 7:58 Adam Savage's Favorite Tools: Moly Dee Tapping Fluid
 mwdHPG_heV0 8:44 Ask Adam Savage: Public Education, Doctor Who and Scissors
-wr7U82Q3r-E 14:02 Adam Savage's Nagra Spy Recorder Collection!
 ebDc1uWiJD4 11:04 Ask Adam Savage: The Importance of Portfolio
-im1G0nIzEYE 4:37 Adam Savage's Bronze Beskar Ingot Gift!
-sbqytCVtQb4 21:09 Adam Savage's One Day Builds: New Drill Press Table!
 4CHlcNqB20Q 8:42 Ask Adam Savage: Props from Literature and Favorite Animation as a Youth
-4iIBa0TLe9E 33:32 Adam Savage's One Day Builds: Mercury Spacesuit Wrist Rings, Part 2
 YBILSR7Hu5o 9:36 Ask Adam Savage: Best Age to Introduce the Creative Process
-fM9FtG01wMg 45:11 Adam Savage's One Day Builds: Spacesuit Glove Wrist Rings!
 7vRG0QpAT24 7:57 Ask Adam Savage: When Grant Met NSYNC
-smQFsyrTWhk 16:20 Adam Savage's Essential Modelmaking Cutting Tips
 8aOzfsbex8U 3:50 Ask Adam Savage: Favorite Recent ILM CG or Artwork
-eu7pZukFQ7w 6:27 Adam Savage's Favorite Tools: Blundstone Work Boots!
-FEHYccr5bC8 15:14 Adam Savage Finally Fixes His Giant Swiss Army Knife!
 qvU5PZgSowk 9:06 Ask Adam Savage: "Was ILM Your Dream Job or a Stepping Stone?"
-DF2Mmfj7yxc 12:20 Adam Savage Repairs His Ugg Boots!
-80YLonnG-Lo 28:24 Adam Savage's One Day Builds: Knight Lighter!
 ZN-9DiI4jr0 10:11 Ask Adam Savage: Digital vs. Practical Effects, Boredom and Never-Seen Props
 qvBAoxuf9zE 11:36 Ask Adam Savage: ILM Hiring Practices and Prop Policies
 j26Xc4ngIaM 8:33 Ask Adam Savage: Most Valuable Skill Acquired at ILM
 PhkZQeTQ6oM 5:31 Ask Adam Savage: How Ridiculous Was Filming the MythBusters Herding Cats Episode?
-2SpNjBI1lu0 18:53 How Boston Dynamics' Spot Robot Learns to Dance!
 2GGkWdLm7PI 10:19 Ask Adam Savage: My First Day and Movies at ILM
-ZlXGlBFFzJg 6:21 Adam Savage's Favorite Tools: Monkey Wrench!
-fkWsmKFMxRw 5:49 Adam Savage's Miniature Model from Star Wars: Episode 2!
 IkawOT_Cg-s 8:41 Ask Adam Savage: Would You Have Changed Anything About MythBusters?
-WQA-x2eYn5E 19:06 Adam Savage's One Day Builds: Custom Painting Shop Tools!
-ssfLP2Z_S50 10:08 Favorite Worldbuilding Coffee Table Books
-FQajiZVQWRs 19:47 Adam Savage's Live Streams: Weathering a Beskar Ingot Prop
-xDvqlJGjh-w 47:41 Writing Science Books with Mary Roach - The Adam Savage Project - 1/6/21
-8Sqo8njgt_0 36:20 Adam Savage's One Day Builds: New Lathe Chuck!
-rUIpT2oytXQ 5:58 Tested: Our Favorite Smart Home Wi-Fi Plug
 mxPQBIu_Hro 8:43 Ask Adam Savage: Were Any Myths Deemed Too Simple to Test on MythBusters?
-2UeghPJrUxE 29:12 Adam Savage's One Day Builds: New Workbench Lights!
 AkBxe0DXzZs 7:07 Ask Adam Savage: Most Obscure Skill Acquired During MythBusters
 4u7I-6AcA00 6:38 Ask Adam Savage: "Which MythBusters' Result Impacted Your Everyday Life?"
-gCva75a8ATQ 18:30 Adam Savage's One Day Builds: Electronics Tool Cart!
-M_XYZSHz6DI 48:54 The Mandalorian Season 2 Finale SPOILERCAST - The Adam Savage Project - 12/29/20
-8kbu34dk92s 9:27 Adam Savage's Favorite Tools: McMaster-Carr Catalog!
 kaI-Ri7Ias4 7:23 Ask Adam Savage: What Projects Are Best to Attract New Makers?
-4ycLw4LFXDM 5:14 Adam Savage's Chewbacca Bowcaster Replica!
 HMzg0bVY2Ds 11:09 Ask Adam Savage: Key Quality in a MythBusters Reboot
-uY7zpvjLx4Q 1:17:58 Adam Savage's One Day Builds: Iron Man Mark I Helmet!
 8wG-gr_IRHQ 9:34 Ask Adam Savage: Most Surprising MythBusters Result
 rDnGHwqnfyM 10:33 Ask Adam Savage: M5 vs. M7 Myths
--R8wUybrspo 43:27 Adam Savage Modifies Boston Dynamics Spot's Robot Form!
-gKjkre4TqPo 37:01 Shop Organization with Laura Kampf - The Adam Savage Project - 12/22/20
-5NbK_H0QmOI 12:26 Adam Savage's Favorite Tools: Hot Wire Cutter!
-BC3grbtsN2g 14:25 What's Inside Adam Savage's Hip Pack!
-nEh5__V9zW8 5:47 Adam Savage Tests His New Pressure Washer!
-beGXa1TO6vo 1:47:53 Adam Savage's One Day Builds: Wookiee Feet!
 GC4oa5YKN-M 6:35 Ask Adam Savage: "Are You a Ghostbusters II Fan?"
-YG_c6evzyEM 14:06 Tested: Blackmagic ATEM Mini Pro ISO Video Switcher!
-dXqsdsB9emE 4:23 Tested: Ooni Koda 16 Gas Powered Pizza Oven!
-Vt0RxHzEhws 1:16:24 Adam Savage's One Day Builds: Iron Man Mark I Armor!
 VEgqBVdsJZg 9:34 Ask Adam Savage: "Do You Own a Screen-Used Prop from Ghostbusters?"
-Wf15R6uZloY 47:42 Mike Birbiglia - The Adam Savage Project - 12/15/20
-8rajGZ_sjo4 10:00 Adam Savage's Favorite Tools: The Savage Industries Apron!
 DUsBoLT1Yv8 5:25 Ask Adam Savage: What Is a "Maker"?
-PJyfQkEFV9w 5:16 Inside Adam Savage's Cave: LED Space Helmet!
 -AvhYMPvPR4 5:45 Ask Adam Savage: Is Adam an Adrenaline Junkie?
-BZ0b7s5i6r8 27:32 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 5)
 gGzGX8YfSaw 6:53 Ask Adam Savage: Prototyping on MythBusters
-WBWUxWoNI5o 1:23:25 Adam Savage's One Day Builds: Hellboy Samaritan Storage Display!
 N-XpBXr7YHQ 12:00 Ask Adam Savage: Ghostbusters' All-Female Reboot, Abandoned Props and FX
 MOsOlF0-Gas 7:01 Ask Adam Savage: The Myth That "Got Away"
 MhPrj-32Y88 9:05 Ask Adam Savage: "Do You Have a Bill Murray Story?"
-eBAWHbi4THs 39:39 Adam Savage's One Day Builds: Hellboy Samaritan Full Teardown!
 StQcRsCkIjw 8:13 Ask Adam Savage: Those Scripted MythBusters Blueprint Segments
-ImsjC-f56dQ 52:19 The Mandalorian Season 2 SPOILERCAST - The Adam Savage Project - 12/8/20
-gkNfD_CO3T8 11:31 Adam Savage's Favorite Tools: Blow Dryer Oven!
 _9bfOcx4h-4 8:35 Ask Adam Savage: Favorite Wood for Building Storage
-zIzXQNVPHmA 9:00 Adam Savage's Alien: Covenant Spacesuit Helmet!
 qSDzoOQxG-I 9:08 Ask Adam Savage: Exciting Maker Tour Discoveries
-N_tKi14mFrk 23:16 Adam Savage's One Day Build: Sticky Storage!
 I5ol3lM2HDo 9:56 Ask Adam Savage: Pros and Cons of "Worldwide Fame"
-EmoB4tds0dM 36:07 Making a Hidden World Book Nook Diorama!
-JYWfikf-3DI 24:31 Adam Savage's One Day Builds: Chewbacca's Bowcaster!
-lp3w3CqYGqI 36:21 BattleBots 2020 - The Adam Savage Project - 12/1/20
-lqZkBK6lbH4 6:50 Adam Savage's Favorite Tools: All About Awls!
-T5FbjENMND4 9:45 2001: A Space Odyssey Moon-Watcher and Bone Replica!
-ihmSRV95F_c 7:36 Filming Model Miniatures from Moon!
-iuNjDzT6PWo 55:53 Adam Savage's One Day Builds: Luke's Lightsaber!
 iUNnmuMkGxs 7:44 Ask Adam Savage: "Is There Anything Too Dangerous to Repair Yourself?"
 fsb8NxzNozo 4:31 Ask Adam Savage: LEGO MOCs
-Ww7Ts37eN2g 42:55 Adam Savage's One Day Builds: Hellboy Samaritan Bandolier!
-DhEAGJrDaEU 41:00 Foamsmithing - The Adam Savage Project - 11/24/20
 -8JUTYj7Q30 16:02 Ask Adam Savage: What MythBusters DIDN'T film, the Bomb Range and Simultaneous Myths
 wSoCA0bO1_M 11:19 Ask Adam Savage: "Did MythBusters Influence Your Current Creative Problem-Solving?"
-GYIa_ryJsOo 9:45 Power Rangers 1995 Movie's Original Costumes!
-SutetC6n9so 42:04 Adam Savage's One Day Builds: Hellboy Samaritan Carrying Case!
 cgFmFqh90PU 13:02 Ask Adam Savage: MythBusters' Unsung Heroes
-YqZGA99RoTI 1:06:59 Adam Savage's Live Builds: KiwiCo Ukulele Kit!
 zyFAlep9CA4 8:48 Ask Adam Savage: Grossest MythBusters Myth
-e-wwk2RVjWY 5:58 Inside Adam Savage's Cave: Alien Nostromo Crew Wings!
-4GehjvyAsZs 48:48 Adam Savage's One Day Builds: Baby Yoda Mod and Repaint!
-41zypEN8hqQ 40:13 Late Night Comedy Writing - The Adam Savage Project - 11/17/20
-7tFwHXpxNLY 11:46 Adam Savage's Favorite Tools: Mobile Filming Rig!
 OSMLCySKMWo 8:23 Ask Adam Savage: First Thought When Jamie Asked Me on Board
-4oH0vkudKWY 8:14 Inside Adam Savage's Cave: Chronicles of Narnia Sword!
 U0QqMQ2Makg 12:12 Ask Adam Savage: "Was MythBusters Intended to Be Educational?"
-rR8M8_-5rXc 3:38 Inside Adam Savage's Cave: LEGO Minifig Blade Runner Blaster!
-wnMH1s36WXo 41:14 Adam Savage's One Day Builds: How to Make an Apple Box!
 mlBnrx5Z3Ww 9:55 Ask Adam Savage: "Do You Lament Being a Generalist?"
-AmWgRWYyN6o 25:15 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 4)
-NkktALohXwQ 4:19 Adam Savage's Custom Ginger Beer Bottle!
-VIMMKlKRbD4 9:48 Tested: Hollyland Mars 400S Pro Wireless HDMI Kit!
-4JQ4O1SPHSY 56:14 Adam Savage's One Day Builds: How to Build a $5 Sword!
-Jh1a4M3YA_0 47:12 Alie Ward's Ologies - The Adam Savage Project - 11/10/20
--5zSadDZMhA 9:54 Adam Savage's Favorite Tools: Annular Cutters!
 EDLU4k9R81c 9:00 Ask Adam Savage: "Why Do You Refuse to Acknowledge Some Indiana Jones Films?"
-cYH6UuHQCwk 8:20 Adam Savage's Distortion Helmet!
 jp2wZ4q68FQ 5:45 Ask Adam Savage: Tips for Projects in a Limited Work Space
-aLI-6SmkJLU 1:02:15 Adam Savage's One Day Builds: Han Solo's Holster Belt!
 a6voK4rDiUM 13:43 Ask Adam Savage: Stolen Indiana Jones Whip Update
 HypnuwjJUgY 5:37 Ask Adam Savage: Ideal Qualities in a Collaborator
 h-5hIMkLxRs 12:23 Ask Adam Savage: Essential Pieces for Indiana Jones Cosplay
-ziIKLeacBDo 18:52 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 4!
-3sVWJThNzrI 39:53 Ted Lasso SPOILERCAST - The Adam Savage Project - 11/3/20
-rq__Lz1uf7w 8:11 Adam Savage's Favorite Tools: Wireless Endoscope!
 hjINCIPY4Wo 4:58 Ask Adam Savage: Organizing Tupperware
-Qg1vsumLXcY 25:45 Adam Savage's New Custom Workbench!
 nTmpDF3VtwQ 11:33 Ask Adam Savage: Favorite Scene from Raiders of the Lost Ark
-MvkYVuxMy0k 25:08 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 3)
-WfJtqnSexss 29:01 Adam Savage's One Day Builds: Restoring a Fabric Chair!
 pZ2qSzZPyPw 11:40 Ask Adam Savage: Fondest Berkeley Repertory Memories
 DQnS5SdZ9BE 3:39 Ask Adam Savage: Preferred Sketchbook
-AumnIehXwyI 35:57 Adam Savage's One Day Builds: Staple Sorter and Organizer!
-hhdZxzCxhd4 42:01 Comfort Movies During Lockdown - The Adam Savage Project - 10/27/20
-0cQcFsb_5Jc 8:25 Adam Savage's Favorite Tools: 3 Essential Pliers!
-u1kpYxCth5w 13:03 How to Make Creepy Specimen Jars for Halloween!
 hjx2vezyhj4 3:43 Ask Adam Savage: Most Underappreciated TV Series
 B9aa__BK8Zk 16:30 Ask Adam Savage: What Books Changed Your Way of Thinking?
-csu4jQNFfzA 32:44 Adam Savage's One Day Builds: Drafting Tools Sorting Drawer!
 wldwf-9B-Us 13:17 Ask Adam Savage: Researching and Recommending Tools
-12RwfqvTMZk 27:44 How to Make Creepy Plaster Hand Casts for Halloween!
-EEgc5m5LWPk 32:14 Jen's Foam Wig Project - The Adam Savage Project - 10/22/20
-wInlwbGet5A 41:26 Making an EVA Foam Wig for Cosplay and Halloween!
-1NWAxkDZ9xs 34:13 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 3!
-MPy0JzpZuvY 5:52 Adam Savage's Favorite Tools: Safety Wire Pliers
 Af-jExEh4SU 3:39 Ask Adam Savage: Best Pen for Writing Labels
-D5BO1JmYLN0 21:16 Age of Mecha: Awesome 1/35th Scale Mech Figures!
 nIP3AI8DsG0 4:47 Ask Adam Savage: How to Find Garage Kits
-gygyNt2AnKA 26:24 Adam Savage's One Day Builds: Giant Swiss Army Knife Repair!
-UkYR3ik19nw 8:10 Adam Savage's Favorite Tools: Folding Rulers!
 AEHsxb_rSAk 4:56 Ask Adam Savage: Destigmatizing Hearing Loss
-Rf_6etOJXfE 18:35 Augmented Reality Telepresence in HoloLens 2 and Quest 2!
-inQ16HamIWk 52:25 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 2!
-vPhtXBUZxIo 46:48 Muppet Performer Dave Goelz! - The Adam Savage Project - 10/13/20
-AYXdr7G4EHY 4:22 Adam Savage's Favorite Tools: Angle Finder!
-eeUoZp8sgT0 10:23 Adam Savage's New Machining Parallels!
-BdqsoDxCui8 23:51 Challenge Accepted: Drifting with Zoe Bell, Part 3
-lsXLGT5N2uo 1:17:55 Adam Savage's One Day Builds: Ghostbusters Ecto Goggles + Vacuum Former Rebuild!
-AuADKoSjJbw 7:17 Life-Size Mercury Space Capsule Cockpit Poster!
-Pb1BpA7QN3U 47:41 Adam Savage's One Day Builds: Hellboy's Samaritan Prop!
-ClxSdX3ynGQ 46:37 99% Invisible - The Adam Savage Project - 10/6/20
-7iss1tfYfyM 8:47 Adam Savage's Favorite Tools: iFixit Repair Toolkit!
-zWTxrnETT9s 18:02 Adam Savage's Cave Loft Tour!
-BCahfydXxaI 15:44 Challenge Accepted: Drifting with Zoe Bell, Part 2
-HWnDC6KzLg8 28:19 Adam Savage's One Day Builds: LEGO Mandalorian Razor Crest!
-H9dX1UV_onk 21:09 Panasonic S1H & S5 Full Frame Camera Testing!
-chbZJAJ9y68 25:33 Adam Savage's One Day Builds: Miniature Shipping Container!
-fdVm29yWCCY 34:16 The Boys Season 2 SPOILERCAST - The Adam Savage Project - 9/29/20
-nTLA_nnCxEo 3:49 Adam Savage's Favorite Tools: Optical Center Punch!
-MtGAiEQEIXE 35:49 How ILM Made The Mandalorian's Razor Crest Motion-Controlled Miniature!
-jFNhmBOsALo 11:49 "Grant Imahara's R2D2 Work" (Sept. 14, 2020, Q&A Part 4)
-j-u0iOtg3mM 23:36 Challenge Accepted: Drifting with Zoe Bell, Part 1
-7aGfiNy9Oos 28:23 Adam Savage's One Day Builds: Table Saw Fence Upgrade!
-70Xl70z8Tv0 14:44 "First Star Wars Prop Built as an ILM Employee" (Sept. 14, 2020, Q&A Part 3)
-gSx4P0kQQNk 23:39 How to Light Hot Toys Figures Without Batteries
-fIwJwRb5qKI 14:02 "Star Wars Prop I'm Most Proud Of" (Sept. 14, 2020, Q&A Part 2)
-u4ZWkIsS9eA 18:51 Tested: VR Simulator Cockpit Rig Build!
-BEVEYvAO3rI 21:32 Adam Savage's One Day Builds: Car Seat Dog Bed!
-Bbo45M8nGW8 12:09 "What Star Wars Can Teach Us Today" (Sept. 14, 2020, Q&A Part 1)
-OOU8yadI2sY 35:21 Cosplay in the COVID Era - The Adam Savage Project - 9/22/20
-2RFEs4mQb44 3:39 Adam Savage's Favorite Tools: Trammel Points and Rotape Beam Compass!
-nBiZRlomFNs 19:03 Adam Savage's Live Builds: LEGO Rickshaw
-0dn0d4WQ9wY 6:51 Adam Savage's ILM Modelshop Greeblie!
-SQ9bbMu3mdo 15:11 "About the Shop Floor" (Sept. 7, 2020, Q&A Part 7)
-8PEc5blz_fY 21:20 Adam Savage's One Day Builds: Planer and Spindle Sander Station!
-ObJFWGW_Doc 5:39 "Most Used Tool Regardless of Project" (Sept. 7, 2020, Q&A Part 6)
-KJgRis_qAGw 18:49 Lighting Setup for 1/6 Scale Figure Photography!
-BbrQ4OX-1-E 32:29 Adam Savage's One Day Builds: New Cut and Sew Station!
-VZrz3e5Yv3c 11:04 "COVID Changes That Should Stay" (Sept. 7, 2020, Q&A Part 5)
-N_NahbrqFwI 35:47 Evan Narcisse - The Adam Savage Project - 9/15/20
-AjJFTXFQWMk 4:59 Adam Savage's Favorite Tools: Socket Driver Adapters!
-nRQujY8kNVA 7:45 Adam Savage's Very First Lightsaber Prop Replica!
-s-eCil_0gK0 11:23 "Mrs. Donttrythis and the Watering Can" (Sept. 7, 2020, Q&A Part 4)
-sBqJ8wfRJUs 14:32 "Lockdown Constraints With Interesting Outcomes" (Sept. 7, 2020, Q&A Part 3)
-eu3T8x6eWq8 11:39 Inside Adam Savage's Cave: Spilled Sortimo Storage Box Sorting!
 4BJAKHv-NLE 13:56 Ask Adam Savage: "Funny Stories about Grant Imahara"
-GEK0EeAM2Ws 15:04 Testing iPhone 11 Lens Attachments + Custom Storage Box!
-hcQWtjzkt1w 9:42 "Being Good Natured About Mistakes" (Sept. 7, 2020, Q&A Part 1)
-XVEww6Ylw5c 41:23 Adam Savage's One Day Builds: Thread Tapping Guide Block!
-N02xowDuu04 35:27 Simone Giertz - The Adam Savage Project - 9/8/20
-n5laGi3GO7M 11:26 Adam Savage's Favorite Tools: Machinist's Blue Layout Fluid
-EXaDxl60rTQ 54:24 Adam Savage's One Day Builds: Brass Watering Can!
-O2ICDTv3VJA 9:16 Adam Savage Interviews Expanse Production Designer Tony Ianni
-OxkszitNWN8 17:46 Adam Savage's One Day Builds: Upgrading Captain America Shield!
-BlRaAcVYUbU 43:52 We're Back - The Adam Savage Project - 9/1/20
-cDiAYVTlgnQ 7:12 Adam Savage's Favorite Tools: Artificial Catgut Sinew
-EEWu7HbMzbk 8:39 Adam Savage Cosplays the Outbreak Hazmat Suit!
-SsHYEHVBfKw 4:59 Adam Savage Finishes Sorting His LEGO Collection!
-BfEq4-ld2uU 10:00 Snap Ships Modular Spaceship Building Kits!
-7CDzNJXRmDs 28:22 How To Make Custom 1/6 Scale Fluorescent Tube Lightsabers!
-lp85yyPSP10 43:29 Adam Savage's One Day Builds: Custom Workshop Apron!
-s288Yuz35qQ 9:52 Creature Puppets from Aliens, Flubber, Labyrinth, and Men in Black!
-7wNjATKTzcs 9:02 Adam Savage's Miniature Model from A.I. Artificial Intelligence!
-zVXSOB8wTWw 9:05 Scale Model Miniatures from Star Wars, Alien, and Star Trek!
-pg6vx5YdSh4 12:50 Original Costumes for Rocketeer, Pacific Rim, and V for Vendetta!
-ivaxOv25RaI 16:13 Adam Savage's One Day Builds: Letter Stamp Holder!
-LuwcsjyfSP0 9:39 Stop-Motion Puppets from Star Wars, RoboCop, and Jurassic Park!
-J170jeH0yXU 34:59 Adam Savage's One Day Builds: Foam Prop Safe!
-K9fQn1bQVsQ 7:23 Adam Savage's Favorite Tools: Best Budget Multimeter!
-X3ZA2vRE_Ps 12:32 Adam Savage's Kill Bill Bride Sword Replica!
-BTGN5QNyA-8 42:41 Adam Savage's One Day Builds: Machinist Tool Drawers!
-MhFqT0jYhHA 26:31 How To Make a Star Wars Action Figure Diorama (Free Design!)
-M5ZAfMGXChw 21:19 Star Wars Book Nook Diorama Build!
-4MVxJNawefM 23:26 Adam Savage's One Day Builds: Tintype Photo Clamp for Gary Oldman!
-H2UJqIihJBA 6:00 Adam Savage's Favorite Tools: Best Hot Glue Gun!
-Zwzqm_63zcE 5:46 Inside Adam Savage's Cave: Awesome Tengu Masks!
-VPChPpzIvSE 8:51 Adam Savage Builds an Octopus Puzzle! (Part 4)
-m-ayU2GCQ_Q 34:50 Adam Savage's One Day Builds: Drill Press Modification!
-_KfaSiD-7iY 38:35 Adam Savage's One Day Builds: Lathe Chuck Rolling Rack!
-okbsoGc456g 11:32 Adam Savage's Favorite Tools: Wiggler Machining Center-Finder
-d_dvuaUzq-4 9:30 Adam Savage's Leather Aragorn Vambraces!
-uMPPUZiqU5k 27:04 Raising Octopuses in a Home Aquarium and Laboratory! (Part 3)
-fru2G4bGL14 40:30 Adam Savage's One Day Builds: Lathe Tailstock Repair!
-ALesylse5a0 10:39 How to Draw and Annotate on Live Videos!
-98MCz9gQaiE 32:41 Adam Savage's One Day Builds: Giant Nut and Bolt!
-4ugXRgM-jUQ 4:42 Adam Savage's Favorite Tools: Safety Goggles!
-6SPhGBnvvyU 4:26 Adam Savage's Pet Dragon Puppet!
-lIUICaQSOz0 26:10 Adam Savage Builds an Octopus Puzzle! (Part 2)
-R-De84JfQBU 24:26 Adam Savage's One Day Builds: Spacesuit Display Stand!
-a2ovDhGGCas 12:39 Sideshow Collectible's New Quarter-Scale Superhero Statues!
-KuSP_6F9nxY 15:56 Building a New Gaming and VR PC!
-H24rPSj-9l4 22:08 3D-Printing King Atlan's Artifact Prop from Aquaman!
-eiQuBonhGiw 31:00 Adam Savage's One Day Builds: Workshop Filming Slate!
-HwjLlbBFiXU 11:22 Hot Toys 2020 Star Wars and Marvel Figure Reveals!
-gdPODQSjgQs 8:39 Adam Savage's Favorite Tools: Ratchet and Socket Set!
-jKA6D_k-cFA 6:50 Life-Size Baby Yoda! Sideshow Collectibles' The Child Prototype
-jVoj61CcQAY 25:23 Adam Savage Builds an Octopus Puzzle! (Part 1)
-EWXcnVTY3pk 46:48 Adam Savage's One Day Builds: Air Tools Sorting Boxes!
-RQtY8Y6IDLU 10:03 How to Shoot Drone Videos (4K)
-2fHcqHpGi8Q 18:35 The Beautiful Architectural Model Kits of Metropolitan Craft
-ieDYlkJTNYI 20:38 Adam Savage's One Day Builds: Custom Pistol Whip Controller!
-mIb-3GN2BlU 5:22 Adam Savage's Favorite Tools: EDC Hammer!
-1vk9cDrblOA 12:46 Adam Savage's Mercury Space Capsule Cockpit Replica!
-9lH2q6A4WNI 19:41 Building the 1/5000 Star Destroyer Model Kit! (Part 2)
-hIs3lioHoAo 21:44 Adam Savage's One Day Builds: Headphone Rack!
-fSQD8DBLODE 25:46 VR Immersive Theater in The Under Presents: Tempest!
-R7LGexbvOKE 18:49 Star Wars Death Star Corridor Figure Diorama!
-qE68mYkpZvQ 31:02 Adam Savage's One Day Builds: Portable Audio Recorder Rig!
-TqBbVcJ_-WM 6:00 Adam Savage's Favorite Tools: Woodworking Thread Taps
-mquypbwrF94 15:47 Adam Savage's Apollo A7L Spacesuit Upgrade!
-fMpVSadUV0A 26:44 Building the 1/5000 Star Destroyer Model Kit! (Part 1)
-sKadzTMSh5s 29:41 Adam Savage's Weekend Builds: Material Storage Improvements
-H8042TfPETg 7:39 Adam Savage's Favorite Tools: 4" Calipers
-9JnP9qNtnIQ 12:46 Adam Savage's New Tiny Parts Sorter and Storage!
-oSHoo_thI2Y 37:24 Adam Savage's One Day Builds: Front Porch Table!
-w1ECGIEqnik 1:29:24 Live Q&A and Sword Prop Show and Tell with Adam Savage (June 23, 2020)
-c8DJp8pCUak 16:55 Making an Illuminated Action Figure Display Stand!
-TsWG4nSi-Hs 42:45 Adam Savage's One Day Builds: Stitching Pony Clamp!
-YU2RTL77oXY 4:56 Adam Savage's Favorite Tools: Heavy Duty Bearing Swivel
-HwSqLrRTkGY 8:54 Adam Savage's Octopus Cane!
-frwLir1A_qg 42:55 Adam Savage's One Day Builds: Making a Stable Workbench!
-iDuNZRtZrp8 25:18 Cyberpunk VR Game LOW-FI + QuestDraw AR!
-rYUUYEV6JlQ 31:07 DJI Mavic Air 2 vs. Skydio 2 Autonomous Drone!
-ritwf-_iOlg 1:08:55 Adam Savage's One Day Builds: Mini Chop Saw!
-roXwRxFTfCI 4:02 Adam Savage's Favorite Tools: Essential Shop Rags!
-KHgstunB5fE 6:29 Adam Savage's Favorite High-Power LED Flashlight!
-f7ht0J8Z4aQ 11:58 Laser Cut Vintage Billboard Sign Project!
--xWGRVL-ExA 18:38 Adam Savage's One Day Builds: Mini Machine Vise!
-dXEKp211XAw 16:17 3D-Printed VR Blaster Grip and Adventure Lab Escape Room!
-FlaRH1v6p8c 1:30:03 Live Q&A and ACES Helmet Show and Tell with Adam Savage (June 9, 2020)
-xDxQMZjHR4s 15:49 Model Behavior: Weathering a Transformers Blitzwing Figure!
-65r_1TzJXaQ 50:07 Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!
-PVQFvHuJHec 14:18 Adam Savage's Favorite Tools: Awesome Circle Drawing Tools!
-RiakgHPRZd8 9:43 Adam Savage's Airplane Cockpit Prop for MythBusters!
-vOROGorDG6s 33:34 Adam Savage's One Day Builds: Fiber Optic Microscope Ring Light!
-raCqLesHjRE 7:26 Adam Savage's Favorite Tools: Extended Grabber Micro Forceps!
-V6fU3d_4w_8 10:28 Making a Cutting Mat Riser and Lighting Platform!
-gjz8V-2xiyQ 47:24 Adam Savage's Workshop Office Door Build!
-bZhUwQqmvnk 7:24 Adam Savage's Magnolia Frog Props!
-28h_WlfD4k4 40:56 Adam Savage Upgrades His Mini Bandsaw!
-q1JcvQLmiUM 7:59 PinSim Mini Arcade Joystick and Virtual Pinball Controller!
-BYqDBC0efj4 1:02:17 Adam Savage Builds a Mini Tabletop Bandsaw!
-dj9lNlLTC_U 12:04 Adam Savage's Favorite Tools: Glass-Cutting Rotary Bit
-W38HXRhsLAo 5:18 The Story of Adam Savage's Contradictory Wall Sign!
-2EGnVPxXYgM 11:12 LEGO BrickHeadz Anatomy Custom Figure!
 XGFSn2Xm8ks 1:00:23 Ask Adam Savage: "Did you ever meet George Lucas?"
-wvCdjyu0QJ4 8:42 Adam Savage's Weekend Builds: Lathe Chuck Rebuild!
-eyMuYC9_fiM 36:08 Adam Savage's Live Builds: LEGO Orca Fishing Boat (from Jaws!)
-GW9Spy4xXNA 8:51 Custom Display and Sorter for Instax Instant Film
-zZUOazRFLaA 31:01 Adam Savage Builds a LEGO Sorting and Storage System!
-tDxUEMPLm3U 4:21 Adam Savage's Favorite Tools: Multi-Blade Utility Knife!
-EWrDR6P6Kl0 15:19 Adam Savage's Giant Music Player Prop!
 H4-jGNoMlWU 49:07 Ask Adam Savage: "Do you ever just chill out in your shop?"
-A3-9Vk_2be4 32:31 Adam Savage's One Day Builds: NASA Retro-Reflector Replica!
-igEqC3snaYY 40:10 Adam Savage's Live Builds: Weathering Prop Money!
-FSww64aUklY 23:55 Tested From Home: Making Wood-Fired Neapolitan Pizza!
-cz_MgCS_w8Y 4:49 No $80 Cable Needed: Oculus Quest Link Works Out of the Box!
-NvryPJFkPlM 23:43 Tested From Home: Customizing Home Studio LED Lights!
-TT8PzFaZ0Zw 36:54 Adam Savage's One Day Builds: Lithium Ion Battery Charging Station!
-TCSeWvHCIF4 6:06 Adam Savage's Favorite Tools: Workshop Utility Apron + Everyday Carry!
-Ouf2nz5fyMo 7:10 Adam Savage's Sculpture of a Mechanical Hand!
-IiqfkYAv3Dw 42:24 "How do you deal with knowing someone dislikes your work?" Adam Q&A (5/5/20)
-I7U-QCTS9Os 39:29 Adam Savage's One Day Builds: Repairing Vintage Aviators!
-J0KhC1GpLSQ 36:30 Hand Physics Lab: Hand Tracking Demos in Oculus Quest!
-4mcBcUrPjBo 46:58 Adam Savage's Live Builds: Weathering a Thermal Detonator Kit!
-97aH5D29KbU 13:11 Tested: Microphones for Podcasts, Livestreams, Vlogs, and Virtual Meetings!
-nCrB0FnW__s 28:19 Adam Savage's One Day Builds: Movie Sword Rack!
-8TJcFbu7gWE 6:29 Adam Savage's Favorite Tools: Bondhus Hex T-Handles!
-Otid9rax1Go 7:06 Adam Savage's "Cabin Fever" Coat Hanger Sculpture!
-5GYbjDot67A 11:30 The Art of Sideshow Collectibles' Star Wars Figures
 7COvFaFTAy4 40:33 Ask Adam Savage: "Do you ever feel imposter syndrome?"
-0nLlCmZspVM 20:57 Adam Savage's One Day Builds: Tweaking the Table Saw!
-ePgysAtyO5I 52:19 Adam Savage's Live Builds: LEGO Women of NASA!
-ebptyVvDtE8 11:06 How To Use Your iPhone or DSLR as a Webcam!
-yWRLz_r_d3A 33:32 Adam Savage's One Day Builds: Little Thwacker Hammer!
-96ZIry7YG7U 5:32 Adam Savage's Favorite Tools: Wearable Magnifiers!
-ZGJsZE-xobE 7:32 Adam Savage's Original Matrix Lightning Gun!
-A9B81mICvrE 32:58 Adam Savage Answers Your Questions! (4/21/20)
-IQhzpoI4ptc 9:08 Tested From Home: LEGO Builds and Camera Test!
-ZNwvjaIW-pU 1:00:10 Adam Savage's One Day Builds: Making a Die Filer Machine!
-OopnMjPHWOE 32:36 Adam Savage Paints and Weathers the Ghostbusters Ecto-1 Model Kit!
-rEyLLtTzAl4 6:05 Behind the Scenes: Using a Vintage Color Meter!
-fOfKTJPVxFE 49:22 Adam Savage's Live Builds: LEGO Blade Runner Spinner!
-RAucP_zpZco 6:59 Tested From Home: Kayte Sabicer's Projects!
-eVnWyEvT-KY 27:09 Adam Savage's One Day Builds: Lathe Infrastructure Upgrades!
-hV0OfVGCIuY 3:54 Adam Savage's Favorite Tools: Precision Rotary Tool!
-nbKG9SjZjvQ 5:54 Adam Savage's New Mechanical Claws!
 Ki0g7I3mASA 28:52 Ask Adam Savage: "Are You an Educator or Entertainer?"
-7vKa8YZ64uE 29:36 Adam Savage Answers Your Questions! (4/14/20, Part 2)
-PLHUcP8LfkM 1:28:25 Adam Savage's One Day Builds: LEGO International Space Station!
-2Mhtdb2jJy4 35:04 Adam Savage Answers Your Questions! (4/14/20, Part 1)
-ieUVI-J_nyU 10:30 Tested From Home: Joey's Production Studio!
-jPAGZpNZrwU 54:21 Adam Savage's One Day Builds: How To Build a Box!
-Wxd7Q4BqsQc 11:26 Adam Savage Examines an Embalming Toolkit!
-Sfhv9EuJ03E 21:31 Designing a Book Nook Laser-Cut Kit!
-cMthV33CgzE 3:08 Show and Tell: Guru del Toro Collectible Figure!
-m911Q-jZ7Vo 5:28 Adam Savage's Favorite Tools: Making Circles and Holes!
-SVeFSzzWj4A 5:15 Tested From Home: Foam and 3D-Printing Projects!
-R-PdPtqw78k 19:53 How Boston Dynamics' Spot Robot Works!
-hIbgY1n5bDo 57:50 Adam Savage Answers Your Questions! (4/7/20)
-vQY647vSzw8 3:16 How Adam Savage Films Himself in Self-Isolation
-eaGnyaR2B7s 12:38 Adam Savage Explains His Scary Hand Injury!
-slvJzIJ_YXM 28:15 Adam Savage Answers Your Questions! (3/31/20, Part 3)
-BFcS9DX-dyA 31:20 Adam Savage Answers Your Questions! (3/31/20, Part 2)
-CN2qhhyk9HE 31:55 Adam Savage Answers Your Questions! (3/31/20, Part 1)
-ccmnSXJG3QE 11:39 Tested From Home: How to Find Tardigrades In Your Backyard!
-z_Ti4GP0ntE 1:07:08 Adam Savage's One Day Builds: Refrigerated Cooling Suit!
-EBlcbou4JEM 2:06 Inside Adam Savage's Cave: Mystery Stone Head from MythBusters
-lfkjRGarGSk 10:32 Tested From Home: Sean Charlesworth's Projects!
-NTHM1xj_wgY 33:30 Star Trek: Picard Finale Discussion! - Offworld Episode 35
-SO6sbHP6f7g 17:29 Tested: GoPro Hero8 Black vs DJI Osmo Action!
-dUUjobt39Ew 3:15 Tested From Home: Jen Schachter's Projects!
-dsoo-lUcw0g 9:31 Adam Savage's Chewbacca Display Case!
-p4odzVGI9oQ 1:52:01 Adam Savage's Live Builds: Ghostbusters Gizmo Kit!
-rEtgF7YTkLY 53:33 Half-Life: Alyx VR Walkthrough of First Hour!
-0KG5Y55ewWI 1:58:54 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 2)
-3hiNN3CuTNk 16:48 Configuring a Gaming Laptop for VR and Content Creation
-uWpw1NTWBcY 1:28:46 Adam Savage's Live Builds: Ghostbusters Ecto-1 Kit (Part 1)
-HbsiV1MIOHY 2:54 Adam Savage's Favorite Tools: Westworld Safety Visor!
-ZjpPgv9XtJA 19:46 Adam Savage's One Day Builds: Thermal Detonator Kit!
-dFmmvfteEso 10:14 Adam Savage's Dream Diary Sculpture
-351DxQghbh0 16:39 Making the Custom Microphones for Hamilton!
-jZDe18k7T8o 9:55 Adam Savage's Nailer and Stapler Storage Rack
-Sz4mxsYOwzQ 2:00 Adam Savage's Favorite Tools: Chicago Screws
-VTmtoLIzq2M 7:29 Adam Savage Reveals What's Left of the Original Buster!
-60OpF3DCVls 11:26 Adam Savage Explores the Sound Mixing of Hamilton!
-cRVXhA0-TI4 27:25 Inside Valve: Making Half-Life: Alyx for Virtual Reality
-SgCJeoDNmYU 41:21 Adam Savage's One Day Builds: Poker Table!
-HrYrcJTv4H4 4:45 Adam Savage's Favorite Tools: Jewelry Clamps
-wfTLzG7EL44 6:15 Adam Savage's Custom Cosplay Storage Case!
-gDf75VS1NEo 27:30 Adam Savage's Captain America Stealth Suit!
-aNUv3Ad6jrQ 12:26 Adam Savage Goes Backstage at Hamilton!
-x8YTMPuvTGw 33:49 Adam Savage's One Day Builds: Dinosaur Skull Lamp!
-Q2wqMTtbOOw 3:17 Adam Savage's Favorite Tools: Labelmaker
-fq71nnVrc08 15:51 Adam Savage Tours The Expanse's Practical Effects Shop!
-JwlTGoAKKDk 5:54 Adam Savage's Model Shop Archive Props!
-3D7xNAsi0uo 11:51 Adam Savage Examines the Props of Hamilton!
-Bw-ttd_EELA 13:54 Adam Savage's One Day Builds: Rickshaw Carriage!
-dvFS_ZEzwKg 4:27 Adam Savage's Favorite Tools: Automatic Wire Strippers
--q4phZ4He8A 43:52 Inside ILMxLAB: Making Star Wars Vader Immortal!
-zyaocKS3sfg 28:18 Adam Savage's Spot Robot Rickshaw Carriage!
-ig-2xlXfex4 44:37 Adam Savage Book Club: Humble Pi: When Math Goes Wrong in the Real World
-0KObb7e2y5Q 16:58 Assembling the X-Wing Cutaway Model Kit!
-m_AB7RnD_FQ 2:58 Adam Savage's Favorite Tools: Handheld Sheet Metal Brake
-TqWhLPsEJE8 23:21 Adam Savage's One Day Builds: A Fake Can of Beans!
-Z-MIGpKYJDk 29:46 The Science and State of Cloning - Offworld Episode 34
-NiRcGebkcho 19:49 Painting a Rusted Fallout Fusion Flea!
-nos70z2-MSM 10:43 Adam Savage Opens His 2019 Reddit Secret Santa Gift!
-x8KmARIgCdY 10:23 Adam Savage Geeks Out Over EVA Foam Chain Mail!
-oGl4Vq_FcV4 3:45 Adam Savage's Favorite Tools: Machinist Squares
-__kZC06KbTU 4:24 Adam Savage's Very First Vacuuming Forming Project!
-ziJ7gNJOZbU 26:43 Star Trek: Picard Discussion! - Offworld Episode 33
-0CnIGE3ALd0 12:16 The Walking Dead: Saints & Sinners VR Impressions
-k7s1sr4JdlI 6:39 Adam Savage Tests Boston Dynamics' Spot Robot!
-hmEijVgUKkE 2:33 Adam Savage's Favorite Tools: Pica Marker
-Dtkey7YUyPg 6:43 Custom Cricut Maker Vinyl Cutter Workshop Cart!
-yr0M5a1eTW0 1:41 Announcing the Adam Savage Book Club!
-3TkEPnim798 6:16 Adam Savage Meets the Expanse's Stunt Coordinator!
-okhgjDIrRFQ 7:44 Adam Savage's "Keys to Hell" Sculpture!
-8uGS11yuVyo 34:37 Adam Savage's One Day Builds: Portable Soldering Station!
-l-4HgOGb7bM 8:54 Show and Tell: Relio² Desktop Lighting System
-VwpFS1guqTg 16:22 Tested at the AWS DeepRacer Championship Cup!
-gg-5_4ZOEcw 8:30 Adam Savage Talks Costumes on the Expanse Set!
-3t0b7GfIFfQ 4:41 Adam Savage's Favorite Tools: Dial Caliper
-t2c6lduDuIA 17:01 Hydro Dipping Carbon Fiber Blaster Grips!
-b9wuK8Bcx9c 8:03 Inside Adam Savage's Cave: Modelmaking Inspiration from Weta Workshop!
-7MsorS3LpkU 3:32 Inside Adam Savage's Cave: Leather Man Sculpture!
-7Kpj8mJGIls 9:53 Adam Savage Speaks to an Expanse Graphic Designer!
-JMv0PlMKkbs 20:54 Adam Savage's One Day Builds: Gaslamp Lantern Prop!
-FBtP35yIUQo 9:54 Adam Savage Meets the Expanse's Key Stunt Rigger!
-fFiyUqMg1Hw 28:57 Could Earth Be Moved to a New Solar System? - Offworld Episode 32
-_FHVAPAL8cM 1:20 Adam Savage's Reddit Secret Santa Gift for HungryBaconElephant!
-ZfNJvwNZZ2k 14:05 Adam Savage Talks with The Expanse's Wes Chatham!
-CF65tmxtkuo 10:07 Adam Savage Learns Simple Tricks From The Expanse's Prop Master!
-6_RicQnHicM 23:23 Adam Savage Tours SFMOMA's Spacesuit and Space Art Exhibit!
-dcrFCu249pI 4:29 Concept Art to Art Statues: Pascal Blanché's Derelict Planet
-xG8vq5q1Trw 26:45 The Expanse Season 4 Discussion - Offworld Episode 31
-6Y8F9bqttmg 20:27 Adam Savage Chats with The Expanse's Dominque Tipper and Steven Strait
-GtarhjRLx30 7:43 Adam Savage's Rounders Poker Chips and Case Replica!
-117TSpgk_v0 2:06 Inside Adam Savage's Cave: Human Anatomy Model!
-rWHk4ht-boM 22:38 Using Haptic Gloves to Control an Amazing Telepresence Robot!
-ItEqzD2gpV8 21:50 Skydio 2 Autonomous Drone That Never Crashes!
-ULwuz_8jyzc 6:46 The Nostalgic Niche Collectibles of ISH
-cNjW7teSRFw 5:16 Articulation Innovations of 1000Toys' Synthetic Human
-JVfDiEYvO-k 5:28 Imagining Future Fashion with Sixth-Scale Figure Design
-WGtBXFzEKes 9:59 BigShot Toyworks Engineers Some of Our Favorite Toys
-IDBGHxKDw80 12:13 Directing Pixar's "Wind", a SparkShorts Film!
-RgL6YRh2oUc 12:13 How Machine Learning Enables DeepRacer's Autonomous Driving!
-6ps4vbQ6Tk0 28:02 Adam Savage's One Day Builds: Workshop Hardware Storage!
-WPSbtyGQyJk 2:37 Adam Savage's Hellboy Spear Replica!
-rPrG-nvYaa4 5:35 Reina Koyano Transforms Sneakers into Pin-Up Art
-xBl2GVOGMEY 6:16 The Mythical Art Figures of Manas+SUM!
-fXMPnlkn0Y0 4:16 Remixing Pop Culture Icons into Modern Toys
-fEDHihXH4K0 5:28 Mondo's New Iron Giant at DesignerCon!
-wq3rtbhbinQ 8:09 Lumecluster's Phoenix Gauntlet Lineup!
-dlGTdew6qkY 7:18 The Monstrous Kaiju Sculptures of James Groman!
-JFAEx6BIuCM 25:24 The Alternate Space Race History of "For All Mankind" - Offworld Episode 30
-Lh_vE9WikNs 7:09 Maschinen Krieger Scale Model Diorama!
-vbGNBBsIgUw 9:02 DesignerCon 2019 is This Weekend in Anaheim!
-EGuc7Z1RfsQ 12:03 Tesla Cybertruck Test Ride and Impressions!
-rV5kRH-xaOE 4:48 Vintage Gundam Kit Converted to Statue Diorama!
-3Cr15S-TAZU 2:58 Adam Savage's Soft Flail Sculpture!
-fzhiBjgf750 7:25 3D Modeling, Printing, and Painting a Custom Gundam!
-3JRbGcyPUnk 26:11 Adam Savage's One Day Builds: Custom Beat Saber Hilts!
-Xq49o5LhdGM 16:19 Designing a Star Wars Pop-Up Book!
-qwxOkqrca2M 17:49 Model Behavior: A Primer on Paintbrushes!
-Bu1y4m7Y738 7:34 Adam Savage Checks in With North Bergen Student Cosplayers
-giSvH_EYWCo 25:58 Adam Savage Tours North Bergen High School's Alien: The Play Artifacts!
-cGtPAOJSTEo 33:36 Science Fiction's Influence on UFO Pop Culture - Offworld Episode 29
-XEa2Mxsmox4 33:21 Model Behavior: Painting 1/6 Scale Portraits
-MP5pbJ6Ajjc 24:32 Adam Savage's One Day Builds: Space Camera Shroud!
-TOQ7CDKj4Rk 17:34 How Mixed Reality Game Trailers Are Made
-iodElsICUS8 7:51 Felicia Neely Shows Adam Savage Her Enfys Nest Costume!
-XY_RldJvCWs 36:58 Adam Savage Tours the MET's Last Knight Exhibit!
-tYv--yvszw8 30:40 Apollo 13's Attention to Detail - Offworld Episode 28
-MbwLsfy1h1w 7:31 Adam Savage Examines SKS Props' Foam Armor!
-1HCDLdjmHt8 5:35 Show and Tell: New Travel Camera Bag
-Htn8GUVKS9U 4:47 Kawaii Mayhem Shows Adam Savage Her Scratch-Built Mysterio Costume!
-W6Tfz5JInKg 6:27 Arcade 1-Up's 3/4 Scale Gaming Cabinets
-Ncg55eo_-Rw 5:40 Uncle Jessy Shows Adam Savage His Magneto Costume!
-kjxdWnUBmpU 37:16 Adam Savage's One Day Builds: No-Face Animatronic Mouth!
-pGwydXktims 6:40 X-Plus's World of Kaiju and Godzilla Collectibles
-41HIH7wGZcY 10:13 Cosplayer Beverly Downen Shows Adam Savage Her Rebuilt Hela Costume!
-PyfELJYoc9g 16:18 Adam Savage Meets Cowbutt Crunchies Cosplay!
-f1pmfmOBKn8 7:28 King Korpse: Designer Toy of the Year
-L7vKjZakY04 12:10 Adam Savage Checks Out Lumecluster's New Armor Cosplay!
-Gl2fKdGIV2Y 6:37 XM-Studios' Impressive Superhero Statues
-7AMJOOaOT3I 12:28 Shooting and Editing VR 180 Video with the Z Cam K1 Pro!
-lA_WL68CfPM 26:50 The Space Science of Ad Astra - Offworld Episode 27
-5ZHXEJgSnfM 3:57 Cyclops Warrior Makeup Demo!
-jQZLj5zTY9I 5:08 Adam Savage's New No-Face Cosplay!
-CriCoimi4MQ 8:03 The Striking Animatronic Sculptures of Ben Schwenk
-MN-n-bd1x14 6:07 The Custom Plush Creatures of Ivonne Escoto
-bls-WyVt_XE 5:00 Show and Tell: Fallout Pip-Boy Bluetooth Speaker Kit
-JFxYqD60zuY 4:43 The Assemblage Art of Gmonik
-jsFPnt6790M 5:41 The Creatures and Costumes of Creative Character Engineering
-6O_8IJ47Tgg 14:33 LG 4K OLED vs. Samsung 8K QLED Technology Differences!
-K2zLneGGbk8 36:03 Oculus Quest Hand Tracking Demo and Impressions!
-Dt6BQPNGGTw 41:52 Adam Savage's One Day Builds: Star-Lord Cosplay!
-VG1dNQ7RbEg 10:17 Adam Savage Meets a Smithsonian Exhibit Designer!
-BW-pMnAFb6g 7:14 Adam Savage Learns About Smithsonian Exhibits' Installation Process!
-X_rqQcvATtM 6:22 Adam Savage Sees How Smithsonian Uses Replicas to Tell Stories
-_Kl-2wGSuZI 9:41 Adam Savage Meets the Youngest Modelmaker at Smithsonian Exhibits
-oVafAOa_UIE 26:07 Adam Savage Tours the Graphics Department at Smithsonian Exhibits!
-tAdaJZx4Ps8 9:51 Adam Savage Meets a Smithsonian Exhibit Developer!
-dntMcmUfxHs 24:40 Adam Savage Explores the 3D Printing and Modelmaking Shop at Smithsonian Exhibits!
-VlsUBj27GqY 12:01 Adam Savage Learns About Smithsonian Exhibits!
-zLSvjwd99SU 9:37 Adam Savage Tours Smithsonian Exhibits' Fabrication Shop!
 Zt3649jao68 2:49 Ask Adam Savage: What Full-Size Working Prop Would You Want to Make?
-4qH-2c0dJ5E 10:45 Tested: Assembling a VR 180 Camera Rig!
-1dck2mdY2h0 12:53 Inside Adam Savage's Cave: New Apollo EVA Gloves!
-1BTcmCZhPe8 12:09 Tested Visits The NASA Ames Maker Space!
-voJwBHBVyEk 4:09 The Great Wall Armor Showcase and Giveaway!
-vqqEFEgx-ZI 35:00 Adam Savage's One Day Builds: Star-Lord's Walkman!
-3jdF1yVBWdc 20:09 Adam Savage’s One Day Builds: Project Egress Apollo Hatch!
-cgqv-MKbogQ 28:16 Digitizing Objects from Smithsonian's Enormous Collection!
-8L_PxZXCH8o 13:56 Making Snow Effects for Diorama Miniatures!
-49xYK0U1gfc 13:25 Adam Savage's Gorgeous Great Wall Armor!
-r3S0i4Ankgk 2:18 Adam Savage Examines the Mother Ship Model from Close Encounters of the Third Kind!
-Vxko8OhUv7s 7:11 Adam Savage's New Leatherworking Toolbox!
-OExgiEZj6u4 5:27 Inside Adam Savage's Cave: Book-Turned-Hammer!
-cKsOWxtUkFE 6:04 The Amazing Man-Spider Cosplay!
-lvGglqATUvw 12:38 Driving a Robot on NASA's Roverscape!
-pF-7vxrVGbQ 7:40 Adam Savage Incognito Cosplaying as Star-Lord!
-X_YusHiUFYo 5:23 Adam Savage Learns About Preserving Alan Eustace's StratEx Suit!
-KBgvGmhLFXk 14:26 Tested at NASA Ames Research Center (with Simone Giertz!)
-zoyIA-n_UQ4 15:59 Adam Savage's Knights of Ren Cosplay, Part 4
-_d24VJE8K94 32:26 Asteroid Exploration and Mining - Offworld Episode 26
-jyyHLZy6fu4 28:32 Adam Savage's Knights of Ren Cosplay, Part 3
-QSXsqFQ3Y-c 45:45 Adam Savage's Knights of Ren Cosplay, Part 2
-9RKkRAWJ_sg 41:10 Adam Savage's Knights of Ren Cosplay, Part 1
-EezjG4A2f-c 12:56 Tested: Deploying Ocean Sensors from a Plane!
-WFSnf0MSAFc 22:08 Adam Savage Visits National Air and Space Museum's Restoration Hangar!
-ESJcPH7KSvs 11:11 Inside Adam Savage's Cave: Ryan Nagata's First Spacesuit!
 nZZlEbttaO0 5:37 Ask Adam Savage: Career Paths for Makers and Polymaths
-aNTq7qOAFeg 6:55 Adam Savage Builds a Hero's Engine Sweet Cream Pourer!
-2V65z9nT55o 7:20 Adam Savage Examines the Space Shuttle Discovery!
-BQapjBMt6b4 14:12 Painting and Aging Miniature Buildings!
-Wxh6rVrpTnA 9:00 Adam Savage Goes Behind the Scenes of Apollo 50: Go for the Moon
-ZgzghAnYrD0 13:51 Marvel's Daredevil Costumes and Props!
-bKrpiCqZq_8 16:20 Inside Adam Savage's Cave: High School Alien Play Spacesuit!
-G5YpglkGN8Y 11:22 Designing the Stranger Things Season 3 Biohazard Suit!
-m2esyN4fuiA 11:11 Adam Savage Meets Neil Armstrong's Apollo 11 Spacesuit!
-D-Ptuq85R8Y 3:50 Adam Savage Talks about His Hearing Loss!
-9e9T3LrEt28 4:20 Adam Savage: Help Peter Jackson Solve a WWI Mystery!
-YOp3X0KzKLg 5:27 The Orville Ship Model Replica!
-54k1M8WwTxE 6:53 Chatting Designer Toys with DesignerCon's Founder!
-Fn-EothtxOw 7:27 Star Wars Creature Busts and Replicas from Regal Robot!
-gHwnXcHK34I 7:21 The Orville's Costumes, Creatures, and Ship Miniature!
-N6a5b-oWfWM 5:55 Awesome Star Trek USS Enterprise 1701-D Replica!
-eHryKKH3l1s 9:45 Batman Museum Costumes and Props Tour!
-oFFw48pF1mE 6:57 Adam Savage's Zorg Industries ZF-2!
-cB8ETl0iodE 6:21 Star Trek: Picard Prop and Costume Museum Tour!
-EJSNNXjvljw 30:03 Science Fiction's First Moon Landing - Offworld Episode 25
-Srg47mr4X5A 14:01 Adam Savage's One Day Builds: LEGO Lunar Lander
-wrQhkJt4eho 6:33 Show and Tell: ArtBones Articulated Action Figures
-tFgCLiPn-k4 6:17 LEGO Great Ball Contraption Mini-Golf Modules!
-Th9Fuo8EYyE 5:15 LEGO Abrams Tank that Deploys a Bridge!
-Bh6C2O77EpI 14:39 Adam Savage's One Day Builds: Cave Museum Display!
-2zTdOfqO6g4 33:50 Building a Retro Moon Suit Garage Kit!
-pTHRVsrqyiw 10:13 Warcraft Movie Props, Weapons, and Armor!
-gr4YjCiabOc 37:33 Poppy Northcutt, First Woman in Mission Control! - Offworld Episode 24
 HMsKjzt7Gpk 3:01 Ask Adam Savage: What's the One Thing You'd Save in a Fire?
-Ew-qden-ha8 8:13 Inside Adam Savage's Cave: New Spacesuit Hardware!
-aOQTunQ4Oug 9:27 Show and Tell: Nike's Adapt BB Power-Lacing Shoes!
 aWFHIfmzTYE 2:59 Ask Adam Savage: Preferred Shop Stools
-hNgC3s5Nne0 38:50 Model Behavior: Painting Shiny Model Cars!
-YZV4A4Kl0yM 28:20 Adam Savage's One Day Builds: Hero Prop for TV Show!
-iYb84RjpudE 8:48 Toy Photography with Miniature Sets and Dioramas
-Mx3Yyghttn8 7:41 Making the Borderlands 3 Giant Character Statues!
-Ts42FtG9SGY 29:40 What Exoplanets Look Like in Film vs. Reality - Offworld Episode 23
 XHHp3dW-TCw 3:46 Ask Adam Savage: Costume Storage
-bQQW0khYaOs 3:48 Inside Adam Savage's Cave: Star Wars Tauntaun Statue!
-sNeou5p5f5s 13:33 Replicating Neil Armstrong's Apollo Spacesuit!
-AnxBy32fJX8 32:55 Adam Savage's Week at Weta Workshop, Part 6
-hQKvQmprGgs 20:48 Painting a God of War Leviathan Axe!
-2NYtPWhdhhQ 15:54 Adam Savage's One Day Builds: Iron Man Armor Stand!
 cHEq3HkZf-8 4:49 Ask Adam Savage: Working With Other Makers
-fMR7jClFKnc 25:00 Adam Savage's Week at Weta Workshop, Part 5
-8_XwRFD5Lqs 24:31 Behind the Scenes of Weta Workshop's 'I Am Mother' Robot!
-6nw-RdxJzcY 32:43 Science Fiction Spacesuits - Offworld Episode 22
 1jx_O0no0pY 1:12 Ask Adam Savage: What is Savage Builds?
-5DstR_8RhPM 3:13 Tobor, The Dinosaur Controlled by Power Glove
-_4gbxlKBJlA 23:43 Adam Savage's Week at Weta Workshop, Part 4
-MOOihfy3Iwo 4:04 Adam Savage's Very First Shop Project
-hF86Qd-B4SE 10:37 Show and Tell: Gundam Upgrade Garage Kits!
 o_xUJfX-Hy0 4:17 Ask Adam Savage: A Movie You Wish You'd Worked On
-vY9-3COB2S4 15:21 Shop Tips: Know Your Screw Threads
-Lp3GaB43_3k 10:51 Show and Tell: Synology DS1019+ NAS
-T4xboOb8868 51:11 Adam Savage's Week at Weta Workshop, Part 3
-4IWO-tuRnBg 14:31 Looking Glass Pro Holographic Display!
-HuobWbxGfnY 29:31 Valve Index VR Headset In-Depth Impressions!
-uvpGmiR5HnA 5:53 Mech Warfare with Airsoft Firing Robots!
-RQEIGfHcDMg 4:17 Avid CNC's 4-Axis CNC Machines!
-f7V14iY_4-E 4:41 Giant Flying LEGO Helicopter!
-dA2ikno_4z0 3:40 The Fantasy Metal Creatures of Perkunas Design Studio
-7uS7A4x31PY 34:16 Adam Savage's One Day Builds: Scratch-Built Spaceship!
-2PGjTt4xkWM 3:06 Self-Solving Rubik's Cube Robot!
-rjlYsDZUk3w 1:09:34 Adam Savage's Week at Weta Workshop, Part 2
-m-pGHh9NNko 5:26 Show and Tell: Foam Starter Projects
-_F5bIcT_rOc 31:26 Black Holes in Science Fiction Films - Offworld Episode 21
 tZ4Uyo3oIg4 4:48 Ask Adam Savage: Least-Used but Most Important Tool
-PRN3x5RqQ4E 9:55 Sophy Wong's Wearable Tech Projects!
-4rzDdnlDOcc 45:53 Adam Savage's Week at Weta Workshop, Part 1
-ng3Ivf0eZIY 16:02 Inside Adam Savage's Cave: Concept Art Reimagining Star Wars!
-ABb_1WsxJFk 29:55 The Science of Starship Troopers' Space Bugs - Offworld Episode 20
 5i1zcFjjYAE 3:49 Ask Adam Savage: The Role of Cardboard in Making
-aB8IJ6aLiSo 6:28 Projection Mapped Floating Head Kit!
-fA-wOQM_5hY 16:02 Bits to Atoms: Starlords Arcade Cabinet, Part 7
-TfwKYUmoC-k 5:02 Adam Savage's Computer History Collection!
-y0R8-F4TmPI 8:09 Show and Tell: Animatronic Raven Kit!
-S9xXE44ZZmY 29:38 Would Cyborgs Make Better Astronauts? - Offworld Episode 19
 qD528UrBNLA 3:53 Ask Adam Savage: How to Interact With Famous People
-pn027jfK5fs 4:25 Realistic Flying Monkey Sculpture!
-9RDpcRZaO8s 20:04 Bits to Atoms: Starlords Arcade Cabinet, Part 6
-BteSyEo3GiM 27:45 How to Make Diorama Water Effects!
-zIlTuZUL02I 9:03 Adam Savage's Top 5 Science Fiction Books
-T6cAwHw1C4M 10:06 3D Printing and Molding the Key to Erebor!
-peU_LMrwKAY 5:34 Ironhead Collectibles’ Striking Character Masks!
-o1TArnQOzMw 19:29 Bits to Atoms: Starlords Arcade Cabinet, Part 5
-djRZeAv4DeA 4:36 Custom Creature Model Kit Dioramas!
-YBqqdHzA53A 6:54 The Silicone Creatures of Immortal Masks!
-qfQPLUirCL4 5:50 The Shape of Water Creature Maquette!
-QsXWn25EnwQ 5:57 Aurum FX's Destiny Blaster Props!
-ad1Wmzcwa1M 42:53 Bits to Atoms: Starlords Arcade Cabinet, Part 4
-ysoY-VKMBlk 5:49 Manas Workshop's Striking Creature Sculpts!
-vCi5usulDIo 1:20:48 Adam Savage's One Day Builds: Swordmaking at Weta Workshop!
-qqUxntC6Hu4 4:20 Hyper Realistic Daruma Dolls!
-80iGijMPN9U 5:55 Creatures and Garage Kits at Monsterpalooza 2019!
-FLC97Gh0BRM 32:48 How Would a Mars Sample Return Work? - Offworld Episode 18
-rUdsoAIPaD0 25:39 Modeling the Key to Erebor for 3D Printing!
-mtEu2fiMoWw 14:29 Bits to Atoms: Starlords Arcade Cabinet, Part 3
-Ieu9bdbYeQU 33:26 Tested: Dremel Digilab LC40 Laser Cutter
-XegCqbSK4TA 10:34 Show and Tell: Laser-Cut Orrery Kit
-EuOJsm40Brc 7:40 Shop Tips: Tools for Punching Holes
-vKcrtVt-cNU 27:59 Bits to Atoms: Starlords Arcade Cabinet, Part 2
-1JyF9d9wXnM 26:01 Star Trek and The Golden Record - Offworld Episode 17
-EQ1uYsyQ-uA 14:57 Restoring Classic Arcade Games in Mini Cabinets!
-gm7Goyk4QSE 28:27 Bits to Atoms: Starlords Arcade Cabinet, Part 1
-UYFChEd85YY 8:50 Custom Figure Clothing in Toy Photography!
-pyV_eEmlZfk 18:29 Model Behavior: Acrylic vs. Oil Washes
-F-i-YF9NdE8 23:54 The Potential and Problems of Spaceship A.I. - Offworld Episode 16
-r8D1n6JzX1I 21:30 Model Behavior: Weathering a Model (Space)Ship!
-AalujgiTnYo 6:57 Insta360 EVO Convertible VR180 Camera!
-YcZRsFUA3jQ 5:05 Building Laser-Cut Miniature Wargaming Terrain Kits!
-P67oL01urJU 42:29 Model Behavior: Making Miniature Wood Flooring!
-T1Uez7Mj-w4 3:20 Adam Savage's King Arthur Armor Build: Epilogue
-iqxZ_VpwEd8 10:23 Creating Blast Effects in Toy Photography!
-d_R2Y7y6-Tc 5:00 Show and Tell: Clockwork Dreams Automata Kits
-yBnQps8ZH0Y 29:49 How Would Space Politics Work? - Offworld Episode 15
-e66jA45z3OE 20:37 Adam Savage's King Arthur Armor Build, Part 7
-Q2PGhy_oLYA 11:49 Creating Snow Effects in Toy Photography!
-oVAhC9HjiIQ 13:50 Prototype Toys and Vintage Collectibles Showcase!
-aj861JuD2wk 7:36 Tested: GodHand Nippers for Plaster Model Kits!
-vuTzDaIO178 10:26 Adding Lights to the Iron Giant Garage Kit!
-OAPOE8eRAJw 24:21 Adam Savage's King Arthur Armor Build, Part 6
--qawJndVSJ4 19:52 Practical Effects in Professional Toy Photography!
-0bvl1H-CpIk 8:59 Vintage Star Wars Collectibles Showcase!
-L-PCcS1A9GM 5:02 The Cut and Sew Clothing in Mezco's 1:12 Figures
-ffYpNr3PiOs 24:42 Adam Savage's King Arthur Armor Build, Part 5
-djJIjkdJ77A 10:13 Internet-Connected ScreenTimer Project!
-gIyykNaWrlM 2:44 Tested: USB-Powered Soldering Iron!
-80QXP5ls850 6:18 Maker Spaces: Cirque du Soleil's Traveling Workshop
 IDcnw167dN0 2:06 Ask Adam Savage: Connecting to Crafting
-kkuePUZ3j24 16:31 Making a Real-Life RC Tank Soccer Game You Can Play!
-ECAEuXDra7w 26:54 Adam Savage's King Arthur Armor Build, Part 4
--kdWUMA4Lqc 9:16 Tested: Behind the Scenes of Cirque du Soleil's Volta!
-zcSIvvUcm5c 1:44 Adam Savage Reveals the New Tested T-Shirt!
 qjJwbi8yADM 1:34 Ask Adam Savage: Most Difficult Myth
-oxI8SFkCz0I 28:08 Adam Savage's King Arthur Armor Build, Part 3
-At7BZ1t7Cuw 12:39 Tested: Games in a Tesla with Atari Controller!
 R9Qm5DQAuag 2:02 Ask Adam Savage: Failed Explosions on MythBusters
-etLOLUowvPI 7:40 How to Build an SLA 3D Print Resin Curing Oven
-fHFpKAv2Sk4 17:49 Adam Savage's King Arthur Armor Build, Part 2
-eABESL7Ia6I 7:08 Tested: Sony 1000XM3 Noise-Cancelling Headphones
-742wx_H-VIo 29:11 Star Trek: Discovery Season 2 Discussion! - Offworld Episode 14
 exCrXc8hAAA 2:32 Ask Adam Savage: How Does Adam Savage Decide Next Projects?
-Ek76Q0SEvC0 22:53 Tested: Dremel 3D45 3D Printer!
-vib1-V8ArzM 33:53 Adam Savage's King Arthur Armor Build, Part 1
-Lo3E25GXCEw 10:03 Making a Light-Up Miniature SXSL Sign!
 MwsLhlVlaZc 2:32 Ask Adam Savage: Adam's Favorite Cosplay
-_zIFAi5gz2A 16:34 Modeling Achilles' Sword for 3D Printing!
-GQevJ_9W55s 9:19 Show and Tell: Pip Boy 2000 Mod!
 1XFhm8nry-Y 2:29 Ask Adam Savage: How to Deal With Success
-IEZX3-A63RY 11:33 Adam Savage's Blade Runner Blimp Replica!
-tP8xbr_hn6U 6:13 Tested in 2018: Favorite Coffee Table Books!
 yw8gFo2DJvM 3:37 Ask Adam Savage: The Role of Social Media
-dVSu-WWe5XY 4:43 Tested: Tilta Wireless Follow Focus Lens Control System
 OO8xF-kgMJU 1:55 Ask Adam Savage: Nourishing Kids' Interest in Science and Art
 8VDiTgL0qL4 2:15 Ask Adam Savage: Cosplaying as a Celebrity
-2xntfsLWlDg 11:45 Maker Spaces: Kinetic Sculpture Artist Nemo Gould
-J1mEMmY2ZB8 1:03:38 Peter Jackson and Christian Rivers on the Making of Mortal Engines!
-jbuB1LpNupQ 18:51 Adam Savage Wears Lumecluster's Phoenix Gauntlets!
 GRSq75EdzmE 3:11 Ask Adam Savage: Ah-Ha Moments
-WauW_IMUioI 6:50 Classic Children's Television Puppets and Props!
-lLBrhDqof7A 9:05 Classic Science-Fiction Television Hand Props!
-kK0LDHPZxvw 12:11 Batman (1966) Props and Costumes!
-7oGslDjTnHI 29:33 Adam Savage's One Day Builds: Mortal Engines Hand Cannon!
 e3YB3z0YIh8 1:18 Ask Adam Savage: Small, Extra Arms vs. Prehensile Tail
-K4mxREx11Fo 31:28 In-Depth with The Visual Effects of Mortal Engines!
-KwT0aZd2PQM 7:34 The Kinetic Sculptures of Nemo Gould
-6iIZ9rnS6HU 1:02:24 Adam Savage's One Day Builds: Eric Idle's Guitar Case!
 Nx73IDlgSF4 2:34 Ask Adam Savage: Favorite Guest on MythBusters
-CDn91YfTZzI 9:19 Shop Tips: Drill Bits
 CaFR4vGKrvc 1:50 Ask Adam Savage: Which Tools Don't Work?
-AqLVpBb2gGw 10:58 Simone's Every Day Calendar
 Xwpufxg__6A 1:28 Ask Adam Savage: Best Adaption of a Book
-GlX72rwmHAI 5:29 Shop Tips: Learning Injection Moldmaking
-t3Ktff1Bui4 21:41 Modeling a Judge Dredd Helmet for 3D Printing!
-tCIGE-aTzw0 6:11 Incredible 'Steam Siege' Custom Gundam Diorama!
-WfHcNntVb3E 19:18 The Martian Spacesuit Project Lives!
-u1GKS-eMoGk 6:36 The Striking Poster Art of Jason Edmiston
-AG5DEe4eWa4 5:07 The Makers of the Harry Potter Pop-Up Book
-TbbwHoexcss 4:51 The Pop and Poster Art of Tom Whalen
-VXGcwEntYJk 24:58 Adam Savage Meets the Spacesuits from First Man!
-Cc0HvlmAuAY 26:00 How Could Genetic Engineering Affect Space Exploration? - Offworld Episode 12
-qBBpnSY5cqY 5:29 XM Studios' Samurai Batman Statue!
-1zGvioP_-_I 8:37 Adam Savage's NASA ACES Spacesuit Replica!
-L-D8MBphXN4 16:11 Alan Eustace's World-Record Stratosphere Jump Pressure Suit!
-5B3IgefQ-QU 3:41 Adam Savage on The Problem of Recasting
-N1CKRNv2ivk 9:13 Adam Savage's Starchild from 2001: A Space Odyssey!
-CkImNCToc9w 10:47 Meet the xArm 7 Programmable Robot Arm!
-oLSt0Q-2Bdo 19:53 What Would "First Contact" Be Like? - Offworld Episode 11
-rOmdQQCVjjI 22:44 Adam Savage Meets Barnaby Dixon's Puppets!
--aMEm9uxFh0 20:46 Aftermarket Lighting Upgrades for Model Kits!
-Szc2yDh6IDU 6:29 Accucraft's Model Steam Trains
-p5X_z2z8oXc 5:09 Scratch-Built Model Steam Trains!
-2O4-b6bFBpg 3:01 Adam Savage's Least Favorite Material for Making
-hv9E3INSgd0 14:32 Awesome Model Trains with Steam Locomotives!
-eyszbfcbeMk 15:41 3D-Printing a Custom Wonder Woman's Tiara for Cosplay!
-RXm3HJ4MASQ 8:41 Laser Cutting a Westworld Data Card!
-Ly5ZDcX1tuo 3:46 Tested Mailbag: Human-Scale 3D-Printed LEGO!
 -BM_ghu0qq8 4:03 Ask Adam Savage: Worst Injury While Making?
-Y09ET7bpE1A 8:37 Collecting Material Samples for Your Workshop
-ZfvtGrhYk0I 26:44 Adam Savage's One Day Builds: Kit-Bashing and Scratch-Building!
-Pta2RH9_umA 4:41 Tested Mailbag: AT-DP Garage Kit!
 kmHgfmkEwDE 3:25 Ask Adam Savage: Getting Over Maker's Block
-QyTzTGsySqo 17:41 Assembling the 2,500 Piece 3D-Printed Sculpture!
-JtV_-cLBoH0 4:38 Show and Tell: 2001 EVA Pod Model Kit!
--5PhT20VC7o 11:46 Designing the National World War I Memorial Sculpture
 8Cu9Zxr-fjg 3:43 Ask Adam Savage: Favorite Shop Tools!
-6HJarJg1npk 11:07 Custom Model Paint Racks for the Tested Workshop!
-MxLOoriXkMc 46:22 Adam Savage's One Day Builds: Overengineered Bottle Opener!
-0AVVXNKHDUw 11:34 Tested: Formlabs Wash and Cure Stations
-xVYmQlUZfVM 22:22 3D Printing in Multiple Colors with the Palette 2
-ebQU7GipJcA 17:50 Weta Workshop Sculptor's Tabletop Miniature World!
 jY3O8Kt2IVg 3:09 Ask Adam Savage: Favorite Things to Take Apart
-cxrpog9KOEo 1:04:27 Making a Mechanical Pong Game!
-YDJQyn8F1yc 15:25 Color Grading a Short Film with the Blackmagic Micro Panel!
-7MRb1VqX0ag 23:20 How Dangerous is Orbital Debris? - Offworld Episode 10: Gravity
-XJ9c1OcuJ7Q 18:36 3D-Printing a NASA ACES Helmet for Adam Savage!
 X-UWkbx3ppU 2:24 Ask Adam Savage: State of Mind for Making
-Aq57iMONXV0 5:11 Awesome Animated LEGO Sculpture!
-RbxEQ6HnH-g 12:29 Adam Savage Paints an Astromech for Magic Wheelchair!
-q1tL6-xCTN4 12:42 Weta Workshop's "The Scale of Our War" Exhibit
-n6gDoxxq_4w 4:46 Impressive LEGO Dystopian Monorail City!
-2AKXyD18DBo 7:11 Star Trek: Discovery Ship Models from Eaglemoss!
-GEhBPI2QVBI 0:34 Last Call for Adam's One Day Builds T-Shirt!
-QCBcWm85gWo 15:33 Adam Savage's One Day Builds: Kit-Bashing a Robot!
-2n5YCFhHjqA 6:47 New 2001: A Space Odyssey Discovery Model!
-h7tz689ZsIM 9:37 Star Wars Star Destroyer Model Replica!
-KGsr4NPr_Uw 10:19 How the LEGO Voltron was Designed!
-o9AoaPXPQiA 5:03 Weta Workshop's First Mech Model Kit!
-XV7qb5Ct3J4 6:30 Adam Savage presents: “A Farewell to Arms”
-7LxFtGqyDls 10:28 Studio-Scale Star Trek: Discovery Starship Models!
-BpaYqFd5S5c 0:48 Adam Savage's New "One Day Builds" T-Shirt!
-WnJDYjbWCwI 1:10:53 Adam Savage's One Day Builds: The First Spacesuit!
-LlvOUpXPIjM 4:04 Minifigure-Scale LEGO Saturn V Rocket!
-jzfktNl2Y0k 27:25 Let's Paint: Dinosaur Garage Kits!
-bbtka70PGWE 10:21 Tested: Kessler Motorized Camera Slider!
-OVGbp9ZkXHg 28:00 Loneliness in Space Travel? - Offworld episode 9
-AXzurpmc8SE 39:15 Adam Savage's One Day Builds: Everyday Carry Bag!
-3EQX8M9cI38 8:00 Weta Workshop's MOOSE Attack Robot from Chappie!
-eJqjGHAfm6E 6:40 Weta Workshop Artists Make Custom 'Giant Killer Robots'!
-HgQgGzUzgKI 30:53 How to Apply Zombie Prosthetic Makeup!
-2we_2-WS344 38:28 Modding 'The Getaway' Pinball Machine!
 lgQ2N-dFgQc 2:01 Ask Adam Savage: Overcoming Large Learning Curves
-dncRHH9f6MI 3:14 Adam Savage Explains the Universal Greeblie!
 LImkIx2wasw 2:12 Ask Adam Savage: Old vs New Technology
-PGmFOnSGjrA 35:18 How to Make Miniature Underwater Dystopian Cityscapes!
-lF_2B47Guts 21:35 What's Needed in Space Robots? Offworld episode 8: WALL-E
-2ZjxvW17cZ0 19:21 Adam Savage Builds a Onewheel Electric Skateboard!
-mqxP_SvseXU 8:09 How to Make a Laser-Cut Prop Stand!
-3b_0pJTKWGo 35:53 Painting Robot Kits to Look like Rusted Metal!
-mu2usjcYeZM 6:36 Show and Tell: Laser-Cut Sixth-Scale Scooter!
 4t1B0iH4jb4 2:20 Ask Adam Savage: Tips for Kids to Become Makers
-9U3tmOGhYQA 41:47 Bits to Atoms: The Co-op Quadcopter Challenge!
-0Y_h8QOjH5g 3:31 REMIX: 1000 NERF Balls vs. Dinosaurs
 GVnoTrJNAtc 3:07 Ask Adam Savage: Who Cleans Up the Mess after Builds?
-i631vjJnqJw 12:11 Mind-Controlled Plumbob Crystal from The Sims 4!
-G7MDrUG4cws 36:59 Adam Savage's One Day Builds: 1000 Shot NERF Blaster!
-E10407LU3NY 19:12 Bits to Atoms: Adding Smoke and Sounds to Toys!
-l7-bZbePQKE 5:58 The Modelmaking of European Train Enthusiasts! Drifting with Adam Savage and Zoe Bell!
-wHtTzCGe9hI 10:05 Show and Tell: Destiny-Inspired Airsoft Mod!
 yzYS9yEcJAY 2:48 Ask Adam Savage: Giving Ourselves More Credit
-AoZa3DQZNds 6:31 3D Printing Multiple Colors with Prusa i3's Upgrade!
-s8hP2-f_66Q 14:08 Tested: Indoor Skydiving with Virtual Reality!
-M89MIJiWljo 4:13 Model Trains with Working Steam Engines!
-32y7W29Cync 7:24 How the Prosthesis Mech Works!
-aZVFluepenM 20:58 What's Changed in Astronaut Culture? Offworld episode 7: The Right Stuff
 9okIF3RZRcc 2:36 Ask Adam Savage: Recovering from a Mistake
-Gm9aZv2tiFs 4:01 TapGlo Light-Up Ping Pong Table!
-zqXpbqrfrfY 6:39 Dremel's Laser Cutter: What You Should Know
-mAeXBaAqyvE 3:44 Google AIY Kits for Experimenting with Artificial Intelligence
-qS9a9h4qk30 3:00 Custom-Built Live-Streaming Arcade Cabinet!
-XE-oFwSRhek 7:13 Awesome Fallout 4 T-60 Armor!
-bZ6XLACOtUo 6:10 Kitbashing Model Spaceships with Snap Ships
-b1zuO_piTfQ 3:38 Hacked Star Wars Landspeeder Toy Car!
-krTMy64VusE 14:25 Adam Savage's Maker Faire 2018 Talk!OZ4YKLVoFzs 33:41 Bits to Atoms: The Pi Score Arcade Cabinet
-2Xfr7_UxioE 7:11 Paint Masking Using a Laser Cutter!
 J-9dGGKAQPE 2:15 Ask Adam Savage: Biggest Explosion?
-Ydh0lnHiTKs 14:44 Tested: How To Photograph a NASA Rocket Launch!
-38H41lwZP14 12:03 Adam Savage's New Warcraft Armor!
-_feYE4YYuyI 13:31 Star Wars Studio Scale Y-Wing Model!
-MZAtxIm9ukM 16:21 Tested at the NASA InSight Rocket Launch to Mars!
 0PQul0uH_oc 2:43 Ask Adam Savage: Most Satisfying Recent Project?
-pZvZypeDPkY 19:10 How Could Alien Communication Work? Offworld episode 6: Arrival
-Uayaya9x3kc 1:24 Adam Savage Build Tip: Airbrush Anatomy
-rRSD3h0PooU 1:47 Adam Savage Build Tip: Protecting Chrome Paint Finish
-_pPtEA3d2mY 1:50 Adam Savage Build Tip: Using a Scroll Saw
-9XB4Be6TjHU 55:21 Adam Savage's One Day Builds: Snub-Nosed Blade Runner Blasters!
-FaQNtcxmJKY 3:19 Star Trek Tricorder with Working Display!
-83NLPlACMus 4:38 James Bond "Moonraker" Prop Collection!
-K-8zSrByqH4 0:57 Adam Savage needs your help for his next build!
 iCl8ek0gLPA 3:44 Ask Adam Savage: Being Dropped in Bubble Wrap?
 40dx0L5t8-s 2:31 Ask Adam Savage: What Do You Do After Work?
-69PIm52Jrss 8:46 Inside Adam Savage's Cave: Ghost in the Shell Props!
-JJjw1VvXJ0U 5:13 The Creature Art of Akihito
-OUFsT2RYk84 6:56 3D-Printed Sculptures Made in Virtual Reality
-f72i6JJLYcE 8:14 Realistic Frankenstein Monster Sculpture!
-6_DkHsFBDs8 7:08 Turning Art into Collectible Statues
-RHSNyJGlB1Y 5:40 The Concept Sculptures of Simon Lee
-cnSmc91hY2s 6:53 Fantasy Sculptures of the Shiflett Brothers
-3l6V_DtkOps 7:56 The Creature Model Kits at Monsterpalooza 2018!
-eebeOIE-Lr4 6:55 Designing Wolverine's Costume from X-Men 2
-J8aWOwfXBng 5:53 Testing the Tilta Gravity G2X Handheld Camera Gimbal
-ZXKHIwg0cmM 6:22 Fallout Pip-Boy 1.0 Prototype Prop!
-3YwyrpHgii0 7:19 Ghost in the Shell and Warcraft Props from Weta Workshop!
-UwFyrxoCvDQ 4:53 Creepy Minion Costumes at Monsterpalooza 2018!
-j1GwZhUQWDA 1:13 We're Nominated for Webby Awards!
-dAOZa7JYnsw 9:05 Adam Savage Repairs Totoro Cosplay!
-oJ2Bs3qieJw 12:15 Adam Savage Incognito as the Knights of Ren!
-sNr4VrKslEE 23:07 Alien Life in Our Solar System? Offworld episode 5: Europa Report (2013)
-1_aVYTabJDo 5:11 Life-Size K-2SO Puppet Cosplay!
+
+NM9Hxpk_tPo 18:32 Adam Savage's One Day Builds: Annular Cutter Storage!
+SGUtT2Lo944 1:16:13 Adam Savage's One Day Builds: AT-AT Walker Garage Kit!
+RfNIlmKXOWg 32:40 Adam Savage's One Day Builds: Custom Poker Chip Carrier!
+DPTu47FBkpg 46:04 Adam Savage's One Day Builds: Chinatown Stunt Knife (Corridor Crew FX Challenge!)
+bJp3B3jZkhE 36:16 Adam Savage's One Day Builds: Aliens Motion Tracker Prop!
+Arm0Mvx45Us 12:28 Adam Savage's One Day Builds: Adding Casters to Costume Cases!
+A4v97zfHzcU 28:44 Adam Savage's One Day Builds: Aliens Welding Torch!
+SSvcKIa1Uws 1:02:37 Adam Savage's One Day Builds: Moby Dick Diorama Maquette!
+K0FcUntHyKw 58:02 Adam Savage's One Day Builds: Razor Crest Mods, Part 1!
+GtLCJ2b6XEc 21:46 Adam Savage's One Day Builds: Mandalorian Vibroblade Kit!
+5RL7EYSbc_g 55:52 Adam Savage's One Day Builds: The Matrix EMP Switch! Blitzway's 1/4 Scale Apollo 11 Astronaut!
+wmjZL8nm3MM 46:58 Adam Savage's One Day Builds: Inglourious Basterds Knife Replica!
+zR4X775Y-9E 34:51 Adam Savage Reacts To His First One Day Build!
+S5o9NORnF1o 57:32 Adam Savage's One Day Builds: Papier-Mâché Mask!
+FuMf6-9ZsJo 40:29 Adam Savage's One Day Builds: Vintage Bicycle Restoration!
+rL7k8kjIdow 1:03:48 Adam Savage's One Day Builds: James Bond's Spectre Cane!
+NMEkK9cdEqg 30:44 Adam Savage's One Day Builds: RoboCop 2's Cain Stop-Motion Puppet!
+jOXidWIB-gY 20:13 Adam Savage's One Day Builds: Drill Press Modifications!
+4GcuGnjv2Aw 29:01 Adam Savage's One Day Builds: Special Effects Syringe!
+9LVFVTMleio 46:32 Adam Savage’s One Day Builds: Head-Mounted Dart Blaster!
+YIbb-Bck8wc 46:43 Adam Savage's One Day Builds: Blade Runner 2049 Helmet Parts!
+uzF351VecZA 40:38 Adam Savage's One Day Builds: Painting The HasLab Razor Crest!
+xHS83PFsek4 24:20 Adam Savage's One Day Builds: Weathering the Blaster Vault!
+NYkF5EwaDBU 19:29 Adam Savage's One Day Builds: RoboCop 2's Cain Robot!
+hX5Qsrpj9Ao 31:26 Adam Savage's One Day Builds: Surface Plate Cover
+V0kQDCVU_48 36:38 Adam Savage's One Day Builds: Mini Apple Box!
+IeFIhKaJEFo 31:34 Adam Savage's One Day Builds: Dune Sand Compactor Replica!
+uEcx6yb5yXQ 41:33 Adam Savage's One Day Builds: Magnetic Lathe Chuck!
+ykr2IMSYDMc 30:43 Adam Savage's One Day Builds: Ping Pong Ball Launcher!
+jQSTJSniXKM 32:25 Adam Savage's One Day Builds: Fixing the Mill's Motor Fan
+3qOJakmE7Pk 33:52 Adam Savage's One Day Builds: Mythbusters Blueprint Display with Kyle Hill!
+gaJgfS_2LZ4 32:36 Adam Savage's One Day Builds: Gauge Block Storage Rack!
+_2kmXLP_uXg 33:13 Adam Savage's One Day Builds: Machining Mystery Prop!
+m6VYpHdBG84 15:48 Adam Savage's One Day Builds: Weathering a Sword Blank!
+yzy_8tT4TO0 24:35 Adam Savage's One Day Builds: Miniature Astronaut Display!
+9TZ5yflpmq4 42:15 Adam Savage's One Day Builds: Ghostbusters Ecto Goggles!
+9yzg3a91F5o 45:20 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 4)
+2O92DT4x0tg 1:04:21 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 3)
+HAirnq80dcQ 1:28:50 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 2)
+OshKZcTFEZY 32:21 Adam Savage's One Day Builds: Ghostbusters: Afterlife Hand Prop!
+0FKxM-zNZBk 1:10:32 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 1)
+dloSR3a57IA 43:24 Adam Savage's One Day Builds: Ghostbusters Proton Pack!
+NxL4SLzAkao 1:27:29 Adam Savage's One Day Builds: Aliens Colonial Marines Armor!
+iEaf3t3KUyg 27:25 Adam Savage's One Day Builds: Hasbro Mandalorian Helmet Repaint!
+zginChewoKU 31:35 Adam Savage's One Day Builds: 2001 Spacesuit Helmet Repair!
+-imr0Cy7NQY 39:42 Adam Savage's One Day Build: Acrylic Display Box!
+xePxGWc_mH0 34:00 Adam Savage's One Day Build: Fake Beard Wiring!
+ijosoNfEBP4 37:21 Adam Savage's One Day Builds: Aliens Colonial Marines Shoulder Lamp!
+iiZ5rh3Uo1o 1:14:52 Adam Savage's One Day Builds: Excalibur Henchmen Armor!
+dlCiIAS6fsA 26:51 Adam Savage's One Day Builds: MacReady's Hat from The Thing!
+NNNcGCZHvxE 53:53 Adam Savage's One Day Builds: Foamcore Architectural Model!
+ajHmyFX9zvk 24:47 Adam Savage's One Day Builds: Workbench Vise Upgrade!
+OUHShx43JVU 1:01:48 Adam Savage's One Day Builds: Miniature Piano!
+WAxxrBF5V3M 1:16:33 Adam Savage's One Day Builds: Famous Gemstones Collection!
+7D8sXR0ozeE 1:24:21 Adam Savage's One Day Builds: Animatronic Bear Head!
+0znjWy-Tr4Q 55:55 Adam Savage's One Day Builds: OneWheel Electric Skateboard Mods!
+TjvX8GiYA5w 44:30 Adam Savage's One Day Builds: Monster Puppet Kit!
+QWBFHoJrosY 35:49 Adam Savage's One Day Builds: Star Wars Acrylic Paints Rack!
+l4Uew4czJ1o 41:51 Adam Savage's One Day Builds: Queen Elizabeth's Buzzer Bell!
+cLrqogSndWs 1:09:07 Adam Savage's One Day Builds: Epoxy Headcast Helmet Skullcap!
+DcNPYycz4nU 57:13 Adam Savage's One Day Builds: Mandalorian Blaster Paint and Weathering!
+Cj0uLKibPW4 1:37:37 Adam Savage's One Day Builds: Mandalorian Amban Blaster Replica!
+4ufQUvxpuAo 36:53 Adam Savage's One Day Builds: Car Engine Model Kit!
+r0aae4df3Aw 37:18 Adam Savage's One Day Builds: LEGO Blade Runner Spinner Model!
+W1DrW_f_vNo 32:11 Adam Savage's One Day Builds: Hyperdodecahedron Model Kit!
+drLGYpPbrZg 53:36 Adam Savage's One Day Builds: Painting Iron Man Armor, Part 2!
+2tQf7cruUMA 37:37 Adam Savage's One Day Builds: Galloping Horse Animation Machine!
+CtGMBOqs0us 1:06:18 Adam Savage's One Day Builds: Painting Iron Man Armor!
+HqUlPoxrzjM 40:02 Adam Savage's One Day Builds: Hellboy Samaritan Replica Finale!
+ND4Y0gx4aTI 1:05:27 Adam Savage's One Day Builds: Iron Man Armor Boots!
+zWaQNVGhuyU 30:56 Adam Savage's One Day Builds: 3D Print UV Curing Oven!
+eJUbdNhdhkk 1:46:32 Adam Savage's One Day Builds: Remaking The Crown!
+I5dH96JunrQ 55:55 Adam Savage's One Day Builds: Resin 3D Printer Station!
+jmYBQSqXnQ4 47:57 Adam Savage's One Day Builds: Shop Dust Collection System!
+of9qY62tWKo 40:53 Adam Savage's One Day Builds: Tabletop Maker's Vise!
+ATfL9JQ--JE 1:03:05 Adam Savage's One Day Builds: Hellboy Samaritan Prop Barrel Rifling!
+5NH1-3NBcOk 1:28:31 Adam Savage's One Day Builds: Micrometer Gauge Box Set!
+jfUL73pRYq4 1:02:53 Adam Savage's One Day Builds: Studio Ghibli Diorama!
+lUwMEjh2-78 1:12:07 Adam Savage's One Day Builds: St. Edward's Crown
+9MLQEC2Hv28 24:51 Adam Savage's One Day Builds: Wire Storage Solution!
+r93bWMzGo60 1:14:57 Adam Savage's One Day Builds: Custom End Tables!
+Ic2S9ySxO0I 11:26 Adam Savage's One Day Builds: Lathe Collet Storage!
+apeZO6C0ZeA 51:52 Adam Savage's One Day Builds: God of War's Leviathan Axe!
+sbqytCVtQb4 21:09 Adam Savage's One Day Builds: New Drill Press Table!
+4iIBa0TLe9E 33:32 Adam Savage's One Day Builds: Mercury Spacesuit Wrist Rings, Part 2
+fM9FtG01wMg 45:11 Adam Savage's One Day Builds: Spacesuit Glove Wrist Rings!
+80YLonnG-Lo 28:24 Adam Savage's One Day Builds: Knight Lighter!
+WQA-x2eYn5E 19:06 Adam Savage's One Day Builds: Custom Painting Shop Tools!
+8Sqo8njgt_0 36:20 Adam Savage's One Day Builds: New Lathe Chuck!
+2UeghPJrUxE 29:12 Adam Savage's One Day Builds: New Workbench Lights!
+gCva75a8ATQ 18:30 Adam Savage's One Day Builds: Electronics Tool Cart!
+uY7zpvjLx4Q 1:17:58 Adam Savage's One Day Builds: Iron Man Mark I Helmet!
+beGXa1TO6vo 1:47:53 Adam Savage's One Day Builds: Wookiee Feet!
+Vt0RxHzEhws 1:16:24 Adam Savage's One Day Builds: Iron Man Mark I Armor!
+WBWUxWoNI5o 1:23:25 Adam Savage's One Day Builds: Hellboy Samaritan Storage Display!
+eBAWHbi4THs 39:39 Adam Savage's One Day Builds: Hellboy Samaritan Full Teardown!
+N_tKi14mFrk 23:16 Adam Savage's One Day Build: Sticky Storage!
+JYWfikf-3DI 24:31 Adam Savage's One Day Builds: Chewbacca's Bowcaster!
+iuNjDzT6PWo 55:53 Adam Savage's One Day Builds: Luke's Lightsaber!
+Ww7Ts37eN2g 42:55 Adam Savage's One Day Builds: Hellboy Samaritan Bandolier!
+SutetC6n9so 42:04 Adam Savage's One Day Builds: Hellboy Samaritan Carrying Case!
+4GehjvyAsZs 48:48 Adam Savage's One Day Builds: Baby Yoda Mod and Repaint!
+wnMH1s36WXo 41:14 Adam Savage's One Day Builds: How to Make an Apple Box!
+4JQ4O1SPHSY 56:14 Adam Savage's One Day Builds: How to Build a $5 Sword!
+aLI-6SmkJLU 1:02:15 Adam Savage's One Day Builds: Han Solo's Holster Belt!
+ziIKLeacBDo 18:52 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 4!
+WfJtqnSexss 29:01 Adam Savage's One Day Builds: Restoring a Fabric Chair!
+AumnIehXwyI 35:57 Adam Savage's One Day Builds: Staple Sorter and Organizer!
+csu4jQNFfzA 32:44 Adam Savage's One Day Builds: Drafting Tools Sorting Drawer!
+1NWAxkDZ9xs 34:13 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 3!
+gygyNt2AnKA 26:24 Adam Savage's One Day Builds: Giant Swiss Army Knife Repair!
+inQ16HamIWk 52:25 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 2!
+lsXLGT5N2uo 1:17:55 Adam Savage's One Day Builds: Ghostbusters Ecto Goggles + Vacuum Former Rebuild!
+Pb1BpA7QN3U 47:41 Adam Savage's One Day Builds: Hellboy's Samaritan Prop!
+HWnDC6KzLg8 28:19 Adam Savage's One Day Builds: LEGO Mandalorian Razor Crest!
+chbZJAJ9y68 25:33 Adam Savage's One Day Builds: Miniature Shipping Container!
+7aGfiNy9Oos 28:23 Adam Savage's One Day Builds: Table Saw Fence Upgrade!
+BEVEYvAO3rI 21:32 Adam Savage's One Day Builds: Car Seat Dog Bed!
+8PEc5blz_fY 21:20 Adam Savage's One Day Builds: Planer and Spindle Sander Station!
+BbrQ4OX-1-E 32:29 Adam Savage's One Day Builds: New Cut and Sew Station!
+XVEww6Ylw5c 41:23 Adam Savage's One Day Builds: Thread Tapping Guide Block!
+EXaDxl60rTQ 54:24 Adam Savage's One Day Builds: Brass Watering Can!
+OxkszitNWN8 17:46 Adam Savage's One Day Builds: Upgrading Captain America Shield!
+lp85yyPSP10 43:29 Adam Savage's One Day Builds: Custom Workshop Apron!
+ivaxOv25RaI 16:13 Adam Savage's One Day Builds: Letter Stamp Holder!
+J170jeH0yXU 34:59 Adam Savage's One Day Builds: Foam Prop Safe!
+BTGN5QNyA-8 42:41 Adam Savage's One Day Builds: Machinist Tool Drawers!
+4MVxJNawefM 23:26 Adam Savage's One Day Builds: Tintype Photo Clamp for Gary Oldman!
+m-ayU2GCQ_Q 34:50 Adam Savage's One Day Builds: Drill Press Modification!
+_KfaSiD-7iY 38:35 Adam Savage's One Day Builds: Lathe Chuck Rolling Rack!
+fru2G4bGL14 40:30 Adam Savage's One Day Builds: Lathe Tailstock Repair!
+98MCz9gQaiE 32:41 Adam Savage's One Day Builds: Giant Nut and Bolt!
+R-De84JfQBU 24:26 Adam Savage's One Day Builds: Spacesuit Display Stand!
+eiQuBonhGiw 31:00 Adam Savage's One Day Builds: Workshop Filming Slate!
+EWXcnVTY3pk 46:48 Adam Savage's One Day Builds: Air Tools Sorting Boxes!
+ieDYlkJTNYI 20:38 Adam Savage's One Day Builds: Custom Pistol Whip Controller!
+hIs3lioHoAo 21:44 Adam Savage's One Day Builds: Headphone Rack!
+qE68mYkpZvQ 31:02 Adam Savage's One Day Builds: Portable Audio Recorder Rig!
+oSHoo_thI2Y 37:24 Adam Savage's One Day Builds: Front Porch Table!
+TsWG4nSi-Hs 42:45 Adam Savage's One Day Builds: Stitching Pony Clamp!
+frwLir1A_qg 42:55 Adam Savage's One Day Builds: Making a Stable Workbench!
+ritwf-_iOlg 1:08:55 Adam Savage's One Day Builds: Mini Chop Saw!
+-xWGRVL-ExA 18:38 Adam Savage's One Day Builds: Mini Machine Vise!
+65r_1TzJXaQ 50:07 Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!
+vOROGorDG6s 33:34 Adam Savage's One Day Builds: Fiber Optic Microscope Ring Light!
+A3-9Vk_2be4 32:31 Adam Savage's One Day Builds: NASA Retro-Reflector Replica!
+TT8PzFaZ0Zw 36:54 Adam Savage's One Day Builds: Lithium Ion Battery Charging Station!
+I7U-QCTS9Os 39:29 Adam Savage's One Day Builds: Repairing Vintage Aviators!
+nCrB0FnW__s 28:19 Adam Savage's One Day Builds: Movie Sword Rack!
+0nLlCmZspVM 20:57 Adam Savage's One Day Builds: Tweaking the Table Saw!
+yWRLz_r_d3A 33:32 Adam Savage's One Day Builds: Little Thwacker Hammer!
+ZNwvjaIW-pU 1:00:10 Adam Savage's One Day Builds: Making a Die Filer Machine!
+eVnWyEvT-KY 27:09 Adam Savage's One Day Builds: Lathe Infrastructure Upgrades!
+PLHUcP8LfkM 1:28:25 Adam Savage's One Day Builds: LEGO International Space Station!
+jPAGZpNZrwU 54:21 Adam Savage's One Day Builds: How To Build a Box!
+z_Ti4GP0ntE 1:07:08 Adam Savage's One Day Builds: Refrigerated Cooling Suit!
+ZjpPgv9XtJA 19:46 Adam Savage's One Day Builds: Thermal Detonator Kit!
+SgCJeoDNmYU 41:21 Adam Savage's One Day Builds: Poker Table!
+x8YTMPuvTGw 33:49 Adam Savage's One Day Builds: Dinosaur Skull Lamp!
+Bw-ttd_EELA 13:54 Adam Savage's One Day Builds: Rickshaw Carriage!
+TqWhLPsEJE8 23:21 Adam Savage's One Day Builds: A Fake Can of Beans!
+8uGS11yuVyo 34:37 Adam Savage's One Day Builds: Portable Soldering Station!
+JMv0PlMKkbs 20:54 Adam Savage's One Day Builds: Gaslamp Lantern Prop!
+6ps4vbQ6Tk0 28:02 Adam Savage's One Day Builds: Workshop Hardware Storage!
+3JRbGcyPUnk 26:11 Adam Savage's One Day Builds: Custom Beat Saber Hilts!
+MP5pbJ6Ajjc 24:32 Adam Savage's One Day Builds: Space Camera Shroud!
+kjxdWnUBmpU 37:16 Adam Savage's One Day Builds: No-Face Animatronic Mouth!
+Dt6BQPNGGTw 41:52 Adam Savage's One Day Builds: Star-Lord Cosplay!
+vqqEFEgx-ZI 35:00 Adam Savage's One Day Builds: Star-Lord's Walkman!
+3jdF1yVBWdc 20:09 Adam Savage’s One Day Builds: Project Egress Apollo Hatch!
+Srg47mr4X5A 14:01 Adam Savage's One Day Builds: LEGO Lunar Lander
+Bh6C2O77EpI 14:39 Adam Savage's One Day Builds: Cave Museum Display!
+YZV4A4Kl0yM 28:20 Adam Savage's One Day Builds: Hero Prop for TV Show!
+2NYtPWhdhhQ 15:54 Adam Savage's One Day Builds: Iron Man Armor Stand!
+7uS7A4x31PY 34:16 Adam Savage's One Day Builds: Scratch-Built Spaceship!
+vCi5usulDIo 1:20:48 Adam Savage's One Day Builds: Swordmaking at Weta Workshop!
+7oGslDjTnHI 29:33 Adam Savage's One Day Builds: Mortal Engines Hand Cannon!
+6iIZ9rnS6HU 1:02:24 Adam Savage's One Day Builds: Eric Idle's Guitar Case!
+ZfvtGrhYk0I 26:44 Adam Savage's One Day Builds: Kit-Bashing and Scratch-Building!
+MxLOoriXkMc 46:22 Adam Savage's One Day Builds: Overengineered Bottle Opener!
+GEhBPI2QVBI 0:34 Last Call for Adam's One Day Builds T-Shirt!
+QCBcWm85gWo 15:33 Adam Savage's One Day Builds: Kit-Bashing a Robot!
+BpaYqFd5S5c 0:48 Adam Savage's New "One Day Builds" T-Shirt!
+WnJDYjbWCwI 1:10:53 Adam Savage's One Day Builds: The First Spacesuit!
+AXzurpmc8SE 39:15 Adam Savage's One Day Builds: Everyday Carry Bag!
+G7MDrUG4cws 36:59 Adam Savage's One Day Builds: 1000 Shot NERF Blaster!
+9XB4Be6TjHU 55:21 Adam Savage's One Day Builds: Snub-Nosed Blade Runner Blasters!
 JL3uZ88vA_0 19:54 Adam Savage's One Day Builds: Custom Workbench LED Lamp!
-BYQ7MXhg1GY 9:52 Show and Tell: Laser-Cut Memory Sphere Display
 F48rk7h-GDo 35:33 Adam Savage's One Day Builds: Foam Ringwraith Gauntlet!
-eZTx6G8z9wA 22:44 Worst Space Billionaire Plot? Offworld episode 4: Moonraker (1979)
-xj6XRUj81Zw 15:54 Testing a Laser-Cut Mini Boat!
-P99037H-Bac 26:14 Storyboarding a Stop-Motion Animated Film
-RHbLEgmQjcQ 23:22 On the Shooting Set of Aardman Animations' Early Man!
-MBdOPgsfdGA 12:29 Designing the Stop-Motion Sets of Aardman Animation's Early Man!
-MBoQPTdOLlQ 4:23 Show and Tell: Augmented Reality Model of the Moon
-eNnjpTXdiJ8 4:57 Tested Mailbag: Mercury Spacesuit-Inspired Shoes
-NnmwaTVihAM 6:24 Organizing a Stop-Motion Film Production at Aardman Animations
-g_RGiFrnK8Q 12:43 Giant LEGO Computer Console Model!
-wGa-eBLH11Y 15:08 Animating Stop-Motion Characters at Aardman Animations
-4n1HO1THh8I 6:54 Show and Tell: Fat Shark 101 FPV Quadcopter
-tIX15aiy4TM 6:02 Adam Savage Meets Aardman Animations Director Nick Park!
-stSYs7a2UHE 23:11 The Stop-Motion Puppets of Aardman Animations!
-Hy3SErA6R_M 22:18 What's Space Camp like? Offworld, Episode 2: Space Camp (1986)
-E5t_DXgZmFM 10:15 The Clay in Stop-Motion Animation at Aardman Studios
-a5idlVDdwls 4:34 Tested Mailbag: Power Loader LEGO MOC!
-SvHLsI4OfdA 13:23 Testing the Shaper Origin Handheld CNC!
-xNjbYwXaPDI 26:03 How are we searching for aliens? Offworld, Episode 1: Contact (1997) with Dr. Jill Tarter
-YoM1e7_hWIA 6:33 Inside Adam Savage's Cave: Gods of Egypt Stunt Weapons!
-Qsdns4hhAxk 4:17 Show and Tell: Microscape's City Miniatures
 wl558EoTuEQ 30:19 Adam Savage's One Day Builds: Blade Runner 2049 Binoculars!
-wHvLlH-aZxI 3:52 Our Favorite Projects with Frank Ippolito!
-nM8OCxceK2E 10:37 Plasma Cutting a Tested Logo Sign!
-J8V9ZMjP9As 3:53 Adam Savage Opens His Imgur Secret Santa Gift!
-xguSbuThulc 9:48 Adam Savage Opens His Reddit Secret Santa Gift!
-8OTwT0WFBmg 27:58 Building a CNC Router and Plasma Machine!
-DWu9z20_h-o 29:40 Testing: Multi-Material and Multi-Color 3D Printing!
-_8RN01G-fuU 13:01 Behind the Scenes: LED Studio Lighting in Tested Productions!
-BDZDJaj_vOk 9:44 3D-Printing the Star Wars Battlefront 2 Messenger Droid Helmet
-kz1Sa3JjmYI 2:07 Tested Mailbag: Surprise Christmas Tree Ornament!
-vdPh-6IREWA 1:00 We Need Your Input and Feedback!
-IMg6uiTZG8g 7:00 Making a San Francisco Sutro Tower Scale Model!
-hOe7VPUQHJU 15:08 Tested Live Show 2017: Mechanical Pong!
-42ZXaL-oU60 24:09 Tested Live Show 2017: Science Friday's Undiscovered
-FNPn7B6n-Iw 15:39 Tested Live Show 2017: The Most Important Part of Sausage
-7O4vfA03h-Q 9:28 Making a Body Form for the Star Wars Battlefront 2 Messenger Droid Cosplay
-Ix_eKtEYZFw 17:52 Tested Live Show 2017: Allen Pan Deconstructs Thor's Hammer!
-0UVHiVy9jjk 13:48 Tested Live Show 2017: Simone's New Applause Machine!
-0CotcLbm1jE 13:25 Adam Savage's LEGO Han Solo Blaster!
-S9Jvf5EzCGI 13:37 Tested at the BALLS 2017 Rocket Launch Event!
-OHfHzAz70gU 14:42 Glen English's Scratch-Built Motorcycle Replicas
-Yirumj7Ftr8 7:37 Making the Creature Costume for "Yoshua"
-A7u1CVe9BYE 23:08 The Making of Adam Savage's Chewbacca Mask!
-F1PI1FOYJoM 10:43 Lifelike Animatronic Abraham Lincoln!
-7Rt6ohHQg6M 15:26 Adam Savage Explores Star Trek Costumes and Props!
-cNysz0nnopk 16:45 Regal Robot's Awesome Star Wars Furniture and Art!
-sw_xSzgoFmU 15:56 Adam Savage Learns about Prop and Animatronic Restoration!
-OU7RIwQpzzo 6:27 Adam Savage's Maker Tour: Making a Wooden Bowl
-I88amr7JpwQ 6:04 Scatch-Built Miniature Models of LA City Streets
-Qr1p5R6KU8s 7:15 The Art of Custom Mechanical Keyboard Keycaps
-INRnuut6nTE 8:07 Artist Jason Freeny on Toy Design and His Anatomical Sculptures
-IdaX96pvI1E 32:13 Adam Savage Tours the Jim Henson Exhibition!
-nsy7P48EL2o 8:36 Adam Savage on Blade Runner 2049's Massive Water Set!
-OgCggQ7RY6w 5:10 Heavy Poly's Hoverbike Resin Garage Kit!bmuw3BqTX8Y 9:17 Adam Savage's Maker Tour: Lower 48
-pLfo8f11uVY 8:23 Rock-afire Explosion Billy Bob Figure Prototype!
-6VhU_T463sU 5:05 The Making of Hela's Headdress from Thor: Ragnarok
-p0ACKtJgXpM 8:50 Sculpting the Star Wars Battlefront 2 Messenger Droid Mask
-eaJhTDkR-Pk 9:46 Machination Studio's Mechanized Armored Walker!
-zMsBtOPMeIw 2:41 Adam Savage Explores the Blade Runner 2049 "Farmhouse" Set!
-bmUtS3KAb0A 4:39 Adam Savage Visits The Crucible Maker Space
-3F1fHnXmxLg 14:13 Adam Savage's Maker Tour: NIMBY
-XzTg8-ZST50 9:44 Inside Adam Savage's Cave: The Deep Blue Bag
-XINwlwgprBM 5:26 Star Trek LCARS Mechanical Keyboard from Roddenberry Entertainment!
-1fAk0CObPE4 21:15 Adam Savage Explores the Props of Blade Runner 2049!
-U5rlLL7cOtw 15:06 Adam Savage and Vsauce's Michael Stevens Geek Out Over Watches
-Vs4HqezCbE0 5:41 Star Wars Battlefront 2 Messenger Droid Cosplay!
-c_9iv9HwO5Q 6:32 Adam Savage's Set Tour of the Blade Runner Universe!
-kXVZF41-Fp0 19:41 The Orville's Krill Makeup Demo at KNB EFX!
-bt03QFQ0koU 4:47 The Weird World of Bootleg Toys
-oTiWLYKXuQ0 6:52 Toyqube: Turning 2D Art into Sculpted Collectibles
-itBGEiGTr00 13:31 Adam Savage Incognito as 2001: A Space Odyssey's Moonwatcher!
-cXQUObfBXYk 5:48 Adam Savage Becomes an Extra in Blade Runner 2049 Short!
-ZTNOGfr7QFU 7:49 Star Wars Slave I Studio Scale Model Replica!
-CU0B5XdzEwY 8:11 Star Trek Starships Collection at NYCC 2017!
-FqdsYn9TdWQ 8:05 Adam Savage Examines the Blade Runner 2049 Blasters!
-qSX9hhHU2xg 20:54 Adam Savage's Maker Tour: Ponyride
-CfbGxtE7-LU 8:27 Futuristic NASA Spacesuit from 'The Martian'!
-Owa7wVAdkA4 1:08 Announcing Tested: Deconstructed Live Show!
-gc1x1CexBKI 35:46 Let's Build: LittleBits Droid Inventor Kit (with Anthony Carboni!)
-VZ-5U1xGEb0 20:02 How To Make a Silicone Brush-Up Mold!
-CEcrgOuBiUM 12:00 Adam Savage Explores the Science-Fiction Spacesuits of FBFX!
-QKlrY33asnE 8:47 Adam Savage's Maker Tour: Incite Focus' Open-Source Adjustable Table
 H9L3pX8zTPE 10:27 Adam Savage's One Day Builds: Cave Bathroom Upgrade
-SnWAF7vNbaM 4:18 Adam Savage Listens to his Vinyl Record Test Pressing!
-IQZFmozrdaA 29:52 Adam Savage's Maker Tour: Incite Focus
-XWqiGi-KSSE 52:39 LEGO with Friends: UCS Batman Tumbler, Part 1
 8qvlpRBeMNY 25:19 Adam Savage's One Day Builds: Foam Cosplay Sword!
-r3Vh5Xj9K_E 13:08 Casting a Glow-in-the-Dark Slimer Model!
-m16_lObyanw 3:23 Announcing the 2017 Tested Premium Community Gift!
-1qg5s-LPvrE 7:33 Starlord's Hero Helmet in Prop Store's Live Auction
-j9uRckJLqLk 8:36 The 3D-Printed Curta Calculator
-T_mwsQCHU74 11:08 How To Use Spray-On Chrome on Resin Castings!
-1won7AYden0 7:02 Adam Savage Gets Scanned and Replicated in Foam!
-9YIQgfk0Hcc 1:23 Shop Tips: Storing 3D Printer Filament
-EZX9spm4LU0 4:23 Adam Savage's New $30 Blade Runner Blaster
-YNqamYSvPOM 7:03 Simone Giertz Goes to CERN!
-Fef_lS6nm70 13:31 Making a Large Laser-Cut Dymaxion Globe!
-JtKi8lNSqvw 30:32 Adam Savage's Maker Tour: MIT's Center for Bits and Atoms (Part 4)
-GPwY7O8HS5k 9:40 Adam Savage's New Thracian Warrior Armor!
-SyDJRxDLV14 17:11 Phil Tippett's Lost Star Wars Holochess Figures
-1ah2oALAk0Y 4:34 Adam Savage Meets Alien: Covenant's Xenomorph Animatronic!
-kyywuojz8f0 7:58 Adam Savage's Maker Tour: MIT's Center for Bits and Atoms (Part 3)
--1YEigQ8ch8 15:05 Laser Cutting the Maker Puzzle, Part 3
-i8GD33DsRw8 58:11 Adam Savage and Vsauce's Michael Stevens Build a Kendama!
-IeO2yamsjiQ 16:34 Adam Savage Incognito in the Alien: Covenant Spacesuit!
-WcS7RsPTiUY 50:31 Building an AMD Ryzen PC for Video Editing!PF4A4wdnXkU 27:45 Adam Savage Visits Third Man Records!and VR Cover
-dnGoJv3vmLs 3:12 Bandai Perfect Grade 1/72 Millennium Falcon!
-HqwiZZ-uPDc 4:53 Anatomy Tools' Sculpting Reference Maquettes
 BGlcF4Bpg78 37:01 Adam Savage's One Day Builds: Excalibur Sword!
-44Hjx9uf1hI 6:02 The Scratch-Built Mech Model Kits of Luca Zampriolo
-NZeEtF1jmfM 6:00 UD Replicas' Detailed Superhero Suits
-pY3Dwq4HOYM 4:40 Adam Savage Explores David's Lair in Alien: Covenant
-fdbdvlIrtg4 17:21 Magic Wheelchair Makes Awesome Costumes for Kids
-_PysPtkCtkg 5:57 The Stop-Motion Puppets of Laika Animation Studio!
-vI8E4cda_ww 9:21 Adam Savage Meets Richard Browning's Flight Suit!
-8deORCW6Qiw 6:30 Star Wars First Order Stormtrooper Blaster Kit!
-u-BxRb89Qsc 14:35 Adam Savage Geeks Out Over Weta Workshop Props from Spectral!
-uyYeMQ3otZI 7:58 Making The Lich King Armor for Blizzard!
-px2S_2TdBq8 14:50 Making a Star Wars Battlefront 2 Helmet for Janina Gavankar! (Sponsored)
-_kFC0CBjk1Q 16:05 Adam Savage's Maker Tour: MIT's Center for Bits and Atoms (Part 2)
-SKj3wlpYx8E 11:16 3D Printing Molds for Silicone Masks!
-jMyUi_umDZg 14:07 Tools and Techniques for Repairing Broken Camera Lens Filters
-RaHMDNf56W4 9:26 Adam Savage's Maker Tour: MIT's Center for Bits and Atoms (Part 1)
-CiL8GTXsL8M 8:15 Automated 3D Printing with Form Cell!
-yhJUh4QUe5Y 5:35 Adam Savage Visits Black Girls Code Workshop!
-gY-9LEKobAw 18:01 Laser Cutting the Maker Puzzle, Part 2
-J4qI8RC7QrM 7:37 Adam Savage Removes Camera Lens Filter with Band Saw!
-Yud8-l68vm8 14:09 Tested's Media Management Workflow!
-a-FHY5FNsWc 12:03 Adam Savage's Maker Tour: Making a Metal Fidget Spinner
-p8npZuQdf0Q 5:18 Tested Celebrates National Week of Making, Day 7
-GY1It4I7JXA 5:31 Tested Celebrates National Week of Making, Day 6
-JXS1oV1ESYE 3:57 Tested Celebrates National Week of Making, Day 5
-hxqn0RJIQn0 2:23 Tested Celebrates National Week of Making, Day 4
-tW_z6MZ1kyk 22:07 Adam Savage's Maker Tour: Artists of Artisan's Asylum
-9GEVucnjcrw 6:17 Tested Celebrates National Week of Making, Day 3
-SrRW6W0k6J0 3:23 Tested Celebrates National Week of Making, Day 2
-PQEBEWm1gOc 2:59 Tested Celebrates National Week of Making!
-0vfuOW1tsX0 27:12 Alonso Martinez's 3D-Printed Animated Robots!
 dqmF2_h8icM 38:35 Adam Savage's One Day Builds: A Better Tape Dispenser!
-lp39A2qPGQk 2:06 Shop Tips: Identifying your Fasteners, Nuts, Bolts, and Hardware
-8lT-nHeKR9g 9:55 Building a Working Miniature Apple II Replica!
-6IXD_d8OcF0 26:26 Adam Savage's Maker Tour: Artisan's Asylum
-JnnqmxHF1QE 8:04 Adam Savage Assembles the Maker Puzzle!
-M2bx_q1P4AM 4:58 Customizing a Pelican Case with Our Laser Cutter!
-IrFYt3uUdrI 18:34 Formlabs Fuse 1 SLS 3D Printer Demo!
-xpkcg2K6Ras 16:53 Adam Savage's Maker Tour: 49ers STEM Leadership Institute
-UxtUrloLlm8 20:08 Adam Savage Builds the LEGO NASA Apollo Saturn V!
-lQe4vm3DobA 6:45 Adam Savage's New Moon Model Globe
-ZGTnFohXGWg 4:41 Tested: HTC Vive Deluxe Audio Strap
-fTM-0tevCBM 8:59 Behind the Scenes: The Makeup Effects of Alien: Covenant!
-ifhYsCxj2CU 12:00 Cooking Sous Vide with ChefSteps Joule
-O3WAdt_yksg 14:58 Laser Cutting the Maker Puzzle, Part 1
-Y6ALUsXcZZU 5:27 Tiny Playable Arcade Cabinet Kit!
-ABK00ZncNG8 5:23 Restoring Showbiz Pizza's Animatronic Robots!
-aoS1iKaiWPY 4:04 Prusa i3 3D Printer Upgrade Prints 4 Colors!
-i5h821pEA0Q 5:59 CNC Router That Runs on a Robot
-ZKmJ1x2xfbY 3:48 Behind the Scenes: The Sounds On Set of Alien: Covenant!
-wznaCyVBnxw 7:19 Working 3D-Printed Car Engine Models!
-gL5llIO3NcU 18:54 The "Monolith", a Teensy-Powered Interactive Synthesizer!
-8n8ywfqdGyE 57:59 Adam Savage's Maker Faire 2017 Speech!
-1TtYKEhLt9A 15:02 Tested: Fujinon's 18-55mm Cinema Lens
-puOgFtOVhLA 18:21 Adam Savage's Maker Tour: Stanford Adolescent and Young Adult Cancer Program
-y60q6U7NjTQ 19:43 Meet Maslow, the $350 CNC Cutting Machine
-R_p9z-tRzCs 20:57 History of the Camera Lucida Drawing Tool
-1JOSSwuOpZk 1:14 Announcing a New Show: Science in Progress!
-4ikfAQeMx5o 8:34 Tested: RIVER Mobile Power Station
-i_kr8mAM5Dg 7:54 The Creature and Special Effects of Alien: Covenant!
 9xpPXpnnCNI 39:25 Adam Savage's One Day Builds: Chewbacca and C-3PO!
-x9YUO7QeitU 7:51 Simone Giertz Tests the Makey Makey!
-hcBMnlPte9Y 9:33 Adam Savage Puts On Alien: Covenant's Spacesuit!
-RCW_7-odq_4 6:49 Tested Mailbag: Terminator Props and Costume!
-MTEyz_8Aiwc 18:19 Adam Savage's Maker Tour: Albert and Tina Small Center For Collaborative Design
-TF9bf9uKQQk 14:12 Adam Savage Cooks the Impossible Burger with Traci Des Jardins!
-YyDMlXEZqb0 5:54 Tested: Thermal Imaging CPU and GPU
-nhJQSUwcHEs 11:46 Alien Covenant's Armor, Weapons, and Blood Effects!
-H6JQesX0tFA 8:38 Adam Savage Incognito: Double Totoro!
-JSdFnM_rPMQ 3:12 Tested Mailbag: Foam Props!
-5ckzgnAU33Y 9:27 Adam Savage's Maker Tour: Travis Early College High School
-99agf1QHSwI 11:03 Adam Savage: The Enemy of Science is Bias
-f5gxApaRczQ 5:02 Adam Savage Behind the Scenes of Alien: Covenant!
-UhIdclSF_qs 11:40 Adam Savage Incognito as Chewbacca with C-3PO!
-mX2tsl_lLXw 15:59 Adam Savage's Maker Tour: Thinkery
-2VLx7e9glwc 6:17 VertVixen's 3D-Printed Lich Queen Armor!
-Ey4plfNX9xM 5:35 Intricate Animatronic Music Boxes!
-7hJEuWAfSPY 10:22 Maker Spaces: Touring Frank Ippolito's Upgraded Shop!
-WpOSKRmTap8 3:12 Adam Savage Gets 3D Scanned on the Expanse Set!
-ik4r2pGMsog 7:42 Fan-Made Tomorrowland Jetpack!
-7m6qKjD0wKE 1:48 Adam Savage Demonstrates Blind Spot Detection Technology
-T7c5kFSEk3s 11:36 Making a Life-Size K-2SO Droid Puppet!
-Zv7xOAxk6Mc 6:46 Adam Savage's Maker Tour: Carnegie Mellon's IDeATe Lab
-3KfsGHDenNA 3:21 The Creature Effects of Pat Magee
-4yqX-P6PKkk 7:53 Making Superhero Costumes for Hollywood Films
-PaJ2CtTsk8I 6:15 Creature Sculpting and Concept Design at Monsterpalooza
-sgfYJj8_pNg 1:13 Adam Savage Tests Lane Keeping Support
-IPcWWYTzqv4 9:54 Nick Marra's Incredible 'Quint' Sculpture from Jaws!
-mEfTi57pXSE 3:11 Adam Savage Chats With The Expanse's Wes Chatham!
-4ZUJqEd_AXM 4:47 Mike Hill's Bride of Frankenstein Sculpture
-QpuT92ymy3Q 1:28 Adam Savage Experiences Crash Imminent Braking
-MEqKTjE50FI 6:48 Hyper-Real Ren and Stimpy Masks!
-jQ1v_ONZo98 14:47 Adam Savage's Maker Tour: Human Engineering Research Laboratories
-2atm-Iq_ww0 14:03 Monsterpalooza 2017 Walking Tour!
--YmBm7alNKU 7:26 Catching Up with BB-8 Droid Builders at WonderCon 2017
-MNc74kTzVyQ 6:46 Star Wars Mouse Droids Fan Builds!xKtQ-fplUgo 1:42 Adam Savage Shoots an Expanse Prop Machine Gun!RAhXfv4XbLg 1:18 Adam Savage Tests Forward Collision Warning
-ZGR1NDNSROI 9:16 Simple Science Project with Physics Girl!
-8nWJSwkhxdI 4:58 Original Power Rangers Helmet Prop!
--YxRzUVhpkM 5:32 2001: A Space Odyssey Discovery Model Kit!
-FxsPtEzCC1k 1:03 Adam Savage Demos Pedestrian Automatic Emergency Braking
-LeAidkWM8tU 5:17 Adam Savage's Maker Tour: Carnegie Science CenterEpGYkb4s_1M 20:09 Walking Tour of WonderCon 2017!
-S7FG0Jv15jg 2:43 Adam Savage Prepares for His Expanse Cameo!
-a-HKrbPRSVM 17:32 Tested Arctic: A Short Film
-xT9wpjhbDLw 11:00 Adam Savage's Maker Tour: Elizabeth Forward High School
-1nqzrpq4jVU 1:07 Adam Savage Is Joining the March for Science!
-Lk6g7mSMFUs 7:29 Show and Tell: Our New Shop Laser Cutter!
-HwJdYxRwxoo 18:59 Modelmaking Toys with Virtual Reality Sculpting
-oXphx5mpv5k 1:13 Shop Tips: Using a Durometer Tester
-Yq7r3HFCCq4 9:21 Adam Savage's Maker Tour: Children's Museum of Pittsburgh
-uYAGDfXPRzU 28:32 Tested: Blackmagic URSA Mini 4.6K Cinema Camera and Color Grading
-WxUoqIrXd9E 6:45 How Weta Workshop Made Ghost in the Shell's Robot Skeleton!
-2sRXD2VHd30 14:28 Adam Savage Embarks on His Makerspace Tour!
-hlUQgj2jhzs 6:44 Adam Savage's SXSW Makers Scavenger Hunt!
-BdQNUeuDpxE 5:21 Making a Better Nintendo Switch Stand!
-YKufwAJxumE 0:41 Shop Tips: Keeping Your Digital Scales Clean
-nbCyXVEVpKk 5:50 How Weta Workshop Made Ghost In The Shell's Thermoptic Suit!
-tjgkCf4G9R0 15:32 The Work in Process: Vectorizing Drawings for Laser Cutters
-KosBvDyWgnA 13:34 Adam Savage Behind the Scenes of Ghost in the Shell!
-TU3q_rXMHz8 4:11 Show and Tell: Weta Workshop's Giant Killer Robots Board Game
-jitCQtP4npY 4:43 Tested: Positive vs. Negative Air Pressure
 1gJ4_Hc17cM 35:38 Adam Savage's One Day Builds: Chewbacca's Bandolier!
-ez1oPe0pMiA 25:51 How To Mold and Cast Foam Props!
-kE_e323FofM 12:37 Tested: Sony a6500 Mirrorless Camera
-EPe93qavQFc 2:10 Adam Savage Catches Lightning in a Bottle - Unimpossible Missions
-LWktnug6J2I 4:10 Shop Tips: Using Spray Paint Nozzle Tips
 cwOXSXkW-uE 31:49 Adam Savage's One Day Builds: Custom NERF Rifle
-QXwe51lkJ6M 11:35 Adam Savage Examines the Props and Spacesuits of The Expanse!
--fJoWSOYn6U 5:00 Adam Savage Explores the Costumes of The Expanse!
-K-YoOYEzuws 3:17 Adam Savage Talks to a Wall - Unimpossible Missions
-XuBo_lHvgjQ 3:38 Shop Tips: Cutting Foam for Propmaking
 -HfaLqmRO1k 21:52 Adam Savage's One Day Builds: Ping Pong Machine Gun!
-DzQJ-h2UJDc 4:04 Simone Giertz Laser Cuts Her Secret Santa Gift!
-Ymux31cmZcU 2:53 Adam Savage Gives a Snowball a Chance in Hell - Unimpossible Missions
-lSl-dgvmg68 4:24 Shop Tips: How To Properly Clean Your Paint Brushes
-4Ir4y2JwbEw 26:28 Tested: Driving the Chevy Bolt Electric Vehicle!
-J4HSmv5PLeo 11:19 How MegaBots is Building a League of Giant Fighting Robots
-oOhN9Q3Y1fM 2:39 Adam Savage Unrings a Bell - Unimpossible Missions
-p4vRNjur7nc 3:47 Adam Savage's Apollo A7L Spacesuit Replica!
-FRl8m-zTO3c 5:55 Meet the Picobrew Home Beer Brewing Machine
-tGOB0Rf5DI0 3:18 Adam Savage Fights Fire with Fire - Unimpossible Missions
-uMho8iFZby0 4:07 Tested Mailbag: Apollo 11 Hardware Poster!
-wcP98zlwojE 6:43 Razer's "Project Valerie" 3-Screen Gaming Laptop Prototype!
-z9So2VzcflY 9:58 Adam Savage Checks Out Weta Workshop's "Giant Killer Robots"
-SYy2Ov8OHAY 5:47 Weta Workshop Artist's Hand-Sculpted Skulls
-BmTcYfn618U 9:42 Learning about Silicone Prosthetics at Weta Workshop
-tnBa-3d-70c 6:00 Adam Savage at Weta Workshop's Model Painting Shop!
-8G_oYnnUqJg 7:20 Inside Weta Workshop's Collectibles Department!
-fhGIkttRiQs 7:45 Weta Workshop Sculptor's Labyrinth Model
-K1vMaYlptNg 19:24 Adam Savage Goes Behind the Scenes of Thunderbirds Are Go!
-8buG9E37AKQ 2:45 The White House's SXSL: Designing Adaptive and Assistive Technologies
-0y7QFmiZrf4 3:57 Adam Savage Opens His Secret Santa Gift!
-DwHruarHj40 8:03 Planet Express Spaceship for Futurama Fan Film!
-LCdJJqVWQ1M 13:32 Behind the Scenes of the Futurama Fan Film!
 M4M3I0nXEMI 23:41 Adam Savage's One Day Builds: Vsauce Glasses Hack!
-fuRdfJXpUZo 2:00 The White House's SXSL: Making Programming More Accessible
-NvqorYw72B8 6:17 Adam Savage Interviews Naren Shankar of The Expanse!
-rvCgPRzOa3s 17:02 Behind the Scenes in The Lion King's Puppet Shop
-YUdse5fl3bw 11:30 Tested: Blackmagic Micro Cinema Camera
-CFEnQzvRe9Y 5:28 Adam Savage Interviews the Creators of The Expanse!
-xrTtVZzJ0Do 3:52 Adam Savage Chats with Chef José Andrés at The White House
 G96YQQ7vW8w 20:26 Adam Savage's One Day Builds: Pedal-Powered Strandbeest!
-IiQykhvPG-Q 2:21 Star Wars Rogue One Death Trooper Replica Helmet by Anovos!
-7fYrEC_WDN4 10:04 Tested: DJI Phantom 4 Pro Quadcopter Drone
-2lvpk74mWPM 8:42 Tested: HP Omen 17 Gaming Laptop
-l-tRS_ERYH4 9:07 Making an Aliens Power Loader Suit for Ripley the Puppy!
-VH7xZKV4EME 8:41 Peter Jackson and Adam Savage Open John Chambers' CIA Make-Up Kit!
-Pf8sKAuzR0k 34:18 Professional Sculpting in Virtual Reality with Oculus Medium
-C7iJWO7Q_Uk 29:29 Tested: Oculus Touch VR Controller
-o8tcbpxYwSc 5:07 Ruben Cabrera's Eyestranaut Toy Concept
-nHzrMBNBWu0 7:08 Elaborate Custom Dioramas for Action Figures!
-Fjuadt-_VDc 6:48 Sculpting Gas Masks and Helmets from Sneakers!
-eIbYsYqZxPQ 10:09 Peter Jackson's Original King Kong Stop-Motion Armature
-C7DH0LTNsZQ 4:19 The Taxidermy Diorama Art of Brooke Weston
-Xf4PDt4ThfA 9:21 Tested: Stalling and Rolling in a Biplane!
-rU4_qj8eJ_0 6:25 Sam Cobb's Amazing Automata Sculptures!
-telMVIbLucU 26:42 Walking Tour of DesignerCon 2016!
-cZDbWHfmPU4 6:17 DesignerCon 2016: Miss Monster's Masks and Sculptures
-_dr_F2Aho2Y 10:45 Adam Savage Tours Tom Sachs' Space Program Exhibit!
--7XIvORSyXU 11:15 Features Not Standard: Building a Motocross Mobile Pit Stop!
-BkwTVbqH-88 7:01 Adam Savage Tours Peter Jackson's Movie Prop Collection!
-YBqlDwdR3NI 18:04 What's New: DJI Phantom 4 Professional and Inspire 2
-y5CqPCJK4ZQ 3:35 Show and Tell: Astro A50 Wireless Gaming Headset
-8rrMzgexgH4 10:59 Making Laser-Cut Mechanized Hands for Creature Effects!
 7JrCejRYGAM 56:27 Adam Savage's One Day Builds: NASA Spacesuit Parts!
-pY_x-tLZqQ4 14:43 Features Not Standard: Weather Balloon Launch and Recovery!
-V02oCPDj5u4 7:07 The Star Wars Concept Art of Ralph McQuarrie
-0EVmJWuQjJE 9:11 Microsoft's Surface Studio and Windows 10 Creator Update
-YO1E7DBuqtc 2:23 Between Worlds: Augmented Reality in Storytelling
-MuNMeLwXPeg 7:49 Adam Savage's Zorg ZF-1 Prop Replica!
-NMUecLjmw9Q 3:59 Show and Tell: Laser Cutting Norm's Wedding Favors
-_DsK65T6AxQ 13:54 Adam Savage and John Scalzi Chat Sci-Fi!
-BdMqIUGZ3QQ 4:41 Izmojuki's Beautiful Urban Mech Robot Model!
-XFVwO42Ny8A 9:14 The Design and Development of High-End Collectible Toys
 L9O3KWrvxKA 42:47 Adam Savage's One Day Builds: Totoro Costume!
-qLC7R6eAkiY 12:19 Adam Savage and John Hodgman Talk Comics and Film!
-EpdEd5NbRtc 6:37 Adam Savage Chats Cosplay with Jay Justice!
-pPifX92BeGU 6:04 Adam Savage Meets Machination Studio's Codename Colossus!b54RAg-dFhs 7:56 Features Not Standard: Sous-Vide Ribs in a Truck!
-UhbOaBVSedE 20:32 Phil Tippett's Film Props and Special Effects Legacy
-r0ybnM03DwM 13:38 Adam Savage Learns Comic Art from Chris Eliopoulos!
-ODEZHq4IEKs 6:00 2001: A Space Odyssey 1/6th Scale Figures!
-Uie6efMPghU 4:35 3A 1/6th Scale Judge Dredd Figure!
-G-CJEXuy8rs 9:39 Tested: Hover Camera Quadcopter Drone
-kGF9uArH5dI 7:27 Adam Savage Meets Mouse Guard Creator David Petersen!
-hNel07iqsQc 7:45 Features Not Standard: Simone Giertz Builds a Bathtub in a Truck!
-X_vyVXuc1Rc 35:21 Oculus VR 'Santa Cruz' Prototype Impressions
-7mBdo75DtO0 11:03 Show and Tell: Game Frame Pixel Art Display
-pf9YlUWa128 6:18 Features Not Standard: Turning a Truck into a Treehouse!
-jBgDx3MK3aY 9:20 Features Not Standard: Adam Savage's Portable Movie Theater
-Pdj1bHqMWsQ 2:07 Watch BattleBots Matches in 360 Video!
-QVZLsw3tNSU 3:23 BattleBots Behind-the-Scenes in 360 Video!
-BQJ-c_Gci1w 3:15 BattleBots Rumble Matches in 360 Video
-CIo-epgTjCs 6:54 How USC's Automultiscopic 3D Display Works
-jB2zSY955SU 31:43 How To Build the 3D-Printed Cutaway Lightsaber Kit
-y_IS1T7O_qQ 5:06 How Virtual Humans Learn Emotion and Social Intelligence
--0oDYvbnt6M 16:39 Adam Savage Meets a Weebo Animatronic Robot!
-c6QJT5CXl3o 18:49 Digitizing Photorealistic Humans Inside USC's Light Stage
-2ErLOmGZQMA 10:44 Weathering Techniques for Cosplay Costumes
-IJbAqAqjFKI 13:50 Tested: VR Projects at USC's Mixed Reality Lab
-BDD2uEFjt-0 13:33 Making a 3D-Printed Sith Lightsaber Kit!
-MMaEP_NIjDg 1:44 Tested Mailbag: Adam's Cardboard Man!
-XOxmMurUv3Q 5:02 USC Mixed Reality Lab's VR Redirected Walking Demo
-l3pPfq6hjLA 19:09 Adam Savage Meets Aardman Animations' Puppets!
-wSc1bfTMn4I 9:53 Star Wars Han Solo in Carbonite Refrigerator!
-L7wxpEpyw24 4:11 Real-Life Futurama Hypnotoad Animatronic!
-u0U-LlB7teU 3:06 Adam Savage's Bear Cosplay Design Poster!
-SoMriIFuHgI 10:40 Tested: Shooting and Editing 360-Degree Video!
 0cQ91lO4pH0 30:03 Adam Savage's One Day Builds: Bear Costume!
-qVWVsiHp7UI 7:35 Futurama Fan Film Props, Puppets, and Costumes!
-xJ21Y3DmLkY 9:02 Star Wars: The Force Awakens Prop Replicas!
--Nx4N97SVNg 18:57 Painting the Realistic LEGO Cosplay Mask!
-z9zFt5t6FBc 6:23 The Fantasy Sculptures of the Shiflett Brothers
-XbkPbfTyFvE 11:52 Oculus Medium Sculpting Demo with DC Comics Artist
-P2O7vyKnYfo 15:28 Sculpting a Realistic LEGO Cosplay Mask!
-c7KYrPXvZSM 6:55 Real-Life LEGO MiniFig Cosplay!
-jCQtsAXnWS4 5:31 The Creature Sculptures of Dominic Qwek
-628p6_FmarM 11:05 Star Trek Beyond and Star Wars Costumes from Anovos
-DdtfLvg5LZ0 8:40 Black Panther and Suicide Squad Prop Replicas!
-SGTa4-bkrEQ 3:20 Back to the Future Delorean Time Machine Conversion
-E0qK_srR81U 8:39 Cutaway Millennium Falcon Model Miniature!
-gAwqvynkMeY 7:46 Ghostbusters Ecto-1 Replica Car!
-46lG4MMzwL4 9:30 Adam Savage's Star Trek Beyond Costume!
-wBbsWRtzp8E 11:08 Tested Goes to the 2016 Replica Prop Party!
-_eWmYzp1Ca8 1:17 2 Million Subs! Thank You from Tested!
-PQKBmeb5no8 6:23 Star Wars TIE Bomber Cross Section Model!
-quhA4ZtbX_U 6:23 Working "Lost in Space" Analog Computer Replica!
-3Zq8_LzlYfM 10:27 Dave Goldberg's Star Wars Model Builds!
-M0Sloitb9Jg 11:09 Adam Savage Visits the Stanley Kubrick Exhibition!
-BgL_6jWNP2c 21:14 How to Build a Foam Cosplay Helmet! (For Honor game)
-779RGOWsfOM 10:17 Testing a Drone Claw with Simone and Norm!
 qSr_qLkVqDw 19:08 Adam Savage's One Day Builds: Kylo Ren's Costume Gorget!
-NmSnKx2jELg 14:29 Making Historical Fantasy Cosplay Armor for E3! (For Honor Game)
-lVskyd1GPos 9:55 Test Riding the Segway MiniPro Personal Transporter!
-ZfumU7ss1Cg 2:59 Adam Savage's Overlook Maze Model at the Stanley Kubrick Exhibition!
-JB1x0O-bhrw 33:12 Adam Savage Tests the Best Ways to Sear a Steak!
-yAWgrwYq0iY 12:28 How To Slush Cast a Prop Helmet
-Z3KL7cC8bDw 4:51 Shop Tips: Respirators vs. Dust Masks
-6CWg22nRP_I 3:08 How Much Weight to Burst an Exercise Ball?
-Sup-IBtNCEI 11:47 Adam Savage's New Medieval Armor Costume!
-Xa3dqTViETM 55:06 Tested Builds: Painting Resin Model Kits, Part 1
-RlHsOYBaNCU 1:04 Ridley Scott on Why Science Fiction is Essential
-is4Ym5m31r8 1:17 Correction: Kylo Ren Helmet Prop Makers
-B4HQOa9chss 3:37 Adam Savage Celebrates the National Week of Making!
-2-AT7hRdyIg 8:10 Costumes and Props at Star Trek Beyond's Fan Event
-zYGVYLzN06g 9:55 Strandbeest: The Dream Machines of Theo Jansen Exhibit Tour
-jQdcaBEOVI8 12:06 How to Paint a Latex Zombie Mask!
-U02qqB-2nbs 5:14 Adam Savage Meets Theo Jansen's Strandbeest!
-AINgh4vF4VU 4:16 Show and Tell: SixKeyBoard Custom Keyboard
-NA2XJ7PTT3M 3:06 Shop Tips: Mixing Superglue and Baby Powder
-rCaNa2L-heE 6:54 Adam Savage's New Kylo Ren Helmet!
-gVeVYC6wqoU 1:42 Join the Tested Community! (New Poster!)
-QMR_GpsrIzM 3:35 Testing Hail Damage to Solar Panels!
-q3HBcWZkxn0 16:48 Tested Attends Autonomous Vehicle Track Day
-xv1yDV38UUQ 8:05 Tested: ODROID C2 $42 Tiny Computer!
-uecY5ikWdCI 3:43 Multi-Color 3D Printing with Palette Filament Splicer
-Zh9Xh2OA-j4 3:16 FLUX All-in-One 3D Printer/Scanner/Laser Engraver/Plotter
-KHTrK1L3jRk 3:33 Rubik's Cube Solving Machine at Maker Faire!
-mLOMYCWaDYU 2:56 Meet Kniterate, a CNC Knitting Machine!
-13872p-UynI 3:46 Pocket NC 5-Axis Desktop CNC Mill!
-kdLky-YkOVw 1:04:45 Adam Savage's Maker Faire 2016 Talk!
-iZkCLOolYo0 8:32 Adam Savage Meets Sci-Fi Ray Gun Replicas!
-hXDizTasY6A 4:30 Pocket CHIP $49 Indie Game Console
-MaDduAOWmYM 7:55 OpenROV's New Trident Underwater Drone!
-pM6LUQsvM3M 15:48 Tested: Mechanical Gaming Keyboards
-3GuZiNdeueI 5:23 3D Printed Open Source Telepresence Robot!
-MaQ6LeHS2rM 26:24 Tested Builds: Foam Propmaking, Part 1
-LdLnO2WJ5BE 40:49 Adam Savage Interviews District 9 Director Neill Blomkamp!
-MG-gf0A9WPM 2:30 Shop Tips: Save Your Silicone Pads
-Cacr1WeKOzY 6:13 Adam Savage's Vacuum Forming Machine
-O2thSsQrZUM 24:31 Carbon M1 Super Fast 3D Printer Demo!
-XwXpO_IAm6U 9:05 Maker Spaces: Inside Frank Ippolito's New Workshop!
-OLPUpsd58nQ 26:23 Adam Savage Meets Amazing NASA Spacesuit Replicas
-aRylsPJ4EGE 8:26 Tested: WeBoost Cell Phone Signal Booster
-elmx-suesKE 7:21 3D Printer Material You Can Sculpt!
-YXLzEm2i35M 13:06 Maker Spaces: Adam Savage Tours a Spacesuit Replica Workshop!
-EY0F0ER2m-w 11:37 Star Wars BB-8 Droid Replica 2.0!
-AMpuqFAt29M 3:23 The Martian Spacesuit Project: Patterning
-EBi_TqieaQ4 12:43 Ironhead Studio's Incredible Movie Costumes
-ng5T-bZwT40 5:14 The Amazing Art of Akihito
-_Vk-8vKc-QI 3:21 Awesome Monsters vs. Zombies Diorama!
-Gvx4OH_q4N0 6:45 The Best Creatures of Monsterpalooza 2016!
 3KpdjGlHB30 12:44 Adam Savage's One Day Builds: Iron Giant Bolt!
-sUB56nic3lk 12:11 Show and Tell: Rey's Blaster Replica Kit!
-BjZbAzUM9Ao 4:44 Tested: Eero Wi-Fi Router and Extender
 ssxCQuv3KzE 13:45 Adam Savage's One Day Builds: Foamcore House!
-BL0OvdTqzBs 5:28 Tested Visits the Shenzhen Electronics Market!
-m1HyEpxyBro 10:59 Simple Feats of Science: Liquid Nitrogen Experiments!
-pEa-qTf-BZw 1:48 Tested Mailbag: Codenames Box
-LOOhNpjVX_E 4:56 Shop Tips: Covering Your Work Tables
 U46Yo_6z_F4 21:30 Adam Savage's One Day Builds: LEGO Sisyphus Automata!
-UNAa5-uCowY 37:49 Tested: Driving the Tesla Model X w/ Autopilot!
-97eMRhbSGBI 1:21 Adam Savage Mini Science Fair Project
-EBieKwa2ID0 35:45 Tested In-Depth: Oculus Rift vs. HTC Vive
-2XhY6swcs_o 1:09:38 Tested Builds: Perfect Grade Gundam Kit, Part 1
-U4LZbewqB-E 23:29 Adam Savage and Simone Giertz Make a Popcorn Machine!
-8AKZk2ldPWs 0:24 Simone Giertz's Popcorn Machine!
-6MYc5aEsiKM 11:30 3D Mapping The Exploratorium with Matterport!
-pzh5tp0g_44 4:29 Show and Tell: Radian 2 Time-Lapse Motion Controller
-g01qhIqPeGw 2:16 Tested Mailbag: 3D-Printed Blaster!
-18EcIxywXHg 12:22 Oculus Rift Virtual Pinball Cabinet Mod!
-Ea5-htcUss0 8:06 Adam Savage Incognito as Comic-Book Hellboy!
-UZXL78b_D-4 9:22 Behind the Scenes: How We Light Our Videos!
-M9k6iS2siz0 9:20 Simple Feats of Science: Bed of Nails
-G-BSI5l_c0Q 2:29 Tested Mailbag: Adam Fan-Figurine!
-MsqF2NbHSXM 7:32 Shop Tips: Working with Water-Based Clay
-3735B42v-wI 4:02 Adam Savage's New Milling Machine!
-jTaeXuMQXx0 2:05:54 Episode 344 - The Inmates Are In Charge - 3/24/2016
-qQrXlfn7tJA 39:23 How To Build a $1000 Virtual Reality Gaming PC
-vGFRoWj0YOw 7:23 Installing a Video Card in the Razer Core (External GPU)
-1Cy2Qs_n1J8 3:21 Show and Tell: Sailing Ship Kite!
-Y4IyJYP42PY 20:22 Tested Builds: Fallout 4 Mini Nuke Kit, Part 1
-uvVwdBl5K7M 18:05 HTC Vive Final Hardware and Valve's The Lab Impressions!
-M72lRZ3R-VQ 21:16 Playing a Full Dragon Front Multiplayer Match in Oculus Rift
-lD4LF-9ou6E 43:48 Oculus Rift's Virtual Reality Consumer Launch Lineup
-7_vBVTbEYgQ 9:32 Filming MythBusters with a Custom Chase Car Camera Rig
-mri1MLhm43w 17:32 ILMxLAB: Star Wars and Cinematic Storytelling in Virtual Reality
-UslTgWF7fpY 5:08 Tested: Avegant Glyph Personal Theater Headset
-RXlpn2W5G1w 1:06:59 Let's Play VR: HTC Vive Demos!
-nwsDK_kSdPU 30:58 In-Depth with the 3D-Printed GhostBusters Ghost Trap!
 gcDCZ2TmTck 29:20 Adam Savage's One Day Builds: Hellboy Sword!
-z6KmX_poEV8 11:44 Making a Working Ghostbusters Ghost Trap!
-ZN5VuU9UjFo 8:20 Tested: Raspberry Pi 3 $35 Computer!
-zN4ftjzjooI 13:04 Visualizing Energy Inside a Microwave Oven!
-GEM0xbezsMY 3:59 What's in the Box: DJI Phantom 4
-oxQfWGMdwno 4:50 Shop Tips: Know Your Hot Glue Guns
 8UmBKWQ52oQ 27:53 Adam Savage's One Day Builds: Puppy Car Seat!
-etxb8eSQTt8 28:12 Tested In-Depth: Nexus 6P Android Smartphone
-4ELdR3XvQwA 32:05 Tested Builds: Stop-Motion with Action Figures!
-uFRaeUFa2oo 3:21 Tested Mailbag: Custom Hot Wheels!
-fBvaQPxXCGQ 11:21 Finishing and Painting 3D-Printed Models!
-rQvIINq6WJA 10:03 Replicating 'The Martian' Spacesuit, Part 1: Building Reference
-2gfjCncKZj8 4:03 Shop Tips: How To Pour from Large Containers
-TDwZ-LiDFl4 8:57 Tested: The $5 Raspberry Pi Zero Computer!
-epT11oriccU 12:26 Breaking Glass Panes with Car Speakers!
-wPUcfmVDRCM 14:34 Tricking Your Brain in Virtual Reality
-Cil7OT8bGik 28:31 Virtual Reality's Psychological and Behavioral Effects
-SBabu7ea9Zc 16:47 Tested In-Depth: Roku 4 Streaming Player
-JRKBxhVdvuU 2:46 Show and Tell: Adam Savage's New Bullwhip
-gXjldZpOLEk 2:03 Tested Mailbag: Catching Up!
-wggcGPMtsR0 7:06 Adam Savage's Custom Glue and Paint Carts
-HkILCsAOMcQ 38:06 Tested In-Depth: Formlabs Form 2 SLA 3D Printer
-t54t7k6pkYg 13:33 Designing a 3D-Printed Model Airplane Kit!
-FoG9Dc1YVLY 9:58 Destroying a Soda Can with a Ping Pong Ball!
-LXRWsMNaESk 9:14 Designing a 3D-Printed Prosthetic Arm!
-ITiJkdL5QEQ 9:05 Adam Savage Meets the Blade Runner Blaster Prop!
-lr-Okj4xmBk 22:54 Tested In-Depth: Apple TV (4th Generation)
-0IKPYx-NrOA 5:19 Show and Tell: Jason Freeny's Anatomical Figures
-WvTu_N-LB5Y 2:08 Meet Finn!
 JYwNuP7cwJs 35:37 Adam Savage's One Day Builds: Making a Puppet!
-O3PqiCGmn9M 18:43 Tested In-Depth: Dell XPS 13 Laptop (Skylake)
-Lg4tAIr4R2o 14:38 Adam Savage Meets STEAM Educators in Baltimore
-6mUakBwTwrQ 10:41 Meet Gordon Tarpley, C-3PO Suit Builder!
-6SS013Lf7P4 5:43 Adam Savage Inspects the Spacesuit from The Martian!
-MREQUtbXiYo 11:25 Designing a 3D-Printed Ducati Motorcycle!
-iR976W8_nfg 11:56 Building a Star Wars Shadowtrooper Helmet Kit!
-PC7HFvotXkA 4:42 LEGO Education Brings Building Kits to the Classroom
-xFltp_OE_I0 4:47 Meet the Hexo+ Autonomous Camera Drone
-rCy2cp0MTxw 6:20 PowerUp FPV Turns Paper Airplanes into RC Drones
-iDlFE1ekn1I 5:07 Meet the Acton Blink Electric Skateboard
-4Uhkmvd3XnI 13:48 Meet the Best $500 Pair of Speakers We've Ever Heard!
-O98kwszk6NE 12:44 Flying FPV Drones with Avegant Glyph Retinal Headset
-m2Vqbi71Lek 3:56 Meet Dell's New 30-Inch OLED Monitor!
-5cJKLZg53qw 10:58 Designing 3D-Printed Mechwarrior Mechs!
-2DRJ2oUK4-E 9:43 This 3D Printer Builds Full-Color Paper Models!
-zbD1V6EJjZk 14:45 In-Depth with Steam VR and HTC Vive Pre at CES 2016
-Cn-AwhYOHZE 7:30 Kodak's New Super 8 Camera at CES 2016!
-JQvFidopZug 14:20 Oculus Rift Price and Hardware at CES 2016
-SCt2jmgeJDo 5:01 What Makes a Good Digitizer Stylus for Artists?
-XbiIy4_6lMM 6:01 Checking In with Razer's OSVR Hacker Dev Kit
-CrXxIq5haO0 4:48 Meet the Yuneec Typhoon H 4K Camera Drone
-8rxCF41Cg20 5:53 Competition to Make Real-Life Star Trek Tricorders
-6VNXwfD-dh0 6:08 Meet the Sony Alpha A7 II Cameras
-CuKY_pufFrQ 5:55 Meet Parrot Disco, a Ready-to-Fly Fixed Wing Drone
-7GCbHz5d71Q 4:40 Bonus: Favorite Collectibles of 2015!
-G0kac3ZFkkw 29:48 Behind-the-Scenes: Making the Stop-Motion Puppets for Star Wars: The Force Awakens!
-Sexd06I8mzg 11:22 Making of Holochess for Star Wars: The Force Awakens!
-g7WJ_LVD7u4 48:02 Tested Builds: Automata Model Kit, Part 1
-c7Sizrlvqno 4:37 Tested in 2015: Norm's Favorite Coffee Table Books!
-UHUTnZUHUz0 17:22 Adam Savage Learns from STEAM Educators
-DUTbvXJg_P0 17:08 Making a Working BB-8 Droid Replica!
-dk_WmU7PM7k 9:00 How to Introduce Kids to Star Wars
-ZjjqJIq_Gg4 8:00 Adam Savage Uncovers STEAM Leaders in Atlanta
-WLTqqjvHCGA 8:05 Show and Tell: Hacking RC Toys with Arduino Control
-kQJbkyDhuYA 9:51 Making of Our GoPro + Gimbal + NERF Video Test
-UmEJmRxfz80 15:44 EVE: Valkyrie on Oculus Rift VR Playtest!
-Xz9_VwW7rbs 17:25 Designing the 3D-Printed Lightsaber!
-I-tUmhCtcR4 2:46 Show and Tell: LEGO Mystery Build #14
-wVwBOv4pgZA 5:27 Tested Mailbag: Surprise for Jeremy!
-MGjLscsBBjg 17:41 How to Take Apart and Clean an Airbrush
-e4rGhOiTg_s 9:58 Real-Life Professor Farnsworth Makeup Application!
-TJapir1Tddc 17:18 Tested In-Depth: High-End Headphones and Amps
-CDk8kJHJQZY 6:40 Building a Dark Crystal Skeksis Puppet!
-4EZYwc_DEok 6:40 GoPro Hero+ Wi-Fi Gets Tested! (w/ Gimbal and NERF!) || AWESOME STUFF WEEK
-fI4om0iJ2zM 4:31 Sculpting Creatures at Designer Con 2015!
-KytdElsPSno 7:32 LEGO Comic Book Covers at Designer Con 2015
-Q62aE811Vj0 10:06 Tim Gore's Oddities and Paints at Designer Con 2015
-_xqmOEIGip0 11:44 A Brief History of Tested (from Tested: The Show!)
-PjTQL8pflEU 20:36 Adam Savage Interviews NASA's Deputy Administrator
-GzVVTB8TSdc 8:15 Art Toy Collaborations at Designer Con 2015
-Mmswu2P_Ufw 9:10 Building a Rancor Costume (from Tested: The Show!)
-D2AKkVDZ7OY 13:57 Controlling Robots on Mars (from Tested: The Show!)
-qb9wXNqs9ZI 17:38 Walking Tour of DesignerCon 2015!
-WwVbqveNe6c 15:15 Flying Drones Over Volcanoes (from Tested: The Show!)
-d7r3dHOWLgg 10:52 A Pocket History of Space Electronics (from Tested: The Show!)
-T_gQgkCfj7w 12:30 Adam Savage's Tintype Portrait (from Tested: The Show!)
-ZfkBEw2D2x0 8:25 Show and Tell: Our Audio Recording Gear!
-P2ccdaScxQ8 48:09 Tested Builds: Repainting Action Figures, Part 1
-hRwZYVq1kxQ 2:52 Tested Mailbag: Sipping Assistance
-zcAR_2bNojE 12:08 Meet Pleurobot, an Amphibious Robot!
-uOh2ZY1VHGE 22:35 Awesome BioRobots Inspired by Animal Movements!
-qsb4W144YNg 20:49 Tested In-Depth: How to Listen to High-End Audio
-Kn4vXDKSW1o 6:47 Massive LEGO Mouse Guard Display at BrickCon 2015
-0qAQSWler7Y 3:00 Tested Mailbag: Get Dapper!
-5xQwkICq9eo 5:37 Best LEGO Castle at BrickCon 2015!
-9r134rRrLIk 3:00 Adam Savage Gets Animated by Artist Marty Cooper!
-ScVEL2GjJ5g 22:11 Tested In-Depth: 3Doodler 3D Printing Pen
-RD1eoeTzUEg 3:04 Show and Tell: Halo 5 Needler Full-Size Replica!
-kOkKn8CfMac 9:44 Tested Skillshare: Making Will's Trading Card!
-Wq3xtZ8AjPE 57:07 Adam Savage, Astronaut Chris Hadfield, and Andy Weir Talk 'The Martian'
-6T6gFX8bAPA 26:32 Tested In-Depth: iPhone 6S and 6S Plus
-fhsPq3i3nNY 4:47 Inside Adam Savage's Cave: New Original Props!
-SOdvmybALMU 4:12 Tested Mailbag: A Package from France!
-0JOdJ9Sn_w4 1:00:52 LEGO with Friends: UCS Millennium Falcon, Part 1
-3l_jd3qWjj4 3:24 Tested Mailbag: Hawkcat Returns!
-omfIecTlyYk 2:42 How Baseball on TV is Mixed in Real-Time (iPhone 6S 4K Video Test)
-ZwlxiWxP634 6:32 How the Glowforge Laser Cutter Works
-F2qQIR1jZxw 0:41 Adam Savage's Duck Army Bomb Test
-IniwqWIMMlw 22:04 Adam Savage's Ultimate Duck Army
-BNBEckyMA-k 23:14 Tested In-Depth: DxO One Camera for iOS
-14RtNisg34w 2:04 Show and Tell: Portable Folding Keyboard
-0hSxZOG7hIE 51:57 Tested Builds: Laser-Cut Millennium Falcon Kit, Part 1
-2_zD5y5Q6Fk 0:26 Tested: The Show 2015 On Sale Now!
-beaHxW5o-uw 28:14 Building a Star Wars Shadowtrooper Armor Kit! (Part 2)
-b0U6LgmB0j4 32:27 Let's Build: 3D-Printed Steampunk Scuttlefish!
-L_qaJjsIzUE 10:57 360 Camera Rigs at Oculus Connect 2
-7m0qh6hZ1c0 5:52 Show and Tell: Electric Objects EO1 Digital Picture Frame
-033HmiCFb7Q 3:37 Tested Mailbag: Numbers in Our Heads
-peVuqvB7RPQ 12:23 Job Simulator: Making VR Games for Oculus Touch and HTC Vive
-5FHtcR78GA0 11:46 How the BB-8 Sphero Toy Works
-yxAD1TIks_k 24:13 Tested In-Depth: Google OnHub Router
-kIskZmv1aY0 12:05 Virtual Reality Shooters and 'Bullet Train' with Epic Games' Tim Sweeney!
-fwkGKWD9U5s 2:24 Show and Tell: New Zojirushi Mug!
-s37pjmMU33U 27:33 Tested: Oculus Connect 2 Demos and Impressions
-0R3mMUsHFvU 22:20 Meet the Glowforge 3D Laser Printer
-KixJe5qEzNc 43:20 Tested In-Depth: Apple iOS 9 for iPhone and iPad
-EN_epinHIAU 4:21 Show and Tell: Nerf Rival Blasters (in FPV!)
-DJX5J6B66f8 2:09 Tested Mailbag: An Actual Bag!
-Szv30aUEsxM 10:01 Tested Builds a Hydrogen Converter
-CvS0OUutb4I 9:13 Tested: Logitech UE Boom 2 Bluetooth Speaker
-4kBch_UqRTA 4:15 Show and Tell: Jaybird X2 Wireless Earbuds
-6sO2zs6LnBs 6:09 Tested Mailbag: No Such Thing as Bad Pocky
-gfJat6kRWko 15:47 Walking Tour of Dragon*Con 2015
-JXhzkV5J7UY 8:41 Making Sci-Fi Armor for a Video Game Trailer
-m0dhJ_9xAj0 24:17 Tested In-Depth: OnePlus 2 Android Smartphone
-egNsGoQJgIw 0:38 Announcing Tested: The Show 2015!
-TV_qxzaqnA4 5:52 Show and Tell: Pebble Time Steel Smartwatch
-PY6Xh7_JTrg 3:28 Tested Mailbag: Essential to the Utility Belt
-KWOvPFj_j4k 56:48 Adam Savage Interviews Jason Reitman - The Talking Room
-WssyvNOqbRw 12:20 Tested: DJI Phantom 3 Professional Quadcopter Drone
-8j4a4CTe7-8 9:20 Show and Tell: More Japanese Papercrafts!
-nTj_pLj2Sdo 16:58 Building the Star Wars Rancor Costume, Part 4
-hcMrp-EOcRA 2:31 Tested Mailbag: Full Blockhead Set
-hSnhVpn9YVk 17:00 Prop Store's Original Movie Prop Collection
-fmvE01Ub00E 3:59 Inside Adam Savage's Cave: Hellboy 2 Prop
-TxG5xZfmkZw 13:08 Building the Star Wars Rancor Costume, Part 3
-SGSEIX9-Y0w 4:22 Tested Mailbag: From Belgium!
-DNMkLgTSn4k 10:29 Real Virtuality Multiplayer VR Demo
-kfZ9RrxQ5NM 1:12:32 Adam Savage Interviews Author Mary Roach - The Talking Room
-M7X5QLtZYO0 16:00 Tested In-Depth: Nest Cam Security Camera
-KiuaV2uPpN0 2:58 Show and Tell: LEGO Mystery Build #13
-kO0MiHzMt_o 14:02 Building the Star Wars Rancor Costume, Part 1
-gwywTBNUWi4 16:19 Building the Star Wars Rancor Costume, Part 2
-xO8QDnpHnkA 2:10 Tested Mailbag: Blaster from the Past!
-KSO8rshzcw4 7:36 Ryan Nagata's Space Suit Replicas
-G6R2XAIl_J4 6:33 Studio Scale Star Wars TIE Bomber Replica
-FQmeub_LIsE 39:51 Tested In-Depth: Ultimaker 2 3D Printer
-hIp3ix4ZcS0 3:00 Show and Tell: RC Bionic Bird
-OAfXxj-gEIY 5:13 Jurassic Park Jeep Conversion Project
-TWQAYfGxsPE 14:45 Adam Savage's Custom Tool Storage Stands
-rtg9z_xx9vE 8:37 Back to the Future 2 Nike Air Mag Replicas!
-MfIBCMyu2Oo 34:27 Tested In-Depth: Pebble Time Smartwatch
-aRJi7oZNItE 1:05:16 LEGO with Friends: Bonnie Burton, Part 1
-2lDTIIitQlc 5:05 Show and Tell: Papercraft Creatures
-4nOdlHDZ9AY 5:10 PinballBulbs' Mini Virtual Pinball Cabinet
-CM70mddypOo 31:55 Tested Builds: DIY Arcade Cabinet Kit, Part 1
-xcPWf9RjvnU 4:13 Show and Tell: Robugtix T8X Robot Spider!
-fGlBLBwvFRo 11:42 FPV Quadcopter Racing at the Drone Nationals!
-7wqsltXziTA 4:04 Tested Mailbag: 1:220 Scale Models Kits!
-nP5pl6pON2k 2:56 Show and Tell: Tiny Arcade Cabinet!
-kc8kK5wuVGU 6:28 Adam Savage Incognito in Judge Dredd Cosplay!
-g_MVy5W0gns 7:04 Terminator, Ghostbusters, and Blade Runner Movie Prop Replicas
-Vcd6dOyGKjk 6:00 Star Trek USS Enterprise Model from QmX
-L_jOTnpGmhs 12:32 Original Star Trek, Blade Runner, and Rocketeer Props
-5MdGqgspHD8 2:59 Show and Tell: Palette Modular Controller
-OFbBs9M0cqw 20:31 Building a Star Wars Shadowtrooper Armor Kit! (Part 1)
-O31iSarGySs 2:02 Show and Tell: LEGO Mystery Build #12
-HH_8ECuuRsg 28:04 Tested Builds: Millennium Falcon Studio Scale Replica, Part 3
-6Z3BnWv80vk 3:59 Meet Gimball, a Collision-Tolerant Drone
-WnWNrDK-HP4 2:30 Tested Mailbag: "What's Encom?"
-jGnsH9ecCMg 4:54 Designing an Ultra-Efficient Walking Robot
-8XpjVlGn6_o 10:50 Meet RoboSimian, NASA JPL's Ape-Like Robot!
-L_HvQQjMSZI 3:29 DARPA Robotics Challenge: Team THOR
-P44Xp3BCMwA 3:39 Telepresence Camera System with Head-Tracking!
-83PCCR0LKP0 5:51 Meet the Inflatable Robots of Pneubotics!
-YRLI7Ti7jL4 6:51 Show and Tell: Camera Slider Gear
-27xunbG3OWo 1:04:18 LEGO with Friends: Carl Merriam, Part 1
-uKhxcOLQhKk 8:10 Realistic Robot Arm: Meet the Modular Prosthetic Limb!
-tt1fcdNEYvE 8:07 DARPA Robotics Challenge: Team IHMC's Atlas Robot
-7TpuTVDtaAo 3:22 Tested Mailbag: Our First Gundam
-UErbxoBhWoM 24:55 Adam Savage Interviews Google X's Astro Teller - The Talking Room
-7GB0SAjfBbk 45:55 Testing Samsung Gear VR for Galaxy S6 Game Demos
-LGvV72uMii4 53:57 Tested Lessons: Painting Model Kits, Part 1
-C99NCS8Nn9c 1:09 Show and Tell: Living Room Couch Keyboard
-GnACo3zgI5k 16:09 Tested: Meet the New BattleBots!
-WE001LO3sUE 6:23 Alpha Dominche "Steampunk" Brewing Machine
-KyrCt0kCCzo 18:37 'Oculus Touch' Virtual Reality Controller Thoughts
-5SemyzKgaUU 55:18 Adam Savage Interviews 'The Martian' Author Andy Weir - The Talking Room
-v8w4hufoujg 28:08 How To Make a Realistic Horror Skull Prop!
-UXmhMygDGwA 3:41 Adam Savage Reacts to The Martian Trailer!
-wFo21xrFGr0 8:17 DJI M100 with Collision Avoidance System
-rRsX430nql8 2:38 Show and Tell: Rubber Band Machine Gun!
-v1UjBuiv9pE 6:57 Making Espresso Coffee at Home with the La Marzocco Linea Mini
-x0x5ok-H-xo 13:23 Science Food! Making Aerated Granny Smith Sorbet
-dK9NtpS3_RI 11:51 How To Cook Amazing Ribs without Smoke or Fire!
-W5axvYiT5tQ 10:27 Adam Savage Improves a Cat Exercise Wheel
-R14UXLcrduY 8:27 How To Cook Vegetables Perfectly with a Microwave!
-hc_SFK1eZh0 14:39 Touring the ChefSteps Kitchen Laboratory
-IgtlO_g9RyY 3:58 Show and Tell: New Nintendo 3DS XL!
-TaAepL-FgbI 37:22 Tested Builds: Millennium Falcon Studio Scale Replica, Part 1
-kmwNyLZZoAk 3:10 Pour-Over Brewing with Manual Coffeemaker Nº1
-Og-ZdRFJ7c4 32:02 Rick Baker's Make-Up and Special Effects Legacy
-J6bAZ8RhBY4 58:56 Adam Savage Interviews Traci Des Jardins - The Talking Room
-wDbHwi2EJ-k 5:27 Justin Gray's Armored Destruction Robots
-3NeJisPvHcU 3:54 Robot Spiders Controlled by Intel's Edison Chip
-58qT9hVtLC0 7:52 The Anatomy of an R2-D2 Astromech Droid!
-ceEgHJRgeg8 2:28 Show and Tell: Bluetooth FM Transmitter That Works!
-OFYcx7ze0uY 38:41 LEGO with Friends: Phil Broughton, Part 1
-oIWEtvHD78c 4:25 Google's Project Wing Delivery Drone Prototype
-F5jj6gBKGK8 7:50 Google Research's Projects at Maker Faire
-1maD5WzsEs8 5:58 Megabots' Giant Fighting Robot!
-fJAM-eRJGGY 8:21 The Chemistry of Coffee Brewing with Blossom One
-srZBejBnjLE 4:22 8x8x8 Programmable LED Cube!
-ZgOTS61PX3c 3:58 Hovership's 3D-Printed FPV Racing Quadcopters
-AI0XwnY-vvQ 5:38 Rick Baker's Men in Black Puppets and Animatronics!
-2upOx4Tv5Jc 4:51 The Denny Next-Gen Bicycle Concept
-nJbbemJ3NWM 19:59 Tested In-Depth: PCIe Solid State Storage
-xrsUMEbLtOs 11:37 SteamVR's "Lighthouse" for Virtual Reality and Beyond
-AVV3ZiKZr0s 1:40 Show and Tell: Favorite Helping Hands!
-00XoEWDcQaE 45:38 Tested Builds: ErgoDox Mechanical Keyboards, Part 1
-kELkXqjE59o 4:21 La Colombe's 'The Dragon' Coffee Brewer
-Z1CkJtA2yEQ 4:11 Original Gremlins Puppets and Animatronics!
 jaVi06DaTk0 37:21 Adam Savage's One Day Builds: Star Trek Captain's Chair
-KfeLJUnVpQI 31:57 Tested In-Depth: Smart Home Connected LED Light Bulbs
-x9aPZ0stk4s 5:29 Making Needle Felted Star Wars Characters!
-1A7LW-VANwQ 2:52 Show and Tell: Convention Art Sculpts
-btUXT9p1fUQ 6:19 Brewing Grit-Free Coffee with Espro French Presses
-jEihvAA2X_Y 3:30 Tested Mailbag: New Furry Friend!
-5B7a9_F85_8 22:15 How to Make Vulcan Ear Prosthetics!
-8-KJlvzpefE 44:41 Tested In-Depth: Samsung Galaxy S6 Smartphone
-aPSXDh1TrTY 4:36 Star Wars The Force Awakens: Rey's Speeder Replica
-fCSQLCOip4I 5:38 Making a Life-Size Star Wars Sandcrawler Tread
-Pk7UUeT1vNE 13:40 Making Dessert at America's Test Kitchen!
-aS17GkEHIuY 3:53 The Science of Meat Texture at America's Test Kitchen
-bIWC5cKuRmE 7:36 Making Kale Delicious at America's Test Kitchen!
-WAUpelESAXo 8:33 Making Butter Burgers at America's Test Kitchen!
-DPKk3WL_vTY 42:44 Tested In-Depth: Apple 12-Inch MacBook (2015)
-lhkFV1X3iYQ 11:04 America's Test Kitchen Laboratory Tour!
-WiKe9G-zvmk 4:10 Amazing Custom R2-D2 Droid Sculptures!
-3RVKffJ6DH8 2:19 Show and Tell: Universal Mobile Keyboard
-K8Pt3eb51TQ 4:06 Rancho Obi-Wan's Star Wars Fan Artifacts Collection
-KeIKvF7LzaM 4:58 The Force Awakens Stormtrooper Armor by Anovos
-K30nmvkX9rI 30:09 Apple Watch: Common Questions Answered!
-MTHyn7gT5do 9:21 Original Star Wars Props and Costumes!
-oMXUNr2mb3k 10:56 Star Wars Studio Scale Ship Replicas
-uO2ppYsaZd0 10:17 Tested: Self-Balancing Electric Unicycle
-hfl21nK9sZI 5:11 Making a Life-Size Rancor from Star Wars
-oKrFZBncjmU 8:37 Star Wars Celebration 2015: Props, Costumes, Collectibles!
-wPXAbPRFS08 2:37 Show and Tell: Navy SPH-3 Flight Helmet
-FSl_Xpncujc 5:26 Science-Fiction Replica Ship Kits from Moebius Models
 LHITcrnGn1U 1:08:35 Adam Savage's One Day Builds: Cylon Models with Battlestar Galactica's Aaron Douglas!
-e5oOAO4j3MQ 25:34 Tested In-Depth: Panasonic Lumix LX100
-JFF1n_m-MvE 5:47 Crafting Felt Creatures with Woolbuddy
-ac1CL98QISQ 2:07 Show and Tell: Nixie Tube Clock
-a8xxBZml-2c 5:11 Realistic Teenage Mutant Ninja Turtles!
-zZRlJidQvqA 2:19 Tested Mailbag: Tabletop Game!
-U48niAkKMzg 4:15 Screen-Used Star Wars Episode IV Stormtrooper Armor Replica
-6agLHOv23_U 5:06 Real Life-Size EVE Robot (from Wall-E!)
-ldYhakCAkRY 29:17 Tested In-Depth: Samsung Galaxy Note 4
-plaJGj3oq8Y 4:56 Animatronic 'Westworld' Gunslinger Robot!
-3qcvgiaMk4s 1:20:20 LEGO with Friends: Veronica Belmont, Part 1
-QC7hB6fZsCU 1:21 Show and Tell: Favorite USB 3.0 Card Readers
-iSMdb0Vt_hM 6:36 Special Effects Creatures at Monsterpalooza 2015
-r3f_DnQCNQQ 2:41 Tested Mailbag: More Fan Art!
-1fe9IDx3vCs 10:04 Jamie Hyneman's 'Arborist' Quadcopter Test
-GVbCyHuHH7M 6:59 Tested: Feiyu G3 Ultra 3-Axis GoPro Gimbal
-VcDSat3eg7Q 2:41 Show and Tell: Parrot Rolling Spider Mini-Quadcopter
-I92AH_F2LOs 13:50 Flying FPV Multi-rotors with Team Blacksheep
-EgKshqhqNQE 21:31 Testing the BMW i3 Electric Car
-4FJE-vBxIl0 4:42 Show and Tell: StarCraft Raynor Sixth Scale Figure
-uJe-yT36BAQ 3:43 Testing the New Apple Force Touch Trackpad
-CgPiXENd5Mg 4:01 Adam Savage's Navy Mark IV Helmet!
-huyd7FqQGFY 46:53 Testing the Samsung Gear VR: Game Demos
-Tw7xb7nAvB4 1:40 Show and Tell: Favorite Smartphone Stand
-rmV5lS9C9ZE 5:14 Will's Favorite Games at PAX East 2015
-Sd494pYAStI 3:28 Tested Mailbag: We Can Smell It
-Hg02Z5OQ750 12:43 Jamie Hyneman's Robot Racing Spiders: Postmortem
--JsGggcQRTM 18:07 Adam Savage's Custom Quadcopter Gear
-jcOTwpFmMsM 8:05 Crytek's 'Back to Dinosaur Island' VR Demo
-wIS-8PlYehc 1:00:53 Dads Gone Wild - A Bunch of Dads #7 - 3/08/2015
-2lY3XI0zDWw 4:03 Virtual Reality Lightsaber Demo with Sixense STEM!
-GGk7PYkAl_w 6:39 Show and Tell: Smooth-On's 3D Print Coating
-ICblwRtUito 28:42 Building a Home Server for Backups and Ripping Blu-Rays
-87h5Bwy6rUg 5:54 Jamie's Racing Spiders, Episode 4: The Race
-7UxFJbQHuZQ 4:23 Show and Tell: Replica Starfleet Tricorder
-B2aXylTy3q8 1:23 Teaser: Adam Savage's 'Brazil' Commentary
-NRAqx8stEnY 34:10 In-Depth: Replicating 'The Shining's' Overlook Maze Model
-zAGu2TPt_78 24:21 Adam Savage's Overlook Hotel Maze Model
-ZZObqLXEpQQ 21:36 Tested In-Depth: Dell Venue 8 7000 Android Tablet
-TiUWWYrDZ5s 5:02 Jamie's Racing Spiders: Episode 3: The Test
-gC876aWMc1Y 4:04 Show and Tell: R2-D2 Sixth Scale Figure
-bDGW9f7FiuY 10:05 The Secrets of Samurai Armor
 CBHQ7lQGOf0 1:00:04 Adam Savage's One Day Builds: Cosmonaut Model Kit
-YmGS2D0Q8vY 22:11 Tested In-Depth: LG Ultra Widescreen Monitor
-4kdE8ANxPjw 3:36 Jamie's Racing Spiders, Episode 2: The Build
-pB5K3ta9JgQ 3:18 Show and Tell: Seek Thermal Imaging Camera
-gz7WWyNREC8 3:29 Tested Mailbag: Awesome Fan Art!
-DiLnRVzbmlg 13:58 How To Make Kill Bill's 'F*ck U' Shoes
-l6Mt7v11jLg 23:40 Tested In-Depth: Sling TV Streaming Service
-xBm1I8gpeCs 5:28 Jamie's Racing Spiders, Episode 1
-ZaCm9xe_N3I 3:23 Show and Tell: LEGO Mystery Build #11
-WQyWTivri1g 16:57 The Puppets Inside Jim Henson's Creature Shop
-nT5U9T9Uyok 10:38 Flying the DJI Inspire 1 Quadcopter with Adam Savage
-_Uw0VNRMOr8 21:53 Tested: Canon 7D Mark II vs. 6D Cameras
-kLsXE5CuxRU 2:31 Show and Tell: Papercraft Skull Kit
-785pkNzwIQw 54:23 LEGO with Friends: Patrick Norton, Part 1(with Cortana!)
-zta6rggdNQs 30:06 Adam Savage Visits the Hollywood Costume Exhibition
-gwZJ-R-Q_eo 22:20 Tested: Canon G7 X vs. Sony RX100 III
-R3wNZSgvsSc 1:01:18 How to Get Started with Basic Sculpting
-XLw2vpxwNjU 4:33 Show and Tell: Ricoh Theta 360 Degree Camera
-5bX4aOfs1co 4:17 ImmersionRC's Vortex Racing Quadcopter
-gHmd6w1Qc4I 9:13 Quadcopter Combat with "Game of Drones"
-p7TfIvVUu9Q 6:05 Aerial Mapping with Quadcopters and Drones
-t9gQTmM-GSE 5:40 Test Riding the "Rocket Skates"!
-1gO6ugKy9iA 6:09 Razer Forge TV and Turret for Couch Gaming
-Sz77Tq9xzpM 4:47 Checking Out the Ultimaker 2 Series of 3D Printers
-BTbXIsc_2cc 2:35 Teaser: We Learn Sculpting Basics!
-EBZBlu0boqI 2:06 Tested Mailbag: Punished Props Surprise!
-tjDVzbUcYSs 2:54 Riding the InMotion Electric Unicycle!
-TodyZWardp4 3:37 Print the Mystery Object - AA Great Thing to Have - 1/16/2015
-HcSK_CvnKPk 6:58 FPV Racing Phantom 2 Quadcopters!
-RiPQpiE4_qY 14:23 3D Printer that Prints Carbon Fiber
-9DgJc6o-mhI 4:35 Testing Handheld Gimbal Camera at CES 2015
-gvjrT4aSCfc 2:12 The Reversible USB Plug is Here!
-JUxrCFxavO8 9:52 Inside Adam Savage's Cave: The Tarantino Shelf
-64W6tLqEkfQ 5:52 What's in Your Bag, Norm? (CES 2015)
-eTsSXzApUco 8:48 What's in Your Bag, Will? (CES 2015)
-i4-ZPWwiux0 2:28 Show and Tell: Hypnocube LED Cube!
-8tkpWmvCIzU 11:13 4K Monitor That's Good for PC Gaming?
-1aptKJ_Z7Pw 1:44 Help Will and Frank Choose a Cosplay!
-2u4ZLGsw1zo 18:18 Testing Apple's Touch ID with Fake Fingerprints
-a8JyCGXrFbk 33:56 How to Build a FPV Racing Quadcopter!
-6BH3K6fDh10 3:27 Print the Mystery Object: Tip of the Hat
-ofPJoE38yR4 5:20 Behind the Scenes with Jamie and Adam's PSA
-v8hFcDhBgZ8 13:02 Tested In-Depth: Boosted Electric Skateboard!
-uKCcgs8P7rs 2:20 12 Days of Christmas: Legendary Board Game
-kND-3dTgkNY 3:22 Print the Mystery Object - Do Do Do Do, Do Doo, Doot - 12/12/2014
 QWiqr-lwYA0 1:07:23 Adam Savage's One Day Builds: Barbarella's Space Rifle
-mnOzzbl0Uqw 21:40 Tested In-Depth: Structure Sensor 3D Scanner
-0SMm10NC8Lk 3:38 Print the Mystery Object - Walk Like an Egyptian - 12/5/2014
-6kNNGNAQtZA 51:19 How To Replace a Cracked Smartphone Screen!
-uLqy_ZZvsYk 3:09 Female Anna's Hummingbird at 240fps
-I3wMvh8_I_s 11:12 Building a Custom Arcade Cabinet, Part 7
-sWEdt2lBUdM 2:51 Show and Tell: LEGO Mystery Build #10
-rX5fJfpoqdo 8:50 Tested Mailbag: What's in the Second Box?
-Ke9ecIB96bM 30:37 Tested Plays #IDARB!
-H19z1X3V4UQ 11:44 Quadcopter Racing with First Person Video!
-5INybRmEzDo 7:22 Slow Motion Water Balloon vs. Face Slap
-t7QqmdlFEgo 6:11 Show and Tell: 3A Dead Cosmonaut Figure
-JV9BMksNXbw 7:31 Tested Mailbag: Gears of War 3 Hammerburst Replica!
-97a0uhi8Xc4 11:51 Rebecca Watson on Women in Geek Culture
-Y4DcbrZX3Vs 8:32 Jamie Hyneman's Racing Spiders Project
-jr6eg7Z0YBE 7:16 A Story in 256 Pixels (from Tested: The Show!)
-umQDc0wPsGg 27:20 Tested In-Depth: Apple iPad Air 2
-qpV6XdyG5XY 5:40 Making Food with Cricket Flour (from Tested: The Show!)
-9PhF4B9pjwA 6:41 Star Trek in Cinerama (from Tested: The Show!)
-rjYDpDxmhiY 4:25 Tested Mailbag: One for Each of Us
-TStUjbIxcy8 8:21 Real-Life Professor Farnsworth from Futurama!
-DEVi0mEaJJQ 35:21 How to Mold and Cast a Lightsaber!
-pNDPLF1hxAc 6:15 Show and Tell: 3D Printed Steampunk Octopod
-psyZzEve9I8 4:04 Print the Mystery Object - Homegrown - 11/7/2014
-Wb6eFGbwPeA 5:02 NYU's Interactive Wooden Mirror Project
-RftmyK9AhQw 19:35 Tested In-Depth: Amazon Kindle Voyage
-hGxw2mzD5C0 13:10 Adam Savage's WWII Uniforms from The Pacific!
-w4WD15EgLWc 10:52 The Graphics Technology of Big Hero 6
-MMt-yK6R4Xo 5:12 Show and Tell: 3D Printing a Lightsaber
-etLOZWdZSs4 11:08 Worldbuilding and Storytelling in Big Hero 6
-SLMVkgkfX8U 5:53 Adam Savage's Ghostbusters Costume
-31dBpwsYbG8 9:54 The Creature and Portrait Sculptures of Mike Hill
-x6Y8sLnv8TQ 6:58 Show and Tell: Quicksilver's Stereobelt Replica
-p2HNT5aET0M 3:05 Tested Mailbag: From Japan!
-s8zwlbs_QvM 13:10 Testing the Form 1+ 3D Printer
-EzfFytHyof4 36:24 Tested In-Depth: SmartThings Home Automation
-bPS-W6YZFb4 38:05 How To Make a Gory Hand Prop for Halloween!
-8uyLlzUXC00 30:40 Tested In-Depth: Moto X (2014)
-LhYyyLd5ZTg 13:18 How Holograms are Made
-Hhlf9s3ryNA 1:44 Show and Tell: Bluetooth Hands-Free Adapter
-KSj2oeJs4W0 3:24 Who Said That? - Print the Mystery Object - 10/17/2014
-oJg_rV6kgDc 31:17 Tested In-Depth: Mac OS X 10.10 Yosemite
-f0sSa90x2AE 6:06 Triforce's Video Game Replica Props
-NVws0ryS3-E 19:54 How Lifelike FX Creature Masks are Made
-9XxRmYMqAh8 8:40 NECA Toys' Alien Nostromo Spacesuit Figure
-St1sNrYGqaQ 3:41 Show and Tell: Ultimate Ears Boom Speakers
-5LhFXX2kSok 2:13:53 Will Plays - Alien: Isolation on the Oculus VR - Previously Recorded
-ITUKD95SckQ 2:29 Tested Mailbag: Hammer Time!
-tQg-2GTnoOQ 3:34 Print the Mystery Object - It Seemed Like a Good Idea at the Time - 10/10/2014
-vwd1nLrJXqY 2:16 Show and Tell: Astro A38 Bluetooth Headset
-N4txwfhGmpo 3:12 Print the Mystery Object - That's Our Joey - 10/3/2014
-g0jNhmaSV84 9:30 Testing Nvidia's GeForce GTX 980 Video Card
-xtG-JbiH-Gc 0:43 Jamie Hyneman's Racing Spiders: Sneak Peek
-yxzkk_9Jvb4 8:58 Adam Savage's Samurai Armor Costume!
-7L1Ny40zlUo 38:54 Guardians of the Galaxy SPOILERCAST - The Adam Savage Project - 9/30/2014
-O4yiHxiQ3c4 24:21 Building a Custom Arcade Cabinet, Part 6
-e_RQ6E61JHM 0:50 Announcing Tested: The Show!
-eBUI9ZGjm_c 4:02 Show and Tell: The Useless Box Kit
-sRbNiyozMAI 3:45 Tested Mailbag: For the Suit
-335SumFfoDk 2:25 MakerBot Mystery Build: For Ice Cream
-sZXlwxAe9co 29:28 Tested In-Depth: Desktop 3D Scanning and 3D Printing
-bY7SbH_VSyA 13:17 iPhone 6 Plus: Most Common Questions Answered!
-cEeNG_MP7GE 26:05 Building a Custom Arcade Cabinet, Part 5
-AR0PQ05-dlo 1:03:23 Will Answers Your Questions Live! - No Jars Allowed - 9/19/2014
-oDi5V-_1IiY 5:47 Tested Mailbag: Gonk Gonk!
-8_QRlS5Kipc 2:32 Makerbot Mystery Build: It's Friday!!!
-3XOFu2vxzlk 43:24 Tested In-Depth: Building a PC with Haswell-E, X99, DDR4
-DhLjrprVYHc 4:01 Tested + Spacesuit Infographics Poster
-2tZ0t6gArAk 21:22 Building a Custom Arcade Cabinet, Part 4
-ll6ETFW9r8I 3:16 Show and Tell: LEGO Mystery Build #9
-ksIrXYXCOFg 5:20 Tested Mailbag: Not the Police
-xfSNE4ow5zU 35:11 Tested In-Depth: 3D Printing with Printrbot Simple Metal
-o8Y8HMCz7p4 5:37 iPhone 6 Plus Mockups and Size Comparisons
-2zJO8ne-QxI 33:57 Tested In-Depth: Sony RX100 III Compact Camera
-Pa8FGlOPJEs 7:36 Show and Tell: Star Wars Imperial Probe Droid Project
-sVLnM9fMGdw 10:16 Building a Custom Arcade Cabinet, Part 3
-TQhURnHS0lc 5:56 Octoprint Timelapse Test
-omn3233E8zc 1:14 MakerBot Mystery Build: A Fast One!
-6uOE7LVdiT0 1:20:08 Episode 270 - PAX Prime Report - 9/4/2014
-UkDpUbkNKs8 9:27 Robocop 2 Cain Stop-Motion Puppet Replica
-gWLHIusLWOc 5:31 Flying the Birdly Virtual Reality Simulator
-V_xeOvdOnsQ 11:30 Building a Custom Arcade Cabinet, Part 2
-mN2PTsyQ1Hk 4:42 Show and Tell: LEGO Ideas Research Institute
-W4kPt1HI_hg 3:34 MakerBot Mystery Build: Beware the Vertices
-kKpVxL0KbMQ 4:21 Adam Savage's Incredible Muscle Suit
-W8Lc9toLxng 33:08 Tested In-Depth: Amazon Fire Phone
-SIYx2Altf2k 8:14 Building a Custom Arcade Cabinet, Part 1
-A0GsOkRVRjE 1:58 Show and Tell: Favorite Exercise Armband
-0QQGCDvPYUo 6:01 Tested Mailbag: American Tiki
-Q2ppdTX-lqw 3:17 MakerBot Mystery Build: Soft Boiled
-xjkqE76Ebxs 12:45 Adam Savage's Alien Spacesuit
-y60u-1tiIR4 35:59 Tested In-Depth: Nvidia Shield Tablet
-J1jDaZX6PCk 27:16 How To Make Resin Copies of 3D-Printed Figures
-MGkHIYu9z3E 7:07 Show and Tell: Vintage Nagra Spy Recorder
-Yu4IAyMHXg0 8:47 SDCC 2014: Sideshow Collectibles Booth Tour
-alpaxt7gGZU 37:04 Tested In-Depth: Microsoft Surface Pro 3
-Uj1hFkc3Q68 30:10 Oculus Rift DK2 with Elite: Dangerous + HOTAS
-MfGS8MY4jqw 6:13 Star Trek and Firefly Starship Models from QmX
-7e5zfsm9VS4 2:26 Show and Tell: Laptop Screen Privacy Filter
-JR2td-7HRLs 2:46 Mystery LEGO Mosaic Art! (Designed by Brick-A-Pic)
-jNgKm8AfWhY 49:13 Testing the Oculus Rift Development Kit 2: Game Demos
-Mi2Qrr45jlg 7:33 SDCC 2014: The Giant Creature Project
-dxUpiVRsBSM 2:31 Will & Norm Are Going To Build LEGO Again
-DvRhsFc4NKI 3:13 SDCC 2014: Ghostbusters Terror Dog
-P0cGjC62XRQ 10:54 Show and Tell: The Curta Calculator
-6izghxhFGPg 4:41 Tested Mailbag: Thanks, Elon!
-_K5mV2MP8kI 9:13 SDCC 2014: Original Batman and Pacific Rim Props
-Lxty1ztIp9M 3:12 MakerBot Mystery Build: You'll Never Guess
-ENWhVYheWUw 16:56 3D Printing on Adam Savage's Hellboy Glove Project
-CCjKNMONGF4 28:30 Tested In-Depth: Android Wear LG G Watch
-2-IyoqV1My8 4:21 Show and Tell: LEGO Mystery Build #8
-gIt4Ly9yAn4 3:14 MakerBot Mystery Build: Typeset
-HJd4sJfpOLU 14:28 Adam Savage's Hellboy Mecha-Glove Replica
-uN6vptYpo5I 7:03 Adam Savage's Prop Replica Drawings
-GxqNyjjLbCE 1:32 Show and Tell: Favorite Slim Wallet
-YRXEY1fS7BI 3:15 MakerBot Mystery Build: New Studs
-MIGkFgi6Qs0 1:26:06 Tested Builds: $540 3D Printer, Part 5
-hnq6xqQSHbQ 52:50 Tested Builds: $540 3D Printer, Part 4
-VzEvKPAU_QU 12:28 Robocop 2's Cain Robot with Phil Tippett
-2At1Zdn106A 40:18 Tested Builds: $540 3D Printer, Part 3
-HUuC97V6lpw 36:11 Tested Builds: $540 3D Printer, Part 2
-1tE78yHgYaQ 2:22 Show and Tell: LEGO Mystery Build #7
-jrXxBqzb9mA 45:50 Tested Builds: $540 3D Printer, Part 1
-kZ1d4nX6qtw 3:31 MakerBot Mystery Build: Hot Potato
-YmYkFQG3jho 4:22 How To Walk Like an Ape (for Motion Capture)
-NIzBROiWVBU 13:35 Building a Custom Computer Desk, Part 4
-l9AqYaSRjw0 17:37 Tour of Adam Savage's Cave!
-qbpQIp3870c 34:07 Tested In-Depth: OnePlus One Android Smartphone
-dcA6g-YPz1I 1:41 Show and Tell: 3D Messenger Bag
-UJPIQpeUtRo 2:05 MakerBot Mystery Build: Cubicle
-ivQKRnGwNmQ 7:54 Animating Adam Savage's Workshop
-fwbXiSGd1OU 11:13 Building a Custom Computer Desk, Part 3
-ZJ-hey-o1F0 51:51 The Science and Mysteries of Booze
-0xLCOC1Pd8Y 1:57 Show and Tell: Favorite Kindle Paperwhite Case
-kMlWgQCiHxA 3:42 MakerBot Mystery Build: Crime Fighter
-yTgt6RGo7hU 19:00 Building a Custom Computer Desk, Part 2
-QFvvdnSmg5M 27:38 Tested In-Depth: Pebble Steel Smart Watch
-k77Ke_BXlzA 3:08 Tested Mailbag: Squirrel or Raccoon?
-FyYQxdJdNi8 5:22 Show and Tell: Batman & Harley Quinn Statues
-DZCG3YzkofM 3:22 MakerBot Mystery Build: Six Foot Turkey
-ONWWFjRFdPM 12:18 Making a Life-Size Dragon! (Monster Hunter 4 Ultimate)
-wuFN5Hegzz0 15:37 Building a Custom Computer Desk, Part 1
-BOORNX0qWPw 3:20 MakerBot Mystery Build: Choose You!
-YIqVI8DU-Wk 22:15 Tested In-Depth: Homemade Pizza with Baking Stones and Steel
-xKBD_CPyqq0 29:34 Building a Custom Headphone Hook
-Et9U1_DgEwg 5:45 Show and Tell: RoboCop ED-209 Scale Replicas
-WRwzsdD0LJs 3:38 RAWR! - MakerBot Mystery Build - 6/6/2014
-F8oTXcBxZxg 30:10 Tested In-Depth: Best Entry-Level DSLR Camera
-n4cnY0bNAlY 3:59 Show and Tell: Bonelab Skeleton Kits
-7mm974A4JcM 14:03 Sideshow Collectibles Behind the Scenes: Sculpting and Painting
-vRznvFG5dlQ 2:01 MakerBot Mystery Build: Propped Up
-QBNzFUZiFY8 13:19 Behind the Scenes at Sideshow Collectibles!
-RnyuONwUKHQ 4:16 Game of Drones: Fight Club for Quadcopters
-g-i-e5FDr9M 4:51 What Makes a Drone?
-mZ4Ph5V_LQ8 8:59 We Make Papercraft Big Head Costumes!
-vI-0OYuE76k 5:10 Meet Titanoboa, the Giant Robot Snake
-Bnq96pn4O9Q 3:55 Show and Tell: RC Nano-Quadcopter
-fv_dhhFg-No 3:22 MakerBot Mystery Build: Orderly
-uqzfzWOLSEA 7:06 Making Real Armor for Cats and Mice
-8JV9dF6tYr8 1:52 How Quantum Levitation Works + Demo
-iskueKcIEBA 5:13 How GigaPixel Macro Photos are Taken
-eV_mmzh_F3A 5:06 Maker Faire 2014: How RC Model Submarines Work
-Pe6eo_ntVlU 7:58 Making a RoboCop ED-209 Life-Size Replica!
-ER7rhQ7N69k 43:41 Adam Savage's 10 Commandments of Making
-Qk1SOcs-_wI 3:17 Show and Tell: LEGO Mystery Build #6
-mvX3pGoCTmE 3:31 MakerBot Mystery Build: Stay Fresh
-4m6EjnEYEEg 16:51 How Giant Tesla Coils Work (with ArcAttack)
 Et-JvYrQ84o 30:39 Adam Savage's One Day Builds: Custom Multi-Tool Belt Holster
-20vv-fqbQ8Q 4:10 Show and Tell: Prototype Boba Fett
-Phny15bR5UY 2:18 MakerBot Mystery Build: Needs One Penny
-baBJdKHw-zQ 13:46 Making a Real-Life Zoidberg Costume!
-KcuHMKBruPM 29:47 Meet Roman Mars, Creator of 99% Invisible
-7ZeZNk6JOGI 3:45 Show and Tell: Intel's NUC Mini-PC
-m5ZzAI29UfM 8:42 Quadcopter Fun Flight Fridays #1
-xBtlJBUbjV0 17:51 What Makes a Supercomputer?
-LhRVO1CPAL4 2:30 Tested Mailbag: Blockhead Papercrafts!
-z-48VdzFPwM 6:02 Show and Tell: Romo 2.0 Telepresence Robot
-JQwLcOJBNL0 6:12 Recreating the Original Star Wars Y-Wing Model
-zQ8ntEzNvfg 14:32 Painting and Airbrushing The Zoidberg Project
-Sk9BRLDn3v4 29:25 Tested In-Depth: HTC One M8 Smartphone
-FUtSrLEw5ik 4:55 WonderCon 2014: Todd Coyle's Costume Replicas
-OFOiN3VhGC0 5:51 Show and Tell: Sansaire Sous Vide Immersion Circulator
-TT-drWxwbRY 2:50 MakerBot Mystery Build: Sorting It Out
-eKMKtpaq1gE 8:04 Jamie Hyneman's High-Pressure Air Gun
-ujSlgsASlf4 32:44 Tested In-Depth: Amazon Fire TV
-yDMfrCe6zWQ 3:49 Show and Tell: BioShock's Motorized Patriot (in LEGO!)
-982Pfs5ysmQ 4:03 MakerBot Mystery Build: Something Isn't Quite Right Here
-ptVJGrOpyok 24:05 Tested: DJI Phantom 2 Vision+ Quadcopter Drone
-VyEMGGe9RtM 2:29 MakerBot Mystery Build: Keep it Toasty
-losKkFExneo 6:05 Adam Savage's Gladiator Armor
-vnm4xFC2xNo 15:19 Tested: We Buy a Bitcoin!
-c6sH2svXVEg 9:25 Show and Tell: Custom LEGO Creations
-jclNJThsO0E 8:42 Tested Mailbag: Slamming Tim Tams and 3D-Printed Wonders
-bf_43POmSFE 3:37 Makerbot Mystery Build: Failure is an Option
-zPd2OiDjI_c 42:00 Tested In-Depth: Sony a7 Full-Frame Mirrorless Camera
-f8vXgSDSSFs 4:19 Inside Adam Savage's Cave: What's in the Mailbag?
-x9AphhE_jyw 3:25 Jamie Hyneman's Hitchhiking Survival Story
-6nCDG4ft7_I 5:17 Show and Tell: Papercraft Architectural Models
-GM29uf4HATw 3:25 MakerBot Mystery Build: Mr. Rogers Would Approve
-BVoAB5CBPLg 2:21 Jamie Hyneman Describes His Perfect Sunday
-JgBNkwE5qRU 2:45 Show and Tell: Guts of Glory Boardgame
-Aeqn70e4ty0 3:37 MakerBot Mystery Build: Big Floppy Ears
-EjOwusjrpmg 54:00 Adam Savage's SXSW 2014 Keynote: Art and Science
-0T3nIk3S8Wc 5:40 Jamie Hyneman on His Home Improvement Projects
-RMEAObJXv60 4:04 Show and Tell: LEGO Mystery Build #5
-ELhaKZZZpbE 3:22 MakerBot Mystery Build: Could Use Some Propping
-8WZW-Nx_8gY 1:54:41 Live Free or Dad Hard - A Bunch of Dads #5 - 3/6/2014
-aKflhTrRh2k 8:22 Adam Savage's Terminator T-800 Endoskeleton
-opDulWLCV5s 39:01 Tested In-Depth: Audio Gear for Podcast Recording
-LNSWYAGNcfo 1:52 Show and Tell: Favorite LED Light Bulb
-EgSGB0hfUio 2:19 Tested: Grinding Peanut M&Ms at 2500 Frames Per Second
-L8BAvQhdLp0 39:45 Tested In-Depth: High-Speed Camera Technologies
-BHkUc23UlR0 6:30 Tested: Shattering Car Windows at 5000 Frames Per Second
-AbKyy4IsGvI 3:21 Tested: Detonating an Airbag at 2500 Frames Per Second
-9ODmcdjQcHQ 11:17 Tested: Grinding Coffee at 2000 Frames Per Second
-AEm0WBXv-Fw 1:34 Show and Tell: Settlers of Catan Boards
-qlvoBP1lbyQ 3:38 MakerBot Mystery Build: Running Cool
 O1--0DLJv-8 25:10 One Day Builds: Customizing Adam's Hero Sword
-lN4X4grFZa0 23:31 The Game Frame Pixel Art Project
-pdxRSDzy_xY 4:56 Show and Tell: Cardboard Kinetic Creatures
-O0NSqNTGs_Y 2:38 MakerBot Mystery Build: A Little Twisted
-J1LMWCHQiNI 4:53 Jamie Hyneman Answers: What's One Myth You've Always Wanted to Test?
-G2NiBiqhzo8 1:32 Jamie Hyneman Answers: What More Can Be Done to Introduce Science to Girls?
-aLOVS5Fl1OY 16:40 Adam Savage's Mercury Spacesuit Replica
-Oa7uT_CKM-Q 3:15 Show and Tell: LEGO Mystery Build #4
-rAMSdtxYWT4 9:59 Tested Mailbag: Flavors That Some Would Deem...Unnatural
-MxGT6rVkKSo 49:29 Tested In-Depth: SteamOS Beta and In-Home Streaming
-cU-cO0RvpwQ 35:10 Jamie Hyneman: "Innovation, Explosions, and the Benefit of Adolescent Behavior"
--3huzae6gzA 3:44 Show and Tell: A Gummi Bear's Anatomy
-0XUkD3JH8Dk 3:43 MakerBot Mystery Build: The 24-Hour Print
-stgPC7MPpfM 4:11 Inside Adam Savage's Cave: Space Glove Vacuum Chamber
-J9DvVx1nXE0 3:26 Show and Tell: Apply Directly to Forehead
-xbtVjqgpmJQ 3:16 MakerBot Mystery Build: For Dug
 lPLvkrtqkJ8 33:00 Adam Savage's One Day Builds: Traveling Beaver Box
-c7g-IfbG4Jg 22:39 Tested In-Depth: Nest Protect Smart Smoke Detector
-82c9y-YW6aY 4:48 Show and Tell: LEGO Mystery Build #3
-sjJOYa--EUo 1:48 Linksys WRT-1900AC Router Looks Familiar
-S_rPKPYc434 4:34 MakerBot Mystery Build: Upgrading the Replicator!
-yVMRINlZ3i8 3:35 CES 2014: Parrot MiniDrone Quadcopter
-8WWHpWgaq7I 5:26 Taste Testing 3D-Printed Food!
-_f-EZJpK5rE 11:54 CES 2014: MakerBot's 3 New Replicator 3D Printers
-as-4sm2EIiA 9:48 CES 2014: Sony's Full-Frame Compact Cameras
-z13JOE8RZUA 5:57 CES 2014: Modern Pinball Machines
-E61feV3zLAE 6:21 CES 2014: Razer's "Project Christine" Gaming PC Concept
-SSNgdML7XBM 18:35 Making a Lifecast of Norm for The Zoidberg Project
--RELJD0LBg8 13:28 What's Inside Xbox One's Kinect Sensor
-1JAhv9Ed-N4 25:26 PlayStation 4 Teardown! (with iFixit)
-btp-Esylx0A 14:29 What's Inside Microsoft's Xbox One Console
--0t-EPgeP_E 2:14:45 So Long, 2013! - Episode 195 - 12/19/2013
-iGvv7KwqIU0 1:02:23 Adam Savage Interviews Damon Lindelof - The Talking Room
-C06yRS1BRMo 16:46 What's Inside Apple's iPad Mini with Retina Display
-n00v3OiOwJA 3:25 Adam Savage Explores a Military Surplus Store
-s7xXOjXjBvQ 24:37 The State of Practical Special Effects in Filmmaking
--RWgjtEwQYQ 21:40 What's Inside the Google Nexus 5 Smartphone
-y2Gm5YHdllQ 1:06:01 Tested In-Depth: Fun with PlayStation 4 and Xbox One Consoles
-X-ewNAQQtqg 2:29 Show and Tell: LEGO Mystery Build #2
-cRl4g-75Mo4 1:08:26 The Lies We Tell Our Kids - A Bunch of Dads - 12/5/2013
--vVblGlIMgw 10:46 Inside Adam Savage's Cave: Awesome Robot Spider!
-sK1s6Y4qSJM 1:57 How Jamie and Adam Get Ready for "Behind the Myths"
-N9y9T3AfqQY 5:26 Show and Tell: 2013 Coffee Table Books
-v6ChP280th4 34:58 Tested In-Depth: Sous Vide Cooking with Immersion Circulators
-0Z-D8YGqqMk 7:34 The Inventern Episode 15: The Grand Finale!
-6AW-ZMm9cjA 2:33 Show and Tell: Copper Coca-Cola Bottle
-TwyQWwxTmuw 5:50 The Inventern Episode 14: Building a Crossbow
-H86lDi_7ea8 6:09 The Inventern Episode 13: Building a Steadicam
-QNPLrbdUzVA 1:46 Join the Tested Premium Member Community!
-EOewTV5FOlI 6:04 The Inventern Episode 12: Building a Jetpack
-5ujPobTnOB0 1:03:01 Adam Savage Interviews Vince Gilligan - The Talking Room
-BJyoema32vk 5:15 The Inventern Episode 11: The Final Challenge
-YVHPpPlYPAg 5:49 The Inventern Episode 10: Home Challenge Projects
-PYzaGCBp9bI 4:07 The Inventern: Episode 9
-HGjSJwlHK6M 9:06 Tested: PlayStation 4 Hard Drive vs. SSD vs. Hybrid Drive
-xDpiPQYH2zM 4:34 Show and Tell: Japanese Papercrafts
-LnVkyjtg1hc 4:59 The Inventern: Episode 8
-8Dv9rA6khlc 2:25 MakerBot Mystery Build: Back for Realsies
-ad0dsgy32jc 13:38 Meet Fred Bieser, World War II Airplane Turret Restorer
-6uaE47MSmBg 0:32 Welcome to Tested!boMsQ9yh0mw 3:30 Show and Tell: Our Favorite Pencil
-WFO_wMDBESo 2:25 Adam Savage Answers: What's a Myth You Won't Test?
-KEopyF186UQ 3:34 Adam Savage Answers: Is It Fun Working with Jamie?
-v-eK_cpTsOw 7:08 Adam Savage Answers: What's the Scariest Experience You've Had on Mythbusters?
-sMYnJF8m3FU 4:15 Show and Tell: H.R. Giger's Alien Diaries
-6o5KrRVzOIQ 4:58 The Inventern: Episode 7
-34xtfs1PQCk 4:01 Tested Presents The Zoidberg Project!
-nKK_4Cj2gk0 4:23 The Inventern: Episode 6
-Ji8Gck7kUXE 2:02 Show and Tell: Just the Tips
-eAlGjnkiwvM 3:27:49 OCTOBERKAST 2013 - Part 8 - Jeff Gerstmann, Jeff Green, Vinny Caravella, Darren Gladstone
-8jVevyfhSI8 2:57:55 OCTOBERKAST 2013 - Part 5 - Giant Bomb's Alexis and Drew, Phil Broughton, Oculus Euro Truck Sim 2
-djPGaD24LK8 3:06:21 OCTOBERKAST 2013 - Part 7 - LEGO Build Off, Bill Doran, Jeff Gerstmann, Adam Savage
--TEyV7kHNko 2:53:40 OCTOBERKAST 2013 - Part 6 - Oculus Euro Truck Continues, Oculus Horror Begins
-escvJ0_Yk5g 3:05:07 OCTOBERKAST 2013 - Part 4 - Veronica Belmont, The Idle Thumbs, Roberto Baldwin
-2GDA-YmjMBo 4:50 The Inventern: Episode 5
-XRm4-cPiwtw 3:01:12 OCTOBERKAST 2013 - Part 3 - Carl Merriam, Brad Muir, Roger Chang
-KcYAU1NOEcM 2:54:50 OCTOBERKAST 2013 - Part 2 - Colin Campbell, Jeremy Williams, Loyd Case
-E9E2Ur1buTc 2:57:10 OCTOBERKAST 2013 - Part 1 - Intro, Brad Shoemaker, Dave Snider
-LXfPSpkeLHM 2:52 Tested Mailbag: Fireballed
-fDAexTmvgrM 11:22 How To Apply a Realistic Bloody Wound or Scar Makeup
-xgYazH1YvtQ 2:54 Show and Tell: LEGO Mystery Build
-C4Zs233kngE 4:07 The Inventern: Episode 4
-WsZVaOel4_Q 11:19 Tested Mailbag: A Double Whammy
-Vs6Gcqkb11g 12:20 Meet Nathan Sawaya, LEGO Brick Artist and Master Model Builder
-GpmKq_qg3Tk 21:54 Testing the CastAR Augmented Reality Glasses
-5c7wbvusIPA 2:49 Show and Tell: The Nifty MiniDrive
-61ToDfOUyVQ 4:41 The Inventern: Episode 3
-UiD3YJD2RVU 12:08 Testing the Puffing Gun and Unexpected Food Explosions
-dHoUedEmkcw 16:20 The Tools of Prop Making: Tested Tours Volpin Props' Workshop
-3ml20dmRvlI 3:33 Show and Tell: A Model of Scum and Villainy
-g3iC_Zp4O1s 3:34 The Inventern: Episode 2
-pk3n0abUWj4 2:27 MakerBot Mystery Build: Back from Sabbatical
-ZXuTtFx6H7I 7:13 Meet Othermill, a Desktop CNC Milling Machine
-R0KqaAo85F0 7:42 World Maker Faire 2013: Designing Spacesuits for NASA
-VPFHjh7mbhk 5:51 World Maker Faire 2013: OpenROV 2.5 Underwater Robot
-Uf6MKHIfqns 3:58 The Inventern: Episode 1
-4LxLJl8gCZU 2:31 World Maker Faire 2013: D-I-Y Tesla Coil Kit
-0fgqDWyR-oM 4:24 World Maker Faire 2013: MakerBot Digitizer 3D Scanner
-mfYadx1hTAU 5:44 World Maker Faire 2013: Making Sound Boxes from Everyday Objects
-tNgcCm2YeE8 4:52 World Maker Faire 2013: Pour Steady Coffee Brewing Robot
-cxLxwbm7FMA 55:03 Adam Savage Interviews Tom Sachs - The Talking Room
-guZ53cSUuOk 1:19:35 How To Build a PC Optimized for Gaming
--kZBrZ3jsmU 3:53 Show and Tell: Adam Savage's Favorite Video Game
-KJyG1_SZqU0 2:06 Chloe the Corgi vs. the Hose - iPhone 5s High Speed Test #1
-pssuG0pK0d4 13:16 Making a Real-Life Halo Needler Prop
-VH1hTh7dbEE 42:41 Tested In-Depth: Nvidia Shield Handheld Game Console
-NikSmEoECgg 43:03 Tested In-Depth: Apple iOS 7 for iPhone and iPad
-vv6l_oG0gvs 7:53 Adam Savage's Eventful Day at the Schmemmys
-078XSj1zKCs 5:09 Show and Tell: Rollin' With Sphero 2.0
-79JxJ3R69WI 7:31 Adam Savage Incognito as Jack Sparrow at Dragon*Con 2013
-ccUSBPX54RI 0:31 Work for Adam Savage!
-fDDTEefXxP4 1:22:05 Watch Will Drink Coffee During the iPhone 5S/5C Introduction - Previously Recorded!
-3354QxdbbCs 3:46 Show and Tell: More Kirk Than Sulu
-2h1jVCRVqJM 54:57 Jamie and Adam's Dragon*Con 2013 Panel
-mOEORip90TI 9:32 George Lucas' Super Live Adventure Show (1993)
-onPEtV54a00 11:22 Cooking Sous Vide with the Sansaire Immersion Circulator
-TEpw5KHRdPc 1:57 Adam Savage Pays Homage to Animal House at Dragon*Con
-ZK5FRPwIWVE 29:10 Tested In-Depth: Leap Motion Controller
-3Ee3IV7Vse4 6:50 Tested Mailbag: The Secret Box
-VdjwNnPp-n8 57:55 Adam Savage, Phil Plait, and Veronica Belmont Talk Science
-hZLRLlHatfY 2:40 MakerBot Mystery Build: Spinning and Winning
-Q7RoL1FUR1g 1:02:43 Adam Savage Interviews John Landis - The Talking Room
-l-gpge-756w 1:52:08 A Bunch of Dads 3 - Dad Hard With a Vengence - 8/29/2013
-Qd-YXqAPFK0 21:15 Jamie Hyneman on His Time as a Boat Captain Sailing the Caribbean
-kA_BVP5Sxjc 7:39 Google Street View Inside the Tested Office!
-TCVZ0jZCUs4 2:34 MakerBot Mystery Build: Lessons in Failure
-3mgCbXCCrRI 4:46 Show and Tell: Gakken SX-150 DIY Synthesizer
-PpIg92-3MT0 2:18 MakerBot Mystery Build: Smart Cookie
-QoaNS-Pthno 37:06 Tested In-Depth: New Game Demos On The Oculus Rift VR Goggles
-TnJD7aoWrlI 13:30 The One Million Movie Props at The Hand Prop Room
-uvyh3-V9VI0 4:02 Tested Mailbag: We Have the Technology
-63K1_qB0J1I 1:59 Show and Tell: Behold the Bug-A-Salt
-Ol6YD93HsAg 12:49 Making Adam Savage's Admiral Ackbar Cosplay Costume (Geek Week!)
-BpvAAuejxng 0:31 How To Work for Adam Savage!
-IKJMPixyHTE 22:34 Tested In-Depth: Lenovo Yoga 11S Ultrabook
--bg7WFmqR9c 15:47 Testing Adam Savage's New Dissection Microscope (Geek Week!)
-qxpqPynM20M 4:55 Show and Tell: Six Million Dollar Home
-7oVSaUWeKt0 7:39 Making a Real Life-Size Wall-E Robot
-H5AWG8g7IwQ 1:16 What is Tested?
-LgkRiMcvDUE 2:04 MakerBot Mystery Build: Swear To Me
-hi_c2h9r1YI 35:44 Tested In-Depth: HTC One Google Play Edition
-WOty2weC-Nk 6:10 Star Trek: Into Darkness Starship Models from Quantum Mechanix
-fgRKG2Rmd60 2:20 Show and Tell: Emergency Home Lantern
-HVLId_4GjOM 2:17 MakerBot Mystery Build: 19,000 Solutions
-ZWhnHFPLbYA 13:18 Jamie Hyneman on Killer Death Robots and Robot Bloodsport
-q4A7hR2k-5Q 3:45 Show and Tell: Hot Toys Iron Man Mark VII 1/6 Scale Figure
--okuey77X9E 3:59 Tested Mailbag: We're Being Watched
 4sCReGjfZ_A 16:37 Adam Savage's One Day Builds: Han Solo's DL-44 Blaster
-VhNNzgNZaLA 9:08 Adam Savage Geeks Out Over Woodworking Saws
-hKfRcop0MAs 10:32 Jamie Hyneman on Electronics and Microcontrollers
-o8qnOUc_zOQ 4:25 Show and Tell: Mechanical FlipBook Kit
-u19mQlQeMmE 14:08 How NASA's Mission Control Supports Space Missions
-VsdoJy8rzZg 10:58 How Astronauts Put on Space Suits
-BRPb0J8lZcY 7:07 How Astronauts Train Underwater at NASA's Neutral Buoyancy Lab
-ZwwEgZvxljQ 8:31 Jamie Hyneman's Interest in Russian Linguistics
-dPZyz7LlTAc 2:46 Show and Tell: Roost Laptop Stand
--fxeJI_gWP8 2:31 MakerBot Mystery Build: Home Office Basketball
-xrc1uIIeppk 27:01 Tested In-Depth: Apple 11-Inch MacBook Air (2013)
-qAGIpTupW54 52:47 Adam Savage Interviews David Chang - The Talking Room
-b7MLhzxOwb0 1:14 Show and Tell: Easy Desktop Cable Management
-H1Zc1rsGFJI 0:53 Google Glass vs. Public Bathrooms
-hSdlobMmJW0 9:54 Tested at CERN: How The ATLAS Experiment Works
-EnBYZd2Ey6U 19:43 Tested Visits The Large Hadron Collider and ATLAS Experiment
-Ctzc8QSF6mQ 29:04 Tested In-Depth: Google Glass Explorer Edition
-aHZnqffmiwA 7:34 Show and Tell: Tron Arcade Cabinet Miniature Model
-JxQpLfxyA_0 2:34 MakerBot Mystery Build: Uno Dos Tres
-0eGiQzf6nac 15:55 Inside Adam Savage's Cave: The New Laser Cutter!
-EUgeB46JiXw 30:37 Tested In-Depth: Getting Started with Arduino
-HhmDGbYueTo 5:31 Brad and Patrick from Giant Bomb on the Xbox One Event - E3 2013 - Recorded With Google Glass
-rkUj3lomdMw 33:01 Q&A With Adam Savage and Will Smith (not that one)
-t7-cqcFNYRA 2:52 Show and Tell: Podcasts in the Shower
-dEmZAH63gy4 2:19 MakerBot Mystery Build: Where the Pros Go
-EmsNaVIzDIU 8:06 Inside Adam Savage's Cave: Hacking a Flashlight for Adam's EDC
-HwrkXSO4788 16:22 The Making of a Gaming Mouse: Inside Logitech's Labs
-k2d05_v8FWE 3:42 Handheld 3D Scanner at Maker Faire 2013
-nJK4LlOwVds 7:26 Maker Project: RGB LED Animated Pixel Box
-2QQKMlDK148 2:11 Makerbot Mystery Build: Meow Mix
-l-OkZ7M4J0M 1:08:16 60 Minutes of Your Dumb Questions Answered: LIVE! No Jars Allowed - 5/30/2013
-Q69LkrvTyUo 6:01 Touring The Nautilus Submarine Art Car at Maker Faire 2013
-DOI2W7qwfqg 3:40 Meet the Shopbot Handibot - It's a Smart CNC Router - MakerFaire Bay Area 2013
-9HYESMMI9_g 2:39 Giant Walking Pod Robot at Maker Faire 2013
-r2oNpvtKGuE 9:33 Maker Project: Lighting Up Old Pinball Playfields
-zwuZplvlw6s 3:11 Programmable LED Shades at Maker Faire 2013
-78ndKQj6sHc 3:53 Flying The Viper 2.0 Flight Simulator at Maker Faire 2013
-f8-UKqGZ_hs 10:51 Astronaut Chris Hadfield and Chef Traci Des Jardins Make a Space Burrito
-5qAfcyQFk6Y 12:36 Adam Savage on Working Smart at Maker Faire 2013
-cobJzLQqUmo 9:44 Astronaut Chris Hadfield Plays Jamie Hyneman and Adam Savage's Space Game on the ISS
-b8GhQ6wilw0 1:44 Show & Tell: Favorite Electric Pour Over Kettle
-qFM5khxxGaw 2:17 MakerBot Mystery Build: Booster Packs
-49TkVLRWKoc 12:25 Astronaut Chris Hadfield and Chef David Chang Test Gourmet Space Food
-6vVle67Tfjc 19:22 Tasting Astronaut Food: Inside NASA's Space Food Systems Laboratory
-cJ3Q1cuUDbA 5:01 Motion Time-Lapse Photography Testing with the Radian
-BZdGVSCmzWY 1:31:43 A Bunch of Dads 2 - Dad Harder - 5/12/2013
-iyBFBmZGVnE 1:54 MakerBot Mystery Build: Shenron By Another Name
-IAGOJytpEt8 1:20 David Chang and Traci Des Jardins Taste Astronaut Coffee
-UAHHs8XpmBc 1:47 Show and Tell: Favorite Cable Organizer
-qn6nWLSIfPM 2:08 Makerbot Mystery Build: Keeping Your Details Secure
-wns4oLXHNRI 1:44:38 Episode 168 - On Carbonated Beverages - 5/2/2013
-bgzxuJ-BCqU 19:09 Tested: Centrifugal vs. Masticating Juicers
-FWF69cmT6-I 4:16 Show and Tell: Collecting Screenprinted Posters
-A_D50Xp9bSQ 2:01 MakerBot Mystery Build: Concert Festival Essential
-EKhp4H3DUwE 17:53 Jamie Hyneman Tests the Oculus Rift Virtual Reality Goggles
-jBtyyb9dMGY 1:25 Show and Tell: How Wide is It?
-1p-oAyymw1M 9:54 Jamie Hyneman's Thoughts on Designing and Making with CAD
-eSYQyAljYOY 4:37 Hacking a $20 Toy Helicopter into an Autonomous Drone
-7854iZT6PLs 6:33 MakerBot Mystery Build: Smooth Move, Ferguson
-ffk3mf8BwqQ 1:40:56 Episode 166 - Lake Wobegon Is a Lie - 4/18/2013
-R9S0fTOVug4 3:27 Testing the Puzzlebox Orbit Brain-Controlled Helicopter
-qhMdNxV3g38 2:36 How To Brew Coffee with the Able Kone Brewing System Not for Most People
-qBWl-LQmp_M 1:56 Show and Tell: Favorite Pocket Flashlights
-R9Z6HVNF3ok 3:14 MakerBot Mystery Build: Nemo's Friend
 0JnTThZMJAg 13:12 Adam Savage's One Day Builds: Strandbeest Model Kit Fitbit Zip Wireless Activity Tracker
-GvzIFxdPN-E 3:35 Show and Tell: Battle Wizards
-Qu6VoMtydDk 3:04 WonderCon 2013: Metal Gear Solid's Raiden Cosplay
-9kr9h0UEjQc 1:08:14 Episode 164 - Will's Dead MacBook - 4/4/2013
-F7cSsnLlXIQ 4:24 Restoring the Star Trek: The Next Generation Enterprise Bridge
-P50fvL_EWYY 44:08 Testing the Oculus Rift Development Kit: Team Fortress 2 Virtual Reality
-vBqT9ZFyeTU 4:55 WonderCon 2013: How To Be a Ghostbuster
-I0_lIUd92e4 5:32 Show and Tell: Tested Goes to WonderCon 2013
-fDxRVJANES4 4:46 Sandboxr at GDC: 3D Printing Made Simple
-NcsovUKD0lU 1:58 MakerBot Mystery Build: Swing the Sword
-py4v10Vlc0Q 6:19 Oculus Rift at GDC: How Hawken and Team Fortress 2 Work in Virtual Reality
-bypi7h6WOGg 8:05 Adam Savage's Everyday Carry (EDC)
-kjcterqHPZk 1:36:32 Episode 163 - Vader Helmet - 3/28/2013
-hTCIlO0oLP8 28:36 Introduction to 3D Printers: The Promise and Pitfalls of Desktop Manufacturing
-3VQEOkCWEVY 2:19 Whale Tagging: Marine Biologist Ari Friedlaender Tags Whales for Science!
-9bOixhxmTd0 1:14 Show and Tell: Geek Dad
-LWkU51YjCMg 3:46 MakerBot Mystery Build: Time Crisis Avoided
-7I0rX7t1J0Q 15:48 Tour of Adam Savage's Home Office
-zQaZ_-i0EJM 17:09 Robot Bartenders of BarBot 2013 Serve Up Drinks
-xLOWjeDkiFk 3:16 Show and Tell: Never Do Anything Small
-mQWzFxVlMB4 9:09 Tested Mailbag: What Flag is That?
-5ziTbDQC0gA 3:43 MakerBot Mystery Build: A New Home
-1dGBRGtyzX0 20:30 Cooking Perfect Omelettes with Adam Savage (and Traci Des Jardins!)
-6XnU8MPjp1Y 1:38:38 How to Build a Kick-Ass Gaming PC 2013
-beOKjMbD9YA 3:51 Show and Tell: Putting Old Glass to Work
-gY0rAVnzt0M 3:52 MakerBot Mystery Build: Choose the Red Pill
-MPsUBmgBXX4 1:34:30 A Bunch of Dads - 3/7/2013 Google Nexus 4 Smartphone
-OkOB4uLn06s 41:34 Tested In-Depth: Google Nexus 4 Android Smartphone
-oKw1Bdf5eGQ 3:18 Show and Tell: Your Very Own Sad Keanu
-ZlA15Uaw4MA 18:06 The Bay Lights Project: Attaching 25,000 Lights to the Bay Bridge
-tycMj1Kv-Lk 4:41 MakerBot Mystery Build: Bear[d] with Me
 YXzxEqdvuIE 31:11 One Day Builds: Adam Savage Demonstrates Weathering Tricks Mophie Juice Pack Helium for iPhone 5
-_8DZ-9yQiGw 30:55 The Adam Savage Project - Shop Safety - 2/26/2013
-HczkH88KdZk 1:45 Show and Tell: The Writer's Best Friend
-jZ-l_BLOg5o 3:36 MakerBot Mystery Build: Not Included
-lOuDa7wszZ0 4:04 The Best and Worst of Bootleg Star Wars Toys
-uRW-YxKWzjA 7:23 Rare Star Wars Toys That Never Made it to Stores
-T-rZ528C8Ss 17:00 The World's Largest Star Wars Memorabilia Collection at Rancho Obi-Wan
-lbBY0TrMURE 6:08 Show and Tell: The World of Art Toys
-p5z5_9nIqcY 3:43 MakerBot Mystery Build: Plastic, Not Tin
 -tUHJnl8qPM 32:11 One Day Builds: Adam Savage Makes Something Wonderful from Scratch Sony NEX-5R Mirrorless Interchangeable Lens Camera
-XfYWPN2O1yk 4:57 Show and Tell: Not Your Typical Action Figure
-DBRsMzCyM98 3:23 MakerBot Mystery Build: Empty Your Pockets
-a7U45gRkBPA 13:22 w00tstock Founder's Night with Adam Savage, Wil Wheaton, Paul and Storm
-AkOA3dn9TmM 10:11 Adam Savage Geeks Out Over Camera Gear
-IsXk4wsBaiY 4:25 Show and Tell: Star Wars Behind-the-Scenes
-szjuBzkxnh8 4:45 Tested: GoPro Hero 3 Black Edition vs. GoPro Hero 2 Video Quality
-rl0puahT5Eg 2:34 Show and Tell: The Best Rubber Band Gun Ever
-J5HOvQRK4WA 7:54 PC Build Race 2013: The Return
-cJQPbMvWC6A 8:55 Behind the Signs of The Las Vegas Neon Boneyard
-L9_Cm8lLumo 1:28 CES 2013: Norm Drives the Mondo Spider
-yeQJ3TQOl5Y 3:40 MakerBot Mystery Build: So Damn Itchy
-r6NZf8VH90w 8:13 CES 2013: 3D Systems CubeX Trio 3D Printer
-jbj8WpPSDoY 7:16 CES 2013: MakerBot Industries Replicator 2X 3D Printer
-hiSTxKkqHTY 4:58 CES 2013: How Liquipel Will Make Your Phone Waterproof
-Aqx8zfdcmlI 7:18 CES 2013: Xi3 Computer System Optimized for Steam
-v6lpUX8Yavk 5:06 Tested Mailbag: Starting the Year Off Right
-rGem_fxBAo8 4:59 Makerbot Mystery Build - Puzzling
-uZiPX6pseL4 1:03:31 Tested at CES 2013 Day 4: Audiophiles, Nvidia Shield, 3D Printers
-RTX4hE2JIsY 1:05:58 Tested at CES 2013 Day 3: Wirecutter, PC Build Race, Lenovo
-euWMMENNjv4 1:18:25 Tested at CES 2013 Day 2 Recap with Wired Gadget Lab
-WdBgIKrsI1s 1:11:26 Tested at CES 2013 Day 1: Press Conferences, 1080p Phones, 4K TVs
-1WA6n5lORV0 1:10:30 Tested at CES 2013 Day 0: Unveiled, Augmented Reality, Nvidia's Shield
-N_KwUmMMCK0 1:38:46 Episode 153 - Happy New Year! - 1/3/2013 Sony Cyber-Shot RX100 Digital Camera
-cfxMFhkt6Ls 3:20 MakerBot Mystery Build: Run of the Mill
-4DUULvPJTgk 26:27 Adam Savage's Blade Runner Blaster Obsession
-4pg8A0ab6S4 14:10 Tested Learns the Craft of Letterpress Printing
-Hyl95NRnz_8 18:53 Tested Visits the Space Shuttle Enterprise
-vYb_gOVRMlw 3:20 MakerBot Mystery Build: For the Careless Lenovo Ideapad Yoga 13 Laptop
-vKRG6amACEE 20:27 Inside Adam Savage's Cave: Model Making for Movies
-9jTTZPARY90 17:08 The Awesome Aircraft at the Intrepid Sea, Air and Space Museum
-Uf6VQZ-ny6c 49:45 Tested In-Depth: Discussing Microsoft Windows Phone 8
-bSYt6-dJ0NY 3:48 MakerBot Mystery Build: Line Waiting
-FXYcHgDf10U 10:40 Inside Adam Savage's Cave: The Dodo Birds Project
-INaV40Hy66Q 22:47 Tested Test Drives the Tesla Model S Electric Car
-Zt0ObjJMIcg 33:26 Tested In-Depth: Discussing the Amazon Kindle Fire HD 8.9" Tablet Amazon Kindle Fire HD 8.9" Tablet
-ZxbFAsizQV4 2:44 Slow Motion Massive Water Balloons vs. Face—Who Wins?
-EpKCkpwu6JA 3:43 MakerBot Mystery Build: They Call Me
-pIpN8yWEqNQ 11:32 Learning How To Make Dovetail Joints with Adam Savage
-88vcFHIQG7A 13:38 The Awesome Robot Battles of ComBots Cup 2012
-cVpr9ufcMOI 8:15 Tested: Does a Bullwhip Break the Speed of Sound
--NgRRZ0ZTqI 3:27 MakerBot Mystery Build: OK to Go
-0EjkQaB8dvw 4:37 Welcome to the New Tested Office: Part 3
-Yk3DXfphLEw 3:41 Makerbot Mystery Build: On My Shoulders
-c6Rmbj6NSUc 4:14 MakerBot Mystery Build: Incomplete Without It
-hT6ZQJ2eIG4 10:19 Tested vs. The Liquid Nitrogen Dewar
-jWKlUur7ROo 2:08:22 OCTOBERKAST 2012 - Part 12 - Jason Cross, Patrick Klepek, The Exciting Conclusion
-qxhPdKCb2-o 1:49:52 OCTOBERKAST 2012 - Part 11 - Loyd Case, Jason Cross
-_WU9HMTp_QA 1:53:33 OCTOBERKAST 2012 - Part 10 - Jeff Green, Ryan Block
-byIjDlwrskE 4:36 MakerBot Mystery Build: Spare a Hand
-KVQIZw3UvU4 2:16:04 OCTOBERKAST 2012 - Part 9 - Adam Savage, Jeff Green
-SinOtIpjhBw 1:52:56 OCTOBERKAST 2012 - Part 8 - Jeff Gerstmann, Brad Shoemaker, Darren Gladstone
-rx1FbHfiA0k 2:01:42 OCTOBERKAST 2012 - Part 7 - Bricked Conclusion, Jeff Gerstmann, Brad Shoemaker
-Rem30sfm_x4 5:57 Adam Savage Builds Patton Oswalt's Halloween Costume
-u4qWe60BVgE 1:56:19 OCTOBERKAST 2012 - Part 6 - Patrick Norton, Drew Scanlon, Bricked Begins!
-4kIsSXMNT54 1:56:57 OCTOBERKAST 2012 - Part 5 - Alexis Gallisa, Patrick Norton, Drew Scanlon
-EQrDphoVNn0 2:00:30 OCTOBERKAST 2012 - Part 4 - Roberto Baldwin, Alexis Gallisá
-Z9eOgEmuXAA 1:53:19 OCTOBERKAST 2012 - Part 3 - Scott Sorenson and Bill Doran
-m1wv16Q_12U 6:57 Tested vs. The Slow Motion Camera
-2apCzJSEhSw 1:55:41 OCTOBERKAST 2012 - Part 2 - The Idle Thumbs, Vinny Caravella
-KY5Fo-aQvxY 1:48:55 OCTOBERKAST 2012 - Part 1 - Welcome to the Show, Roger Chang, Brad Muir, Ryan Davis
-WGr4URdeoEI 10:04 World Maker Faire 2012: The Power Racing Series
-NAvwsnVFNng 56:00 No Jars Allowed - 60 Minutes of Dumb Questions Answered
-zaAF6ZMMPnA 14:25 Tested Visits the MakerBot Store in New York!
-hQWcIkoqXwg 9:39 Inside Adam Savage's Cave: Geeking Out about Bits and Bytes
-e52fXpS9YCY 12:14 Meet Kelvin, Smitten Ice Cream's Liquid Nitrogen Machine
-djoicg92kwQ 2:58 World Maker Faire 2012: Brooklyn Aerodrome
-vTcMxXWtzus 8:22 Tested Visits the NYC Resistor Hacker Space in New York
-4yYp70X4BNc 4:11 World Maker Faire 2012: Liquidware Amber Custom Android Tablets
-Rn0gHb9hDw4 6:00 World Maker Faire 2012: Dug North's Wooden Automata
-cMz87PlKTvs 18:03 Inside the Botcave: A Conversation with MakerBot Industries' Bre Pettis
-0RPgn41EXpE 2:23:59 Episode 142 - OCTOBERKAST Announced! - 10/04/2012
-fkjiqdvElsw 4:34 Tested Goes to World Maker Faire 2012 in New York!
-iA7GYjUOp1E 3:31 World Maker Faire 2012: Project Sentry Gun
-YzpVtkwkxMc 6:46 World Maker Faire 2012: Formlabs Form 1 3D Printer
-WCEWC2B6YoM 3:41 MakerBot Mystery Build: Hello, My Name Is
-UapwPPEPwsA 3:29 Tested Mailbag: We're Knitwits
-NNSCGV_x_f0 16:17 Meet Dezsö Molnár and His Flying GyroCycle
-z_2zHW6KaoY 8:42 Tested Mailbag: It's a MakerBot Mystery
-hce-0xeXxoQ 8:48 Inside Adam Savage's Cave: C-3PO Protocol Droid
-M_D5_LGhSaU 20:15 Adam Savage's Keynote at the XOXO Festival
-Nby46qvL-bQ 5:48 MakerBot Mystery Build: Figure it Out!
-pwp5Z3ghYss 2:32:21 Episode 139 - The iPhone 5 Arrives - 9/13/2012
-p5VJpITFXnM 6:38 Inside Adam Savage's Cave: Master and Commander Costume
-25pNpxiCE_E 1:01:37 No Jars Allowed - 60 Minutes of Dumb Questions Answered
-B4K1l-QQBJ0 3:39 Makerbot Mystery Build: It's In a Box
-bQbbtnTz1KE 18:49 Inside Adam Savage's Cave: The Bourne Identity Burn Bag
-C8o33SiG74M 3:21 MakerBot Mystery Build: Back to the Basics
-EA1jeViV4l8 14:07 Jamie Hyneman On Welding in His Workshop
-WHfNecS6gEw 3:05 Makerbot Mystery Object - It's Full of Facets!
-w-OFy6vCs_c 3:16 Makerbot Mystery Build - Wow, That's Tall!
-2oelkn4qTWg 3:25 Inside Adam Savage's Cave: Deadmau5 Helmet
-pNeHJY1XODQ 19:33 Tested: Flying the Boeing 737 Flight Simulator
-J5BmA3ejyHY 13:12 Tour the Boeing 737 Flight Simulator Built in a Garage
-PT06dNHKArk 3:43 MakerBot Mystery Build: The Triumphant Return!
-Y9GIMaNwUEM 7:20 Inside Adam Savage's Cave: Spirited Away No-Face Cosplay
-PNkxpXcn4tM 10:40 Quantum Mechanix's USS Enterprise 1701-D Artisan Replica
-dleIC3KX_uM 6:29 Welcome to the New Tested Office: Part 2
-_hYBDDZjgiw 8:10 Inside Adam Savage's Cave: Iron Man Mark I
-YyVz84m2KLM 6:55 Tested: Cooking the Perfect Pizza at Home
-1zUPgXqyV7o 3:46 Inside the Modernist Cuisine Kitchen: Quail Eggs
-I_tgxzXmpKQ 16:46 Inside the Modernist Cuisine Kitchen: Cryo-Fried Steak and Perfect French Fries
-E6L-uT3XOI0 7:14 How Modernist Cuisine Photographs Cross-Section Cooking
-LO8xKv0iUd8 26:34 Not Exactly a Mailbag: The Makerbot Replicator Arrives
-TNa4NaYF9jQ 22:35 Inside the Modernist Cuisine Kitchen: Elote and Pistou
-gDm1PChnF-A 11:26 Tested Tours the Modernist Cuisine Laboratory Kitchen
-_EV2qq2-Lck 12:48 Jamie Hyneman's Electric Outboard Boat Motor
-qSJsEwKqAbU 9:16 Inside Adam Savage's Cave: The Blade Runner Blaster Pistol
-sx_-SkW24P0 3:54 Welcome to the New Tested Office: Part 1
-qAUBqPwlpao 13:45 Tested: Apple MacBook Air 13" (Mid 2012)
-1OPSbF6kM9k 5:48 Inside Adam Savage's Cave: The Tool Boxes
-QlA9N5WZ2hs 18:51 The As Yet Untitled Adam Savage Project #5 - Skeptics - 07/03/2012
-MplNEsW_fEI 7:01 How to Properly Light a Charcoal Grill
-QiVmFiOecRg 8:34 Inside Adam Savage's Cave: Indiana Jones Bullwhip
-JwbTfcB0QHg 24:37 The As Yet Untitled Adam Savage Project 4 - Girls - 6/26/2012
-Q0pF38ZCJ2c 14:01 Testing the New Able Brewing KONE Coffee Filter
-e4c3iGPoCgY 2:03 Tip of the Day: Custom Vibration Alerts
-4jYZTFBTKsM 5:55 Inside Adam Savage's Cave: The Rocketeer Rocket Pack
-VErGD1A_iwA 13:23 Tippett Studio Tour: Starship Troopers, Jurassic Park, and Robocop
-7iLD6b69O28 23:13 The As Yet Untitled Adam Savage Project #3 - Being a Geek Dad - 6/19/2012
-lVgQ6khAI20 9:12 Inside Adam Savage's Cave: Metal Lathe with Digital Readout
-RlemDMFWNbQ 17:59 Meet Phil Tippett and his Mad God
-rt76k1awa6I 22:56 The As Yet Untitled Adam Savage Project #2 - Getting Started Making - 6/11/2012
-gLVgipHFUXU 4:21 E3 2012: Hokra at Indiecade
-W8s1Vc01iNs 9:26 E3 2012: Microsoft's Xbox SmartGlass Technology
-cFwgG-3ZPjw 3:22 Inside Adam Savage's Cave: Tyrannosaurus Rex Skull
-IIRMysBP1qA 16:12 The As Yet Untitled Adam Savage Project #1 - On the Subject of Man Caves - 6/5/2012
-DneujRTXwic 14:21 The Science of Tintype Photography
-vkBl3ELm1bU 8:48 Inside Adam Savage's Cave: Rasputin's Mecha Glove from Hellboy2cHymaxPFgI 14:56 Maker Faire 2012: The Viper Motion Controlled Flight Simulator
-IU8AUNhGLBU 3:25 Maker Faire 2012: Warhammer 40K Space Marine Armor
-a-XGT8rPZs8 3:33 Maker Faire 2012: The Undersea Voyager Project
-S0frjbVACig 1:21:43 Episode 122 - Don't Do the Dew - 5/24/2012
-7cs7FGCrkPw 5:29 Maker Faire 2012: The Wall-E Builders Club
-nxeK16pdoyE 6:40 Maker Faire 2012: OpenROV Underwater Robots
-Q6ZqbYA2lzo 5:32 Tested Goes to Maker Faire Bay Area 2012
-_otrgJ8Lmx4 19:33 Adam Savage's Maker Faire 2012 Talk: Why We Make
-8O5IfnFaNUs 7:07 How To Build a Third-Person Camera Rig with HD Video
-j_n8p22ku0E 8:37 Inside Adam Savage's Cave: The Zorg Industries ZF-1
-b1OAH0vf1_0 1:10 24fps Filmic Pro Test Video #2
-d9XIywFP9xU 1:49 24fps Filmic Pro Test Video #1
-dVdxN7793-I 25:30 Will and Norm Visit the Reed Research Reactor
-WRZVxM_ByQ8 1:57 Tip of the Day: Remote Camera Shutter for iPhone
-BVf2gk3-ppw 5:11 Third Person Camera Test #2
-grRit8dwWuU 9:16 NAB Show 2012: Zacuto's Steve Weiss and Bruce Logan, A.S.C.
-T8Sc47ZcbmI 2:09 Coffee Sipping, Slurping, and Spitting at SCAA 2012
-nGbHXzK_zeI 4:48 The New Espro Press: 35 oz of Clean Brewed Coffee
-MjR1iVLHsfg 3:12 Third Person Camera Test #1
-FtBYnoHEPzU 3:07 Interview with the 2012 World Aeropress Champion
-CCttopY0PWs 2:25 The Elaborate Shooting Galleries of NAB Show 2012
-GyC4bFEQRKw 2:14 Canon EOS 60Da: A DSLR Made for Astrophotography
-QE48v2Lg5ms 1:49 What Shooting Photos at 11 Frames Per Second Sounds Like (Nikon D4)
-9sMxyIsTfxM 5:11 How To Aerate a Bottle of Wine in 30 Seconds
-YLS4UGD-2Zk 13:27 How To Cook a Steak in a D-I-Y Sous Vide Cooler
-fyYB5wDbvJE 1:24 Tip of the Day: Mass Delete Your Email Spam
-ysZdR1HCS8g 3:24 Molecular Gastronomy: What is Spherification?
-5OEQQw3UO2U 4:41 Tested: Is Norm a Supertaster?
-aWCG_mFyZdE 7:22 Exploring Modernist Cuisine: The Science of Contemporary Cooking
-OAMCxxHR6CM 4:52 Tip of the Day: How To Stop Your Glasses from Slipping
-fDCSwDnCXk4 23:30 How To Properly Take Apart a Sony PlayStation Vita
-bb9gYOc6BKc 1:09:05 No Jars Allowed - April 4, 2012
-yHgWtK18qxk 2:50 Tip of the Day: Macro Photography with Interchangeable Lenses
-rEJ6r8qNSpk 0:28 Stop Motion of a Lego Midi-scale Star Destroyer Build
-3tQeJ5rDjbc 9:09 The Secrets of The World Record Paper Airplane Design
-JjczuYEL_qQ 7:04 How To Fold and Tweak a Great Paper Airplane
-FQwGIYyuAgM 1:44 Tip of the Day: Quick Access to iOS Settings
-lxsw97NjBqo 16:00 Meet John Collins, "The Paper Airplane Guy"
-35bpCipofRM 7:06 Tested Mailbag: We Were Not Prepared for This
-MLl8etbmm3w 12:16 Maker Interview - Harrison Krix of Volpin Props
-HKr63RC8sqE 1:12 iPhone Tip of the Day: Tap and Drag
-Z7tiqnZMXF8 24:43 iPad Autopsy - Will and Norm Disassemble Apple's New iPad
-bbTV6M8rPa0 1:05 Jamie and Adam Welcome You to Tested!
-CFavhTixcKM 1:55:30 The Amazing Test: Bricked! Finale, Part 2
-5h_fpGOY4mo 1:40:17 The Amazing Test: Bricked! Finale, Part 1
-xctpfYEGfJg 2:10:39 Episode 110 - L.E.A.H. - 3/1/2012
-tiy1x5nBKSA 57:56 The Amazing Test: Bricked 21
-ov2GmP1nob4 47:02 The Amazing Test: Bricked 20
-hRZRuecE-pc 35:56 The Amazing Test: Bricked 19
-mXUTBAEHpZs 34:38 The Amazing Test: Bricked 18
-jUtBG2IJxc0 35:29 The Amazing Test: Bricked 17
-51ok9A3ekLo 35:56 The Amazing Test: Bricked 16
-MtGiRar6d34 37:21 The Amazing Test: Bricked 15
-qnjENg0JiJs 36:12 The Amazing Test: Bricked! 14
-snqqBtu39r4 35:02 The Amazing Test: Bricked 13
-T5C2jdxd8fI 47:46 The Amazing Test: Bricked! 12
-5XsuAUjkUYs 36:25 The Amazing Test: Bricked! 11
-240E6n58tEY 33:52 The Amazing Test: Bricked! 10
-uuw19cwySw8 2:14:44 Episode 107 - Animal Crackers - 02/09/2012
-Evta9HhKSgo 33:29 The Amazing Test: Bricked! 09
-vRyFafcS4GU 33:49 The Amazing Test: Bricked! 08
-pFM9Uno45_c 36:50 The Amazing Test: Bricked! 07
-yQg0Erb641E 34:51 The Amazing Test: Bricked! 06
-3C6XzhWjJpA 33:42 The Amazing Test: Bricked! 05
-j9WL9aT188Y 2:39:54 Episode 106 - Groundhog Day - 02/02/2012
-znGRCNqvwSI 35:22 The Amazing Test: Bricked! 04
-afmuziMmgLw 33:18 The Amazing Test: Bricked! 03
-8Q6HiZnBj68 33:27 The Amazing Test: Bricked! 02
-4voIKGvMrtY 33:28 The Amazing Test: Bricked! 01
-ZuyUS3MDxQY 2:18:37 Episode 105 - The Fast and the Fourier - 01/26/2012
-xUXC73puhbA 1:11:37 No Jars Allowed - Delayed, But Not Forgotten
-sIFU61EKBlk 1:18:47 No Jars Allowed—Early Morning Edition
-Ptq93jgG0Fo 2:39:34 Episode 96 - Listener's Choice! - 12/15/2011
--9BjZSr-6z4 2:23:28 Episode 95 - Dire Straits Hate - 12/8/2011
-vZwyqJCLWLg 1:14:29 Late Night With Will, No Jars Allowed [PREMIUM]
-WGbhWuqBwFA 2:17:36 Episode 94 - Stuffing All Year 'Round - 12/1/2011 [PREMIUM]
-QgbgltGRaUU 2:31:54 Episode 93 - Talkin' Turkey About Tech - 11/23/2011 [PREMIUM]
-d-jhnaVbgLc 5:38 The Perplexus Epic vs. Norm [PREMIUM]
-Hvd-sQgxUcM 44:12 Red Phone Diaries - Episode 1 - Will [PREMIUM]
-0cPCeFxK-Hg 5:53 The Perplexus Epic vs. Dave [PREMIUM]
-exKdsFDmODc 1:01:39 Whiskey Media: Happy Hour 08/12/11
-O0YQBLf6t_4 1:03:04 Whiskey Media: Happy Hour 07/22/11
-idqSjyGI1LI 56:58 Whiskey Media: Happy Hour 07/15/11
-P2LRFmCkLnI 53:11 Whiskey Media: Happy Hour 07/08/11
-OWhQeH3SWEw 1:01:59 Whiskey Media: Happy Hour 06/17/11
-5cFWJUE-K1A 1:04:11 Whiskey Media: Happy Hour 06/10/11
-soCrquaytSI 1:08:41 Whiskey Media: Happy Hour 05/06/11
-gTS-hHAJM38 1:02:36 Whiskey Media: Happy Hour 04/15/11
-wInEpU89iwg 1:05:11 Whiskey Media: Happy Hour 04/08/11
-wDyp0iUxP70 1:14:18 Whiskey Media: Happy Hour 03/18/11
-ED_6asYE2yk 1:40:24 How To Build a Future-Proof $1500 PC
-YjHnAwno-LI 1:59:13 Whiskey Media: Happy Hour 03/04/11
-IPzb2o1tfC8 48:52 Whiskey Media: Happy Hour 02/18/11
-XHcrsSwsOMw 1:07:05 Whiskey Media: Happy Hour 10/22/10
-w_FBUNJFOJQ 1:17:24 Whiskey Media Happy Hour - 10/01/2010
-3WLG8_dfX9M 0:53 Good News Everyone!
-Vdf8WTWq6kQ 2:16:36 Episode 109 - The Wrong Side of History - 02/23/2012
-hcc6U-Ez-k8 1:08:50 Whiskey Media: Happy Hour - 9/24/2010
-tuxM-avNfLo 1:42 LEGO Super Star Destroyer VS. LEGO Death Star
-i_ioWxz0xGU 6:47 MakerBot Returns: Reboot
-gRjAoKWKBrE 1:10:37 The Amazing Test: Bricked!
-xwWemnH5x2w 9:29 The Best New Products at CES 2012
-TwzIw6TmCPk 11:11 The Best New Technologies at CES 2012
-njMEuW1-f4s 9:04 Quick Look: Phone Accessories for Your Car
-4d8msfKla7g 6:51 CES 2012: Day 03 Wrap-Up
-F4WVg7InsGQ 2:04:22 Episode 103 - Leaving Las Vegas - 01/12/2012
-HZtiJLWsvlc 3:47 CES 2012: Toshiba 4K Display
-oaj9QJzg6Oo 7:22 CES 2012: Day 02 Wrap-Up
-H9iBSZwsubE 5:34 CES 2012: Day 01 Wrap-Up
-0SVMhTe22e8 1:58:10 Podcast
-UI6A4qVTEKo 6:23 CES 2012: Day 00 Wrap
-uTWgJ0S9Jno 5:49 CES 2012: The Road To Vegas
-sxvXWcUZGbk 2:12 Tested CES Suite Tour
-H6X8Dr_QrwA 6:47 CES 2012: What's in Your Bag, Wes?
-Vsg6ftfoxNA 8:23 What's in your bag, Will? (2012)
-TgSSI9eRjtU 6:16 What's in your bag, Matt? (2012)
-pphH-fcv-uc 7:48 What's In Your Bag, Norm? (2012)
-k6iR9k_3ycg 1:53 MakerBot Mystery Build: Inception
-nZL_UOksXQM 24:51 Tested: Our Favorite iPad Apps of 2011
-edgdIxE6zKk 31:18 Tested: Our Favorite iPhone Apps of 2011
-iITi9yRYhyQ 4:37 Tested Mailbag: Watch Us Get Board
-NmqBg7cvJhk 1:51 MakerBot Mystery Build: Croctastic
-_QAyJCvAUyM 5:00 Quick Look: Lighted Kindle Covers
-g8zDc0HFkkA 1:04 The Best Keyboard Shortcuts in the World #2
-bLjyV24KpeY 8:15 Quick Look: Vusix Wrap 1200VR 3D Glasses
-IDaLHNXWOBw 17:57 How To Deep Fry a Turkey without Burning Your House Down
-ysAEfbbmDP8 9:22 name goes here
-txDTIFZysEY 2:58 MakerBot Mystery Build: Tighten Up
-A2y6jzC5Jj0 3:31 Quick Look: The PlugBug
-ys0by-8aw_k 4:11 Quick Look: Oakley HDO-3D Gascan Glasses
-4h-HLMl8ygg 4:20 Tested Mailbag: Blast From The Past
-MQDvO9hxa-Y 2:39 MakerBot Mystery Build: Everything In It's Place
-uEWZai9S9wU 14:55 How To Make the Most Out of Siri on Apple's iPhone 4S
-JLxOKgJy2tc 2:29 MakerBot Mystery Build: Heal Thyself
-pGYPtJX4ZeI 18:13 How To Take Apart a Fourth Generation Kindle
-q1ZQ0XMXnZw 2:02 MakerBoy Mystery Build: Can't Have Too Many
-hlTNFzHZwHI 1:53 MakerBot Mystery Build: Keep Out
--UuORIzrwk8 19:31 The Best New Features in Apple's iOS 5 for iPad, iPhone, and
-Tiz5Qq-EvTU 2:45 Tested Mailbag: Gift Wrapped Caffeine
-JKPhZ6tPxdg 2:45 Tested Mailbag: Gift Wrapped Caffeine
-07yOaCwQAkU 50:34 Whiskey Media: Happy Hour 09/02/11
-rXjF3gvf_zQ 50:34 Whiskey Media: Happy Hour 09/02/11
-b6jIwgQIVXY 2:08 MakerBot Mystery Build: Seeing Red
-RCCjVG_YS2A 2:08 MakerBot Mystery Build: Seeing Red
-Y0ZDij5kYbY 5:54 Tested: Asus Eee Pad Transformer TF101
-w7Ks0gMS7v4 5:54 Tested: Asus Eee Pad Transformer TF101
-zkE_gemhIcE 5:57 Tested: Three Headphones for Listening to Music in Bed
-ZfscTkV1O78 2:14 MakerBot Mystery Build: Tracing Your Every Move
-pRcXQZXa9XU 4:08 Building Windows 8: Windows Explorer
-8Q87GMbAKH4 4:08 Building Windows 8: Windows Explorer
-7tLDkQR7_YQ 2:14 MakerBot Mystery Build: Tracing Your Every Move
-foZpKAfjj4I 5:11 MakerBot Mystery Build: Refinement
-guP-99rHJYc 4:20 Tested: HP's Now-Discontinued Touchpad
-S5vAIXX0D1Y 4:20 Tested: HP's Now-Discontinued Touchpad
-xGO44RWKA_I 57:43 Whiskey Media: Happy Hour 07/29/11
-NAOF987AkUo 2:38 Tested Mailbag: Ginger Kids
-TyBS69hrm_g 2:38 Tested Mailbag: Ginger Kids
-HxNgkArVeDk 3:26 MakerBot Mystery Build: Hang Loose
-d2df0kSlvgc 1:58 MakerBot Mystery Build: Better Dead Than Red!
-MJRDqvScz2E 1:58 MakerBot Mystery Build: Better Dead Than Red!
-7NNH22gw8I4 4:12 High-End CNC for Anyone: Tested Tours TechShop
-CuKxtsh8tus 4:12 High-End CNC for Anyone: Tested Tours TechShop
-teNxk4vPhhY 3:12 Tested Mailbag: 22 lbs of Awesome
-8i8Pi1YMhAo 3:12 Tested Mailbag: 22 lbs of Awesome
-j_BkCfu3QII 6:04 What's In Your Bag, Matt?
-CfQK-F6oE40 6:04 What's In Your Bag, Matt?
-FATRDEVWABU 58:53 Whiskey Media: Happy Hour 06/24/11
-oDEu_-kmf0s 2:58 Will and Norm's Amazing Race Season 20 Audition
-45-9mTPuhbc 2:01 Tested Mailbag: Three Wolf WANG
-y8UPnCuSZpQ 2:01 Tested Mailbag: Three Wolf WANG
-xveQ4Hp6S54 1:29 Ask Tested: DSL Router Modem Conundrum
-E_eUkbHL8zc 1:17 Ask Tested: How To Clean LCD Monitors
-i4vb7VTuZoE 1:17 Ask Tested: How To Clean LCD Monitors
-6CToQ2t13r0 2:47 MakerBot Mystery Build: It's That Time Again
-RruX0jsgiJY 2:47 MakerBot Mystery Build: It's That Time Again
-nbf31DTEBRo 2:26 MakerBot Mystery Build: Make Mine Neat
-h_qeBO9_D6E 2:26 MakerBot Mystery Build: Make Mine Neat
-RviAuWTfpxo 2:41 Tested Mailbag: Poisoning America's Youth
-Bu72RIuhWIA 2:41 Tested Mailbag: Poisoning America's Youth
-LHfPjn1NB4Q 1:31 Ask Tested: 2.1 Speakers for the Xbox 360 or PlayStation 3
-JxdDpOvtN30 1:31 Ask Tested: 2.1 Speakers for the Xbox 360 or PlayStation 3
-o4yod0zcD08 2:00 Ask Tested: What Version of Chrome Should I Use?
-wOKVl7L6Mpg 2:00 Ask Tested: What Version of Chrome Should I Use?
-MQC9q_--KaM 2:54 MakerBot Mystery Build: Mind Your Manners
-l1Y_g-x4eB0 2:54 MakerBot Mystery Build: Mind Your Manners
-ZV_54nFd7tw 5:28 Maker Faire 2011: How To Pick a Lock
-fSlFt14hSxI 4:42 Tested Mailbag: Always Be Snacking
-Wcaox4wqkmE 3:05 MakerBot Mystery Build: Espectro Printronus!
-EN_X10Y3TDY 4:42 Tested Mailbag: Always Be Snacking
-eYnAEuMCAWQ 1:18:30 Whiskey Media: Happy Hour 04/22/11
-eemTCIV3Uw4 2:19 Ask Tested: How Do I Pick the Perfect Video Card?
-VQNvYDz9RaY 2:19 Ask Tested: How Do I Pick the Perfect Video Card?
-K3RRsaNoxgA 19:53 Quick Look EX: Infinity Blade Multiplayer Update
-Gi7vXjaVc_Y 19:53 Quick Look EX: Infinity Blade Multiplayer Update
-Yo6lNxDxb5c 3:57 MakerBot Mystery Build: This One's a Keeper
-VphLengZCto 3:57 MakerBot Mystery Build: This One's a Keeper
--jTRnKFLzCo 1:49 Ask Tested: Is Now a Good Time To Upgrade My Phone?
-bhNtZurqMlQ 1:49 Ask Tested: Is Now a Good Time To Upgrade My Phone?
-AxiUolt4GHc 2:58 MakerBot Mystery Build: Stand Up for Your Phone
-xwR6UQR4yxE 1:28:21 Whiskey Media: Happy Hour 04/29/11
-9KCh1Ch6FLg 5:14 Tested: iPhone Apps vs Real-World Utilities
-CS-hPpf9If0 2:58 MakerBot Mystery Build: Stand Up for Your Phone
-ODcHaO4tkFA 5:14 Tested: iPhone Apps vs Real-World Utilities
-j3ibTvSF46w 2:41 SCAA 2011: US Barista Championship & More Coffee Contests
-4foCXjVx7Zs 0:57 Ask Tested: Intel's Hyper-Threading vs. TurboBoost?
-44kZq_4U7Wg 4:16 MakerBot Mystery Build: A Barrel Full of What?
-z84iKIahOKA 2:12 SCAA 2011: Baratza Coffee Grinder Lineup
-65Q7XHuJfUo 8:47 SCAA 2011: What's Coming Next In Pro Espresso
-p0xImO3E2rk 2:12 SCAA 2011: Baratza Coffee Grinder Lineup
-jjniJRGTXA8 11:07 SCAA 2011: What's New In Automated Pourover Machines
-zrKdoCLEduY 4:27 SCAA 2011: Tour of the Show Floor
-Tn08mha2_oE 4:27 SCAA 2011: Tour of the Show Floor
-VIDQjTspnnU 1:27:49 Whiskey Media: Happy Hour 04/01/11
-_gVN2WA-524 5:16 MakerBot Mystery Build: Take That, Wind
-pr_3-mqfIHo 2:58 MakerBot Mystery Build: Happy Easter, Really
-V5Ba9RI4jdU 3:15 MakerBot Mystery Build: Don't be a Blowhard
-WlUZKKbb5hc 3:19 Hot Tip: How to Measure Accurately for Great Coffee
-cCwuK43ZjXs 3:19 Hot Tip: How to Measure Accurately for Great Coffee
-4QasnIP-3yM 3:15 MakerBot Mystery Build: Don't be a Blowhard
-7gEjHkw8yG8 3:40 Tested: Ben & Jerry's Americone Dream vs Late Night Snack
-Zg8GjCeenLo 3:40 Tested: Ben & Jerry's Americone Dream vs Late Night Snack
-NJyiGbkpVQg 3:59 MakerBot Mystery Build: For Real This Time
-lslhSoiZ-fg 3:59 MakerBot Mystery Build: For Real This Time
-gym9fdktpm8 3:59 MakerBot Mystery Build: Not Safe for Consumption
-33UwLDi2Sgs 3:59 MakerBot Mystery Build: Not Safe for Consumption
-TC3bQN5BMp4 3:19 MakerBot Mystery Build: The Prototyping Will Be Televised
-t9sUngmd0Nw 3:19 MakerBot Mystery Build: The Prototyping Will Be Televised
-E4vWUbyyEwo 2:44 Tested Mailbag: Good Fortune to You, Sir
-AtKLpwWDpRI 1:14:47 Whiskey Media: Happy Hour 02/25/11 (Free)
-U0CDV60wdH4 1:10:42 Whiskey Media: Happy Hour 01/28/11
-kJa0ObKmTxo 4:35 Microsoft: Recognizing Pen Grips for NUI
-c2g2Pw-XScI 2:30 MakerBot Mystery Build: Man of Few Words
-e31VvUuBHq4 4:35 Microsoft: Recognizing Pen Grips for NUI
-wdmgU98atO4 2:00 MakerBot Mystery Build: Top of the Morning!
-gWiUthV_qHE 2:00 MakerBot Mystery Build: Top of the Morning!
-ccBEfjZtQ8Y 3:56 MakerBot Mystery Build: Good Times with Weapons
-33E7ruQC9Qw 3:20 MakerBot Mystery Build: Time for Real Time
-xZMAbxxpRrM 3:20 MakerBot Mystery Build: Time for Real Time
-efg0QlOVYZM 6:46 What's in Your Bag, Coonce?
-RmDZXFBI_zE 5:24 Tested Mailbag: Surviving the Snowpocalypse
-nRUNL7x1UbQ 3:55 MakerBot Mystery Build: I Can Hear You Now
-mGDA14EFauY 5:24 Tested Mailbag: Surviving the Snowpocalypse
-S46VosFXMdA 3:55 MakerBot Mystery Build: I Can Hear You Now
-ceST2JelA7A 1:52 MakerBot Mystery Build: In Search of Redemption
-T1MHXUN-52s 1:52 MakerBot Mystery Build: In Search of Redemption
-GPe2dmr9MEg 6:09 Tested Mailbag: It Came from Across the Pond
-uH30RmD519o 4:55 MakerBot Mystery Build: Oh Please Oh Please Work
-OhIFF8IHyak 4:54 MakerBot Mystery Build: Oh Please Oh Please Work
-HdIHpqxmcwA 3:49 MakerBot Mystery Build: Noodling Around with ABS
-Ut8HfBPU8VQ 3:49 MakerBot Mystery Build: Noodling Around with ABS
-NKuZxjCcBVk 3:32 MakerBot Mystery Build: Always Be Fresh
-d0LchG3P7Vw 8:40 CES 2011: Day 3 Wrapup
-mJIJRnMvsNY 8:40 CES 2011: Day 3 Wrapup
-FmGbkTnWWj8 7:02 CES 2011: Samsung Booth Tour
-ft-VgoOggSo 5:43 CES 2011: Catching Up with MakerBot Industries
-xjCsA-Awgjk 3:32 MakerBot Mystery Build: Always Be Fresh
-dHpzw5X81oY 5:43 CES 2011: Catching Up with MakerBot Industries
-eultan2PqYE 2:48 CES 2011: The Adventure Begins Here!
-f7_crKn_Xcc 3:59 Ana's Top Ten Technologies of 2010
-G7foH2rMf10 8:46 Tested: Our Favorite Games of the Year
-vUu-D6a7zjU 8:46 Tested: Our Favorite Games of the Year
-dgG7n5jEF7Q 14:59 The Tested Mailbag Hasn't Seen Harry Potter
-QDl-274w2X4 2:48 CES 2011: The Adventure Begins Here!
-Zc1_CjXw6do 9:30 Tested: Our Favorite Apps of the Year
-o2brh9mv2l8 14:59 The Tested Mailbag Hasn't Seen Harry Potter
-W6l-oLuqDJc 3:59 Ana's Top Ten Technologies of 2010
-Z6RKZkn8IzY 9:30 Tested: Our Favorite Apps of the Year
-3BD8oAI3xtg 6:58 MakerBot Mystery Build: Not Historically Accurate
-t22Uq-0Xcjo 6:58 MakerBot Mystery Build: Not Historically Accurate
-7CecdUNRgcI 1:28:49 Whiskey Media: Happy Hour 10/29/10
-rlli9HF53cw 2:47 MakerBot Mystery Build: An Outline for the Holidays
-J0hElT-x208 2:47 MakerBot Mystery Build: An Outline for the Holidays
-OMIgaeajJnY 3:54 MakerBot Mystery Build: A Tool to Help You Get Twisted
-6pyfc6I-iAA 3:54 MakerBot Mystery Build: A Tool to Help You Get Twisted
-EKyQ7kYEBCw 3:23 Happy Hour Excerpt: Alcokehol
-xaczDEai-e8 3:23 Happy Hour Excerpt: Alcokehol
-Z7c2fUFogRQ 4:32 MakerBot Mystery Build: Get on My Lawn!
-rVSWC_BQNXc 5:19 MakerBot Mystery Build: The One You're Looking For
-_tdVPMOdX5k 13:31 The Tested Mailbag Unlocked an Aug
-kKS2qygenO0 13:31 The Tested Mailbag Unlocked an Aug
-4Pdp4DlVxQ4 4:32 MakerBot Mystery Build: Get on My Lawn!
-i5C5mee4YHY 5:19 MakerBot Mystery Build: The One You're Looking For
-2uQRi5-HCpo 6:20 How To Make the Perfect Regular Cup of Coffee
-Fn9T3jCR1vE 1:46 GeForce GTX 580 Demo: Alien vs Triangles
-fjt__ID6_ek 10:35 The Tested Video Mailbag is Clean-Shaven
-YqN1gS9Fi3s 1:46 GeForce GTX 580 Demo: Alien vs Triangles
-hCmlzhUDnQA 10:35 The Tested Video Mailbag is Clean-Shaven
-ud0pdtKsYKo 1:41 GeForce GTX 580 Demo: Endless City
-PHMFUkcV_28 6:30 MakerBot Mystery Build: This Looks Mighty Familiar
-rVwIxDMCy8Q 6:30 MakerBot Mystery Build: This Looks Mighty Familiar
-2DpjXUg7C-8 3:22 MakerBot Mystery Build: The Triumphant Return!
-OcLwNKjn1AA 3:22 MakerBot Mystery Build: The Triumphant Return!
-837PXrQZ8E4 1:02 WhiskeyQuest
-oAjCm-VHOEY 6:57 Poor Man's Tested: Folgers Instant Coffee
-SsYXunZVaFY 1:02 WhiskeyQuest
-_VpvxToSGM4 6:57 Poor Man's Tested: Folgers Instant Coffee
-SdexoHypTyM 21:27 The Tested Video Mailbag Answers Questions From a Bar
-cT7cfMYFxwQ 6:27 Tested After Dark - Makin' Hooch Outta Grape Juice
-cB0MzySkp4g 6:48 How To Replace a Busted Fan in a MacBook Pro
-L0GK8-29hjo 19:10 The Tested Mailbag: Vibram Driving and Upgrades
-Sip9KtQJjUg 6:28 Tested After Dark - Makin' Hooch Outta Grape Juice
-NFKMOUjirMk 2:45 Poor Man's Tested: Air Hog Helicopter Pushed to Its Limits
-4r1eCn6sKk4 16:35 Tested Video Mailbag: Your Questions Answered!
-VsexGWvzfhA 19:10 The Tested Mailbag: Vibram Driving and Upgrades
-PND3JfvGwYQ 2:45 Poor Man's Tested: Air Hog Helicopter Pushed to Its Limits
-uUDOWjEe0Ms 3:28 Sony PlayStation Move Heavy Rain Video
-0-sqJ6W_TeY 1:41 Sony PlayStation Move Sports Champions Video
-DwtFGjLgD-A 14:58 Mailbag Sunday! Joss Whedon, Upgrading, and Podcasts
-PO1nHS4GryA 3:28 Sony PlayStation Move Heavy Rain Video
-HxKJ9lnmCKg 1:41 Sony PlayStation Move Sports Champions Video
-419-QspcJR0 18:05 As Seen on Tested: The Great Bacon+Eggs Challenge
-oTKc8PoJ0y0 14:58 Mailbag Sunday! Joss Whedon, Upgrading, and Podcasts
-UAEyeN_L7wk 4:00 Tested Mailbag: Not at All What We Expected
-5YN7LLsbf-4 4:00 Tested Mailbag: Not at All What We Expected
-9JvI3EryzRE 7:48 As Seen on Tested: Fancy Footwear for the Foolish
-sXKBCJgwWl8 7:48 As Seen on Tested: Fancy Footwear for the Foolish
-nVrbWmtVepA 14:12 As Seen on Tested: Sauna Suits and HD Glasses (BLLS Archive)
-6I3DJNDuF8o 8:07 Tested Mailbag: The Potpourri of Deliciousness Edition
-MbFcVj08sSw 8:07 Tested Mailbag: The Potpourri of Deliciousness Edition
-jaU83NydMYg 14:54 The Late, Late Tested Mailbag
-UMumOA4H5y4 4:11 How to Make an Even Better Cup of Coffee with the Aeropress
-MXWyFxKNhyA 14:54 The Late, Late Tested Mailbag
-g39_mcV5r5s 2:36 Tested: Talk Time on a Full Charge for Six Smart Phones
-htx0MzQN5g0 2:36 Tested: Talk Time on a Full Charge for Six Smart Phones
-4R_icCxEbSI 17:47 The Tested Video Mailbag Returns
-dW3DOOAQ6gQ 11:55 How To Take Apart a Kindle (3rd Gen)
-WdAogANpuoc 17:47 The Tested Video Mailbag Returns
-52Ry9caQy1E 13:45 Print a Mystery Object - The Makerbot Gets an Upgrade
-lBnAbCH1F_0 11:55 How To Take Apart a Kindle (3rd Gen)
-opRLtWMV-_g 4:11 This is Why Digital Movie Services Beat Blu-Ray Discs
-3DJpN5ePbnk 15:20 The Tested Video Mailbag Voyages to Outer Space
-9ylsUrePi6A 17:23 Tested Video Mailbag: 22 Questions Answered!
-8skQqXdLXsQ 4:48 MakerBot Mystery Build: Ahh, So Refreshing!
-d7FgJm4JELQ 2:32 MakerBot Mystery Build: We're Not Squares
-BSf6tGlW8XM 13:15 Introducing: The First Tested VIDEO Mailbag!
-4X2eJpo3Onk 4:48 MakerBot Mystery Build: Ahh, So Refreshing!
-n38dwcYiJYQ 2:32 MakerBot Mystery Build: We're Not Squares
-oMuWgO86FYY 3:19 MakerBot Mystery Build: Prepare to Be Invaded
-anpxolJNhws 3:19 MakerBot Mystery Build: Prepare to Be Invaded
-OtzrmSjSK4k 8:07 What's in Your Camera Bag, Ana?
-dd7gtIvfl30 8:07 What's in Your Camera Bag, Ana?
-PUDRCG0GEzg 15:14 How To Build an Awesome $500 Home Server
-445CPBycXy0 5:01 MakerBot Mystery Build: Don't Be a Tool
-47BFEJxg0e8 5:01 MakerBot Mystery Build: Don't Be a Tool
-yU7U__Etdj8 2:04 Chloe's Day Out
-OhzsyQCJBVI 4:13 Our MakerBot Returns for a Mystery Build of the Week!
-BEQ1PotpQu0 8:12 How To Take Apart an Xbox 360 Gamepad
-xL6pU6Kh9ag 2:04 Chloe's Day Out
-1M0pRVRGbXI 18:24 New Xbox 360 Teardown: Guts Compared to Original 360!
-EX98iN_Bzcw 8:59 Tested: iPhone 4 vs. iPhone 3GS Performance
-Cj0fRqppTB4 1:43 How To Make Awesome Frozen Yogurt
-XM_D9W5aJcU 2:42 In Search of the Perfect iPad Case
-QuvgGIMm9e0 2:42 In Search of the Perfect iPad Case
-DbfrDgFIEfU 18:24 New Xbox 360 Teardown: Guts Compared to Original 360!
-gOXR_qfkwuM 3:43 Here is iPhone 4 FaceTime Working on a Cellular Network
-5jKblxDMNGA 15:14 How To Build an Awesome $500 Home Server
-WEVMG2QJmxs 4:54 Bodies-On with Kinect Adventures and Joy Ride
-_bxPTCZQ0LM 4:54 Bodies-On with Kinect Adventures and Joy Ride
-z30RZfRvjI4 12:48 How To Repair a Cracked iPhone Screen
-rVL-76Ht-Cw 12:48 How To Repair a Cracked iPhone Screen
-WgjGk9MRrks 3:39 Tested Goes Body-On with Kinect and Dance Central
-8ywpVGU5a0Q 3:39 Tested Goes Body-On with Kinect and Dance Central
-KNePGl3erSg 2:03 We Teach You How To Properly Solder
-MxB-vH5aGdQ 40:32 How To Build an Awesome $1500 PC
-JlKq59hBMew 2:25 Cupcakes & Cosmonauts! Highlights from Maker Faire 2010
-idwOqkOKwpY 2:25 Cupcakes & Cosmonauts! Highlights from Maker Faire 2010
-TIRPMo9goIo 3:09 Microsoft Research's Multi-Image Fusion
-a4YU-NgRFNo 3:09 Microsoft Research's Multi-Image Fusion
-bstJD8tfQ4c 3:50 Robot, I Command You to Make Me a Tasty Beverage!
-fCNxbC_KaJQ 3:50 Robot, I Command You to Make Me a Tasty Beverage!
-_rzcYjKJHWg 1:52 Mobile Safari on the iPad
-J5pFkzZFRNg 1:40 Typing on the iPad
-wJtaix4bWX0 1:40 Typing on the iPad
-scwUq29Sidg 1:40 iPad User Interface and Web Performance
-R6LngMkjw8U 22:33 iPad Autopsy Video: We Take Apart an iPad!
-cOy9i0_1JGE 22:33 iPad Autopsy Video: We Take Apart an iPad!
-UwzSooGb-z8 3:46 MakerBot Mystery Build: Tight Squeeze
-WiFv4RlqnQE 2:23 Tested Mailbag: Don't Think
-xCHAgWHvURI 1:13 MakerBot Mystery Build: Tech Support
-pypZqtEfcjk 3:09 MakerBot Mystery Build: On The Rocks
-1WkT0oXOBJs 4:45 Tested Redesign Pre-Launch Gathering
-kk5GV1nZjCI 6:08 How To Swap a MacBook's Optical Drive with a Hard Drive
-tunkveEIIF4 3:48 MakerBot Mystery Build: A Palace of Plastic
-bHyB2udEWHs 2:01 Ask Tested: Living Completely in the Cloud
-DCq-T2t9xW4 0:57 Big Live Live Show Live 2 - Ana Discusses Star Wars
-fFJaA_pN73g 1:36 Gary Whitta Taking Your Calls - Members Only Redphone
-TBrQd9b2uWw 1:14 Vidrhythm Test #1
-Y0Hu6n629Z8 0:31 Big Live Live Show Promo #1
-QJRo1DzE-Q4 0:31 Big Live Live Show 2 - Promo #2
-FuKsIgq6sv0 0:31 Big Live Live Show 2 - Promo 4
-mYX7wZkRejo 0:31 Big Live Live Show 2 - Promo #3
-xK_eEMJhpVQ 0:31 Big Live Live Show 2 - Promo 5
-N_yOFmQ1M0s 13:51 Tested: The Show - Computer Numerical Control - Episode 1
-XhAI6XYIDsM 42:17 Quick Look: Lion
-MHe80IHRIQ4 3:27 Quick Look: Razer Mamba
-qp6Y30Iw-bg 7:58 Lemon Lens: Jinx and the Caravella Brothers
-kNY21FHTeI8 3:39 Fixing Broken Headphones
-NIue4h0ecwY 1:14 Lemon Lens- The Pooch
-Ds246qcElcQ 2:31 E3: Minecraft for the Xperia Play Demo
-NbzZwktl-X8 6:12 Tested.com: Thermos Comparison Tests
-HpCHl2Ia7EE 7:34 Tested Tests the Nintendo Wii U
-7gMHCOzf218 14:06 5 Great Games on the Xperia Play
-TIYdisqmetg 4:44 Tested.com at Maker Faire 2011
--85re-nSmnA 2:53 How To Make Iced Coffee with the Hario Cold Brewer
-nSugEQdmyd4 1:09 The Best Keyboard Shortcut In The World
-wsBAz1Y7VXU 3:07 Tested: Roxio Game Capture
-gl0baXtse1c 6:17 Tested: Razer Onza Game Controller
-khaOH6W1Z0Y 3:01 Tested: Hauppauge Personal Video Recorder
-UngyDzJm28s 10:21 Tested: 3 Alternative Web Browsers for the iPad
-0Z5qFFKXjPA 15:02 Tested.com: OnLive MicroConsole
-fMrnX1nFvI0 3:33 Samsung Galaxy S II Hands On: Tested.com
-bWp5fZe48qE 6:57 Testing the Guinness Surger - Tested.com- Tested.com
-VyuPo4U56HE 48:09 Tested.com iPad 2 Demo & Analysis
-HVAqN0_MUVc 2:49 A Dog Tests the iPad 2 - Tested.com
-wPewCDEO7LE 7:45 10 Essential iPad 2 Apps from Tested.com
-RofUan8zSJY 6:45 TDK Three-Speaker Boombox - Tested.com Quick Look
-8kvDH48Qdzg 6:43 Xperia Play Demo - Tested.com
-DjBprzu2Koo 5:32 Tested Goes to GDC 2011
-V6_gKNsQ1vQ 4:26 How To Make Pour-Over Coffee with a Hario Dripper
-Q1A0WdLLjG8 13:46 Video Tour of the Atrix Webtop OS - Tested.com Quick Look
-RFTOQ4hKOUM 5:02 Steelseries Sibera Neckband Headset - Tested.com Quick Look
-zIGgFOVAZJA 10:43 How To Take Apart an iMac
-Ua5smxPXy8E 2:59 How To Make 2D Glasses for 3D Movies
-rREXnkX2z4E 1:16 Remove Product Logos With Sugar
-AOJNPt6NNfw 3:31 Razer Ferox Demo - Tested.com Quick Look
-_JPI1vrkkGs 7:28 PC Build Race DocuDrama - A Tested.com Story
-DgSCHyF_XO8 4:41 Yama Siphon Coffee Pot Demo - Tested.com Quick Look
-zgTfAlWMxt8 5:12 TiVo Premiere App for iPad - Tested.com Quick Look
-0LRDZTwS4TQ 5:09 Saitek Pro Flight System - Tested @ CES Hands On
-FpPGmOitrZ8 2:54 Bowers & Wilkins Audio - Tested @ CES Hands On
-Y0lI1K2UzSQ 4:01 CES 2011: Rise of the Cleaning Robots
-g7bQZV0GmKA 3:10 Tested @ CES: Gorilla Glass Stress Test
-X0iMYIjXqJ4 3:23 CES 2011: Convention Hall Carpet Quest
-vDLMZAOLMgE 5:06 CES 2011: LG Magic Remote and Smart Refrigerator
-pYcg_8ziiew 6:35 CES 2011: Toshiba Autostereocopic Displays
-4di9jHXixCM 3:50 Tested @ CES: Taser Practice
-Qmc_JQy5v5A 2:39 CES 2011: Nvidia's Tegra 2 System on a Chip
-kkWOC56Ytz0 3:05 CES 2011: Panasonic Booth Tour
-xP3a16-TT3U 5:15 CES 2011: Razer Hydra Motion Controller
-9i99KkYLVrw 1:23 Lady Gaga Polarez GL20 Glasses
-TA9qCGZckcA 3:37 CES 2011: Razer Switchblade Mobile Gaming PC
-E5YpKcl7akM 5:08 LG Optimus 2X, Optimus Black, & Revolution - Tested @ CES
-ZMeWq8mEtws 6:30 CES 2011 Saturday Highlights w/ Tested.com
-mYsEv4Gsfu8 7:43 Tested.com @ CES 2011: Day 1 Video Highlights
-Ylckj-kqFI0 4:37 Tested @ CES: BlackBerry PlayBook
-fu-ljpdky2c 2:13 Tested @ CES: Samsung LED D8000 Series TV
-XhB9pkprxLo 6:06 CES 2011 Highlights & Keg Computer
-lDcg1Q__wyo 14:59 Tested.com: How To Take Apart a Microsoft Xbox 360 Kinect Samsung Focus (with Windows Phone 7)
-ral-W95X3rU 7:08 Tested.com: Robot Tea Maker Quick Look
-wQwyEsm1iTY 3:10 Tested.com: Cell Phone Fisheye and Macro Lenses Quick Look
-iglI7zc1I14 5:41 Tested: Which Streaming Box Is Right For You?
-wwyOEOfuKy0 6:49 Tested.com: Eye-Fi Pro X2 SDHC Memory Card Quick Look
-Vq0_84kBa9k 9:26 Tested.com: Windows Phone 7 App Essentials
-I2SiBDveg0s 11:06 Tested.com: Kinect for Xbox 360 Roku XD|S Media Streamer
-TcBHPr9IKr8 9:21 Tested: zBoost SOHO Cell Signal Booster
-Q6ACOxs_wXA 11:23 How To Take Apart an Apple TV (2nd Generation)
-TGMc5eUUagA 8:45 Tested: The Parrot AR.Drone Pushed to Its Limits
-NCiuqNqSGS4 3:06 Tested.com: Cyborg R.A.T. 7 Gaming Mouse
-dk8_HabWkW0 5:07 Tested.com Tests Kopi Luwak Coffee
-gxTaI-KkNKI 5:35 Tested.com Android App Demos
-BN2tnTOXzHc 8:21 PlayStation Move Controller Teardown
-0fxQezK4Ahg 6:38 Tested.com: The Parrot AR.Drone Quadricopter
-DOsBcij6cJs 4:48 MakerBot Mystery Build: Mmmm...Frosty
-9quICF6k2Aw 10:28 MakerBot Mystery Build: Even More Upgrades!
-V9QED9sNlZU 14:37 Tested.com Tests the Windows Phone 7
-0u-9Ak_xr6k 11:55 Tested.com: Kindle 3rd Gen Teardown
-Il2QKbVecVI 9:56 How To Roast Your Own Coffee Beans at Home
-Dmi7gacx8KE 3:44 Testing the Wet Circuits Power Strip
-vNBd0dnSs9Y 9:04 How To Cold Brew Coffee with the Toddy
-aGLFJ1YTza4 3:36 Tested.com Tries Vibram FiveFingers Footwear
--OG2Z44IxrQ 1:11 How Not To Destroy Your MacBook Power Cord
-Pg1udSz9FEk 8:05 How To Take Apart and Recover Faulty External Hard Drive
-ABRiCAjPylI 3:02 MakerBot Mystery Build: Saw It On the Internets
-JtitBgQXk-o 3:55 Tour of the New Whiskey Media Office
-bTjDETwIVkI 6:30 The Tested iMovie for iPhone Video Challenge
-zHW5ucY8wmA 1:18 Noe Valley Farmers Market (360p)
-SAU_fOZe-1Y 4:54 Tested.com Plays the Microsoft Kinect
-UVzplVvEp7k 3:39 Tested.com Grooves To Lady Gaga with Kinect & Dance Central
-CZMI6djZa9M 1:53 MakerBot Mystery Build: This UFO Refuses to be Identified
-R7OfRk5h8Q0 7:08 What's in Your Bag, Ryan?
--u52P0eByIs 6:09 MakerBot Mystery Build: The Emperor Will be Pleased
-BxgpuBx4lV0 4:31 How To Make a Perfect Cup of Coffee with Chemex
-NO8CITRfhLk 10:03 How To Take Apart a Nintendo DSi XL
-o3Stgn_es5g 2:53 Maker Faire 2010: All Hail the Mondo Spider
-EnXYZIzyZwc 3:19 Tour of the Raygun Gothic Rocket (MakerFaire 2010)
-aZJonX-17Jg 6:10 Sony Dash vs Chumby: More than Just Alarm Clocks
-50cRLvnSZBE 2:25 Maker Faire CA 2010 Highlights
-y0Vb0Wjkqtc 3:27 Egads! Our Makerbot Prints a Mystery Object!
-C_xVEiL9YTI 8:40 Tested: Easy Tweaks to Expand Your Wi-Fi Coverage
-ANJKyDV8ozc 6:29 iPad Wi-Fi vs iPad 3G: What's the Difference?
-OOrr_HpxBhY 3:06 Our Makerbot Prints a Mystery Object!
-ngPjZHXIGQc 5:23 Tested: Wireless Internet Speeds in San Francisco
-_b4_02ZjjpQ 6:21 Marvel at Amazing Robots that Kill, Crush, and Destroy
-MUL-fF5Btdk 3:50 Robot Bartender Demo at RoboGames 2010
-QFSxdf1jbxk 4:18 Our MakerBot Builds its First Mystery Object
-c5nhkVDRrF4 7:11 How To Replace Your Macbook's Hard Drive
-72G91KO6IdA 9:58 How to Take Apart a Flip HD Camera
-cgxT5gVjZfA 9:12 What's In Your Bag, Gary Whitta?
-H3xdcx2WUcU 3:29 A Dog Tests the iPad - Tested.com
-kL-PmNVmO5E 2:26 CTIA 2010: Dell 5" Tablet, Opera for iPhone, and Weird Stuff
-6oIMgGuVt3k 5:02 How to Make a Perfect Cup of Coffee with the Aeropress
-pD0raHXzwyA 2:03 CTIA 2010: Samsung Galaxy S vs HTC EVO 4G
-aYoSpxyUqPk 5:57 What's In Your Bag, Norm?
-fN_jdMzNUvA 4:36 What's In Your Bag, Will?
-bJLKTQ-fUrs 2:58 Electronics and Condoms: Tested
 
 # Tasting History
 
@@ -6311,7 +3500,6 @@ riIpboxWv3U 8:13 Introducing the Chalumeau
 7k_TGe-crFw 3:51 The Rediscovery of Schumann's Violin Concerto
 G-8hUg-nRdM 8:54 Introducing the Cor Anglais
 6gU_zn5uGsM 4:06 TELEMANN: Trio Sonata in A major TWV 42:a6, Allegro
-undefined SHORTS First OAE Player session of 2022🥳 #Shorts
 0yDoqwjarNQ 3:24 JS BACH: Jesus bleibet meine Freude, BWV 147
 ueTWLXIZwtc 3:41 JS BACH: Magnificat
 KKTqN894UCc 3:49 MICHAEL PRAETORIUS: Es ist ein Ros’ entsprungen
@@ -7026,7 +4214,7 @@ v0OQNvT-lAI 6:08 Gaelic Documentary: Peatcutting
 UXM4jfriBhU 5:29 English Documentary: Surfing
 u1IJN-TiEQY 5:29 Gaelic Documentary: Surfing
 
-`);function Pu(){return ue("div",{class:"App"},ue(Iu,{id:"player-container"},e=>ue(Cg,{player:e,model:vg})))}var Ig=wu.map(e=>({videos:[e]})),vg=Eg();function Eg(){let e={};return{getTargets:a};function a(s){let l=Math.floor(s/1e3),d=(l-8*3600)%(24*3600),f=l-d,v=n(String(f)),p=0,y;for(y of v)if(p+=y.durationSeconds,p>=d)return{targetVideoId:y.videoId,targetTime:y.durationSeconds-(p-d)};return{targetTime:10,targetVideoId:"ubFq-wV3Eic"}}function n(s){return e[s]||(e={},e[s]=t(s)),e[s]}function t(s){let l=r(o(s)),d=0,f=[];for(;d<24*3600;){let v=i(Ig,l());d+=v.videos.map(p=>p.durationSeconds).reduce(wg,0),f.push(...v.videos)}return f}function i(s,l){return s[Math.floor(l*s.length)]}function r(s){return function(){var l=s+=1831565813;return l=Math.imul(l^l>>>15,l|1),l^=l+Math.imul(l^l>>>7,l|61),((l^l>>>14)>>>0)/4294967296}}function o(s){let l=1779033703,d=3144134277,f=1013904242,v=2773480762;for(let p=0,y;p<s.length;p++)y=s.charCodeAt(p),l=d^Math.imul(l^y,597399067),d=f^Math.imul(d^y,2869860233),f=v^Math.imul(f^y,951274213),v=l^Math.imul(v^y,2716044179);return l=Math.imul(f^l>>>18,597399067),d=Math.imul(v^d>>>22,2869860233),f=Math.imul(l^f>>>17,951274213),v=Math.imul(d^v>>>19,2716044179),(l^d^f^v)>>>0}}function Cg(e){Pg(r,1e3);let[a,n]=Wa(!1),{player:t,model:i}=e;function r(){if(!a)return;let o=t.getPlayerState(),s=Bg(t.getVideoUrl());switch(o){case be.BUFFERING:return;case be.CUED:case be.UNSTARTED:case be.ENDED:case be.PLAYING:case be.PAUSED:}let l=+new Date,{targetVideoId:d,targetTime:f}=i.getTargets(l);if(s!==d){console.debug("video ID changed",s,d,f),f<5?(console.debug("target time is near 0; starting from beginning"),t.cueVideoById(d,0)):t.cueVideoById(d,f);return}if(!(o===be.PLAYING||o===be.ENDED)&&s){console.debug("video stopped; playing it"),t.playVideo();return}let v=t.getCurrentTime();Wg(v,f)>=5&&(console.debug("time is off; seeking",v,f),t.seekTo(f))}return a?null:ue("button",{id:"start",onClick:()=>{t.cueVideoById("ubFq-wV3Eic",10),t.playVideo(),n(!0)}},"Play")}function Pg(e,a){let n=ln(),t=ln();t.current=e,Ba(()=>(n.current=setInterval(()=>{var i;return(i=t.current)==null?void 0:i.call(t)},a),()=>clearInterval(n.current)),[a])}function Bg(e){var a;return(a=/v=(.{11})/.exec(e))==null?void 0:a[1]}function Wg(e,a){return Math.abs(e-a)}function wg(e,a){return e+a}function Bu(){let[e,a]=Wa("");return Ba(()=>{Au(Cu()).then(yu).then(a).catch(n=>a(n.message))},[]),/fail/i.test(e)?ue("div",{class:"TestResults"},ue("code",null,ue("pre",null,e))):null}So(ue(Pu,null),document.getElementById("app"));So(ue(Bu,null),document.getElementById("test-results"));
+`);function wu(){return ue("div",{class:"App"},ue(Eu,{id:"player-container"},e=>ue(Mg,{player:e,model:vg})))}var Eg=Wu.map(e=>({videos:[e]})),vg=Cg();function Cg(){let e={};return{getTargets:n};function n(o){let l=Math.floor(o/1e3),d=(l-8*3600)%(24*3600),S=l-d,v=a(String(S)),f=0,A;for(A of v)if(f+=A.durationSeconds,f>=d)return{targetVideoId:A.videoId,targetTime:A.durationSeconds-(f-d)};return{targetTime:10,targetVideoId:"ubFq-wV3Eic"}}function a(o){return e[o]||(e={},console.debug("scheduleCache miss; regenerating"),e[o]=t(o)),e[o]}function t(o){let l=r(s(o)),d=0,S=[];for(;d<24*3600;){let v=i(Eg,l());d+=v.videos.map(f=>f.durationSeconds).reduce(Wg,0),S.push(...v.videos)}return S}function i(o,l){return o[Math.floor(l*o.length)]}function r(o){return function(){var l=o+=1831565813;return l=Math.imul(l^l>>>15,l|1),l^=l+Math.imul(l^l>>>7,l|61),((l^l>>>14)>>>0)/4294967296}}function s(o){let l=1779033703,d=3144134277,S=1013904242,v=2773480762;for(let f=0,A;f<o.length;f++)A=o.charCodeAt(f),l=d^Math.imul(l^A,597399067),d=S^Math.imul(d^A,2869860233),S=v^Math.imul(S^A,951274213),v=l^Math.imul(v^A,2716044179);return l=Math.imul(S^l>>>18,597399067),d=Math.imul(v^d>>>22,2869860233),S=Math.imul(l^S>>>17,951274213),v=Math.imul(d^v>>>19,2716044179),(l^d^S^v)>>>0}}function Mg(e){wg(r,1e3);let[n,a]=Nn(!1),{player:t,model:i}=e;function r(){if(!n)return;let s=t.getPlayerState(),o=Og(t.getVideoUrl());switch(s){case be.BUFFERING:return;case be.CUED:case be.UNSTARTED:case be.ENDED:case be.PLAYING:case be.PAUSED:}let l=+new Date,{targetVideoId:d,targetTime:S}=i.getTargets(l);if(o!==d){console.debug("video ID changed",o,d,S),S<5?(console.debug("target time is near 0; starting from beginning"),t.cueVideoById(d,0)):t.cueVideoById(d,S);return}if(!(s===be.PLAYING||s===be.ENDED)&&o){console.debug("video stopped; playing it"),t.playVideo();return}let v=t.getCurrentTime();Pg(v,S)>=5&&(console.debug("time is off; seeking",v,S),t.seekTo(S))}return n?null:ue("button",{id:"start",onClick:()=>{t.cueVideoById("ubFq-wV3Eic",10),t.playVideo(),a(!0)}},"Play")}function wg(e,n){let a=la(),t=la();t.current=e,Pn(()=>(a.current=setInterval(()=>{var i;return(i=t.current)==null?void 0:i.call(t)},n),()=>clearInterval(a.current)),[n])}function Og(e){var n;return(n=/v=(.{11})/.exec(e))==null?void 0:n[1]}function Pg(e,n){return Math.abs(e-n)}function Wg(e,n){return e+n}function Ou(){let[e,n]=Nn("");return Pn(()=>{Tu(Mu()).then(Au).then(n).catch(a=>n(a.message))},[]),/fail/i.test(e)?ue("div",{class:"TestResults"},ue("code",null,ue("pre",null,e))):null}fs(ue(wu,null),document.getElementById("app"));fs(ue(Ou,null),document.getElementById("test-results"));
 /*
 object-assign
 (c) Sindre Sorhus

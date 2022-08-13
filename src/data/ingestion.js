@@ -8,11 +8,15 @@ export function parseVideos(raw: string): Array<Video> {
         .filter(not(isComment))
         .filter(not(isEmpty))
         .map(split(/ +/, 3))
-        .map(([videoId, rawDuration, title]) => ({
-            videoId,
-            durationSeconds: parseDuration(rawDuration),
-            title,
-        }))
+        .flatMap(([videoId, rawDuration, title]) => (
+            rawDuration === "SHORTS"
+                ? []
+                : [{
+                    videoId,
+                    durationSeconds: parseDuration(rawDuration),
+                    title,
+                }]
+        ))
 }
 
 test("parseVideos", {
@@ -43,7 +47,16 @@ test("parseVideos", {
             {videoId: "leb645Xu6uo", durationSeconds: 654, title: "Captain Murderer - Emlyn Williams"},
             {videoId: "Ga8tNxnHjt4", durationSeconds: 181, title: "Sut Wnaethoch Chi Sillafu Caernarfon? Y Dydd 1971"},
         ])
-    }
+    },
+    "removes shorts"() {
+        const data = `
+            undefined SHORTS blah blah
+            leb645Xu6uo 10:54 Captain Murderer - Emlyn Williams
+        `
+        expect(parseVideos(data), equals, [
+            {videoId: "leb645Xu6uo", durationSeconds: 654, title: "Captain Murderer - Emlyn Williams"},
+        ])
+    },
 })
 
 function isComment(line) {
