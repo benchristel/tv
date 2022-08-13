@@ -12,12 +12,6 @@
   color: #eee;
 }
 
-#player-container {
-  padding: 24px;
-  background: #333;
-  box-shadow: 0 0 18px 3px #0008;
-}
-
 #start {
   position: absolute;
   top: 0;
@@ -30,4 +24,12 @@
   background: transparent;
   border: none;
   font-size: 0;
+}
+
+.bezel {
+  --bezel-width: 24px;
+  position: relative;
+  padding: var(--bezel-width);
+  background: #333;
+  box-shadow: 0 0 18px 3px #0008;
 }

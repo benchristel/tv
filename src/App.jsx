@@ -15,9 +15,11 @@ import { pick } from "./lib/arrays"
 export function App(): React.Node {
   return (
     <div className="App">
-      <YouTubePlayer id="player-container">
-        {(player) => <Controller player={player} model={model} />}
-      </YouTubePlayer>
+      <div className="bezel">
+        <YouTubePlayer id="player-container">
+          {(player) => <Controller player={player} model={model} />}
+        </YouTubePlayer>
+      </div>
     </div>
   )
 }
