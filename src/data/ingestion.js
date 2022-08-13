@@ -120,6 +120,9 @@ test("parseDuration", {
   "10 hours 1 second"() {
     expect(parseDuration("10:00:01"), is, 36001)
   },
+  "1 day 1 second"() {
+    expect(parseDuration("1:0:00:01"), is, 86401)
+  },
 })
 
 function trim(s) {
