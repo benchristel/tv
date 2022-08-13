@@ -1,6 +1,6 @@
 // @flow
-import type { Video } from "./types";
-import { parseVideos } from "./ingestion";
+import type { Video } from "./types"
+import { parseVideos } from "./ingestion"
 
 export const videos: Array<Video> = parseVideos(`
 
