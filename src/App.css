@@ -4,7 +4,7 @@
 
 .App {
   height: 100vh;
-  background-color: #222;
+  background-color: #124;
   background-image: url("./wallpaper3.png");
   background-size: 150px 150px;
   background-blend-mode: multiply;
@@ -33,8 +33,9 @@
   --bezel-width: 24px;
   position: relative;
   padding: var(--bezel-width);
-  background: #333;
-  box-shadow: 0 0 18px 3px #0008;
+  background: #383030;
+  box-shadow: 0 0 24px 4px #000, inset -1px -1px #484444, inset 1px 1px #585454,
+    inset -2px -2px #000c, inset 2px 2px #fff1;
 }
 
 .black-screen {
