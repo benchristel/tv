@@ -33,3 +33,14 @@
   background: #333;
   box-shadow: 0 0 18px 3px #0008;
 }
+
+.black-screen {
+  position: absolute;
+  top: var(--bezel-width);
+  bottom: var(--bezel-width);
+  left: var(--bezel-width);
+  right: var(--bezel-width);
+  background-color: #000;
+  background-blend-mode: multiply;
+  pointer-events: none;
+}

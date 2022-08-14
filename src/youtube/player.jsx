@@ -9,6 +9,8 @@ export interface Player {
   cueVideoById(string, time: number): void;
   playVideo(): void;
   seekTo(time: number): void;
+  addEventListener(string, () => mixed): mixed;
+  removeEventListener(string, () => mixed): mixed;
 }
 
 type Props = {|

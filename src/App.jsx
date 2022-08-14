@@ -11,6 +11,7 @@ import { videos } from "./data/shows"
 import { cyrb128_32 } from "./lib/hash"
 import { mulberry32 } from "./lib/random"
 import { pick } from "./lib/arrays"
+import { useModel } from "./lib/useModel"
 
 export function App(): React.Node {
   return (
@@ -88,6 +89,9 @@ function Controller(props: {| player: Player, model: Model |}): React.Node {
   useInterval(reconcile, 1000)
   const [userRequestedPlayback, setUserRequestedPlayback] = useState(false)
   const { player, model } = props
+  useModel((observer) => {
+    player.addEventListener("onStateChange", observer)
+  })
 
   function reconcile() {
     if (!userRequestedPlayback) return
@@ -156,6 +160,8 @@ function Controller(props: {| player: Player, model: Model |}): React.Node {
     >
       Play
     </button>
+  ) : player.getPlayerState() !== PlayerState.PLAYING ? (
+    <div className="black-screen" />
   ) : null
 }
 
