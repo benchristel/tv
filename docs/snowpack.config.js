@@ -1,11 +1,9 @@
 module.exports = {
-  exclude: [
-    "**/node_modules/**/*",
-    "**/.git/**/*"
-  ],
+  exclude: ["**/node_modules/**/*", "**/.git/**/*"],
   plugins: [
     ["snowpack-flow-remove-types"],
-    ["@snowpack/plugin-webpack", { sourceMap: true }]
+    ["@snowpack/plugin-webpack", { sourceMap: true }],
+    ["snowpack-plugin-relative-css-urls"]
   ],
   optimize: {
     bundle: true,

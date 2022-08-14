@@ -11,8 +11,10 @@
   "devDependencies": {
     "@snowpack/plugin-webpack": "^3.0.0",
     "flow-bin": "^0.174.1",
+    "prettier": "^2.7.1",
     "snowpack": "^3.8.8",
-    "snowpack-flow-remove-types": "^0.0.0"
+    "snowpack-flow-remove-types": "^0.0.0",
+    "snowpack-plugin-relative-css-urls": "^1.2.0"
   },
   "scripts": {
     "dev": "snowpack dev",

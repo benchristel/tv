@@ -4,8 +4,11 @@
 
 .App {
   height: 100vh;
-  background: #222;
-  box-shadow: inset 0 0 30px #000;
+  background-color: #222;
+  background-image: url("./wallpaper3.png");
+  background-size: 150px 150px;
+  background-blend-mode: multiply;
+  box-shadow: inset 0 0 30px 4px #000, 0 0 10px #000;
   display: flex;
   align-items: center;
   justify-content: center;
