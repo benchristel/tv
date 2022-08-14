@@ -58,3 +58,11 @@
   background-blend-mode: multiply;
   pointer-events: none;
 }
+
+#player-container {
+  /* height and width duplicate values in player.jsx */
+  height: 450px;
+  width: 800px;
+  border: none;
+  background: #000;
+}
