@@ -1472,367 +1472,367 @@ i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely
 
 # Culadasa Audio Archive
 
-UG-0XGpesgs 39:10 Sit, Breath, Wake Up! Meditation #1 - Culadasa
-IeXWFRs5cGk 42:45 Sit, Breath, Wake Up! Meditation #2 - Culadasa
-SRqXq570Cf0 45:40 Sit, Breath, Wake Up! Meditation #3 - Culadasa
-aNFc4veG61E 20:10 Sit, Breath, Wake Up! Meditation #4 - Culadasa
-LBDV7jmZL8s 51:40 Sit, Breath, Wake Up! Joy, Meditation #7 - Culadasa
-gB4_JS4jsb0 34:20 Sit, Breath, Wake Up! Meditation #5 - Culadasa
-nbvx7K_Zh0U 45:25 Sit, Breath, Wake Up! Still Point, Meditation #8 - Culadasa
-SpTDGyhoFho 24:55 Sit, Breath, Wake Up! Metta, Meditation #9 - Culadasa
-4XGLpEJBq5c 1:59:40 Sit, Breath, Wake Up! Part 1, Including Meditation - Culadasa
-xySz7-vJbjo 1:24:50 Sit, Breath, Wake Up! Part 2, Including Meditation - Culadasa
-Ok347OnJyYc 1:38:25 Sit, Breath, Wake Up! Part 4, Including Meditation - Culadasa
--lYvn_JxiaM 1:14:50 Sit, Breath, Wake Up! Part 3, Including Meditation - Culadasa
-Mw0GWsCYSho 1:52:30 Sit, Breath, Wake Up! Part 7, Including Joy Meditation - Culadasa
-pyFa9lezeLE 49:45 Sit, Breath, Wake Up! Part 5, Including Meditation - Culadasa
-F-SO2jLEl94 59:00 Sit, Breath, Wake Up! Part 6 - Culadasa
-mtdUEXGAxIc 1:17:05 Sit, Breath, Wake Up! Part 8, Including Still Point Meditation - Culadasa
-DBrpnFgXZY4 1:05:15 Sit, Breath, Wake Up! Part 9, Including Metta Meditation - Culadasa
-F1qKILcv9eA 1:30:55 tcmc-weekend-03-22-2013a-trim-lc-amp-comp
-8d0NJNnc90E 1:16:55 tcmc-weekend-03-23-2013c-trim-lc-amp-comp
-ZReyxVVZlHA 52:50 tcmc-weekend-03-23-2013b-trim-lc-amp-comp
-Jd-ymGtmsAs 1:23:10 tcmc-weekend-03-23-2013d-trim-lc-amp-comp
-1fesc0JmB0s 1:17:10 tcmc-weekend-03-24-2013f-trim-lc-amp-comp
-oDAWRHX1ez8 1:17:00 tcmc-weekend-03-23-2013e-trim-lc-amp-comp
-6UzBUJCMDLM 50:45 tcmc-weekend-03-24-2013g-trim-lc-amp-comp
-Os78CbIOCaU 1:13:15 tcmc-weekend-03-24-2013h-trim-lc-amp-comp
--VgYwj3QLY8 1:28:35 tcmc-weekend-03-24-2013i-trim-lc-amp-comp
-xwIuNvfs3-A 1:14:40 The Path to Awakening in Daily Life, Part 1 - Culadasa
-akF9g-7p18g 1:11:10 The Path to Awakening in Daily Life, Part 3 - Culadasa
-EsyJiZJ7y4Q 1:04:40 The Path to Awakening in Daily Life, Part 2 - Culadasa
-Ay3t8b-I9xk 1:19:15 The Path to Awakening in Daily Life, Part 4 - Culadasa
-uFDhnyJzzLE 55:55 The Path to Awakening in Daily Life, Part 5 - Culadasa
-iqBvQ_b0zEE 1:09:30 The Path to Awakening in Daily Life, Part 7 - Culadasa
-8Y9wpzzarAc 1:01:50 The Path to Awakening in Daily Life, Part 6 - Culadasa
-2k-NO_vUAqk 40:50 The Path to Awakening in Daily Life, Part 8 - Culadasa
-4E2e3AZZuVw 38:50 Discussion about the Anapanasati Sutta - Culadasa
-jVoK8u6LDMM 46:25 The Magic of Mindfulness, Part 1 - Culadasa
-Ds5Um2pZ2a8 1:23:15 The Magic of Mindfulness, Part 4 - Culadasa
-zF6rkzTtvI4 1:15:40 The Magic of Mindfulness, Part 3 - Culadasa
-N_HB_wpsmOc 35:55 The Magic of Mindfulness, Part 2 - Culadasa
--7rQQq9FI4E 45:25 The Magic of Mindfulness, Part 5 - Culadasa
-6wmmWA-oxVk 1:25:10 The Magic of Mindfulness, Part 8 - Culadasa
-6jQ6pXPu8gM 37:00 The Magic of Mindfulness, Part 6, Guided Meditation - Culadasa
-oXOrlj_Us8Q 1:01:30 The Magic of Mindfulness, Part 7 - Culadasa
--6D8fCaLGqw 1:28:10 The Magic of Mindfulness, Part 9 - Culadasa
-Ce_M5w83mMo 1:35:50 The Magic of Mindfulness, Part 10 - Culadasa
-Xiz1DkB1JeU 46:40 The Magic of Mindfulness, Part 9, Meditation Only - Culadasa
-KdQRPJsCpV0 43:25 The Magic of Mindfulness, Part 11 - Culadasa
-5RxJHGQIo6c 34:35 The Magic of Mindfulness, Part 11 - Meditation Only
-WbqhyGbIkic 1:49:15 Meditation and Insight, Part 1 - Culadasa
-holYpHpF_v8 1:17:45 Meditation and Insight, Part 2 - Culadasa
-G_X9f5tPcv0 1:27:05 Meditation and Insight, Part 3 - Culadasa
-BdNzQ5mpMPM 1:16:15 Meditation and Insight, Part 4 - Culadasa
-dp1YUUw9_xQ 44:20 Meditation and Insight, Part 5 - Culadasa
-pUJGCaaECnY 22:40 Meditation and Insight, Part 3, Meditation Only - Culadasa
-X3I8gD_VuH0 1:17:30 Meditation and Insight, Part 6 - Culadasa
-litqY-oF1DY 1:09:15 Meditation and Insight, Part 8 - Culadasa
-irovcJniM34 45:30 Meditation and Insight, Part 7 - Culadasa
-xGDw947qcO4 47:55 Meditation and Insight, Part 9 - Culadasa
-om9lc05kShI 1:11:20 Meditation for Peace, Part 1 - Culadasa
-XWs7iJuRlNk 1:03:05 Meditation for Peace, Part 2 - Culadasa
-gc4OIzNCzJE 1:18:10 Meditation for Peace, Part 4 - Culadasa
-i2smsi-Po5s 1:00:25 Meditation for Peace, Part 3, Meditation Followed by Discussion - Culadasa
-_c0SvbC3n0E 1:04:45 Meditation for Peace, Part 5 - Culadasa
-_O0HwUi4L8M 19:45 Meditation for Peace, Part 6 - Culadasa
-X2I1Xkpu1ao 1:05:35 Meditation for Peace, Part 8 - Culadasa
-w5yfStrGXZs 46:25 Meditation for Peace, Part 7, Guided Metta - Culadasa
-PbKB7L3wXN4 1:37:35 Joy & Meditation, Part 1, Introduction - Culadasa
-4h_jZo7D8nY 52:25 Joy & Meditation, Part 3 - Culadasa
-pnVa5LOFYMI 12:45 Joy & Meditation, Part 2, Meditation - Culadasa
-Xfj-XisH-f8 33:35 Joy & Meditation, Part 4, Guided-Meditation - Culadasa
-WuHTnUFJvTY 57:45 Joy & Meditation, Part 5 - Culadasa
-x8f4ywGuz7E 1:05:40 Joy & Meditation, Part 6 - Culadasa
-5P-EcrWA3JE 56:05 Joy & Meditation, Part 8 - Culadasa
-QdWx1DyPoG4 34:55 Joy & Meditation, Part 7, Guided-Meditation - Culadasa
-VvWGrbkl7XU 27:10 Joy & Meditation, Part 9 - Culadasa
-GEJPm0EpZIY 1:20:00 Joy & Meditation, Part 11 - Culadasa
--UjegcD2NOI 40:25 Joy & Meditation, Part 10, Guided-Meditation - Culadasa
-kLLUeGyKLFw 39:20 Joy & Meditation, Part 12 - Culadasa
-7pXwbEuqlds 49:00 Joy & Meditation, Part 13, Closing Meditation - Culadasa
-sJ02xiHY1KI 1:14:25 What Is Enlightenment, Part 1 - Culadasa
-hM2qhko-5V0 53:10 What Is Enlightenment, Part 2 - Culadasa
-gTTbURalWwY 1:27:35 What Is Enlightenment, Part 4 - Culadasa
-6udxIzA9B8I 50:05 What Is Enlightenment, Part 3 - Culadasa
-GoiFe39LKiE 1:19:25 What Is Enlightenment, Part 5 - Culadasa
-aOKWj4Kk2rg 1:14:05 What Is Enlightenment, Part 6 - Culadasa
-BwmcPn-7oMI 1:41:10 What Is Enlightenment, Part 7 - Culadasa
-JwpiFIrG4bk 1:27:35 When the Buddhadharma Came to the West, Part 1 - Culadasa
-ARdWVSNy7U8 1:23:45 When the Buddhadharma Came to the West, Part 3 - Culadasa
-gGKT2sxn2Vs 1:17:10 When the Buddhadharma Came to the West, Part 2 - Culadasa
-hoik390Dg9k 1:13:40 When the Buddhadharma Came to the West, Part 4 - Culadasa
-R3nftLD2eMA 52:55 When the Buddhadharma Came to the West, Part 5 - Culadasa
-8sEeiWdGW-o 1:38:00 When the Buddhadharma Came to the West, Part 6 - Culadasa
-sMPeNHk6Srs 1:16:10 When the Buddhadharma Came to the West, Part 8 - Culadasa
-S9xqIz51SbM 29:10 When the Buddhadharma Came to the West, Part 7 - Culadasa
-TJcy0n9NnKI 1:29:25 The Jhanas, Part 5 - Culadasa
-qstlQPwmHq8 4:25 How Do We Project Reality - Culadasa
-oufkssKC5qA 4:15 How Do I Meditate - Culadasa
-WLx5Fvh91eE 30:45 The Jhanas, Part 6, Meditation - Culadasa
-YplfDrwaZNA 59:00 The Jhanas, Part 4 - Culadasa
-HeZuKlcaRTs 1:23:40 The Jhanas, Part 3, Meditation and Discussion - Culadasa
-3z3Mt0Bw4GE 1:20:00 The Jhanas, Part 2 - Culadasa
-M8vpuW34HcI 1:36:35 The Jhanas, Part 1 - Culadasa
-YZSsmNBUWEw 1:14:15 Meditation for Peace, Part 1 - Culadasa
-xY7BdB32DEk 1:06:35 Meditation for Peace, Part 8 - Culadasa
-YiO0UpLWbcA 48:00 Meditation for Peace, Part 7 - Culadasa
-wc-EslQfkDU 1:05:50 Meditation for Peace, Part 5 - Culadasa
-DQG0WzQTZfI 1:21:15 Meditation for Peace, Part 4 - Culadasa
-AT9ZRu_4XMY 19:55 Meditation for Peace, Part 6 - Culadasa
-qsgmBFeb5Cw 1:01:35 Meditation for Peace, Part 3 - Culadasa
-rBerwigAmAQ 1:04:00 Meditation for Peace, Part 2 - Culadasa
-tbF2gwJLEWQ 1:06:35 Meditation for Peace, Part 8 - Culadasa
-WB76phVVvsA 1:21:15 Meditation for Peace, Part 4 - Culadasa
-ApfkpAp3aC0 1:14:15 Meditation for Peace, Part 1 - Culadasa
-An5pQGuPyRk 1:05:50 Meditation for Peace, Part 5 - Culadasa
-Hwd9DnGRjpg 1:01:35 Meditation for Peace, Part 3 - Culadasa
-90JkxrK8QjM 1:04:00 Meditation for Peace, Part 2 - Culadasa
-hYYjVAJfOPM 48:00 Meditation for Peace, Part 7 - Culadasa
-ENWUs9QqTCU 19:55 Meditation for Peace, Part 6 - Culadasa
-5mlUleMSiTQ 1:38:30 When the Buddhadharma Came to the West, Part 6 - Culadasa
-lsNaJVfKwZs 1:16:10 When the Buddhadharma Came to the West, Part 8 - Culadasa
-VAPcuZvr9JA 1:29:15 When the Buddhadharma Came to the West, Part 1 - Culadasa
-q1NkYOCYlA4 1:14:10 When the Buddhadharma Came to the West, Part 4 - Culadasa
-KvG4Rw0YuJY 1:24:25 When the Buddhadharma Came to the West, Part 3 - Culadasa
-ZpBlVT8okLQ 54:25 When the Buddhadharma Came to the West, Part 5 - Culadasa
-3UVOXvaG6z8 1:18:20 When the Buddhadharma Came to the West, Part 2 - Culadasa
-unnYRQF04BE 29:15 When the Buddhadharma Came to the West, Part 7 - Culadasa
-wpj0hT4_dwk 22:35 What is the Space Between Thoughts? - Culadasa
-WUYh-0Tkvjk 17:10 The Five Aggregates and “No-Self” - Culadasa
-mStFqLFqXRA 31:30 Piti (Joy) - Culadasa
-zPv549Jmia4 18:35 What is Karma? - Culadasa
-ROwydcA-Mkc 17:40 Will Power and Achievement - Culadasa
-pgK3cLIO5DM 21:30 Motivation for Morality - Culadasa
-Wprau239F-E 11:55 Progressing on the Path - Culadasa
-oOCtnXOL6mk 10:50 Silence of the Mind - Culadasa
-krRHH83qbiU 20:30 How to Develop Introspective Awareness - Culadasa
-ud6Ndl6i2rE 2:25 Walking Meditation - Culadasa
-PSal7mqWPps 3:50 Subtle Distractions and Gross Dullness - Culadasa
-ourDJ0u2Xbo 7:30 Role for Psychedelics in the Path - Culadasa
-M7G5Xt5GRb8 4:45 Is the Hologram a Good Model for Ultimate Reality? - Culadasa
-MflPS9FAV5E 5:25 How Does the Mind Create the World? - Culadasa
-2aQgp47Fknc 4:25 How Do We Project Reality? - Culadasa
-kCkR5wINMBA 4:15 How Do I Meditate? - Culadasa
-oTBUDL8SfwU 15:55 Can Suchness Be Reduced to Energy? - Culadasa
-IVUYdz_yzAw 9:20 Concentration vs Blissful States and Dullness - Culadasa
-Qvb1JL94ikU 5:30 Focus on Sensations vs Absorption at Stage 4 - Culadasa
-nFMPD65ccTI 9:10 A Model for Understanding Dullness - Culadasa
-u-FD7WijOxk 1:00:10 TCMC Thursday #20, Part 2 - Culadasa
-5yrF0tBrnP4 1:00:15 TCMC Thursday #10 - Culadasa
-vBrDgkMNh3Q 1:50:05 Bisbee Zen Sangha Lecture - Culadasa
-pO2ChM2NFgY 1:53:45 Q&A - Culadasa, Stronghold Retreat #1, Part 5
-cVU1rikYX9Y 45:25 Guided Meditation, TCMC Weekend #1, Part 7 - Culadasa
-5_KI-CwG37c 1:04:40 TCMC Thursday #28, Part 2 - Culadasa
-uw3S_pDNjkQ 1:18:05 UWest Meditation Camp #2, Part 1 - Culadasa
-8smu6ilczdI 54:45 Uposatha Day #26 - Culadasa
-jCLVsQIdY8w 1:08:57 TCMC Thursday #27, Part 2 - Culadasa
-0P3Yyat-BaY 46:00 Uposatha Day #27 - Culadasa
-1R9xgzbRF5Q 6:20 Tips on Developing Full-minded Awareness with Concentration (Stage 5) - Culadasa
-W3xULt6Uatc 39:15 TCMC Thursday #28, Part 1 - Culadasa
-rm9zAOF0mr8 29:25 TCMC Thursday #27, Part 1 - Culadasa
-id7tS03tufI 57:20 TCMC Weekend #1, Part 9 - Culadasa
-e7W5JRI1c8g 1:18:50 Uposatha Day #23 - Culadasa
--pqILBXTL0A 1:10:15 Uposatha Day #20 - Culadasa
-lQBtlKV-8A4 13:30 Can a Cessation Be an Object of Consciousness? - Culadasa
-vaVhcfOqIVE 1:13:15 UWest Meditation Camp #2, Part 8 - Culadasa
-GC-n9-dWYsg 1:00:30 Uposatha Day #25 - Culadasa
-M22w9lxOtAo 1:07:10 Uposatha Day #22 - Culadasa
-dL02xlODGbI 47:10 Uposatha Day #24 - Culadasa
-eG5VxQUctPQ 1:04:15 TCMC Weekend #1, Part 6 - Culadasa
-uHWxeRv9M5Y 1:39:15 Guided Metta - UWest Meditation Camp #2, Part 10 - Culadasa
-eqL6CsQ3lFg 1:00:15 UWest Meditation Camp #2, Part 6 - Culadasa
-Bv9_koMGnWc 33:30 Uposatha Day #21 - Culadasa
-pyoewXHdww0 1:03:55 UWest Meditation Camp #2, Part 5 - Culadasa
-a9NKE-7GrZQ 1:19:20 TCMC Weekend #1, Part 2 - Culadasa
-wILUJC_sqRY 51:35 TCMC Weekend #1, Part 8 - Culadasa
-R0f7KOhA7Qc 1:12:00 TCMC Weekend #1, Part 4 - Culadasa
-lfPThV3AARs 38:35 UWest Meditation Camp #2, Part 4 - Culadasa
-lTQj8xh-BfM 1:26:30 TCMC Weekend #1, Part 1 - Culadasa
-KdkOwnxE9rY 1:23:50 TCMC Thursday #21, Part 2 - Culadasa
-hqnyTNVcSik 1:04:35 TCMC Weekend #1, Part 3 - Culadasa
-iChmRArdaLo 23:25 UWest Meditation Camp #2, Part 7 - Culadasa
-920eFHwVlJs 58:55 TCMC Weekend #1, Part 10 - Culadasa
-h3JLS4-ZWbE 1:09:30 Dharma Talk - Culadasa, Santa Fe Vipassana Sangha
-rEgW_al38u4 47:10 TCMC Thursday #26 - Culadasa
-UC6Xouvoi7k 13:15 UWest Meditation Camp #2, Part 3 - Culadasa
-RN8SwjbPlWE 1:02:30 TCMC Thursday #24, Part 2 - Culadasa
-D2yc0g73YBU 1:09:25 TCMC Thursday #23, Part 2 - Culadasa
-sp9KKBWN5Wk 9:10 The Awakening Process - Culadasa
-6Fgux1RwmYQ 1:26:20 Q&A - Culadasa, Stronghold Retreat #1, Part 4
-wrw7vKh_9BU 19:00 TCMC Weekend #1, Part 5 - Culadasa
-q-W_rfqczBw 1:07:35 TCMC Thursday #22 - Culadasa
-b56ubFUSw6w 1:38:35 Dharma Talk - Culadasa, Stronghold Retreat #1, Part 2
-1216dY3Pvdk 22:50 TCMC Thursday #25 - Culadasa
-nRLmVRSEcUM 55:25 Q&A & Dharma Talk - Culadasa, Stronghold Retreat #1, Part 3
-u6qjNcZ9GCA 42:50 TCMC Thursday #20, Part 1 - Culadasa
--dh1sQUjMts 58:30 Dharma Talk - Culadasa, Stronghold Retreat #1, Part 1
-WP1tvBUKI_Q 28:35 TCMC Thursday #23, Part 1 - Culadasa
-n2uF0xD7x7E 21:25 TCMC Thursday #24, Part 1 - Culadasa
-DZg8pCJlzX8 26:40 TCMC Thursday #21, Part 1 - Culadasa
-pYowT4zFgwc 14:05 Levels After the First Nine Meditation Stages - Culadasa
-0CcyCbcTovA 23:10 Guided Meditation, UWest Meditation Camp #2, Part 2 - Culadasa
-Mu0SkCBR0nM 20:30 How Does Insight Fit into the Meditation Systems - Culadasa
-rXJZhFgX2tk 11:25 Bypassing Steps to Awakening? - Culadasa
-T7DJRmgDweE 34:30 Q&A - Culadasa, Retreat in California #4, Part 2
-luJk8sbK2SI 1:38:01 UWest Meditation Camp #1, Part 4 - Culadasa
-uxb_0HNI48Q 1:37:15 University of the West Lecture - Culadasa
-oLY0mG2MdRk 1:08:15 Uposatha Day #18 - Culadasa
-z3lTL0k4UmA 49:00 Uposatha Day #19 - Culadasa
-ZDlU3G0eYiE 1:27:55 TCMC Weekend #1, Part 1 - Culadasa
-oDDk6RJTWxY 58:05 Uposatha Day #17 - Culadasa
-uWElZuDMpMM 52:50 Uposatha Day #16 - Culadasa
-oaGu4A4KfVs 15:55 What is Free Will - Culadasa
-9y6eFyPZCSQ 1:18:40 TCMC Thursday #17, Part 2 - Culadasa
-e2KkHo8wGMo 43:20 Uposatha Day #14 - Culadasa
-NHfqniV75Aw 58:47 UWest Meditation Camp #1, Part 8 - Culadasa
-8HnEWG5qDLI 1:15:50 TCMC Thursday #18, Part 2 - Culadasa
-y2gLtq8JRHM 1:47:15 Dharma Talk - Culadasa, Retreat in California #4, Part 9
-7f_BEI7XJhU 16:40 When We’ve Done Wrong - Culadasa
-CNPdu6jjeNI 1:05:20 TCMC Thursday #19, Part 2 - Culadasa
-HvfqSSF_QFE 46:55 Uposatha Day #13 - Culadasa
-eFVkkRZ9WDM 1:20:35 TCMC Thursday #15, Part2 - Culadasa
-4JFLsHNdE3s 1:11:55 TCMC Thursday #16, Part 2 - Culadasa
-oLiFFYFIFp4 1:42:20 Dharma Talk - Culadasa, Retreat in California #4, Part 7
-iOIQjYjy7n4 6:30 Uposatha Day #15 - Culadasa
-ENDA8TKB9jI 1:28:25 Dharma Talk - Culadasa, Retreat in California #4, Part 5
-_j_XSDukuPQ 35:10 TCMC Thursday #18, Part 1 - Culadasa
-6iGOYQE-0ZQ 21:30 TCMC Thursday #19, Part 1 - Culadasa
-LLLKVOWuhRM 28:00 TCMC Thursday #17, Part 1 - Culadasa
-UMMCB-f3ALM 1:31:10 Dharma Talk - Culadasa, Retreat in California #4, Part 13
-uRYLMUOPMlM 1:40:50 Dharma Talk - Culadasa, Retreat in California #4, Part 14
-it4uodKgY5Q 34:10 TCMC Thursday #16, Part 1 - Culadasa
-dsOl0vFkkTU 24:15 Q&A - Culadasa, Retreat in California #4, Part 4
-bPHS6mdr0fA 30:05 TCMC Thursday #15, Part 1 - Culadasa
-c7fH8AR978U 1:22:40 Dharma Talk - Culadasa, Retreat in California #4, Part 3
-okEjvyYOx88 33:55 Q&A - Culadasa, Retreat in California #4, Part 6
-L1HXCZV8XL0 1:32:45 Dharma Talk - Culadasa, Retreat in California #4, Part 11
-tYZOM-C5hZ8 23:40 Q&A - Culadasa, Retreat in California #4, Part 8
-MD39KrPZQmE 28:50 Q&A - Culadasa, Retreat in California #4, Part 10
-vJgT3_2lZWQ 9:00 Sleepiness and Dullness - Culadasa
-qQsfqL9FxqA 1:09:10 Dharma Talk - Culadasa, Retreat in California #3, Part 19
-6YcrRxk1PgE 33:00 Guided Beginner Meditation, UWest Meditation Camp #1, Part 10 - Culadasa
-7wnt72CF_Gg 24:00 Mind Unification - Culadasa
-8sBGx0VwCuo 1:07:10 Dharma Talk - Culadasa, Retreat in California #4, Part 1
-w3dwsnoJQZM 14:40 Q&A - Culadasa, Retreat in California #4, Part 12
-IEwgfA68m6c 15:00 Mindfulness Practice - Culadasa
-SRM4bNmg0-g 15:30 Behind the Veil - Culadasa
-jWLJhhrTokU 1:25 Lengthening Meditation Times - Culadasa
-PTUZxS9cjwQ 20:05 Changing Your Destiny - Culadasa
-UeJYk6Nm0r0 8:50 Benefits of Meditation - Culadasa
-4IVxof5UQkg 4:35 Counting as Meditation Tool - Culadasa
-L5cLz8A9k3A 5:55 Brain vs Mind - Culadasa
-Xj06Lc7y21I 1:07:05 TCMC Thursday #11, Part 2 - Culadasa
-XazGRf3OnNc 1:27:25 UWest Meditation Camp #1, Part 6 - Culadasa
-LENVuV2yeR4 1:34:15 Uposatha Day #11 - Culadasa
-OPeTSpVFgzI 1:44:25 UWest Meditation Camp #1, Part 11 - Culadasa
-YpbZSm8nEcs 1:00:20 UWest Meditation Camp #1, Part 5 - Culadasa
-LVISBodOXac 55:55 Uposatha Day #10 - Culadasa
-lTCNyukce0k 1:00:45 UWest Meditation Camp #1, Part 7 - Culadasa
-wZaVkac9oK4 47:50 UWest Meditation Camp #1, Part 9 - Culadasa
-LqUfbmBn0XQ 1:15:00 UWest Meditation Camp #1, Part 1 - Culadasa
-maQ7WNnMMVI 1:12:53 UWest Meditation Camp #1, Part 14 - Culadasa
-w3SZAD7VZ8c 1:03:47 UWest Meditation Camp #1, Part 12 - Culadasa
-t-RLX9JA21M 16:05 Uposatha Day #8, Mindfulness in Daily Life - Culadasa
-gD9WB4zI4eo 56:25 UWest Meditation Camp #1, Part 3 - Culadasa
-P1gZHKsPF_Y 23:55 Uposatha Day #12 - Culadasa
-9J70of2c8Xw 29:40 Uposatha Day #7 - Culadasa
-Vrn-GhJofeU 1:07:50 Q&A - Culadasa, Retreat in California #3, Part 8
-WZN9NuUeH6Q 1:08:35 TCMC Thursday #12 - Culadasa
-vd0s3TREqok 1:25:20 TCMC Thursday #13 - Culadasa
-HHVCSTDsF6s 1:08:10 Dharma Talk - Culadasa, Retreat in California #3, Part 9
-S3nX3gm9JBA 1:08:00 TCMC Thursday #14, Part 2 - Culadasa
-3ENaibWuA0w 56:40 Q&A - Culadasa, Retreat in California #3, Part 2
-6aWXvmIjDAE 1:08:50 Q&A - Culadasa, Retreat in California #3, Part 13
-MZQqa2NvoHg 1:08:10 Q&A - Culadasa, Retreat in California #3, Part 4
-DJBBZ9pKLcE 1:02:25 Q&A - Culadasa, Retreat in California #3, Part 15
-w9jAKb2Mqi8 35:10 TCMC Thursday #14, Part 1 - Culadasa
-Da44vOqxXLw 29:30 TCMC Thursday #11, Part 1 - Culadasa
-c-KuXPdIZe8 1:00:50 Q&A - Culadasa, Retreat in California #3, Part 17
-9jH8MpuXlHc 1:03:00 Q&A - Culadasa, Retreat in California #3, Part 10
-0G8q942gfzM 58:40 Q&A - Culadasa, Retreat in California #3, Part 6
-q-XQicy6HR0 1:05:50 Dharma Talk - Culadasa, Retreat in California #3, Part 14
-8GE5M0wrjss 1:38:30 Dharma Talk - Culadasa, Retreat in California #3, Part 16
-ZYV2X_7YNQc 36:30 Guided Metta - Culadasa, Retreat in California #3, Part 18
-sacyPpJK7gg 44:00 Opening - Culadasa, Retreat in California #3, Part 1
-0Uork0NCSis 1:22:10 DM Retreat #2 - Culadasa
-_FCO92IIMLE 1:11:30 Dharma Talk - Culadasa, Retreat in California #3, Part 3
-HiyQfOzsSms 59:35 Dharma Talk - Culadasa, Retreat in California #3, Part 11
-3efUiakSwiI 56:05 Dharma Talk - Culadasa, Retreat in California #3, Part 5
-R0Crl1r_4Fk 1:09:10 Dharma Talk - Culadasa, Retreat in California #3, Part 7
-6ghUvwHiq-Y 1:14:15 Beginner Guided Meditation, UWest Meditation Camp #1, Part 2 - Culadasa
-8yz0HxXTVFY 28:25 Guided Metta - Culadasa, Retreat in California #3, Part 12
-70qMmwmaccQ 1:13:15 DM Retreat - Culadasa
-xmmPRYagq3s 26:05 Guided Metta Meditation, UWest Meditation Camp #1, Part 13 - Culadasa
-wU0RjslXxlo 14:00 Analytical Meditations, What and How - Culadasa
-SdYgWK-mYrg 3:00 First Stage of Meditation Tips - Culadasa
-oQixjDgWq9g 1:28:13 Cochise Stronghold 10 Day Retreat #1, Part 1 - Culadasa
-Zl0zl_Yd1-I 1:25:15 Cochise Stronghold 10 Day Retreat #1, Part 3 - Culadasa
-TnasBvYIsHE 59:00 Closing Dharma Talk - Culadasa, Cochise Stronghold Weekend #1, Part 3
-EpupNjzIt-M 1:13:15 Cochise Stronghold 10 Day Retreat #1, Part 4 - Culadasa
-nLQ_1dSc8ZQ 51:00 Cochise Stronghold 10 Day Retreat #1, Part 2 - Culadasa
-QGlXc2UWBJY 1:10:15 Cochise Stronghold 10 Day Retreat #1, Part 6 - Culadasa
-yA-q5TQn0NM 7:15 Brightening the Mind to Combat Subtle Dullness - Culadasa
-dqxHOoBS8e8 1:04:45 Cochise Stronghold 10 Day Retreat #1, Part 7 - Culadasa
-FqYQWfh1GJw 46:30 Cochise Stronghold 10 Day Retreat #1, Part 5 - Culadasa
-iPZTuq11gqA 1:57:05 TCMC Thursday #5 - Culadasa
-yAqvatURbgs 1:26:10 Dharma Talk, Q&A - Culadasa, Cochise Stronghold Weekend #1, Part 2
-PSg_Pxe89bA 1:43:30 TCMC Thursday #7 - Culadasa
-WeQ-VzAFDzU 1:29:25 TCMC Thursday #6, Part 3 - Culadasa
-m13cmG7uhu8 43:20 Guided Metta Meditation, TCMC Thursday #6, Part 2 - Culadasa
--8JH-QPG6lA 19:45 Combating Depression and Dissastifaction During Transition - Culadasa
-8-dkvQ8T89o 15:05 Loving Kindness Practice - Culadasa
-Xx-QIXKainU 12:25 Craving, What’s it All About? - Culadasa
-Idkm7mG3ohI 3:40 Exchanging Self and Others - Culadasa
-w9i_1vp2OCg 6:20 How do I develop mindful awareness and good concentration - Culadasa
-GGOS42Ws7_I 1:14:45 TCMC Thursday #9, Part 2 - Culadasa
-1kXIzUKS0TM 11:55 The Benefits and Practice of Letting Go - Culadasa
--TmI4U9JYFc 4:40 Physical Suffering vs Mental Suffering - Culadasa
-wRZdcZUz1ks 21:45 TCMC Thursday #6, Part 1 - Culadasa
-mywGH24zu60 41:35 TCMC Thursday #8, Part 2 - Culadasa
--2rXnz9RUuc 31:15 TCMC Thursday #8, Part 1 - Culadasa
-KRxHUtQ3Vjc 42:40 Uposatha Day #5 - Culadasa
-ZCiDLdvHDyI 25:55 TCMC Thursday #9, Part 1 - Culadasa
-HuKdJQUR2TY 15:00 Uposatha Day #3 - Culadasa
-endc5cDy8zM 10:50 Uposatha Day #4 - Culadasa
-293vximFQW4 1:25 Working with Post Traumatic Stress Disorder - Culadasa
-V5v-nNBgYSM 45:20 Guided Meditation - Culadasa, California Retreat #2, Part 6
-25GQobBP1C0 1:42:35 TCMC Thursday #4 - Culadasa
-F_MDEaOBWI0 1:57:45 TCMC Thursday #1 - Culadasa
-8EetwP74CF0 1:25:40 TCMC Thursday #2 - Culadasa
-5Rz0LSfeRyQ 1:34:05 TCMC Thursday #3 - Culadasa
-1akIBebwVOQ 1:04:50 Introduction - Culadasa, Cochise Stronghold Weekend, Part 1
-GlaQy-CRY_Q 35:15 Uposatha Day #2 - Culadasa
-8o-qawkwkeE 1:23:00 Dharma Talk - Culadasa, California Retreat #2, Part 4
-vxkieoMDKsk 1:01:20 Q&A – Culadasa, Retreat in California #2, Part 8
-m8rijuciZWg 1:25:05 Dharma Talk – Culadasa, Retreat in California #2, Part 11
-12gfXprvTWo 59:20 Q&A – Culadasa, Retreat in California #2, Part 5
-y9h7KzDwMMU 1:27:10 Dharma Talk – Culadasa, Retreat in California #2, Part 9
-cSjkj8p1bzw 1:04:25 Q&A – Culadasa, Retreat in California #2, Part 10
-YbZyAR4bKRw 1:02:10 Dharma Talk – Culadasa, Retreat in California #2, Part 7
-U6nPD02iPf8 37:15 Closing – Culadasa, Retreat in California #2, Part 12
--mbGcDSEEcI 2:13:40 Dharma Talk - Culadasa, California Retreat #1, Part 15
-FMDdB2RpckY 1:50:35 Dharma Talk - Culadasa, California Retreat #1, Part 17
-VVXIYCC5Tg8 1:59:40 Dharma Talk - Culadasa, California Retreat #1, Part 13
-CKSVmsDZjAg 1:53:35 Dharm Talk - Culadasa, California Retreat #1, Part 11
-qNVfPuGbJcc 1:25:10 Dharma Talk – Culadasa, Retreat in California #2, Part 2
-K6bhtKYvUc4 1:22:55 Q&A – Culadasa, Retreat in California #2, Part 1
-k8zFTjBnNl8 1:13:55 Retreat Closing - Culadasa, California Retreat #1, Part 18
-J_dFNqelBfI 1:04:10 Q&A – Culadasa, Retreat in California #2, Part 3
-W4rdBy2rS0E 1:12:10 Q&A - Culadasa, California Retreat #1, Part 16
-9izV_lZ2gF4 1:01:20 Q&A - Culadasa, California Retreat #1, Part 12
--eWefpzBzqQ 59:45 Q&A - Culadasa, California Retreat #1, Part 14
--9bu9P6OjIo 2:01:45 Dharma Talk - Culadasa, California Retreat #1, Part 9
-wQkmlFKLONM 2:22:10 Evening Opening - Culadasa, California Retreat #1, Part 1
-ZIVpqZ12n5s 1:15:55 Dharma Talk - Culadasa, California Retreat #1, Part 7
-wE7ONOW73zE 1:01:00 Q&A - Culadasa, California Retreat #1, Part 10
-b8zAJ3JCc_k 1:14:35 Dharma Talk - Culadasa, California Retreat #1, Part 5
-eptT3fEFeWM 1:01:55 Q&A - Culadasa, California Retreat #1, Part 8
-CpVvyfvHs4I 1:01:55 Q&A - Culadasa, California Retreat #1, Part 6
-JexBXhxlXnU 1:04:25 Q&A - Culadasa, California Retreat #1, Part 4
-Ep2XB4eZVDQ 1:08:35 Dharma Talk - Culadasa, California Retreat #1, Part 3
-ev2a4H1ZO88 59:50 Q&A - Culadasa, California Retreat #1, Part 2
-iS_hjBoApQY 1:12:15 Uposatha Day #1 - Culadasa
+# UG-0XGpesgs 39:10 Sit, Breath, Wake Up! Meditation #1 - Culadasa
+# IeXWFRs5cGk 42:45 Sit, Breath, Wake Up! Meditation #2 - Culadasa
+# SRqXq570Cf0 45:40 Sit, Breath, Wake Up! Meditation #3 - Culadasa
+# aNFc4veG61E 20:10 Sit, Breath, Wake Up! Meditation #4 - Culadasa
+# LBDV7jmZL8s 51:40 Sit, Breath, Wake Up! Joy, Meditation #7 - Culadasa
+# gB4_JS4jsb0 34:20 Sit, Breath, Wake Up! Meditation #5 - Culadasa
+# nbvx7K_Zh0U 45:25 Sit, Breath, Wake Up! Still Point, Meditation #8 - Culadasa
+# SpTDGyhoFho 24:55 Sit, Breath, Wake Up! Metta, Meditation #9 - Culadasa
+# 4XGLpEJBq5c 1:59:40 Sit, Breath, Wake Up! Part 1, Including Meditation - Culadasa
+# xySz7-vJbjo 1:24:50 Sit, Breath, Wake Up! Part 2, Including Meditation - Culadasa
+# Ok347OnJyYc 1:38:25 Sit, Breath, Wake Up! Part 4, Including Meditation - Culadasa
+# -lYvn_JxiaM 1:14:50 Sit, Breath, Wake Up! Part 3, Including Meditation - Culadasa
+# Mw0GWsCYSho 1:52:30 Sit, Breath, Wake Up! Part 7, Including Joy Meditation - Culadasa
+# pyFa9lezeLE 49:45 Sit, Breath, Wake Up! Part 5, Including Meditation - Culadasa
+# F-SO2jLEl94 59:00 Sit, Breath, Wake Up! Part 6 - Culadasa
+# mtdUEXGAxIc 1:17:05 Sit, Breath, Wake Up! Part 8, Including Still Point Meditation - Culadasa
+# DBrpnFgXZY4 1:05:15 Sit, Breath, Wake Up! Part 9, Including Metta Meditation - Culadasa
+# F1qKILcv9eA 1:30:55 tcmc-weekend-03-22-2013a-trim-lc-amp-comp
+# 8d0NJNnc90E 1:16:55 tcmc-weekend-03-23-2013c-trim-lc-amp-comp
+# ZReyxVVZlHA 52:50 tcmc-weekend-03-23-2013b-trim-lc-amp-comp
+# Jd-ymGtmsAs 1:23:10 tcmc-weekend-03-23-2013d-trim-lc-amp-comp
+# 1fesc0JmB0s 1:17:10 tcmc-weekend-03-24-2013f-trim-lc-amp-comp
+# oDAWRHX1ez8 1:17:00 tcmc-weekend-03-23-2013e-trim-lc-amp-comp
+# 6UzBUJCMDLM 50:45 tcmc-weekend-03-24-2013g-trim-lc-amp-comp
+# Os78CbIOCaU 1:13:15 tcmc-weekend-03-24-2013h-trim-lc-amp-comp
+# -VgYwj3QLY8 1:28:35 tcmc-weekend-03-24-2013i-trim-lc-amp-comp
+# xwIuNvfs3-A 1:14:40 The Path to Awakening in Daily Life, Part 1 - Culadasa
+# akF9g-7p18g 1:11:10 The Path to Awakening in Daily Life, Part 3 - Culadasa
+# EsyJiZJ7y4Q 1:04:40 The Path to Awakening in Daily Life, Part 2 - Culadasa
+# Ay3t8b-I9xk 1:19:15 The Path to Awakening in Daily Life, Part 4 - Culadasa
+# uFDhnyJzzLE 55:55 The Path to Awakening in Daily Life, Part 5 - Culadasa
+# iqBvQ_b0zEE 1:09:30 The Path to Awakening in Daily Life, Part 7 - Culadasa
+# 8Y9wpzzarAc 1:01:50 The Path to Awakening in Daily Life, Part 6 - Culadasa
+# 2k-NO_vUAqk 40:50 The Path to Awakening in Daily Life, Part 8 - Culadasa
+# 4E2e3AZZuVw 38:50 Discussion about the Anapanasati Sutta - Culadasa
+# jVoK8u6LDMM 46:25 The Magic of Mindfulness, Part 1 - Culadasa
+# Ds5Um2pZ2a8 1:23:15 The Magic of Mindfulness, Part 4 - Culadasa
+# zF6rkzTtvI4 1:15:40 The Magic of Mindfulness, Part 3 - Culadasa
+# N_HB_wpsmOc 35:55 The Magic of Mindfulness, Part 2 - Culadasa
+# -7rQQq9FI4E 45:25 The Magic of Mindfulness, Part 5 - Culadasa
+# 6wmmWA-oxVk 1:25:10 The Magic of Mindfulness, Part 8 - Culadasa
+# 6jQ6pXPu8gM 37:00 The Magic of Mindfulness, Part 6, Guided Meditation - Culadasa
+# oXOrlj_Us8Q 1:01:30 The Magic of Mindfulness, Part 7 - Culadasa
+# -6D8fCaLGqw 1:28:10 The Magic of Mindfulness, Part 9 - Culadasa
+# Ce_M5w83mMo 1:35:50 The Magic of Mindfulness, Part 10 - Culadasa
+# Xiz1DkB1JeU 46:40 The Magic of Mindfulness, Part 9, Meditation Only - Culadasa
+# KdQRPJsCpV0 43:25 The Magic of Mindfulness, Part 11 - Culadasa
+# 5RxJHGQIo6c 34:35 The Magic of Mindfulness, Part 11 - Meditation Only
+# WbqhyGbIkic 1:49:15 Meditation and Insight, Part 1 - Culadasa
+# holYpHpF_v8 1:17:45 Meditation and Insight, Part 2 - Culadasa
+# G_X9f5tPcv0 1:27:05 Meditation and Insight, Part 3 - Culadasa
+# BdNzQ5mpMPM 1:16:15 Meditation and Insight, Part 4 - Culadasa
+# dp1YUUw9_xQ 44:20 Meditation and Insight, Part 5 - Culadasa
+# pUJGCaaECnY 22:40 Meditation and Insight, Part 3, Meditation Only - Culadasa
+# X3I8gD_VuH0 1:17:30 Meditation and Insight, Part 6 - Culadasa
+# litqY-oF1DY 1:09:15 Meditation and Insight, Part 8 - Culadasa
+# irovcJniM34 45:30 Meditation and Insight, Part 7 - Culadasa
+# xGDw947qcO4 47:55 Meditation and Insight, Part 9 - Culadasa
+# om9lc05kShI 1:11:20 Meditation for Peace, Part 1 - Culadasa
+# XWs7iJuRlNk 1:03:05 Meditation for Peace, Part 2 - Culadasa
+# gc4OIzNCzJE 1:18:10 Meditation for Peace, Part 4 - Culadasa
+# i2smsi-Po5s 1:00:25 Meditation for Peace, Part 3, Meditation Followed by Discussion - Culadasa
+# _c0SvbC3n0E 1:04:45 Meditation for Peace, Part 5 - Culadasa
+# _O0HwUi4L8M 19:45 Meditation for Peace, Part 6 - Culadasa
+# X2I1Xkpu1ao 1:05:35 Meditation for Peace, Part 8 - Culadasa
+# w5yfStrGXZs 46:25 Meditation for Peace, Part 7, Guided Metta - Culadasa
+# PbKB7L3wXN4 1:37:35 Joy & Meditation, Part 1, Introduction - Culadasa
+# 4h_jZo7D8nY 52:25 Joy & Meditation, Part 3 - Culadasa
+# pnVa5LOFYMI 12:45 Joy & Meditation, Part 2, Meditation - Culadasa
+# Xfj-XisH-f8 33:35 Joy & Meditation, Part 4, Guided-Meditation - Culadasa
+# WuHTnUFJvTY 57:45 Joy & Meditation, Part 5 - Culadasa
+# x8f4ywGuz7E 1:05:40 Joy & Meditation, Part 6 - Culadasa
+# 5P-EcrWA3JE 56:05 Joy & Meditation, Part 8 - Culadasa
+# QdWx1DyPoG4 34:55 Joy & Meditation, Part 7, Guided-Meditation - Culadasa
+# VvWGrbkl7XU 27:10 Joy & Meditation, Part 9 - Culadasa
+# GEJPm0EpZIY 1:20:00 Joy & Meditation, Part 11 - Culadasa
+# -UjegcD2NOI 40:25 Joy & Meditation, Part 10, Guided-Meditation - Culadasa
+# kLLUeGyKLFw 39:20 Joy & Meditation, Part 12 - Culadasa
+# 7pXwbEuqlds 49:00 Joy & Meditation, Part 13, Closing Meditation - Culadasa
+# sJ02xiHY1KI 1:14:25 What Is Enlightenment, Part 1 - Culadasa
+# hM2qhko-5V0 53:10 What Is Enlightenment, Part 2 - Culadasa
+# gTTbURalWwY 1:27:35 What Is Enlightenment, Part 4 - Culadasa
+# 6udxIzA9B8I 50:05 What Is Enlightenment, Part 3 - Culadasa
+# GoiFe39LKiE 1:19:25 What Is Enlightenment, Part 5 - Culadasa
+# aOKWj4Kk2rg 1:14:05 What Is Enlightenment, Part 6 - Culadasa
+# BwmcPn-7oMI 1:41:10 What Is Enlightenment, Part 7 - Culadasa
+# JwpiFIrG4bk 1:27:35 When the Buddhadharma Came to the West, Part 1 - Culadasa
+# ARdWVSNy7U8 1:23:45 When the Buddhadharma Came to the West, Part 3 - Culadasa
+# gGKT2sxn2Vs 1:17:10 When the Buddhadharma Came to the West, Part 2 - Culadasa
+# hoik390Dg9k 1:13:40 When the Buddhadharma Came to the West, Part 4 - Culadasa
+# R3nftLD2eMA 52:55 When the Buddhadharma Came to the West, Part 5 - Culadasa
+# 8sEeiWdGW-o 1:38:00 When the Buddhadharma Came to the West, Part 6 - Culadasa
+# sMPeNHk6Srs 1:16:10 When the Buddhadharma Came to the West, Part 8 - Culadasa
+# S9xqIz51SbM 29:10 When the Buddhadharma Came to the West, Part 7 - Culadasa
+# TJcy0n9NnKI 1:29:25 The Jhanas, Part 5 - Culadasa
+# qstlQPwmHq8 4:25 How Do We Project Reality - Culadasa
+# oufkssKC5qA 4:15 How Do I Meditate - Culadasa
+# WLx5Fvh91eE 30:45 The Jhanas, Part 6, Meditation - Culadasa
+# YplfDrwaZNA 59:00 The Jhanas, Part 4 - Culadasa
+# HeZuKlcaRTs 1:23:40 The Jhanas, Part 3, Meditation and Discussion - Culadasa
+# 3z3Mt0Bw4GE 1:20:00 The Jhanas, Part 2 - Culadasa
+# M8vpuW34HcI 1:36:35 The Jhanas, Part 1 - Culadasa
+# YZSsmNBUWEw 1:14:15 Meditation for Peace, Part 1 - Culadasa
+# xY7BdB32DEk 1:06:35 Meditation for Peace, Part 8 - Culadasa
+# YiO0UpLWbcA 48:00 Meditation for Peace, Part 7 - Culadasa
+# wc-EslQfkDU 1:05:50 Meditation for Peace, Part 5 - Culadasa
+# DQG0WzQTZfI 1:21:15 Meditation for Peace, Part 4 - Culadasa
+# AT9ZRu_4XMY 19:55 Meditation for Peace, Part 6 - Culadasa
+# qsgmBFeb5Cw 1:01:35 Meditation for Peace, Part 3 - Culadasa
+# rBerwigAmAQ 1:04:00 Meditation for Peace, Part 2 - Culadasa
+# tbF2gwJLEWQ 1:06:35 Meditation for Peace, Part 8 - Culadasa
+# WB76phVVvsA 1:21:15 Meditation for Peace, Part 4 - Culadasa
+# ApfkpAp3aC0 1:14:15 Meditation for Peace, Part 1 - Culadasa
+# An5pQGuPyRk 1:05:50 Meditation for Peace, Part 5 - Culadasa
+# Hwd9DnGRjpg 1:01:35 Meditation for Peace, Part 3 - Culadasa
+# 90JkxrK8QjM 1:04:00 Meditation for Peace, Part 2 - Culadasa
+# hYYjVAJfOPM 48:00 Meditation for Peace, Part 7 - Culadasa
+# ENWUs9QqTCU 19:55 Meditation for Peace, Part 6 - Culadasa
+# 5mlUleMSiTQ 1:38:30 When the Buddhadharma Came to the West, Part 6 - Culadasa
+# lsNaJVfKwZs 1:16:10 When the Buddhadharma Came to the West, Part 8 - Culadasa
+# VAPcuZvr9JA 1:29:15 When the Buddhadharma Came to the West, Part 1 - Culadasa
+# q1NkYOCYlA4 1:14:10 When the Buddhadharma Came to the West, Part 4 - Culadasa
+# KvG4Rw0YuJY 1:24:25 When the Buddhadharma Came to the West, Part 3 - Culadasa
+# ZpBlVT8okLQ 54:25 When the Buddhadharma Came to the West, Part 5 - Culadasa
+# 3UVOXvaG6z8 1:18:20 When the Buddhadharma Came to the West, Part 2 - Culadasa
+# unnYRQF04BE 29:15 When the Buddhadharma Came to the West, Part 7 - Culadasa
+# wpj0hT4_dwk 22:35 What is the Space Between Thoughts? - Culadasa
+# WUYh-0Tkvjk 17:10 The Five Aggregates and “No-Self” - Culadasa
+# mStFqLFqXRA 31:30 Piti (Joy) - Culadasa
+# zPv549Jmia4 18:35 What is Karma? - Culadasa
+# ROwydcA-Mkc 17:40 Will Power and Achievement - Culadasa
+# pgK3cLIO5DM 21:30 Motivation for Morality - Culadasa
+# Wprau239F-E 11:55 Progressing on the Path - Culadasa
+# oOCtnXOL6mk 10:50 Silence of the Mind - Culadasa
+# krRHH83qbiU 20:30 How to Develop Introspective Awareness - Culadasa
+# ud6Ndl6i2rE 2:25 Walking Meditation - Culadasa
+# PSal7mqWPps 3:50 Subtle Distractions and Gross Dullness - Culadasa
+# ourDJ0u2Xbo 7:30 Role for Psychedelics in the Path - Culadasa
+# M7G5Xt5GRb8 4:45 Is the Hologram a Good Model for Ultimate Reality? - Culadasa
+# MflPS9FAV5E 5:25 How Does the Mind Create the World? - Culadasa
+# 2aQgp47Fknc 4:25 How Do We Project Reality? - Culadasa
+# kCkR5wINMBA 4:15 How Do I Meditate? - Culadasa
+# oTBUDL8SfwU 15:55 Can Suchness Be Reduced to Energy? - Culadasa
+# IVUYdz_yzAw 9:20 Concentration vs Blissful States and Dullness - Culadasa
+# Qvb1JL94ikU 5:30 Focus on Sensations vs Absorption at Stage 4 - Culadasa
+# nFMPD65ccTI 9:10 A Model for Understanding Dullness - Culadasa
+# u-FD7WijOxk 1:00:10 TCMC Thursday #20, Part 2 - Culadasa
+# 5yrF0tBrnP4 1:00:15 TCMC Thursday #10 - Culadasa
+# vBrDgkMNh3Q 1:50:05 Bisbee Zen Sangha Lecture - Culadasa
+# pO2ChM2NFgY 1:53:45 Q&A - Culadasa, Stronghold Retreat #1, Part 5
+# cVU1rikYX9Y 45:25 Guided Meditation, TCMC Weekend #1, Part 7 - Culadasa
+# 5_KI-CwG37c 1:04:40 TCMC Thursday #28, Part 2 - Culadasa
+# uw3S_pDNjkQ 1:18:05 UWest Meditation Camp #2, Part 1 - Culadasa
+# 8smu6ilczdI 54:45 Uposatha Day #26 - Culadasa
+# jCLVsQIdY8w 1:08:57 TCMC Thursday #27, Part 2 - Culadasa
+# 0P3Yyat-BaY 46:00 Uposatha Day #27 - Culadasa
+# 1R9xgzbRF5Q 6:20 Tips on Developing Full-minded Awareness with Concentration (Stage 5) - Culadasa
+# W3xULt6Uatc 39:15 TCMC Thursday #28, Part 1 - Culadasa
+# rm9zAOF0mr8 29:25 TCMC Thursday #27, Part 1 - Culadasa
+# id7tS03tufI 57:20 TCMC Weekend #1, Part 9 - Culadasa
+# e7W5JRI1c8g 1:18:50 Uposatha Day #23 - Culadasa
+# -pqILBXTL0A 1:10:15 Uposatha Day #20 - Culadasa
+# lQBtlKV-8A4 13:30 Can a Cessation Be an Object of Consciousness? - Culadasa
+# vaVhcfOqIVE 1:13:15 UWest Meditation Camp #2, Part 8 - Culadasa
+# GC-n9-dWYsg 1:00:30 Uposatha Day #25 - Culadasa
+# M22w9lxOtAo 1:07:10 Uposatha Day #22 - Culadasa
+# dL02xlODGbI 47:10 Uposatha Day #24 - Culadasa
+# eG5VxQUctPQ 1:04:15 TCMC Weekend #1, Part 6 - Culadasa
+# uHWxeRv9M5Y 1:39:15 Guided Metta - UWest Meditation Camp #2, Part 10 - Culadasa
+# eqL6CsQ3lFg 1:00:15 UWest Meditation Camp #2, Part 6 - Culadasa
+# Bv9_koMGnWc 33:30 Uposatha Day #21 - Culadasa
+# pyoewXHdww0 1:03:55 UWest Meditation Camp #2, Part 5 - Culadasa
+# a9NKE-7GrZQ 1:19:20 TCMC Weekend #1, Part 2 - Culadasa
+# wILUJC_sqRY 51:35 TCMC Weekend #1, Part 8 - Culadasa
+# R0f7KOhA7Qc 1:12:00 TCMC Weekend #1, Part 4 - Culadasa
+# lfPThV3AARs 38:35 UWest Meditation Camp #2, Part 4 - Culadasa
+# lTQj8xh-BfM 1:26:30 TCMC Weekend #1, Part 1 - Culadasa
+# KdkOwnxE9rY 1:23:50 TCMC Thursday #21, Part 2 - Culadasa
+# hqnyTNVcSik 1:04:35 TCMC Weekend #1, Part 3 - Culadasa
+# iChmRArdaLo 23:25 UWest Meditation Camp #2, Part 7 - Culadasa
+# 920eFHwVlJs 58:55 TCMC Weekend #1, Part 10 - Culadasa
+# h3JLS4-ZWbE 1:09:30 Dharma Talk - Culadasa, Santa Fe Vipassana Sangha
+# rEgW_al38u4 47:10 TCMC Thursday #26 - Culadasa
+# UC6Xouvoi7k 13:15 UWest Meditation Camp #2, Part 3 - Culadasa
+# RN8SwjbPlWE 1:02:30 TCMC Thursday #24, Part 2 - Culadasa
+# D2yc0g73YBU 1:09:25 TCMC Thursday #23, Part 2 - Culadasa
+# sp9KKBWN5Wk 9:10 The Awakening Process - Culadasa
+# 6Fgux1RwmYQ 1:26:20 Q&A - Culadasa, Stronghold Retreat #1, Part 4
+# wrw7vKh_9BU 19:00 TCMC Weekend #1, Part 5 - Culadasa
+# q-W_rfqczBw 1:07:35 TCMC Thursday #22 - Culadasa
+# b56ubFUSw6w 1:38:35 Dharma Talk - Culadasa, Stronghold Retreat #1, Part 2
+# 1216dY3Pvdk 22:50 TCMC Thursday #25 - Culadasa
+# nRLmVRSEcUM 55:25 Q&A & Dharma Talk - Culadasa, Stronghold Retreat #1, Part 3
+# u6qjNcZ9GCA 42:50 TCMC Thursday #20, Part 1 - Culadasa
+# -dh1sQUjMts 58:30 Dharma Talk - Culadasa, Stronghold Retreat #1, Part 1
+# WP1tvBUKI_Q 28:35 TCMC Thursday #23, Part 1 - Culadasa
+# n2uF0xD7x7E 21:25 TCMC Thursday #24, Part 1 - Culadasa
+# DZg8pCJlzX8 26:40 TCMC Thursday #21, Part 1 - Culadasa
+# pYowT4zFgwc 14:05 Levels After the First Nine Meditation Stages - Culadasa
+# 0CcyCbcTovA 23:10 Guided Meditation, UWest Meditation Camp #2, Part 2 - Culadasa
+# Mu0SkCBR0nM 20:30 How Does Insight Fit into the Meditation Systems - Culadasa
+# rXJZhFgX2tk 11:25 Bypassing Steps to Awakening? - Culadasa
+# T7DJRmgDweE 34:30 Q&A - Culadasa, Retreat in California #4, Part 2
+# luJk8sbK2SI 1:38:01 UWest Meditation Camp #1, Part 4 - Culadasa
+# uxb_0HNI48Q 1:37:15 University of the West Lecture - Culadasa
+# oLY0mG2MdRk 1:08:15 Uposatha Day #18 - Culadasa
+# z3lTL0k4UmA 49:00 Uposatha Day #19 - Culadasa
+# ZDlU3G0eYiE 1:27:55 TCMC Weekend #1, Part 1 - Culadasa
+# oDDk6RJTWxY 58:05 Uposatha Day #17 - Culadasa
+# uWElZuDMpMM 52:50 Uposatha Day #16 - Culadasa
+# oaGu4A4KfVs 15:55 What is Free Will - Culadasa
+# 9y6eFyPZCSQ 1:18:40 TCMC Thursday #17, Part 2 - Culadasa
+# e2KkHo8wGMo 43:20 Uposatha Day #14 - Culadasa
+# NHfqniV75Aw 58:47 UWest Meditation Camp #1, Part 8 - Culadasa
+# 8HnEWG5qDLI 1:15:50 TCMC Thursday #18, Part 2 - Culadasa
+# y2gLtq8JRHM 1:47:15 Dharma Talk - Culadasa, Retreat in California #4, Part 9
+# 7f_BEI7XJhU 16:40 When We’ve Done Wrong - Culadasa
+# CNPdu6jjeNI 1:05:20 TCMC Thursday #19, Part 2 - Culadasa
+# HvfqSSF_QFE 46:55 Uposatha Day #13 - Culadasa
+# eFVkkRZ9WDM 1:20:35 TCMC Thursday #15, Part2 - Culadasa
+# 4JFLsHNdE3s 1:11:55 TCMC Thursday #16, Part 2 - Culadasa
+# oLiFFYFIFp4 1:42:20 Dharma Talk - Culadasa, Retreat in California #4, Part 7
+# iOIQjYjy7n4 6:30 Uposatha Day #15 - Culadasa
+# ENDA8TKB9jI 1:28:25 Dharma Talk - Culadasa, Retreat in California #4, Part 5
+# _j_XSDukuPQ 35:10 TCMC Thursday #18, Part 1 - Culadasa
+# 6iGOYQE-0ZQ 21:30 TCMC Thursday #19, Part 1 - Culadasa
+# LLLKVOWuhRM 28:00 TCMC Thursday #17, Part 1 - Culadasa
+# UMMCB-f3ALM 1:31:10 Dharma Talk - Culadasa, Retreat in California #4, Part 13
+# uRYLMUOPMlM 1:40:50 Dharma Talk - Culadasa, Retreat in California #4, Part 14
+# it4uodKgY5Q 34:10 TCMC Thursday #16, Part 1 - Culadasa
+# dsOl0vFkkTU 24:15 Q&A - Culadasa, Retreat in California #4, Part 4
+# bPHS6mdr0fA 30:05 TCMC Thursday #15, Part 1 - Culadasa
+# c7fH8AR978U 1:22:40 Dharma Talk - Culadasa, Retreat in California #4, Part 3
+# okEjvyYOx88 33:55 Q&A - Culadasa, Retreat in California #4, Part 6
+# L1HXCZV8XL0 1:32:45 Dharma Talk - Culadasa, Retreat in California #4, Part 11
+# tYZOM-C5hZ8 23:40 Q&A - Culadasa, Retreat in California #4, Part 8
+# MD39KrPZQmE 28:50 Q&A - Culadasa, Retreat in California #4, Part 10
+# vJgT3_2lZWQ 9:00 Sleepiness and Dullness - Culadasa
+# qQsfqL9FxqA 1:09:10 Dharma Talk - Culadasa, Retreat in California #3, Part 19
+# 6YcrRxk1PgE 33:00 Guided Beginner Meditation, UWest Meditation Camp #1, Part 10 - Culadasa
+# 7wnt72CF_Gg 24:00 Mind Unification - Culadasa
+# 8sBGx0VwCuo 1:07:10 Dharma Talk - Culadasa, Retreat in California #4, Part 1
+# w3dwsnoJQZM 14:40 Q&A - Culadasa, Retreat in California #4, Part 12
+# IEwgfA68m6c 15:00 Mindfulness Practice - Culadasa
+# SRM4bNmg0-g 15:30 Behind the Veil - Culadasa
+# jWLJhhrTokU 1:25 Lengthening Meditation Times - Culadasa
+# PTUZxS9cjwQ 20:05 Changing Your Destiny - Culadasa
+# UeJYk6Nm0r0 8:50 Benefits of Meditation - Culadasa
+# 4IVxof5UQkg 4:35 Counting as Meditation Tool - Culadasa
+# L5cLz8A9k3A 5:55 Brain vs Mind - Culadasa
+# Xj06Lc7y21I 1:07:05 TCMC Thursday #11, Part 2 - Culadasa
+# XazGRf3OnNc 1:27:25 UWest Meditation Camp #1, Part 6 - Culadasa
+# LENVuV2yeR4 1:34:15 Uposatha Day #11 - Culadasa
+# OPeTSpVFgzI 1:44:25 UWest Meditation Camp #1, Part 11 - Culadasa
+# YpbZSm8nEcs 1:00:20 UWest Meditation Camp #1, Part 5 - Culadasa
+# LVISBodOXac 55:55 Uposatha Day #10 - Culadasa
+# lTCNyukce0k 1:00:45 UWest Meditation Camp #1, Part 7 - Culadasa
+# wZaVkac9oK4 47:50 UWest Meditation Camp #1, Part 9 - Culadasa
+# LqUfbmBn0XQ 1:15:00 UWest Meditation Camp #1, Part 1 - Culadasa
+# maQ7WNnMMVI 1:12:53 UWest Meditation Camp #1, Part 14 - Culadasa
+# w3SZAD7VZ8c 1:03:47 UWest Meditation Camp #1, Part 12 - Culadasa
+# t-RLX9JA21M 16:05 Uposatha Day #8, Mindfulness in Daily Life - Culadasa
+# gD9WB4zI4eo 56:25 UWest Meditation Camp #1, Part 3 - Culadasa
+# P1gZHKsPF_Y 23:55 Uposatha Day #12 - Culadasa
+# 9J70of2c8Xw 29:40 Uposatha Day #7 - Culadasa
+# Vrn-GhJofeU 1:07:50 Q&A - Culadasa, Retreat in California #3, Part 8
+# WZN9NuUeH6Q 1:08:35 TCMC Thursday #12 - Culadasa
+# vd0s3TREqok 1:25:20 TCMC Thursday #13 - Culadasa
+# HHVCSTDsF6s 1:08:10 Dharma Talk - Culadasa, Retreat in California #3, Part 9
+# S3nX3gm9JBA 1:08:00 TCMC Thursday #14, Part 2 - Culadasa
+# 3ENaibWuA0w 56:40 Q&A - Culadasa, Retreat in California #3, Part 2
+# 6aWXvmIjDAE 1:08:50 Q&A - Culadasa, Retreat in California #3, Part 13
+# MZQqa2NvoHg 1:08:10 Q&A - Culadasa, Retreat in California #3, Part 4
+# DJBBZ9pKLcE 1:02:25 Q&A - Culadasa, Retreat in California #3, Part 15
+# w9jAKb2Mqi8 35:10 TCMC Thursday #14, Part 1 - Culadasa
+# Da44vOqxXLw 29:30 TCMC Thursday #11, Part 1 - Culadasa
+# c-KuXPdIZe8 1:00:50 Q&A - Culadasa, Retreat in California #3, Part 17
+# 9jH8MpuXlHc 1:03:00 Q&A - Culadasa, Retreat in California #3, Part 10
+# 0G8q942gfzM 58:40 Q&A - Culadasa, Retreat in California #3, Part 6
+# q-XQicy6HR0 1:05:50 Dharma Talk - Culadasa, Retreat in California #3, Part 14
+# 8GE5M0wrjss 1:38:30 Dharma Talk - Culadasa, Retreat in California #3, Part 16
+# ZYV2X_7YNQc 36:30 Guided Metta - Culadasa, Retreat in California #3, Part 18
+# sacyPpJK7gg 44:00 Opening - Culadasa, Retreat in California #3, Part 1
+# 0Uork0NCSis 1:22:10 DM Retreat #2 - Culadasa
+# _FCO92IIMLE 1:11:30 Dharma Talk - Culadasa, Retreat in California #3, Part 3
+# HiyQfOzsSms 59:35 Dharma Talk - Culadasa, Retreat in California #3, Part 11
+# 3efUiakSwiI 56:05 Dharma Talk - Culadasa, Retreat in California #3, Part 5
+# R0Crl1r_4Fk 1:09:10 Dharma Talk - Culadasa, Retreat in California #3, Part 7
+# 6ghUvwHiq-Y 1:14:15 Beginner Guided Meditation, UWest Meditation Camp #1, Part 2 - Culadasa
+# 8yz0HxXTVFY 28:25 Guided Metta - Culadasa, Retreat in California #3, Part 12
+# 70qMmwmaccQ 1:13:15 DM Retreat - Culadasa
+# xmmPRYagq3s 26:05 Guided Metta Meditation, UWest Meditation Camp #1, Part 13 - Culadasa
+# wU0RjslXxlo 14:00 Analytical Meditations, What and How - Culadasa
+# SdYgWK-mYrg 3:00 First Stage of Meditation Tips - Culadasa
+# oQixjDgWq9g 1:28:13 Cochise Stronghold 10 Day Retreat #1, Part 1 - Culadasa
+# Zl0zl_Yd1-I 1:25:15 Cochise Stronghold 10 Day Retreat #1, Part 3 - Culadasa
+# TnasBvYIsHE 59:00 Closing Dharma Talk - Culadasa, Cochise Stronghold Weekend #1, Part 3
+# EpupNjzIt-M 1:13:15 Cochise Stronghold 10 Day Retreat #1, Part 4 - Culadasa
+# nLQ_1dSc8ZQ 51:00 Cochise Stronghold 10 Day Retreat #1, Part 2 - Culadasa
+# QGlXc2UWBJY 1:10:15 Cochise Stronghold 10 Day Retreat #1, Part 6 - Culadasa
+# yA-q5TQn0NM 7:15 Brightening the Mind to Combat Subtle Dullness - Culadasa
+# dqxHOoBS8e8 1:04:45 Cochise Stronghold 10 Day Retreat #1, Part 7 - Culadasa
+# FqYQWfh1GJw 46:30 Cochise Stronghold 10 Day Retreat #1, Part 5 - Culadasa
+# iPZTuq11gqA 1:57:05 TCMC Thursday #5 - Culadasa
+# yAqvatURbgs 1:26:10 Dharma Talk, Q&A - Culadasa, Cochise Stronghold Weekend #1, Part 2
+# PSg_Pxe89bA 1:43:30 TCMC Thursday #7 - Culadasa
+# WeQ-VzAFDzU 1:29:25 TCMC Thursday #6, Part 3 - Culadasa
+# m13cmG7uhu8 43:20 Guided Metta Meditation, TCMC Thursday #6, Part 2 - Culadasa
+# -8JH-QPG6lA 19:45 Combating Depression and Dissastifaction During Transition - Culadasa
+# 8-dkvQ8T89o 15:05 Loving Kindness Practice - Culadasa
+# Xx-QIXKainU 12:25 Craving, What’s it All About? - Culadasa
+# Idkm7mG3ohI 3:40 Exchanging Self and Others - Culadasa
+# w9i_1vp2OCg 6:20 How do I develop mindful awareness and good concentration - Culadasa
+# GGOS42Ws7_I 1:14:45 TCMC Thursday #9, Part 2 - Culadasa
+# 1kXIzUKS0TM 11:55 The Benefits and Practice of Letting Go - Culadasa
+# -TmI4U9JYFc 4:40 Physical Suffering vs Mental Suffering - Culadasa
+# wRZdcZUz1ks 21:45 TCMC Thursday #6, Part 1 - Culadasa
+# mywGH24zu60 41:35 TCMC Thursday #8, Part 2 - Culadasa
+# -2rXnz9RUuc 31:15 TCMC Thursday #8, Part 1 - Culadasa
+# KRxHUtQ3Vjc 42:40 Uposatha Day #5 - Culadasa
+# ZCiDLdvHDyI 25:55 TCMC Thursday #9, Part 1 - Culadasa
+# HuKdJQUR2TY 15:00 Uposatha Day #3 - Culadasa
+# endc5cDy8zM 10:50 Uposatha Day #4 - Culadasa
+# 293vximFQW4 1:25 Working with Post Traumatic Stress Disorder - Culadasa
+# V5v-nNBgYSM 45:20 Guided Meditation - Culadasa, California Retreat #2, Part 6
+# 25GQobBP1C0 1:42:35 TCMC Thursday #4 - Culadasa
+# F_MDEaOBWI0 1:57:45 TCMC Thursday #1 - Culadasa
+# 8EetwP74CF0 1:25:40 TCMC Thursday #2 - Culadasa
+# 5Rz0LSfeRyQ 1:34:05 TCMC Thursday #3 - Culadasa
+# 1akIBebwVOQ 1:04:50 Introduction - Culadasa, Cochise Stronghold Weekend, Part 1
+# GlaQy-CRY_Q 35:15 Uposatha Day #2 - Culadasa
+# 8o-qawkwkeE 1:23:00 Dharma Talk - Culadasa, California Retreat #2, Part 4
+# vxkieoMDKsk 1:01:20 Q&A – Culadasa, Retreat in California #2, Part 8
+# m8rijuciZWg 1:25:05 Dharma Talk – Culadasa, Retreat in California #2, Part 11
+# 12gfXprvTWo 59:20 Q&A – Culadasa, Retreat in California #2, Part 5
+# y9h7KzDwMMU 1:27:10 Dharma Talk – Culadasa, Retreat in California #2, Part 9
+# cSjkj8p1bzw 1:04:25 Q&A – Culadasa, Retreat in California #2, Part 10
+# YbZyAR4bKRw 1:02:10 Dharma Talk – Culadasa, Retreat in California #2, Part 7
+# U6nPD02iPf8 37:15 Closing – Culadasa, Retreat in California #2, Part 12
+# -mbGcDSEEcI 2:13:40 Dharma Talk - Culadasa, California Retreat #1, Part 15
+# FMDdB2RpckY 1:50:35 Dharma Talk - Culadasa, California Retreat #1, Part 17
+# VVXIYCC5Tg8 1:59:40 Dharma Talk - Culadasa, California Retreat #1, Part 13
+# CKSVmsDZjAg 1:53:35 Dharm Talk - Culadasa, California Retreat #1, Part 11
+# qNVfPuGbJcc 1:25:10 Dharma Talk – Culadasa, Retreat in California #2, Part 2
+# K6bhtKYvUc4 1:22:55 Q&A – Culadasa, Retreat in California #2, Part 1
+# k8zFTjBnNl8 1:13:55 Retreat Closing - Culadasa, California Retreat #1, Part 18
+# J_dFNqelBfI 1:04:10 Q&A – Culadasa, Retreat in California #2, Part 3
+# W4rdBy2rS0E 1:12:10 Q&A - Culadasa, California Retreat #1, Part 16
+# 9izV_lZ2gF4 1:01:20 Q&A - Culadasa, California Retreat #1, Part 12
+# -eWefpzBzqQ 59:45 Q&A - Culadasa, California Retreat #1, Part 14
+# -9bu9P6OjIo 2:01:45 Dharma Talk - Culadasa, California Retreat #1, Part 9
+# wQkmlFKLONM 2:22:10 Evening Opening - Culadasa, California Retreat #1, Part 1
+# ZIVpqZ12n5s 1:15:55 Dharma Talk - Culadasa, California Retreat #1, Part 7
+# wE7ONOW73zE 1:01:00 Q&A - Culadasa, California Retreat #1, Part 10
+# b8zAJ3JCc_k 1:14:35 Dharma Talk - Culadasa, California Retreat #1, Part 5
+# eptT3fEFeWM 1:01:55 Q&A - Culadasa, California Retreat #1, Part 8
+# CpVvyfvHs4I 1:01:55 Q&A - Culadasa, California Retreat #1, Part 6
+# JexBXhxlXnU 1:04:25 Q&A - Culadasa, California Retreat #1, Part 4
+# Ep2XB4eZVDQ 1:08:35 Dharma Talk - Culadasa, California Retreat #1, Part 3
+# ev2a4H1ZO88 59:50 Q&A - Culadasa, California Retreat #1, Part 2
+# iS_hjBoApQY 1:12:15 Uposatha Day #1 - Culadasa
 
 # Culadasa
 
