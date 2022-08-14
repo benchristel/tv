@@ -17,9 +17,11 @@ export function App(): React.Node {
   return (
     <div className="App">
       <div className="bezel">
-        <YouTubePlayer id="player-container">
-          {(player) => <Controller player={player} model={model} />}
-        </YouTubePlayer>
+        <div className="screen">
+          <YouTubePlayer id="player-container">
+            {(player) => <Controller player={player} model={model} />}
+          </YouTubePlayer>
+        </div>
       </div>
     </div>
   )

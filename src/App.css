@@ -30,12 +30,22 @@
 }
 
 .bezel {
-  --bezel-width: 24px;
+  --bezel-width: 48px;
   position: relative;
+  border-radius: 8px;
   padding: var(--bezel-width);
-  background: #383030;
+  background: linear-gradient(to bottom, #544, #383030),
+    url("brushed-metal.jpg");
+  background-size: 100% 100%, 100% 100%;
+  background-blend-mode: multiply;
   box-shadow: 0 0 24px 4px #000, inset -1px -1px #484444, inset 1px 1px #585454,
     inset -2px -2px #000c, inset 2px 2px #fff1;
+}
+
+.screen {
+  padding: 4px;
+  background: #000;
+  box-shadow: -1px -1px #fff1, 1px 1px #fff2;
 }
 
 .black-screen {
