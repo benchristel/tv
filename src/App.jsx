@@ -12,6 +12,7 @@ import { cyrb128_32 } from "./lib/hash"
 import { mulberry32 } from "./lib/random"
 import { pick } from "./lib/arrays"
 import { useModel } from "./lib/useModel"
+import { cache } from "./lib/cache"
 
 export function App(): React.Node {
   return (
@@ -32,7 +33,20 @@ const episodes = videos.map((v) => ({ videos: [v] }))
 const model = createModel()
 
 function createModel() {
-  let scheduleCache = {}
+  const getSchedule = cache(1, (seed) => {
+    const rng = mulberry32(cyrb128_32(seed))
+    let totalDuration = 0
+    let schedule = []
+    while (totalDuration < 24 * 3600) {
+      const episode = pick(episodes, rng())
+      totalDuration += episode.videos
+        .map((v) => v.durationSeconds)
+        .reduce(add, 0)
+      schedule.push(...episode.videos)
+    }
+    return schedule
+  })
+
   return {
     getTargets,
   }
@@ -55,31 +69,6 @@ function createModel() {
     }
     // default to static
     return { targetTime: 10, targetVideoId: "ubFq-wV3Eic" }
-  }
-
-  function getSchedule(seed) {
-    if (!scheduleCache[seed]) {
-      // clear the cache; we should only ever need to cache
-      // one day's schedule at a time.
-      scheduleCache = {}
-      console.debug("scheduleCache miss; regenerating")
-      scheduleCache[seed] = generateSchedule(seed)
-    }
-    return scheduleCache[seed]
-  }
-
-  function generateSchedule(seed) {
-    const rng = mulberry32(cyrb128_32(seed))
-    let totalDuration = 0
-    let schedule = []
-    while (totalDuration < 24 * 3600) {
-      const episode = pick(episodes, rng())
-      totalDuration += episode.videos
-        .map((v) => v.durationSeconds)
-        .reduce(add, 0)
-      schedule.push(...episode.videos)
-    }
-    return schedule
   }
 }
 
