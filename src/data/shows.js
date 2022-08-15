@@ -4183,4 +4183,190 @@ v0OQNvT-lAI 6:08 Gaelic Documentary: Peatcutting
 UXM4jfriBhU 5:29 English Documentary: Surfing
 u1IJN-TiEQY 5:29 Gaelic Documentary: Surfing
 
+# Ben Eater
+
+g_koa00MBLg 31:17 How do hardware timers work?
+-wMU8vmfaYo 30:36 Why was Facebook down for five hours?
+MCi7dCBhVpQ 33:00 SPI: The serial peripheral interface
+2lPzTU-3ONI 37:20 How does n-key rollover work?
+N0O5Uwc3C0o 36:15 How does USB device discovery work?
+wdgULBpRoXk 34:15 How does a USB keyboard work?
+dL0GO9SeBh0 20:04 Keyboard interface software
+w1SB9Ry8_Jg 28:27 Keyboard interface hardware
+7aXbh9VUB3U 33:07 So how does a PS/2 keyboard interface work?
+PE-_rJqvDhQ 20:16 Breadboarding tips
+BUTHtNrpwiI 44:25 World's worst video card gets better?
+2iURr3NBprc 25:12 Installing the world’s worst video card
+oOYA-jsWTmc 25:38 Interrupt handling
+h0jloehRKas 36:46 What is error correction? Hamming codes in hardware
+DlEa8kd7n3Q 27:36 Hardware interrupts
+v3-a-zqKfgA 42:26 Binary to decimal can’t be that hard, right?
+ZYJIakkcLYw 31:39 How assembly language loops work
+fCbAafKLqC8 28:43 Why build an entire computer on breadboards?
+omI0MrTWiMU 17:42 Subroutine calls, now with RAM — 6502 part 7
+i_wrxBdXTgM 38:14 RAM and bus timing — 6502 part 6
+xBjQVxVxOxc 24:25 What is a stack and how does it work? — 6502 part 5
+FY3zTUaykVo 28:10 Connecting an LCD to our computer — 6502 part 4
+oO8_2JJV0B4 15:35 Assembly language vs. machine code — 6502 part 3
+yl8vPW5hydQ 49:42 How do CPUs read machine code? — 6502 part 2
+LnzuMJLZRdU 27:25 “Hello, world” from scratch on a 6502 — Part 1
+uqY3FMuMuRo 24:23 World's worst video card? The exciting conclusion
+l7rce6IQDWs 32:47 The world's worst video card?
+sNkERQlK8j8 53:13 Hardware build: CRC calculation
+izG7qT0EpBw 47:30 How do CRCs work?
+ppU41c15Xho 28:21 Checksums and Hamming distance
+MgkhrBSjhag 21:42 Error detection: Parity checking
+eq5YpKHXJDM 43:54 Reliable data transmission
+Zg1NdPKoosU 43:10 Conditional jump instructions
+ObnosznZvHY 29:27 CPU flags register
+AqNDk_UJW4k 18:20 Making a computer Turing complete
+hKD-lBrZ_Gg 46:59 The case against Net Neutrality?
+Nws5-kp8Blk 6:23 Update and PODCAST ANNOUNCEMENT!
+FCscQGBIL-Y 18:50 Adding more machine language instructions to the CPU
+JUVt_KYAp-I 31:14 Reprogramming CPU microcode with an Arduino
+HtFro0UKqkk 17:59 8-bit CPU reset circuit and power supply tips
+dHWFpkGsxOs 43:52 8-bit CPU control logic: Part 3
+X7rCxs1ppyY 18:22 8-bit CPU control logic: Part 2
+dXdoim96v5A 27:52 8-bit CPU control logic: Part 1
+AwUirxi9eBg 13:17 8-bit CPU control signal overview
+-6JAgFWCL9w 19:11 8-bit computer build: Connecting the bus
+dLh1n2dErzE 32:47 Build an 8-bit decimal display for our 8-bit computer
+K88pgWhEb1M 57:30 Build an Arduino EEPROM programmer
+BA12Z7gQ4P0 25:22 Using an EEPROM to replace combinational logic
+7zffjsXqATg 15:33 Designing a 7-segment hex decoder
+tNwU7pK_3tk 7:47 Program counter build
+g_1HyxBzjl0 9:18 Program counter design
+exGEmA67dNc 5:13 Binary counter
+rXHSB5w7CyE 12:42 Master-slave JK flip-flop
+st3mUEub99E 12:28 JK flip-flop racing
+F1OC5e7Tn_o 10:03 JK flip-flop
+Vw3uDOUJRGw 16:43 RAM module testing and troubleshooting
+5rl1tEFXKt0 14:13 RAM module build - part 3
+KNve2LCcSRc 21:02 RAM module build - part 2
+uYXwCBo40iA 13:45 RAM module build - part 1
+FnxPIZR1ybs 13:45 8-bit computer RAM intro
+4nCMDvnR2Fg 5:42 Testing the computer's ALU
+U7Q8-2YZTUU 15:10 Troubleshooting the ALU
+S-3fXU3FZQc 16:17 Building the ALU
+mOVOS9AjgFs 15:10 ALU Design
+4qH4unVtJkE 13:49 Twos complement: Negative numbers in binary
+9WE3Obdjtv0 10:53 Testing our computer's registers - 8-bit register - Part 5
+CiMaWbz_6E8 9:40 Building an 8-bit register - 8-bit register - Part 4
+-arYx_oVIj8 20:07 Designing and building a 1-bit register - 8 bit register - Part 3
+faAjse109Q8 9:03 Tri-state logic: Connecting multiple outputs together - 8 bit register - Part 2
+QzWW-CBugZo 9:36 Bus architecture and how register transfers work - 8 bit register - Part 1
+SmQ5K7UQPMM 10:42 Clock logic - 8-bit computer clock - part 4
+WCwJNnx36Rk 10:31 Bistable 555 - 8-bit computer clock - part 3
+81BgFhm2vz8 12:50 Monostable 555 timer - 8-bit computer clock - part 2
+kRlSFm519Bo 27:51 Astable 555 timer - 8-bit computer clock - part 1
+HyznrdDSSGM 6:53 8-bit computer update
+YW-_GkUguMM 16:01 D flip-flop
+peCh_859q7Q 9:16 D latch
+KM0DdEaY5sY 12:59 SR latch
+sTu3LwpF6XI 13:02 Making logic gates from transistors
+DXvAlwMAxiA 11:23 How a transistor works
+33vbFFFn04k 15:51 How semiconductors work
+wvJc9CZcvBc 13:39 Learn how computers add numbers and build a 4 bit adder circuit
+Lv9Gc3Lghjk 9:11 Comparing the buffer and inverter circuits | Digital electronics (10 of 10)
+hYN8C769k8A 9:21 Inverting the signal with a transistor | Digital electronics (9 of 10)
+ks_VShSgPns 8:43 Using a transistor to solve our problem | Digital electronics (8 of 10)
+WD14ow-1q6k 4:30 The transistor as a current controlled switch | Digital electronics (7 of 10)
+BpJAh0KfgEI 5:43 Troubleshooting: Investigating why the LED is so dim (5 of 10)
+uo2KgRN04XI 9:36 How a transistor amplifies current | Digital electronics (6 of 10)
+KEOsmWRoT00 8:02 Connecting to a mystery signal | Digital electronics (4 of 10)
+LakgUi2Ajkw 13:22 Powering our LED circuit | Digital electronics (3 of 10)
+CdqvY_vY1XA 12:04 Limiting current through an LED | Digital electronics (2 of 10)
+poWJTSV4Yio 10:14 Experimenting with LEDs | Digital electronics (1 of 10)
+a73ZXDJtU48 7:26 Programming Fibonacci on a breadboard computer
+yOyaJXpAYZQ 10:02 Comparing C to machine language
+35zLnS3fXeA 11:17 Stepping through a program on the 8-bit breadboard computer
+9PPrrSyubG0 15:23 Programming my 8-bit breadboard computer
+aamG4-tH_m8 10:07 ARP: Mapping between IP and Ethernet | Networking tutorial (9 of 13)
+F27PLin3TV0 9:31 TCP connection walkthrough | Networking tutorial (13 of 13)
+MGAaTqFct_I 2:11 Lower layers of the OSI model | Networking tutorial (7 of 13)
+8BhjXqw9MqI 11:47 Clock synchronization and Manchester coding | Networking tutorial (3 of 13)
+xNbdeyEI-nE 8:50 Looking at ARP and ping packets | Networking tutorial (10 of 13)
+VWJ8GmYnjTs 13:50 Hop-by-hop routing | Networking tutorial (11 of 13)
+1XrRT0CmzYw 9:05 Frame formats | Networking tutorial (6 of 13)
+i8CmibhvZ0c 9:16 Analyzing actual Ethernet encoding | Networking tutorial (4 of 13)
+lUo45NqPyq8 4:27 Intro to fiber optics and RF encoding | Networking tutorial (2 of 13)
+4IMc3CaMhyY 8:29 TCP: Transmission control protocol | Networking tutorial (12 of 13)
+XaGXPObx2Gs 4:14 Sending digital information over a wire | Networking tutorial (1 of 13)
+xrVN9jKjIKQ 8:50 The importance of framing | Networking tutorial (5 of 13)
+rPoalUa4m8E 9:33 The Internet Protocol | Networking tutorial (8 of 13)
+0gurk_vqGLI 3:38 KA 60 Minutes Sep 2013 rerun (10x speed)
+
+# Sustasis
+
+Rx8TGi2aXSc 58:07 The Nature of Matter in the Work of Christopher Alexander - Michael Mehaffy
+QzVhCOJVLXE 1:00:46 Nikos Salingaros - Revolution in Architectural Thought
+VumQdtXrNLM 4:35 Excerpt from The Alexander- Eisenman Debate of 1982
+G7gI-nbUtMg 1:03 Future of Places - Key Messages Summary
+wJCw7vSqFDY 42:29 Michael Mehaffy: The Empires New Clothes
+oKO3vYjZbcs 1:22:28 Christopher Alexander - Life in Buildings (Full)
+_RSc1IWFBzQ 23:00 (In)Forming Patterns: An Online Symposium
+PqX6odZkumc 1:22:52 The Empire's New Clothes - Michael Mehaffy, May 12, 2021
+Y4yeqD30vgQ 19:55 Unified Architectural Theory, Lecture 11: “Architecture Itself as a Biological System”.
+inZ2AV2cwjQ 16:57 Unified Architectural Theory, Lecture 12: “Conclusion”.
+cG22CDSFJo4 3:56 Why Pubic Space Matters - Michael Mehaffy
+6NXrOzR1xDc 6:05 A tour of the Vineyard Farmers Market, Fresno
+VsZIJpp6-no 17:11 Unified Architectural Theory, Lecture 10: “Ornament and human intelligence”.
+8gDs89ZRIsc 19:21 Unified Architectural Theory, Lecture 8: “Fractals and ornament generate attachment”
+Bx3XP1wtUZE 19:39 Unified Architectural Theory, Lecture 5: “Connecting to the World Using the Mirror-of-the-Self Test”
+xQv_1qiDAXY 17:05 Unified Architectural Theory, Lect. 9: “Subliminal reality: Eye-tracking maps the field of centers”
+aLX9bqred14 17:12 Unified Architectural Theory, Lecture 7: “Fifteen geometrical properties”
+FT9F13QHj7I 18:16 Nikos Salingaros: The Existence of an “I” (Lecture)
+tg_TmOQLb10 18:35 Unified Architectural Theory, Lecture 6: “Biophilic design influences human health”
+dVGc0eduJac 1:05:06 Nikos Salingaros: “Codes That Generate Life” (Lecture)
+EAzSIdckjUY 1:08:04 Nikos Salingaros: “Architectural Education Influenced by Social Engineering” (Lecture)
+p4snkjKvLFQ 1:07:24 Nikos Salingaros: “Seashells, Hyperspace, and the Sacred” (Lecture)
+ok4vgxQ8H9k 1:06:05 Nikos Salingaros: “A Fractal Distribution is Sustainable” (Lecture)
+Ii3TIHZN6ag 1:10:06 Nikos Salingaros: “Folded or Perforated Fractals” (Lecture)
+ekjzOvTE1NQ 52:19 Nikos Salingaros: “Complexity and the Fibonacci Sequence” (Lecture)
+A7-bAg0SJHY 59:59 Nikos Salingaros: “Centers and Computational Reducibility” (Lecture)
+qbpIqHaKzRA 16:19 Unified Architectural Theory, Lecture 4: Computing the regional adaptivity index of a form language
+Syu8xwDs-AM 1:01:54 Nikos Salingaros: “Symmetries and Symmetry Breaking” (Lecture)
+1KOdxv4oxAY 1:11:08 Nikos Salingaros: Step by step adaptive design (Lecture)
+YWDZcaF_3ek 16:38 Unified Architectural Theory, Lecture 3: Complex versus simplistic form languages
+gGTjJZhnl4A 1:07:44 Nikos Salingaros: "Christopher Alexander's Fifteen Fundamental Properties" (Lecture)
+nIGnm-UiNYw 20:00 Unified Architectural Theory, Lecture 2: Form Languages and Pattern Languages
+vcN5fi3zuxA 14:51 Unified Architectural Theory, Lecture 1: The Structure of Architectural Theories
+82mH5gS_puc 51:50 Lessons After COVID-19: Addressing Social Isolation through the Built Environment
+GEXRQdXXf9I 3:01 Michael Mehaffy Presentation for World Cities Day
+3G5noYSiCu0 15:01 Gamla Stan Walking Tour with INTBAU Sweden
+J8Dxm-OaE3E 40:01 Pattern Languages of Programming (PLoP) 2020 Presentation - Mehaffy
+MB3eFZQtwGY 19:38 New Patterns for a Post-COVID Age
+dm0MIeaZIzw 4:56 Tour of Poundbury, UK
+bDbnNF20eKY 20:32 Christopher Alexander: Life in Buildings (Excerpt)
+XswHZZqO0jk 7:46 Thought Leaders - Jane Jacobs (for FOP Summit - ROUGH EDIT)
+o6q1dDAv6zY 4:55 Thought Leaders Christopher Alexander
+D3v_F1hrBtE 5:01 Mehaffy - The Urban Dimensions of Climate Change
+xaYQK8kTwHg 16:39 Overview of Metro (Oregon) 2009 "Centers and Corridors" Policy Report
+nyAtltoaE0s 13:03 Mehaffy - Pattern Languages and Wikis for a New Urban Agenda - 13min Version
+muuzfQQLFlc 5:01 Mehaffy - Tools and Strategies for Public Private Collaboration
+VCqy00Ahib8 7:37 Mehaffy - Healthy Public Space Networks for a New Urban Agenda
+sbXIk5DtVTg 7:01 Mehaffy - Pattern Languages and Wikis for a New Urban Agenda - EDITED VERSION
+EzS60DaltAU 16:49 A Conversation with Ward Cunningham - Edited Version
+lLy0N0tOVVI 46:24 Discussion with Ward Cunningham Feb 11 19
+FkFh4IW1N_s 33:01 Sustasis Interview with Ward Cunningham Apr 5 18
+qXBKZPaVHi8 4:31 Dr. Joan Clos at launch event for The Quito Papers, World Urban Forum 9
+g9KivwhuCXo 4:20 Ax:son Johnson Address at Habitat III
+Zv2l3_59D4M 4:04 Remarks of Michael Mehaffy at PrepCom 3
+ArAIvl0hk3M 3:02 Sustasis Executive Director Mehaffy's Testimony to the City Council of Portland, Feb 4 2015
+DHBzg0Rd7Yk 2:41 Sustasis Executive Director Mehaffy's Testimony to the City Council of Portland, April 20, 2016
+vvKTPbjGm8A 1:13 ACINAT
+u33YjyQeb_o 24:15 Nikos Salingaros Addresses ICUPD 2015
+RiGlhj-wyYo 32:58 Nikos A. Salingaros on Pattern Language and Form Language
+ZvN5kN5TCdY 8:59 The Selling of Sprawl
+oEkiNgNnIgI 21:08 Nikos A. Salingaros on Urban Design Education
+3UNfYRyGHIQ 18:37 5 Crucial Decades - Michael Mehaffy Presentation and Discussion
+mRuEmDr0fuI 7:55 Joanna Alimanestianu speaking at the Future of Places Forum
+06nYkNi33vA 7:42 Taller Buildings in Portland
+SRwJQXTluLc 7:42 The Impacts of Taller Buildings in Portland
+nGjXgHwFYqc 58:44 Vincent Scully Prize for Christopher Alexander - Mehaffy Presentation and Discussion
+P5Bu9LjfcZE 2:10 Michael Mehaffy shares lessons at Orenco Station
+ts_ArwNEHRk 6:00 Michael Mehaffy at Future of Places II
+o2V_0BvFJuc 2:30 2014 Year-end Message from the Sustasis Executive Director
+d6pX0S34CZk 10:08 Webinar, "Federated Wiki: Potential for a new generation of open-source scenario-modeling tools:
+
 `)
