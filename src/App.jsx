@@ -12,6 +12,7 @@ import { cyrb128_32 } from "./lib/hash"
 import { mulberry32 } from "./lib/random"
 import { pick } from "./lib/arrays"
 import { useModel } from "./lib/useModel"
+import { useInterval } from "./lib/useInterval"
 import { cache } from "./lib/cache"
 
 export function App(): React.Node {
@@ -146,16 +147,6 @@ function Controller(props: {| player: Player, model: Model |}): React.Node {
   ) : player.getPlayerState() !== PlayerState.PLAYING ? (
     <div className="black-screen" />
   ) : null
-}
-
-function useInterval(cb, ms) {
-  const intervalRef = useRef()
-  const callbackRef = useRef()
-  callbackRef.current = cb
-  useEffect(() => {
-    intervalRef.current = setInterval(() => callbackRef.current?.(), ms)
-    return () => clearInterval(intervalRef.current)
-  }, [ms])
 }
 
 function videoIdFromUrl(url) {
