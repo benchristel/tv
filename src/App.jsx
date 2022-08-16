@@ -10,30 +10,31 @@ import { Reconciler } from "./Reconciler.jsx"
 import type { Broadcast } from "./Broadcast"
 import { createChannel } from "./Channel"
 import type { Channel } from "./Channel"
+import { ChannelController } from "./ChannelController.jsx"
 
 export function App(): React.Node {
   return (
     <div className="App">
       <div className="bezel">
         <div className="screen">
-          <Broadcaster channel={channel}>
-            {(broadcast) => (
-              <YouTubePlayer id="player-container">
-                {(player) => (
-                  <Reconciler broadcast={broadcast} player={player} />
+          <ChannelController>
+            {(channel) => (
+              <Broadcaster channel={channel}>
+                {(broadcast) => (
+                  <YouTubePlayer id="player-container">
+                    {(player) => (
+                      <Reconciler broadcast={broadcast} player={player} />
+                    )}
+                  </YouTubePlayer>
                 )}
-              </YouTubePlayer>
+              </Broadcaster>
             )}
-          </Broadcaster>
+          </ChannelController>
         </div>
       </div>
     </div>
   )
 }
-
-// PROTOTYPE: for now, each episode just has one video in it.
-const episodes = videos.map((v) => ({ videos: [v] }))
-const channel = createChannel(episodes)
 
 type Props = {|
   channel: Channel,

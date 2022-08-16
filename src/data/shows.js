@@ -2,6 +2,11 @@
 import type { Video } from "./types"
 import { parseVideos } from "./ingestion"
 
+export const debuggingVideos: Array<Video> = parseVideos(`
+    vKXu0CzRcrI 0:16 Here's Tree
+    ieWm9T_GgSA 0:08 I'm Lost
+`)
+
 export const videos: Array<Video> = parseVideos(`
 
 # LOTR extras
