@@ -16,9 +16,15 @@ export function App(): React.Node {
     <div className="App">
       <div className="bezel">
         <div className="screen">
-          <YouTubePlayer id="player-container">
-            {(player) => <Controller player={player} channel={channel} />}
-          </YouTubePlayer>
+          <Controller channel={channel}>
+            {(broadcast) => (
+              <YouTubePlayer id="player-container">
+                {(player) => (
+                  <Reconciler broadcast={broadcast} player={player} />
+                )}
+              </YouTubePlayer>
+            )}
+          </Controller>
         </div>
       </div>
     </div>
@@ -29,11 +35,18 @@ export function App(): React.Node {
 const episodes = videos.map((v) => ({ videos: [v] }))
 const channel = createChannel(episodes)
 
-function Controller(props: {| player: Player, channel: Channel |}): React.Node {
+type Props = {|
+  channel: Channel,
+  children: (Broadcast) => React.Node,
+|}
+
+function Controller(props: Props): React.Node {
+  const { channel, children } = props
+
   const [now, setNow] = useState(+new Date())
-  useInterval(() => setNow(+new Date()), 1000)
   const [userRequestedPlayback, setUserRequestedPlayback] = useState(false)
-  const { channel } = props
+
+  useInterval(() => setNow(+new Date()), 1000)
 
   return (
     <>
@@ -42,14 +55,9 @@ function Controller(props: {| player: Player, channel: Channel |}): React.Node {
           Play
         </button>
       )}
-      <Reconciler
-        player={props.player}
-        broadcast={
-          userRequestedPlayback
-            ? channel.getBroadcast(now)
-            : { type: "nothing" }
-        }
-      />
+      {children(
+        userRequestedPlayback ? channel.getBroadcast(now) : { type: "nothing" }
+      )}
     </>
   )
 }
