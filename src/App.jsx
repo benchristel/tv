@@ -67,8 +67,7 @@ function createModel() {
         }
       }
     }
-    // default to static
-    return { targetTime: 10, targetVideoId: "ubFq-wV3Eic" }
+    return { targetTime: 0, targetVideoId: "" }
   }
 }
 
@@ -141,14 +140,7 @@ function Controller(props: {| player: Player, model: Model |}): React.Node {
   }
 
   return !userRequestedPlayback ? (
-    <button
-      id="start"
-      onClick={() => {
-        player.cueVideoById("ubFq-wV3Eic", 10) // static
-        player.playVideo()
-        setUserRequestedPlayback(true)
-      }}
-    >
+    <button id="start" onClick={() => setUserRequestedPlayback(true)}>
       Play
     </button>
   ) : player.getPlayerState() !== PlayerState.PLAYING ? (
