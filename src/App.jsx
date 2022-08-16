@@ -16,7 +16,7 @@ export function App(): React.Node {
     <div className="App">
       <div className="bezel">
         <div className="screen">
-          <Controller channel={channel}>
+          <Broadcaster channel={channel}>
             {(broadcast) => (
               <YouTubePlayer id="player-container">
                 {(player) => (
@@ -24,7 +24,7 @@ export function App(): React.Node {
                 )}
               </YouTubePlayer>
             )}
-          </Controller>
+          </Broadcaster>
         </div>
       </div>
     </div>
@@ -40,7 +40,7 @@ type Props = {|
   children: (Broadcast) => React.Node,
 |}
 
-function Controller(props: Props): React.Node {
+function Broadcaster(props: Props): React.Node {
   const { channel, children } = props
 
   const [now, setNow] = useState(+new Date())
