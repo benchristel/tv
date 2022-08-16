@@ -14,6 +14,7 @@ import { pick } from "./lib/arrays"
 import { useInterval } from "./lib/useInterval"
 import { cache } from "./lib/cache"
 import { Reconciler } from "./Reconciler.jsx"
+import type { Broadcast } from "./Broadcast"
 
 export function App(): React.Node {
   return (
@@ -49,10 +50,10 @@ function createModel() {
   })
 
   return {
-    getTargets,
+    getBroadcast,
   }
 
-  function getTargets(time) {
+  function getBroadcast(time) {
     const seconds = Math.floor(time / 1000)
     const secondsOfDay = (seconds - 8 * 3600) % (24 * 3600)
     const dayBoundary = seconds - secondsOfDay
@@ -63,17 +64,18 @@ function createModel() {
       totalDuration += video.durationSeconds
       if (totalDuration >= secondsOfDay) {
         return {
-          targetVideoId: video.videoId,
-          targetTime: video.durationSeconds - (totalDuration - secondsOfDay),
+          type: "video",
+          videoId: video.videoId,
+          currentTime: video.durationSeconds - (totalDuration - secondsOfDay),
         }
       }
     }
-    return { targetTime: 0, targetVideoId: "" }
+    return { type: "video", currentTime: 0, videoId: "" }
   }
 }
 
 interface Model {
-  getTargets(time: number): {| targetVideoId: string, targetTime: number |};
+  getBroadcast(time: number): Broadcast;
 }
 
 function Controller(props: {| player: Player, model: Model |}): React.Node {
@@ -81,8 +83,6 @@ function Controller(props: {| player: Player, model: Model |}): React.Node {
   useInterval(() => setNow(+new Date()), 1000)
   const [userRequestedPlayback, setUserRequestedPlayback] = useState(false)
   const { model } = props
-
-  const { targetVideoId, targetTime } = model.getTargets(now)
 
   return (
     <>
@@ -94,9 +94,7 @@ function Controller(props: {| player: Player, model: Model |}): React.Node {
       <Reconciler
         player={props.player}
         broadcast={
-          userRequestedPlayback
-            ? { type: "video", videoId: targetVideoId, currentTime: targetTime }
-            : { type: "nothing" }
+          userRequestedPlayback ? model.getBroadcast(now) : { type: "nothing" }
         }
       />
     </>
