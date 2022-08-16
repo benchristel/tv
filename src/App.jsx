@@ -22,7 +22,7 @@ export function App(): React.Node {
       <div className="bezel">
         <div className="screen">
           <YouTubePlayer id="player-container">
-            {(player) => <Controller player={player} model={model} />}
+            {(player) => <Controller player={player} channel={channel} />}
           </YouTubePlayer>
         </div>
       </div>
@@ -32,9 +32,9 @@ export function App(): React.Node {
 
 // PROTOTYPE: for now, each episode just has one video in it.
 const episodes = videos.map((v) => ({ videos: [v] }))
-const model = createModel()
+const channel = createChannel()
 
-function createModel() {
+function createChannel() {
   const getSchedule = cache(1, (seed) => {
     const rng = mulberry32(cyrb128_32(seed))
     let totalDuration = 0
@@ -74,15 +74,15 @@ function createModel() {
   }
 }
 
-interface Model {
+interface Channel {
   getBroadcast(time: number): Broadcast;
 }
 
-function Controller(props: {| player: Player, model: Model |}): React.Node {
+function Controller(props: {| player: Player, channel: Channel |}): React.Node {
   const [now, setNow] = useState(+new Date())
   useInterval(() => setNow(+new Date()), 1000)
   const [userRequestedPlayback, setUserRequestedPlayback] = useState(false)
-  const { model } = props
+  const { channel } = props
 
   return (
     <>
@@ -94,7 +94,9 @@ function Controller(props: {| player: Player, model: Model |}): React.Node {
       <Reconciler
         player={props.player}
         broadcast={
-          userRequestedPlayback ? model.getBroadcast(now) : { type: "nothing" }
+          userRequestedPlayback
+            ? channel.getBroadcast(now)
+            : { type: "nothing" }
         }
       />
     </>
