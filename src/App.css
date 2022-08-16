@@ -31,7 +31,6 @@
 
 .bezel {
   --bezel-width: 48px;
-  position: relative;
   border-radius: 8px;
   padding: var(--bezel-width);
   background: linear-gradient(to bottom, #544, #383030),
@@ -43,6 +42,7 @@
 }
 
 .screen {
+  position: relative;
   padding: 4px;
   background: #000;
   box-shadow: -1px -1px #fff1, 1px 1px #fff2;
@@ -50,11 +50,12 @@
 
 .black-screen {
   position: absolute;
-  top: var(--bezel-width);
-  bottom: var(--bezel-width);
-  left: var(--bezel-width);
-  right: var(--bezel-width);
-  background-color: #000;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #100;
+  color: #fff;
   background-blend-mode: multiply;
   pointer-events: none;
 }

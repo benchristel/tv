@@ -83,7 +83,7 @@ export function Reconciler(props: Props): React.Node {
   }
 
   return player.getPlayerState() !== PlayerState.PLAYING ? (
-    <div className="black-screen" />
+    <div className="black-screen">{player.getPlayerState()}</div>
   ) : null
 }
 

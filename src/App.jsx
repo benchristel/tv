@@ -4,7 +4,6 @@ import { useRef, useEffect, useState } from "react"
 import "./App.css"
 import { YouTubePlayer, State as PlayerState } from "./youtube/player"
 import type { Player } from "./youtube/player"
-import { videos } from "./data/shows"
 import { useInterval } from "./lib/useInterval"
 import { Reconciler } from "./Reconciler.jsx"
 import type { Broadcast } from "./Broadcast"
@@ -16,9 +15,9 @@ export function App(): React.Node {
   return (
     <div className="App">
       <div className="bezel">
-        <div className="screen">
-          <ChannelController>
-            {(channel) => (
+        <ChannelController>
+          {(channel) => (
+            <div className="screen">
               <Broadcaster channel={channel}>
                 {(broadcast) => (
                   <YouTubePlayer id="player-container">
@@ -28,9 +27,9 @@ export function App(): React.Node {
                   </YouTubePlayer>
                 )}
               </Broadcaster>
-            )}
-          </ChannelController>
-        </div>
+            </div>
+          )}
+        </ChannelController>
       </div>
     </div>
   )

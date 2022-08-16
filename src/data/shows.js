@@ -7,7 +7,7 @@ export const debuggingVideos: Array<Video> = parseVideos(`
     ieWm9T_GgSA 0:08 I'm Lost
 `)
 
-export const videos: Array<Video> = parseVideos(`
+export const channel1Videos: Array<Video> = parseVideos(`
 
 # LOTR extras
 
@@ -4702,4 +4702,15 @@ QXfhGxZFcVE 6:37 How Do You Measure the Size of the Universe?
 XAU9ofjcx-Y 7:52 Is It Irrational to Believe in Aliens?
 McsgRggUjE4 6:13 What Planet Is Super Mario World?
 
+`)
+
+export const channel2Videos: Array<Video> = parseVideos(`
+# Slow TV
+
+3rDjPLvOShM 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, WINTER [1080HD] SlowTV
+yCtt26c_AOg 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, SUMMER [1080HD] SlowTV
+AWRKa0hOe98 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, FALL [1080HD] SlowTV
+cNiN7gOcNI4 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, SPRING [1080HD] SlowTV
+Ux8xAuQBdkk 3:00:13 4K Realtime Fireplace - Relaxing Fire Burning Video - 3 Hours - No Loop - Ultra HD - 2160p
+gB3XH5t9QCA 6:04:00 4K HDR Fireplace REALTIME - 6 Hours - Relaxing Fire Burning Video & Crackling Sounds - NO LOOP - UHD
 `)
