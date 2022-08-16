@@ -11,9 +11,9 @@ import { videos } from "./data/shows"
 import { cyrb128_32 } from "./lib/hash"
 import { mulberry32 } from "./lib/random"
 import { pick } from "./lib/arrays"
-import { useModel } from "./lib/useModel"
 import { useInterval } from "./lib/useInterval"
 import { cache } from "./lib/cache"
+import { Reconciler } from "./Reconciler.jsx"
 
 export function App(): React.Node {
   return (
@@ -77,84 +77,30 @@ interface Model {
 }
 
 function Controller(props: {| player: Player, model: Model |}): React.Node {
-  useInterval(reconcile, 1000)
+  const [now, setNow] = useState(+new Date())
+  useInterval(() => setNow(+new Date()), 1000)
   const [userRequestedPlayback, setUserRequestedPlayback] = useState(false)
-  const { player, model } = props
-  useModel((observer) => {
-    player.addEventListener("onStateChange", observer)
-  })
+  const { model } = props
 
-  function reconcile() {
-    if (!userRequestedPlayback) return
-    const currentState = player.getPlayerState()
-    const currentVideoId = videoIdFromUrl(player.getVideoUrl())
-    switch (currentState) {
-      // if the player is in an "in-between" state, just let it do its thing
-      case PlayerState.BUFFERING:
-        return
-      case PlayerState.CUED:
-      case PlayerState.UNSTARTED:
-      case PlayerState.ENDED:
-      case PlayerState.PLAYING:
-      case PlayerState.PAUSED:
-    }
+  const { targetVideoId, targetTime } = model.getTargets(now)
 
-    const now = +new Date()
-    const { targetVideoId, targetTime } = model.getTargets(now)
-
-    if (currentVideoId !== targetVideoId) {
-      console.debug(
-        "video ID changed",
-        currentVideoId,
-        targetVideoId,
-        targetTime
-      )
-      if (targetTime < 5) {
-        // If we're near the start of the video, just play it from the
-        // beginning. This prevents the first second of the video
-        // from being cut off after the previous video ends.
-        console.debug("target time is near 0; starting from beginning")
-        player.cueVideoById(targetVideoId, 0)
-      } else {
-        player.cueVideoById(targetVideoId, targetTime)
-      }
-      return
-    }
-
-    if (
-      !(
-        currentState === PlayerState.PLAYING ||
-        currentState === PlayerState.ENDED
-      ) &&
-      currentVideoId
-    ) {
-      console.debug("video stopped; playing it")
-      player.playVideo()
-      return
-    }
-
-    const currentTime = player.getCurrentTime()
-    if (delta(currentTime, targetTime) >= 5) {
-      console.debug("time is off; seeking", currentTime, targetTime)
-      player.seekTo(targetTime)
-    }
-  }
-
-  return !userRequestedPlayback ? (
-    <button id="start" onClick={() => setUserRequestedPlayback(true)}>
-      Play
-    </button>
-  ) : player.getPlayerState() !== PlayerState.PLAYING ? (
-    <div className="black-screen" />
-  ) : null
-}
-
-function videoIdFromUrl(url) {
-  return /v=(.{11})/.exec(url)?.[1]
-}
-
-function delta(a, b) {
-  return Math.abs(a - b)
+  return (
+    <>
+      {!userRequestedPlayback && (
+        <button id="start" onClick={() => setUserRequestedPlayback(true)}>
+          Play
+        </button>
+      )}
+      <Reconciler
+        player={props.player}
+        broadcast={
+          userRequestedPlayback
+            ? { type: "video", videoId: targetVideoId, currentTime: targetTime }
+            : { type: "nothing" }
+        }
+      />
+    </>
+  )
 }
 
 function add(a, b) {
