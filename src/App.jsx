@@ -100,7 +100,7 @@ function Controller(props: {| player: Player, model: Model |}): React.Node {
     }
 
     const now = +new Date()
-    const { targetVideoId, targetTime } = model.getTargets(now) //= "s38tEcEXUAo"
+    const { targetVideoId, targetTime } = model.getTargets(now)
 
     if (currentVideoId !== targetVideoId) {
       console.debug(
