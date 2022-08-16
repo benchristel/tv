@@ -22,19 +22,16 @@ export function Reconciler(props: Props): React.Node {
   })
 
   function reconcile() {
-    console.debug("reconciling", broadcast)
     if (broadcast.type === "nothing") return
 
     const { videoId: targetVideoId, currentTime: targetTime } = broadcast
 
     const currentState = player.getPlayerState()
-    console.log("player state", currentState)
     const currentVideoId = videoIdFromUrl(player.getVideoUrl())
 
     switch (currentState) {
       // if the player is in an "in-between" state, just let it do its thing
       case PlayerState.BUFFERING:
-        console.debug("buffering")
         return
       case PlayerState.CUED:
       case PlayerState.UNSTARTED:
