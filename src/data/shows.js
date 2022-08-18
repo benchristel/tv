@@ -4709,6 +4709,72 @@ uTRUQ-RKfUs 36:49 The Hobbit: A Long-Expected Autopsy (Part 1/2)
 ElPJr_tKkO4 34:43 The Hobbit: Battle of Five Studios (Part 2/2)
 Qi7t_g5QObs 30:38 The Hobbit: The Desolation of Warners (Part 3/2)
 
+# Celtic Source
+
+9L1ugg3YRq0 9:26 Was witchcraft a religion in medieval Wales?
+8REXWqYDILA 45:55 The Mabinogi Challenge: Day 1 with Dr Gwilym Morus-Baird
+X3wlf8s5cUE 20:01 The Dark Side of the Hero Myth pt 2 with Dr Gwilym Morus-Baird
+r__afQOreF0 17:32 The Dark Side of the Hero Myth pt 1 with Dr Gwilym Morus-Baird
+4RWQmK6-rxQ 16:48 The Song of Heledd pt 2 with Dr Gwilym Morus-Baird
+oOcUcP1orsY 22:53 The Song of Heledd with Dr Gwilym Morus-Baird
+pLyi7YF_wvk 25:39 Did a woman write the Mabinogi? with Dr Gwilym Morus-Baird
+KDFTrRr2qwA 24:50 The Battle of the Trees and The White Goddess with Dr Gwilym Morus-Baird
+KJlAfYBiOYM 25:58 Ritual Masks and Channeling with Dr Gwilym Morus-Baird
+OPn-vMQgHO0 26:20 Why interpret myths? with Dr Gwilym Morus-Baird
+Gx1_SSiRfbA 33:13 Bardic Craft and Animal Transformations with Dr Gwilym Morus-Baird
+vU0arTuhU10 24:39 The Mythic Fortress
+-dIk0FmlxyM 26:33 'Who is the Gatekeeper?' with Dr Gwilym Morus-Baird
+E0cwoMJK0oY 47:45 The Spoils of Annwfn with Dr Gwilym Morus-Baird
+HAEqrapjkxs 24:19 'The Discourse of Arthur and the Eagle' with Dr Gwilym Morus-Baird
+SSkF4gbB79U 15:49 A Welsh Cailleach? with Dr Gwilym Morus-Baird
+K6PNnrSGRkg 16:28 Are Welsh Scholars misrepresenting Welsh paganism? with Dr Gwilym Morus-Baird
+KwyO2Ml6KCo 17:15 The Giant's Beard in Welsh Folklore with Dr Gwilym Morus-Baird
+b2eIbtHhsRY 9:58 Iolo Morganwg and Fake Myths with Dr Gwilym Morus-Baird
+f9x1ZglXZIA 18:26 Barclodiad y Gawres ('The Giantess' Apronful') with Dr Gwilym Morus-Baird
+SZNT-Tl-bFo 22:28 Witches, Giants and Arthur with Dr Gwilym Morus-Baird
+HgFSO7Mh2cQ 9:09 From Celtic Gods to Celtic Spirits with Dr Gwilym Morus-Baird
+WrcqtD9Zz3c 21:19 The Witch of Death in Welsh Folklore with Dr Gwilym Morus-Baird
+bB4FvCgpQ2o 21:42 The Witch, the Hare and the Saint - with Dr Gwilym Morus-Baird
+BsVC3-bSk7Q 19:31 Gwyn ap Nudd and St Collen with Dr Gwilym Morus-Baird
+UBKNHP2NDaQ 13:02 Were the Welsh bards shamans? with Dr Gwilym Morus-Baird
+4RFz5ygHIw8 31:00 A Celtic Wisdom Tradition? with Dr Gwilym Morus-Baird
+yLt73JOQuoQ 1:33 The Magic of Meaning with Dr Gwilym Morus-Baird
+bZetJZWKckI 39:32 Who wrote The Book of Taliesin? with Dr Gwilym Morus-Baird
+wwIBemDZmWc 31:27 Was Taliesin a druid? With Dr Gwilym Morus-Baird
+yX_Xd0Wcu0o 18:04 Mabinogi Riddles with Dr Gwilym Morus-Baird
+M4_EmTUxIx0 29:01 What is The Book of Taliesin? with Dr Gwilym Morus-Baird
+wJkhpeFxalo 37:34 Where did Ceridwen chase Gwion Bach? with Dr Gwilym Morus-Baird
+dPWp_DbXwUM 42:26 The Welsh Bardic Triads with Dr Gwilym Morus-Baird
+Y5WiifupG-4 31:53 The Celtic 'Otherworld'?
+G2F5DNHB1q0 27:16 Celtic Magical Elixirs with Dr Gwilym Morus-Baird
+lhDBCXYUVYU 23:17 The Roots of Celtic Myth with Dr Gwilym Morus-Baird
+zccp11Oquac 29:31 Brigid and her Many Incarnations, with Dr Gwilym Morus-Baird
+M-hUfg7QNyc 20:27 The Bardic Power of Myth with Dr Gwilym Morus-Baird
+5wXmWjX3uYw 32:55 Awen, Symbol and Cauldron in Celtic Myth with Dr Gwilym Morus-Baird
+OQAMt_-rvh0 37:50 Celtic Spirituality and Cultural Appropriation with Dr Gwilym Morus-Baird
+YU5pk-Hc758 45:30 Mari Lwyd - The Welsh Sources and Meaning
+vFt-ycNVA10 7:49 Celtic Source: The real power of Taliesin.
+_tJSZlQDL2s 5:09 Celtic Source: What does Annwfn mean and how has it's meaning changed?
+ZwsfB00_fUA 10:48 Celtic Source: What's the point of old Celtic poetry?
+XjB7xUtRkx8 0:53 Celtic Source: Course Syllabus
+9AfGwjT7XgQ 10:03 Celtic Source: Brú na Bóinne (Newgrange)
+U4PD0jezQXI 8:05 Celtic Source: The Twrch Trwyth
+4vrwA9hRXFw 6:57 Celtic Source: Christians and Pagans in Medieval Britain
+cNY6vGNXFcc 8:39 Celtic Source: Is Rhiannon a goddess?
+0vJz535kLU8 8:25 Celtic Source: Manannán mac Lir
+nDMEgeLruSo 8:41 Celtic Source: Gaels and Picts
+I7ZsGjQevO0 6:43 Celtic Source: Awen
+HiU0vqUTxkM 10:21 Celtic Source: Preiddiau Annwfn ('The Spoils of Annwfn')
+9uQesVGz9QU 5:12 Celtic Source: The Coligny Calendar
+yWmozNPTfYM 7:17 Celtic Source: The Tablet of Chamaliẻres
+ase7ZAKU-KE 8:02 Celtic Source: The Oldest Celtic Text in the World?
+w_CGC28hqhk 8:02 Bardic Trickery, Gadael Tir 12.5.18
+plMtPuHTxhQ 1:30 Merched Becca, Gadael Tir 12.5.18
+UjSf0zEf0Os 2:43 Calon Lân, Gadael Tir 12.5.18
+IYzXX2VSvIA 50:29 A Welsh Wisdom Tradition? 18.10.18
+3glgKTnrjPU 28:27 Christianised Myths? Blodeuwedd and The Four Branches of the Mabinogi
+k_J9i2vek2s 4:22 Speculating About Taliesin Archaeology
+
 `)
 
 export const channel2Videos: Array<Video> = parseVideos(`
