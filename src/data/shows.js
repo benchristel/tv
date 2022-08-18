@@ -1837,77 +1837,77 @@ dzjiCduRVw0 3:27 We Plants Are Happy Plants - Long Live Space Race
 
 # Culadasa
 
-edd2fS8BRdM 1:48:18 Culadasa May 2021 Patreon Q&A No1
-fmn_lz7tGFc 1:29:09 Culadasa April 2021 Patreon Q&A No2
-8Uc_gewR1gY 1:27:55 Culadasa April 2021 Patreon Q&A No1
--hKGfbBuemA 1:15:01 Culadasa March 2021 Patreon Q&A No2
-qppnBfQ_KEI 1:22:26 Culadasa February 2021 Patreon Q&A No2
-1nPhm73Aaxw 1:34:44 Culadasa February 2021 Patreon Q&A No1
-qIuZg6jBNsM 1:25:03 Culadasa January 2021 Patreon Q&A No2
-ZbmFWHoT0YE 1:21:16 Culadasa January 2021 Patreon Q&A No1
-d4x3_ffTPC0 1:42:07 Culadasa December 2020 Patreon Q&A No1
-z2aOw9Uhc-w 2:01:19 Culadasa November 2020 Patreon Q&A No3
-9KYmlShAz_g 1:26:29 Culadasa November 2020 Patreon Q&A N°2 Recording
-K0KKBU46hNM 1:33:03 Culadasa November 2020 Patreon Q&A N°1 - Sunday the 1st
-rXySJwIZMP8 1:32:17 Culadasa October 2020 Patreon Q&A N°2 Recording
-JK0q0tgsw2U 1:37:12 Culadasa October 2020 Patreon Q&A N°1 Recording
-GWThVC6FEzA 1:46:16 Culadasa September 2020 Patreon Q&A N°2 Recording
-81mCT4D6w1I 1:39:36 Culadasa September 2020 Patreon Q&A N°1 Recording
-BJzM7GH9-nE 1:22:54 Culadasa August 2020 Patreon Q&A N°2 Recording
-kwyGPfavfFY 1:44:59 Culadasa August 2020 Patreon Q&A N°1 Recording
-YU_gUvXkkVY 1:43:06 Culadasa July 2020 Patreon Q&A N°2 Recording
-nlB-Dk8MkVE 1:41:08 Culadasa July 2020 Patreon Q&A N°1 Recording
-a8XJrNx7iN0 1:42:38 Culadasa June 2020 Patreon Q&A N°2 Recording
-1-bzZgZd-sg 1:45:21 Culadasa June 2020 Patreon Q&A N°1 Recording
-BYtQAyNyA8E 1:57:23 Culadasa May 2020 Patreon Q&A Recording N°2
-eL36yVnWcb8 2:02:09 Culadasa May 2020 Patreon Q&A Recording N°1
-omNF2wQYVxs 1:53:06 Culadasa April 2020 Patreon Q&A Recording
-FnQVRtDu0kQ 1:46:48 Culadasa February 2020 Patreon Q&A Recording Nº 2 - Sunday
-IamWcgYWKcw 1:30:15 Culadasa February 2020 Patreon Q&A Nº 1 - Saturday
+# edd2fS8BRdM 1:48:18 Culadasa May 2021 Patreon Q&A No1
+# fmn_lz7tGFc 1:29:09 Culadasa April 2021 Patreon Q&A No2
+# 8Uc_gewR1gY 1:27:55 Culadasa April 2021 Patreon Q&A No1
+# -hKGfbBuemA 1:15:01 Culadasa March 2021 Patreon Q&A No2
+# qppnBfQ_KEI 1:22:26 Culadasa February 2021 Patreon Q&A No2
+# 1nPhm73Aaxw 1:34:44 Culadasa February 2021 Patreon Q&A No1
+# qIuZg6jBNsM 1:25:03 Culadasa January 2021 Patreon Q&A No2
+# ZbmFWHoT0YE 1:21:16 Culadasa January 2021 Patreon Q&A No1
+# d4x3_ffTPC0 1:42:07 Culadasa December 2020 Patreon Q&A No1
+# z2aOw9Uhc-w 2:01:19 Culadasa November 2020 Patreon Q&A No3
+# 9KYmlShAz_g 1:26:29 Culadasa November 2020 Patreon Q&A N°2 Recording
+# K0KKBU46hNM 1:33:03 Culadasa November 2020 Patreon Q&A N°1 - Sunday the 1st
+# rXySJwIZMP8 1:32:17 Culadasa October 2020 Patreon Q&A N°2 Recording
+# JK0q0tgsw2U 1:37:12 Culadasa October 2020 Patreon Q&A N°1 Recording
+# GWThVC6FEzA 1:46:16 Culadasa September 2020 Patreon Q&A N°2 Recording
+# 81mCT4D6w1I 1:39:36 Culadasa September 2020 Patreon Q&A N°1 Recording
+# BJzM7GH9-nE 1:22:54 Culadasa August 2020 Patreon Q&A N°2 Recording
+# kwyGPfavfFY 1:44:59 Culadasa August 2020 Patreon Q&A N°1 Recording
+# YU_gUvXkkVY 1:43:06 Culadasa July 2020 Patreon Q&A N°2 Recording
+# nlB-Dk8MkVE 1:41:08 Culadasa July 2020 Patreon Q&A N°1 Recording
+# a8XJrNx7iN0 1:42:38 Culadasa June 2020 Patreon Q&A N°2 Recording
+# 1-bzZgZd-sg 1:45:21 Culadasa June 2020 Patreon Q&A N°1 Recording
+# BYtQAyNyA8E 1:57:23 Culadasa May 2020 Patreon Q&A Recording N°2
+# eL36yVnWcb8 2:02:09 Culadasa May 2020 Patreon Q&A Recording N°1
+# omNF2wQYVxs 1:53:06 Culadasa April 2020 Patreon Q&A Recording
+# FnQVRtDu0kQ 1:46:48 Culadasa February 2020 Patreon Q&A Recording Nº 2 - Sunday
+# IamWcgYWKcw 1:30:15 Culadasa February 2020 Patreon Q&A Nº 1 - Saturday
 BAWrOls6I8U 0:54 New Channel 4 My Journey
 AdiW7_HcjiE 1:13:05 My Journey: Episode 6 - The Ups and Downs of Practice (and Life!) - RE-UPLOAD WITH BETTER SOUND
 BR7D92whYXA 1:09:49 My Journey: Episode 5 - Unifying life around the Dharma (re-upload)
 TrK3NBylnVA 1:23:23 My Journey: Episode 4 - Stranger in a Strange Land
 E48ByR0Xt6U 1:10:46 My Journey: Episode 3 - Experiences don't mean sh...
-Yg6l-DsFEz8 1:32:25 Culadasa March 2021 Patreon Q&A No1
+# Yg6l-DsFEz8 1:32:25 Culadasa March 2021 Patreon Q&A No1
 OAfkxskGREo 1:07:21 My Journey: Episode 2 - A Series of Miracles
 kn050yBN37U 59:17 My Journey: Episode 1 - The path of the lay practitioner, commitment, and the early years
 Uf_su1wDk94 8:57 Introduction to "My Journey" discussion series
 UjBXtI1Q2as 1:04:56 Culadasa discusses meditation and the "Dark Night": What it is, what it isn't, and how to avoid it
 6nxZFnYCjbc 1:16:17 Nihilism vs Eternalism; Meaning in life; Is Awakening worth it? How long does it take?
-lVvii04Sa3I 1:14:39 Culadasa December 2020 Patreon Q&A No2
-aJ16ifG-udI 1:23:30 Culadasa January 2020 Patreon Q&A N° 2 (Monday)
-c7GSUFa_lF4 1:22:12 Culadasa January 2020 Patreon Q&A Nº 1 - Sunday
-eERQSG0eMFY 1:17:41 Culadasa December 2019 Patreon Q&A Video - Monday the 16th
-_c94GntI6qM 1:31:22 Culadasa December 2019 Patreon Q&A Video - Sunday the 15th
-Wmg-SOl9Sk4 1:28:38 Culadasa November 2019 Patreon Q&A Video - Friday the 29th
--pqnkm1tQ0E 1:42:39 Culadasa November 2019 Patreon Q&A - Monday
-YfRp9cMPSNk 1:33:47 Culadasa November 2019 Patreon Q&A - Sunday
-X7brJ8qrLBo 1:35:54 Culadasa July 2019 Patreon Q&A
-MapEQWUQakY 1:34:42 Culadasa June 2019 Patreon Q&A
-kGgpbE_etV8 1:32:49 20190517 Culadasa Patreon Q&A
-mW3_WGR2Llo 1:13:02 Culadasa March 2019 Patreon Q&A Catchup
-Dp3l_XnTd20 1:25:44 Culadasa April 2019 Patreon Q&A
-7UdHOJqB03o 1:54:58 March 2019 Culadasa Patreon Q&A
-eKMKZGZy6sc 1:29:33 February 2019 Culadasa Patreon Q&A
-zRa9I0ZkdKM 1:24:01 February 2019 Culadasa Patreon Q&A catch-up
-ewiA5sh-otw 1:28:44 Culadasa January 2019 Patreon Q&A
-By0s1KVLYBw 1:33:21 Culadasa December 2018 Patreon Q&A
-urCb5Ryp8SU 1:42:43 Culadasa November 2018 Patreon Q&A
-_m3ou_CA1Wk 1:16:31 November 23, 2018 Culadasa Q&A Catch Up
-DO4vExydTKA 1:30:28 October 29, 2018 Culadasa Patreon Q&A
-aM0o-BkrwkY 1:48:46 September 2018 Patreon Q&A
-EhtU5ei6YaM 1:30:00 20180816 Patreon Meetup Video
-mz0MlFOwaek 1:49:44 July 25, 2018 Culadasa Patreon Q&A
-rqpZrRRC1sU 1:24:06 Culadasa June 2018 Patreon Q&A
-pYZ7kiIbLWs 1:32:29 Culadasa May 2018 Patreon Q&A
-0nC9ZUx-Xs4 1:48:10 Culadasa April 2018 Patreon Q&A
-3ZM2Hq-wiwU 2:00:47 Culadasa April 2018 Patreon Q&A Catch-Up
-YD02MC1RaUs 1:42:10 Culadasa February 2018 Patreon Q&A
-e1kss-E0IKU 1:22:37 Culadasa October 2017 Patreon Q&A
-9GCa0epZVs8 1:01:04 Culadasa March 2018 Patreon Q&A
-RarJIUBrysw 1:31:37 Culadasa January 2018 Patreon Q&A
-uuBr-5G0zoE 1:59:49 Culadasa December 2017 Patreon Q&A
+# lVvii04Sa3I 1:14:39 Culadasa December 2020 Patreon Q&A No2
+# aJ16ifG-udI 1:23:30 Culadasa January 2020 Patreon Q&A N° 2 (Monday)
+# c7GSUFa_lF4 1:22:12 Culadasa January 2020 Patreon Q&A Nº 1 - Sunday
+# eERQSG0eMFY 1:17:41 Culadasa December 2019 Patreon Q&A Video - Monday the 16th
+# _c94GntI6qM 1:31:22 Culadasa December 2019 Patreon Q&A Video - Sunday the 15th
+# Wmg-SOl9Sk4 1:28:38 Culadasa November 2019 Patreon Q&A Video - Friday the 29th
+# -pqnkm1tQ0E 1:42:39 Culadasa November 2019 Patreon Q&A - Monday
+# YfRp9cMPSNk 1:33:47 Culadasa November 2019 Patreon Q&A - Sunday
+# X7brJ8qrLBo 1:35:54 Culadasa July 2019 Patreon Q&A
+# MapEQWUQakY 1:34:42 Culadasa June 2019 Patreon Q&A
+# kGgpbE_etV8 1:32:49 20190517 Culadasa Patreon Q&A
+# mW3_WGR2Llo 1:13:02 Culadasa March 2019 Patreon Q&A Catchup
+# Dp3l_XnTd20 1:25:44 Culadasa April 2019 Patreon Q&A
+# 7UdHOJqB03o 1:54:58 March 2019 Culadasa Patreon Q&A
+# eKMKZGZy6sc 1:29:33 February 2019 Culadasa Patreon Q&A
+# zRa9I0ZkdKM 1:24:01 February 2019 Culadasa Patreon Q&A catch-up
+# ewiA5sh-otw 1:28:44 Culadasa January 2019 Patreon Q&A
+# By0s1KVLYBw 1:33:21 Culadasa December 2018 Patreon Q&A
+# urCb5Ryp8SU 1:42:43 Culadasa November 2018 Patreon Q&A
+# _m3ou_CA1Wk 1:16:31 November 23, 2018 Culadasa Q&A Catch Up
+# DO4vExydTKA 1:30:28 October 29, 2018 Culadasa Patreon Q&A
+# aM0o-BkrwkY 1:48:46 September 2018 Patreon Q&A
+# EhtU5ei6YaM 1:30:00 20180816 Patreon Meetup Video
+# mz0MlFOwaek 1:49:44 July 25, 2018 Culadasa Patreon Q&A
+# rqpZrRRC1sU 1:24:06 Culadasa June 2018 Patreon Q&A
+# pYZ7kiIbLWs 1:32:29 Culadasa May 2018 Patreon Q&A
+# 0nC9ZUx-Xs4 1:48:10 Culadasa April 2018 Patreon Q&A
+# 3ZM2Hq-wiwU 2:00:47 Culadasa April 2018 Patreon Q&A Catch-Up
+# YD02MC1RaUs 1:42:10 Culadasa February 2018 Patreon Q&A
+# e1kss-E0IKU 1:22:37 Culadasa October 2017 Patreon Q&A
+# 9GCa0epZVs8 1:01:04 Culadasa March 2018 Patreon Q&A
+# RarJIUBrysw 1:31:37 Culadasa January 2018 Patreon Q&A
+# uuBr-5G0zoE 1:59:49 Culadasa December 2017 Patreon Q&A
 Zk2XQFwESIk 1:11:22 Creating the optimal state of mind for Meditation - Culadasa at NYIMC
 2LYa1YCdZH8 1:15:37 Culadasa -The 5 ultimate insights that lead to direct awakening.
 vtWoFpEHTBs 27:27 How do you know whats true? - Culadasa at NY Insight
