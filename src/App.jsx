@@ -1,7 +1,6 @@
 // @flow
 import * as React from "react"
 import { useRef, useEffect, useState } from "react"
-import "./App.css"
 import { YouTubePlayer, State as PlayerState } from "./youtube/player"
 import type { Player } from "./youtube/player"
 import { useInterval } from "./lib/useInterval"

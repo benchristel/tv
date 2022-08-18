@@ -6,7 +6,6 @@ module.exports = {
   plugins: [
     ["snowpack-flow-remove-types"],
     ["@snowpack/plugin-webpack", { sourceMap: true }],
-    ["snowpack-plugin-relative-css-urls"],
   ],
   optimize: {
     bundle: true,
