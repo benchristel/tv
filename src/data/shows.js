@@ -3082,6 +3082,7 @@ jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 CPLWbeUq8Z0 2:32 Harold Macmillan
 
 # Simon Roper
+C1xN-fjyCvU 15:31 Problems of Studying Emotion Cross-Culturally
 s38tEcEXUAo 15:37 Some Words from Proto-Germanic to Old English
 eKS7iJIs_ZM 14:03 Regn, wæter, spearwan, ūlan
 7kV_bLrfUxs 17:17 Grammatical Gender - An Accidental Response to Luke Ranieri
@@ -4697,6 +4698,16 @@ gJ5KV3rzuag 7:37 Should We Colonize Venus Instead of Mars?
 QXfhGxZFcVE 6:37 How Do You Measure the Size of the Universe?
 XAU9ofjcx-Y 7:52 Is It Irrational to Believe in Aliens?
 McsgRggUjE4 6:13 What Planet Is Super Mario World?
+
+# Lindsay Ellis
+
+XP6uMQL9Od4 19:40 Nostalgic Woman - Lord of the Rings: The Fellowship of the Ring
+SpsdoR1hmQc 18:06 Nostalgic Woman - Lord Of The Rings: The Two Towers
+Zi_zw3xDTa8 17:03 Nostalgic Woman - Lord of the Rings: Return of the King (Part 1)
+2MDNYhUdd2s 15:50 Nostalgic Woman - Lord of the Rings: Return Of The King (Part 2)
+uTRUQ-RKfUs 36:49 The Hobbit: A Long-Expected Autopsy (Part 1/2)
+ElPJr_tKkO4 34:43 The Hobbit: Battle of Five Studios (Part 2/2)
+Qi7t_g5QObs 30:38 The Hobbit: The Desolation of Warners (Part 3/2)
 
 `)
 
