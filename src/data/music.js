@@ -12,8 +12,8 @@ const pipe: $ComposeReverse = ((...fns) => {
 export const albums: Array<Episode> = map(
   pipe(parseVideos, (v) => ({ videos: v }))
 )([
-  //   `BecZdQvjGrY 54:49 In Gowan Ring - Compendium (Full Album)`,
-  //   `B3oAx9VmAdA 43:52 In Gowan Ring - Hazel Steps Through A Weathered Home`,
+  `BecZdQvjGrY 54:49 In Gowan Ring - Compendium (Full Album)`,
+  `B3oAx9VmAdA 43:52 In Gowan Ring - Hazel Steps Through A Weathered Home`,
   `
     # In Gowan Ring - The Glinting Spade
     GCglHYJb2Yk 5:34 Two Wax Dolls
@@ -48,7 +48,7 @@ export const albums: Array<Episode> = map(
     uAA4rUuZ-IA 6:37 In Gowan Ring – Of Water Wiverings
     LAzCskIPtuc 15:01 In Gowan Ring – Urn And Water
   `,
-  //   `i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely`,
+  `i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely`,
 ])
 
 test("pipe", {
