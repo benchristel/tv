@@ -1471,10 +1471,6 @@ U9GI3dhjCac 4:20 We Plants Are Happy Plants - Invisible Elephant
 dzjiCduRVw0 3:27 We Plants Are Happy Plants - Long Live Space Race
 9brQTel8SUc 4:56 We Plants Are Happy Plants - Trance Steel
 
-# Concerts
-
-i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely
-
 # Culadasa Audio Archive
 
 # UG-0XGpesgs 39:10 Sit, Breath, Wake Up! Meditation #1 - Culadasa
