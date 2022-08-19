@@ -2,8 +2,10 @@
 import * as React from "react"
 import { useEffect, useRef, useState } from "react"
 
+export type PlayerStateCode = -1 | 0 | 1 | 2 | 3 | 5
+
 export interface Player {
-  getPlayerState(): -1 | 0 | 1 | 2 | 3 | 5;
+  getPlayerState(): PlayerStateCode;
   getCurrentTime(): number;
   getVideoUrl(): string;
   cueVideoById(string, time: number): void;

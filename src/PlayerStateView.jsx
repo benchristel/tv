@@ -1,14 +1,15 @@
 // @flow
 import type { Channel } from "./Channel"
+import type { PlayerStateCode } from "./youtube/player.jsx"
 
 import * as React from "react"
 
 type Props = {|
-  code: -1 | 0 | 1 | 2 | 3 | 5,
+  code: PlayerStateCode,
   channel: Channel,
 |}
 
-function stateString(code: -1 | 0 | 1 | 2 | 3 | 5) {
+function stateString(code: PlayerStateCode) {
   switch (code) {
     case 2: // PAUSED
       return "paused"
