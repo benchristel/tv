@@ -11,13 +11,17 @@ import type { Channel } from "./Channel"
 import { ChannelController } from "./ChannelController.jsx"
 
 export function App(): React.Node {
+  const [userRequestedPlayback, setUserRequestedPlayback] = useState(false)
   return (
     <div className="App">
       <div className="bezel">
         <ChannelController>
           {(channel) => (
             <div className="screen">
-              <Broadcaster channel={channel}>
+              <Broadcaster
+                {...{ channel, userRequestedPlayback }}
+                onUserRequestedPlayback={() => setUserRequestedPlayback(true)}
+              >
                 {(broadcast) => (
                   <YouTubePlayer id="player-container">
                     {(player) => (
@@ -36,21 +40,23 @@ export function App(): React.Node {
 
 type Props = {|
   channel: Channel,
+  userRequestedPlayback: boolean,
+  onUserRequestedPlayback: () => mixed,
   children: (Broadcast) => React.Node,
 |}
 
 function Broadcaster(props: Props): React.Node {
-  const { channel, children } = props
+  const { channel, children, onUserRequestedPlayback, userRequestedPlayback } =
+    props
 
   const [now, setNow] = useState(+new Date())
-  const [userRequestedPlayback, setUserRequestedPlayback] = useState(false)
 
   useInterval(() => setNow(+new Date()), 1000)
 
   return (
     <>
       {!userRequestedPlayback && (
-        <button id="start" onClick={() => setUserRequestedPlayback(true)}>
+        <button id="start" onClick={onUserRequestedPlayback}>
           Play
         </button>
       )}
