@@ -49,6 +49,7 @@ export const albums: Array<Episode> = map(
     LAzCskIPtuc 15:01 In Gowan Ring – Urn And Water
   `,
   `i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely`,
+  `obK-k848Vto 1:13:05 Heroes of Might & Magic IV - Official Soundtrack`,
 ])
 
 test("pipe", {
