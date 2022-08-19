@@ -15,11 +15,14 @@ export function App(): React.Node {
   return (
     <div className="App">
       <div className="bezel">
-        <ChannelController>
+        <ChannelController
+          onChannelChanged={() => setUserRequestedPlayback(true)}
+        >
           {(channel) => (
             <div className="screen">
               <Broadcaster
-                {...{ channel, userRequestedPlayback }}
+                channel={channel}
+                userRequestedPlayback={userRequestedPlayback}
                 onUserRequestedPlayback={() => setUserRequestedPlayback(true)}
               >
                 {(broadcast) => (
