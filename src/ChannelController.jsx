@@ -17,9 +17,12 @@ export function ChannelController(props: Props): React.Node {
   return (
     <>
       {props.children(channel)}
-      <button onClick={() => setChannel(channel1)}>Channel 1</button>
-      <button onClick={() => setChannel(channel2)}>Channel 2</button>
-      <button onClick={() => setChannel(channel3)}>Channel 3</button>
+      <div style={{ height: 12 }} />
+      <div className="controls">
+        <button onClick={() => setChannel(channel1)}>Channel 1</button>
+        <button onClick={() => setChannel(channel2)}>Channel 2</button>
+        <button onClick={() => setChannel(channel3)}>Channel 3</button>
+      </div>
     </>
   )
 }
