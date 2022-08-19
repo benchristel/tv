@@ -12,6 +12,7 @@ import { broadcastString } from "./Broadcast"
 type Props = {|
   player: Player,
   broadcast: Broadcast,
+  children: (playerStateCode: -1 | 0 | 1 | 2 | 3 | 5) => React.Node,
 |}
 
 export function Reconciler(props: Props): React.Node {
@@ -82,9 +83,9 @@ export function Reconciler(props: Props): React.Node {
     }
   }
 
-  return player.getPlayerState() !== PlayerState.PLAYING ? (
-    <div className="black-screen">{player.getPlayerState()}</div>
-  ) : null
+  return player.getPlayerState() !== PlayerState.PLAYING
+    ? props.children(player.getPlayerState())
+    : null
 }
 
 function delta(a, b) {

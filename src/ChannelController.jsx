@@ -14,7 +14,7 @@ type Props = {|
 |}
 
 export function ChannelController(props: Props): React.Node {
-  const [channel, setChannel] = useState(channel1)
+  const [channel, setChannel] = useState(channels[0])
   const changeChannel = (ch) => {
     setChannel(ch)
     props.onChannelChanged()
@@ -24,15 +24,25 @@ export function ChannelController(props: Props): React.Node {
       {props.children(channel)}
       <div style={{ height: 12 }} />
       <div className="controls">
-        <button onClick={() => changeChannel(channel1)}>Channel 1</button>
-        <button onClick={() => changeChannel(channel2)}>Channel 2</button>
-        <button onClick={() => changeChannel(channel3)}>Channel 3</button>
+        {channels.map((ch) => (
+          <button key={ch.getName()} onClick={() => changeChannel(ch)}>
+            {ch.getName()}
+          </button>
+        ))}
       </div>
     </>
   )
 }
 
-// PROTOTYPE: for now, each episode just has one video in it.
-const channel1 = createChannel(channel1Videos.map((v) => ({ videos: [v] })))
-const channel2 = createChannel(channel2Videos.map((v) => ({ videos: [v] })))
-const channel3 = createChannel(albums)
+const channels = [
+  // PROTOTYPE: for now, each episode just has one video in it.
+  createChannel(
+    "Channel 1",
+    channel1Videos.map((v) => ({ videos: [v] }))
+  ),
+  createChannel(
+    "Channel 2",
+    channel2Videos.map((v) => ({ videos: [v] }))
+  ),
+  createChannel("Channel 3", albums),
+]

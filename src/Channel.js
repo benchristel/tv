@@ -10,9 +10,10 @@ import type { Episode } from "./data/types"
 
 export interface Channel {
   getBroadcast(time: number): Broadcast;
+  getName(): string;
 }
 
-export function createChannel(episodes: Array<Episode>): Channel {
+export function createChannel(name: string, episodes: Array<Episode>): Channel {
   const getSchedule = cache(1, (seed) => {
     const rng = mulberry32(cyrb128_32(seed))
     let totalDuration = 0
@@ -29,6 +30,9 @@ export function createChannel(episodes: Array<Episode>): Channel {
 
   return {
     getBroadcast,
+    getName() {
+      return name
+    },
   }
 
   function getBroadcast(time) {

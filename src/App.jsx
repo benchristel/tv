@@ -9,6 +9,7 @@ import type { Broadcast } from "./Broadcast"
 import { createChannel } from "./Channel"
 import type { Channel } from "./Channel"
 import { ChannelController } from "./ChannelController.jsx"
+import { PlayerStateView } from "./PlayerStateView.jsx"
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useState(false)
@@ -28,7 +29,16 @@ export function App(): React.Node {
                 {(broadcast) => (
                   <YouTubePlayer id="player-container">
                     {(player) => (
-                      <Reconciler broadcast={broadcast} player={player} />
+                      <Reconciler broadcast={broadcast} player={player}>
+                        {(playerState) => (
+                          <div className="black-screen">
+                            <PlayerStateView
+                              code={playerState}
+                              channel={channel}
+                            />
+                          </div>
+                        )}
+                      </Reconciler>
                     )}
                   </YouTubePlayer>
                 )}
