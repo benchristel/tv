@@ -68,7 +68,7 @@ function Broadcaster(props: Props): React.Node {
     <>
       {!userRequestedPlayback && (
         <button id="start" onClick={onUserRequestedPlayback}>
-          Play
+          ▸ Play
         </button>
       )}
       {children(
