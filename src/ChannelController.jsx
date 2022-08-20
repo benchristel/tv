@@ -9,7 +9,7 @@ import { channel1Videos, channel2Videos } from "./data/shows"
 import { albums } from "./data/music"
 
 type Props = {|
-  onChannelChanged: () => mixed,
+  onChange: () => mixed,
   children: (Channel) => React.Node,
 |}
 
@@ -17,7 +17,7 @@ export function ChannelController(props: Props): React.Node {
   const [channel, setChannel] = useState(channels[0])
   const changeChannel = (ch) => {
     setChannel(ch)
-    props.onChannelChanged()
+    props.onChange()
   }
   return (
     <>

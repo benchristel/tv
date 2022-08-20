@@ -16,9 +16,7 @@ export function App(): React.Node {
   return (
     <div className="App">
       <div className="bezel">
-        <ChannelController
-          onChannelChanged={() => setUserRequestedPlayback(true)}
-        >
+        <ChannelController onChange={() => setUserRequestedPlayback(true)}>
           {(channel) => (
             <div className="screen">
               <Broadcaster
