@@ -4,6 +4,7 @@ import { useRef, useEffect, useState } from "react"
 import { YouTubePlayer, State as PlayerState } from "./youtube/player"
 import type { Player } from "./youtube/player"
 import { useInterval } from "./lib/useInterval"
+import { useLatch } from "./lib/useLatch"
 import { Reconciler } from "./Reconciler.jsx"
 import type { Broadcast } from "./Broadcast"
 import { createChannel } from "./Channel"
@@ -14,9 +15,9 @@ import { Broadcaster } from "./Broadcaster"
 import { ChannelView } from "./ChannelView.jsx"
 
 export function App(): React.Node {
-  const [userRequestedPlayback, setUserRequestedPlayback] = useState(false)
+  const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
   return (
-    <ChannelController onChange={() => setUserRequestedPlayback(true)}>
+    <ChannelController onChange={setUserRequestedPlayback}>
       {(channel, changeChannel) => (
         <Broadcaster {...{ channel, userRequestedPlayback }}>
           {(broadcast) => (
@@ -25,9 +26,7 @@ export function App(): React.Node {
                 <>
                   <PlayerAssembly {...{ broadcast, channel }} />
                   {!userRequestedPlayback && (
-                    <PlayButtonOverlay
-                      onClick={() => setUserRequestedPlayback(true)}
-                    />
+                    <PlayButtonOverlay onClick={setUserRequestedPlayback} />
                   )}
                 </>
               }
