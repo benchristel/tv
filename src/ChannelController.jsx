@@ -13,7 +13,7 @@ import { ChannelView } from "./ChannelView.jsx"
 
 type Props = {|
   onChange: () => mixed,
-  children: (Channel) => React.Node,
+  children: (Channel, (Channel) => mixed) => React.Node,
 |}
 
 export function ChannelController(props: Props): React.Node {
@@ -22,9 +22,5 @@ export function ChannelController(props: Props): React.Node {
     setChannel(ch)
     props.onChange()
   }
-  return (
-    <ChannelView onChannelSelected={changeChannel} channel={channel}>
-      {props.children}
-    </ChannelView>
-  )
+  return props.children(channel, changeChannel)
 }

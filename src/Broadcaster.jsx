@@ -8,13 +8,11 @@ import type { Broadcast } from "./Broadcast"
 type Props = {|
   channel: Channel,
   userRequestedPlayback: boolean,
-  onUserRequestedPlayback: () => mixed,
   children: (Broadcast) => React.Node,
 |}
 
 export function Broadcaster(props: Props): React.Node {
-  const { channel, children, onUserRequestedPlayback, userRequestedPlayback } =
-    props
+  const { channel, children, userRequestedPlayback } = props
 
   const [now, setNow] = useState(+new Date())
 
@@ -22,11 +20,6 @@ export function Broadcaster(props: Props): React.Node {
 
   return (
     <>
-      {!userRequestedPlayback && (
-        <button id="start" onClick={onUserRequestedPlayback}>
-          ▸ Play
-        </button>
-      )}
       {children(
         userRequestedPlayback
           ? channel.getBroadcast(now)

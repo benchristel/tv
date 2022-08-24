@@ -11,27 +11,63 @@ import type { Channel } from "./Channel"
 import { ChannelController } from "./ChannelController.jsx"
 import { PlayerStateView } from "./PlayerStateView.jsx"
 import { Broadcaster } from "./Broadcaster"
+import { ChannelView } from "./ChannelView.jsx"
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useState(false)
   return (
+    <ChannelController onChange={() => setUserRequestedPlayback(true)}>
+      {(channel, changeChannel) => (
+        <Broadcaster
+          channel={channel}
+          userRequestedPlayback={userRequestedPlayback}
+        >
+          {(broadcast) => (
+            <Layout
+              screen={
+                <>
+                  <PlayerAssembly {...{ broadcast, channel }} />
+                  {!userRequestedPlayback && (
+                    <PlayButtonOverlay
+                      onClick={() => setUserRequestedPlayback(true)}
+                    />
+                  )}
+                </>
+              }
+              controlPanel={
+                <ChannelView
+                  channel={channel}
+                  onChannelSelected={changeChannel}
+                />
+              }
+            />
+          )}
+        </Broadcaster>
+      )}
+    </ChannelController>
+  )
+}
+
+function Layout(props: {|
+  screen: React.Node,
+  controlPanel: React.Node,
+|}): React.Node {
+  return (
     <div className="App">
       <div className="bezel">
-        <ChannelController onChange={() => setUserRequestedPlayback(true)}>
-          {(channel) => (
-            <div className="screen">
-              <Broadcaster
-                channel={channel}
-                userRequestedPlayback={userRequestedPlayback}
-                onUserRequestedPlayback={() => setUserRequestedPlayback(true)}
-              >
-                {(broadcast) => <PlayerAssembly {...{ broadcast, channel }} />}
-              </Broadcaster>
-            </div>
-          )}
-        </ChannelController>
+        <div className="screen">{props.screen}</div>
+        <div style={{ height: "12px" }} />
+        <div className="controls">{props.controlPanel}</div>
       </div>
     </div>
+  )
+}
+
+function PlayButtonOverlay(props: {| onClick: () => mixed |}): React.Node {
+  return (
+    <button id="start" onClick={props.onClick}>
+      ▸ Play
+    </button>
   )
 }
 
