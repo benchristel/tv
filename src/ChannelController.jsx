@@ -9,6 +9,7 @@ import { channel1Videos, channel2Videos } from "./data/shows"
 import { albums } from "./data/music"
 import type { Episode, Video } from "./data/types"
 import { channels } from "./data/channels"
+import { ChannelView } from "./ChannelView.jsx"
 
 type Props = {|
   onChange: () => mixed,
@@ -22,16 +23,8 @@ export function ChannelController(props: Props): React.Node {
     props.onChange()
   }
   return (
-    <>
-      {props.children(channel)}
-      <div style={{ height: 12 }} />
-      <div className="controls">
-        {channels.map((ch) => (
-          <button key={ch.getName()} onClick={() => changeChannel(ch)}>
-            {ch.getName()}
-          </button>
-        ))}
-      </div>
-    </>
+    <ChannelView onChannelSelected={changeChannel} channel={channel}>
+      {props.children}
+    </ChannelView>
   )
 }
