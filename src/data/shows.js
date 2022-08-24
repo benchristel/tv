@@ -4775,6 +4775,15 @@ IYzXX2VSvIA 50:29 A Welsh Wisdom Tradition? 18.10.18
 3glgKTnrjPU 28:27 Christianised Myths? Blodeuwedd and The Four Branches of the Mabinogi
 k_J9i2vek2s 4:22 Speculating About Taliesin Archaeology
 
+# A Bit of Fry and Laurie
+
+AeOU7NNgeQg 29:18 A Bit Of Fry And Laurie S01E01
+NM8McyQCRYs 29:37 A Bit Of Fry And Laurie S01E02
+wEXCPHWyWAI 28:58 A Bit Of Fry And Laurie S01E03
+jxd9MhFXVKM 29:16 A Bit Of Fry And Laurie S01E04
+x0X6E11G_nk 29:30 A Bit Of Fry And Laurie S01E05
+NOuAk7LX5no 28:26 A Bit Of Fry And Laurie S01E06
+
 `)
 
 export const channel2Videos: Array<Video> = parseVideos(`
