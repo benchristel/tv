@@ -7,6 +7,7 @@ import { useState } from "react"
 import { createChannel } from "./Channel"
 import { channel1Videos, channel2Videos } from "./data/shows"
 import { albums } from "./data/music"
+import type { Episode, Video } from "./data/types"
 
 type Props = {|
   onChange: () => mixed,
@@ -36,13 +37,11 @@ export function ChannelController(props: Props): React.Node {
 
 const channels = [
   // PROTOTYPE: for now, each episode just has one video in it.
-  createChannel(
-    "Channel 1",
-    channel1Videos.map((v) => ({ videos: [v] }))
-  ),
-  createChannel(
-    "Channel 2",
-    channel2Videos.map((v) => ({ videos: [v] }))
-  ),
+  createChannel("Channel 1", channel1Videos.map(singleVideoEpisode)),
+  createChannel("Channel 2", channel2Videos.map(singleVideoEpisode)),
   createChannel("Channel 3", albums),
 ]
+
+function singleVideoEpisode(v: Video): Episode {
+  return { videos: [v] }
+}

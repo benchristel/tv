@@ -8,6 +8,7 @@ import { videoIdFromUrl } from "./youtube/videoId"
 import type { Broadcast } from "./Broadcast"
 import { useModel } from "./lib/useModel"
 import { broadcastString } from "./Broadcast"
+import { GAP_SECONDS } from "./Channel"
 
 type Props = {|
   player: Player,
@@ -27,11 +28,25 @@ export function Reconciler(props: Props): React.Node {
   })
 
   function reconcile() {
-    if (broadcast.type === "nothing") return
+    const currentState = player.getPlayerState()
+    if (broadcast.type === "nothing") {
+      switch (currentState) {
+        case PlayerState.ENDED:
+        case PlayerState.CUED:
+        case PlayerState.UNSTARTED:
+          if (videoIdFromUrl(player.getVideoUrl()) !== broadcast.nextVideoId) {
+            console.log("gap; next up is", broadcast.nextVideoId, currentState)
+            player.cueVideoById(broadcast.nextVideoId, 0)
+            player.playVideo()
+          } else {
+            player.seekTo(0)
+            player.playVideo()
+          }
+      }
+      return
+    }
 
     const { videoId: targetVideoId, currentTime: targetTime } = broadcast
-
-    const currentState = player.getPlayerState()
     const currentVideoId = videoIdFromUrl(player.getVideoUrl())
 
     switch (currentState) {
@@ -52,7 +67,7 @@ export function Reconciler(props: Props): React.Node {
         targetVideoId,
         targetTime
       )
-      if (targetTime < 5) {
+      if (targetTime < GAP_SECONDS) {
         // If we're near the start of the video, just play it from the
         // beginning. This prevents the first second of the video
         // from being cut off after the previous video ends.
@@ -77,9 +92,11 @@ export function Reconciler(props: Props): React.Node {
     }
 
     const currentTime = player.getCurrentTime()
-    if (delta(currentTime, targetTime) >= 5) {
+    if (delta(currentTime, targetTime) >= GAP_SECONDS) {
       console.debug("time is off; seeking", currentTime, targetTime)
       player.seekTo(targetTime)
+    } else {
+      console.debug("seconds behind schedule", targetTime - currentTime)
     }
   }
 

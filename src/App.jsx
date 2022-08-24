@@ -62,7 +62,7 @@ function Broadcaster(props: Props): React.Node {
 
   const [now, setNow] = useState(+new Date())
 
-  useInterval(() => setNow(+new Date()), 1000)
+  useInterval(() => setNow(+new Date()), 250)
 
   return (
     <>
@@ -72,7 +72,9 @@ function Broadcaster(props: Props): React.Node {
         </button>
       )}
       {children(
-        userRequestedPlayback ? channel.getBroadcast(now) : { type: "nothing" }
+        userRequestedPlayback
+          ? channel.getBroadcast(now)
+          : { type: "nothing", nextVideoId: "" }
       )}
     </>
   )

@@ -1,6 +1,7 @@
 // @flow
 import type { Channel } from "./Channel"
 import type { PlayerStateCode } from "./youtube/player.jsx"
+import { State as PlayerState } from "./youtube/player.jsx"
 
 import * as React from "react"
 
@@ -11,12 +12,18 @@ type Props = {|
 
 function stateString(code: PlayerStateCode) {
   switch (code) {
-    case 2: // PAUSED
+    case PlayerState.BUFFERING:
+      return "buffering"
+    case PlayerState.UNSTARTED:
+      return "unstarted"
+    case PlayerState.CUED:
+      return "cued"
+    case PlayerState.ENDED:
+      return "ended"
+    case PlayerState.PLAYING:
+      return "playing"
+    case PlayerState.PAUSED:
       return "paused"
-    case 3: // BUFFERING
-      return "loading"
-    case 5: //CUED
-      return "ready"
     default:
       return ""
   }
