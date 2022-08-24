@@ -18,10 +18,7 @@ export function App(): React.Node {
   return (
     <ChannelController onChange={() => setUserRequestedPlayback(true)}>
       {(channel, changeChannel) => (
-        <Broadcaster
-          channel={channel}
-          userRequestedPlayback={userRequestedPlayback}
-        >
+        <Broadcaster {...{ channel, userRequestedPlayback }}>
           {(broadcast) => (
             <Layout
               screen={
