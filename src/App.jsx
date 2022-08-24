@@ -10,6 +10,7 @@ import { createChannel } from "./Channel"
 import type { Channel } from "./Channel"
 import { ChannelController } from "./ChannelController.jsx"
 import { PlayerStateView } from "./PlayerStateView.jsx"
+import { Broadcaster } from "./Broadcaster"
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useState(false)
@@ -24,22 +25,7 @@ export function App(): React.Node {
                 userRequestedPlayback={userRequestedPlayback}
                 onUserRequestedPlayback={() => setUserRequestedPlayback(true)}
               >
-                {(broadcast) => (
-                  <YouTubePlayer id="player-container">
-                    {(player) => (
-                      <Reconciler broadcast={broadcast} player={player}>
-                        {(playerState) => (
-                          <div className="black-screen">
-                            <PlayerStateView
-                              code={playerState}
-                              channel={channel}
-                            />
-                          </div>
-                        )}
-                      </Reconciler>
-                    )}
-                  </YouTubePlayer>
-                )}
+                {(broadcast) => <PlayerAssembly {...{ broadcast, channel }} />}
               </Broadcaster>
             </div>
           )}
@@ -49,33 +35,21 @@ export function App(): React.Node {
   )
 }
 
-type Props = {|
+function PlayerAssembly(props: {|
+  broadcast: Broadcast,
   channel: Channel,
-  userRequestedPlayback: boolean,
-  onUserRequestedPlayback: () => mixed,
-  children: (Broadcast) => React.Node,
-|}
-
-function Broadcaster(props: Props): React.Node {
-  const { channel, children, onUserRequestedPlayback, userRequestedPlayback } =
-    props
-
-  const [now, setNow] = useState(+new Date())
-
-  useInterval(() => setNow(+new Date()), 250)
-
+|}): React.Node {
   return (
-    <>
-      {!userRequestedPlayback && (
-        <button id="start" onClick={onUserRequestedPlayback}>
-          ▸ Play
-        </button>
+    <YouTubePlayer id="player-container">
+      {(player) => (
+        <Reconciler broadcast={props.broadcast} player={player}>
+          {(playerState) => (
+            <div className="black-screen">
+              <PlayerStateView code={playerState} channel={props.channel} />
+            </div>
+          )}
+        </Reconciler>
       )}
-      {children(
-        userRequestedPlayback
-          ? channel.getBroadcast(now)
-          : { type: "nothing", nextVideoId: "" }
-      )}
-    </>
+    </YouTubePlayer>
   )
 }
