@@ -15,6 +15,25 @@ export interface Player {
   removeEventListener(string, () => mixed): mixed;
 }
 
+function nullPlayer(): Player {
+  return {
+    getPlayerState() {
+      return State.UNSTARTED
+    },
+    getCurrentTime() {
+      return 0
+    },
+    getVideoUrl() {
+      return ""
+    },
+    cueVideoById() {},
+    playVideo() {},
+    seekTo() {},
+    addEventListener() {},
+    removeEventListener() {},
+  }
+}
+
 type Props = {|
   id: string,
   children: (Player) => React.Node,
@@ -40,12 +59,7 @@ export function YouTubePlayer(props: Props): React.Node {
     })
   }, [id])
 
-  return (
-    <>
-      <div id={props.id} />
-      {loaded && playerRef.current ? props.children(playerRef.current) : null}
-    </>
-  )
+  return props.children(playerRef.current ?? nullPlayer())
 }
 
 async function createYouTubePlayer(elementId: string): Promise<Player> {

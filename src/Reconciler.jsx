@@ -9,11 +9,15 @@ import type { Broadcast } from "./Broadcast"
 import { useModel } from "./lib/useModel"
 import { broadcastString } from "./Broadcast"
 import { GAP_SECONDS } from "./Channel"
+import type { PlayerStateCode } from "./youtube/player.jsx"
 
 type Props = {|
   player: Player,
   broadcast: Broadcast,
-  children: (playerStateCode: -1 | 0 | 1 | 2 | 3 | 5) => React.Node,
+  children: (
+    playerStateCode: PlayerStateCode,
+    hideVideo: boolean
+  ) => React.Node,
 |}
 
 export function Reconciler(props: Props): React.Node {
@@ -100,9 +104,8 @@ export function Reconciler(props: Props): React.Node {
     }
   }
 
-  return player.getPlayerState() !== PlayerState.PLAYING
-    ? props.children(player.getPlayerState())
-    : null
+  const currentState = player.getPlayerState()
+  return props.children(currentState, currentState !== PlayerState.PLAYING)
 }
 
 function delta(a, b) {

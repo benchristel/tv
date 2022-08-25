@@ -6,7 +6,6 @@ import { channels } from "./data/channels"
 import * as React from "react"
 
 type Props = {|
-  channel: Channel,
   onChannelSelected: (Channel) => mixed,
 |}
 
