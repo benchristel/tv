@@ -10,53 +10,54 @@ import type { Broadcast } from "./Broadcast"
 import { createChannel } from "./Channel"
 import type { Channel } from "./Channel"
 import { PlayerStateView } from "./PlayerStateView.jsx"
-import { Broadcaster } from "./Broadcaster"
 import { ChannelView } from "./ChannelView.jsx"
 import type { PlayerStateCode } from "./youtube/player.jsx"
 import { State } from "./youtube/player.jsx"
 import { channels } from "./data/channels"
+import { useNow } from "./lib/useNow"
+import { nothing } from "./Broadcast"
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
   const [channel, setChannel] = useState(channels[0])
+  const now = useNow()
+  const broadcast = userRequestedPlayback
+    ? channel.getBroadcast(now)
+    : nothing()
   return (
-    <Broadcaster {...{ channel, userRequestedPlayback }}>
-      {(broadcast) => (
-        <Layout
-          screen={
-            <>
-              <PlayerAssembly
-                broadcast={broadcast}
-                channel={channel}
-                playerContainerId="player-container"
-              >
-                {(playerState, hideVideo) => (
-                  <>
-                    <div id="player-container" />
-                    {hideVideo && (
-                      <div className="black-screen">
-                        <PlayerStateView code={playerState} channel={channel} />
-                      </div>
-                    )}
-                  </>
+    <Layout
+      screen={
+        <>
+          <PlayerAssembly
+            broadcast={broadcast}
+            channel={channel}
+            playerContainerId="player-container"
+          >
+            {(playerState, hideVideo) => (
+              <>
+                <div id="player-container" />
+                {hideVideo && (
+                  <div className="black-screen">
+                    <PlayerStateView code={playerState} channel={channel} />
+                  </div>
                 )}
-              </PlayerAssembly>
-              {!userRequestedPlayback && (
-                <PlayButtonOverlay onClick={setUserRequestedPlayback} />
-              )}
-            </>
-          }
-          controlPanel={
-            <ChannelView
-              onChannelSelected={(ch) => {
-                setChannel(ch)
-                setUserRequestedPlayback()
-              }}
-            />
-          }
+              </>
+            )}
+          </PlayerAssembly>
+          {!userRequestedPlayback && (
+            <PlayButtonOverlay onClick={setUserRequestedPlayback} />
+          )}
+        </>
+      }
+      controlPanel={
+        <ChannelView
+          onChannelSelected={(ch) => {
+            setChannel(ch)
+            setUserRequestedPlayback()
+          }}
         />
-      )}
-    </Broadcaster>
+      }
+    />
   )
 }
 
