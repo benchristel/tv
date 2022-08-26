@@ -33,67 +33,38 @@ export function Reconciler(props: Props): React.Node {
         case PlayerState.CUED:
         case PlayerState.UNSTARTED:
           if (videoIdFromUrl(player.getVideoUrl()) !== broadcast.nextVideoId) {
-            console.log("gap; next up is", broadcast.nextVideoId, currentState)
             player.cueVideoById(broadcast.nextVideoId, 0)
           } else {
             player.seekTo(0)
           }
           player.playVideo()
       }
-      return
-    }
+    } else if (currentState !== PlayerState.BUFFERING) {
+      const { videoId: targetVideoId, currentTime: targetTime } = broadcast
+      const currentVideoId = videoIdFromUrl(player.getVideoUrl())
 
-    const { videoId: targetVideoId, currentTime: targetTime } = broadcast
-    const currentVideoId = videoIdFromUrl(player.getVideoUrl())
-
-    switch (currentState) {
-      // if the player is in an "in-between" state, just let it do its thing
-      case PlayerState.BUFFERING:
-        return
-      case PlayerState.CUED:
-      case PlayerState.UNSTARTED:
-      case PlayerState.ENDED:
-      case PlayerState.PLAYING:
-      case PlayerState.PAUSED:
-    }
-
-    if (currentVideoId !== targetVideoId) {
-      console.debug(
-        "video ID changed",
-        currentVideoId,
-        targetVideoId,
-        targetTime
-      )
-      if (targetTime < GAP_SECONDS) {
-        // If we're near the start of the video, just play it from the
-        // beginning. This prevents the first second of the video
-        // from being cut off after the previous video ends.
-        console.debug("target time is near 0; starting from beginning")
-        player.cueVideoById(targetVideoId, 0)
-      } else {
-        player.cueVideoById(targetVideoId, targetTime)
+      if (currentVideoId !== targetVideoId) {
+        player.cueVideoById(
+          targetVideoId,
+          // If we're near the start of the video, just play it from the
+          // begnning. This prevents the first second of the video
+          // from being cut off after the previous video ends.
+          targetTime < GAP_SECONDS ? 0 : targetTime
+        )
       }
-      return
-    }
 
-    if (
-      !(
-        currentState === PlayerState.PLAYING ||
-        currentState === PlayerState.ENDED
-      ) &&
-      currentVideoId
-    ) {
-      console.debug("video stopped; playing it")
-      player.playVideo()
-      return
-    }
+      switch (currentState) {
+        case PlayerState.PAUSED:
+        case PlayerState.CUED:
+        case PlayerState.UNSTARTED:
+          currentVideoId && player.playVideo()
+      }
 
-    const currentTime = player.getCurrentTime()
-    if (delta(currentTime, targetTime) >= GAP_SECONDS) {
-      console.debug("time is off; seeking", currentTime, targetTime)
-      player.seekTo(targetTime)
-    } else {
-      console.debug("seconds behind schedule", targetTime - currentTime)
+      const currentTime = player.getCurrentTime()
+      if (delta(currentTime, targetTime) >= GAP_SECONDS) {
+        console.debug("time is off; seeking", currentTime, targetTime)
+        player.seekTo(targetTime)
+      }
     }
   }
 
