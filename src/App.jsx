@@ -9,53 +9,54 @@ import { Reconciler } from "./Reconciler.jsx"
 import type { Broadcast } from "./Broadcast"
 import { createChannel } from "./Channel"
 import type { Channel } from "./Channel"
-import { ChannelController } from "./ChannelController.jsx"
 import { PlayerStateView } from "./PlayerStateView.jsx"
 import { Broadcaster } from "./Broadcaster"
 import { ChannelView } from "./ChannelView.jsx"
 import type { PlayerStateCode } from "./youtube/player.jsx"
 import { State } from "./youtube/player.jsx"
+import { channels } from "./data/channels"
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
+  const [channel, setChannel] = useState(channels[0])
   return (
-    <ChannelController onChange={setUserRequestedPlayback}>
-      {(channel, changeChannel) => (
-        <Broadcaster {...{ channel, userRequestedPlayback }}>
-          {(broadcast) => (
-            <Layout
-              screen={
-                <>
-                  <PlayerAssembly
-                    broadcast={broadcast}
-                    channel={channel}
-                    playerContainerId="player-container"
-                  >
-                    {(playerState, hideVideo) => (
-                      <>
-                        <div id="player-container" />
-                        {hideVideo && (
-                          <div className="black-screen">
-                            <PlayerStateView
-                              code={playerState}
-                              channel={channel}
-                            />
-                          </div>
-                        )}
-                      </>
+    <Broadcaster {...{ channel, userRequestedPlayback }}>
+      {(broadcast) => (
+        <Layout
+          screen={
+            <>
+              <PlayerAssembly
+                broadcast={broadcast}
+                channel={channel}
+                playerContainerId="player-container"
+              >
+                {(playerState, hideVideo) => (
+                  <>
+                    <div id="player-container" />
+                    {hideVideo && (
+                      <div className="black-screen">
+                        <PlayerStateView code={playerState} channel={channel} />
+                      </div>
                     )}
-                  </PlayerAssembly>
-                  {!userRequestedPlayback && (
-                    <PlayButtonOverlay onClick={setUserRequestedPlayback} />
-                  )}
-                </>
-              }
-              controlPanel={<ChannelView onChannelSelected={changeChannel} />}
+                  </>
+                )}
+              </PlayerAssembly>
+              {!userRequestedPlayback && (
+                <PlayButtonOverlay onClick={setUserRequestedPlayback} />
+              )}
+            </>
+          }
+          controlPanel={
+            <ChannelView
+              onChannelSelected={(ch) => {
+                setChannel(ch)
+                setUserRequestedPlayback()
+              }}
             />
-          )}
-        </Broadcaster>
+          }
+        />
       )}
-    </ChannelController>
+    </Broadcaster>
   )
 }
 
