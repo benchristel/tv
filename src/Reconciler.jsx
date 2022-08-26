@@ -20,6 +20,7 @@ type Props = {|
 
 export function Reconciler(props: Props): React.Node {
   const { broadcast, player } = props
+  const currentState = player.getPlayerState()
   useModel((observer) => {
     player.addEventListener("onStateChange", observer)
     // we need to return a non-nullish value here, or an additional
@@ -30,7 +31,6 @@ export function Reconciler(props: Props): React.Node {
 
   reconcile()
   function reconcile() {
-    const currentState = player.getPlayerState()
     if (broadcast.type === "nothing") {
       switch (currentState) {
         case PlayerState.ENDED:
@@ -102,7 +102,6 @@ export function Reconciler(props: Props): React.Node {
     }
   }
 
-  const currentState = player.getPlayerState()
   return props.children(currentState, currentState !== PlayerState.PLAYING)
 }
 
