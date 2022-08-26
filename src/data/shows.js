@@ -4788,6 +4788,47 @@ jxd9MhFXVKM 29:16 A Bit Of Fry And Laurie S01E04
 x0X6E11G_nk 29:30 A Bit Of Fry And Laurie S01E05
 NOuAk7LX5no 28:26 A Bit Of Fry And Laurie S01E06
 
+# jan Misali's Conlang Critic
+
+l-unefmAo9k 5:32 Conlang Critic Episode One: Lojban
+k_z41hk_lUM 5:33 Conlang Critic Episode Two: aUI
+12bT6wGXESc 10:41 Conlang Critic Episode Three: Vötgil
+ZkVF6MsVgmE 5:36 Conlang Critic Episode Four: Láadan
+j-dmJtboDCk 5:35 Conlang Critic Episode Five: Ygyde
+e_n3loSfejg 6:27 Conlang Critic Episode Six: Ithkuil
+qnv8PVvbd-8 4:19 Conlang Critic Episode Seven: Wolflandic
+XhxjI3t6Ht4 4:48 Conlang Critic Episode Eight: Kay(f)bop(t)
+o2mzKGGrNi8 4:31 Conlang Critic Episode Nine: Klingon
+tOf91VkVvz8 3:54 Conlang Critic Episode Ten: Na'vi
+6w7y_9XrNpA 5:20 Conlang Critic Episode Eleven: FluidLang
+c2G7TFybqOQ 3:22 The Perfect Language [Epic]
+eLn6LC1RpAo 8:02 Conlang Critic Episode Twelve: Toki Pona
+Sao9mCLy3Xo 10:17 Conlang Critic Episode Thirteen: Esperanto
+TOWcRvYq9Fs 5:14 Conlang Critic Episode Fourteen: Ido
+TpHqHuXvUek 6:12 Conlang Critic Episode Fifteen: Volapük / Volapꞟk
+JLuKnsIqXOQ 6:21 Conlang Critic Episode Sixteen: Dovahzul
+U_Bz3bt8_4w 4:42 Conlang Critic Episode Seventeen: Interlingua
+tZDUVJKo5nY 4:22 Conlang Critic Episode Eighteen: Solresol
+sF1R2ZUSbeo 8:56 Conlang Critic Episode Nineteen: Loglan
+QkaYGEwZSrU 7:03 Conlang Critic Episode Twenty: Zese
+GX4V1M9qWVc 8:30 Conlang Critic Episode Twenty One: Futurese
+X2GN1mBUOFc 3:45 Conlang Critic Episode Twenty Two: Lingua Franca Nova
+kpFHH57smjo 4:50 Conlang Critic Episode Twenty Three: Interslavic
+KegIeZwXUDk 9:31 Conlang Critic Episode Twenty Four: Folkspraak
+8nAcVA88H5M 15:06 Conlang Critic: Dothraki
+GpPRiwNriys 20:48 Conlang Critic: Novial
+rtomHrUihco 15:51 Conlang Critic: The IS Language
+QZ_8hnT9YYo 14:50 Conlang Critic: Drsk
+tdTQ7Scli0I 17:35 Conlang Critic: Sambahsa
+TY7EEBUgg6Y 17:47 Conlang Critic: Sindarin (featuring Artifexian)
+C9KdW66dfOk 16:00 Conlang Critic: Poliespo
+97RsfY2ODw0 14:12 Conlang Critic: Kēlen
+gi1-ZWiqjD8 38:53 Conlang Critic: Lingwa de Planeta
+F1LBCMWDNwo 33:16 Conlang Critic: Viossa
+mJYrc6oya7c 14:38 Conlang Critic: Iqglic
+JICvHFl7W6o 15:35 Conlang Critic: Quenya
+ZiN-1Z5O9Hc 15:56 Conlang Critic: High Valyrian
+
 `)
 
 export const channel2Videos: Array<Video> = parseVideos(`

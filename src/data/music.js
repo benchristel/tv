@@ -166,6 +166,34 @@ export const albums: Array<Episode> = map(
   `,
   `VKmixRYUFBE 47:53 Wolf Parade - Apologies to the Queen Mary [FULL ALBUM STREAM]`,
   `KzPE54bO7Po 46:46 Wolf Parade - At Mt Zoomer [FULL ALBUM STREAM]`,
+  `0yBIc0uRxtY 55:38 Wolf Parade - Expo 86 [FULL ALBUM STREAM]`,
+  `
+    # Sunset Rubdown - Dragonslayer
+    6OPbEYljPLs 4:46 Silver Moons
+    1m9au8nNn1Q 6:10 Idiot Heart
+    A7jo4ExgkS8 5:25 Apollo and the Buffalo and Anna Anna Anna Oh!
+    7c9YDgL5yDA 6:53 Sunset Rubdown - "Black Swan" (Official Video)
+    sfZJhco5NA8 3:48 Paper Lace
+    9Tf8rrW50h8 5:46 You Go On Ahead (Trumpet Trumpet II)
+    brpl2ZlDlAc 5:36 Nightingale / December Song
+    y9QF7mbsd10 10:46 Sunset Rubdown - "Dragon's Lair" (Official Video)
+  `,
+  `
+    # AFI - Decemberunderground
+    d0Gsyr_0PpA 1:35 Prelude 12/21
+    NdwM8yRAm2I 2:40 Kill Caustic
+    YU4hhNKsPog 5:04 AFI - Miss Murder (Official Music Video) (Long Version)
+    vEVabFtMNow 3:07 Summer Shudder
+    imGlDkZXrUU 4:17 The Interview
+    rsrEXwozK-Y 2:48 AFI - Love Like Winter (Official Music Video)
+    Jd8ipNTtrwY 5:29 Affliction
+    HsLOgwUFrAA 4:41 The Missing Frame
+    WKvuMfcHax0 4:19 Kiss and Control
+    3KidSFH6aV4 4:04 The Killing Lights
+    DBJkPYoSu5A 3:53 37mm
+    _-h_khKeJB0 4:27 Endlessly, She Said
+  `,
+  `bnaTLcFpQnE 45:45 Manu Chao - Clandestino (Full Album)`,
 ])
 
 test("pipe", {
