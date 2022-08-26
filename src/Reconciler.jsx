@@ -21,8 +21,8 @@ type Props = {|
 export function Reconciler(props: Props): React.Node {
   const { broadcast, player } = props
   const currentState = player.getPlayerState()
-  useModel((observer) => {
-    player.addEventListener("onStateChange", observer)
+  useModel((rerender) => {
+    player.addEventListener("onStateChange", rerender)
   })
 
   reconcile()
