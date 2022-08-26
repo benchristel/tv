@@ -21,6 +21,7 @@ type Props = {|
 export function Reconciler(props: Props): React.Node {
   const { broadcast, player } = props
   const currentState = player.getPlayerState()
+  const currentVideoId = videoIdFromUrl(player.getVideoUrl())
   useModel((rerender) => {
     player.addEventListener("onStateChange", rerender)
   })
@@ -30,7 +31,7 @@ export function Reconciler(props: Props): React.Node {
       case PlayerState.ENDED:
       case PlayerState.CUED:
       case PlayerState.UNSTARTED:
-        if (videoIdFromUrl(player.getVideoUrl()) !== broadcast.nextVideoId) {
+        if (currentVideoId !== broadcast.nextVideoId) {
           player.cueVideoById(broadcast.nextVideoId, 0)
         } else {
           player.seekTo(0)
@@ -39,8 +40,6 @@ export function Reconciler(props: Props): React.Node {
     }
   } else if (currentState !== PlayerState.BUFFERING) {
     const { videoId: targetVideoId, currentTime: targetTime } = broadcast
-    const currentVideoId = videoIdFromUrl(player.getVideoUrl())
-
     if (currentVideoId !== targetVideoId) {
       player.cueVideoById(
         targetVideoId,
