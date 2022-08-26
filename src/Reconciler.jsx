@@ -1,13 +1,11 @@
 // @flow
 
 import * as React from "react"
-import { useEffect } from "react"
 import type { Player } from "./youtube/player"
 import { State as PlayerState } from "./youtube/player"
 import { videoIdFromUrl } from "./youtube/videoId"
 import type { Broadcast } from "./Broadcast"
 import { useModel } from "./lib/useModel"
-import { broadcastString } from "./Broadcast"
 import { GAP_SECONDS } from "./Channel"
 import type { PlayerStateCode } from "./youtube/player.jsx"
 
@@ -22,7 +20,6 @@ type Props = {|
 
 export function Reconciler(props: Props): React.Node {
   const { broadcast, player } = props
-  useEffect(reconcile, [broadcastString(broadcast)])
   useModel((observer) => {
     player.addEventListener("onStateChange", observer)
     // we need to return a non-nullish value here, or an additional
@@ -31,6 +28,7 @@ export function Reconciler(props: Props): React.Node {
     return true
   })
 
+  reconcile()
   function reconcile() {
     const currentState = player.getPlayerState()
     if (broadcast.type === "nothing") {
