@@ -5,8 +5,8 @@ let nonce = 0
 export function useModel<T>(constructor: (() => mixed) => T): T {
   const modelRef = useRef()
   const [, setNonce] = useState(0)
-  if (modelRef.current != null) return modelRef.current
+  if (modelRef.current) return modelRef.current.instance
   const instance = constructor(() => setNonce(++nonce))
-  modelRef.current = instance
+  modelRef.current = { instance }
   return instance
 }

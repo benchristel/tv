@@ -23,10 +23,6 @@ export function Reconciler(props: Props): React.Node {
   const currentState = player.getPlayerState()
   useModel((observer) => {
     player.addEventListener("onStateChange", observer)
-    // we need to return a non-nullish value here, or an additional
-    // onStateChange callback will get registered on every re-render, causing
-    // performance to degrade exponentially.
-    return true
   })
 
   reconcile()
