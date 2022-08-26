@@ -1,21 +1,16 @@
 // @flow
 import * as React from "react"
-import { useRef, useEffect, useState } from "react"
-import { YouTubePlayer, State as PlayerState } from "./youtube/player"
-import type { Player } from "./youtube/player"
+import { useState } from "react"
+import { State as PlayerState } from "./youtube/player"
 import { useInterval } from "./lib/useInterval"
 import { useLatch } from "./lib/useLatch"
-import { Reconciler } from "./Reconciler.jsx"
-import type { Broadcast } from "./Broadcast"
-import { createChannel } from "./Channel"
-import type { Channel } from "./Channel"
 import { PlayerStateView } from "./PlayerStateView.jsx"
 import { ChannelView } from "./ChannelView.jsx"
-import type { PlayerStateCode } from "./youtube/player.jsx"
-import { State } from "./youtube/player.jsx"
 import { channels } from "./data/channels"
 import { useNow } from "./lib/useNow"
 import { nothing } from "./Broadcast"
+import { reconcile } from "./reconcile.js"
+import { useYouTubePlayer } from "./useYouTubePlayer"
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
@@ -24,26 +19,21 @@ export function App(): React.Node {
   const broadcast = userRequestedPlayback
     ? channel.getBroadcast(now)
     : nothing()
+  const player = useYouTubePlayer("player-container")
+  const playerState = player.getPlayerState()
+  const hideVideo = playerState !== PlayerState.PLAYING
+  reconcile(broadcast, player)
+
   return (
     <Layout
       screen={
         <>
-          <PlayerAssembly
-            broadcast={broadcast}
-            channel={channel}
-            playerContainerId="player-container"
-          >
-            {(playerState, hideVideo) => (
-              <>
-                <div id="player-container" />
-                {hideVideo && (
-                  <div className="black-screen">
-                    <PlayerStateView code={playerState} channel={channel} />
-                  </div>
-                )}
-              </>
-            )}
-          </PlayerAssembly>
+          <div id="player-container" />
+          {hideVideo && (
+            <div className="black-screen">
+              <PlayerStateView code={playerState} channel={channel} />
+            </div>
+          )}
           {!userRequestedPlayback && (
             <PlayButtonOverlay onClick={setUserRequestedPlayback} />
           )}
@@ -81,22 +71,5 @@ function PlayButtonOverlay(props: {| onClick: () => mixed |}): React.Node {
     <button id="start" onClick={props.onClick}>
       ▸ Play
     </button>
-  )
-}
-
-function PlayerAssembly(props: {|
-  broadcast: Broadcast,
-  channel: Channel,
-  playerContainerId: string,
-  children: (PlayerStateCode) => React.Node,
-|}): React.Node {
-  return (
-    <YouTubePlayer id={props.playerContainerId}>
-      {(player) => (
-        <Reconciler broadcast={props.broadcast} player={player}>
-          {props.children}
-        </Reconciler>
-      )}
-    </YouTubePlayer>
   )
 }

@@ -1,30 +1,14 @@
 // @flow
 
-import * as React from "react"
-import type { Player } from "./youtube/player"
+import type { Player, PlayerStateCode } from "./youtube/player"
 import { State as PlayerState } from "./youtube/player"
 import { videoIdFromUrl } from "./youtube/videoId"
 import type { Broadcast } from "./Broadcast"
-import { useModel } from "./lib/useModel"
 import { GAP_SECONDS } from "./Channel"
-import type { PlayerStateCode } from "./youtube/player.jsx"
 
-type Props = {|
-  player: Player,
-  broadcast: Broadcast,
-  children: (
-    playerStateCode: PlayerStateCode,
-    hideVideo: boolean
-  ) => React.Node,
-|}
-
-export function Reconciler(props: Props): React.Node {
-  const { broadcast, player } = props
+export function reconcile(broadcast: Broadcast, player: Player): void {
   const currentState = player.getPlayerState()
   const currentVideoId = videoIdFromUrl(player.getVideoUrl())
-  useModel((rerender) => {
-    player.addEventListener("onStateChange", rerender)
-  })
 
   if (broadcast.type === "nothing") {
     switch (currentState) {
@@ -63,8 +47,6 @@ export function Reconciler(props: Props): React.Node {
       player.seekTo(targetTime)
     }
   }
-
-  return props.children(currentState, currentState !== PlayerState.PLAYING)
 }
 
 function delta(a, b) {

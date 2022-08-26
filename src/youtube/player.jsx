@@ -15,7 +15,7 @@ export interface Player {
   removeEventListener(string, () => mixed): mixed;
 }
 
-function nullPlayer(): Player {
+export function nullPlayer(): Player {
   return {
     getPlayerState() {
       return State.UNSTARTED
@@ -48,21 +48,7 @@ export const State = {
   CUED: 5,
 }
 
-export function YouTubePlayer(props: Props): React.Node {
-  const { id } = props
-  const [loaded, setLoaded] = useState(false)
-  const playerRef = useRef<?Player>(null)
-  useEffect(() => {
-    createYouTubePlayer(id).then((player) => {
-      playerRef.current = player
-      setLoaded(true)
-    })
-  }, [id])
-
-  return props.children(playerRef.current ?? nullPlayer())
-}
-
-async function createYouTubePlayer(elementId: string): Promise<Player> {
+export async function createYouTubePlayer(elementId: string): Promise<Player> {
   const yt = await loadYouTubePlayerAPI()
   return new Promise((resolve) => {
     const player = new yt.Player(elementId, {
