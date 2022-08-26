@@ -35,11 +35,10 @@ export function Reconciler(props: Props): React.Node {
           if (videoIdFromUrl(player.getVideoUrl()) !== broadcast.nextVideoId) {
             console.log("gap; next up is", broadcast.nextVideoId, currentState)
             player.cueVideoById(broadcast.nextVideoId, 0)
-            player.playVideo()
           } else {
             player.seekTo(0)
-            player.playVideo()
           }
+          player.playVideo()
       }
       return
     }
