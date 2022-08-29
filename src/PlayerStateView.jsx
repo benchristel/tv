@@ -10,7 +10,7 @@ type Props = {|
   channel: Channel,
 |}
 
-function stateString(code: PlayerStateCode) {
+export function stateString(code: PlayerStateCode): string {
   switch (code) {
     case PlayerState.BUFFERING:
       return "buffering"

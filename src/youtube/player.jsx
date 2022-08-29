@@ -11,6 +11,7 @@ export interface Player {
   cueVideoById(string, time: number): void;
   playVideo(): void;
   seekTo(time: number): void;
+  getDuration(): number;
   addEventListener(string, () => mixed): mixed;
   removeEventListener(string, () => mixed): mixed;
 }
@@ -29,6 +30,9 @@ export function nullPlayer(): Player {
     cueVideoById() {},
     playVideo() {},
     seekTo() {},
+    getDuration() {
+      return 0
+    },
     addEventListener() {},
     removeEventListener() {},
   }

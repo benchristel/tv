@@ -63,7 +63,7 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
   }
 
   function getBroadcast(time) {
-    const seconds = Math.floor(time / 1000)
+    const seconds = time / 1000
     const secondsOfDay = (seconds - 8 * 3600) % (24 * 3600)
     const dayBoundary = seconds - secondsOfDay
     const schedule = getSchedule(String(dayBoundary))

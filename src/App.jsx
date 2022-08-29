@@ -11,9 +11,11 @@ import { useNow } from "./lib/useNow"
 import { nothing } from "./Broadcast"
 import { reconcile } from "./reconcile.js"
 import { useYouTubePlayer } from "./useYouTubePlayer"
+import { VideoInfo } from "./VideoInfo.jsx"
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
+  const [infoPaneOpen, setInfoPaneOpen] = useState(false)
   const [channel, setChannel] = useState(channels[0])
   const now = useNow()
   const broadcast = userRequestedPlayback
@@ -27,25 +29,43 @@ export function App(): React.Node {
   return (
     <Layout
       screen={
-        <>
-          <div id="player-container" />
-          {hideVideo && (
-            <div className="black-screen">
-              <PlayerStateView code={playerState} channel={channel} />
-            </div>
-          )}
-          {!userRequestedPlayback && (
-            <PlayButtonOverlay onClick={setUserRequestedPlayback} />
-          )}
-        </>
+        <div className={infoPaneOpen ? "info-pane-open" : ""}>
+          <div className="player-assembly">
+            <div id="player-container" />
+            {hideVideo && (
+              <div className="black-screen">
+                <PlayerStateView code={playerState} channel={channel} />
+              </div>
+            )}
+            {!userRequestedPlayback && (
+              <PlayButtonOverlay onClick={setUserRequestedPlayback} />
+            )}
+          </div>
+          <div className="info-pane">
+            <VideoInfo player={player} broadcast={broadcast} />
+          </div>
+        </div>
       }
       controlPanel={
-        <ChannelView
-          onChannelSelected={(ch) => {
-            setChannel(ch)
-            setUserRequestedPlayback()
-          }}
-        />
+        <>
+          <ChannelView
+            onChannelSelected={(ch) => {
+              setChannel(ch)
+              setUserRequestedPlayback()
+            }}
+          />
+          <button
+            style={{ flexAlign: "end" }}
+            className={
+              infoPaneOpen
+                ? "info-button info-button-info-pane-open"
+                : "info-button"
+            }
+            onClick={() => setInfoPaneOpen(!infoPaneOpen)}
+          >
+            Info
+          </button>
+        </>
       }
     />
   )
