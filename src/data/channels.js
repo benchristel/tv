@@ -12,7 +12,6 @@ export const channels: Array<Channel> = [
   createChannel("Channel 1", channel1Videos.map(singleVideoEpisode)),
   createChannel("Channel 2", channel2Videos.map(singleVideoEpisode)),
   createChannel("Channel 3", albums),
-  createChannel("debug", debuggingVideos.map(singleVideoEpisode)),
 ]
 
 function singleVideoEpisode(v: Video): Episode {
