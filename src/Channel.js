@@ -17,6 +17,7 @@ type Schedule = Array<
   | {|
       type: "video",
       videoId: string,
+      videoTitle: string,
       durationSeconds: number,
     |}
   | {| type: "nothing", nextVideoId: string, durationSeconds: number |}
@@ -26,6 +27,7 @@ export const GAP_SECONDS = 2
 
 export function createChannel(name: string, episodes: Array<Episode>): Channel {
   const getSchedule = cache(1, (seed) => {
+    console.debug("seed", seed)
     const rng = mulberry32(cyrb128_32(seed))
     let totalDuration = 0
     let schedule: Schedule = []
@@ -41,6 +43,7 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
         schedule.push({
           type: "video",
           videoId: video.videoId,
+          videoTitle: video.title,
           durationSeconds: video.durationSeconds,
         })
         totalDuration += video.durationSeconds
@@ -52,6 +55,7 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
         totalDuration += GAP_SECONDS
       }
     }
+    console.debug("channel " + name, schedule)
     return schedule
   })
 
