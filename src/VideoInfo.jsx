@@ -50,18 +50,18 @@ export function VideoInfo(props: {|
                 : "-"}
             </td>
           </tr>
-          <p>
-            Seconds behind schedule:{" "}
-            {broadcast.type === "video"
-              ? (broadcast.currentTime - player.getCurrentTime()).toFixed(2)
-              : "-"}
-          </p>
-          <p>
-            Time remaining in video:{" "}
-            {(player.getDuration() - player.getCurrentTime()).toFixed(2)}
-          </p>
         </tbody>
       </table>
+      <p>
+        Seconds behind schedule:{" "}
+        {broadcast.type === "video"
+          ? (broadcast.currentTime - player.getCurrentTime()).toFixed(2)
+          : "-"}
+      </p>
+      <p>
+        Time remaining in video:{" "}
+        {(player.getDuration() - player.getCurrentTime()).toFixed(2)}
+      </p>
     </>
   )
 }

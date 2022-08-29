@@ -12,6 +12,7 @@ import { nothing } from "./Broadcast"
 import { reconcile } from "./reconcile.js"
 import { useYouTubePlayer } from "./useYouTubePlayer"
 import { VideoInfo } from "./VideoInfo.jsx"
+import { debuggingDecorator } from "./youtube/player.jsx"
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
@@ -21,7 +22,7 @@ export function App(): React.Node {
   const broadcast = userRequestedPlayback
     ? channel.getBroadcast(now)
     : nothing()
-  const player = useYouTubePlayer("player-container")
+  const player = debuggingDecorator(useYouTubePlayer("player-container"))
   const playerState = player.getPlayerState()
   const hideVideo = playerState !== PlayerState.PLAYING
   reconcile(broadcast, player)

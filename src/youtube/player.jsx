@@ -1,4 +1,8 @@
 // @flow
+import { debugTimestamp } from "../lib/time"
+
+import { videoIdFromUrl } from "./videoId"
+
 import * as React from "react"
 import { useEffect, useRef, useState } from "react"
 
@@ -12,7 +16,7 @@ export interface Player {
   playVideo(): void;
   seekTo(time: number): void;
   getDuration(): number;
-  addEventListener(string, () => mixed): mixed;
+  addEventListener(string, ({ data: PlayerStateCode }) => mixed): mixed;
   removeEventListener(string, () => mixed): mixed;
 }
 
@@ -35,6 +39,48 @@ export function nullPlayer(): Player {
     },
     addEventListener() {},
     removeEventListener() {},
+  }
+}
+
+export function debuggingDecorator(wrapped: Player): Player {
+  return {
+    getPlayerState() {
+      return wrapped.getPlayerState()
+    },
+    getCurrentTime() {
+      return wrapped.getCurrentTime()
+    },
+    getVideoUrl() {
+      return wrapped.getVideoUrl()
+    },
+    cueVideoById(...args) {
+      console.debug(debugTimestamp(), "player.cueVideoById", ...args)
+      return wrapped.cueVideoById(...args)
+    },
+    playVideo(...args) {
+      console.debug(debugTimestamp(), "player.playVideo", ...args)
+      return wrapped.playVideo(...args)
+    },
+    seekTo(...args) {
+      console.debug(
+        debugTimestamp(),
+        "player.seekTo",
+        ...args,
+        videoIdFromUrl(wrapped.getVideoUrl())
+      )
+      return wrapped.seekTo(...args)
+    },
+    getDuration() {
+      return wrapped.getDuration()
+    },
+    addEventListener(...args) {
+      console.debug(debugTimestamp(), "player.addEventListener")
+      return wrapped.addEventListener(...args)
+    },
+    removeEventListener(...args) {
+      console.debug(debugTimestamp(), "player.removeEventListener")
+      return wrapped.removeEventListener(...args)
+    },
   }
 }
 
