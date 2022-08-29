@@ -55,7 +55,6 @@ export function App(): React.Node {
             }}
           />
           <button
-            style={{ flexAlign: "end" }}
             className={
               infoPaneOpen
                 ? "info-button info-button-info-pane-open"
