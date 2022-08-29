@@ -22,6 +22,16 @@ export function VideoInfo(props: {|
       </p>
       <hr />
       <h2>Video Info</h2>
+      <p>
+        Now playing:{" "}
+        {broadcast.type === "video" ? (
+          <a href={"https://youtube.com/watch?v=" + broadcast.videoId}>
+            {broadcast.videoTitle}
+          </a>
+        ) : (
+          "-"
+        )}
+      </p>
       <table>
         <thead>
           <tr>

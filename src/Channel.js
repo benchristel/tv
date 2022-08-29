@@ -80,6 +80,7 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
           return {
             type: "video",
             videoId: segment.videoId,
+            videoTitle: segment.videoTitle,
             currentTime:
               segment.durationSeconds - (totalDuration - secondsOfDay),
           }
