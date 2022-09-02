@@ -3272,7 +3272,8 @@ QOs8wj13KtM 3:43 Stadstuinieren - Peterselie kweken
 TEk4W8nGZxk 3:04 Stadstuinieren - Plantenvoeding maken van bananenschillen
 ZNCLazWortw 5:43 Stadstuinieren - Moestuinplanning maken
 Y9W4BvVkyIs 3:59 Stadstuinieren - Zonnebloemen zaaien
-O-mp3lcvT2w 4:02 Stadstuinieren - Tips Sla kweken
+# Removed - wrong aspect ratio
+# O-mp3lcvT2w 4:02 Stadstuinieren - Tips Sla kweken
 7pA4pkBxK0k 5:15 Stadstuinieren - Tomaten zaaien
 wKM6xq8mBNY 3:01 Stadstuinieren - Recept Andijviestamppot uit eigen tuin
 i8GE9UKFchA 3:23 Stadstuinieren - Limonade van Tijmsiroop
