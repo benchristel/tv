@@ -72,7 +72,13 @@ export function VideoInfo(props: {|
       </p>
       <hr />
       <h2>Video Info</h2>
-      <p>
+      <p
+        style={{
+          whiteSpace: "nowrap",
+          overflow: "hidden",
+          textOverflow: "ellipsis",
+        }}
+      >
         Now playing:{" "}
         {vm.videoLink ? (
           <a href={vm.videoLink.href}>{vm.videoLink.text}</a>
