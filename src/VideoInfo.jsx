@@ -2,6 +2,7 @@
 import type { Broadcast } from "./Broadcast"
 import type { Player } from "./youtube/player.jsx"
 import { stateString } from "./PlayerStateView.jsx"
+import { hoursMinutesSeconds } from "./lib/time"
 import { videoIdFromUrl } from "./youtube/videoId"
 import * as React from "react"
 
@@ -53,10 +54,10 @@ export function VideoInfo(props: {|
           </tr>
           <tr>
             <th scope="row">current time</th>
-            <td>{player.getCurrentTime()?.toFixed(2)}</td>
+            <td>{hoursMinutesSeconds(player.getCurrentTime() || NaN, 2)}</td>
             <td>
               {broadcast.type === "video"
-                ? broadcast.currentTime.toFixed(2)
+                ? hoursMinutesSeconds(broadcast.currentTime, 2)
                 : "-"}
             </td>
           </tr>
@@ -70,7 +71,7 @@ export function VideoInfo(props: {|
       </p>
       <p>
         Time remaining in video:{" "}
-        {(player.getDuration() - player.getCurrentTime()).toFixed(2)}
+        {hoursMinutesSeconds(player.getDuration() - player.getCurrentTime(), 2)}
       </p>
     </>
   )
