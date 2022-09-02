@@ -4830,6 +4830,76 @@ mJYrc6oya7c 14:38 Conlang Critic: Iqglic
 JICvHFl7W6o 15:35 Conlang Critic: Quenya
 ZiN-1Z5O9Hc 15:56 Conlang Critic: High Valyrian
 
+# Building a Medieval Castle
+
+ydoRAbpWfCU 58:51 Can We Build A Castle With Medieval Tools? | Secrets Of The Castle | Timeline
+_VHgw6epe14 58:25 How To Defend A Medieval Castle | Secrets Of The Castle | Timeline
+GZmpn3nn2qE 58:50 The Architectural Secrets Of The Medieval Castle | Secrets Of The Castle | Timeline
+s46qP1l39V8 57:53 Why Were Medieval Blacksmiths Considered Magical? | Secrets Of The Castle | Timeline
+EAruY1lv6N4 58:49 How To Build A Medieval French Château | Secrets Of The Castle | Timeline
+q7bE--NVBGY 3:25 Behind the scenes: Secrets of the Castle with Ruth, Peter and Tom - BBC Two
+
+# Primitive Technology
+
+OPIUMpiV0IY 10:09 Primitive Technology: Making Iron From Sand
+TMzo9zjkuHc 10:03 Primitive Technology: Rock Throwing Catapult (Trebuchet)
+dhW4XFGQB4o 11:35 Primitive Technology: Iron knife made from bacteria
+fR9u2oLHFN8 7:49 Primitive Technology: Improved Multi-Blade Blower
+eesj3pJF3lA 13:14 Primitive Technology: Wood Ash Cement & Fired Brick Hut
+ShvAN9bLwnw 9:15 Primitive Technology: Brick kiln, brick mold and bricks
+0tZLCCLMws4 10:15 Primitive Technology: Thatched Workshop
+rG6nzrksbPQ 5:20 Primitive Technology: Pot Made of Wood Ash - New Clay Alternative
+wrTDJbaxhOI 10:02 Primitive Technology: Brick Firing Kiln
+-cgQUrdBoaM 17:52 Primitive Technology: 4 years of primitive technology
+hzz36cvo88U 6:30 Primitive Technology: Adobe wall (dry stacked)
+YmFTK-rnzfk 10:32 Primitive Technology: Hut burned down, built new one
+RnvtXikwrIU 10:06 Primitive Technology: Crossdraft kiln
+lMZY_9QNe4I 7:21 Primitive Technology: Polynesian Arrowroot Flour
+FwRFH7MH5N0 10:38 Primitive Technology: Fired Clay Bricks
+Ka2Eu6LxAKo 10:05 Primitive Technology: Grass thatch, Mud hut
+1Ph_ORewpE0 6:48 Primitive Technology: Stone Yam planters
+U7nqBgklf9E 10:04 Primitive Technology: Pit and chimney furnace
+DyGLE0usN_I 10:05 Primitive Technology: Iron prills
+DP0t2MmOMEA 3:54 Primitive Technology: Wood Ash Cement
+J8MLpv_utfM 7:18 Primitive Technology: Yam, cultivate and cook
+JgQ-07VgJuY 10:31 Primitive Technology: Blower and charcoal
+vAuO3bHxSpc 10:34 Primitive Technology: Round hut
+Ek3aeUhHaFY 7:08 Primitive Technology: Lime
+_7985zBEM3o 9:05 Primitive Technology: A-frame hut
+_YDuLCIzbN4 10:06 Primitive Technology: Pottery and Stove
+qQTVuRrZO8w 8:19 Primitive Technology: New area starting from scratch
+u7wAJTGl2gc 5:46 Primitive Technology: Natural Draft Furnace
+D59v74k5flU 10:47 Primitive Technology: Mud Bricks
+c2ExwOAjLNw 9:16 Primitive Technology: Simplified blower and furnace experiments
+i-WYT2UotIc 5:48 Primitive Technology: Sandals
+SjK2XlNE39Q 10:06 Primitive Technology: Reusable charcoal mound
+i9TdoO2OVaA 8:51 Primitive Technology: Water powered hammer (Monjolo)
+uZGFTmK6Yk4 11:27 Primitive Technology: Termite clay kiln & pottery
+aZ4KNMnTsIs 6:27 Primitive Technology: Planting Cassava and Yams
+_ZXUCQc2Z78 6:48 Primitive Technology: Bed Shed
+e5nfrehyWDM 7:16 Primitive Technology: Freshwater Prawn Trap
+rrlr02YDr5A 4:28 Primitive Technology: Spear Thrower
+q9AoGc-OTCk 11:32 Primitive Technology: Barrel Tiled Shed
+VVV4xeWBIxE 4:32 Primitive Technology: Forge Blower
+qEUGOyjewD4 4:17 Primitive Technology: Grass hut
+TTcXhYHmOx8 6:26 Primitive Technology: Sweet potato patch
+ey68uVUuyvs 4:48 Primitive Technology: Woven bark fiber
+SLoukoBs8TE 5:54 Primitive Technology: Bow and Arrow
+GzLvqCTvOQY 5:31 Primitive Technology: Charcoal
+ZEl-Y1NvBVI 8:24 Primitive Technology: Cord drill and Pump drill
+kiHojsMTBeA 8:21 Primitive Technology: Baskets and stone hatchet
+RzDMCVdPwnE 8:16 Primitive Technology: Sling
+mL3sho1CpkI 6:39 Primitive Technology: Chimney and pots
+P73REgj-3UE 14:09 Primitive Technology: Tiled Roof Hut
+KzMfeQyY5xM 5:46 Primitive Technology: Palm Thatched Mud Hut
+ZajpkwDeEYg 4:21 Primitive Technology: Wood shed and Native bee honey
+-JcWY0rjePU 4:31 Primitive Technology: Stone Adze
+eVvQnsKuOcE 4:51 Primitive Technology: Making poisonous Black bean safe to eat (Moreton Bay Chestnut)
+BN-34JfUrHY 4:23 Primitive Technology: Stone Axe (celt)
+z9n9rqb-lvY 4:28 Primitive Technology: Firesticks
+Uwtu_DARM9I 4:24 Primitive Technology: Thatched Dome Hut
+nCKkHqlx9dE 11:14 Primitive Technology: Wattle and Daub Hut
+
 `)
 
 export const channel2Videos: Array<Video> = parseVideos(`
