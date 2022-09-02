@@ -194,6 +194,22 @@ export const albums: Array<Episode> = map(
     _-h_khKeJB0 4:27 Endlessly, She Said
   `,
   `bnaTLcFpQnE 45:45 Manu Chao - Clandestino (Full Album)`,
+  `tIGW_TEwCXw 46:50 #TheBeatles #AbbeyRoad #1969`,
+  `
+    # The Beatles - Magical Mystery Tour
+    l8WMGBuNaus 2:51 Magical Mystery Tour (Remastered 2009)
+    wsRatIMUSu8 3:00 The Fool On The Hill (Remastered 2009)
+    Z1ONJQLdZrk 2:16 Flying (Remastered 2009)
+    Coz0TmK2ZIg 4:00 The Beatles - Blue Jay Way
+    tCXsFjzMKdc 2:29 Your Mother Should Know (Remastered 2009)
+    t1Jm5epJr10 4:36 I Am The Walrus (Remastered 2009)
+    rblYSKz_VnI 3:29 The Beatles - Hello, Goodbye
+    HtUH9z_Oey8 4:24 The Beatles - Strawberry Fields Forever
+    S-rB0pHI9fU 3:07 The Beatles - Penny Lane
+    i5m-sgtwFck 3:02 Baby, You're A Rich Man (Remastered 2009)
+    1A8sOOKianA 3:51 All You Need Is Love (Remastered 2009)
+  `,
+  `08ozElWwpzc 35:28 Nektar - Remember The Future 1973 - Full Album - Digitally Remastered 2002`,
 ])
 
 test("pipe", {
