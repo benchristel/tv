@@ -6,11 +6,60 @@ import { hoursMinutesSeconds } from "./lib/time"
 import { videoIdFromUrl } from "./youtube/videoId"
 import * as React from "react"
 
+type VideoInfoViewModel = {|
+  videoLink: ?Link,
+  actual: TableColumn,
+  scheduled: TableColumn,
+  secondsBehindSchedule: string,
+  timeRemainingInVideo: string,
+|}
+
+type Link = {|
+  href: string,
+  text: string,
+|}
+
+type TableColumn = {|
+  video: string,
+  playerState: string,
+  currentTime: string,
+|}
+
+function viewModel({ broadcast, player }): VideoInfoViewModel {
+  const hms = (seconds) => hoursMinutesSeconds(seconds, 2)
+
+  return {
+    videoLink:
+      broadcast.type === "video"
+        ? {
+            text: broadcast.videoTitle,
+            href: "https://youtube.com/watch?v=" + broadcast.videoId,
+          }
+        : null,
+    actual: {
+      video: videoIdFromUrl(player.getVideoUrl()) ?? "",
+      playerState: stateString(player.getPlayerState()),
+      currentTime: hms(player.getCurrentTime() || NaN),
+    },
+    scheduled: {
+      video: broadcast.type === "video" ? broadcast.videoId : "-",
+      playerState: broadcast.type,
+      currentTime:
+        broadcast.type === "video" ? hms(broadcast.currentTime) : "-",
+    },
+    secondsBehindSchedule:
+      broadcast.type === "video"
+        ? (broadcast.currentTime - player.getCurrentTime()).toFixed(2)
+        : "-",
+    timeRemainingInVideo: hms(player.getDuration() - player.getCurrentTime()),
+  }
+}
+
 export function VideoInfo(props: {|
   broadcast: Broadcast,
   player: Player,
 |}): React.Node {
-  const { player, broadcast } = props
+  const vm = viewModel(props)
   return (
     <>
       <h1>Culture Machine</h1>
@@ -25,10 +74,8 @@ export function VideoInfo(props: {|
       <h2>Video Info</h2>
       <p>
         Now playing:{" "}
-        {broadcast.type === "video" ? (
-          <a href={"https://youtube.com/watch?v=" + broadcast.videoId}>
-            {broadcast.videoTitle}
-          </a>
+        {vm.videoLink ? (
+          <a href={vm.videoLink.href}>{vm.videoLink.text}</a>
         ) : (
           "-"
         )}
@@ -44,35 +91,23 @@ export function VideoInfo(props: {|
         <tbody>
           <tr>
             <th scope="row">video</th>
-            <td>{videoIdFromUrl(player.getVideoUrl())}</td>
-            <td>{broadcast.type === "video" ? broadcast.videoId : "-"}</td>
+            <td>{vm.actual.video}</td>
+            <td>{vm.scheduled.video}</td>
           </tr>
           <tr>
             <th scope="row">player state</th>
-            <td>{stateString(player.getPlayerState())}</td>
-            <td>{broadcast.type}</td>
+            <td>{vm.actual.playerState}</td>
+            <td>{vm.scheduled.playerState}</td>
           </tr>
           <tr>
             <th scope="row">current time</th>
-            <td>{hoursMinutesSeconds(player.getCurrentTime() || NaN, 2)}</td>
-            <td>
-              {broadcast.type === "video"
-                ? hoursMinutesSeconds(broadcast.currentTime, 2)
-                : "-"}
-            </td>
+            <td>{vm.actual.currentTime}</td>
+            <td>{vm.scheduled.currentTime}</td>
           </tr>
         </tbody>
       </table>
-      <p>
-        Seconds behind schedule:{" "}
-        {broadcast.type === "video"
-          ? (broadcast.currentTime - player.getCurrentTime()).toFixed(2)
-          : "-"}
-      </p>
-      <p>
-        Time remaining in video:{" "}
-        {hoursMinutesSeconds(player.getDuration() - player.getCurrentTime(), 2)}
-      </p>
+      <p>Seconds behind schedule: {vm.secondsBehindSchedule}</p>
+      <p>Time remaining in video: {vm.timeRemainingInVideo}</p>
     </>
   )
 }
