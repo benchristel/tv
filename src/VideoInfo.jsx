@@ -58,10 +58,15 @@ function viewModel({ broadcast, player }): VideoInfoViewModel {
 export function VideoInfo(props: {|
   broadcast: Broadcast,
   player: Player,
+  onClose: () => mixed,
 |}): React.Node {
-  const vm = viewModel(props)
+  const { broadcast, player, onClose } = props
+  const vm = viewModel({ broadcast, player })
   return (
     <>
+      <button class="close-button" onClick={onClose}>
+        close
+      </button>
       <h1>Culture Machine</h1>
       <p>
         Mainly tended by{" "}

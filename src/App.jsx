@@ -43,8 +43,17 @@ export function App(): React.Node {
             )}
           </div>
           <div className="info-pane">
-            <VideoInfo player={player} broadcast={broadcast} />
+            <VideoInfo
+              player={player}
+              broadcast={broadcast}
+              onClose={() => setInfoPaneOpen(false)}
+            />
           </div>
+          <div
+            className="info-pane-close-overlay"
+            aria-hidden={true}
+            onClick={() => setInfoPaneOpen(false)}
+          />
         </div>
       }
       controlPanel={

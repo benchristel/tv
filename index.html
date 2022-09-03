@@ -15,6 +15,9 @@
         background: white;
         color: black;
         font-family: Arial, Helvetica, sans-serif;
+
+        /* variables */
+        --info-pane-width: 74%;
       }
 
       a {
@@ -22,6 +25,10 @@
       }
       a:visited {
         color: #d8f;
+      }
+
+      button {
+        cursor: pointer;
       }
 
       .App {
@@ -45,7 +52,6 @@
         bottom: 0;
         width: 100%;
         display: block;
-        cursor: pointer;
         background: transparent;
         border: none;
         color: #fff;
@@ -111,7 +117,7 @@
         position: absolute;
         top: 10px;
         left: 10px;
-        right: 26%;
+        right: calc(100% - var(--info-pane-width));
         bottom: 10px;
         background: #151111;
         border: 1px solid #555;
@@ -136,6 +142,33 @@
 
       .info-pane-open > .info-pane {
         display: block;
+      }
+
+      .info-pane .close-button {
+        position: absolute;
+        top: 16px;
+        right: 16px;
+        background: transparent;
+        border: 1px solid #fff4;
+        border-radius: 0;
+        padding: 2px 8px;
+        font-size: 11px;
+        text-transform: uppercase;
+        color: #fff;
+      }
+
+      .info-pane-close-overlay {
+        display: none;
+      }
+
+      .info-pane-open > .info-pane-close-overlay {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        left: var(--info-pane-width);
+        bottom: 0;
+        cursor: pointer;
       }
 
       .controls button.info-button-info-pane-open {
@@ -164,7 +197,6 @@
         border-top: 1px solid #404040;
         box-shadow: 0 1px 1px #000;
         padding: 4px 12px 3px;
-        cursor: pointer;
       }
 
       .controls button:first-child {
