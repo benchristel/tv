@@ -34,25 +34,21 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
     while (totalDuration < 24 * 3600) {
       const episode = pick(episodes, rng())
 
-      for (let i = 0; i < episode.videos.length; i++) {
-        const prev = schedule[schedule.length - 1]
-        const video = episode.videos[i]
-        if (prev?.type === "nothing") {
-          prev.nextVideoId = video.videoId
-        }
-        schedule.push({
-          type: "video",
-          videoId: video.videoId,
-          videoTitle: video.title,
-          durationSeconds: video.durationSeconds,
-        })
-        totalDuration += video.durationSeconds
-        schedule.push({
-          type: "nothing",
-          durationSeconds: GAP_SECONDS,
-          nextVideoId: "",
-        })
-        totalDuration += GAP_SECONDS
+      for (const video of episode.videos) {
+        schedule.push(
+          {
+            type: "nothing",
+            durationSeconds: GAP_SECONDS,
+            nextVideoId: video.videoId,
+          },
+          {
+            type: "video",
+            videoId: video.videoId,
+            videoTitle: video.title,
+            durationSeconds: video.durationSeconds,
+          }
+        )
+        totalDuration += video.durationSeconds + GAP_SECONDS
       }
     }
     console.debug("channel " + name, schedule)
