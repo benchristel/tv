@@ -1,5 +1,6 @@
 // @flow
 import type { Broadcast } from "./Broadcast"
+import type { PlayerStatus } from "./PlayerStatus"
 import type { Player } from "./youtube/player.jsx"
 import { stateString } from "./PlayerStateView.jsx"
 import { hoursMinutesSeconds } from "./lib/time"
@@ -37,9 +38,9 @@ function viewModel({ broadcast, player }): VideoInfoViewModel {
           }
         : null,
     actual: {
-      video: videoIdFromUrl(player.getVideoUrl()) ?? "",
-      playerState: stateString(player.getPlayerState()),
-      currentTime: hms(player.getCurrentTime() || NaN),
+      video: player.videoId ?? "",
+      playerState: stateString(player.state),
+      currentTime: player.time != null ? hms(player.time) : "-",
     },
     scheduled: {
       video: broadcast.type === "video" ? broadcast.videoId : "-",
@@ -48,16 +49,19 @@ function viewModel({ broadcast, player }): VideoInfoViewModel {
         broadcast.type === "video" ? hms(broadcast.currentTime) : "-",
     },
     secondsBehindSchedule:
-      broadcast.type === "video"
-        ? (broadcast.currentTime - player.getCurrentTime()).toFixed(2)
+      broadcast.type === "video" && player.time != null
+        ? (broadcast.currentTime - player.time).toFixed(2)
         : "-",
-    timeRemainingInVideo: hms(player.getDuration() - player.getCurrentTime()),
+    timeRemainingInVideo:
+      player.duration != null && player.time != null
+        ? hms(player.duration - player.time)
+        : "-",
   }
 }
 
 export function VideoInfo(props: {|
   broadcast: Broadcast,
-  player: Player,
+  player: PlayerStatus,
   onClose: () => mixed,
 |}): React.Node {
   const { broadcast, player, onClose } = props

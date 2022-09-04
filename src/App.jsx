@@ -13,6 +13,8 @@ import { reconcile } from "./reconcile.js"
 import { useYouTubePlayer } from "./useYouTubePlayer"
 import { VideoInfo } from "./VideoInfo.jsx"
 import { debuggingDecorator } from "./youtube/player.jsx"
+import { PlayerCommander } from "./PlayerCommander.jsx"
+import { status } from "./PlayerStatus.js"
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
@@ -23,12 +25,14 @@ export function App(): React.Node {
     ? channel.getBroadcast(now)
     : nothing()
   const player = debuggingDecorator(useYouTubePlayer("player-container"))
-  const playerState = player.getPlayerState()
+  const playerStatus = status(player)
+  const playerState = playerStatus.state
   const hideVideo = playerState !== PlayerState.PLAYING
-  reconcile(broadcast, player)
+  const playerCommands = reconcile(broadcast, playerStatus)
 
   return (
     <Layout
+      effects={<PlayerCommander commands={playerCommands} player={player} />}
       screen={
         <div className={infoPaneOpen ? "info-pane-open" : ""}>
           <div className="player-assembly">
@@ -44,7 +48,7 @@ export function App(): React.Node {
           </div>
           <div className="info-pane">
             <VideoInfo
-              player={player}
+              player={playerStatus}
               broadcast={broadcast}
               onClose={() => setInfoPaneOpen(false)}
             />
@@ -83,6 +87,7 @@ export function App(): React.Node {
 function Layout(props: {|
   screen: React.Node,
   controlPanel: React.Node,
+  effects: React.Node,
 |}): React.Node {
   return (
     <div className="App">
@@ -90,6 +95,7 @@ function Layout(props: {|
         <div className="screen">{props.screen}</div>
         <div style={{ height: "12px" }} />
         <div className="controls">{props.controlPanel}</div>
+        {props.effects}
       </div>
     </div>
   )
