@@ -210,6 +210,69 @@ export const albums: Array<Episode> = map(
     1A8sOOKianA 3:51 All You Need Is Love (Remastered 2009)
   `,
   `08ozElWwpzc 35:28 Nektar - Remember The Future 1973 - Full Album - Digitally Remastered 2002`,
+  `
+    # Shira Kammen - The Almanac
+    DTAoc_dWJ9A 3:29 The Oar Wheel
+    JMIJBSdlIPU 2:50 The Wheel of the Year
+    YFG4FI_iiyo 5:47 Mirie it is
+    ogvhq_2REAE 3:36 May Carol
+    Es4CIDHX08k 4:01 The Leaves Be Green
+    VHKbd1pAnF8 2:55 Nou Springeth the Sprai
+    _vKWHe1K8oA 5:06 Lenten Is Come
+    bYCIw_45XvU 2:39 Ce Moys de May
+    YQaC5LJQvLQ 7:41 Le Lai de la Rose
+    azWbuKYKOBI 2:04 June Apple
+    AIaRJbAHnkw 3:25 Nou Welcome Somer
+    zaug2a-IzvU 5:31 A Globo Veteeri
+    ZCJy_1krAPQ 3:00 O Western Wind
+    dQbGkMjPCiw 2:31 The False Fox
+    PcVe-kmMlqY 3:56 Ilkley Moor
+    XaJVkZqFYMg 3:26 John Barleycorn
+    wIn8FPXKFwU 3:59 Green Grows the Holly
+    0ixjT5v-Gi8 2:31 Quant Je Vois Yver Retorner
+    s6jr1veNfVM 1:53 The Almanac
+  `,
+  `
+    # Fay Hield - Looking Glass
+    3y4H9h9xssg 5:58 The Huntsman
+    5WfTVBCkIuM 2:29 Mad Family
+    HYaFn80m7_M 3:52 Two Brothers
+    4UEQPNgP72c 3:20 The Looking Glass
+    jmU1I19MxfE 3:42 Little Yellow Roses
+    8LsIxYcvAMM 2:37 The Banks of the Nile
+    gARUodDInyo 7:26 Kemp Owen
+    RZaKqFz3yOQ 3:57 Sheepcrook and Black Dog
+    X02tXD9YiN0 4:02 Grey Goose and Gander
+    mE4ZD2NengI 2:41 The Shepherd's Daughter
+    FAernSjceMs 2:35 King Henry
+  `,
+  `
+    # Pink Floyd - The Dark Side of the Moon
+    HW-lXjOyUWo 1:08 Speak To Me
+    Vddl9TK5RqU 2:50 Breathe (In The Air)
+    2sUyk5zSbhM 3:46 On The Run
+    Qr0-7Ds79zo 6:57 Pink Floyd – Time (Official Audio)
+    mPGv8L3a_sY 4:45 The Great Gig In The Sky
+    -0kcet4aPpQ 4:44 Pink Floyd - Money (Official Music Video)
+    GKiLEgAzFDQ 7:50 Us And Them
+    _83urK9rO4U 3:27 Any Colour You Like
+    BhYKN21olBw 3:47 Brain Damage
+    9wjZrswriz0 2:13 Eclipse
+  `,
+  `
+    # Pink Floyd - The Division Bell
+    hoEDw18mkbU 5:57 Cluster One
+    KmlZ1WhlYsM 4:22 What Do You Want From Me
+    5ciWB7VykII 7:04 Poles Apart
+    8EHHUiRuJAk 5:30 Marooned
+    01F1leQgsEc 4:18 A Great Day For Freedom
+    aRAfpefISk4 6:51 Pink Floyd - Wearing The Inside Out (360 Reality Audio / Official Audio)
+    Y5rde4bRIZA 5:03 Pink Floyd - Take It Back (Official Music Video HD)
+    04LrDEQZmD0 6:20 Pink Floyd - Coming Back To Life (360 Reality Audio / Official Audio)
+    wbOTkDn49qI 6:12 Pink Floyd - Keep Talking (Official Lyrics Video)
+    FKROYzWRiQ0 5:14 Lost For Words
+    7jMlFXouPk8 7:49 Pink Floyd - High Hopes (Official Music Video HD)
+  `,
 ])
 
 test("pipe", {

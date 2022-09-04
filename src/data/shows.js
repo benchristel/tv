@@ -1079,7 +1079,7 @@ PeJfgBCs21U 4:13 Terence McKenna - A Message Of Feeling
 Hye5MxihJVE 7:12 Terence McKenna - Extraterrestrial Mushrooms
 fvRMjcH77iU 0:41 Best McKenna Snippet Ever
 SB52qYDgGwQ 1:19 Terence McKenna Has His Cake and Eats It Too
-yijwlGeOlOM 3:04 Jordan Peterson - The Pathway to Redemption
+# # yijwlGeOlOM 3:04 Jordan Peterson - The Pathway to Redemption
 6YNl7Eaikf0 3:32 Terence McKenna - Reaping The Fruits Of Sowing The Fields Of Mind
 Cbbl5xNa-pQ 8:07 Terence McKenna - Play The Game Of Life With A Full Deck
 bZkES0bOw0U 2:14 Terence McKenna - Faith In Progress
@@ -1136,7 +1136,7 @@ iXbDfIEbVUE 6:48 We Plants Are Happy Plants - Scepter Of Power
 11U8-mDleZM 3:42 Terence McKenna - The World Is Magic
 G3xUd6e06T0 6:19 Terence McKenna - We Are Language
 Tbx5vHePL-4 2:15 Terence McKenna - Why Are Boys In Charge Of Everything?
-M3i4Zcld30g 3:01 Jordan Peterson - Just People Putting Their Lives Together
+# M3i4Zcld30g 3:01 Jordan Peterson - Just People Putting Their Lives Together
 K2zn8Ouwcmw 3:20 Terence McKenna - Is Man Good?
 UH3P5XzTNQE 2:29 Terence McKenna - The Hunt
 s0xn03i9DRA 4:42 Terence McKenna - Virtual Reality
@@ -1149,7 +1149,7 @@ iPzRme85KIQ 8:16 Albania Roadtrip
 zLcZLfF8eH8 5:16 The Mushroom Hunter - Paul Stamets
 qRfH0LocDUU 5:13 Terence McKenna On Taoism
 gk_nhjzvN8k 1:01 Terence McKenna - You Must Humble Yourself
-LNJ8jfz9Nm4 2:21 Jordan Peterson - Conservatives And Liberals
+# LNJ8jfz9Nm4 2:21 Jordan Peterson - Conservatives And Liberals
 ONvyz1AThLc 4:02 Terence McKenna - Electronic Tribalism
 uJjR3aUhsOk 26:30 Terence McKenna - Self Transforming Elf Machines
 sH43VpDkERc 1:01 Terence McKenna - Meeting With My Publisher
@@ -1159,7 +1159,7 @@ W0kNgji6kzM 1:37 Terence McKenna - Culture Is A Flight From Reality
 -kB-Vrrjjyo 18:33 How To Save The World - Terence McKenna
 X7ghslwtrJc 9:32 Terence McKenna - Ideology Has Poisoned The Last Thousand Years
 0BXZst265Es 6:02 Book Review
-V3ADKHMwSoI 1:25 Jordan Peterson Explains Consciousness
+# V3ADKHMwSoI 1:25 Jordan Peterson Explains Consciousness
 EhR-Qm0mc-s 7:02 Terence McKenna Explains Everything
 DGISua0YrEU 4:55 Terence McKenna - Private Miracles And Channeling
 oN93Lbh_uPg 4:22 Terence McKenna - Communities Fragmented And Suspicious Of Each Other
@@ -1177,7 +1177,7 @@ lAFJEKnWwiU 14:02 Terence McKenna - Thoughts About Death
 Lvv8HhTw0D8 3:01 Men Are The Creation Of Choices Made By Women - Terence McKenna
 AJdqvnUEE-k 1:46 Anxiety Is Inappropriate - Terence McKenna
 3CvkTDyMOx0 0:29 When The Moment Comes - Terence McKenna
-Ecyo5NOCi54 6:32 Jordan Peterson Easter Message
+# Ecyo5NOCi54 6:32 Jordan Peterson Easter Message
 ipqUz7EwjZs 3:22 Terence McKenna - Check Your Beliefs
 0iOCeQBVyIA 9:36 Terence McKenna - All About Mushrooms
 k7eJOKAPZxo 6:00 We Plants Are Happy Plants - Not Waiting For Anything (Variation On A Theme)
@@ -1200,16 +1200,16 @@ kLLUHioKKdE 6:10 We Plants Are Happy Plants - Beyond The Beyond
 DpqUn_szhhU 4:37 Terence McKenna - San Francisco State Strikes 1968
 66LFkWyCmuU 2:31 John C. Lilly - Go With The Indeterminate Flow
 iRNTd-dS0vo 1:37 John C. Lilly - Creativity Is Uncertain
-tdu6iN0CM3s 4:36 Jordan Peterson - Don't Strive For Happiness
+# tdu6iN0CM3s 4:36 Jordan Peterson - Don't Strive For Happiness
 DenxHRuaZ50 10:00 The Best Terence McKenna Quotes Of All Time
-tnGI8aADZro 3:38 Jordan Peterson - Food Of The Gods (The Mystical Experience)
+# tnGI8aADZro 3:38 Jordan Peterson - Food Of The Gods (The Mystical Experience)
 wqfpSAf1Y6o 2:08 Terence McKenna - Who Knows The Answer?
 EmzppDaX0_o 3:41 Take Nature As A Teacher - Terence McKenna
 olvVeDDqv2w 3:51 How Weird People Shall Be Allowed To Be? - Terence McKenna
 FJonUTXopBY 1:14 JBP Drinking Coke
 w8M7t-gbwCk 14:22 We Plants Are Happy Plants Live At Toldi (2017)
 NQS7ziJ02l8 3:13 Go Forward Into The Shamanic Domain Of The Spirit - Terence McKenna
-kO93SAHrd1E 4:01 How Jordan Peterson And His Wife Make Their Marriage Work
+# kO93SAHrd1E 4:01 How Jordan Peterson And His Wife Make Their Marriage Work
 ziy-Tuv_vmM 2:09 You Can Beat On The Truth With Ball-Peen Hammers And It Will Do Just Fine Thank You
 9CuH0AVAy3s 1:25 Terence McKenna - Sci-Fi Plot Idea
 treb7g9nNOE 1:26 Terence McKenna - My Political Stance
@@ -1223,7 +1223,7 @@ A8mVUPySzLI 9:02 We Plants Are Happy Plants - 9
 U6Iglfuyu5s 5:23 The Parable Of The Match Bearer
 BhgZXzqOubc 1:24 Terence McKenna MasterClass Trailer
 cTgGvPiVwic 4:47 We Plants Are Happy Plants - Downstream
-0jQY5E4NUvc 2:12 Jordan Peterson - Jump Straight Up (Remix)
+# 0jQY5E4NUvc 2:12 Jordan Peterson - Jump Straight Up (Remix)
 AWHj7Ilaz8E 1:01 A Good Examination Of Conscience - Terence McKenna
 hjsl3CzYuY0 2:05 The Reality Of The Transcendent - Terence McKenna
 k8Luyrezxfo 3:31 Apocalypse - Terence McKenna
@@ -1252,7 +1252,7 @@ FdXNHgmS9H8 4:01 Seth Speaks - The Validity Of Your Being
 T9fg20CcltE 1:56 Terence McKenna - Rome Falls Nine Times An Hour
 KT981LRibP8 5:08 Terence McKenna - Strange Things At La Chorrera
 3R8FDHu7AqY 4:41 Terence McKenna - A Weird Experience
-dYMz_UArCAo 1:41 Rats Are So Afraid Of Cats - Jordan Peterson (Remix 2)
+# dYMz_UArCAo 1:41 Rats Are So Afraid Of Cats - Jordan Peterson (Remix 2)
 ysvWrqLpTM8 3:15 Terence McKenna - Let's Create A New World
 W6gaFOtZI5w 3:19 IMAGINATRIX - Terence McKenna
 APqkta_1OYY 1:45 Terence McKenna - Something Is Going On In This Species
@@ -1273,24 +1273,24 @@ ePO5jbLF2NY 4:58 Terence McKenna Debunks Crop Circles In Under 5 Minutes
 3r7V3oRYLJI 6:37 Terence McKenna - Plain Talk
 UYV7uPLVNXY 2:39 Terence McKenna - I Was Flaming And It Took Me Years And Years To Dial It Down (True Hallucinations)
 WeL83yuTVao 0:51 Terence McKenna - We Look Like Everybody Else
-CuiPzPV6nw0 1:08 Jordan Peterson as Jerry Seinfeld
+# CuiPzPV6nw0 1:08 Jordan Peterson as Jerry Seinfeld
 BCMTi9AU_5Q 8:09 Terence McKenna - Growing Up
 dOy7v44WE2o 2:14 Terence McKenna - Curiosity
 i4sB3agikXI 3:50 Terence McKenna - Transformation Of Man Into A Galaxy-Roving Bodhisattva
 54JA1AHqnI8 1:10 We Have To Awaken To Our Past - Terence McKenna
 L3b-FB_2-nk 7:24 We Plants Are Happy Plants - Not Waiting For Anything
 wieYC04FAcw 1:06 Terence McKenna - Show!
-bg5mE5yp-5g 3:04 Jordan Peterson - Plan Your Future
+# bg5mE5yp-5g 3:04 Jordan Peterson - Plan Your Future
 EpZzkNBqOJQ 2:47 Terence McKenna - Anarchy And Social Responsibility
-qDSeL8wSN20 6:10 Jordan Peterson - I Suffer Therefore I Am
-uJBgj8U3lw0 4:34 Jordan Peterson - Psychedelics
+# qDSeL8wSN20 6:10 Jordan Peterson - I Suffer Therefore I Am
+# uJBgj8U3lw0 4:34 Jordan Peterson - Psychedelics
 WVGPoAofey8 1:01 Terence McKenna - You Can Give It A Theme
 cQvd8a1Z6vo 5:15 Terence McKenna - Evolution Of Language
-pUqBbOzBZ5Y 2:19 Jordan Peterson - Rats Are So Afraid Of Cats (Remix)
+# pUqBbOzBZ5Y 2:19 Jordan Peterson - Rats Are So Afraid Of Cats (Remix)
 Q2IJ9ZTLfY0 6:46 Terence McKenna - Transition
-9apmGBM-hiI 1:49 Jordan Peterson - Stories And Myths
+# 9apmGBM-hiI 1:49 Jordan Peterson - Stories And Myths
 _VlJCtPAmbg 3:58 Terence McKenna - Lisbon Interlude
-MdsVC_qR4t0 5:34 Jordan Peterson - Nihilism, Totalitarianism, and The Divine Individual
+# MdsVC_qR4t0 5:34 Jordan Peterson - Nihilism, Totalitarianism, and The Divine Individual
 Oiog0RHir8A 2:34 Trigger - Ralph Abraham, Terence McKenna
 i3S2ftdAHdw 0:56 Was Terence McKenna CIA?
 0FRrjqSm0vo 1:31 Religion - Terence McKenna
@@ -4899,6 +4899,30 @@ BN-34JfUrHY 4:23 Primitive Technology: Stone Axe (celt)
 z9n9rqb-lvY 4:28 Primitive Technology: Firesticks
 Uwtu_DARM9I 4:24 Primitive Technology: Thatched Dome Hut
 nCKkHqlx9dE 11:14 Primitive Technology: Wattle and Daub Hut
+
+# The Future of Places
+
+7daz8EqKQJI 1:48 Future of Places Conference Attendee Interviews 2013 - Introduction
+uPx-zyE3d2w 7:14 Mohamed Aleh - Future of Places Interview 2013
+v8Gu7GJe0fE 3:40 Raimond Blasi - Future of Places Interview 2013
+fSXdHvO0gc0 4:39 Rich Bradley - Future of Places Interview 2013
+krHq8COtvwE 7:49 Celine d'Cruz - Future of Places Interview 2013
+CxOlmr7zecw 17:37 Andres Duany - Future of Places Conference Interview 2013
+iQjJv14exlE 1:42 Ricardo Fernandez Future of Places Interview 2013
+FCrI1IzTfNg 4:18 Harrison Fraker - Future of Places Interview 2013
+9pJJ9zB7NLw 5:25 Tigran Haas - Future of Places Conference Interview 2013
+Icde1E5FGbo 6:24 Elahe Karimnia Future of Places Interview 2013
+-xL8ZJ5f72s 1:41 Ethan Kent - Future of Places Interview 2013
+cxVu3KTFBJw 9:29 Fred Kent - Future of Places Interview 2013
+m7irhrAIcRM 7:21 Christopher Leinberger - Future of Places Interview 2013
+chtQ5N3dK2I 10:57 Iury Lima - Future of Places Interview 2013
+uH2PfFvKHJM 5:34 Helene Littke Future of Places Interview 2013
+3Eyc3alCIkQ 2:04 Ryan Locke - Future Of Places Interview 2013
+lR4CpKCwhlg 15:48 Ali Madanipour - Future of Places Conference Interview 2013
+KGyPOt57rVY 6:00 Thomas Melin - Future of Places Interview 2013
+EeO9BtmawTI 6:43 Paul Murrain - The Future of Places Interview 2013
+RyYR9bLBxdY 7:23 Patrice Todisco - Future of Places Interview 2013
+v8Dti6dGHFs 5:15 Urban Think Tank - Future of Places Interview 2013
 
 `)
 
