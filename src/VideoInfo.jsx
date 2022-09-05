@@ -73,8 +73,7 @@ export function VideoInfo(props: {|
       </button>
       <h1>Culture Machine</h1>
       <p>
-        Mainly tended by{" "}
-        <a href="https://github.com/benchristel">Ben Christel</a>.{" "}
+        Made by <a href="https://github.com/benchristel">Ben Christel</a>.{" "}
         <a href="https://github.com/benchristel/tv">Source code here</a>. Some
         rights reserved. See the{" "}
         <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">license</a>.
