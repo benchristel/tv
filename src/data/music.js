@@ -153,7 +153,7 @@ export const albums: Array<Episode> = map(
     KRMT5xQg7SY 2:48 Clear Or Cloudy
     WMCC8IzFSl8 4:13 In Darkness Let Me Dwell
   `,
-  `Jt_iggp316Q 39:34 Genesis Nursery Cryme Full Remastered Album 1971`,
+  `jGZaH0JEiic 39:33 Genesis - Nursery Cryme (Full Album) 1971`,
   `E-jS4e3zacI 53:37 Genesis - Selling England By The Pound (Full Album Remastered)`,
   `
     # Genesis - Trespass

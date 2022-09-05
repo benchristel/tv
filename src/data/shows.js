@@ -1364,7 +1364,7 @@ OkkZZV73ZUM 45:25 We Plants Are Happy Plants - Any Day Now (Full Album)
 bLggYY_Ibmk 4:33 Terence McKenna - Tension Over Values
 dHFC1BB2gOU 4:06 Terence McKenna And The Howling Tao
 7cexhOG4UZY 5:25 Terence McKenna Reads Hermetic Lore
-YOG1L7ZMjs0 3:15 We Plants Are Happy Plants - Tipsiness And Rapture
+# YOG1L7ZMjs0 3:15 We Plants Are Happy Plants - Tipsiness And Rapture
 cBKK7Nvk1ZA 1:45 Terence McKenna - Keep The Faith
 vO95PjQk0pQ 1:04 Terence McKenna - Up And Out
 7MztB_TQLaI 1:16:33 We Plants Are Happy Plants - Time Is A Landscape (Full Album)
@@ -4923,6 +4923,9 @@ KGyPOt57rVY 6:00 Thomas Melin - Future of Places Interview 2013
 EeO9BtmawTI 6:43 Paul Murrain - The Future of Places Interview 2013
 RyYR9bLBxdY 7:23 Patrice Todisco - Future of Places Interview 2013
 v8Dti6dGHFs 5:15 Urban Think Tank - Future of Places Interview 2013
+
+# Peter Blanchette
+Cl2-pDsMkrw 1:48:52 Watermelon Wednesday 2015 - Peter Blanchette and Friends
 
 `)
 
