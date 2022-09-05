@@ -8,7 +8,7 @@ console.log(
         /v=(.{11})/.exec(window.location)?.[1],
         document.querySelector(".ytp-time-duration").innerText.trim(),
         document
-          .querySelector(".ytd-video-primary-info-renderer")
+          .querySelector(".title .ytd-video-primary-info-renderer")
           .innerText.split("\n")[0]
           .trim(),
       ].join(" ")
