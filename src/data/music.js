@@ -273,6 +273,55 @@ export const albums: Array<Episode> = map(
     FKROYzWRiQ0 5:14 Lost For Words
     7jMlFXouPk8 7:49 Pink Floyd - High Hopes (Official Music Video HD)
   `,
+  `
+    # Baltimore Consort - La Rocque and Roll
+    0Tly_wgC858 2:05 J'ai vu le loup
+    KNFgW6GLo1o 2:21 Has tu point veu
+    dtf_YWfYixM 0:50 Branle double
+    8nslzpv9Z14 0:55 Branle de Montirande
+    ueAwkZncUec 1:31 Branle de la torche
+    5F-YGQiyudI 3:40 Mignonne, allons voir si la rose
+    GPlyhDy2dng 4:06 Frais et gaillard
+    EBC9ldiS2oM 3:24 Une m'avoit promis
+    raQ_x-HTGKU 2:02 Volte
+    fFQx3FsnQUw 5:37 Mes pas semez
+    D15w88oaHd8 0:36 Gaillarde d'escosse
+    wj4Tjcd_LC4 1:17 Laroque Gaillarde
+    I_T8q6SQHPo 1:28 Alemande de Liege
+    f1rqBTVgflU 2:33 Ma bergere, ma lumiere
+    JUg1PlpLofI 4:44 Estans assis aux rives aquatiques
+    qrb6taaO2Ao 1:02 Prelude
+    UU20OsnHbOY 2:27 Tant que vivray
+    b-2_D_e0BTg 3:04 Ung gay bergere
+    OJsz1rh74KM 4:04 O Madame, per-je mon tems
+    vN2WSIo769o 4:16 J'ay le rebours
+    HQZ-mEHw86M 3:56 Branles du village
+    PmaF46f5O_c 4:32 Une jeune fillette
+    LeGJ3C3rzpE 5:48 Une jeune fillette
+    UZqz379ldDE 1:07 Fantasie sur Une jeune fillette: Une jeune fillette
+    w432eO-7G0U 4:46 Une nimphe jolie
+    wRMw1g9CdOM 5:48 Jean de Nivelle
+  `,
+  `
+    # Calliope - A Renaissance Revel
+    j0YJZDPjrdg 1:33 Early 17th Century Dances from Terpsichore: Galliarde (1)
+    gorgo1rIQXo 2:11 Early 17th Century Dances from Terpsichore: Three Voltas
+    if7D7Xp30sE 1:12 Early 17th Century Dances from Terpsichore: Galliarde (2)
+    VeW2586FkQY 1:55 Early 17th Century Dances from Terpsichore: Galliarde Diminutions
+    _4vd6Lg7iyU 2:23 Early 17th Century Dances from Terpsichore: Ballet Des Anglois
+    Skc8lWOBh0c 1:22 Early 17th Century Dances from Terpsichore: Bransle De La Royne
+    4KoJoH9Y9Nk 5:54 Basse Dance "La Brosse"
+    wU2tdhdqtpY 2:38 Henry VIII of England (1491-1547) : Taunder Naken
+    tMF_AZm1L1A 2:33 La Spagna: Francisco De La Torre (1483-1504)
+    _pkN_3UsuXM 1:45 La Spagna: Guglielmo Ebreo Da Pesaro (c.1425-1480?)
+    c5eXownBIec 1:26 La Spagna: Heinrich Isaac (c.1450-1517?)
+    uyNxtVHkiqE 1:16 Sixteenth Century French Dances: Two Galliardes
+    OiFCVA26l7o 2:04 Sixteenth Century French Dances: Pavane
+    j--LBE7rCbs 2:09 Sixteenth Century French Dances: Basse Dance "Au Pres De Vous"
+    hdIr96z7iTY 2:50 Sixteenth Century French Dances: Three Bransles Gay
+    rn7ryGcOm4Y 3:15 Sixteenth Century French Dances: Bransle Simple
+    G-rdQRx5AIE 5:35 Sixteenth Century French Dances: L'Homme Arme
+  `,
 ])
 
 test("pipe", {
