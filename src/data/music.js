@@ -182,7 +182,7 @@ export const albums: Array<Episode> = map(
     # AFI - Decemberunderground
     d0Gsyr_0PpA 1:35 Prelude 12/21
     NdwM8yRAm2I 2:40 Kill Caustic
-    YU4hhNKsPog 5:04 AFI - Miss Murder (Official Music Video) (Long Version)
+    jMxU2ToSunY 3:23 AFI - Miss Murder (Official Music Video) (Short Version)
     vEVabFtMNow 3:07 Summer Shudder
     imGlDkZXrUU 4:17 The Interview
     rsrEXwozK-Y 2:48 AFI - Love Like Winter (Official Music Video)
