@@ -718,7 +718,7 @@ LNtA8nhhh3M 35:41 The Hertzsprung-Russell Diagram
 
 
 // Scifi Ambience
-export const channel6Videos: Array<Video> = parseVideos(`
+export const channel5Videos: Array<Video> = parseVideos(`
 IoOsnVFOgpM 1:00:00 Derelict Ship | Sci-fi ASMR Ambience | 1 Hour
 2b_d1EylEvQ 2:00:00 Space Ship Suite | Ambience | 2 hours
 7BABfeQa83A 2:00:00 Space Hangar | Port Ambience | 2 hours
@@ -751,7 +751,7 @@ k3fz6CC45ok 1:52:42 Vangelis - Blade Runner Soundtrack (Remastered 2017)
 7aDpCIDYDc8 1:06:23 Songs for Dead Planets
 `)
 
-export const channel7Videos: Array<Video> = parseVideos(`
+export const channel6Videos: Array<Video> = parseVideos(`
 CePcXyN5JrM 46:58 【ENG SUB】The LAUGHING IN THE WIND EP01 | The magic swords of ling
 ju2VqMQyLAc 46:14 【ENG SUB】The LAUGHING IN THE WIND EP02 | The magic swords of ling
 Jlcm0GDKHdU 46:21 【ENG SUB】The LAUGHING IN THE WIND EP03 | The magic swords of ling
