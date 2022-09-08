@@ -8,6 +8,7 @@ import { mulberry32 } from "./lib/random"
 import type { Broadcast } from "./Broadcast"
 import type { Episode } from "./data/types"
 import { equals, expect, test } from "@benchristel/taste"
+import { binarySearch } from "./lib/binarySearch"
 
 export interface Channel {
   getBroadcast(time: number): Broadcast;
@@ -19,9 +20,9 @@ type Schedule = Array<
       type: "video",
       videoId: string,
       videoTitle: string,
-      durationSeconds: number,
+      startAt: number,
     |}
-  | {| type: "nothing", nextVideoId: string, durationSeconds: number |}
+  | {| type: "nothing", nextVideoId: string, startAt: number |}
 >
 
 export const GAP_SECONDS = 2
@@ -41,28 +42,21 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
     const secondsOfDay = (seconds - 8 * 3600) % (24 * 3600)
     const dayBoundary = seconds - secondsOfDay
     const schedule = getSchedule(String(dayBoundary))
-    let totalDuration = 0
-    let segment
-    for (segment of schedule) {
-      totalDuration += segment.durationSeconds
-      if (totalDuration >= secondsOfDay) {
-        if (segment.type === "video") {
-          return {
-            type: "video",
-            videoId: segment.videoId,
-            videoTitle: segment.videoTitle,
-            currentTime:
-              segment.durationSeconds - (totalDuration - secondsOfDay),
-          }
-        } else {
-          return {
-            type: "nothing",
-            nextVideoId: segment.nextVideoId,
-          }
-        }
+    const segment = binarySearch(schedule, (seg) => seg.startAt <= secondsOfDay)
+    if (segment == null) return {type: "nothing", nextVideoId: ""}
+    if (segment.type === "video") {
+      return {
+        type: "video",
+        videoId: segment.videoId,
+        videoTitle: segment.videoTitle,
+        currentTime: secondsOfDay - segment.startAt,
+      }
+    } else {
+      return {
+        type: "nothing",
+        nextVideoId: segment.nextVideoId,
       }
     }
-    return { type: "nothing", nextVideoId: "" }
   }
 }
 
@@ -77,14 +71,14 @@ const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
       schedule.push(
         {
           type: "nothing",
-          durationSeconds: GAP_SECONDS,
+          startAt: totalDuration,
           nextVideoId: video.videoId,
         },
         {
           type: "video",
           videoId: video.videoId,
           videoTitle: video.title,
-          durationSeconds: video.durationSeconds,
+          startAt: totalDuration + GAP_SECONDS,
         }
       )
       totalDuration += video.durationSeconds + GAP_SECONDS
@@ -114,12 +108,12 @@ test("ScheduleGenerator", {
     ]
     const generator = ScheduleGenerator(episodes)
     expect(generator(""), equals, [
-      { type: "nothing", durationSeconds: 2, nextVideoId: "the-video-id" },
+      { type: "nothing", startAt: 0, nextVideoId: "the-video-id" },
       {
         type: "video",
         videoId: "the-video-id",
         videoTitle: "the-title",
-        durationSeconds: 86400,
+        startAt: 2,
       },
     ])
   },
@@ -138,19 +132,19 @@ test("ScheduleGenerator", {
     ]
     const generator = ScheduleGenerator(episodes)
     expect(generator(""), equals, [
-      { type: "nothing", durationSeconds: 2, nextVideoId: "the-video-id" },
+      { type: "nothing", startAt: 0, nextVideoId: "the-video-id" },
       {
         type: "video",
         videoId: "the-video-id",
         videoTitle: "the-title",
-        durationSeconds: 43200,
+        startAt: 2,
       },
-      { type: "nothing", durationSeconds: 2, nextVideoId: "the-video-id" },
+      { type: "nothing", startAt: 43202, nextVideoId: "the-video-id" },
       {
         type: "video",
         videoId: "the-video-id",
         videoTitle: "the-title",
-        durationSeconds: 43200,
+        startAt: 43204,
       },
     ])
   },
