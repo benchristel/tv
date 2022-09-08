@@ -42,19 +42,24 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
     const secondsOfDay = (seconds - 8 * 3600) % (24 * 3600)
     const dayBoundary = seconds - secondsOfDay
     const schedule = getSchedule(String(dayBoundary))
-    const segment = binarySearch(schedule, (seg) => seg.startAt <= secondsOfDay)
-    if (segment == null) return {type: "nothing", nextVideoId: ""}
-    if (segment.type === "video") {
+    const timeslot = binarySearch(
+      schedule,
+      (slot) => slot.startAt <= secondsOfDay
+    )
+
+    if (timeslot == null) return { type: "nothing", nextVideoId: "" }
+
+    if (timeslot.type === "video") {
       return {
         type: "video",
-        videoId: segment.videoId,
-        videoTitle: segment.videoTitle,
-        currentTime: secondsOfDay - segment.startAt,
+        videoId: timeslot.videoId,
+        videoTitle: timeslot.videoTitle,
+        currentTime: secondsOfDay - timeslot.startAt,
       }
     } else {
       return {
         type: "nothing",
-        nextVideoId: segment.nextVideoId,
+        nextVideoId: timeslot.nextVideoId,
       }
     }
   }
