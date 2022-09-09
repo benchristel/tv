@@ -17,7 +17,7 @@ The solution? Curate a set of videos that have some chance of being delightful o
 - See below for how to run a dev environment.
 - Run the JavaScript snippets in `src/data/scrape.js` on YouTube pages to gather lists of videos.
 - Edit the lists of videos in `src/data/shows.js` and `src/data/music.js`.
-- Edit the set of channels in `src/data/channels.js`. Each channel is initialized with an array of `Episode`s, each of which has a list of videos. The videos of an episode always play in sequence, which is how Channel 3 (the music channel) shuffles by album, not by song.
+- Edit the set of channels in `src/data/channels.js`. Each channel is initialized with an array of `Episode`s, each of which has a list of videos. The videos of an episode always play in sequence, but the episodes play in a random order. This is how Channel 3 (the music channel) shuffles by album, not by song. A day's program of `Episode`s resets at 24 hours, allowing for the last episode to finish.
 
 ## Development
 
