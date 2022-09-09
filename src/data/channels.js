@@ -21,7 +21,7 @@ export const channels: Array<Channel> = [
   createChannel("Channel 3", albums),
   createChannel("Channel 4", channel4Videos.map(singleVideoEpisode)),
   createChannel("Channel 5", channel5Videos.map(singleVideoEpisode)),
-  createLoopingChannel("Channel 6", channel6Videos.map(singleVideoEpisode)),
+  createLoopingChannel("Channel 6", channel6Videos),
 ]
 
 function singleVideoEpisode(v: Video): Episode {
