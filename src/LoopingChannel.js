@@ -4,7 +4,7 @@ import type { Channel } from "./Channel"
 import type { Episode } from "./data/types"
 
 import { GAP_SECONDS } from "./Channel"
-import { equals, expect, is, test, debug } from "@benchristel/taste"
+import { equals, expect, is, test } from "@benchristel/taste"
 
 function gap(nextVideoId) {
   return {
