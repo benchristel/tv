@@ -12,6 +12,7 @@ function gap(nextVideoId) {
     nextVideoId,
   }
 }
+
 export function createLoopingChannel(
   name: string,
   episodes: Array<Episode>
@@ -21,15 +22,25 @@ export function createLoopingChannel(
       const clockTime = currentMillis / 1000
       let videoDurationSoFar = 0
 
+      const totalScheduleDuration =
+        episodes
+          .map((e) => e.videos)
+          .flatMap((videos) => videos.map((v) => v.durationSeconds))
+          .reduce(add, 0) +
+        episodes.length * GAP_SECONDS // FIXME test duration of episodes with multiple videos
+
+      const runtime = clockTime % totalScheduleDuration
+
       for (const episode of episodes) {
         const { videoId, title, durationSeconds } = episode.videos[0]
-        if (videoDurationSoFar + GAP_SECONDS > clockTime) return gap(videoId)
+
+        if (videoDurationSoFar + GAP_SECONDS > runtime) return gap(videoId)
         videoDurationSoFar += GAP_SECONDS
 
-        if (videoDurationSoFar + durationSeconds > clockTime) {
+        if (videoDurationSoFar + durationSeconds > runtime) {
           return {
             type: "video",
-            currentTime: clockTime - videoDurationSoFar,
+            currentTime: runtime - videoDurationSoFar,
             videoId: videoId,
             videoTitle: title,
           }
@@ -38,14 +49,41 @@ export function createLoopingChannel(
         videoDurationSoFar += durationSeconds
       }
 
-      console.log("fooo")
+      console.log("GAP---------------GAP")
       return gap("")
     },
     getName: () => name,
   }
 }
 
+const add = (a, b) => a + b
+
 test("looping channel", {
+  "plays the first episode after the second"() {
+    const channel = createLoopingChannel("Jonathan", [
+      {
+        videos: [
+          { videoId: "first", title: "The First", durationSeconds: 100 },
+        ],
+      },
+      {
+        videos: [
+          { videoId: "second", title: "The Second", durationSeconds: 100 },
+        ],
+      },
+    ])
+
+    expect(
+      channel.getBroadcast(250 * 1000),
+      equals,
+      ({
+        videoId: "first",
+        videoTitle: "The First",
+        currentTime: 44,
+        type: "video",
+      }: Broadcast)
+    )
+  },
   "uses the provided name"() {
     const channel = createLoopingChannel("Jonathan", [])
     expect(channel.getName(), is, "Jonathan")
