@@ -2,12 +2,8 @@
 
 import type { Episode } from "./types"
 
+import { map, pipe } from "../lib/fns"
 import { parseVideos } from "./ingestion"
-import { expect, is, test } from "@benchristel/taste"
-
-const pipe: $ComposeReverse = ((...fns) => {
-  return fns.reduce(rcompose)
-}: any)
 
 export const albums: Array<Episode> = map(
   pipe(parseVideos, (v) => ({ videos: v }))
@@ -393,23 +389,3 @@ export const albums: Array<Episode> = map(
     ZzEjGlRkdFQ 4:55 Markahuasi - Tinku
   `,
 ])
-
-test("pipe", {
-  "given one function"() {
-    const inc = (x) => x + 1
-    expect(pipe(inc)(1), is, 2)
-  },
-
-  "given two functions"() {
-    const inc = (x) => x + 1
-    expect(pipe(inc, inc)(1), is, 3)
-  },
-})
-
-function rcompose<T, U, V>(f: (T) => U, g: (U) => V): (T) => V {
-  return (...args) => g(f(...args))
-}
-
-function map<T, U>(f: (T) => U): (Array<T>) => Array<U> {
-  return (array) => array.map(f)
-}

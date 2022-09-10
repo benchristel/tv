@@ -1,5 +1,6 @@
 // @flow
-import type { Video } from "./types"
+import type { Episode, Video } from "./types"
+import { map, pipe } from "../lib/fns"
 import { parseVideos } from "./ingestion"
 
 export const debuggingVideos: Array<Video> = parseVideos(`
@@ -5860,7 +5861,77 @@ v8Dti6dGHFs 5:15 Urban Think Tank - Future of Places Interview 2013
 # Peter Blanchette
 Cl2-pDsMkrw 1:48:52 Watermelon Wednesday 2015 - Peter Blanchette and Friends
 
+
+
 `)
+
+export const channel1Episodes: Array<Episode> = map(
+  pipe(parseVideos, (v) => ({ videos: v }))
+)([
+  `# Elif'in Hecesi
+
+    SUoqi6C8qkw 7:40 Perija and Friends - Kuzum Belo Edije ( a balkan gathering )
+    p_avIhRC5aI 4:48 Maddi - Come and Go ( The ballad of the butterfly )
+    Sq_kTDO97ao 3:06 Muharrem & Halil - Seni Şah'a Gider Derler
+    ICdF6F3Qg_c 7:29 Mohammad Oktay - Ruhani Aşık Havası
+    kLpBEkNpob0 6:51 Eren & Özgür - Yaman
+    zMSdG1wpz3s 4:44 Itamar Zakai - Pleasant
+  `,
+  `
+    zFa-n9uEcKI 8:34 All Related - Mountain Version (Nessi Gomes)
+    HgBeSQaCXDQ 3:23 Akira Takeguchi - Konil Tolkyny (Көңіл толқыны)
+    Oechuj3Mt7M 6:11 Perija - Sevda ( Tvojte ochi Leno mori )
+    lNrIc9DTFUg 3:41 Nevra Coşkun - Güzel Mevcûdiyetim
+    2X63S7FSWFs 7:23 Bacıyan - Sığmazam
+    2u_dV0-TDQ8 3:49 Adaya - No Countries
+    6CY6Z-8iQbM 7:09 Dunja & Tim - Welcome
+    ZTVXX9iblhE 9:09 Farshad Haghighi - Tanbour Magham
+  `,
+  `
+    7dcExfezgd0 3:43 Ayşe & Doğa - Kızılırmak
+    HLe-oRtYAEM 8:33 Pouriya Raisi - Huzûr
+    VXbGyJ6NQDI 10:23 Demircan & Macithan - Sığmazam
+    syCrQp1OVO8 6:55 Memduh Özdemir - Canânı İster Canımız
+    6Lys2SXUA5Q 10:53 A Gathering | Bir Buluşma: Doğruya Nazar Eyleriz
+  `,
+  `
+    iLZQuO_e3Hs 11:25 Demircan Demir - Bir Yol Senden Açık
+    tknEIHce5P8 4:39 Seda Seyrek Houbakht - Elif'in Hecesi
+    0evfXX417co 10:06 Volkan Örgün - Efendiler Bağı
+    _-dBFlwMnis 2:41 Georgi Ivanov Edrev - Karai Maicho
+    IdWqBbCkDpg 4:38 Ayşe Özaltın - Ha Babam Ha
+    dylcppL_yVQ 3:28 Süyümbike Güvenç - Tugan Avıl
+    sk-S9ZRuT7g 3:03 Serxas - Barana Payîz
+  `,
+  `
+    IsxCeTk5VXY 11:22 Hamed Habibpoor - Glare
+    cIMKJ43TFLs 14:15 Özgür Baba - Dertli Dolap
+    EE_5kmy8ZRc 3:13 Serkan Güven - Nihavend Gezinti
+    8iBofAFcdBk 2:35 Bilal Karaman - Neredesin Sen
+    YXbA8wzqyIQ 4:11 Aslı Büyükköksal - Güneş'le Birdirbir
+    uMWm7ADcvmE 3:31 Faridah Busemann - Dertli Dolap
+    Tal_1JmjI-Q 6:11 Yarden Cohen - Shaar Asher Nisgar
+    ti_jsP3BJ-g 5:36 Zainab Lax - Negaresh
+  `,
+  `
+    w-GJOnbpHRM 7:51 Burhan Alkhatib - Rumi I
+    lenZMY8ESQ0 3:51 Doğa Can Yaman - Meandering
+    pH-ElLzMY_E 5:04 Macithan Terzioğlu - Can Ellerinden Gelmişem
+    Di8qHpVJjeI 4:54 Amin Parvin - Shoghe Rahaee
+    d7pDgGR2dhY 8:11 Pouriya Raisi - Bi Zamani
+    mJ8S8qxG9xk 7:33 Memduh Özdemir - Bugün Seyre Çıkmış Hublar Sultanı
+    c9CfJyZxBug 7:11 Çağrı Akoğlu - Taft
+    lbDuhK9F-KM 4:37 Selen Hünerli - Aşık
+  `,
+  `
+    Udf1V3prIzU 7:14 Işık Işık - Kim Dervişlik İster İse
+    JYEXS7lflYI 4:16 Seda Seyrek Houbakht - Rodos Semahı
+    MECioY_N-94 4:24 Ali Naki Gündoğdu - Harabat Ehliyiz
+    gTCBu37MfaI 7:17 Macithan Terzioğlu - Pınarın Başında Destin Var İmiş
+    26vLRhm6bXc 3:21 Ertuğrul Küçükbayraktar - Çayın Öte Yüzünde
+    lzRCuT1dUH0 3:20 Nebî - Dem-i Nesimi
+  `,
+])
 
 export const channel2Videos: Array<Video> = parseVideos(`
 # Slow TV
