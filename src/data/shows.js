@@ -3836,6 +3836,16 @@ zYL_I2F93tU 1:40 The Night Shift
 
 # Townsends
 
+_FbwRSfedoE 9:07 Sewing Histories' Most Popular Garment - The Fabric Of History - Townsends
+oGA-NrSW6XU 1:02:05 Live In The Nutmeg Tavern!
+E2xJjgY9RDQ 41:31 Full Cabin Build - 4K Full Length - Townsends Wilderness Homestead
+4wzZi6AmDlI 59:11 Live In The Nutmeg Tavern!
+pcOy34qn4B4 8:07 No Cars, Just Boats - Travel 300 Years Ago
+7GuplGQ6ZhI 17:52 What is an Apple Dumpling? - 257 Year Old Recipe
+XnC4U9S_qjg 8:44 Our Favorite Fire Clips Compiled - Peaceful Music - Enjoy!
+ouAwIVABrSE 54:56 Oh, So Dated - Live In The Nutmeg Tavern!
+1QiWyqBdREU 27:31 Reacting to Antiquated Medical Practices! - Archaic Antidotes
+yzldWkxGt4k 59:00 The Book of Trades - Live In The Nutmeg Tavern!
 UUCuubcxkFc 13:08 Roofing in the Wilderness - Thatch - Townsends Wilderness Homestead
 jbEGABYnuIU 58:41 The Well Digger - Live In The Nutmeg Tavern!
 sbcByPNuA5c 10:22 How To Make Brown Bread Ice Cream - Recipe From 1806!
@@ -3847,25 +3857,948 @@ LgpqLcR8a4w 12:25 Secrets to Building with Logs - Frontier Log Barn - Extended
 FzOVLy2eH58 15:04 How To Make Homemade Raspberry Wine: Time-Tested Recipe!
 IASqjWncv6I 1:01:35 Ice Cream in the 18th Century! - Live In The Nutmeg Tavern!
 ps6NxaoR69M 17:24 Hand-Dug Well Using Primitive Tools? - Frontier Well - Townsends Wilderness Homestead
-j5cpxSJStWE 2:04:59 Live Play-Through "Lewis and Clark: The Expedition!"
+# @removed - books and let's-plays aren't good TV
+# j5cpxSJStWE 2:04:59 Live Play-Through "Lewis and Clark: The Expedition!"
 QAL-9V0635Y 11:22 Were They Afraid to Drink Coffee 250 Years Ago?
-5CdgQkw41dU 41:25 Finale! Townsends Book Club Episode 17 - Autobiography of Benjamin Franklin
+# 5CdgQkw41dU 41:25 Finale! Townsends Book Club Episode 17 - Autobiography of Benjamin Franklin
 vsvYZtFyqM4 10:20 How To Eat Like Benjamin Franklin
-H94KCQ75gmc 48:30 Townsends Book Club Episode 16 - Autobiography of Benjamin Franklin
+# H94KCQ75gmc 48:30 Townsends Book Club Episode 16 - Autobiography of Benjamin Franklin
 8USEQGCyFqE 8:32 Wood-Fired Steak from 1788 - Frontier Food
 IOaz6EQZgg0 11:12 Summer Sweetness! - Mulberry Pudding Delight - Historical Boiled Pudding
-Cl2NUnEjM7A 37:10 Townsends Book Club Episode 15 - Autobiography of Benjamin Franklin
+# Cl2NUnEjM7A 37:10 Townsends Book Club Episode 15 - Autobiography of Benjamin Franklin
 3ky02udlbpI 10:32 Barbecue Pork on the Frontier in 1824 - BBQ with Gravy?
-yXDI3WJ4Cng 50:30 Townsends Book Club Episode 14 - Autobiography of Benjamin Franklin
+# yXDI3WJ4Cng 50:30 Townsends Book Club Episode 14 - Autobiography of Benjamin Franklin
 aRoukj48bkc 11:38 Unusual and Delicious Pan Fried Puddings from 1773
 iCrJBiO0GLg 9:51 Let's Get This Straight - Primitive Levels
-6fs6DtYM400 44:35 Townsends Book Club Episode 13 - Autobiography of Benjamin Franklin
+# 6fs6DtYM400 44:35 Townsends Book Club Episode 13 - Autobiography of Benjamin Franklin
 KzcoUtLufps 8:59 200 Years Before "Mayberry" - The Self Sufficient Small Town Of Early America
-do--rwss7UA 42:21 Townsends Book Club Episode 12 - Autobiography of Benjamin Franklin
+# do--rwss7UA 42:21 Townsends Book Club Episode 12 - Autobiography of Benjamin Franklin
 4JdW-B0bQ9I 10:12 Whole Almonds Crushed To Make Flour? - Almond Cheesecakes
-8t5Asj6kK0M 54:06 Townsends Book Club Episode 11 - Autobiography of Benjamin Franklin
+# 8t5Asj6kK0M 54:06 Townsends Book Club Episode 11 - Autobiography of Benjamin Franklin
 EcATbhRA8-4 8:23 Inside A Woodturners Woodshop - Old vs. New
 fsJbnWaa4tA 11:55 Breakfast Waffles Over The Fire - 18th Century Cooking
+Qwyyi5-Ye7c 9:13 Hide Glue! - Primitive Adhesive from the 1700's
+HidS4xItLsM 1:02:11 Live In The German Kitchen!
+# cspSM6eTLB8 49:35 Townsends Book Club Episode 10 - Autobiography of Benjamin Franklin
+rEXcs8bR_VE 25:23 Making Pottery with Jon - Grease Lamp - Kicking the Wheel
+iTGqzVXD36k 9:03 The Myth of "The Rugged Individual"
+# PVtsgaoLrP0 51:56 Townsends Book Club Episode 9 - Autobiography of Benjamin Franklin
+8HTgcZpDE1s 10:54 London Leftovers from 1669 - Citrus and Meat Hash
+# lo_ZBwkVgEg 38:10 Townsends Book Club Episode 8 - Autobiography of Benjamin Franklin
+Zgi4Gbu1ZFE 13:28 350 Year Old Chicken Curry - 18th Century Cooking - Townsends
+PnDi0URKwVU 8:02 Inside a Longhunter Camp - American Frontier Trek
+# IwuN96WPX3w 54:26 Townsends Book Club Episode 7 - Autobiography of Benjamin Franklin
+ld1_Wsx5L3k 9:31 Poor People Food: Budget Cooking In Early America - Boiled Dumplings
+# Pkc4xGlzaeQ 55:00 Townsends Book Club Episode 6 - Autobiography of Benjamin Franklin
+JBYvgOc1PY8 9:15 Beer for Breakfast? A Working Class Morning: London Print Shop Circa 1725
+# 2j7ZKdIMatI 53:00 Townsends Book Club Episode 5 - Autobiography of Benjamin Franklin
+QsWja0-_3Ww 11:13 Navy Captain Food in the 18th Century - Cheshire Pork Pie - Pork & Potatoes
+p5LK5EOjUYI 10:29 Frontier Blacksmith: A Day in the Life - Decorative Blacksmithing
+# DUTGxDmRQlM 56:00 Townsends Book Club Episode 4 - Autobiography of Benjamin Franklin
+zqSa3fycEKE 8:59 Shoe Repair: The Work Of The Cobbler - Historical Buckle Shoe Repair
+# lEuoxW120Ls 56:51 Townsends Book Club Episode 3 - Autobiography of Benjamin Franklin
+P-Mcbf38GfQ 6:20 Potatoes and Greens! 100% Irish Cooking - Happy St. Patrick's Day!
+3OX0yGfvRoo 9:05 "What Do I Want To Do When I Grow Up?" - Benjamin Franklin Autobiography
+# 0gDIW_7fHQc 57:55 Townsends Book Club Episode 2 - Autobiography of Benjamin Franklin
+vg4OIFd5-aA 23:08 Sailor, Soldier, & Explorer Rations: Food for the Commoner - Salt Pork
+# nvfBf8Pbi_A 58:25 Townsends Book Club Episode 1 - Autobiography of Benjamin Franklin
+zH8xnJQKQVc 29:21 What's In Early American Kitchens? - Colonial Cookware
+InmrHSCLKKA 11:35 Preserved Cod Pie From 1769 - "Saltfish Pie" - Townsends
+aQd4C7ReaB4 1:02:35 Victorian Era Cocktails and Spirits with Guests, Brian and Amy Cushing of "The Victorian Barroom"
+BJE44WX0lf8 11:36 Weird Twist on Famed Depression Era Dish - Bubble and Squeak - 18th Century Cooking
+ZQqhtXR4vIs 11:52 Hand-Make Your Own Leather Storage Box - Skills & Trades
+hllh5nGIr1w 9:06 Molding Primitive "Plastic" - Horn Spoons in Early America
+ODsoWIyyUxw 10:06 Delicious and Hearty Winter Food Storage - Peas Pudding 200 Years Old
+up6GNDDTIlg 49:12 The Man Behind Townsends: The "How and Why" Behind a 14 Year Old YouTube Channel
+zYQd7afTzrU 1:02:56 Jon Celebrates His Father - Live In The Nutmeg Tavern!
+CaVO51lHtB0 10:41 Make A Historical Leather Knife Sheath! - Leather Work - Townsends
+WMjY0HVuSDw 8:50 Perfect Breaded Pork Cutlets from 1767 - Classic Steak House Food In Early America
+N1Biy5776ec 8:48 Too Much Butter?? - Butter Boiled Chicken - 18th Century Cooking - Townsends
+_5qZ-WVhnRo 10:23 Horn: The Plastic Of History - Making A Horn Comb
+uRFsHziiyvw 13:43 The Most Complex Broth I've Ever Made - Cullis - Townsends
+pbvEN7OVj-0 9:41 Spiced Chicken and Rice from 200 Years Ago! - 18th Century Cooking
+Z6adp3fNmdI 22:14 Making “Thatched Roof Pie” with Joe Pera- 18th Century Cooking
+kXpAjKwBFM0 8:52 "We have Exactly What We Need" - Townsends Year End Thoughts
+QqPSfOO2nnk 17:13 Toasts, Christmas Trees, and Parties with Joe Pera!
+RmwlealqwQE 13:16 Gingerbread: Medicine or Christmas Cookies??
+HE-BUYK71wY 13:10 Christmas "Cheesecake" Treats From The 1700's
+30NL420FLfQ 14:29 Handmake Your Leather Hunting Pouch
+2fs-GP5xHGM 11:57 No Seafood? Why Call It "Sea Pie"? - Naval Food
+DpwQyt5t2k8 8:02 Unusual Potato Cakes From 1797
+Aljq84vtrww 7:04 Joe Pera Reads Nicholas Cresswell - Eating Raw Potatoes!
+fLbfpGYf89Y 11:44 Pumpkin Pie Recipe from 1797 - 18th Century Cooking
+saKksG37hag 8:25 Fitting a New Axe Handle - Hand Tools - Townsends Wilderness Homestead
+xQrA_ShU8wU 16:03 Recipe Failed, But it Tasted Great! - Herb Pudding From The 1700's
+5-p0SXLzxNc 9:22 Food Storage: Not Just For Preppers
+OzUR8qUZ5VI 11:57 Joe Pera Reads From History
+IR4GDrBz8VM 11:33 Early American Fabric Dye
+_cReamNHcRA 58:13 The Fall of the House of Usher - Full Readthrough - Happy Halloween!
+ey5JYMbI64I 15:19 Joe Pera Makes a Stool for Our Cabin - Townsends Wilderness Homestead
+WdenN9TwCc0 13:22 Roofing In The Wilderness - Wood Shingles Log Cabin Roof - Townsends Wilderness Homestead
+RLa5hWI1Tv8 10:08 Gridiron Steaks on an Open Flame!
+J3vNJ30tWxg 15:51 The First Jelly Roll? - Ancestors Of Our Favorite Foods
+nBbvqT4G_e8 11:25 Pumpkin Spice Pancakes In The 18th Century? 300 Year Old Recipe
+jfltiViRYLI 6:28 Time For A New Roof On Our Cabin! - Townsends Wilderness Homestead
+SM83GxIhT9M 15:12 Let's Give This A Try! - Hertfordshire Cakes With No Amount For Ingredients
+IB9oX76oElk 13:18 Crispiest Homemade Crackers From the 1700's!
+QJHQmCJMtZY 8:02 Can You Rely on Your Neighbor? - Small Community Living
+DNdKzXFnbBA 16:56 Toaster Pastry from the 1700's?
+kXXkSnSq8cA 13:38 Into The Woods For Wild Clay!
+SmjXpVvR8JI 11:18 The Art of Leatherwork
+usA-aMmQ1zc 15:50 Budget Cooking in 1755 - Meatballs Two Ways
+c261Ig8Ryj0 13:31 Beer: Then and Now
+YBUMHFsANQY 9:18 What We Hand Down To Our Children
+TJdaZUmw8qY 18:57 Dayton, OH's 1850s Gravity Fed Brewery
+IVkfONU8FjY 15:11 The Evolution of the Biscuit
+aBV1DummRt8 9:08 Fair Food Or Breakfast? Charlotte Mason Recipe From 1777
+EvGnKheMsaA 11:24 Oysters and Chicken From 1777
+QWLRuiD2PzQ 11:23 Roughing It On The Homestead - Hand Forged File
+yQbMGLstlbg 13:08 Libraries, Universities and Churches - Travels In North America Part 3
+mIhZxwYkYtA 25:22 Do You Know the Difference? Shilling, Sixpence, Halfpenny?
+gHVBLTY5iJU 11:00 Handcraft Your Own Leather Canteen
+1W9RAHtmBUU 13:16 Beef Stew From 1775
+G5xA-fiB59A 14:39 Bumping Into Benjamin Franklin - Travels In North America Part 2
+Xxs0tsJeSE0 16:06 Handmade Inkwell - Kicking the Wheel With Jon Townsend
+66ulzo52XjM 11:29 Travels In North America - Part 1
+I5INCV7AQTI 35:41 The History of Money in America
+ViwkhixV8fs 8:55 Almost Deviled Eggs... But Not Quite! - Unpacking The Pantry
+l6jn0Cp3a_w 13:20 Trading With Native Americans
+zX9UgxyDaRs 6:30 Best Way To Fix Boring, Bland Chicken - Celery Sauce!
+YQCyvJjeCgs 11:59 Being a Good Steward to the Land
+Rv2dohnuTpk 11:56 Interior of the Cabin - Big Plans
+Nr77xiQV-Jw 9:03 Potato Apple Pie From 1783
+zQIZSIoiKSI 10:15 Early American Ammunition
+eIpDILFHTBw 27:31 Food That Held Up A Nation
+W7LXvXbhy4c 3:11 Stockfish: The Return (Unboxing)
+82C_QMthO2Y 1:30:55 Cowboy Kent Rollins Joins Us In The Nutmeg Tavern!
+d-H6z6M2_8U 12:49 Morel Mushrooms Cooked Perfectly - Forest Food
+KwZkJunAglw 1:02:10 The Outhouse! - Live In The Nutmeg Tavern!
+szB5Ibyp1Xg 8:34 "Beef The Vinegar"
+na_wewqQdSE 7:04 When My Modern Life And History Collide
+SToEkpwpANM 11:11 Weird, Hot Cereal "Panada" - 18th Century
+UW2zKU3xnHk 17:01 Apothecary - Medicine in the 1700s
+ZSD-eDy2l5g 13:36 Oldest House in the Oldest City in the US
+BqxHXB6_Ggk 20:41 Did They Have Germs Back Then? - Spanish Military Hospital 1784
+NWKQpIzXzJA 1:09:56 Come Hear Our Most Exciting News Ever! - Live In The Nutmeg Tavern!
+lQh23Wicq78 8:32 Tools of the Trade - Townsends Wilderness Homestead - Hand Forged Hammer
+0Fsqft2KpV8 10:09 Swamp Expeditions in Early America
+tXh_VT5ygOY 11:46 Historic Food Preservation - Potted Salmon
+1bv6y6G5ZCg 1:00:26 How Townsends Does YouTube - Live In The Nutmeg Tavern!
+sjzWYB3kefk 12:07 Sealing The Door - Log Cabin Maintenance
+xfRpxj29RXE 10:12 A Terrible Discovery! - Historic Stewed Crab Dish
+SndRUcYaePw 6:46 We Swear This is Yummy! - Surf & Turf From 200 Years Ago
+7HWkCFhW-p4 54:45 Special Guest, Michael Dragoo! - Live In The Nutmeg Tavern!
+LsQBI1LGyoU 8:23 Fast Food In History - Meatball Slider, Ancestor To The Burger?
+yUX-m-BsoS0 12:41 Public Transportation Was a TRAINWRECK in the 18th Century
+uMXm8hDofzo 6:14 Laying Our Handmade Bricks, Finally!
+-WjvTGkRzZM 14:57 Doing Much With Very Little
+7pH4Hb5CZWE 1:18:56 Trades That Stood The Test Of Time - Live In The Nutmeg Tavern
+YTojZ-aqyvc 9:39 Winter Food Storage - The Bleak Frontier
+RLkI38HxWV0 5:36 This Is Why I Do What I Do
+Q4o1wYwkv9g 15:15 The ORIGINAL Christmas Dessert
+ntX1Nlr5u3k 1:51:00 Unpacking A Christmas Carol With Carol Jarboe - Live in the Nutmeg Tavern!
+NTX51pbc630 1:01:31 A Christmas Carol Read Part 5 - The End of It
+nOB7QEuRVzk 7:11 Custard Tarts With Candy Surprise!
+D2kUbviJ_o8 48:21 A Christmas Carol Read Part 4 - The Ghost of Christmas Yet to Come
+IqcNlA0Mpac 1:11:31 A Christmas Carol Book Read Part 3 - The Ghost of Christmas Present
+O_tm1cmvzMg 6:28 Chicken Pie "Deluxe"
+QHxH6veIL5g 54:20 The Ghost of Christmas Past - A Christmas Carol Book Read Part 2
+pZwS_60M3oY 52:11 A Christmas Carol Book Read Part 1 - Marley's Ghost
+KW2dcbhHnbE 5:53 Leftovers: The Best Part of Thanksgiving!
+a77fbAhG2Tg 59:32 A Bountiful Feast - Live in the Nutmeg Tavern Replay!
+tgWSa3nSfhc 14:20 The Great Turkey Cook-Off Of 1796
+e1bmfrWZlzI 13:24 The Ultimate Experiment - Handmade Brick Firing
+WigF_qQ5yXs 40:30 He Slept Through Election Day!
+BveXvC_UVyc 7:25 Everything Is Going To Be Fine.
+# DJ04V_2WXUo 55:57 The Legend of Sleepy Hollow Reading - Live in the Nutmeg Tavern!
+pBLW7ZP2vRs 10:31 The Last Meal of Ichabod Crane
+Q_qUYM4Oc_4 58:09 Lanterns and Lighting in the 18th Century - Live in the Nutmeg Tavern!
+3WLebI5eNlg 11:14 The Simplest Apple Pie Ever
+3hWREO1skW8 56:55 Food Preservation in Early America - Live in the Nutmeg Tavern!
+biDi70wZw98 13:19 Coffin Pies - Death and Chocolate
+b4DQjwyMjtw 1:27:16 Log Cabin Anniversary Celebration! - Live in the Nutmeg Tavern
+_JTLr8t3AeU 8:12 How Many Bread Loaves?
+6bEZrN1OJEM 13:04 The First Meal
+zGNfsHqmYKw 1:31:13 Tasting History Joins Us! - Live From The Nutmeg Tavern Replay
+JcwwZREsx8I 11:58 How To Build a HUMONGOUS Earthen Oven
+xCVuoyrnAss 1:34:39 Beer in the Revolutionary War Days - Live From The Nutmeg Tavern Replay!
+_4UR0MUBnOM 13:30 The Great Wheat Shortage of 1797 - Bread for the Commoners
+vQuCBfjPsmU 3:45 The Perils of the Navy - Full Immersion 1812 Tall Ship
+gEA6wpFG8LA 57:41 Bread Making in the 18th Century - Live From The Nutmeg Tavern!
+mzJoImT__xc 8:48 The Ancient Art Of Brickmaking - Impervious Building Blocks Handmade From The Earth
+JgVdZ35MqR4 8:49 How To Melt Iron With Nothing But Wood, Leather, and Clay - Townsends Blacksmith Shop
+9wVNOEU_-Es 14:20 Homemade Historical Bellows: 18th Century Blacksmith Shop
+yIkOt1kJJlc 8:12 The Drunken Sailor - The Backbone of Commerce
+k_FvHQCujC4 8:05 Hand Carving Spoon and Bowl - Our Cabin Needs Utensils
+lOcFIhHE-dg 12:26 I Drove 14 Hours for This Piece of History...
+FJt_arITVTQ 9:31 Unheard of Cooking Method! "Collared" Pork Belly
+747NDrLKkZA 8:26 Venison and Corn - 265 Year Old Party Food!
+q6twaIOakMk 10:21 Manual Foot-Powered Vise? - Build A Shavehorse By Hand
+TBbLw8RiVOE 5:19 Frontier Dessert? - Wild Berries and Cream!
+ZEu6z3L34v8 9:23 A Single Spice Blend For Your Entire Kitchen - Kitchen Pepper From 1777
+malu-aagdko 7:19 Making Tools From The Forest - Townsends Wilderness Homestead
+C87qGIpkR8E 7:56 Campfire Cocktails! - Excellent Cherry Bounce From The 1700's
+IShxXtAev9U 7:52 A Pole Lathe For Our Cabin! - Townsends Wilderness Homestead
+Z66-vzg62Rc 7:38 Repairing Our Bark Roof - Homestead Log Cabin Repair Part 2
+1BbtiLju9Rk 7:39 Repairing Our Homestead Log Cabin - Chimney Maintenance
+qpaBeS7bTIU 3:57 You Eat This Every Day! - 1792 Breakfast Omelette
+r3NXAVPEkgE 6:30 Classic Apple And Pork Combination - Meat Pie From 1792
+A4sKg8YWFM4 4:54 Keto Recipes in the 18th Century?
+8tVF_tPZH6U 5:27 Pan-Fried Pork Chops in Gravy - Classic Steak House Food In Early America
+TifCuQSEBio 10:26 Fried Crème Brûlée Cooked Three Times
+cOSMTC7L7AI 7:51 Best Chicken Wings! - 200 Year Old Recipe
+S-tHwzdXJWQ 5:12 Three Minutes From Certain Demise - Dangers of Historical River Travel
+0WHtiE0nZps 3:03 Wild Buffalo Water Chase - Cresswell At It Again!
+XVIXbdQQtQY 7:37 Middle Eastern Influence In Early English Cooking - Mutton Kebabs
+HAx8sb0Uovk 7:28 No Nails - Frontiersman Survival Shelter
+U2QsmqPN1pM 8:01 Dangerous Backwoods Adventure - Travelling Across Three Rivers
+-heI0TqcxFo 5:08 Stale Bread, A Block of Cheese...It's Suppertime! - Cheese Soup
+N-AiIlSsMw4 9:13 Vicious Voyages.
+S93EI42Tgwg 5:19 Leftovers to the Rescue! - Potato Pancakes from 1732
+Wk8gZNXrsEg 3:37 A Traveler's Refuge - Historical Tavern Dinner
+bS8gxx3oUsk 7:07 Surviving Mysterious Disease
+Nm-QS_oxf6I 3:54 Jon Hates Asparagus. Will This Change His Mind?
+dGr-8P_vEZA 4:55 ...Hope On The Horizon
+nXFujMqpJ2Q 6:45 Half Pork. Half Fat. All The Herbs From The 1770's!
+3DVtSkm65sU 4:41 Rich Food for Poor Folk - Frontier Potatoes!
+ajnvKEd8RfI 8:43 Classic Steak House Food in Early America - Steaks With Oyster Sauce
+JB7pk7AfV2E 8:18 Sober Sailors - Rum Rations In The Navy: Grog
+NPThw8DOTJo 5:58 Open Fire Ribs in the Cabin!
+8J1PNDnqsfA 9:55 How To Make Bread With No Yeast In Historical America
+Es_Ga7g2k30 7:06 What Were They Thinking?? - Lobster From 1755
+tQWETcw-E74 9:08 1755 Scrambled Eggs - Quarter Pound of Butter?
+XgNuPXIIvC8 11:19 Journey of the Journey Cake - Any Grain Will Do
+14F0ncvWjhI 15:11 Honing Your Longhunter Trekking Kit
+oW0bxD7FWVo 9:55 Potstickers? Bacon Dumplings? - Something Similar From 1750
+S04mZtUjTyA 6:43 Popular Drink Fallen Into Obscurity - "Flip" From The 1820's
+YbpF5IQrqSM 9:53 A Very Dickens Christmas Dinner - Goose Over an Open Fire
+vds2Igr4uAU 15:39 Battling the Wafer Iron! - Christmas Wafers From 1723
+frhBaVaOLW8 1:02:12 All Things Horses With a Special Guest! - Live From The Nutmeg Tavern!
+SzgszJsswSU 8:40 Crunchy on the Outside, Soft in the Middle - German Puffs From 1777
+p0sdliHLTSA 40:06 Traditional Holiday Music by Log Cabin Fire - Full Length
+XRUOuH1uFXQ 8:10 No Syrup Allowed! - New England Pancakes From 1777
+BeV3DLfeWGQ 7:56 Frontier Comfort Food In The Cabin - 18th Century Welsh Rabbit
+Cq02zqJlibw 12:31 Chimney & Fireplace Before Snowfall? - Townsends Homestead Part 3
+6ql1TVqRb9E 5:02 Happy Thanksgiving! Pumpkin Pie From 1839
+8oYpQ4qCSj8 15:44 Weatherproofing and Insulating Your Log Cabin
+u76Yv3Feazk 6:53 You've Never Had Pumpkin Bread Like This - 1750 Recipe
+xydLamF1Z2k 13:36 Will The Roof Hold Up? - Townsends Homestead Part 2
+xkmyK8XqVpQ 9:31 Essential Frontier Tools - An Axe For Every Job
+FVpkrRKphcU 18:56 Spies, Espionage, And Secret Writing In 1770's
+UlVENzhq_Xw 15:49 Building Log Cabin Walls - Townsends Homestead Part One
+03ABJtEZhfU 4:04 A New Food In The New Frontier - Corn Over An Open Fire
+-b6Ojpeb-oQ 5:02 Paw Paws To The Rescue! - The Fruit That Saved Lewis And Clark
+bGxZFMlQ-Bc 5:56 Camp Oven Cornbread - Feeding Hungry Workers
+jv3hsU1NlPo 26:39 Townsends On The Road! - The Search For The Perfect Cabin
+# @removed - too meta
+# bz38QhBT06w 1:13:50 One Million Subscriber Celebration! - Live From The Nutmeg Tavern
+7hBSwK7BkfM 8:01 Breakfast Casserole In The 18th Century? - Egg And Bacon Pie
+ZEXic7y1X-Y 4:12 Open Fire Shrimp With Black Pepper Butter Sauce - 1600's Recipe
+xxb-XqsgaqM 20:43 Postage: The Dos and Don'ts Of Sending A Letter In The 18th Century
+tpoMQ5hNd1Y 11:10 "Whipt Cream, Like Snow" - Not Your Typical Whipped Cream
+zbFhIlxGElc 8:40 Jon Is Disgusted... Coffee Eggs From 1769
+WxLf02kD8oI 29:17 Owner and Editor of Muzzleloader Magazine - Jason Gatliff Interview
+MPEZv7e5Wbs 8:09 Caribbean Cooking In The 18th Century - Pepperpot from the 1700's
+5fks4Vnu8P0 13:08 We Didn't Always Get Paper From Trees - Historical Writing Series Part 3
+JahRSIlom8U 20:55 Making A Three-Course Meal - Roast Beef, Onion Rings, and Syllabub With Natalie and Tara!
+LYDXDGoutRg 4:16 Handmade Wooden Bowl On A Foot-Powered Lathe
+P582srfq_14 9:56 The Secrets Behind Ink In The 18th Century - Historical Writing Series Part 2
+5GzbzjqTPEQ 5:12 We Need To Reconnect Through History
+k3aPOXkzNPk 17:39 Turning A Feather Into A Pen - Historical Writing Series Part 1
+tpNMmKL2vkg 20:55 The Life Of A Frontier Gunsmith - An Interview With Mike Miller
+zV1FuzftraI 6:53 Barley Water From 1734 - Perfect Drink For This Summer Heat!
+Xj71BY1LCuc 12:37 Building A Bark Canoe In 12 Hours? - Elm Bark Canoe Part 2
+i9XZyz9hm1s 3:25 Cancelling Our Trip - The Dangers of Canoe Travel
+lLbb0ZX5up0 16:09 Building A Bark Canoe In 12 Hours? - Elm Bark Canoe Part 1
+mXVat5ggTIA 12:44 Accidental Chemistry: Historical Laundry Part 4
+Mr0-mCOfMX4 8:31 Primitive Bread Baking In Early America - Rye and Indian Bread
+vVQHoWhYSLE 4:06 Did The Dugout Canoe Survive The Winter?
+RgLC_DRd2cg 15:00 Colonial Army Rations: Beer Every Day! - Spruce Beer In Early America
+KJEGV0LZk7Y 7:06 Historical Laundry Part 3: The Evolution Of The Washing Machine
+1xenLzd2-Dk 12:25 Historical Laundry Part 2: No Washing Machine, No Dryer, Hit It With A Stick?
+wK9OyW4Jx_g 9:22 Historical Laundry Part 1: Who Did The Laundry In The 18th Century?
+R0in8rhggVk 5:33 Testing Yourself - Practicing History in Their Shoes
+e2LqoIWdAlE 10:23 Boring? We Thought It Would Be - 260 Year Old Artichoke Recipe
+QdzAt6e1l-c 8:33 Sailor Rations - Stockfish Aboard Ship
+hVw32cE748w 8:07 Boiled Pudding: Not Just for the English
+81MyU3RBVsM 6:11 The Quintessential British Soldier Kit
+PjoUKQ4inGc 5:43 Beef Stew For The Middle Class
+BIlVveuUviQ 8:10 Our Best Dessert Ever - WhitePot Revisited
+i1NcWU0xTog 7:20 Sailor Rations in the 18th Century - Burgoo
+OqD82Jv8e2g 1:56 What Have I Been Reading?
+aiXbloUoWow 4:01 Potato Chips in the 18th Century?
+A70ekrOrrko 15:31 The Nutmeg Academy - Pilot Episode ft. Brian Cushing
+OEVHL-AjkMY 4:46 Vegetarian Pie From 1769
+nt0OUVnx-y4 9:51 Who Were The Longhunters?
+AXomSThPCjo 9:23 Live History on Your Terms
+tlwF34TkT3o 13:01 19th Century Apple Brandy at Historic Locust Grove
+vOMjZ-6yXKo 1:01:56 Nutmeg Tavern! - Round Table Discussion - Maggie Delaney Story
+jqOgWngL5aY 58:31 Maggie Delaney: Her Story - Feature Length
+DUgwZz49MJI 1:01:59 Live Music at The Nutmeg Tavern!
+5CgCrPQMRDA 36:52 Creating Maggie - "Remember the People That Were Down at the Bottom"
+xV9spqCzSkQ 4:48 We Promise, This is Delicious - Simple, Roasted Onions From 1808
+0c64-qVBl8k 55:06 Special, Mid-Week Show! - Brian Cushing of Historic Locust Grove
+dlOCcvwYOdo 5:47 Wine on Fire in History - 1650's Recipe
+NGzUrkOQEEM 2:43 Don't Worry, I'm Still Alive!
+zAa5hau_9lo 6:18 Ocean Trout in Champagne - 1755 French Cooking
+lNn94A3LLvo 7:31 The Perfect Beginner Recipe - Boiled Dumplings
+oQdFSo73jz0 6:56 French, 1755 Chicken Fricassee with White Wine
+8slxejFz4ME 5:55 1787 Brown Gravy - Take Your Flavors to the Next Level!
+UGWcm9SJ27I 7:05 18th Century Duck with Wine, Herbs, and Broth
+O1T6G0Q3arQ 7:35 A 200 Year Old Spinach Tart Recipe!
+pnurZrCxt7U 59:55 Introducing Nutmeg Tavern Coffee! - w/ Guest Dave Taylor
+Aqzxg0g2aHY 10:42 The Perils of Pre-Revolution Ocean Travel
+ZHMGdYuyDCM 6:28 Is This Just Another "Red Herring" From 1767?
+kADoyiKMlz4 3:15 A Topping For Christmas Apple Pie From 1769
+dYVS7AnUAhg 13:52 Flintlock Rifle Breakdown and Cleaning
+a4gFHlRE3KM 10:01 1773 Apple Pie - One of the Earliest Recipes
+MSwmMZq-6Ao 6:45 The Quintessential Trekking Kit
+dAn5_2JdYJA 15:36 Brandy vs. Sugar - 18th Century Fruit Preservation
+D7ZXuSFEPXg 58:04 Ancient Technology With Erik Vosteen!
+G8suyLb-ZTg 12:04 From Tree to Canoe Part 3 - Ready For Adventure?
+BEwSXhzaF8E 10:29 Clothes vs. Money: Status and Self Worth in the 18th Century
+v4z5x35IoWA 7:14 Surprisingly Delicious Poor People's Food From the 1700's
+thD0V85Rs70 9:37 From Tree to Canoe Part 2 - Aches, Pains, and More Chopping
+ISCF9-8ukPI 8:26 600 Year Old Stone Axe vs. Steel Axe
+-I4zkHgdw2w 10:16 From Tree to Canoe Part 1 - Chopping and Burning
+fD3JxZBy7WU 3:36 Is Our Quest For History Ruined by Present-Day Distractions?
+FfF_Z-_M8WE 6:49 Rare 1760's Recipe - A Whole Bird Inside a Dumpling
+yqO5sG14x38 5:49 Reliving The Frontier Dugout Canoe Experience
+99ynmb_Oqsk 2:01 Don't Be Afraid To Succeed
+piYcgGdO8_w 3:40 Across the Sea to Mrs Crocombe - English Heritage Collaboration
+vsRqPmI-zEA 4:57 Did They Gamble in 1777?
+hcrbFoChX3w 5:14 We Haven't Gone Far Enough. We're Starting Now.
+oAVdpC7hiDU 9:40 1780's Dutch Oven Pot Roast with Bacon, Sour Cream (?), and Carrots!
+pyxhexVlxoc 8:02 Handmade Log Building with Primitive Tools
+75hG3PSBmtg 6:45 1787 Beer Soup from Germany!
+qSuM25N-5Js 7:17 Vanity: The Rich and the Poor, Boston 1700s
+Af_OHNZmCWI 7:18 18th Century Mint Sandwich From Switzerland
+kMb3wC-dXg0 10:59 Who Decided the U.S. State Lines?
+BJ80SWdUd-8 8:16 Forging Wrought Iron For 30 Years
+ahUc9NGLIO8 11:52 Lives of The Downtrodden in Early America
+VGwmAbXFDK8 13:23 Townsends Presents: "Raising a Log Barn"
+BJJAWSFiDLM 10:22 Historic Harvest Soup with Pumpkin Bowl
+1wb3oENnS8k 5:18 Life Now vs. Life in the 18th Century
+fbKEcOdXvis 9:56 Fish Pie! - French Cooking in the 17th Century
+GW2NYe-qmZM 1:17:05 18th Century Sailors - Special Guest, Dave Taylor in the Nutmeg Tavern
+PUwGO8HtrVc 3:33 Why We Took The Video Down
+p1mpT9Nd6fY 9:13 Pine Nuts and Spinach? - 18th Century Spanish Cooking
+3ZZnUaLpUk0 1:10:50 Live From the Nutmeg Tavern!
+LqVGuvUbpCE 3:43 Working With Your Hands: It's Even More Important Today
+6i7OvSwRFBk 3:53 From Forests to Ships
+DjrGceca5zc 9:09 Spanish Cooking - Salmon and Onions From 1750
+QjthdIBFvwQ 3:56 Untouched American Wilderness
+iqjfwhirsVo 14:04 Oil Cloth - Waterproof Coverings for Your Campsite
+qUYY-Ccdvuw 5:59 History: I've Been Wrong All Along
+wvisp58xIU4 11:46 Creating a Wooden Mallet on the Frontier
+m_BUCPTXmbI 11:08 River Travel 100 Years Before Mark Twain
+Oz2o3SYqGlk 8:53 "Omelette of Asparagus" - A Recipe from 1787
+koaSqUec2Mk 10:48 Historic Georgia - Early American Travels
+Nu48wAGygcA 4:18 Are We Limiting Ourselves on YouTube?
+cwVDhwDJIxM 6:46 Politics Have Always Been Divisive
+AJH6fv5M0Q4 7:20 They Called This "Soup"?
+H_4-k4Jkbn0 6:24 Losing Connection With the Seasons?
+2MBxcdv8EDc 9:47 No Wheat? Rice Bread - Gluten Free Recipe
+0zG7DmusziY 1:09:47 A Craftsman From Townsends - Recorded Live
+rYpuSfVehg8 5:58 Braving the Frontier with Daniel Boone
+Kv8DTEJD6HE 6:21 Fried Tripe with Dipping Sauce
+Dy_st0el6yU 5:57 Preserving the Music of the 18th Century
+HN1Cmt3IS5o 6:29 Struggling With YouTube...
+uTWUi5ailVk 54:41 LIVE - The Founder of Townsends!
+JxetF_xrzCs 10:40 Anatomy of a Flintlock with Tim Williams
+T5AoYGFTl8I 8:52 "A Spring Greens Pie" - Forcemeat, Greens, and Puff Paste
+lknbjbxgEp4 5:39 Cabin Life on the Frontier - Uncovering History in Journals
+T-x9ZxpPvG0 6:50 Unboxing a Food Parcel from Great Britain
+MattBVhFSwM 6:36 Fatwax: A Surprising Resource to Protect Your Gear
+qjV_lRjn_eI 9:37 Fire Starting: No Matches, No Lighter - The American Frontier
+hLO8YsSHMHY 15:14 The Origins of Colonial Candy
+1zRY9gO9sWY 9:05 Making Your Bed With Dead Leaves? - The American Frontier
+9WyzXSRwxLg 5:27 Nothing Goes to Waste on the Frontier - Venison Heart
+fjgqSsf2uM0 7:17 Shelters That Fit in Your Bedroll - The American Frontier
+48VgSMnmsX4 7:03 A Simple Campfire Meal on the Trail - The American Frontier
+EmaxKO_1QFs 4:00 A Story from a Forgotten War
+-2zJvJn_Ihw 7:57 Meat Preservation by Smoking - The American Frontier
+TBj3zWf_AkQ 10:45 A Survival Item From Tree Bark? - The American Frontier
+McpCJkPluFM 12:02 Cooking Systems in the Backwoods - The American Frontier
+gMskLUQyo5g 1:32 Introducing "The American Frontier" - A New Series from Townsends
+4rT6J0OxEmM 5:52 Beef, Mushrooms, Eggs, and Gravy - 1730 Scotch Collops
+pPNiSBD9Ih8 9:35 Sorry the Internet Broke - Follow up Q/A with Dan Wowak 18th Century Bushcrafter
+5ag8uQxSQYY 5:52 Pulled Pork From The 1700's
+# @removed - too meta
+# wAWBpbnWSvY 1:11:05 500K Subscriber Celebration! (With Michael Dragoo)
+3cPizm6i15A 8:27 Offering a Bed for the Night
+bvbZ1_h9HW8 7:58 A Poor Man's Rice Pudding
+UQe5Y2m6QfM 8:32 A Well-To-Do Rice Pudding
+0QQMzGqdNoI 7:10 Boston to New York - Traveling in 1788
+1pb8rEYDLHc 7:45 Carrots Deep-Fried in Suet
+lYxnLD5jmqc 9:12 Trading Goods on the Frontier
+hV-yHbbrKRA 5:52 "Macaroni" - A Recipe From 1784
+u9Vuq4j7IBY 4:47 History Beneath our Parking Lots
+9cLuZdH5w3w 6:23 A Dish for the Common-Folk in the 18th Century
+QI02y2mg9xg 7:00 Turning Beets into Pancakes - A Recipe from 1803
+gcooAPbpqQg 19:07 Growing Tobacco In Early America (Re-Upload)
+3T0nnskSkwk 4:52 Candy in Early America
+Ama7a0tc5Fs 2:47 What Inspires You? - A Question from Jon
+W1EVhCTIJME 4:15 Steaks Fried in Ale - A Recipe from The Art of Cookery
+3HHY06pwBBM 1:07:02 Let's Make Chocolate Cream! Recorded Live
+GT0eD92u1Xs 9:42 The Forgotten Soldiers of the Revolutionary War
+DYSHRGNeI0A 8:00 A Savory Noodle and Turnip Wintertime Soup
+2v25-rjLiXE 1:06:42 Most Popular 18th Century Tea
+PfZHU8ZT-Uo 3:14 Early American Woodworking - A Craftsman Talks About his Passion
+YEaEp0pTEHg 5:44 Rabbit Over an Open Fire!
+J9x9YcaoQIU 10:53 No Laws or Rules - The Backwoods of Early South Carolina
+v5PiGidtStM 4:45 A Winter Treat from 1796! - 18th Century Cooking
+tQ5-oKvlSn8 3:34 Our YouTube Journey in 2017
+ofMY-VdsaIk 7:05 Digging Deeper into Colonial America - Q&A
+N5Oap34i4P8 1:10:20 Let's Make Wassail!
+5Y43cD8EXM0 7:07 Rivel Soup - The Historic, German Way
+xfxUMrhmX4w 6:14 Enduring Winter During the Revolutionary War
+LuIXixc2qQ8 8:55 Deep Fried Cookies! - Little Deer Antlers
+J8Gb-8V6CmI 6:35 Christianity In Early America
+Ai17gd3zofI 6:18 Rutabaga has Never Tasted so Good
+H3DBP7KxeSk 8:29 Winters in Colonial America
+OGS4BY7KjTM 10:18 Roast Beef Over an Open Fire!
+8ICcH-mLt3c 10:23 Revolutionary War Salt Shortage
+GC4OVzQasdU 47:18 Pemmican - Is it still edible?
+zPcwADGvGRo 5:51 Baked Applesauce Pudding? - An Historic German Recipe
+K954BPO-XLw 6:59 What is the Purpose of our YouTube Channel?
+_Tg5gptU-JE 9:50 Rabbit Cooking! A Recipe from 1747
+pJI2Dsz3pTw 3:29 Throwing Tomahawks and Knives (Re-Master)
+PPQTpPBXPvA 5:39 Historic German, Root Vegetable Soup
+TTxV17C6Wrs 10:45 History: It's All About the Details
+ig81LidLrBc 8:42 An "Acceptable", Less "Offensive" Pudding
+e3lHDQ2PEV4 10:30 How Were Bullets and Shot Made? - Q&A
+A--30LBHqOU 6:44 Body Snatchers of the 18th Century
+B0syCKiC5L4 6:34 Bacon Pancakes?? - A 1773 Bacon Fraze
+lctLdZFgyFk 5:11 What Do You Want To See?
+fOgKjpq7Nws 10:15 Stale Bread? Don't Waste It! - 1773 Bread Pudding
+bVZozP3jMr8 10:38 An 18th Century Waterproof Shelter - Q&A
+axFFUdQdyJg 13:13 Historic Kitchens vs. Modern Kitchens
+veUXxUznbj8 15:57 An Adventurer's 1774 Journal - Nicholas Cresswell
+mfnHCdc3BgA 18:15 Early American Ginger Beer - 18th Century Cooking
+HRtCOIbovWw 9:25 A Tour Of A Medicinal Garden
+tBuO-gs-ROE 11:53 These Plants Could Have Saved You! - Historical Herbal Medicine
+Y_Kj-7QKhF0 8:32 Kosher Recipes in Early America? - Q&A
+b1GluGskjDk 9:19 Fish In Your Pocket? - Salmon Pasties
+84q-VGfaYOA 7:34 Did You Even Know You Loved History?
+zKAk2c8KfNE 14:43 "Pennsylvania Swankey" - An Easy Small Beer Recipe
+eWmstIC5Sps 13:12 Sanitation and Brewing in the 18th Century
+xKboeeH6QMQ 7:56 Too Much Butter?? - A Recipe From 1794
+TVRo3ucGeqU 12:28 "Mead" - The Drink That Fell From Favor
+MG2p5RePJBU 5:13 Edible Turnips? - A Recipe From 1824
+6QdwGClotcc 6:40 The Same Food Every Day? - Q&A
+ocVCsPPNxsc 12:05 Corn And Eel Succotash!
+5Vdzd4LgmNw 7:08 To Dress A Dish Of Mushrooms - 18th Century Cooking
+a0G6FdhmjSw 10:38 Q&A - How Common Were Potatoes In The 18th Century?
+SyZd0MteJqI 6:23 Orange Marmalade Apple Dumpling
+5saYI0IB57I 7:13 Q&A - Fruit Preservation In The 1700's
+hTFVW0EgMkk 9:45 Connecting With Ancestors Through Living History
+T0IEIJhUi00 6:53 200 Year Old Peaches...Time is of the Essence
+BoT3C-ae8io 15:18 Hygiene In The 18th Century
+2Q6zW-Jlxxg 4:52 A Basketmaker's Story
+-CJSt7MrGfs 13:04 Salted Cod With Eggs And Butter
+nhtFwQ1bxMs 6:48 Uhh, Where Is Jon?? - Q&A
+l8PmjZ76juI 6:19 Living History IS For Families
+k72bPCovfWI 6:37 An 18th Century German Recipe
+DjEiddJQyls 13:29 The Potential Toxins In Whiskey
+QjD5s7RcBdI 10:57 Finally! A German Recipe: 1795 Fried Surprise!
+YIi1bjl_iqE 9:17 The Intrusion Of Modern Politics On Our YouTube Channel
+T2AG545WIsg 10:47 A Dessert Fit For The Washingtons
+ecnSW1t4dLk 8:22 Don't Be Confused About This Simple Quick Bread
+D1YrXQ1xli4 9:53 18th Century Bacon - Q&A
+0jQ_vErjDlk 7:56 Fried Catfish With Turnip Greens
+MrTO2zJbqAY 56:48 LIVE Q&A 6-15-17
+ejrQlhH9RyQ 10:12 The No-Meat Survival Food Pt. 2
+e-AJ7AsMEHc 12:12 Butcher Shops In The 18th Century - Q&A
+6ysrsvW_wPA 5:31 Making Salt-Glazed Pottery
+1CmRUxqxG7Q 11:43 The No-Meat Survival Food Pt. 1
+WWSY8frb6h4 9:25 Hot Peppers In The 18th Century - Q&A
+yX7jCgokcUY 9:05 Delicious Catfish Stew!
+AVOfp3cjrlw 9:11 The Fish Controversy - Q&A
+gTUFUcxwzKk 12:26 Fresh Fish Over An Open Fire
+jz0HFYR95c4 11:29 Taverns In The 18th Century - Q&A
+PQh6HxmPy54 12:48 "A Soup, A Stew, And A Hash"
+95M1m4UM1uk 10:08 Little Miss Muffet Ate This??
+cA9ZsKTbbvI 12:34 One Of Our Top 5 Recipes Ever!
+691LdhiwQQM 12:18 Beer Bread In The 18th Century? - Q&A
+n3VejyKid70 41:07 Polish And Perfect - Getting Started in Living History Episode 8
+NjlJObR58LU 12:03 Asparagus Forced In A French Roll
+CUx9U_e4qlA 5:50 A Housewife Of The 19th Century - Kim McCann
+tY8k5EnM35M 10:50 Did They Really Drink Buttermilk? - Q&A
+uqqH5eZPQCI 34:04 Building The Inner Person Part Two - Getting Started In Living History
+Qnc06cVXQTk 39:47 Building The Inner Person Part One - Getting Started In Living History
+o51KIO9eU4s 5:23 ...Simple Fried Oysters
+MVFdsqQby9o 16:53 Portraying An Enslaved Woman - Brenda Parker
+XD0eRdIbCeY 4:52 YouTube Can Be Scary
+V80nLUO-NqE 12:30 Let's Do It! - Getting Started in Living History Episode 6
+PnwvYLl7NSs 33:23 Building the Outer Person - Getting Started In Living History Ep. 5
+wH3FmxrfsdM 9:56 A Southern Feast Of Sack and Steak!
+ly3VoFtN-H0 10:33 French Trapper Interview - Tony Gerard
+2L2WfiD6lQY 40:50 Do Your Research - Getting Started In Living History Ep. 4
+6IWss75AcdU 37:13 Choose Your Persona - Getting Started In Living History Ep. 3
+bJL-HYSlvRM 12:16 Early American Dairy
+4e2kLTAUozw 9:40 Longhunter Interview - James Wilson
+7_KY84PYvaE 29:29 Joining A Group - Getting Started In Living History Ep. 2
+Cmiv0kFUMG4 23:46 Episode 1 - Getting Started In Living History
+bn-cOmca_Xo 9:54 Early American Whiskey
+9pey6sVJf1I 2:03 Thank You Mount Vernon!
+j9jyTCWWh4k 13:39 Behind The Recipe - The Two Cakes
+3eix07Nosxc 14:57 The Tale Of Two Cakes
+vj4YoNRdhhE 8:19 Rebellious Fashion In The 18th Century - Q&A
+SvPpy--Yavg 5:43 Anchovies And Eggs??
+EyETNsx1N20 12:52 Biscuits And Gravy - Where Do They Come From?
+D8j9XGNJplY 4:57 Cod With An "Eggy" Sauce
+dktBjRRKmK4 20:23 Were Tomatoes Poisonous? - Q&A
+njGfm-82Y3w 10:05 Does History Change You or Do You Change History?
+wJyGJUgAI_U 3:13 Tomatoes and Eggs
+LRyQsIq6ZRs 12:05 This Recipe Doesn't Make Sense - Q&A
+w0cLNEjCN1o 6:30 I'm Torn about Youtube and Living History
+aczBmrYHZP0 4:18 Spinach and Eggs, 18th Century Style
+n9esZCy6viA 13:03 Recreating History - Q&A
+kvjsli7ICrI 5:15 Kush - A Hash with Cornbread featuring Michael Twitty
+Hw9xNypTTBo 14:58 Types Of Tobacco In The 18th Century - Q&A
+ELtVi9ZrvAA 4:39 Akara - A Fried Snack featuring Michael Twitty
+gCwr_gDi4DY 13:18 Food Aboard Ship - Q&A
+GwkRWIwZ43A 10:53 Food of the Enslaved: Barbecue, featuring Michael Twitty
+qBWjVTELdr8 12:00 What Is Kitchen Pepper? - Q&A
+0VgTtzukqPM 9:27 Okra Soup with Michael Twitty
+KltspYUg7sc 11:19 How Much Gear For A Hunt? - Q&A
+brLJm9nKX1o 1:44 We Need Your Ideas!
+qXX_GfbO1FM 7:35 Paper Thin Edible Art - Crispy Wafers
+pEyCVgsN48M 25:19 LIVE! Questions and Answers with Jon.
+SdKzWQOVET4 8:55 Potted Beef In The 18th Century
+tME_TMwFyes 10:32 Our Favorite Sauce Suggestions! - Q&A
+fmre4xvxshM 11:31 Batter Pudding With Must Try Sauces!
+HsD3QXfStp0 9:19 Home Remedies In The 18th Century - Q&A
+SJD8tQnMXPk 4:23 1796 Currant Cakes Baked by Ivy
+ytK0omplQPU 9:14 Disgusting Recipes We Won't Try - Q&A
+A1vR61yNF1U 6:43 "Peas Pudding" - A Recipe From 1750
+PcFq_Z7ydxY 7:01 Do Foods Go Extinct? - Q&A
+gt4K4SO-SWY 5:45 "Fried Beets" from 1727
+T-1JDFUhddY 7:29 Fat, Fat Bacon - Q&A
+I9ShGvedn2Y 1:37 Why Do You Watch? - I need your help with this one.
+tJVzAvGGvR8 4:01 Breakfast In The 18th Century!
+8e7BWfnrf1E 13:25 Was Chocolate Only For The Rich? - Q&A
+CIuqi038jVY 3:44 Hot Chocolate In The 19th Century
+oUdCxN7R2yo 6:58 Is My Mushroom Ketchup Alive? - Q&A
+0y0PZUVMd0o 3:15 Master Wood Turner Erv Tschanz
+rP4peyGcLPY 9:56 The Crumpet Controversy
+UZPVc9UyP3M 11:51 Overcoming Shyness In Reenacting - Q&A
+r32tIOS5-3M 8:13 The Freshest Breakfast Sausage (1808 Recipe)
+eTIhilxHZ-M 13:56 The Best Uses For "Whey" - Q&A
+4B6qYQbvJWY 14:16 Cheesemaking In The Early 19th Century
+dRFHdyBTXIA 2:35 Historical Strong Beer vs. Small Beer
+xpKTZVQXXZI 3:08 Clickbait Title or Maybe Not...
+0VAz8SMYrR0 6:18 Green Bean Tarts, Really? - 1724 Recipe
+ksfS7pjp2y4 15:47 18th Century Nutrition? - Q&A
+NLxNWWeEAlw 9:54 18th Century Beer Brewery Walkthrough
+0gxBzLVyng8 14:27 Getting Started In Living History Case Study
+RW8y4pbYTkI 2:51 Why Are Hops Used In Beers? - Q&A
+Fv4ekr9HGLk 12:45 Caring For Your Tinware
+4egYfaTxR3k 12:29 Making Bread From Beer At Genesee Country Village
+-J6HayX1K6w 12:50 Bugs To Dye Food? - Q&A
+MAQEwlEKWB8 5:22 A Harvest Succotash
+# @removed - too meta
+# ZDOOMEY71ro 8:32 Silver Play Button! - Q&A
+Uwqlx1AuLqc 4:57 Gunsmith Tim Williams
+W3-85vpDKEI 7:21 Paw Paw Pudding
+969EwYCVjJk 3:24 Ice In The 18th and Early 19th Century - Q&A
+Nt5w9Wri7Ug 6:09 Starting a Living History Group from Scratch
+dB-wpPzRclE 4:02 An Onion Soup Recipe from 1801!
+730hiahhze8 4:05 Delicious Boiled Apple Pudding!
+HjvGtCRsvhk 8:26 Jon's Picks For Beginners - Q&A
+XP_KHuk1rIo 5:44 Corn Meal Cooked In A Corn Husk
+txDFVSUFe9k 6:19 Was He Faking It? - Q&A
+OpOmmSiUNyw 6:50 Ice Cream In The 18th Century?
+xf3w6gstzas 10:39 A Discussion On Barm - Q&A
+0kvqebQiNRo 6:17 Best Pork Dish - Pork a la Normand
+VDdStmpR9lw 7:35 18th Century Lemon Preservation - Q&A
+Sp71deZlIxk 9:19 Delicious Rye & Indian Bread At Conner Prairie
+WgytZ9sLnd8 11:11 Food For The Common Person - Q&A
+tKCEaXZRhd8 3:08 A 260-Year Old Recipe for Apple Turnovers!
+saE_Yg59O_E 5:09 Scurvy In The 1700s - Q&A
+vULRz06QfXg 6:11 Vanilla In The 18th Century - Q&A
+qezbTCJjXH8 6:12 Profiles of Martin's Station (1775): "Nancy Ward"
+sLX3d-WbaQk 9:38 1796 Pound Cakes!
+4uuBvkMx-NQ 11:47 What Is Brunswick Stew? - Q&A
+mM3d8W34anQ 2:56 Curly Fries - A 190-Year Old Recipe!
+Ik0QAOifBHk 10:05 Pepper In The 18th Century - Q&A
+h-U59-iigWc 7:21 Two Vegetarian Desserts from 1796
+LGDpoEPpCyA 7:10 Wearing Hats Indoors? - Q&A
+Hm3Px069MVU 10:11 Hominy. What Exactly Is It? - Q&A
+l8_0vYg3PCE 4:26 Handy Trail Food - Campfire Journey Cakes
+jGUtncVoyNc 14:57 What's For Breakfast? - Q&A
+Hn5plM18UKI 7:22 Profiles of Martin's Station (1775): "Captain Joseph Martin"
+FRWYspsyasM 6:26 Delicious Cornmeal Pancakes From The 18th Century
+l6tmis_1ooY 13:26 Were People Health-Conscious In the 18th Century? - Q&A
+ppJciPagl2w 5:59 A 200-Year Old Chicken Salad Recipe!
+ABuZX4LeOvQ 13:27 What About 18th Century Barbecue? - Q&A
+amtDSfYcSXI 7:16 A Centuries-Old Succotash Recipe!
+_Fn8x21NJcU 11:18 Dogs In The 18th Century - Q&A
+1PLv76rQiq0 9:17 18th Century Cheese Curd Fritters
+pWyXlJFOzWQ 11:46 Jon Shares Why You are Important to the Future of This Channel
+1HOQ2U--1Fs 11:12 Keeping Meat From Spoiling - Q&A
+GsyjNef2ydQ 7:11 Fried Chicken In The 18th Century? 300 Year Old Recipe
+O2hMcYKik78 10:47 Colonial Hat Care - Q&A
+AanONPtqaas 2:20 Comments and Questions on our Channel
+tKNrksQDMto 5:07 Tasty Dessert From 1808
+XyiesYyG8fU 9:24 Sweet Pies vs. Savory Pies - Q&A
+ovYRr9fa_EM 4:33 Polish Nobleman Interview
+d8hhRbd41rA 10:17 1796 Beef Steak Pie - Dutch Oven Baking
+qz9BqylSeM4 9:37 Jon's Other Interests! - Q&A
+p9g392de0NM 9:40 Dutch Oven Baking - Meat Pies
+1E5H_igq530 9:05 18th-Century Pudding Sauce Q&A
+s_9quRBs-Sk 5:54 Polish Winged Hussar Interview
+YrTjHYeaA6g 3:24 It's All About The Sauce - Dutch Oven Pastry Baking
+dtjN1qWoflk 10:33 What Is Small Beer? - Q&A
+PurfdC_RXYs 3:10 18th Century Musket Builder Interview
+0DRkQ8S1Kwk 7:28 Delicious 1794 Roast Beef! - Dutch Oven Cooking
+kFkO_13Z0Tk 8:54 A Hobby For Everyone - Q&A
+v-AalZ-VeoU 2:59 Historical Battle Reenactment - Close Combat
+NGBvqNJ8H-U 10:34 Dutch Oven Baking: Getting To Know The Utensil
+lXT6TR46oSE 10:13 Standing Crust Ideas - Q&A
+7I_DgVqSA4o 3:50 Ivy Prepares Wonderful Turnovers!
+xgixm6IS-bU 8:35 Lunch Suggestions On The March - Q&A
+ofANlXsPoys 5:42 Baked Apples With Ivy!
+55M_AijtbCY 6:21 You Have To Try This Delicious Onion Pie!
+6KAOLnVDrYk 10:42 Bedding In The 18th Century - Q&A
+LuVjjF-c7K0 4:44 "Horrible" Gruel Recipe?
+LjSgtHjNcnA 9:05 Cooking Corn With Ashes - Q&A
+kZ6V4askxgk 6:10 History: Discovering the Puzzle - A Conversation With Jon
+iontxuLlGvY 15:02 A Glimpse Into 18th Century Life Through Art - Uncovering History, Eps. 4.
+0KQK1MvtYqw 9:20 Grocery Bags Of The 18th Century - Q&A
+DZuwmOkKdbU 5:08 On The Trail? A Simple Recipe For You.
+0Nj8gh148i4 6:14 Storing Yeast In The 18th Century - Q&A
+b1NOup3RvOw 6:01 Historical Cheesecake with No Cheese - 18th Century Cooking
+0VtWHsCkqIk 9:11 Why is Nutmeg in Every 18th Century Recipe? - Q&A
+z_jAzz72TDQ 7:18 We Had No Idea How This Recipe Would Turn Out
+f35KeyXdkIM 6:57 Choosing Flour For Ship's Biskit - Q&A
+oeqAWSuJwzQ 3:46 Food: A Bridge Between Time and Culture - A Conversation with Jon
+d-QFtneb6y8 6:09 A 1747 "Forced Meat" Cabbage
+dzrB9IQHCT4 10:21 Spices and Herbs in Colonial Recipes - Q&A
+dzxhHB6EAIM 3:34 The Power of YouTube - A Conversation with Jon
+oboVYUhD7jc 4:26 A 300-Year-Old Delicious Sausage Recipe
+Xz7307Hf2p4 9:09 Safety While Cooking - Q&A
+a34dP9NCwjw 6:35 Passion for History - A Conversation with Jon
+lxGIMGiJNwQ 4:32 Trout Poached in Butter Sauce
+1SLjOYrIaO4 7:38 Townsend Products In Movies - Q&A
+4oXnJKttC8U 3:27 Frumenty Follow-Up Questions
+E9LKfr23mCo 6:32 Mmmm, That's Wonderful! - Frumenty: A Wheat Pudding From the 18th Century
+-gr2-NLaHTI 12:10 Tents During Wartime - Q&A
+JQuZS61SezE 4:10 Imitation Coffee from the 17th and 18th Centuries
+IkiC-4ZMD0o 8:04 Fashion in the 18th Century - Q&A
+20ojEhM2MAo 6:34 The Story of a Copper Chocolate Pot
+GBzrkLBAuYw 2:26 Ivy Makes 17th Century Jumbles!
+R20a9OKHFLk 6:32 Hats as a Status Symbol - Q&A
+GuT4MPZ61-E 4:07 An 18th Century Cheese Soup
+cnajzi2vp6g 8:06 Cleaning With Ashes - Q&A
+0xs7_EIC5iI 2:24 Washing Dishes in the 18th Century
+Yv-nSG6fV1g 7:55 A Delicious Lamb in a Blanket
+MsMPxt5LMBw 7:07 Children in Reenacting - Q&A
+IO2R-kCEh98 2:55 The Old Wye Mill in Maryland
+jeXeX9jzN1E 12:25 A Glimpse Into 18th Century Life Through Art - Uncovering History, Eps. 3.
+CYrJjwJbAig 8:20 Help Us Encourage Artisans and Craftsmen - Q&A
+ylcoJUauMGs 4:17 Coppersmith, Peter Goebel
+BJgKI8yvTnc 9:17 The Coin in The Twelfth Night Cake - Q&A
+DS1CQlacX2U 11:01 A Wonderful "Twelfth Night" Cake!
+qI1u8nkqwXM 9:27 Why a "Dutch" Oven? - Q&A
+jhVer2CHJlM 4:14 A Perfect Holiday Gingerbread Cake
+X34YriXy-DM 5:03 Suet Tips and its Many Uses - Q&A
+Hal0j27z1AI 4:57 A Natural Plant Dyer: Experiencing History Through Reenacting
+oGtbcqFXV4Y 6:21 A Delicious Cheese Spread, Welsh Rabbit from 1788.
+UZdO3dhdYPQ 6:52 Cookies, Treats, and Chocolates - Q&A
+9gpda2XpGps 7:35 The Lightest and Crispiest Cookie You'll Eat!
+XMrEoVZWfpw 10:28 Historical Time Pieces in the Kitchen - Q&A
+36wA0JXlYpI 5:02 An 1812 Field Surgeon: Experiencing History Through Reenacting
+Tew1_6htqmw 8:24 An American Chestnut Pudding
+YucM3Zzvekg 7:24 Mixing Time Periods with Your Reenacting Props - Q&A
+nnAp8ukJjyo 7:31 The Traditional Spinster: Experiencing History Through Reenacting
+4Y9vDwlfm1w 8:39 A Delicious Thanksgiving Turkey
+hqbxQQzUbXg 5:58 Choosing Different Meat for Your Boiled Pudding - Q&A
+KWNb8ZpfKI0 7:07 Additions to Improve Your Pemmican? - Q&A
+q8Je33ducec 6:00 German Farmer Interview: Experiencing History Through Reenacting
+c_v_g0iIXTI 6:34 A Savory "1788" Steak Pudding
+HFMZc3MqjMk 8:55 The Best Ash Cake Methods - Q&A
+i6K4JXMb48Y 5:00 Weaver/Trapper Interview: Experiencing History Through Reenacting
+NojtlqEUE0A 5:28 A 240-Year-Old Recipe for Pickling Eggs
+m6M_kyg07GI 3:30 Advice from a Camp Follower: Experiencing History Through Reenacting
+kOXdCaIYgBo 4:29 A Must-Try Recipe! - 18th Century Bread Pudding
+_b-ZO8xUO8o 13:46 Finding the Right Event - Q&A
+cPpAJBvD6Wg 4:05 Trapper/Camp Follower: Experiencing History Through Reenacting
+mJKxQ9YC7N4 11:13 How to build an Earthen Oven and Use it the Same Day!
+I0niucqP5CY 8:19 Earthen Oven Techniques - Q&A
+n_MLrLz35Gc 7:00 Cooking Pumpkins Over an Open Fire
+WXzZtWfbN_8 6:05 Salt Venison in the 18th Century - Q&A
+uMh6lXWYEyk 8:56 The Best Survival Soup - Q&A
+rlhXyUU5K6Q 6:36 Irish Farm Tour at the Frontier Culture Museum
+6mCW5iibwhg 6:05 Simple Sauerkraut Soup -- a Delicious Dish for Soldiers and Sailors Alike
+CbtxQsYsFTI 4:30 Making a Living in Living History - Q&A
+NJHRlUtjvTA 4:24 A New Model for Building Reenacting Organizations
+2iLX1V82MuU 12:52 Recruiting Young Blood into Reenacting.
+_L6M8GcxCf4 9:43 Founding a New Reenacting Group - From a Handful to Hundreds
+Y-3aXbGQYUY 6:11 Drinking Water and Chestnut Rails- Q&A
+LVaS7zG0U34 7:13 Ash Cakes and Soldier Rations - Q&A
+NFfdHL_D7Zo 4:08 How to Pickle Cabbage - when you simply can't wait for Sauerkraut
+mJWRHH0VKzw 5:48 More Firewood Suggestions - Q&A
+gPYZ6z_WXi4 5:12 Improving Your Portable Soup - Q&A
+92xHoNQQ45s 9:40 Simple Soldier Cooking Without Utensils
+9Lj2mY-3CpA 6:52 Great Sauerkraut Ideas - Q&A
+M-EW8RFtZnA 4:13 More Portable Soup Troubleshooting - Q&A
+MVZMvRYFMkU 6:42 Choosing The Right Firewood - Q&A
+ITpr3e_Ld3U 9:14 Making Fresh Sauerkraut
+3eEF9aHn9BM 6:43 Great Advice For Beginners - Q&A
+3rqoh6nUPck 8:59 Advice From a Young Reenactor
+6DEDkDj6JOs 12:52 Mosquitoes In The 18th Century - Q&A
+r6EdE12bauo 7:42 Troubleshooting Portable Soup
+napw-TfbrY8 6:37 Perfect Campfire Dumplings
+EpM51WmYu7Y 15:34 Sugar In Early America - Q&A
+yYLx1qu_9jQ 10:49 A Glimpse Into 18th Century Life Through Art - Uncovering History, Eps. 2.
+lQTPxBi6j8c 7:49 Choosing Your Reenacting Shirt - Q&A
+ztzT0Gdbf0o 4:59 A Delicious Strawberry Tart from the 18th Century
+mc7XLSfDHPI 8:41 Preserving Fruit: How Does It Work?
+UNTpZkiiqUs 4:48 Rediscovering A Lost Method Of Preserving Strawberries
+RbJUfX2zdu8 12:16 18th Century Cookbook Resources - Q&A
+Du4HOoXcMUY 11:19 Sauerkraut In Early America - Q&A
+ZqI2HHDKCCc 4:41 Pickling Onions Made Easy!
+ZDaS27wIExw 10:02 Food On The March: A Difficult Scenario - Q&A
+ZQBZZ6P3aB0 12:31 The Perfect Campfire Coffee! - 18th Century Cooking from Townsends
+MC5KxOh_VZA 6:31 Great Rose Water Questions! - Q&A
+TrvIritLPCU 7:17 Could This Be The Yuckiest Recipe Yet?
+eQjYDORq0Dk 8:34 Why Won't My Jelly Stay Thick?? - Q&A
+rlSYXS2tV7k 4:20 Chicken Soup of the Time - Forgotten Food For The Sick
+AirgjZRPGF8 7:01 Long Term Potato Storage - Q&A
+yUYgguMz1qI 12:40 The Top 6 Historical Egg Preservation Techniques!
+5_bHWCfT_r0 9:23 Uncovering History: Details In A Painting
+gml_mCwBFpY 7:28 Getting Started Reenacting Help Is Coming! - Q&A
+d9WzchoVg8U 7:14 Interview With A Longhunter - Dennis Neely
+kzitnnBoOpE 3:32 Fresh Herbal Tea - Good For What Ales Ya!
+bG0ahlK3kUY 8:34 Historical Eye Glasses From Jas. Townsend and Son
+_BmMPKQer2o 4:24 Jon has a Question for YOU! - Q&A
+l5Yeh9ajNYE 5:24 Pistachio Fried In A Flaky Crust - 18th Century Fritter
+MrnUGfO15vY 3:26 Books on Brewing 18th Century Beer and Wine - Friday Resource Forum!
+UFo_NYojaww 7:24 Straightening Antlers and More - Q&A
+JDFpAIAkPXs 4:09 An Update On The Herb Garden
+hN9AnOxpA0U 5:30 An Easy Way To Keep Green Beans -- 18th Century Food Preservation
+9YEBv0kL_rE 3:32 Eyeglasses and Fabric Research - Friday Resource Forum!
+KMNKgXxT7gQ 5:32 Excellent Knife Suggestions and Hasty Pudding - Q&A
+0WsNJhqrWu0 9:55 Making a Quality Custom Knife, The Easy Way
+w1f1vLdhUuI 4:27 Making Fresh Pasta For Pudding?
+kZNYNAAWyW8 3:17 An Easy Way To Get Printed E-Books for Less! - Friday Resource Forum!
+1patOYJrCQ8 5:47 Switchel, Earthen Ovens, And A Thank You! - Q&A
+tZl-8mN43VU 3:49 Historical Candy: Candied Violets in the 18th Century
+_a3qqIFfXdk 2:57 Friday Resource Forum! -- Today's Topic: Historic Cookbooks
+C_INYlEI9J4 6:02 Herb Gardens And An Exciting Announcement! - Q&A
+jP96AP3Epjg 4:35 Planting an Herb Garden with Centuries-Old Favorites
+RaOfQg1V0Sk 5:29 Is That A Pudding?! - Q&A
+y6NIMNkaGI4 4:48 Dessert Cocktail From 1739 - Whipped Syllabub
+6PZ5eszZaO4 5:46 Tomahawks And Portable Soup - Q&A
+niHMHQEaQ0A 1:22 Changes Are Coming!
+2fE5KzvOZRk 5:56 Easiest Way to Make Portable Soup
+iU8Tw8L3-2Q 7:25 Springtime Soup Made With Wild Greens
+eMu9kMTmX94 6:34 Sealing Wax and Lemon Cream - Q&A
+8VF9lvALA70 2:37 Gathering Wild Spring Greens
+OMCjJpgDYgw 3:33 A Wonderful Lemon Cream from 1796 Cookbook
+Cjcez07A9qA 2:24 How To Use Sealing Wax
+cV36Ol9HJus 6:52 Doughnuts and Reenacting - Q&A
+gjzzbFyPDtk 3:20 Why Do You Reenact?
+M-xwPIWhCFc 5:05 Making Fantastic Doughnuts
+3tgy9Epi9rU 4:45 Asparagus and Meat Pies - Q&A
+r3-cWeMO-BA 3:01 Asparagus Soup - 18th Century Cooking S6E10
+zBL_Ts0CjgM 5:43 Bone Broth and The New Catalog - Q&A
+X9TV44kHgbY 6:48 Hearty Bone Broth Packed With Nutrients
+bQgOe2sxQA0 9:23 Nettle Soup and Suet - Q&A
+Wfbk_UuI7jo 4:07 Pasta Pudding? - Kugel in the 18th Century
+KTzI_H8Hqm0 8:48 Vermicelli Soup - Bone Broth Q&A
+uFQF_k7ABzk 3:38 Super Rich Broth. Handmade Noodles. What's Not To Love?
+ly8JCrrf2v4 7:46 Vermicelli Pasta and More - Q&A
+PtZw9-uhG58 4:11 Handmade Pasta From the 18th Century
+hL9ggfKTmQw 7:28 Posset and Food Processing - Q&A
+3W37acPnX8Y 5:47 Wine Custard, or Posset - 18th Century Cooking S6E5
+lZu2ApLq4so 5:59 Cabbage and Salt Pork - Q&A
+lkd2C3CeK4A 6:00 A Cabbage Farce - 18th Century Cooking S6E4
+EmDLuESNrsY 2:57 Carrot Custard and Mushroom Ketchup - Q&A
+nPT5K3EVk1E 5:34 Strawbale House - Q&A
+gaMoCbuzMjk 2:28 Five Eggs. Butter. Sugar. CARROTS???
+m8spJme7dPw 4:36 Carrot Pudding Substitutions Q&A
+lkpBqbxUGAo 1:51 Strawbale House - Quick info and Construction Pictures
+YcepS9pk4YA 5:00 Carrot Pudding - 18th Century Cooking S6E2
+RM0CKaS6e_k 4:19 Pearl Ash And The Spice Kit Q&A
+CIxnByZRmgs 9:56 Chemical Leavening Discoveries Final Episode - Exploring The 18th Century
+e8sPaesPOiU 5:03 18th Century Energy Drink - Switchel 18th Century Cooking S6E1
+1JfkJue2kBY 4:39 Brick Tea And The Kitchen Set - Q&A
+DBQnI-oJj9Q 8:36 Early Domestic Use - Chemical Leavening Discoveries Part 5
+TGzxss84Yuk 4:07 1824 English Gingerbread 18th Century Cooking with Jas Townsend and Son S5E18
+Ld988VufjbM 3:34 Fritters, Grain, and Gingerbread - Questions And Answers With Jas Townsend And Son
+WuOTHTwgHhk 0:40 Stay Tuned...
+hD7mNUAj9MA 6:42 American Potash Cake 18th Century Cooking with Jas Townsend and Son S5E17
+jJvrCmtVIdQ 6:15 Eggs, Currants, and Bread Questions And Answers With Jas Townsend And Son
+ieHi4PVMJU0 10:53 Poison In Your Bread?! Chemical Leavening Discoveries Part 4
+mIG-gJaYcG0 4:26 1796 Honey Gingerbread 18th century cooking with Jas Townsend and Son S5E16
+5_XhZ6-1rrc 3:33 Facebook Fix Questions And Answers With Jas Townsend And Son
+o-W1E26C4g8 14:03 Chalk In Your Bread?! Chemical Leavening Discoveries Part 3
+zD2a-0X5mMU 5:10 Early American Christmas Cookie 18th century cooking with Jas Townsend and Son S5E15
+gaGnBm_o02k 9:34 Chemical Leavening Discoveries Part 2: Gingerbread
+qsVoPH3uCHE 3:47 1796 Holiday Feast 18th century cooking with Jas Townsend and Son S5E14
+8eFEueSENg0 4:51 Hartshorn And More Questions And Answers With Jas Townsend And Son
+w_ozzlKJivA 8:16 Chemical Leavening Discoveries Part 1
+1p4HTYnituU 3:53 Pumpkin Pie 18th century cooking with Jas Townsend and Son S5E13
+aJy121CwX6U 4:06 Salt Pork And More Exploring The 18th Century Episode 18
+lQncVs8AhfU 3:05 Indian Pudding 18th century cooking with Jas Townsend and Son S5E12
+FcnFya6TGQw 6:30 Yeast and Sugar Substitutes Exploring The 18th Century Episode 17
+o-wHQ7B6o3E 2:47 Trail Pudding - Bonus episode - 18th Century Cooking Jas Townsend and Son
+L-DpDWuhgj0 3:54 Sweet Potato Pudding - 18th century Cooking with Jas Townsend and Son S5E11
+INdEZUb_7yc 3:35 Barm, Stuffing, And More Exploring The 18th Century Episode 16
+3jDgaqgw6NY 5:28 Bread Stuffing and Cranberry Sauce 18th century cooking with Jas Townsend and Son S5E10
+CXSOZ4N2uhE 7:17 Turkey, Art, and More Exploring The 18th Century Episode 15
+rtdwWgAfZ3o 4:43 Interview with Common-Stock Entertainments
+NJCLl1rPDng 8:40 Holiday Turkey - 18th century cooking with Jas Townsend and Son S5E9
+fx5gJ6RhUao 3:25 Fritter Questions Exploring The 18th Century Episode 14
+OuUaQhLMY6A 4:34 Painter Interview Gary Zaradka Part 2
+MZrJ_81ZhrU 4:20 Apple Fritters 18th century cooking with Jas Townsend and son S5E8
+nBdEfwtPTPA 6:48 Pocket Soup And More - Exploring The 18th Century Episode 13
+SWUyob5-BS8 4:29 Painter Interview Gary Zahradka Part 1
+lIdsJJ1w19s 7:19 Ash Cakes Revisited 18th Century Cooking S5E7
+uSWkgpgsnGc 3:56 Foods Of The Rich And Poor Exploring The 18th Century Episode 12
+ypvphqCUI28 4:28 Blacksmith Interview - Mark Thomas of MT Forge
+oi-hih-dNOc 6:30 Portable Mud Oven - 18th Century Cooking S5E6
+O-WreAhn2N8 3:49 Pemmican Storage Exploring The 18th Century Episode 11
+x_3qd8W52c0 4:51 An Interview With Jim's Red Pants
+a6ApJGqJOi0 3:07 Pemmican Episode 4 - 18th century cooking with Jas Townsend and Son S5E5
+YwWqbkJdYYI 3:20 An Interview With Josh - Exploring The 18th Century Episode 10
+uCuolUsiv6U 3:46 Butter And Gluten Free Recipes - Exploring The 18th Century Episode 9
+JHMAoIJuiVU 3:24 Pemmican - The Ultimate Survival Food - Episode 3 - 18th century cooking S5E4
+1oz-wAquMGA 3:33 More On Pemmican Exploring The 18th Century Episode 8
+VtRyzRjpEBM 4:00 The Long "S" Exploring The 18th Century Episode 7
+HQZj1-lSilw 5:43 Pemmican Part 2 - Let's Prepare It!
+lnIlDeqvU9s 3:45 Pudding Exploring The 18th Century Episode 6
+x_vLuMobHCI 3:32 Pemmican - The Ultimate Survival Food
+kBiklTpZqVI 3:19 Earthen Ovens - Exploring The 18th Century Episode 5
+vNiwTr8b2LU 3:00 Baking Hints Exploring The 18th Century Episode 4
+ERWr8la3Y_M 6:20 Making Mushroom Ketchup - 18th Century Cooking with Jas. Townsend and Son
+Hz8QyV1tiNQ 3:15 Research Hints Exploring The 18th Century Episode 3
+oWldJdU9XrU 2:49 While Jon's Away, The Mice do Play: Bloopers
+S03i1PPKuEo 2:00 Music Exploring The 18th Century Episode 2
+xBA0PlNatAg 4:00 Simple Apple Pudding - 18th Century Cooking - Soldier Cooking
+I305aVCKAK8 2:50 Cookbooks Exploring The 18th Century Episode 1
+7_IlkvfebRA 3:19 Wild Cherries 18th Century Cooking with Jas Townsend and Son S4E15
+DFEcAVT0fec 3:37 Cooking Onion Soup - 18th Century Recipe S4E14
+NRRULZe0CdU 4:38 Onion Rings -18th Century Cooking S4E13
+SY6mKVieHZc 2:50 Cooking Simple Hard Dumplings - 18th Century Recipe S4E12
+P5jyaisfskQ 3:35 Currently Making Currant Jelly
+z50nLsbF424 7:28 Red Currant Tart - 18th Century Cooking S4E10
+ktT-z3KMt8g 9:26 Forcemeat Meatballs - 18th Century Cooking S4E9
+xCGt5qxh5-c 8:11 18th Century Pancakes with Whipped Cream and Jam
+IN03MUqeUa4 10:29 Easy Scotch Eggs in the 18th Century
+Hu3EUMtftHs 3:09 Which Clay to use in my Earthen Oven? Jas. Townsend and Son
+SzH5B0T2GYU 8:52 Plum pudding 18th century cooking with Jas Townsend and Son S4E6
+LMh0nU1bUIk 5:02 French Beans in a Ragout 18th Century Cooking with Jas Townsend and Son S4E5
+ouBe6uXkJ6Q 2:36 New Reflector Oven - Tin Kitchen at Jas Townsend and Son
+kmpetFHET3w 3:46 Hot Chocolate Drink - 18th Century Cooking Jas Townsend and Son S4E4
+Wmu2BawJ7ic 7:30 Chocolate Tart - 18th Century Cooking with Jas Townsend and Son S4E3
+M13LaXgmr0Q 6:11 Chocolate Biscuits - 18th Century Cooking with Jas Townsend and Son S4E2
+mPG_6yS6VHk 3:13 Horsetail or Scouring Rush - Helpful Hints from Jas. Townsend and Son
+Yxg_dvGhIKk 6:26 Another Hasty Pudding - 18th Century Cooking with Jas Townsend and Son S4E1
+U54YN7gCYEA 5:44 18th Century Beef Pasty - Part 2 18th century cooking with Jas Townsend and Son S3E16
+jsVDQmx3okg 6:18 18th Century Beef Pasty - Part 1 _ 18th century cooking with Jas Townsend and Son S3E15
+Tn4_CAOqG_U 5:21 Vegetable Pie - 18th Century Cooking with Jas Townsend and son S3-E14
+dfpMRQsqM34 8:25 Standing Crust Shell - 18th Century Cooking with JasTownsend and Son S3E13
+K7ygsDDlJxw 4:03 Stoneware Storage Jars and Imitation Bladders available at Jas. Townsend and Son
+5-y_be5F2dw 8:09 Cheese Tart - 18th Century Cooking Series from Jas. Townsend and Son S3E12
+7Z6zFfafDkQ 3:50 Quire of Paper - (Crepes) 18th Century Cooking Series with Jas Townsend and Son S3E11
+SB1o-8b6J5U 4:54 18th Century Milk Pancakes - 18th Century Cooking Series with Jas. Townsend and Son S3E10
+Iad4GJy73Ks 2:45 Revised - Dutchovens at Jas. Townsend and Son
+eHABi4c_K8s 2:25 Leather Bottles and Costrels at Jas. Townsend and Son
+L4lxZ_6GLhw 5:50 Potato Cheesecake Really? - 18th Century Cooking with Townsends
+fnl-jOnoYgg 9:25 Lobscouse - 18th century Cooking series with Jas Townsend and Son S3E17
+pTc2iGQUdQw 9:02 Standing Crust Meat Pie - 18th Century Cooking with Jas. Townsend and Son S3E8
+ypRsO9KdxXk 10:52 Suet - 18th Century Cooking with Jas. Townsend and Son S3E7
+qAxnt3DMI70 4:46 Cooking Historical Lemon Cheesecake - 18th Century Recipe S3E6
+WrulF6z-1Mw 8:58 Christmas Mince Pie - 18th Century Cooking with Jas. Townsend and Son S3E5
+BpaIrBVDsLg 5:12 Pear Tart - 18th Century Cooking with Jas Townsend and Son S3E4
+-xuZ9voHjuI 3:27 How to Make Simple Pie Crust - 18th Century Cooking
+js3dcJ2KyF8 8:23 How to Make Puff Paste Crust - 18th Century Cooking with Jas. Townsend and Son S3E2
+OUGjxi6SHHU 7:16 Standing Paste Pie Crust - 18th Century Cooking with Jas. Townsend and Son S3E1
+zs9fD40jG-o 4:32 Challenges and Thanks - 18th Century Cooking at Jas. Townsend and Son
+NAoj2iA8hMQ 3:24 Blog Thoughts on 18th Century Cooking at Jas. Townsend and Son
+VAQivvWHcww 3:54 Thoughts on Research - 18th Century Cooking with Jas. Townsend and Son
+y2b1n5ZuYxU 3:49 Personal Thoughts about The 18th Century Cooking Series
+YYTIsQQoanM 8:01 Pain Perdu - Historical French Toast - 18th Century Cooking S2E19
+t8hLp0ND4OY 8:03 No-Knead French Bread: 18th Century Breads, Part 7. Cooking with Jas. Townsend and Son S2E18
+KkbuIP0kby0 2:23 Dutch Ovens at Jas. Townsend and Son
+2vTa6M8QyrU 3:35 Which Yeast?: 18th Century Breads, Part 6. Cooking with Jas. Townsend and Son S2E17
+9q8kNsc3iv8 9:11 Sourdough from Leaven: 18th Century Breads, Part 5. Cooking with Jas. Townsend and Son S2E16
+leC_cCs4i5w 9:46 Understanding Bread. What Makes It Rise?: 18th Century Breads, Part 4.
+SAhL8AQTl2E 1:20 Everted Copper Sauce Pan available at Jas. Townsend and son
+tVuWJ54CjpE 9:01 Cornbread: 18th Century Breads, Part 3. S2E14
+0dtBjqIu5W8 9:58 Baking Historic Mixed Grain Breads: 18th Century Cooking S2E13
+FyjcJUGuFVg 9:02 Ship's Bisket - Hard Tack: 18th Century Breads, Part 1. S2E12
+Y8R-w0uhNGU 9:33 Delicious Asparagus Forced in a French Loaf - 18th Century Cooking S2E11
+f0e6fOKQT7k 9:48 WhitePot Bread Pudding - 18th Century Cooking Series S2E10
+ytLt_GLiRZs 5:53 Cleaning Copper Dishes
+rWYtmcEXgPw 6:17 Cookie or Cracker? You Decide! - 18th Century Cooking Series S2E8
+BPQVFQmwZMU 10:29 Mud Oven in 24 Hrs - Start to Finish
+KbTn_IjmUFc 4:30 Stinging Nettle Soup - 18th Century Cooking Series with Jas. Townsend and Son S2E6
+i6xwZEsEaw0 7:13 How to Season Cast Iron Cookware - 18th Century Cooking Series S2E5
+_m7W8yBUIHY 3:40 Here’s Why We Built Our Kitchen.
+JjNO4EH69r8 10:14 How to make a Quaking Pudding - Boiled Puddings Part 2 - 18th Century Cooking Series S2E3
+KzFtoJEBtps 12:43 Boiled Plum Pudding - 18th Century Cooking Series S2E2
+_Oq3mtcEGi0 6:22 Cookbooks - 18th Century Cooking Series 2 with Jas. Townsend and Son S2E1
+ckELeAo-Lzo 10:05 Baked Beans - 18th Century Cooking Series at Jas Townsend and Son
+2pUHi3ZV4r0 6:22 "A Pound of Meat" Soldier Food in the 18th Century
+TLux39dDBWk 9:35 Baking Wiggs Seed Cakes - 18th Century Cooking Series
+29u_FejNuks 6:30 Making Mushroom Ketchup, 18th Century Cooking Series at Jas. Townsend and Son - Townsends
+Nlo-4ugeFU8 10:38 Cooking 18th Century Meat Pies at Jas. Townsend and Son
+p3I8WzTltAo 4:08 Just Add Flour and Fry It! - Tasty Fish Cakes
+WAJqGVxuJPo 7:16 Baking Bread in the Earthen Oven Part 2 - 18th Century Cooking Series
+i0foHjPVbP4 12:31 How to Build an Earthen Oven
+9qIEE-CeNn8 3:48 The Hardships of 18th Century Soldiers
+fKNGPMefJ_A 7:33 Soup, Stew and Hash - 18th Century Soldier Cooking S1E4
+ZdmPIpQZPRg 6:17 Preparing Salt Pork - 18th Century Cooking Series S1E5
+f55ZjXt7rrc 10:13 Cooking Ash Cakes - 18th Century Cooking Series S1E3
+# @removed - advertisements
+# UVWzUUMIaI8 1:29 Townsend's Rotisserie Set
+gFFxPVfJNXQ 7:17 Cooking Pumpkins - 18th Century Cooking Series S1E2
+qUt1ZHs3wQ8 2:34 18th Century Soldier's Rations - Cooking Series at Jas Townsend and Son S1E1
+tQfelatUur8 15:49 Death by Zombies
+Zg65rB-z66Q 3:02 Starting a Fire with Flint and Steel at Jas Townsend and Son
+G_iITvMJZEY 9:58 Making Beeswax Candles at Jas Townsend and Son
+# Qdeao8VuOvc 3:31 Strangely Ever So Slightly Green Sale at Jas Townsend and Son
+# HUPicKky8q4 5:27 18th Century Lighting at Jas Townsend and Son
+# JjDaQAfIPew 1:46 Men's 1830's Clothing at Jas. Townsend and Son
+# A4wUEkOdrdU 1:55 Ladies 18th Century Shortgown Outfit at Jas Townsend and Son
+t9fNT33UPyk 4:18 DRESSING A LONGUNTER
+lTj69MROASA 4:06 Buttons at Jas Townsend and Son
+Mbp9gUQEyyM 1:49 Sewing Kit at Jas Townsend and Son
+2drhn3QDgtI 9:27 Weaving on an Inkle Loom at Jas Townsend and Son
+Ao1fHB9g_yA 4:08 Canteens at Jas Townsend and Son
+_4mEKFl53j8 4:31 Making Pottery at Jas Townsend and Son
+5d65fzLmJEs 3:46 Reed Stem 18th and 19th Century Tobacco Pipes
+yAeucZG98oM 5:17 Making Hasty Pudding - Jas Townsend and Son
+igBvQeQQh4M 1:38 Pocket Spice Kit Informational Video
+76bfbziXgu0 1:50 Townsend's Traveling Physician - 18th Century Medicine Kit
+# BW3st-zVKOE 2:59 Oak Kegs at Jas Townsend and Son
+# 6GYcEKlUUYM 5:39 18th Century Work Shirts at Jas. Townsend and Son
+# _Y1sYnUT5VY 1:12 JTS Video Collection on DVD
+wCKkG4AMFOY 2:50 Caring for Your 18th Century Leather Shoes
+# BMbtRtqu1oY 2:43 18th Century Mens Shoes at Jas Townsend and Son
+# CR7hbun0Hbo 4:48 18th Century Writing Items available at Jas Townsend and Son
+# dB6NaRKr--E 2:18 Folding Writing Desk at Jas. Townsend and Son
+# wgwvG7M82tU 5:38 18th Century Mens Felts Hats at Jas. Townsend and Son
+# BR8PuwYXMOU 2:36 Closeup view of Rev War Regimental Coat from Jas Townsend and son
+# om5hXLDxta4 3:34 18th Century Style Pocket Watches at Jas. Townsend and Son
+MW0b_jufUjQ 3:04 Dough Bowl Information and Care
+fb198dPndE4 3:05 How to Take Care of your 18th Century Reproduction Knives
+cKYGjhj9DfQ 7:33 Choosing Period Eye Glasses for Historical Reenacting
+PtJuHU9nLtU 3:30 How-to Reline your Canteen with Pitch
+ftst7ZfhiJw 6:50 Reproduction 18th Century Coins at Jas Townsend and Son
+YYpl0In8laI 2:46 Roasting Green Coffee Beans
+_O68bv_EwIg 9:10 Tour of Jas Townsend and Son
+HMAvG97cLvc 8:46 Installing Shoe Buckles
+WeAz_-Bl3mg 0:18 Combination Rush Light Holder S-4040
+0YYAiSjgPeY 0:24 Iron Betty Lamp BL-25
+d7oMkHWaoY8 1:35 Do You Always Dress Like That?
+rtuIpkMaVBI 1:31 Assembling Fire Set from Jas Townsend and son
+fVsZ8WXV3Us 1:02 Revolutionary War Continental Coat
 
 # Island Voices Videos
 
