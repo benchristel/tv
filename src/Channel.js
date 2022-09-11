@@ -7,7 +7,7 @@ import { mulberry32 } from "./lib/random"
 
 import type { Broadcast } from "./Broadcast"
 import type { Episode } from "./data/types"
-import { equals, expect, test } from "@benchristel/taste"
+import { equals, expect, is, test } from "@benchristel/taste"
 import { binarySearch } from "./lib/binarySearch"
 
 export interface Channel {
@@ -26,6 +26,8 @@ type Schedule = Array<
 >
 
 export const GAP_SECONDS = 2
+export const SCHEDULE_GENERATION_PERIOD = 24 * 3600
+export const TIMEZONE_OFFSET = 8 * 3600
 
 export function createChannel(name: string, episodes: Array<Episode>): Channel {
   const getSchedule = cache(1, ScheduleGenerator(episodes))
@@ -39,11 +41,12 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
 
   function getBroadcast(time) {
     const seconds = time / 1000
-    const secondsOfDay = (seconds - 8 * 3600) % (24 * 3600)
+    const secondsOfDay =
+      (seconds - TIMEZONE_OFFSET) % SCHEDULE_GENERATION_PERIOD
     const dayBoundary = seconds - secondsOfDay
     const schedule = getSchedule(String(dayBoundary))
     const segment = binarySearch(schedule, (seg) => seg.startAt <= secondsOfDay)
-    if (segment == null) return {type: "nothing", nextVideoId: ""}
+    if (segment == null) return { type: "nothing", nextVideoId: "" }
     if (segment.type === "video") {
       return {
         type: "video",
@@ -61,11 +64,16 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
 }
 
 const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
+  episodes = [...episodes]
   const rng = mulberry32(cyrb128_32(seed))
   let totalDuration = 0
   let schedule: Schedule = []
-  while (totalDuration < 24 * 3600) {
-    const episode = pick(episodes, rng())
+  let i = 0
+  while (totalDuration < SCHEDULE_GENERATION_PERIOD) {
+    if (i === episodes.length) i = 0
+    swap(episodes, i, randomIntInRange(i, episodes.length - 1, rng))
+
+    const episode = episodes[i++]
 
     for (const video of episode.videos) {
       schedule.push(
@@ -87,11 +95,35 @@ const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
   return schedule
 }
 
+function swap(array, i, k) {
+  const tmp = array[i]
+  array[i] = array[k]
+  array[k] = tmp
+}
+
+function randomIntInRange(low, high, rng) {
+  return low + Math.floor(rng() * (high + 1 - low))
+}
+
 function add(a, b) {
   return a + b
 }
 
 // TESTS =====================================================================
+
+test("randomIntInRange", {
+  "when low and high are the same"() {
+    expect(randomIntInRange(3, 3, Math.random), is, 3)
+  },
+
+  "when low and high are 1 apart"() {
+    const results = new Set()
+    for (let i = 0; i < 30; i++) {
+      results.add(randomIntInRange(0, 1, Math.random))
+    }
+    expect(results, equals, new Set([0, 1]))
+  },
+})
 
 test("ScheduleGenerator", {
   "schedules a single 24-hour video"() {
@@ -187,16 +219,16 @@ test("ScheduleGenerator", {
       equals,
       [
         "three",
+        "two",
+        "one",
+        "two",
         "one",
         "three",
         "two",
-        "two",
         "three",
         "one",
         "three",
         "two",
-        "two",
-        "one",
         "one",
       ]
     )
