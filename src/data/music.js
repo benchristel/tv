@@ -244,16 +244,17 @@ export const albums: Array<Episode> = map(
   `,
   `
     # Pink Floyd - The Dark Side of the Moon
-    HW-lXjOyUWo 1:08 Speak To Me
-    Vddl9TK5RqU 2:50 Breathe (In The Air)
-    2sUyk5zSbhM 3:46 On The Run
-    Qr0-7Ds79zo 6:57 Pink Floyd – Time (Official Audio)
-    mPGv8L3a_sY 4:45 The Great Gig In The Sky
-    -0kcet4aPpQ 4:44 Pink Floyd - Money (Official Music Video)
-    GKiLEgAzFDQ 7:50 Us And Them
-    _83urK9rO4U 3:27 Any Colour You Like
-    BhYKN21olBw 3:47 Brain Damage
-    9wjZrswriz0 2:13 Eclipse
+    npsgOn1QY1M 41:53 Pink Floyd - Dark side of the moon - HD - High Audio Quality (Full Vinyl Album)
+    # HW-lXjOyUWo 1:08 Speak To Me
+    # Vddl9TK5RqU 2:50 Breathe (In The Air)
+    # 2sUyk5zSbhM 3:46 On The Run
+    # Qr0-7Ds79zo 6:57 Pink Floyd – Time (Official Audio)
+    # mPGv8L3a_sY 4:45 The Great Gig In The Sky
+    # -0kcet4aPpQ 4:44 Pink Floyd - Money (Official Music Video)
+    # GKiLEgAzFDQ 7:50 Us And Them
+    # _83urK9rO4U 3:27 Any Colour You Like
+    # BhYKN21olBw 3:47 Brain Damage
+    # 9wjZrswriz0 2:13 Eclipse
   `,
   `
     # Pink Floyd - The Division Bell
@@ -387,5 +388,52 @@ export const albums: Array<Episode> = map(
     36B1W-JIX-A 3:52 Markahuasi - Vientos Del Sur (Winds of the South)
     zmB2ulRI_4c 6:26 Markahuasi - El Condor Pasa (Flight of the Condor)
     ZzEjGlRkdFQ 4:55 Markahuasi - Tinku
+  `,
+  `ZCNTaH8VSEg 30:08 Fairuz - Al Quds - فيروز - القدس العتيقة - HD - High Audio Quality (Full Vinyl Album)`,
+  `
+    # DARKSIDE - Spiral
+    uq0OncoFp70 6:16 Narrow Road
+    pek2nt59lUY 5:22 The Limit
+    3_Bcw2O0f_c 5:09 The Question Is To See It All
+    RJ-_tY3JgUs 5:50 Lawmaker
+    zKu9izMdLP0 5:09 I'm the Echo
+    nq8ftImCQYw 4:59 Spiral
+    8WsbdoTkKOI 4:03 Liberty Bell
+    Nd6BRdX9lV0 8:36 Inside Is Out There
+    kxK0mtDeQMI 6:31 Only Young
+  `,
+  `
+    # Die Irrlichter - Elfenhain
+    DUqUNQFws5M 3:54 Aelinesse na megil
+    uk4Sa6lblvk 3:13 Der Fischer
+    n0UbhpSlTqE 2:55 Roter Mond
+    ClXoQyBzCoE 3:14 Der Weg
+    9PkfmZ4p_8c 3:07 Der rechte Mann
+    J_qb8g5xRAM 2:28 Schenk voll ein
+    qLUbzbLbGDQ 4:02 Branle des souris
+    IJ7EebHnCnk 5:24 Elfenhain
+    rq-tl23hTpQ 2:18 Sigurd Store
+    qb_Fe_JzQMY 2:23 Les filles des forges
+    FPqzHYi3b3c 3:24 Das Spiel mit den Leuten
+    jS6w2Zc5smE 3:15 Ronde mon ami
+    41rLvBf3Cbk 4:47 Wildgänse
+    kgx8yMM3RpM 2:55 Cantum Corvi
+    ci1s7CM869A 3:06 Ravens March
+  `,
+  `
+    # Solanaceae - Solanaceae
+    LDB9Hnx1OnA 6:36 I Saw Them Through The Pines / They Only Walk On Moss
+    HHsv3xwcYxs 4:04 Through The Trees Spears The Sun
+    VnSYhm0-wHo 3:18 Fenella
+    a6FPaO7a8Us 3:43 The Blood Of My Lady
+    WsUYTrCAaFU 5:24 O Deep Woods
+    3RckNyhaLIo 3:52 Nakkiel II
+    nHComn8D1mM 3:57 Midnight Garden
+    md_qcimQEio 3:03 Samorost
+    NJT2B7Bc178 3:38 The Blood Of My Lady II
+    2BgyJLEGS2E 4:06 Hemlock and Mandrake Fields
+    U1JbAItSLH0 5:09 The Swallows Spiral Through Them
+    bTSQO7jOb54 2:44 Nihil Sum
+    7rPaczMY1KI 4:59 I Saw Her Through The Pines
   `,
 ])
