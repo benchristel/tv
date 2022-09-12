@@ -68,7 +68,7 @@ export function VideoInfo(props: {|
   const vm = viewModel({ broadcast, player })
   return (
     <>
-      <button class="close-button" onClick={onClose}>
+      <button className="close-button" onClick={onClose}>
         close
       </button>
       <h1>Culture Machine</h1>
