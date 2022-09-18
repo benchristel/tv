@@ -1,7 +1,9 @@
 // SCRAPING A CHANNEL, VIDEO, OR PLAYLIST PAGE
 // Paste this into the JS console on YouTube.
 // Right-click the text that gets printed and select "Copy Object".
-console.log(
+navigator.permissions.query({ name: "geolocation" }).then()
+
+navigator.clipboard.writeText(
   // Video page
   /\/watch\?/.test(window.location)
     ? [

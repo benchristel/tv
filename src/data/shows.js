@@ -1,6 +1,19 @@
 // @flow
+import type { Episode } from "./types"
 import type { Video } from "./types"
 import { parseVideos } from "./ingestion"
+
+const pipe: $ComposeReverse = ((...fns) => {
+  return fns.reduce(rcompose)
+}: any)
+
+function rcompose<T, U, V>(f: (T) => U, g: (U) => V): (T) => V {
+  return (...args) => g(f(...args))
+}
+
+function map<T, U>(f: (T) => U): (Array<T>) => Array<U> {
+  return (array) => array.map(f)
+}
 
 export const debuggingVideos: Array<Video> = parseVideos(`
     vKXu0CzRcrI 0:16 Here's Tree
@@ -715,6 +728,22 @@ export const channel4Videos: Array<Video> = parseVideos(`
 
 `)
 
+export const channel4Segments: Array<Episode> = map(
+  pipe(parseVideos, (v) => ({ videos: v }))
+)([
+  `
+    BShj3SPzpSk 7:15 Eternal Reaches - Lodaris Sub-sector worlds
+    Thj22uZuWa4 4:38 Eternal Reaches GIVEAWAY - Mongoose Traveller 2ed Starter Set - Competition NOW CLOSED
+    11_7X-Ey7AA 22:56 Eternal Reaches - Lodaris Sub-Sector Interstellar Factions
+    _lorRfxn-sU 13:06 Eternal Reaches - The Intersection - Traveller Setting
+`,
+  `
+    4-OoJwwDLm4 1:52:32 RenSpace - Traveller MgT2e Worldbuilding - Session 1
+    2OFEebuUg9M 1:15:54 RenSpace - Traveller MgT2e Worldbuilding - Session 2
+    uQsqPKM9_jo 1:27:35 RenSpace - Traveller MgT2e Worldbuilding - Session 3
+`,
+])
+
 // Scifi Ambience
 export const channel5Videos: Array<Video> = parseVideos(`
     IoOsnVFOgpM 1:00:00 Derelict Ship | Sci-fi ASMR Ambience | 1 Hour
@@ -743,7 +772,6 @@ export const channel5Videos: Array<Video> = parseVideos(`
     yttvb9ByOtY 7:00:00 ASMR Cyberpunk Future City Aerial Sound Music Ambience 7 Hours 4K - Sleep Relax Focus Chill Dream
     7aDpCIDYDc8 1:06:24 Songs for Dead Planets
     yp7Mqp-X2wk 7:00:00 ASMR Cyberpunk Future City Hacker Room Sound Ambience 7 Hours 4K - Sleep Relax Focus Chill Dream
-    jXslH7Z9-Fg 1:08:14 Tony's Workshop Music — Productivity Superhero Mix
     bDe8EXaKg3I 1:53:52 Dune Ambient Music | Hans Zimmer
     k3fz6CC45ok 1:52:42 Vangelis - Blade Runner Soundtrack (Remastered 2017)
     7aDpCIDYDc8 1:06:23 Songs for Dead Planets
