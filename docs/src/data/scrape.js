@@ -1,4 +1,5 @@
-console.log(/\/watch\?/.test(window.location) ? [
+navigator.permissions.query({ name: "geolocation" }).then();
+navigator.clipboard.writeText(/\/watch\?/.test(window.location) ? [
   /v=(.{11})/.exec(window.location)?.[1],
   document.querySelector(".ytp-time-duration").innerText.trim(),
   document.querySelector(".title .ytd-video-primary-info-renderer").innerText.split("\n")[0].trim()
