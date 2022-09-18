@@ -342,6 +342,120 @@ export const campaigns: Array<Episode> = map(
   `
   ak6_MTBTGtY 56:05 Mothership RPG - Live Character Creation!
 `,
+  `
+  vO2n9nj03Qs 2:13:21 The Ballad of Haunted West Prosperity, Are You Going My Way 2 of 2
+  RYfAEzpS3ZM 2:29:07 The Ballad of Haunted West: Prosperity, Are You Going My Way? (1 of 2)
+  `,
+  `
+  tKHHUxuqbHw 2:33:02 Harlem Unbound Actual Play: Whispers of Harlem
+  `,
+  `
+  a59ugPOvvjw 2:11:02 Roll20 Actual Play of Haunted West: Session 0
+  5YsjwaD6oF0 3:18:35 Roll20 Actual Play of Haunted West: Session 1
+  ELY36NvSAf4 3:11:38 Roll20 Actual Play of Haunted West: Session 2
+  uaGBc_h2o9E 3:19:24 Roll20 Actual Play of Haunted West: Session 3
+  PSbXJsPhkSI 3:44:19 Roll20 Actual Play of Haunted West: Session 4 (Finale)
+  `,
+  `
+  zVEEfGsvj3g 2:51:54 Harlem Unbound ACTUAL PLAY (Part 2) 9.27.20
+  00R_FyGMBOg 3:05:51 Harlem Unbound ACTUAL PLAY (Part 1) 8.16.20
+  `,
+  `
+  est9-SuXKOs 1:00 HarlemUnbound THE DELIVERY
+`,
+  `
+  2bZLRC2cBv8 2:52:54 Cyberpunk RED Actual Play - S01E0 - The Apartment #actualplay #cyberpunkred #twitch
+  7NZoiYCmZUw 2:08:06 Cyberpunk RED Actual Play - S01E1 - Shot Through the Heart #actualplay #cyberpunkred #twitch
+  qeTYuyQKrxw 3:27:15 Cyberpunk RED Actual Play - S01E2 - The Nook #actualplay #cyberpunkred #twitch
+  L0yLU9d2eHE 3:10:50 Cyberpunk RED Actual Play - S01E3 - Back to the Apartment #actualplay #cyberpunkred #twitch
+  _tk1saZE9qI 3:04:38 Cyberpunk RED Actual Play - S01E4 - The Vigil #actualplay #cyberpunkred #twitch
+  jFjXJz3vmhM 3:05:49 Cyberpunk RED Actual Play - S01E5 - Gojira Comes Alive #actualplay #cyberpunkred #twitch
+  kwtasLkYcPA 2:18:23 Cyberpunk RED Actual Play - S01E6 - F Yo Couch #actualplay #cyberpunkred #twitch
+  5XfIzclwpuc 2:14:13 Cyberpunk RED Actual Play - S01E7 - Spoiled Milk Run #actualplay #cyberpunkred #twitch
+  JPcKNa0ldH4 2:11:07 Cyberpunk RED Actual Play - S01E8 - The Albino Terminator #actualplay #cyberpunkred #twitch
+  lFMHurCx1rg 3:11:31 Cyberpunk RED Actual Play - S01E9 - Moxie Meets The Eyes #actualplay #cyberpunkred #twitch
+  b-J5KHRC8B8 2:50:36 Cyberpunk RED Actual Play - S01E10 - Wraith Needs Rehab #actualplay #cyberpunkred #twitch
+  SRC7daCMSQI 3:07:08 Cyberpunk RED Actual Play - S01E11 - Loud Cargo #actualplay #cyberpunkred #twitch
+  KEJDxTvF1SY 3:01:06 Cyberpunk RED Actual Play - S01E12 - Tranqing the Captured Tiger #actualplay #cyberpunkred #twitch
+  d6GUF8Z-_rE 3:26:09 Cyberpunk RED Actual Play - S01E13 - The Lost Sister #actualplay #cyberpunkred #twitch
+  eLsfyY23OLE 3:59:32 Cyberpunk RED Actual Play - S01E14 - Best Laid Plans #actualplay #cyberpunkred #twitch
+  PhAxdQiamQQ 3:04:50 Cyberpunk RED Actual Play - S01E15 - Showdown In Little Italy #actualplay #cyberpunkred #twitch
+  pwpdjoJbJtk 3:16:45 Cyberpunk RED Actual Play - S01E16 - Gojira's Castle Adventure #actualplay #cyberpunkred #twitch
+  rpGm3l8g45M 3:49:31 Cyberpunk RED Actual Play - S01E17 - A Hal of a Day #actualplay #cyberpunkred #twitch
+  henGpI_CjGo 2:47:07 Cyberpunk RED Actual Play - S01E18 - Arcade Fire Fight #actualplay #cyberpunkred #twitch
+  zbK60_0MO_I 3:12:30 Cyberpunk RED Actual Play - S01E19 - Gojira Buys a Car #actualplay #cyberpunkred #twitch
+  Er7fCj2G9kw 3:40:54 Cyberpunk RED Actual Play - S01E20 - A Debt to Be Paid #actualplay #cyberpunkred #twitch
+  jSctIDH9S6I 3:32:12 Cyberpunk RED Actual Play - S01E21 - Vampires, knives, and the color blue #actualplay #cyberpunkred
+  QD_fEoumFJM 2:56:36 Cyberpunk RED Actual Play - S01E22 - The Truth Comes Out In Neon #actualplay #cyberpunkred #twitch
+  PVKKw57NYJo 3:07:48 Cyberpunk RED Actual Play - S01E23 - Bright Eyes and Black Words #actualplay #cyberpunkred #twitch
+  xet4LOymaKk 3:39:20 Cyberpunk RED Actual Play - S01E24 - Kammi's Day Out #actualplay #cyberpunkred #twitch
+  dP3ViqKMFXM 4:30:06 Cyberpunk RED Actual Play - S01E25 - Into The Tiger's Den #actualplay #cyberpunkred #twitch
+  XTLxiJ0AZhI 4:04:55 Saves vs Death Cyberpunk RED - S01E26 - Road Rage In The Combat Zone
+  tYVL3RmuXzQ 4:31:07 Cyberpunk RED Actual Play - S01E27 - Winner Takes All #actualplay #cyberpunkred #twitch
+  7u6aDeFyoOI 4:04:14 Cyberpunk RED Actual Play - S01E28 - The House Always Wins #actualplay #cyberpunkred #twitch
+  uvV19KJ1K80 3:43:10 Cyberpunk RED Actual Play - S01E29 - When the Running Ends #actualplay #cyberpunkred #twitch
+  Pkh1LlQZOWI 3:33:55 Cyberpunk RED Actual Play - S02E01 - The New Kid in Town #actualplay #cyberpunkred #twitch
+  Up1vRNYqGdE 3:33:46 Cyberpunk RED Actual Play - S02E02 - A Man Not Named Cal #actualplay #cyberpunkred #twitch
+  e97mx8SlmaI 3:54:28 Cyberpunk RED Actual Play - S02E03 - Going to the Mall and M and M #actualplay #cyberpunkred
+  eUhmjVFKDPU 3:47:58 Cyberpunk RED Actual Play - S02E04 Street Preaching, Psychos and Big Feet #actualplay #cyberpunkred
+`,
+  `
+  wS1wuNlV2y4 1:57:44 Gene X: Cortex Prime #00 Character Creation
+  keyavsZMtX8 3:00:50 Gene X: Cortex Prime #01 #superheroes #rpg #ttrpg #actualplay
+  HchzL4Zrnn8 2:46:22 Gene X: Cortex Prime #02 #rpg #ttrpg #actualplay
+  9U9usyTN1wE 3:05:00 Gene X: Cortex Prime #03 #rpg #ttrpg #actualplay #superhero #london
+  GuHmZo_2ZRU 3:12:24 Gene X: Cortex Prime #04 #superheroes #rpg #ttrpg #actualplay
+  l1CYK6N-Q3A 3:40:01 One Shot Saturday: Gene X Villains in Cortex Prime run by JiB #rpg #ttrpg #actualplay #oneshot
+  _gvddBuaAnk 3:07:36 Gene X: Cortex Prime #05
+  tucvtog8O8k 3:12:47 Gene X: Cortex Prime #06 #superheroes #mutants #rpg #ttrpg
+  LNrt1nDRtYc 2:49:37 Gene X: Cortex Prime #07 #mutants #superheroes #rpg #ttrpg #hjrpg
+  uOzzYbeVoKI 2:57:20 Gene X: Cortex Prime #08 #rpg #ttrpg #mutants #london
+  PcgQ04uA528 3:23:11 Gene X: Cortex Prime #09 #rpg #ttrpg #actualplay #mutants #superheroes
+  cimzf6oBGGc 2:49:45 Gene X: Cortex Prime #10 #rpg #mutants #actualplay
+  3sf3ORf6XnE 2:44:45 Gene X: Cortex Prime #11 #mutants #rpg #london
+  4-qBrIHQQi4 3:15:00 Gene X: Cortex Prime #12 FINALE!
+`,
+  `
+  UFUD2WEojxM 2:13:41 Marvel Heroic Roleplaying AoA 01
+  4bk9r1p9dHE 2:18:56 Marvel Heroic Roleplaying AoA 02
+  uNNS25M-ijw 1:35:59 Marvel Heroic Roleplaying AoA 03
+  b_8uq_qut-o 2:00:07 Marvel Heroic Roleplaying AoA 04
+  8rOynLMvpBQ 1:38:23 Marvel Heroic Roleplaying AoA 05
+  a25KG8XndYY 1:54:17 Marvel Heroic Roleplaying AoA 06
+  bbuwmUvJBVM 1:51:12 Marvel Heroic Roleplaying AoA 07
+  sAEA7-7c2zE 1:39:05 Marvel Heroic Roleplaying AoA 08
+  iJzjBx--Cjg 2:00:24 Marvel Heroic Roleplaying AoA 09
+  8Gb1QmP-NhU 1:21:29 Marvel Heroic Roleplaying AoA 09.5
+  FqlQ6muDqJ8 1:28:51 Marvel Heroic Roleplaying AoA 10
+  637jIFGX9Xg 2:05:26 Marvel Heroic Roleplaying AoA 11
+  lzqTCqJXxsU 1:31:00 Marvel Heroic Roleplaying AoA 12
+  Dy7PrsN5LxE 42:07 Marvel Heroic Roleplaying AoA 13
+  RsSX2FeL24Y 1:37 Marvel RPG Age of Apocalypse Game is On Haitus
+`,
+  `
+  Pzg7W1BUWrk 1:33:01 Eidolon Alpha Ep 1: The Call | Cortex Prime TTRPG
+  jMJiMvQYZTo 1:29:02 Eidolon Alpha Ep 2: The Oracle | Cortex Prime TTRPG
+  CgQ3Fa8prB8 1:48:19 Eidolon Alpha Ep 3: Corruption | Cortex Prime TTRPG
+  rO38Q-xOw4c 1:50:38 Eidolon Alpha Ep 4: Friend & Foe | Cortex Prime TTRPG
+  yR2BQ9ONEDM 1:55:07 Eidolon Alpha Ep 5: The Hostage | Cortex Prime TTRPG
+  OtEeO7rzIZU 1:56:21 Eidolon Alpha Ep 6: The Fates | Cortex Prime TTRPG
+  3u7Je9IYo9A 1:31:13 Eidolon Alpha: Dekathlon | SESSION ZERO | Cortex Prime TTRPG
+  JbB8N251VHo 1:41:30 Eidolon Alpha: Dekathlon Ep 1 | Cortex Prime TTRPG
+  ckM1_jXIhwE 1:57:16 Eidolon Alpha: Dekathlon Ep 2 | Cortex Prime TTRPG
+  pw_joVces0o 1:57:46 Eidolon Alpha: Dekathlon Ep 3 | FINALE | Cortex Prime TTRPG
+`,
+  `
+  GYsREHAdfvU 1:59:19 Cortex Prime TTRPG | Role & Keep | Hammerheads Ep 1
+  35bj8ejW96M 1:56:58 Cortex Prime TTRPG | Role & Keep | Hammerheads Ep 2
+  eaXZp9vS1O8 1:56:35 Cortex Prime TTRPG | Role & Keep | Hammerheads Episode 3
+  E9PiyNPOF3o 1:57:05 Cortex Prime TTRPG | Role & Keep | Hammerheads Episode 4
+  BpsbC6Ur51A 1:51:27 Cortex Prime TTRPG | Role & Keep | Hammerheads Episode 5
+  PAYywaIyfyg 1:48:40 Cortex Prime TTRPG | Role & Keep | Hammerheads Episode 6
+`,
+  `
+  ZUM8pL9fEI8 1:55:59 Cortex Prime Horror TTRPG | maninthelake.exe Ep 1
+  2ySybevyUMM 1:50:59 Cortex Prime Horror TTRPG | maninthelake.exe Ep 2
+`,
 ])
 
 test("pipe", {
