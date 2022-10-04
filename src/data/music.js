@@ -436,4 +436,21 @@ export const albums: Array<Episode> = map(
     bTSQO7jOb54 2:44 Nihil Sum
     7rPaczMY1KI 4:59 I Saw Her Through The Pines
   `,
+  `
+    # Nightwish
+    NzWizk3e4MM 4:28 1.Nightwish - Dark Chest Of Wonders
+    NtEAh5xPvHU 5:21 Nightwish - Gethsemane
+    wEERFBI9eCg 4:03 Nightwish - Wish I Had An Angel (OFFICIAL VIDEO)
+    uRU9fBRd6MU 8:29 Creek Mary's Blood
+    1I55pp0i150 4:25 Crownless
+    jvxDdgwaCyI 4:24 Wishmaster
+    CwED4C5FJuo 3:55 Nightwish - Over The Hills And Far Away (OFFICIAL VIDEO)
+    99BC8s8LHgQ 4:50 Wanderlust
+    E7chnYnI64Q 4:23 End of All Hope (Remastered)
+    GO1nF0uAZ9E 4:08 The Phantom Of The Opera
+    SXI9hoyymN8 4:33 Sleeping Sun (Remastered)
+    fWm7BLoY9wI 4:36 Nemo (Remastered)
+    5dM3LikmKTc 6:47 Dead Boy's Poem
+    z94ip-1_khY 3:37 Nightwish - Kuolema Tekee Taiteilijan [Lyrics]
+  `,
 ])
