@@ -270,6 +270,7 @@ export const albums: Array<Episode> = map(
     FKROYzWRiQ0 5:14 Lost For Words
     7jMlFXouPk8 7:49 Pink Floyd - High Hopes (Official Music Video HD)
   `,
+  `r48BLz42NuI 1:21:08 Pink Floyd - The Wall (Full Album) 1979`,
   `
     # Baltimore Consort - La Rocque and Roll
     0Tly_wgC858 2:05 J'ai vu le loup
@@ -319,60 +320,60 @@ export const albums: Array<Episode> = map(
     rn7ryGcOm4Y 3:15 Sixteenth Century French Dances: Bransle Simple
     G-rdQRx5AIE 5:35 Sixteenth Century French Dances: L'Homme Arme
   `,
-  `_rwNe2QXwrU 1:23:14 Yes - Tales from Topographic Oceans (Full Album)`,
-  `
-    # Steeleye Span - Now We Are Six Again
-    zGAMGNZtkO4 5:00 Seven Hundred Elves
-    rgLA_cASxAM 6:21 Drink Down The Moon/Cuckoo's Nest
-    mFXUuQuyXpU 2:22 Now We Are Six
-    KBjIIwTDZjI 6:28 Thomas The Rhymer
-    eFc3gXTJL9M 3:06 The Mooncoin Jig
-    VqnTzoM6qek 4:38 Edwin
-    sA-Xyqy8eZo 4:11 Long-A-Growing
-    JBFPrIEygPs 4:02 Two Magicians
-    -AFCEO_1uMU 3:43 Twinkle Little Star
-    kGfgDw3RaHY 2:54 To Know Him Is To Love Him
-    H3lDdXob9TI 4:19 Just As The Tide
-    BeqxKnLemq0 4:42 Let Her Go Down
-    NS6mEPSV75c 6:23 Edward
-    cIzBXOQ-sl8 5:55 Two Constant Lovers
-    6S_pAYFO2Uo 6:00 Prince Charlie Stuart
-    aa1MeuElEhs 4:55 Cam Ye O'er Frae France
-    AKIECgIW1rA 3:40 Creeping Jane
-    2YyodO5z6gc 4:18 Cold Haily Windy Night
-    XS1esx-dM3E 4:51 Bonny Black Hare
-    ai3WMASNVgw 4:11 All Around My Hat
-    imBjpHUhC44 2:08 Gaudete
-  `,
-  `
-    # Steeleye Span - Hark! The Village Wait
-    cDQYz4CVMI0 1:14 A Calling-On Song
-    qA5RqKBbJvU 3:40 The Blacksmith
-    dyml6HZuaJM 3:13 Fisherman's Wife
-    v3f9YpKH1AM 2:46 The Blackleg Miner
-    rB7H_EpBq_I 5:59 The Dark-Eyed Sailor
-    7b0ZrfdzrQo 2:35 Copshawholme Fair
-    M_2IioCRWDE 2:41 All Things Are Quite Silent
-    d67Xk5QF6BA 4:02 The Hills of Greenmore
-    MhaV1Q7eG9s 1:11 My Johnny Was a Shoemaker
-    FPvHBlDW-cE 6:00 Lowlands of Holland
-    FcZisVk_py4 2:07 Twa Corbies
-    jhJ3b7rxpo0 3:30 One Night as I Lay on My Bed
-  `,
-  `
-    # Steeleye Span - Below The Salt
-    5siqD27ftpc 3:09 Spotted Cow (2009 Remaster)
-    PqRZHqf54Ok 3:44 Rosebud in June (2009 Remaster)
-    oSSjMLdeVQA 3:14 Jigs (2009 Remaster)
-    l0d3OlQm5eM 4:46 Sheepcrook and Black Dog (2009 Remaster)
-    HHGx8nmkr54 4:37 Royal Forester (2009 Remaster)
-    QMqPhPSmcPk 7:13 King Henry (2009 Remaster)
-    Njg11_7-OEg 2:28 Gaudete (2009 Remaster)
-    M5l0-4aQWSY 4:51 John Barleycorn (2009 Remaster)
-    GPbveJNQQzA 5:53 Saucy Sailor (2009 Remaster)
-    Kuu9JJkN3-0 2:28 Gaudete
-    tsfdXrKhk9g 2:26 The Holly and the Ivy (2009 Remaster)
-  `,
+  // `_rwNe2QXwrU 1:23:14 Yes - Tales from Topographic Oceans (Full Album)`,
+  // `
+  //   # Steeleye Span - Now We Are Six Again
+  //   zGAMGNZtkO4 5:00 Seven Hundred Elves
+  //   rgLA_cASxAM 6:21 Drink Down The Moon/Cuckoo's Nest
+  //   mFXUuQuyXpU 2:22 Now We Are Six
+  //   KBjIIwTDZjI 6:28 Thomas The Rhymer
+  //   eFc3gXTJL9M 3:06 The Mooncoin Jig
+  //   VqnTzoM6qek 4:38 Edwin
+  //   sA-Xyqy8eZo 4:11 Long-A-Growing
+  //   JBFPrIEygPs 4:02 Two Magicians
+  //   -AFCEO_1uMU 3:43 Twinkle Little Star
+  //   kGfgDw3RaHY 2:54 To Know Him Is To Love Him
+  //   H3lDdXob9TI 4:19 Just As The Tide
+  //   BeqxKnLemq0 4:42 Let Her Go Down
+  //   NS6mEPSV75c 6:23 Edward
+  //   cIzBXOQ-sl8 5:55 Two Constant Lovers
+  //   6S_pAYFO2Uo 6:00 Prince Charlie Stuart
+  //   aa1MeuElEhs 4:55 Cam Ye O'er Frae France
+  //   AKIECgIW1rA 3:40 Creeping Jane
+  //   2YyodO5z6gc 4:18 Cold Haily Windy Night
+  //   XS1esx-dM3E 4:51 Bonny Black Hare
+  //   ai3WMASNVgw 4:11 All Around My Hat
+  //   imBjpHUhC44 2:08 Gaudete
+  // `,
+  // `
+  //   # Steeleye Span - Hark! The Village Wait
+  //   cDQYz4CVMI0 1:14 A Calling-On Song
+  //   qA5RqKBbJvU 3:40 The Blacksmith
+  //   dyml6HZuaJM 3:13 Fisherman's Wife
+  //   v3f9YpKH1AM 2:46 The Blackleg Miner
+  //   rB7H_EpBq_I 5:59 The Dark-Eyed Sailor
+  //   7b0ZrfdzrQo 2:35 Copshawholme Fair
+  //   M_2IioCRWDE 2:41 All Things Are Quite Silent
+  //   d67Xk5QF6BA 4:02 The Hills of Greenmore
+  //   MhaV1Q7eG9s 1:11 My Johnny Was a Shoemaker
+  //   FPvHBlDW-cE 6:00 Lowlands of Holland
+  //   FcZisVk_py4 2:07 Twa Corbies
+  //   jhJ3b7rxpo0 3:30 One Night as I Lay on My Bed
+  // `,
+  // `
+  //   # Steeleye Span - Below The Salt
+  //   5siqD27ftpc 3:09 Spotted Cow (2009 Remaster)
+  //   PqRZHqf54Ok 3:44 Rosebud in June (2009 Remaster)
+  //   oSSjMLdeVQA 3:14 Jigs (2009 Remaster)
+  //   l0d3OlQm5eM 4:46 Sheepcrook and Black Dog (2009 Remaster)
+  //   HHGx8nmkr54 4:37 Royal Forester (2009 Remaster)
+  //   QMqPhPSmcPk 7:13 King Henry (2009 Remaster)
+  //   Njg11_7-OEg 2:28 Gaudete (2009 Remaster)
+  //   M5l0-4aQWSY 4:51 John Barleycorn (2009 Remaster)
+  //   GPbveJNQQzA 5:53 Saucy Sailor (2009 Remaster)
+  //   Kuu9JJkN3-0 2:28 Gaudete
+  //   tsfdXrKhk9g 2:26 The Holly and the Ivy (2009 Remaster)
+  // `,
   `
     # Markahuasi - Traditional Music of the Andes
     CeOR5tsYD8s 3:24 Markahuasi - Los Refranes (The Old Sayings)
@@ -389,7 +390,7 @@ export const albums: Array<Episode> = map(
     zmB2ulRI_4c 6:26 Markahuasi - El Condor Pasa (Flight of the Condor)
     ZzEjGlRkdFQ 4:55 Markahuasi - Tinku
   `,
-  `ZCNTaH8VSEg 30:08 Fairuz - Al Quds - فيروز - القدس العتيقة - HD - High Audio Quality (Full Vinyl Album)`,
+  // `ZCNTaH8VSEg 30:08 Fairuz - Al Quds - فيروز - القدس العتيقة - HD - High Audio Quality (Full Vinyl Album)`,
   `
     # DARKSIDE - Spiral
     uq0OncoFp70 6:16 Narrow Road
@@ -453,4 +454,27 @@ export const albums: Array<Episode> = map(
     5dM3LikmKTc 6:47 Dead Boy's Poem
     z94ip-1_khY 3:37 Nightwish - Kuolema Tekee Taiteilijan [Lyrics]
   `,
+  `
+    # Dire Straits - Brothers in Arms
+    beFo9WgmwXg 55:15 Dire Straits - Brothers in Arms Full Album 1985
+  `,
+  `
+    # Bob Marley - Legend
+    69RdQFDuYPI 3:54 Bob Marley - Is This Love (Official Music Video)
+    IT8XvzIfi4U 7:11 Bob Marley - No Woman, No Cry (Official Video)
+    1ti2YCFgCoI 4:01 Bob Marley & The Wailers - Could You Be Loved (Official Music Video)
+    HNBCVM4KbUM 3:13 Bob Marley & The Wailers - Three Little Birds (Official Video)
+    uMUQMSXLlHM 2:43 Bob Marley & The Wailers - Buffalo Soldier (Official Music Video)
+    td23q-NcLXM 3:18 Get Up, Stand Up
+    1hwL3S3Gtzs 5:35 Stir It Up (1973) - Bob Marley & The Wailers
+    wlqB13iJu2o 3:29 Bob Marley & The Wailers - Easy Skanking
+    QMbvpftTEUs 3:06 One Love (Official Fan Made Music Video) - Bob Marley
+    yI2FA5C5rDE 4:41 I Shot The Sheriff
+    _JFfvSQrNIg 4:17 Waiting In Vain (Africa Unite, 2005) - Bob Marley & The Wailers
+    yv5xonFSC4c 3:56 Bob Marley & The Wailers - Redemption Song
+    5O1WKodlCIA 5:42 Bob Marley & The Wailers - Satisfy My Soul
+    OSOqWgqwynQ 8:12 Bob Marley & The Wailers - Exodus (Lyric Video)
+    oqVy6eRXc7Q 3:34 Bob Marley & The Wailers - Jamming (Official Music Video)
+    sgEYfcQxohE 6:53 Punky Reggae Party (12" Version)
+  `
 ])
