@@ -2,8 +2,8 @@
 
 import { pick } from "./lib/arrays"
 import { cache } from "./lib/cache"
-import { cyrb128_32 } from "./lib/hash"
-import { mulberry32 } from "./lib/random"
+import { cyrb128 } from "./lib/hash"
+import { sfc32 } from "./lib/random"
 
 import type { Broadcast } from "./Broadcast"
 import type { Episode } from "./data/types"
@@ -65,7 +65,7 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
 
 const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
   episodes = [...episodes]
-  const rng = mulberry32(cyrb128_32(seed))
+  const rng = sfc32(...cyrb128(seed))
   let totalDuration = 0
   let schedule: Schedule = []
   let i = 0
@@ -219,17 +219,17 @@ test("ScheduleGenerator", {
       equals,
       [
         "three",
-        "two",
         "one",
         "two",
-        "one",
-        "three",
-        "two",
-        "three",
-        "one",
         "three",
         "two",
         "one",
+        "one",
+        "two",
+        "three",
+        "two",
+        "three",
+        "one"
       ]
     )
   },
