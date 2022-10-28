@@ -15,19 +15,21 @@ import {
   channel5Videos,
   channel6Videos,
   debuggingVideos,
+  mechaThemeSongs,
 } from "./shows"
 
 export const channels: Array<Channel> = [
-  createChannel("Channel 1", channel1Videos.map(singleVideoEpisode)),
-  createChannel("Channel 2", channel2Videos.map(singleVideoEpisode)),
-  createChannel("Channel 3", albums),
-  createChannel("Channel 4", [
+  createChannel("One", channel1Videos.map(singleVideoEpisode)),
+  createChannel("Two", channel2Videos.map(singleVideoEpisode)),
+  createChannel("Three", albums),
+  createChannel("Four", [
     ...channel4Videos.map(singleVideoEpisode),
     ...channel4Segments,
   ]),
-  createChannel("Channel 5", channel5Videos.map(singleVideoEpisode)),
-  createLoopingChannel("Channel 6", channel6Videos),
-  createChannel("Channel 7", campaigns),
+  createChannel("Five", channel5Videos.map(singleVideoEpisode)),
+  createLoopingChannel("Six", channel6Videos),
+  createChannel("Seven", campaigns),
+  createLoopingChannel("Eight", mechaThemeSongs),
 ]
 
 function singleVideoEpisode(v: Video): Episode {

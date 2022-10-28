@@ -1061,7 +1061,6 @@ export const channel5Videos: Array<Video> = parseVideos(`
 `)
 
 export const channel6Videos: Array<Video> = parseVideos(`
-
     MHPAb_QNPZg 52:10 TVB Drama | 一劍鎮神洲 01/25 | 馮寶寶、鄭少秋、陳鴻烈、黃杏秀、歐陽佩珊 | 古裝武俠 | 粵語中字 | TVB 1978
     pbY2tNCNkRU 37:53 TVB Drama | 一劍鎮神洲 02/25 | 馮寶寶、鄭少秋、陳鴻烈、黃杏秀、歐陽佩珊 | 古裝武俠 | 粵語中字 | TVB 1978
     ewu9i0BO1BM 46:16 TVB Drama | 一劍鎮神洲 03/25 | 馮寶寶、鄭少秋、陳鴻烈、黃杏秀、歐陽佩珊 | 古裝武俠 | 粵語中字 | TVB 1978
@@ -1260,4 +1259,45 @@ export const channel6Videos: Array<Video> = parseVideos(`
     FIl6HM5vQag 43:56 包青天再起風雲 28/30 | 譚俊彥、胡定欣、曹永廉、張振朗、姚子羚、陳凱琳 | 粵語中字 | TVB 2019
     -llByQ7sZPo 44:02 包青天再起風雲 29/30 | 譚俊彥、胡定欣、曹永廉、張振朗、姚子羚、陳凱琳 | 粵語中字 | TVB 2019
     nHhxOvoxpZU 43:38 包青天再起風雲 30/30 | 譚俊彥、胡定欣、曹永廉、張振朗、姚子羚、陳凱琳 | 粵語中字 | TVB 2019
+`)
+
+export const mechaThemeSongs: Array<Video> = parseVideos(`
+  96ouCiqGCNE 1:37:14 The Big O - OST 1 & 2
+
+  S_ZvIBRk7SU 3:22 Guyver OST - Threat of Cronos
+  2bBgSzB0XVc 3:28 Guyver OST - Combat Agent Member
+  c2RW6UuV2GQ 2:30 Guyver OST - Marvelous Bio Boost Armor
+  nalOS-AX9Xg 3:14 Guyver OST - Alien's Messiah
+  JcbXvvC0mrg 3:10 Guyver OST - Devil Hands chasing
+  eK55NOekRk4 3:16 Guyver OST - Challenge of Guyver II
+  irv9HQBdx40 3:26 Guyver OST - Death of Bio booster
+  jaknz-0rpp4 4:02 Guyver OST - Suffering
+  FwYK6C8b65Y 3:44 Guyver OST - Guyver I Kidnap
+  2fE-brd45rA 3:38 Guyver OST - Kyoushoku Soukou GUYVER
+  S624D_HFPp4 1:06 Guyver OST - Classmates
+  FD1bf2xSZOc 4:43 Guyver OST - Team 5 battle position
+  Zx0a6z88kZs 1:41 Guyver OST - Guyver III Appears
+  Hp8N6NCjM_c 3:25 Guyver OST - Lonely Shou
+  NVkPVgY24G4 3:50 Guyver OST - Guyver I falls
+  MDDYTNQ5Iho 4:01 Guyver OST - Sadness of Mizuki
+  PoWjGS_BH_0 3:10 Guyver OST - Imminent Battle W Guyver
+  u4Vc-nT09P4 3:12 Guyver OST - Shou and Mizuki
+
+  VXg63oDaD3s 2:50 [Anime Classic] L - Gaim ~ Time For L-Gaim
+  Z5pyMzyb5vc 4:56 shadow skill op born legend (full version)
+  a4RKqvJqDJ8 4:48 Megazone 23 soundtrack - 4. Kaze no Lullaby (Lullaby of the Wind)
+  HABztzndFi4 4:22 Megazone 23 Soundtrack - 11. Senaka-Goshi ni Sentimental (Sentimental Over My Back)
+  TFtxRRi3ewI 3:44 Combat Mecha Xabungle Opening Full
+  IacgoGWOi5M 5:12 聖獣機サイガード Cybernetics Guardian - 07 "Can't Get It Enough"
+  pCQdGF7Rqx4 3:56 Fight Iczer 1~ Eien no Iczer 1
+  t02JzTMJxKQ 3:23 Fight! Iczer One - Eternal Iczer-1
+  oFpp9b-O_JU 3:44 Genocyber OST 1: 01. Fairy Dreamin' (Vocal) - WIZZ-KISS
+  an_0IIRDlc4 4:47 Bubblegum Crisis - Opening | "Konya wa Hurricane" (There's a Hurricane Tonight) by Kinuko Ohmori
+  xrjUj-FRorY 4:14 Outlaw star opening theme
+  Pqn_zzd1ZkA 9:00 刀根麻理子 ／ デリンジャー～HOT STUFF
+  eDv5ySacHac 4:18 Iczer 1 Music theme: NEVER RUN AWAY
+  g0oU80VbSF8 3:23 Forgotten Junk: Makyou Gaiden Le Deus - OP
+  Pf10yCUCq88 3:23 Blood Reign: Curse of the Yoma OST - Midori Karashima - Ashita e no Prologue (Prologue for Tomorrow)
+  iFtKaw3Jksc 3:36 Dangaioh full opening song
+  jCF3Z3L5SuM 4:12 Project A-ko 3: Cinderella Rhapsody - ED [Get a Chance!]
 `)
