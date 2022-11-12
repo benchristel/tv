@@ -3087,6 +3087,8 @@ jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 CPLWbeUq8Z0 2:32 Harold Macmillan
 
 # Simon Roper
+1Ntcj97LNyI 1:15:42 Reflections on First Time in the US (California)
+i1GjSKR5udY 15:52 The Disappearance (and Survival) of 'Thou'
 C1xN-fjyCvU 15:31 Problems of Studying Emotion Cross-Culturally
 s38tEcEXUAo 15:37 Some Words from Proto-Germanic to Old English
 eKS7iJIs_ZM 14:03 Regn, wæter, spearwan, ūlan

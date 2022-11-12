@@ -459,22 +459,23 @@ export const albums: Array<Episode> = map(
     beFo9WgmwXg 55:15 Dire Straits - Brothers in Arms Full Album 1985
   `,
   `
-    # Bob Marley - Legend
-    69RdQFDuYPI 3:54 Bob Marley - Is This Love (Official Music Video)
-    IT8XvzIfi4U 7:11 Bob Marley - No Woman, No Cry (Official Video)
-    1ti2YCFgCoI 4:01 Bob Marley & The Wailers - Could You Be Loved (Official Music Video)
-    HNBCVM4KbUM 3:13 Bob Marley & The Wailers - Three Little Birds (Official Video)
-    uMUQMSXLlHM 2:43 Bob Marley & The Wailers - Buffalo Soldier (Official Music Video)
-    td23q-NcLXM 3:18 Get Up, Stand Up
-    1hwL3S3Gtzs 5:35 Stir It Up (1973) - Bob Marley & The Wailers
-    wlqB13iJu2o 3:29 Bob Marley & The Wailers - Easy Skanking
-    QMbvpftTEUs 3:06 One Love (Official Fan Made Music Video) - Bob Marley
-    yI2FA5C5rDE 4:41 I Shot The Sheriff
-    _JFfvSQrNIg 4:17 Waiting In Vain (Africa Unite, 2005) - Bob Marley & The Wailers
-    yv5xonFSC4c 3:56 Bob Marley & The Wailers - Redemption Song
-    5O1WKodlCIA 5:42 Bob Marley & The Wailers - Satisfy My Soul
-    OSOqWgqwynQ 8:12 Bob Marley & The Wailers - Exodus (Lyric Video)
-    oqVy6eRXc7Q 3:34 Bob Marley & The Wailers - Jamming (Official Music Video)
-    sgEYfcQxohE 6:53 Punky Reggae Party (12" Version)
+    gwnugSmyEK0 1:02:26 Bob Marley - Legend (Full Album)
+  `,
   `
+    _SBQvd6vY9s 3:40:32 Lord Of The Rings - Soundtrack HD Complete (with links)
+  `,
+  `
+    Y3Vxjgjp4HA 5:52 Alegria
+    PTMisEaiWM4 4:35 Vai Vedrai
+    DwiaTNJByRY 5:20 Kalandero
+    tFXoU1m_6UA 4:35 Querer
+    gPp4YO1HEiw 4:47 Irna
+    POrR4o-Gbmw 5:35 Taruka
+    lzAw-78sQvo 4:42 Jeux D'enfants
+    KiLEKdYoR2Q 5:07 Mirko
+    W-gE48Nr9m4 7:24 Icare
+    osJ4Bzh84vY 6:27 Ibis
+    BLAi3NNz2Vs 4:01 Valsapena
+    cr1eD_MJ80Y 3:10 Nocturne
+  `,
 ])
