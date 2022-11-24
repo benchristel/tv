@@ -270,7 +270,7 @@ export const albums: Array<Episode> = map(
     FKROYzWRiQ0 5:14 Lost For Words
     7jMlFXouPk8 7:49 Pink Floyd - High Hopes (Official Music Video HD)
   `,
-  `r48BLz42NuI 1:21:08 Pink Floyd - The Wall (Full Album) 1979`,
+  // `r48BLz42NuI 1:21:08 Pink Floyd - The Wall (Full Album) 1979`,
   `
     # Baltimore Consort - La Rocque and Roll
     0Tly_wgC858 2:05 J'ai vu le loup
@@ -477,5 +477,20 @@ export const albums: Array<Episode> = map(
     osJ4Bzh84vY 6:27 Ibis
     BLAi3NNz2Vs 4:01 Valsapena
     cr1eD_MJ80Y 3:10 Nocturne
+  `,
+  `
+    ku0P5Fdv0Tk 2:38 Cirque Du Soleil O, O
+    bCpnyazy7D0 4:34 Cirque Du Soleil O, Terre Aride
+    1GCzME-a9sU 7:51 Cirque Du Soleil O, Desert
+    htvaQjYBVr8 4:42 Cirque Du Soleil O, Ephra
+    8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan
+    urzeNmFKL8Q 5:23 Cirque Du Soleil O, Simcha
+    FEMZqYM3Peg 4:06 Cirque Du Soleil O, Nostalgie
+    SgttczPRNAs 6:01 Cirque Du Soleil O, Svecounia
+    tN777jqzeLA 7:17 Cirque Du Soleil O, Remous
+    y0Kx_QU-2ek 2:19 Cirque Du Soleil O, Africa
+    sFLeL9F4HBQ 3:08 Cirque Du Soleil O, Tzelma
+    MtfUtwrRdqI 5:24 Cirque Du Soleil O, Mer Noire
+    S6tE6laWTEc 4:22 Cirque Du Soleil O, Jeux d'Eau
   `,
 ])
