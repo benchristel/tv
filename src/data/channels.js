@@ -9,6 +9,7 @@ import {
   channel1Episodes,
   channel1Videos,
   channel2Videos,
+  channel4Videos,
   debuggingVideos,
 } from "./shows"
 
@@ -19,6 +20,7 @@ export const channels: Array<Channel> = [
   ]),
   createChannel("Channel 2", channel2Videos.map(singleVideoEpisode)),
   createChannel("Channel 3", albums),
+  createChannel("Channel 4", channel4Videos.map(singleVideoEpisode)),
 ]
 
 function singleVideoEpisode(v: Video): Episode {

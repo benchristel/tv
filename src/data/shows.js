@@ -5945,3 +5945,7 @@ cNiN7gOcNI4 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, S
 Ux8xAuQBdkk 3:00:13 4K Realtime Fireplace - Relaxing Fire Burning Video - 3 Hours - No Loop - Ultra HD - 2160p
 gB3XH5t9QCA 6:04:00 4K HDR Fireplace REALTIME - 6 Hours - Relaxing Fire Burning Video & Crackling Sounds - NO LOOP - UHD
 `)
+
+export const channel4Videos: Array<Video> = parseVideos(`
+if6iWVgR8h4 19:58 Silent Meditations (20 min) | 4 intervals
+`)
