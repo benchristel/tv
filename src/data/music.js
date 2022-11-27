@@ -470,7 +470,21 @@ export const albums: Array<Episode> = map(
     p0D-w-HhB64 47:46 Dire Straits - Brothers In Arms {Reissue} [Full Album]
   `,
   `
-    gwnugSmyEK0 1:02:26 Bob Marley - Legend (Full Album)
+    # Bob Marley - Legend (Full Album)
+    wsu_8UwapEI 3:52 01. Is This Love? - (Bob Marley) - [Legend]
+    eo1VWOmLuJM 7:05 02. No Woman, No Cry - (Bob Marley) - [Legend]
+    CgD8rao1jQ8 3:56 03. Could you Be Loved - (Bob Marley) - [Legend]
+    8InDv_xb_YA 2:59 04 Three Little Birds - (Bob Marley) - [Legend]
+    wDejhDr_HEI 4:21 05. Buffalo Soldier - (Bob Marley) - [Legend]
+    QL-N69VyI28 3:17 06. Get Up, Stand Up. - (Bob Marley) - [Legend]
+    dm8EKuMsVLY 5:32 07 Stir It Up - (Bob Marley) - [Legend]
+    Pw3M99_n1g4 2:52 08. One Love - (Bob Marley) - [Legend]
+    bCAHC_BYMfM 4:44 09. I Shot The Sheriff - (Bob Marley) - [Legend]
+    p_o6KvYPjdc 4:15 10. Waiting In Vain - (Bob Marley) - [Legend]
+    _8aCv1pFCW4 3:50 11. Redemption Song - (Bob Marley) - [Legend]
+    IkaqvekPMOw 4:18 12. Satisfy My Soul - (Bob Marley) - [Legend]
+    tXnYRDmT2g8 7:22 13. Exodus - (Bob Marley) - [Legend]
+    Yta1LtlZqVI 3:13 14. Jammin - (Bob Marley) - [Legend]
   `,
   `
     _SBQvd6vY9s 3:40:32 Lord Of The Rings - Soundtrack HD Complete (with links)
