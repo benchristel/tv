@@ -467,7 +467,7 @@ export const albums: Array<Episode> = map(
   `,
   `
     # Dire Straits - Brothers in Arms
-    beFo9WgmwXg 55:15 Dire Straits - Brothers in Arms Full Album 1985
+    p0D-w-HhB64 47:46 Dire Straits - Brothers In Arms {Reissue} [Full Album]
   `,
   `
     gwnugSmyEK0 1:02:26 Bob Marley - Legend (Full Album)
