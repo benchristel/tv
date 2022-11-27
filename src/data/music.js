@@ -44,6 +44,17 @@ export const albums: Array<Episode> = map(
     uAA4rUuZ-IA 6:37 In Gowan Ring – Of Water Wiverings
     LAzCskIPtuc 15:01 In Gowan Ring – Urn And Water
   `,
+  `
+    # In Gowan Ring - The Serpent And The Dove
+    Tr8BAGlGA1U 3:31 The Serpent
+    xh3b1Ypy298 5:20 Thousands of Bees
+    zs6OglBQyxg 7:25 Sial at Play
+    Tg1ZyEvLPbU 4:35 Julia Willow
+    ottvXE01Ufs 4:24 Set a Candle in the Night
+    7uuz9lx5ppE 9:16 Field of Dream
+    FFPew-WtLI0 6:33 A Song, a Story and a Stone
+    AlhtLYq4H5k 4:43 The Dove
+  `,
   `i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely`,
   `obK-k848Vto 1:13:05 Heroes of Might & Magic IV - Official Soundtrack`,
   `
