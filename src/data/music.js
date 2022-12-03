@@ -518,4 +518,7 @@ export const albums: Array<Episode> = map(
     MtfUtwrRdqI 5:24 Cirque Du Soleil O, Mer Noire
     S6tE6laWTEc 4:22 Cirque Du Soleil O, Jeux d'Eau
   `,
+  `
+    IYbE2coMZPc 52:50 Íslandsklukkur (Instrumental Icelandic Folk Music)
+  `,
 ])
