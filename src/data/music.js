@@ -521,4 +521,18 @@ export const albums: Array<Episode> = map(
   `
     IYbE2coMZPc 52:50 Íslandsklukkur (Instrumental Icelandic Folk Music)
   `,
+  `
+    KwAvU70ZhtQ 5:47 I Mada
+    pQbaGFsSe8c 4:47 Wassiye
+    -zpdtgCBPbk 5:31 Ma Ya
+    hFXyJTYMqP4 5:57 Bitile
+    _QB6ffseBLE 5:30 Sirata
+    pzqJvEIX0U4 5:15 Foro Bana
+    WdwbrWVSqI0 5:06 Saramaya
+    Lw7a4OHE8aA 4:39 Kumbin
+    RQ1ThnewhxY 5:06 Mara Kaso
+    aGgpEyq_LLE 4:35 Pula Ku
+    7yAAk8469q0 5:01 Komine
+    PZ9yL-Eo9wQ 3:48 Manssa Cise
+  `,
 ])
