@@ -152,6 +152,22 @@ Remove it before shipping.`}function zh(e){switch(e){case 1:return"The test pass
     e1ga16WVCO0 4:03 Weathercock (2003 Remaster)
     krQyHXul-o8 3:41 One Brown Mouse (2007 Remaster)
     zwf2svLUi1Q 4:14 Pastime with Good Company (Live in Denmark)
+  `,`
+    # Jethro Tull - Stand Up
+    JajGBIfGWZM 4:09 A New Day Yesterday (2001 Remaster)
+    wlNwOJkP5P8 2:13 Jeffrey Goes to Leicester Square (2001 Remaster)
+    dnEx_rNOijs 3:47 Bourée (2001 Remaster)
+    a3uqdoJxJ50 3:54 Back to the Family (2001 Remaster)
+    A6VXRSVZHIY 4:24 Look into the Sun (2001 Remaster)
+    Nu_xOl-I7Lc 4:25 Nothing Is Easy (2001 Remaster)
+    iznQpk9GLaA 2:51 Fat Man (2001 Remaster)
+    oGvux7w1Ea4 4:04 We Used to Know (2001 Remaster)
+    exXKfGPgW00 4:08 Reasons for Waiting (2001 Remaster)
+    r-ZDY-NtpII 4:22 For a Thousand Mothers (2001 Remaster)
+    8mSIX8G_0Mk 3:23 Living in the Past (2001 Remaster)
+    7u8Me9lgosc 2:45 Driving Song (2001 Remaster)
+    mfvGAG1N7g8 4:04 Sweet Dream (2001 Remaster)
+    Mxr9R2GvMbk 3:08 17 (2001 Remaster)
   `,"c6e3dcHvtvY 58:40 ሙላቱ አስታጥቄ - Mulatu Astatqé - Ethio Jazz & Musique Instrumentale 1969-1974 (Full Album)",`
     # Sting - Songs From The Labyrinth
     Bx8Wv4hlWhs 0:39 Walsingham
@@ -436,6 +452,16 @@ Remove it before shipping.`}function zh(e){switch(e){case 1:return"The test pass
     aGgpEyq_LLE 4:35 Pula Ku
     7yAAk8469q0 5:01 Komine
     PZ9yL-Eo9wQ 3:48 Manssa Cise
+  `,`
+    dFS0Dmb3FCk 3:25 The John Renbourn Group - Black Waterside
+    pb2pJAronc4 3:27 The John Renbourn Group - Nacht Tanz /Shaeffertanz
+    eejS-nVrmks 3:58 The John Renbourn Group - A Maid In Bedlam
+    2oZ9N6Ux2cY 3:28 The John Renbourn Group - Gypsy Dance/Jews Dance
+    OH8CXSF7Brw 3:24 The John Renbourn Group - Reynardine
+    2yRAi4miyvQ 2:47 The John Renbourn Group - My Johnny Was A Shoemaker
+    8f3GW0Ztrcs 3:22 The John Renbourn Group - Death And The Lady
+    vp_ucWI_DUo 5:50 The John Renbourn Group - The Battle Of Augrham/5 In A Line
+    EE61vOWt9wo 3:30 The John Renbourn Group - Talk About Suffering
   `]);var im=pe(`
     vKXu0CzRcrI 0:16 Here's Tree
     ieWm9T_GgSA 0:08 I'm Lost
