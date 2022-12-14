@@ -563,4 +563,29 @@ export const albums: Array<Episode> = map(
     vp_ucWI_DUo 5:50 The John Renbourn Group - The Battle Of Augrham/5 In A Line
     EE61vOWt9wo 3:30 The John Renbourn Group - Talk About Suffering
   `,
+  `
+    lN8Ii1gGqZI 2:10 Tîr Im by The Fellowship
+    XFOzTds_3Qk 2:51 The Longbottom Leaf by The Fellowship
+    PYIOu7CpUAo 4:29 In Elven Lands - Dan Barliman's Jig
+    fPy_RzFd6Vc 2:10 The Silver Bowl by The Fellowship
+    bHqQ_IuApfA 3:03 The Man in the Moon by The Fellowship
+    RLa4mYiLf_0 2:05 Verse to Elbereth Gilthóniel by The Fellowship
+    mpr5vs_aXBk 3:58 In Elven Lands - Elëchoi
+    2WyK2DbofJo 3:54 Elechoi Mirnu Aglaron
+    5vd5LyKSDmU 4:20 Elo Elleth by The Fellowship
+    zjiuFe99PA0 5:19 In Elven Lands - Beware The Wolf
+    GSqGC5jsiDQ 6:45 The Battle of Evermore - Performed by The Fellowship
+    IkIr_5UMx5w 5:13 Oromë: Lord of the Hunt by The Fellowship
+    uCoJjv6b_Zw 4:49 The Fellowship - When Dûrin Woke (Official Music Video)
+    r0-K_EcCdEs 3:20 Silmesse by The Fellowship (Official Music Video)
+    PLeECmnHSxg 2:18 J.R.R. Tolkien's "Namárië" - Performed by The Fellowship
+    lpQMgV8sAJ8 2:08 In Elven Lands - Eala Earendel
+    QYDu4MlvDeE 3:29 In Elven Lands - Creation Hymn
+    TV4Sn3UTvzM 5:07 The Sacred Stones
+    3wO8Vf1ADnc 4:44 The Fellowship - In Elven Lands - The Blood of Kings
+    mVCLUBkko9w 4:56 Verses to Elbereth Gilthoniel
+    gF3oD8oUlPo 5:00 Canticle to Elbereth Gilthóniel by The Fellowship
+    uZ6P2-vEhBU 4:06 Evening Star by The Fellowship
+    1El5LNGvtb0 1:15 Terra Beata by The Fellowship
+  `,
 ])

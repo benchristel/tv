@@ -5933,6 +5933,48 @@ export const channel1Episodes: Array<Episode> = map(
     26vLRhm6bXc 3:21 Ertuğrul Küçükbayraktar - Çayın Öte Yüzünde
     lzRCuT1dUH0 3:20 Nebî - Dem-i Nesimi
   `,
+  `
+    qj139dE7tFI 4:01 LOTR The Fellowship of the Ring - Extended Edition - The Prologue: One Ring to Rule Them All... Pt 1
+    d_NhmyrcoQ4 3:06 LOTR The Fellowship of the Ring - Extended Edition - The Prologue: One Ring to Rule Them All... Pt 2
+    -PcUnqlPA8A 3:00 LOTR The Fellowship of the Ring - Extended Edition - Concerning Hobbits
+    CiRu_W9tzM8 1:56 LOTR The Fellowship of the Ring - Extended Edition - A Long-expected Party Part 2
+    4Yy0pPTrHlk 4:14 LOTR The Fellowship of the Ring - Farewell Dear Bilbo
+    xYgc2G6ThUs 4:55 LOTR The Fellowship of the Ring - The Account of Isildur
+    JZUxc-Cb5LM 1:24 LOTR The Fellowship of the Ring - Extended Edition - At the Green Dragon
+    TBMiyEzOJmI 4:38 LOTR The Fellowship of the Ring - Saruman the White
+    2rtpEbRyqbg 2:19 LOTR The Fellowship of the Ring - Bucklebury Ferry
+    WmghV5AimjU 1:19 LOTR The Fellowship of the Ring - Extended Edition - Bree
+    bYFPxU9xGZI 4:44 LOTR The Fellowship of the Ring - At the Sign of The Prancing Pony
+    FTthEbYCYN8 2:12 LOTR The Fellowship of the Ring - The Nazgûl
+    qofMAoY0Ts4 1:34 LOTR The Fellowship of the Ring - Extended Edition - Into the Wild
+    fO9vymA8-vo 1:39 LOTR The Fellowship of the Ring - Extended Edition - The Midgewater Marshes
+    wzaa-jHULLc 1:44 LOTR The Fellowship of the Ring - The Spoiling of Isengard
+    LwinMu7-ZrI 2:31 LOTR The Fellowship of the Ring - The Caverns of Isengard
+    LbAPwwAXaWM 3:34 LOTR The Fellowship of the Ring - The Fate of the Ring
+    B1uGDjSVLOk 2:40 LOTR The Fellowship of the Ring - Extended Edition - The Sword That Was Broken
+    -k3ABfmCr2I 3:34 LOTR The Fellowship of the Ring - Extended Edition - The Council of Elrond Part 1
+    V1c2tUcL-jY 1:14 LOTR The Fellowship of the Ring - Extended Edition - Gilraen's Memorial
+    ofDh5t1l738 1:44 LOTR The Fellowship of the Ring - Bilbo's Gifts
+    brcI4oF1Kto 1:24 LOTR The Fellowship of the Ring - Extended Edition - The Departure of the Fellowship
+    BuHLeZjYQrg 4:47 LOTR The Fellowship of the Ring - Extended Edition - The Pass of Caradhras
+    oBkiwyEOWEU 1:07 LOTR The Fellowship of the Ring - Extended Edition - The Walls of Moria
+    -jlsKzPiCbQ 2:37 LOTR The Fellowship of the Ring - Extended Edition - Moria Part 1
+    UZzwaVerraA 2:45 LOTR The Fellowship of the Ring - Extended Edition - Moria Part 2
+    jGUkkF8-3QQ 2:46 LOTR The Fellowship of the Ring - Extended Edition - A Journey in the Dark
+    IrOqnZdvI6M 2:36 LOTR The Fellowship of the Ring - Extended Edition - Gandalf speaks to Frodo in Moria
+    HKGQFkWI_bM 4:26 LOTR The Fellowship of the Ring - The Fall of Gandalf
+    wbOvoGqraKY 3:55 LOTR The Fellowship of the Ring - Extended Edition - Lothlórien
+    qdD6Cte8HrU 3:31 LOTR The Fellowship of the Ring - Extended Edition - Caras Galadhon
+    YMjKPVBNQ0E 1:07 LOTR The Fellowship of the Ring - Extended Edition - Lament for Gandalf
+    2OYsgAawB-s 2:01 LOTR The Fellowship of the Ring - Boromir and Aragorn in Lothlórien
+    0I7Qs4ByI0c 5:03 LOTR The Fellowship of the Ring - Extended Edition - The Mirror of Galadriel
+    tgXPRxmHk6Q 1:41 LOTR The Fellowship of the Ring - The Fighting Uruk-hai
+    Ot7T7IzY--s 1:27 LOTR The Fellowship of the Ring - Extended Edition - Farewell to Lórien
+    jASCi95Aw7A 3:33 LOTR The Fellowship of the Ring - Extended Edition - The Great River
+    SlLC1kCH1ps 2:36 LOTR The Fellowship of the Ring - The Argonath
+    LUZ29kEJLdE 3:02 LOTR The Fellowship of the Ring - Parth Galen
+    9skYkQfAwus 2:43 LOTR The Fellowship of the Ring - Extended Edition - The Departure of Boromir
+  `,
 ])
 
 export const channel2Videos: Array<Video> = parseVideos(`
