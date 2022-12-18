@@ -1,13 +1,9 @@
 // @flow
 
 import type { Episode } from "./types"
+import { parseEpisodes } from "./ingestion";
 
-import { map, pipe } from "../lib/fns"
-import { parseVideos } from "./ingestion"
-
-export const albums: Array<Episode> = map(
-  pipe(parseVideos, (v) => ({ videos: v }))
-)([
+export const albums: Array<Episode> = parseEpisodes([
   `BecZdQvjGrY 54:49 In Gowan Ring - Compendium (Full Album)`,
   `B3oAx9VmAdA 43:52 In Gowan Ring - Hazel Steps Through A Weathered Home`,
   `
@@ -283,6 +279,11 @@ export const albums: Array<Episode> = map(
     # _83urK9rO4U 3:27 Any Colour You Like
     # BhYKN21olBw 3:47 Brain Damage
     # 9wjZrswriz0 2:13 Eclipse
+  `,
+  `
+    # Pink Floyd - Wish You Were Here
+    TAUdfj_fWFs 21:19 Pink Floyd - Wish You Were Here (Side 1) (1975 HQ Vinyl LP) - Technics 1200G / Audio Technica ART9
+    MFrn16sXCFE 23:22 Pink Floyd - Wish You Were Here (Side 2) (1975 HQ Vinyl LP) - Technics 1200G / Audio Technica ART9
   `,
   // `
   //   # Pink Floyd - The Division Bell
@@ -587,5 +588,9 @@ export const albums: Array<Episode> = map(
     gF3oD8oUlPo 5:00 Canticle to Elbereth Gilthóniel by The Fellowship
     uZ6P2-vEhBU 4:06 Evening Star by The Fellowship
     1El5LNGvtb0 1:15 Terra Beata by The Fellowship
+  `,
+  `
+    bitMdn_PbOg 18:24 The Moody Blues - Days Of Future Passed - 1967 Vinyl LP - Side 1
+    jktBW1Etu3M 22:42 The Moody Blues - Days Of Future Passed - 1967 Vinyl LP - Side 2
   `,
 ])

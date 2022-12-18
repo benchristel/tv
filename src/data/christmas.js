@@ -104,4 +104,7 @@ cKMu6b2Ls8s 51:29 Christmas at the Time of Praetorius
 eW79ejQcrDo 51:44 A Baroque Christmas
 r7adETaOYiQ 1:30 The Boar's Head Carol
 2AjFT4Rcp_U 3:41 Cantiga De Santa Maria, No.48
+
+
+RVguSWYwSsA 1:06:11 Carols From King’s – The Choir of King’s College, Cambridge (Full Album)
 `)

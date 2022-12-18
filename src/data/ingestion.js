@@ -1,6 +1,14 @@
 // @flow
-import type { Video } from "./types"
+import type { Episode, Video } from "./types";
+import { map, pipe } from "../lib/fns";
 import { test, expect, is, equals, not } from "@benchristel/taste"
+
+export const parseEpisodes: (Array<string>) => Array<Episode>
+  = map(pipe(parseVideos, episode))
+
+export function episode(videos: Array<Video>): Episode {
+  return {videos}
+}
 
 export function parseVideos(raw: string): Array<Video> {
   return raw

@@ -1,7 +1,6 @@
 // @flow
 import type { Episode, Video } from "./types"
-import { map, pipe } from "../lib/fns"
-import { parseVideos } from "./ingestion"
+import { parseEpisodes, parseVideos } from "./ingestion";
 
 export const debuggingVideos: Array<Video> = parseVideos(`
     vKXu0CzRcrI 0:16 Here's Tree
@@ -5863,13 +5862,37 @@ v8Dti6dGHFs 5:15 Urban Think Tank - Future of Places Interview 2013
 # Peter Blanchette
 Cl2-pDsMkrw 1:48:52 Watermelon Wednesday 2015 - Peter Blanchette and Friends
 
-
-
+# ClackCo TV
+NXL9n2KNm1E 51:25 Mulches: The Good, The Bad, and The Really, Really Ugly
+pakRIoVsCww 59:08 Growing Vegetables Year-Round with OSU Master Gardeners
+7-QXI4xq3DI 59:13 Tomatoes Planting & Cultural Best Practices with OSU Master Gardeners
+URBI185rlAc 1:00:18 Gardening with Wildlife with OSU Master Gardeners
+eJxmR4Gh3XY 1:03:11 Creating Pretty & Delicious Containers with OSU Master Gardeners
+reKcBI9YlG4 1:09:32 Soil & Planting: Lessons from Research - OSU Master Gardeners Noon-Time Chat
+Ie1BBqz92IM 1:06:27 Ten Proven Ideas for Pollinator Gardens with OSU Master Gardeners
+EN7Y_kgTqjM 54:02 Tomatoes: Selection and Transplanting with OSU Master Gardeners
+ul863t1NbCk 6:14 Bee Ready for Spring with OSU Master Gardeners
+aKofGy8an00 1:02:12 Starting Vegetables from Seeds with OSU Master Gardeners
+ZF_5sELmcAI 5:27 Apple Tree Pruning with OSU Master Gardeners
+sOflWwBofLY 1:12:21 Best Garden Trees with OSU Master Gardeners
+xUpP6P2mknQ 49:38 Heat of the Moment: How Climate Change Impacts Insects in Our Garden
+fxCK7VJ75yw 1:03:02 Orchard Mason Bees with OSU Master Gardeners
+a6nfVokbaVo 3:10 Red Chair Farms Paper Quilling
+RP2jKi9OjMs 4:50 Pruning Blueberries with OSU Master Gardeners
+0jKXn4wByz4 6:00 Fig Tree Pruning with OSU Master Gardeners
+JmbnQH0T7I0 55:58 Intro to Growing Berries with OSU Master Gardeners
+SBwOl2xzD5w 55:32 Carli Creek  Project: Assessing Water Quality Improvement at an Urban Stormwater Constructed Wetland
+orYl257Otgw 56:04 Raised Bed Gardening with OSU Master Gardeners
+ym1ZKZYKfS0 3:53 Table Grape Pruning - OSU Master Gardeners
+H05UeXOMePo 59:10 Introduction to Vegetable Gardening with OSU Master Gardeners
+Vz5OmVC3lVs 54:20 Growing Your Own Tomatoes with OSU Master Gardeners
+L-v77u_wVlk 1:06:39 Early Season Vegetables with OSU Master Gardeners
+uq8VCMU3HHc 1:02:40 Growing & Caring for Blueberries with OSU Master Gardeners
+YAgNstlT4VE 33:11 Pruning Ornamental Trees & Shrubs Question and Answer with OSU Master Gardeners - Jan. 19, 2022
+0Jo0mTyBeNc 50:40 Pruning Ornamental Trees & Shrubs with OSU Master Gardeners - Jan. 19, 2022
 `)
 
-export const channel1Episodes: Array<Episode> = map(
-  pipe(parseVideos, (v) => ({ videos: v }))
-)([
+export const channel1Episodes: Array<Episode> = parseEpisodes([
   `# Elif'in Hecesi
 
     SUoqi6C8qkw 7:40 Perija and Friends - Kuzum Belo Edije ( a balkan gathering )
