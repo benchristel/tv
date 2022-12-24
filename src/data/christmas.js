@@ -1,7 +1,8 @@
 // @flow
 
-import type { Video } from "./types";
-import { parseVideos } from "./ingestion"
+import type { Video, Episode } from "./types";
+import { episode, parseVideos } from "./ingestion"
+import {pipe, map} from "../lib/fns"
 
 export const christmasSongs: Array<Video> = parseVideos(`
 CThjvN0snQ4 2:46 YULE - In Dulci Jubilo - Celtic Harp , Guitar , Lute
@@ -105,6 +106,97 @@ eW79ejQcrDo 51:44 A Baroque Christmas
 r7adETaOYiQ 1:30 The Boar's Head Carol
 2AjFT4Rcp_U 3:41 Cantiga De Santa Maria, No.48
 
-
-RVguSWYwSsA 1:06:11 Carols From King’s – The Choir of King’s College, Cambridge (Full Album)
+# Celtic Christmas III
+# pgaiDhAqQ44 3:45 The Wexford Carol
+# 9Mk8QHA9V3A 3:53 Angels In The Snow
+# 8K8UTaiNX2g 3:42 Lully Lullay
+# SUPhRLA_YFU 4:46 Circle Of Joy
+# PTOEoRzG_D4 4:46 Sails Of Galway
+# XPmJmLmIHmU 3:35 The South Wind
+# A1T76harrKo 4:09 A Raven In The Snow
+# 5FLXVSLyucI 3:37 The Snows
+# Od1wf7XvJHU 4:51 Home
+# GvveCAnh97w 5:40 Lament
+# b_kavTJhfPk 5:06 Sister Moon
+# sG7s5hUryzk 3:52 Maiden Dance
+# 7ABzGGcpHik 4:36 Fields of Gold
+# ATWktqTDlCg 4:36 Nightingale
+# jpD4TAPUrdM 4:31 Branwin's Secret
+# jQkkIKtsSIs 3:54 The Shine Of A Shane
+# IYnvN2Ubb5k 4:41 Crimson Morn
+# AY3DSuA92f0 5:01 A Gentle Place
+# ppZTePgt5p8 5:02 Way Of The World
+# pQT6swI1IAM 4:17 Gossamer Heart
+# o7fD3rys1TQ 4:59 Lake Of Dreams
+# OssyaZNYN64 5:46 O Come O Come Emmanuel
+# Z1j65-WiKFo 4:11 God Rest Ye Merry, Gentlemen
+# 75Uxnqr4N1g 3:39 The First Noél
+# UxjDLhAQHsI 3:14 Hey Ho, Nobody’s Home
+# roXhc0Yy8KM 3:56 Away In a Manger
+# IJW1uJ-cgwU 4:27 I Wonder As I Wander
+# vg9uk7-qVLs 3:44 St. Basil’s Hymn
+# 8LJdZSR64kM 2:34 Deck the Halls
+# Jq5kYhXQsiQ 4:25 We Three Kings of Orient Are
+# YrjDMptr4eI 2:47 Gaudete
+# NnRI7QyU3WQ 2:59 Entre le boeuf et l’ ane gris
+# 3h77jLw8W80 4:50 Silent Night
+# bh73TSEHTyk 3:28 Coventry Carol
+# U1ikJQI9rGc 3:48 The Flight Into Egypt
+# tLbGK5-juYI 5:08 Strathglass
+# JGQUl84J304 4:20 The Green Fields Of Amerikay
+# q7Cl7utRbnI 3:39 By The River Shannon
+# T_lG1Zlu5rA 3:26 Ga Gréine
+# rOMxFuudX1A 3:11 Flow Gently Sweet Afton
+# Ab4VfUz8KO8 6:34 Barbara Allen
+# qo5ZF3gmqc4 4:02 The Heron
+# -LUmPeXAeWw 4:34 Carolan's Farewell
+# LhH6rXI5hsE 4:44 No Room at the Inn
+# 4AuGUFoirY0 3:59 Down The Chimney
+# Z5tD-cjZUpI 3:14 Here We Come A-Wassailing
+# 0xq4lyan4UQ 3:44 Deck the Halls
+# Cj9ORqxf7io 3:55 Coventry Carol
+# nsrZ2-s0lKU 2:51 Love Came Down at Christmas
+# PaS0qJL_HHc 3:14 Joy to the World
+# fwNqd-yTdpE 4:58 Greensleeves
+# gt9yj7F1EYo 3:41 Santa Claus Is Coming to Town
+# lt4DS_Z4U_I 3:20 Christmas in Killarney
+# CzzpmCWuyEk 3:26 Adeste Fidelis
+# rp3cDcVH8u0 4:11 Sussex Carol
+# BekklrlUf1c 3:35 The Holly She Bears a Berry
+# 4fgwV3QKlBQ 3:53 Silver Bells
+# fnuqX_Z9L90 3:55 The Wexford Carol
+# hia_n-Xik28 3:44 It Came Upon a Midnight Clear
+# iFsVQiiOXoA 4:10 Once in Royal David's City
+# Kd7Lym48H9M 3:53 Lo, How a Rose Ere Blooming
+# mF-UUbI9Glo 4:46 In the Bleak Midwinter
+# WNHt9_1oehk 4:16 Sìor-Uaine (Evergreen)
+# ntqAJAbYFtE 3:49 Derdriu
+# smGClMb5dkA 5:09 Airdí Cuan
+# ItRr7UsuUww 3:48 Sweeney's Buttermilk
+# dCLiiL-sM1A 5:07 Cradle Song
+# NBllWsdc1m8 4:11 Morning Star
+# sF-d4WuXkrM 2:57 Ar Droim Na Gaothe
+# RSTzacJwOOE 3:32 Whiter Than Snow
+# s_1D1A4JGYw 4:27 St. Stephen's Green
+# JjIkeO7Pe3g 2:49 December Rain
+# rmyRBNcQAmM 3:02 Kitty Magennis
+# 0z0_ZsNZmos 2:43 Christmas Time's A Comin'
 `)
+
+export const christmasAlbums: Array<Episode> = map(pipe(parseVideos, episode))([
+  `
+    # Windham Hill - Celtic Christmas II
+    7jOsFtZghxM 3:47 Chanonry Point
+    vN8nlmA8RSM 4:33 Amanecer
+    dTL7l-7AJxg 3:26 The Wexford Carol
+    4VK5-TPlGK8 3:59 Bríd Og Ní Mháille
+    yeYa_7s24pg 4:45 The Day's Last Light
+    If3peqjJKY0 3:41 Muladach Mi Is Mi Air M'Aineol
+    w9y6dWVdBJU 4:49 Listen To The River
+    Q2YBArGX4Dc 3:37 After Aughrim's Great Disaster
+    nd1ZGC0Bpls 4:26 The Star Of The County Down/Sweeney's Buttermilk/Jenny's Chicken's
+    _vVq05JqE9o 3:53 I'll Rock You To Rest
+    PB6MYWOao-8 5:24 Johnny Seoighe
+    hcOB2m4lBqk 3:01 The Dove's Return
+  `,
+])
