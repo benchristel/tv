@@ -420,18 +420,18 @@ export const albums: Array<Episode> = parseEpisodes([
     ZzEjGlRkdFQ 4:55 Markahuasi - Tinku
   `,
   // `ZCNTaH8VSEg 30:08 Fairuz - Al Quds - فيروز - القدس العتيقة - HD - High Audio Quality (Full Vinyl Album)`,
-  `
-    # DARKSIDE - Spiral
-    uq0OncoFp70 6:16 Narrow Road
-    pek2nt59lUY 5:22 The Limit
-    3_Bcw2O0f_c 5:09 The Question Is To See It All
-    RJ-_tY3JgUs 5:50 Lawmaker
-    zKu9izMdLP0 5:09 I'm the Echo
-    nq8ftImCQYw 4:59 Spiral
-    8WsbdoTkKOI 4:03 Liberty Bell
-    Nd6BRdX9lV0 8:36 Inside Is Out There
-    kxK0mtDeQMI 6:31 Only Young
-  `,
+  // `
+  //   # DARKSIDE - Spiral
+  //   uq0OncoFp70 6:16 Narrow Road
+  //   pek2nt59lUY 5:22 The Limit
+  //   3_Bcw2O0f_c 5:09 The Question Is To See It All
+  //   RJ-_tY3JgUs 5:50 Lawmaker
+  //   zKu9izMdLP0 5:09 I'm the Echo
+  //   nq8ftImCQYw 4:59 Spiral
+  //   8WsbdoTkKOI 4:03 Liberty Bell
+  //   Nd6BRdX9lV0 8:36 Inside Is Out There
+  //   kxK0mtDeQMI 6:31 Only Young
+  // `,
   `
     # Die Irrlichter - Elfenhain
     DUqUNQFws5M 3:54 Aelinesse na megil
@@ -592,5 +592,8 @@ export const albums: Array<Episode> = parseEpisodes([
   `
     bitMdn_PbOg 18:24 The Moody Blues - Days Of Future Passed - 1967 Vinyl LP - Side 1
     jktBW1Etu3M 22:42 The Moody Blues - Days Of Future Passed - 1967 Vinyl LP - Side 2
+  `,
+  `
+    -lgsCe-fLG4 40:05 The Alan Parsons Project - I Robot (full album)
   `,
 ])
