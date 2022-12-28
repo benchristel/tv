@@ -12,7 +12,7 @@ import {
   channel4Videos,
   debuggingVideos,
 } from "./shows"
-import { christmasSongs } from "./christmas";
+import { christmasAlbums, christmasSongs } from "./christmas";
 
 export const channels: Array<Channel> = [
   createChannel("Channel 1", [
@@ -22,7 +22,10 @@ export const channels: Array<Channel> = [
   createChannel("Channel 2", channel2Videos.map(singleVideoEpisode)),
   createChannel("Channel 3", albums),
   createChannel("Channel 4", channel4Videos.map(singleVideoEpisode)),
-  createChannel("🎄", christmasSongs.map(singleVideoEpisode)),
+  createChannel("🎄", [
+    ...christmasAlbums,
+    ...christmasSongs.map(singleVideoEpisode),
+  ]),
 ]
 
 function singleVideoEpisode(v: Video): Episode {
