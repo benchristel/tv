@@ -596,4 +596,21 @@ export const albums: Array<Episode> = parseEpisodes([
   `
     -lgsCe-fLG4 40:05 The Alan Parsons Project - I Robot (full album)
   `,
+  `
+    Blue Öyster Cult - Cult Classic
+    x25KqaNZurQ 5:08 [Don't Fear] The Reaper
+    B_MZ_mYr_48 5:15 E.T.I. (Extraterrestrial Intelligence)
+    6uwJpQGPs-s 3:11 M.E. 262 (Remastered)
+    X_40TO2HeEA 2:46 This Ain't the Summer of Love (Remastered)
+    MJFIzb1PMW4 4:29 Burning for You (Remastered)
+    0-IkV2Ls0cU 4:54 O.D.'d on Life Itself (Remastered)
+    zww3MqiAGb4 6:08 Flaming Telepaths (Remastered)
+    eQRoDfQfS0s 3:42 Godzilla (Remastered)
+    O08VvzZtwGw 8:47 Astronomy (Remastered)
+    2tV-0Ukur9k 4:09 Cities on Flame with Rock 'n' Roll (Remastered)
+    w-fT77g0oEw 3:58 Harvester of Eyes (Remastered)
+    eYkBaQkIcQ8 6:53 Buck's Boogie (Remastered)
+    Bl5-Oo1bdu8 5:09 [Don't Fear] The Reaper
+    mratO9l3eCE 3:43 Godzilla (Tv Mix Remastered)
+  `,
 ])
