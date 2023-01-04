@@ -5890,6 +5890,2891 @@ L-v77u_wVlk 1:06:39 Early Season Vegetables with OSU Master Gardeners
 uq8VCMU3HHc 1:02:40 Growing & Caring for Blueberries with OSU Master Gardeners
 YAgNstlT4VE 33:11 Pruning Ornamental Trees & Shrubs Question and Answer with OSU Master Gardeners - Jan. 19, 2022
 0Jo0mTyBeNc 50:40 Pruning Ornamental Trees & Shrubs with OSU Master Gardeners - Jan. 19, 2022
+
+# SMO TV
+EnQ-rCqyPlQ 3:18 Stiùiriche Leasachaidh Donnie Rothach a' bruidhinn mu leasachaidhean Baile na Cille Bige, BBC An Là
+cAy45O7UpKo 1:07:32 Open Day Webinar – An Cùrsa Comais | Gaelic Immersion Course
+6SJ05esz6xE 4:35 A tour of the campus | Sabhal Mòr Ostaig
+MtXYHpYCrNk 58:39 Club Irise 2022 Seisean 4: An Dtr Tim Armstrong
+UClp9pa5qpM 58:39 Club Irise 2022 Seisean 3: An t-Ollamh Meg Bateman
+t5WtjPeJAyY 45:32 Club Irise 2022 Seisean 2: Kirsty NicDhùghaill
+tyXMTxvOkkI 50:54 Club Irise 2022 Seisean 1: Seonaidh Charity – Grin, F. (2016) ‘Challenges of Minority Languages’
+a1fYW3j9fUA 2:14 Oideas
+lRM8TjDhAm4 52:00 Club Irise Shabhal Mòr Ostaig - Coinneamh #5 - 2 an t-Ògmhios, 2021
+YKb2zbbktyI 27:21 Interested in Gaelic teaching?
+k7Bhcxdu-zU 24:00 Ùidh ann an teagaisg?
+pL0257cpBJE 42:22 TIONAL: Cuirm-chiùil earraich air-loidhne / Spring online concert
+oy0DgjDPFbU 55:53 Club Irise Shabhal Mòr Ostaig - Coinneamh #4 - 5 an Cèitean, 2021
+woQptyM1_HU 3:07 CertHE Gàidhlig is Conaltradh | CertHE Gaelic and Communication – Izzy Flower, Alumna an t-Sabhail
+oR77Lc4xlnA 52:58 Club Irise Shabhal Mòr Ostaig - Coinneamh #3 - 31 am Màrt, 2021
+I-jwSSyGbsY 0:22 Alasdair MacGilleFhinnein
+NIoic-g9Glo 0:58 Megan Dale – DipHE Na Meadhanan Gàidhlig (2021)
+kTWmb5X0y-s 0:49 Eilidh NicIain – DipHE Na Meadhanan Gàidhlig (202)
+qkQW_oY-TVs 5:56 Dip HE anns na Meadhanan Gàidhlig / Gaelic Media (EIFF Showcase)
+iINHpvgNIwM 51:05 Club Irise Shabhal Mòr Ostaig - Coinneamh #2 - 3 am Màrt, 2021
+WGNKNFaclH4 21:56 Fàs Fiot sa Ghàidhlig 4 / Fitness Workout in Gaelic 4
+9Oc1HG9pD5w 16:31 Fàs Fiot sa Ghàidhlig 3 / Fitness Workout in Gaelic 3
+Yz6yLne0STc 16:02 Fàs Fiot sa Ghàidhlig 2 / Fitness Workout in Gaelic 2
+KkUYBaZQ7eo 21:56 Fàs fiot sa Ghàidhlig 1 / Fitness Workout in Gaelic 1
+rlEAc8AhJ9U 47:44 Dr Fiona McNeill, Edinburgh University & Dr Gábor Bella, Trento University
+7i6GbSECZt4 56:57 An Dr Chris Lewin - ‘An Abominable System’? Manx Orthography in its Historical Context.
+REvrcgqEE6g 54:56 Dr Michael Given, University of Glasgow: Tìr ’s Co-Bheòthalachd
+iXTBy5oEdrY 36:02 Dr Cassie Smith Christmas
+OL5Zgf1S-jM 47:13 Dr Hugh Dan MacLennan - A’ Rannsachadh aig an Oir: A’ Tarraing bho Thobraichean an Sgarpa
+5JY8n_-1xUY 31:23 The Kilravock Manuscript: Eighteenth-Century Scottish Fiddle Music & the Origins of the Strathspey
+NpNPSY-F57k 49:00 An t-Oll. Meg Bateman: Làraichean na Fèinne san Eilean Sgitheanach
+vFAh1y41VCU 35:00 Seiminear Rannsachaidh / Research Seminar with Dr Iain Mackinnon
+OQ2AWUwen60 53:26 Club Irise Shabhal Mòr Ostaig - Coinneamh #1 - 3 an Gearran, 2021
+8FlGYiTHGQE 49:25 A’ Tarraing bho Thobraichean an Sgarpa / Drawing on the Wells of Scarp (Dr Hugh Dan MacLennan)
+Ju93tSDowTU 2:41 Cùrsaichean Bogaidh / Gaelic Immersion Courses (Sabhal Mòr Ostaig, UHI)
+RbbQyqU1JNs 1:54 MSc ann an Cultar Dùthchasach agus Eachdraidh na Gàidhealtachd (SMO)
+K814lTf8CMY 2:58 Iain MacFarlane - ‘The Glenfinnan Highland Gathering’
+P9pT8Vxurag 1:29 Ingrid Henderson - ‘Eilean Fhiannan’
+drwBAMJEB2c 1:35 Hamish Napier - Màthair Spè
+QNpYNpDrEvA 2:35 Puirt Bhon Dachaigh le Hamish Hepburn
+1NPpnH0KgRA 4:04 Christine Primrose le ‘Àite Mo Ghaoil’
+Hqt0AqiU9rg 5:09 Latha nan Tagraichean SMO
+WlishJ11gBU 3:55 FEASGAR FOSGAILTE SMO
+C2AOdYw_IRQ 3:43 Puirt Bhon Dachaigh - An Dr. Decker Forrest
+-X3WkupmzJ4 2:54 Brath bho Phrionnsapal SMO.
+lDouCC83Bxw 3:41 Teachdaireachd bho Phrionnsapal SMO
+wwmVypMkcP4 2:14 BA (le Urram) Gàidhlig agus Foghlam / Gaelic and Education
+uVbRtWvMNL8 2:35 Thigibh beò sa Ghàidhlig | Sabhal Mòr Ostaig
+RMNzU5nDITY 2:50 BA (hons) Gàidhlig is Cèol Traidiseanta / Gaelic & Traditional Music
+b6AJKUgbX04 2:08 MSc Cultar Dùthchasach is Eachdraidh na Gàidhealtachd / Material Culture & Gàidhealtachd History
+VQ_w7tFb6go 1:35 Fàilte bhlàth
+liv6Q8WnFJU 4:09 BA Gàidhlig is Foghlam / Gaelic & Education
+IzmRNc96b_A 5:07 Bliadhna air iomlaid - Gaelic Exchange Year at Sabhal Mòr Ostaig
+gNOUpPJXhzU 1:09 Dioplòma anns na Meadhanan Gàidhlig / Diploma in Gaelic Media
+QweQB5GiFJA 9:56 Ceit, Na Facail Fhèin
+FpQt8rkz5yY 11:40 "Seònaid Tandy"
+_oCE1f-cSJA 11:27 Airgiod is òr Alasdair Gillies
+FIglVEFM93o 10:29 Nighean bheag à Orasaigh
+Dkz6fFcKbXo 28:23 Tìr an Eòrna / Land of the Barley
+FjObaoJ12w8 3:26 Hannah MacRae, Lauren Byrne & Hannah Krebs (Sabhal Mòr Ostaig)
+vg-3D74LVSs 8:20 Ceòl Mòr Ostaig
+U3VPk92vXAA 1:05 Flute & Whistle Course with Hamish Napier (Sabhal Mòr Ostaig)
+jN7ZSBrHwug 1:29 Cùrsa Giotàr/ Guitar Course with Ross Martin
+KmlJPI8v8d8 1:48 Preantasachd Tòiseachaidh / Foundation Apprenticeship (Gàidhlig)
+mo-v3BAd_vk 1:48 Preantasachd Tòiseachaidh / Foundation Apprenticeship (Gaelic with subtitles)
+KAqd4bbx10c 1:56 Dioplòma anns na Meadhanan Gàidhlig
+Dn_AUK-CfKU 0:40 Dannsa Ceum agus Fìdhlearachd
+hGYxwvZpYjQ 3:40 Sàr Dhuais na Gàidhlig 2018
+0x9cAmRcncw 2:13 Latha Eòrpach nan Cànanan 2018
+dYx-zub0Hog 3:20 Gàidhlig is Ceòl Traidiseanta / Gaelic and Traditionald Music at Sabhal Mòr Ostaig
+yc8bEiUBhQw 19:50 Deoch-Shlàinte an Eiiein
+NutZFUK-qMM 4:40 Cànan is Cultar na Gàidhlig | Gaelic Language and Culture (Sabhal Mòr Ostaig)
+FJ3zbDfWxN0 2:03 Joy Dunlop (Sabhal Mòr Ostaig)
+6Zpbrn8MePM 1:14:13 Òraid OGE leis an Àrd-Ollamh Meg Bateman
+Weozqef3XcA 0:58 Ionnsaich Gàidhlig Air Astar / Gaelic Distance Learning
+ZYuRLiA1iUc 11:00 Air an Fheansa
+7vWHfZaUBw0 11:00 Gaisgeach na Gàidhlig
+SnXU1gdlrHI 9:17 Coigreach gu Curaidh
+7zCIdL9aAXM 9:37 Floraidh
+Flhh43dBUUE 8:02 Eilean an Dannsa / "Island of Dance"
+WzJ3W8xWCrg 2:06 Teisteanas Foghlam Àrd-ìre Gàidhlig is Conaltradh
+mykPfMw8ikg 3:39 Pan Celtic International Song Contest 2018 - Alba
+uXCgzxUa84c 3:35 Latha Eadar-nàiseanta nam Ban / International Women's Day
+zo5b1wpK-Fk 1:15 Guth eile
+X6t7RrGRuqg 2:59:57 SAC SKYE
+D7-V99GiitA 15:00 Sgeulachd Courtney
+snomzEGlSUA 10:18 An Crùbh
+CawbSUOxBtk 5:19 "OMC"
+IG9tprRorEQ 3:36 Christine Primrose
+U1gRnSF2wWw 2:51 Ceitidh SMO Oileanaich (tòrr)
+aJZbJlvQfzg 0:39 Sgoil Phìobaireachd an Eilein Sgitheanaich
+ISZfA8V38Z0 2:25 An Cùrsa Comais (Cert HE)
+f3Ayg8cM1sM 1:14 Isle of Skye Piping School
+w5rfcg9uZWM 0:58 Dioplòma anns na Meadhanan Gàidhlig / Diploma in Gaelic Media
+FjkxTYeaQCM 10:51 Beatha le Parkinsons
+RmbRjlauu_o 8:39 Clann 'ic Caoidh
+2tvFoqXYVLg 15:47 Baile beag, baile beò
+pvKkurRa2eg 14:10 Carthannas Coimhearsnachdail
+HcnF37HiJv8 10:32 "ISHGA"
+GPjQwEfE6IU 15:49 Mo Roghainn 's Mo Rùn
+q9YDP7CFZbU 3:50 Dhachaigh
+2JNrg2tqJiQ 4:29 Fear a' Bhàta
+cFZcrS5RYw0 3:12 GLACTE
+D2Fmsj9kZq4 3:10 Gealladh Gun Choileanadh
+BRCr1Z4X-Ho 4:05 "Cheating Our Language"
+zDh5xGXW-VI 6:33 ALADAS - "An Là as dèidh an Sesh"
+_Q9EVgG839I 0:58 Seallaidhean de Chultair Dùthchasach le Margaret Stewart
+-lHR_iK60P8 0:46 Dannsa le Trail West
+qVuIJWNc_WM 2:21 àm-lòin aig an t-Sabhal!
+FQXhhl47bWg 1:43 MSc ann an Cultar Dùthchasach agus Eachdraidh na Gàidhealtachd
+RbIC7_-qoYo 1:24 Ceòl na Pìoba
+FyBb-3C1438 0:57 Tosta aig SMO (Human Mosaic)
+mmAiX0kjiQM 0:53 Cèilidh nan Cùrsaichean Goirid
+-lj3KUYkCA0 29:36 Na Piobairean Duthchasach (English subtitled version)
+OnRWprVit_s 1:13:42 Prof. C. Ó Giollagáin - ‘Language Minorities in Globalised Modernity’
+nOeMjMCqhZM 10:07 Dè an diofar? (What's the difference?)
+oIjMzPV9s64 12:30 M' Fhearann Saidhbhir (My Rich Land)
+FGCWIg69JEQ 10:42 Gaisgich an Fhearann (Heroes of the Land)
+IPYwZ9AbVSg 29:36 Na Pìobairean Dùthchasach (The "Folk" Pipers)
+_BXoifY4Hbo 10:28 Fosgladh Oifigeil Ionad Iain Nobail / Official opening of SMO's new building - "Ionad Iain Nobail"
+YPB1UOIoBcU 12:20 Niall Stewart - "The Donald MacDonald Quaich 2015"
+JP7ZmAhYRHw 12:41 Stuart Liddell - "The Donald MacDonald Quaich 2015"
+WXhDeZn12GI 11:39 Bruce Gandy - "The Donald MacDonald Quaich 2015"
+8ORwsvmpC28 13:07 Roddy MacLeod - "The Donald MacDonald Quaich 2015"
+Zyz8-gqowIc 4:40 Crìsdean Cunnartach / Chris Dangerous
+LckRwrcUM7A 38:09 Òraid an t-Sabhail 2015 – Nicola Sturgeon MSP, First Minister of Scotland
+ktO0UWKM0ZA 13:30 An Geama Mòr - Sgeulachd Dhaibhidh
+toTh5T_bJVc 10:10 Crossroads - Cùram is Càirdeas (Pàirt 2)
+9nDwiN7Y_ig 21:53 Crossroads - Cùram is Càirdeas (Pàirt 1)
+ClL0yCb2T5s 10:57 Gaisgich a' Chuain
+kgFqeYXoLZA 14:09 Air Ais Dhan Sgoil (Pàirt 2)
+ZqiOdkudy68 15:05 Air Ais Dhan Sgoil (Pàirt 1)
+RHVpAOSuVPQ 14:16 Cur Air Chuimhne
+h06i_RB2Ms8 14:48 Beartas na Beairt
+pD3C_LIcng0 14:52 Bun Sgoil Ghaidhlig Phort Righ
+oqrSVSaKECE 10:49 Sùileachan
+BsMKuQgLv04 11:01 Slàinte an Eilein
+phPBq7-Hp7c 12:31 Maise na Dealbh
+9LLvDk48PnY 14:59 Maille ri Chèile
+L6HqNdG5xk0 5:06 Dà Thaobh
+C0X_qidQZHg 3:29 Seachd Latha
+tVgbE32ZrFs 15:48 Cuisine na Croite
+R72X2qZqD5w 4:59 Beatha Bàla
+cLYN2caqfuo 14:08 Fàs neo Bàs
+6z9XJtRIkwM 10:53 Beatha le MS
+B1ZHSPWKOUs 1:23 Cùrsaichean Coimhearsnachd
+nlQ_bYpefvU 12:02 Maraichean: Clann MhicLeòid
+nEnHZ6yzXVA 11:41 Air a' Chroit
+wgsMQzPM0JA 11:50 Còmhstritheachd
+NGkApQt6mAI 11:18 Mìchael MacNèill: An Caiptean
+neQ-Bktb-EQ 13:42 Meal Is Caith E!
+eJJS_Gm4u5M 10:31 "Eilean a' Cheòl"
+9ni1Kj-NVxs 9:41 Sgeulachd Stuart
+Rao8qMzzsF8 10:46 Snaidhm Mo Chridhe
+jqXJYhq6L8k 10:12 Obair Beatha
+j1ST6TpqL6s 5:48 Sabhal Mòr Ostaig / Around the Gaelic College in Skye
+Er89PS8_mu4 50:11 Òraid an t-Sabhail 2012 – Kenneth MacQuarrie, Director of BBC Scotland
+8TyD7KUFOIY 1:21:30 Òraid an t-Sabhail 2010 – Andrew Dixon
+
+# TA Outdoors
+KmweP8s-Rds 25:09 Building a Celtic Roundhouse with Hand Tools: Bushcraft Project (PART 1)
+dNIDCJ2HrJs 26:02 Iron Age Celtic Roundhouse: Building the Timber Frame Foundation | Bushcraft Project (PART 2)
+gH3zo6wGiFk 33:39 Building an Iron Age Roundhouse with Hand Tools: Bushcraft Project (PART 3)
+_CLVJCAWELQ 26:19 Iron Age Roundhouse: Building with Hand Tools: Bushcraft Project (PART 4)
+KML_UX-unYQ 32:52 Building an Iron Age Roundhouse: Perimeter Walls | Bushcraft Shelter (PART 5)
+tmow-wvqx8U 35:32 Building a Roundhouse: Clay Walls with Bare Hands | Bushcraft Shelter (PART 6)
+oi5bAqcC4gM 18:34 Building a Roundhouse by Hand: Celtic Roundhouse | Bushcraft Camp (PART 7)
+R0BHWcHROoA 29:28 Building a Medieval Roundhouse - Thatching the Roof | Bushcraft Shelter (PART 8)
+N_aNFeYHp6o 38:35 Building an Iron Age Roundhouse - Thatching the Roof | Bushcraft Project (PART 9)
+w2gChdtNs24 25:30 Medieval Camp - First Night in the Celtic Roundhouse: Bushcraft Project (PART 10)
+
+# Open Past
+sHeUNyuayCo 21:41 Making precision agricultural and archaeological remote and near-surface sensing interoperable....
+VMiwBBXXZEQ 18:46 Peatland restoration and the historic environment: building sectoral skills in grant-aided....
+XrW28--4E84 28:54 Using artificial intelligence for national mapping of archaeology and landscape features
+wpiAH-HNNQg 16:42 Adapting to climate change action
+ZTvjHsO4vIk 20:57 Novel approach of landscape planning for conservation of archaeological and natural resources
+F07jUuuqStw 33:47 In our nature? Providing integrated archaeological advice in a changing world. Introduction
+gKMA6Gm4CYo 16:28 Public benefit is poorly served by development-driven archaeology. It’s time for change
+EyZqdE0TmYg 12:58 Pushing boundaries – what are we willing to risk to find anew and better way of working?
+ucuae7_W4Yo 22:24 Dig in a void: a mammoth task
+6sifuPCPQSE 18:54 It’s a long road to mitigation: how did we get here and where do we want to go next?
+5d1MDsJuG_U 5:05 Pushing boundaries–what are we willing to risk to find anew and better way of working? Introduction
+irLPo48mkgI 21:01 We don’t have a Jobs problem; we have a CAREERS problem
+-N_ELpvw4l8 17:23 Evaluating the evaluations
+-1XDIqOnwUI 21:12 Challenge vs opportunity? Changing the way in which we think about development
+iBInVvvX2z8 20:26 Those are my principles, and if you don’t like them… well, I have others
+NwQf-jU7F-g 18:43 Are we prepared? Skills for community engagement
+pO_TKv09Fbs 9:11 How do we increase community engagement in commercial archaeology?
+BNjDkb_dFSw 18:21 Embedding community engagement in everyday projects
+ogeDNkT-PmE 23:38 The value of archaeology in urban regeneration – the experience in Gloucester
+TRncX0X8QLY 19:24 Case study: the role of Priory Gardens in the Dunstable High Street Heritage Action Zone
+cR5EAqp5Vo4 16:41 Come follow me: the value of archaeology in Grimsby’s town centre regeneration
+pPrw8xZWTsY 21:44 Creating places where people want to live, work and visit: the value of archaeology
+_bk0cOYPc0Q 27:42 The Elan Links Landscape Partnership: Safeguarding Heritage
+s7OFapE5Lx4 11:39 Archaeology, sustainable development and value
+cz0JSXkceCI 39:46 Recent Archaeological Investigations in the Brecon Beacons National Park by Black Mountains
+vSFWpcVvmvw 19:07 Sustaining namibian heritage
+45XV0Uumues 39:03 Every Rock is on a Journey: a Geopark landscape in deep time
+O3X__5lRJuc 18:49 Building better lives through heritage
+0zX1pB5P9Os 21:58 The Rivers Project: archaeology at risk in the Usk catchment
+kN52rKA_HyM 19:40 Let’s go round again: revisiting sustainable development language and approaches
+Rz5Wgh8u-Gc 24:48 Towards the future: developing the BBNP Historic Environment Action Plan
+QHQInF6hiS0 14:37 Counting the cost of archaeology? Thinking about archaeological and heritage services
+WYKmfapAfUA 20:13 Twmbarlwm 2019-2020: CPAT and Cymdeithas Twmbarlwm Societyinvestigations
+EF2BtbtPoSY 26:25 Croft Gardens – great publicity or just a good site?
+cIoSO00mOXo 32:59 Uncovering History at Hay Castle
+LrjPhpY5FpI 21:27 Either side of furlough – the Giant and the Roman fort
+nsipHNZfWZM 20:17 Saline Heritage Society and the hunt for the ‘lost’ Church
+HzT4Fr4bBgQ 21:29 Hinton St Mary, Dorset – running a research and training excavation during the coronavirus pandemic
+2FpyVXqxeqA 22:38 Recent fieldwork in Fife and area
+6Kt2zvU2_Zw 24:37 The complete picture: the Rutland villa experience
+XZscP3JDcuM 27:35 Results from the Inverkeithing Heritage Regeneration community excavation of Inverkeithing Friary
+YMJyVzK194s 19:32 Running up that hill
+0JJ8bAZ20aE 14:22 Early Medieval long cists and other features at Powmyre Quarry, near Kirriemuir
+d6Gws-cLEKM 17:56 PCA, archaeology and CovID
+eiSuiWgHVtg 22:07 Continental connections: window glass from medieval Perth and Elcho
+b-IojADd-JM 23:25 Archaeology at home – using digital communication to build organisational resilience
+ojg_7VhLmfA 7:04 ScARF
+3kqR-BcKUiw 19:12 Back to school for HS2: learning how to unlock virtual engagement for schools during lockdown
+M2FZJ4ljZUU 34:12 Excavation of an Iron Age settlement at the James Hutton Institute, Invergowrie
+Rqj8jN3A2eI 21:40 Collaboration, flexibility and sustainability in engagement
+L3hvbhEVSb0 19:33 Loaves and fishes in St Andrews: excavations at 100 North Street
+cLvGLf-arAM 22:19 Making the most of the pandemic, for the benefit of maritime heritage
+S33nzrmWLd0 19:53 The excavation of Broxy Kennels fort and souterrain, Perth
+WIel6AI2h6g 22:01 St Mary’s Field Museum: planning and delivering intrapandemic educational opportunities
+ZKy86oc3R4M 27:33 Bridging the skills gap: developing a distance learning training programme for mid-career upskilling
+bgFfGYEgFKo 15:23 Understanding behavioural tendencies to grow the Archaeological Research Services team
+Qm7l9K2MvZ4 14:07 The Archaeological Research Services Training Academy – structured for success
+B2NzzGvoDmw 17:04 To teach is to learn twice: The Archaeological Research Services approach to training
+7phnr2lF-Rw 21:05 Engaging citizens Wellbeing as public value in archaeology
+MEUDpqjWJLc 18:42 Active participation Reaching audiences: introducing the Historic England Audience System
+gw-YObSCQA0 10:32 Introduction What are Public Value Frameworks (PVFs) and why are they useful?
+l4fUagwZXjI 17:04 Archaeological prospection in alluvial environments
+H7g0kltoS8E 18:59 A geophysical journey: Lord Montegue’s donkey and other stories
+-1DZqD73Jhs 3:08 Celebrating 50 Years of archaeological prospection: Welcome & introduction to the session
+6NM98xlLvyE 43:29 Introduction to Streams 1 & 2
+QXMQR-YwYRI 19:33 The Importance of Being Explicit: Metadata for Data Reuse and Preservation
+vitBkM8Pm2Q 47:27 So what has archaeology done for us? Thinking about the public value of archaeology
+oWjujNmBHOE 14:54 Selection Toolkit update and discussion (leading into a general discussion)
+_dEx-LCJyc8 8:25 Introduction to 2022 CIFA conference
+mE8bTsuI6f0 19:33 Public Engagement with our Collections: What Works Best?
+DTj4e6blxR8 19:01 Innovation in Geoprospection: the spatial turn in geochemical analysis
+qEOW-sIh8Qw 38:16 Ethical Considerations in Archaeological Archives
+MyTx-d6mFN0 15:08 Simulating trenches and geophysical survey for archaeological evaluation
+79sDLKuk9gc 28:18 The Future for Archaeological Archives Programme
+ruZhatXQqzs 16:36 Sharing common ground – exploring remote and near-surface sensing practices
+jrnKRbtW_lo 19:56 Dealing with Digital Data – a Contractor’s View
+O7Biq7-oA50 17:06 The HS2 Phase 1 Central Section high-speed railway corridor
+W_gj61KQoV0 21:43 Anything but Black and White: the Data Management of Digital X-radiography
+wV-Ad6Clf4M 10:07 More than Sherds
+1wChowOrHxQ 21:28 Valuing and investing in training & professional development
+4c-Jg0PPriA 19:42 The 2021 CIRIA Guide on archaeology and construction – changing the value conversation
+Dh8apS9D2e8 23:20 Archaeological Archiving, FAME and the Future
+qUukkT-7zKc 30:05 Archaeological Standard Method of Measurement
+CCqjHSDMUyY 36:17 A glitch in The Matrix?
+gPTZQYdMk1s 22:43 Data standardisation and the future of recording our past
+BapKAu4upkI 25:22 Trailblazing apprentices as a revolution in staff development
+DI_DBrQs-9w 27:36 Scottish Museums Federation 2022 AGM
+yNwRhglcU2E 19:01 Online Support for Museums: Free Resources
+nACcyb-0luk 38:14 Wellbeing in Anti-Racism Practice
+Y0FQeLJoL6Y 48:41 Fife’s Linoleum Project
+hTfso8eu7rw 25:45 How Trade Unions Can Help to Address Wellbeing Issues Across the Sector
+LErdziAgziI 22:57 They Might Be Giants - After the Fire
+lPVe47i639E 23:04 Remote & Digital Volunteering/Work: The Key to Increasing Museum Accessibility
+BgtxkV6qJMY 6:51 Introduction to the 2022 SMF Conference
+voMaKHwy3hk 1:25 Open Past Services
+JvYF7S5HOIo 12:41 Redevelopment of the Argyll and Sutherland Highlanders Museum
+aGzfegOBPSA 0:53 Scottish Museums Federation's Argyll and Sutherland Highlanders Museum Event
+zLbrUiAgx14 33:39 The Scottish Crannog Centre: Rising from the Ashes: The Scottish Crannog Centre development plans
+mhh-kKQPJ7M 23:16 Logierait: multi-period occupation revealed in a wealth of pits, postholes, ditches and hearths
+47kMBgykdlM 26:37 Warriors, beasts and boats: a re-examination of some of the carvings at the Wemyss Caves
+dFwRxbtc46M 29:00 A Hidden Vernacular - Rapid Building Survey in Perth and Kinross
+OUplMdA3-7k 26:32 A Neolithic pit-defined enclosure and Roman field ovens at Alyth Substation: in spring 2021
+eI8Kw8J-s2w 20:16 30 Years of Adopt-a-Monument and a look to the future
+F1B7nSh_pHI 14:29 Evidence of early settlement at Honeyberry, Rattray
+wFJLX99jgec 36:49 Burning Matters: the Rise and Fall of an Early Medieval Fortified Centre, Clatchard Craig
+83SXJKlGAIU 21:33 In memory of Oliver O’Grady with an Appreciation by David Munro and Joe Fitzpatrick
+jsu3DfCmgJU 30:38 Blair Atholl Man: Re-evaluating an early medieval long cist burial using advanced scientific methods
+8zeHc0gm3TI 19:33 Seggie Farm, Guardbridge: Multiperiod settlement in the shadow of a multivallate fort
+-tUrFY_FIj0 9:26 Introduction to TAFAC 2021 Conference Chairman’s Opening Remarks
+So48AyAIuw8 21:14 The Iron Bridge in mixed media: An artistic reflection on interdisciplinary research
+AA5FbROqwwM 24:09 The industrialisation of Thames water management in the 19th century from many
+UfCQEQYCsFc 21:10 The archaeology of 20th century factory management: Four factories on the Team Valley Trading Estate
+LP3G-iBqqC0 9:07 Investigating industrial pasts and legacies from multi-and interdisciplinary perspective
+wDGIMwsmTPU 11:44 Humanizing industrial archaeology
+TgVeXp-e7P8 20:30 “Garbology” and the archaeology of industry: Field walking in the hinterlands of Royal Worcester
+xrWHYBQMBik 12:14 Gideon Mendel in Calais: what are the ethical implications?
+tW9ONuGenL4 12:57 The Archaeology of Uncertainty
+hvTbLk7ia4s 8:04 Erased from the Past: Bringing marginalised people into Archaeology  - Panel Discussion
+dZ8z-V3NTtA 6:29 No Hetero!: Making way for alternative ways of knowing within archaeology
+57GSbvwUzYk 2:31 Erased from the Past: Bringing marginalised people into Archaeology - Introduction
+AQpqzjj5CJw 14:32 What does archaeology actually mean to those in primary education?
+rXJAbI-XmTM 12:50 Truth to Power
+WkLI0pu7heE 53:08 Publishing Power - Panel discussion
+2FYFdeQeJWM 17:54 Thinking about Open Research: Accessibility, Transparency, and Impact
+3LlWEXqxRhM 21:07 Open access, open data, open standards (?): sharing data generated through developer
+BOvA6tRDWBg 17:47 Canonising Archaeology? a publishing history
+_GA_xl55xhg 16:55 Breaking down the barriers in grey literature and publications
+haqmMRAllyo 11:55 Publishing Power: the power nexus in 21st century academic publishing
+XsgubgLVp-A 15:24 Eurocentrism In Print And Digital Papyrology: Decolonizing A Troubled Archive And A Narrative
+S12VW1wVhgs 20:37 The Archaeology of Ritual Action
+5jLwkdJoMlE 18:48 Lessons from Love-Locks: The contemporary archaeology of a contemporary practice
+XxtzsDql0-o 14:28 Defense against the Evil Eye: evidence for magic at Roman Wroxeter
+jmHv_25Hvm4 22:27 Concerns about bodies and containment in 16th-17th century England
+SObvq1meelo 20:17 Archaeology and Folkloristics at Tuberculosis Sanatoria in California
+OD1O2soGJyk 21:51 An Archaeology of Myth Fulfilment
+-7jc-BsCgu0 7:19 Pathways to post-conflict remembrance - Introduction
+oWvH13ZhbaE 18:41 Glorious and forgotten: the remembrance of air warfare in the Spanish Civil War
+IY9g7MsiIk4 22:26 Excluding the North? Marginalised memory and the legacies of conflict in the Centenary
+U3mqSIjqemw 21:56 ‘Don’t mourn, organise!’: remembrance and political activism
+e7yo0XFU3Cs 19:27 Archaeology and Colonial Power - The British Mandate and the Palestine Archaeological
+BjXMe9LUKN4 20:18 Annexed Artifacts. Exhibitionary Bias in the public display of objects from the “Holy Land”
+V7Fqz50P2B4 20:05 Messages from Mykene: Othering and Smothering. Intersectional Orientalism and Sexism
+RUj0ETlO8LI 19:48 Making it up as they went along: Reconstructing the methods used to generate an early 20th century
+pPIfttEK2I8 3:00 Museum Archaeology: Thinking Through Collections - Introduction
+7WoZZIO9paI 16:12 Imagineering archaeology: reworking digital media in museums
+htxbeOZompw 11:24 Tracing three million years of human cognitive evolution: a neuroarchaeology study
+YVH2aRu1Npk 11:55 Tool-making and mind-making? Acheulean handaxes and the emergence of aesthetic sensibilities
+slQpG34Fc1k 13:51 Teaching and learning Atlantic rock art: exploring cultural transmission in the Neolithic
+wtnaX3PE9Qg 11:09 Style as memory: bridging past and present in the context of Minoan archaeology
+vtG5Qs5-b4g 14:44 Metaplasticity and the boundaries of social cognition: exploring scalar transformations
+0v15ImlCGZo 12:40 Mass consuming miniature meanings: analysing the carved stones of Neolithic Bornholm
+dEabMgQCwms 5:25 Minds in situ: Material Approaches to Cognition in the Past  - Introduction
+tsqYZGu7oGY 15:26 Evolutionary perspectives on human handedness and hemispheric specialization in the brain
+TgvMMx3Vlqg 15:06 Do extended minds have material dreams?: a Materially Enacted Phenomenological response
+9GtUtvcomOI 17:13 Creating art, shaping the mind: a psychological approach to Upper Palaeolithic cave art
+-yoJ3kX0aos 13:08 Carving out an existence: understanding the chaîne opératoire from the inside out and making a name
+NX1DcT4kdAY 1:56:39 Women and Power? From Conversation to Action - Open Workshop
+bnuumgtpf8c 26:08 Conflict Archaeology: an audiovisual project on the invisibility of women in certain archaeologies
+sZQX7mmlF4k 9:02 Women and Power? From Conversation to Action - Introduction
+pv-hxnGWtZE 16:02 The Lisbon Devil: A Powerful Artefact in Portuguese Middle Ages
+zzc4EBI-p6g 20:08 Attribute OR Artefact OR Attribute of Intangible Artefacts – A Case of Indus (Harappan) Script
+H39qpd76QcA 19:57 Making Manuports: Unmanufactured Artefacts in Archaeological Interpretation
+mEWJu8S8Wak 18:38 Hierarchies of Value? A Reassessment of Exotic and Indigenous Feasting Artefacts
+h6PfK1agWcw 20:20 The Destruction of Power and the Power of Destruction: Decommissioning Powerful Artefacts
+QZJpJ2dZG1I 20:50 Irish Bronze Age Cinerary Urns
+KI7igf4fF3U 15:44 Brooching Power in the Viking Age
+o2YKyEWD8bo 17:46 The Power of the Illicit. The Memory and Identity Captured and Maintained in the Illicit Objects
+wrUR8Eyo3P0 20:56 ‘A Deep Sense of Voicefulness’
+-0okJuWrTbU 21:44 View from the trench edge: reflections on working conditions in commercial archaeology
+EznNwIa_ipQ 25:04 Type III fun: archaeology and infrastructure
+7VdPahrARpY 21:13 Training adults: is it a processual and post-processual endeavour?
+CTLu56aO5tc 22:20 The Rise and Rise of Viability in Planning: An Archaeological Perspective
+FeDpWFCgEM0 18:54 An archaeologist’s view of consortiums
+DCz3ljM39NA 6:24 Power over Practice in the Contracting Sector - Introduction
+0fY-svWAAtw 7:27 Fact or fiction: the power of communities with knowledge of their pasts - Introduction
+s4fjAm2YmIQ 12:12 Heritage and its Discontents: The Power Dynamics of Heritage Projects in Southern Mexico.
+RSb8A1bMm4s 16:14 Heritage and Affect in Nepal’s Post-Disaster Recovery: Working with the Community of Langtang
+MuBvPBwJLA0 25:18 Communal memory and social cohesiveness
+1613AK-NRJY 18:17 Stories in the Sky: community groups and storytelling at Park Hill flats
+Ad_1G8LuYBk 22:34 Where does archaeology take place
+ReEy8STNHWw 19:37 Panel 2 - The Decolonisation of Archaeology and Archaeological Collections within museums
+StFphqUA1bc 20:05 Panel - The Decolonisation of Archaeology and Archaeological Collections within museums
+zswBIxL6bvU 22:01 Investigating Intersections of Race and Public Perceptions of Archaeology: a pilot survey run
+hgF-IDz_Eks 20:41 How to Say Nothing: A Case Study of the Museum Labels on Some Looted Bronzes
+E1deDDhJXQ8 22:00 From accession to access
+cjqPgDekomg 16:28 A ‘Belgian compromise’ of Science and Empire along the Nile
+IT9CphzDj6s 20:04 The Affect of Relating. On thingly humans and humanly things
+LNBVx4gYLWQ 12:06 Moral and objects of affect in the medieval world
+wSrmQ9Kt2Sk 12:06 Moral and objects of affect in the medieval world
+ZPkLk9F-9rs 17:16 Ground Affect: Honestones and Emergent Capitalism in Medieval England
+2MwM1gW-qSE 15:06 Affect worlds and Immanence: A Spinozan Archaeology
+4D2sVdkkOyk 18:09 ‘Concepts have teeth’: capacities and transfers in the digital modelling of Blackfoot material
+e7m9FJ2O0Ac 14:42 Affect and post anthropocentric architecture
+_Ae9iOoYJLU 17:30 Kerbing Relations Affecting By Using Pasts
+5qmA0KCEs3E 19:23 Affect and power – what difference does a word make?
+_UiWSPljyZk 22:35 Marshwood Vale Forest – a land apart. Oral history of a Hookland royal forest
+ohiDrlo4DA4 18:17 “Will you search through the loamy earth for me?”: Towards a Psychogeography of Danebury (Essex)
+nUqYmFPw_I0 13:58 Spooky stone circles and sinister standing stones: megalith exploitation movies 1957-1990
+EDQz_ngwbOg 14:35 The Toadstones of England
+aOEduVijOWs 12:29 A fantasy of the lay by
+ImVQ8JIAYvs 18:01 Hookland antiquary, Edgar Snell
+Ar2djvP0qJg 18:21 The barrow is never empty – ghost soil excavations in Hookland
+VJd9BGpHowA 3:31 Archaeologia Hookland: the archaeology of a lost County in England - Introduction
+5wI2GqQD568 19:47 Colour of the dead
+Af4zhnBZU_E 29:09 Revisiting Sacred and Profane: ‘domain change’ in south Italian prehistory
+mPnanllLczg 17:52 Archaeology of the past, present and future!
+BfdbiCuRxKU 29:01 The Power of Place in Greek Archaeology: The Impact of Text on Sensory Experience
+i19Ntzuhbq8 23:46 Reflecting on Reflexivity
+7pYu6J3wMRo 3:41 Sensory Archaeology across Space and Time - Introduction
+-DkJZf62MbI 25:33 NO FUTURE: FROM MSC schemes to Master of Science Courses
+wn9j3lfBnO0 10:14 The "power of non-violence" or "Gandhism" of Russian provincial archaeology.
+yZdgN1yocT8 9:45 Coffwich Drweryn, heritage of conflict and grassroots nationalism
+r-WVphSu564 10:02 “A Part of England’s Story”
+t0kS1nvaZ7k 11:03 Dwelling in the landscape: a challenge to nationalist archaeology
+-v_aktmJclk 11:49 The Romanian myths of origin and the postnational critique: challenging reactionary populism
+4dB4qw_CHdc 13:49 The assault on Holocaust memory and history: Holocaust denial and the Leuchter Report
+-izVb0oYQxY 12:28 Music, nationalism... and Vikings?
+--HxWMYM3as 9:31 Living pasts: emotions and heritage in the post-truth era
+r4UaceTO-ZI 13:54 I said it once before but it bears repeating: heritage is not just about our ancestors
+bAyjNVkFIF8 10:49 God’s Chosen People: dangerous narratives in Early Medieval ‘history’
+JPvSZ1AJED0 20:48 Archaeologists Communicate Transform!
+LitRfEEltIQ 22:35 ‘The Establishment’ Strikes Back: What CIfA activists are doing and why you should care
+OtpBTAntgSo 4:48 Archaeological Activists and the Untold Histories of Archaeology - Session introduction
+YXWvLLnISEY 20:12 How a group of archaeologists, supported by their trade union, took on management…
+_1uyzj90wjE 14:01 Rescue - A Secret Society?
+sr_hHU0KpOs 17:49 Preservation and presentation of Roman archaeology in London.
+fMcZBe8Me0Y 20:47 Where archaeology meets technology
+wE3WTl_pWIo 14:50 Archaeology, the Romans and the National Curriculum: an archaeologist-turned-teacher’s perspective.
+zyiWJ2q9OTw 15:18 Travelling Bones and Leather Bikinis: How Archaeology Inspires Fiction
+GEvrvMJs11g 23:28 Becoming Archaeologist
+MaNM1YxhsQg 17:00 Misogyny, Patriarchy and Female Labour in the Medieval Household
+2gsdexfIdvE 17:24 Grievability, households, and violence in the Iron and Viking Ages
+eziq_PmBHV0 14:31 “Nomadic subjects” and Eurasian Iron Age studies of households and feasting
+smS1MQPhSaA 18:24 A post-humanist, feminist approach to power
+FnHu1e3wO14 16:08 ‘Nobody knows what a [feminist] body can do’: difference, immanence and becoming
+nihyUCFlxTQ 16:59 New approaches to difference? Celebrating and experiencing ambiguous bodies
+Ip8rBh5IX4A 16:50 Working is Broken: Labour Conditions in Commercial Archaeology and Video Game Development
+LSAtkb34MXY 3:57 New feminisms? Radical post-humanist, session introduction
+J-OT96D7Z5g 14:02 (Digital) Game Archaeologies: Going Digital to understand Material/Going Material
+FpDSiZr4GCI 14:39 Education or fun? Creating video games to promote archaeological thinking
+vvIpXfkoUDg 17:56 How the Archaeology of Amazons helped Women in to War Games
+3XDa_DXl-Oc 16:35 Booms and Bombs- Situating Breath of the Wild within the “Jomon Boom” trend
+S5LNMndy9ZY 21:36 A Heritage-Focused Video Game on uKhahlamba Drakensberg Traditions
+zA4fVl2ZFww 18:14 Dangerously Fun: Politics, play, past, and the phenomenon of archaeogaming
+K5R-_Fd5szQ 42:16 The benefits of Consultant and Contractor collaboration in Archaeology
+3fDRSaok_qM 58:03 Hiring non-UK Staff in Archaeology from 2021 onward
+vpnTyapgF9Q 1:06:52 Archaeology and pipeline safety
+HMjZBriffoc 34:00 The provision of hygiene bins and disposal of contents on archaeology sites
+m0EHxa6GKOU 7:00 Development and first experiences with an interactive teaching movie
+3haynNex9cA 16:07 Models and Metadata Revisited: Changes in Online Digital Bioarchaeological Practice
+x9V758nWStE 15:45 Affordances and Purpose: Modelling Social Behaviour in the Landscape Using GIS.
+CZCpujxCWGE 16:53 (De)constructing the Iron Age and Roman Landscape of Citânia de Sanfins (Portugal)
+-P9YIv02ZhA 13:28 Cosmological conceptions that transformed the Nile Delta. A hydrological approach from pre-dynastic
+c7LuNrRowSo 13:31 GPS Technology in Field Survey the MYCENAEAN SPERCHEIOS-VALLEY ARCHAEOGEOPHYSICAL PROJECT
+og_h0j91H9Y 18:25 Indigenous Landscapes in the Caribbean: Using network analysis and spatial statistics
+_RgYlJDLMzg 15:34 Prediction of paleolithic sites in KwaZulu-Natal, South Africa using remote sensing
+U9-dGoSW8eQ 18:42 The missing landscape of the Mycenaean Argive Plain
+ygOHMJp6UKg 18:12 Using LiDAR as a tool for remote archaeological prospection: the case of Salas
+7EgRtJWYXqU 6:28 Korean perspective on digitally mediated knowledgemaps of archaeology
+ajEPF7A0irc 6:27 A Brasilian Perspective in the Wake of a Knowledge Catastrophe
+KsGeoN3JgPI 4:59 Mapping the bibliography of Citânia de Sanfins. New methodological approach 4 historiographic model
+A6EkOngBaZs 6:36 On the Current Impossibility of Creating Digitally enabled Knowledge Maps
+YuWPLgoxRZw 3:48 Our knowledge is all over the place
+0_w5tC5dDCw 5:22 People Telling the Stories, the Stories Telling about the People
+GETmsLHP5Q8 6:07 Queering digitally mediated access to archaeological knowledgemaps
+8KqJjfDPAfw 16:49 Bayesian Species Distribution Modelling of Domesticated Plants
+-rl5WhjsWPE 21:23 Spatio temporal network analysis applied to Roman Terra Sigillata data
+eb2Bu6NyP2Q 19:12 The Application of Local Indicators for Categorical Data
+26vcrBRX0FM 20:41 “Where did they stand?” A probabilistic approach to the study of orientation of enclosed areas
+auI5FLbtAZo 20:19 ‘Riddle Mia This’ – A Mobile, Augmented Reality, Museum Puzzle Experience
+p7ByQYVq_cc 20:23 Evoking memory through immersion: the case of the Laocoon cast at Glasgow School of Art
+WOI_RN2Hi3w 20:20 Lochbuie, a Bronze Age focal point of astronomical knowledge
+1PaZ_Jt9mec 18:49 Permission Digital Archaeoludology
+zl412S9pUYs 16:30 Virtual Avebury
+JhRoPez1FD4 21:14 Using immersive acoustics to communicate archaeological narratives: Listening to the Commons
+FTDlZee3PeI 19:38 3D documentation of ceramic vessels with the use of modern measurement technologies
+O5HaImWePFw 11:01 Digital authenticity
+d1l2g-okXuE 15:42 Similarity analysis of African Red Slip Ware (ARS) with modern 3D and 2D processing techniques
+1slyhCHAuBM 18:08 Interlocking Geographic and Social Urban Mobility. The Social Network of Etruscan Elites
+kOfdfVIUYq0 23:10 FAME webinar: menstrual health and hygiene in the heritage workplace
+bBm9I837FWc 17:52 Measuring the city – methods of layout reconstruction of regular medieval locations in Central Eur
+BEpxzr2Ye_M 19:31 The evolution of the historical transport networks of the Iberian Peninsula
+y7p4G5iKcgg 16:55 To Move as One: Simulating Crowd Movement Dynamics in the Ancient City
+h_2pP9NxWSE 20:43 Who lived in that Roman house? Computational models applied to the differentiation of typologies
+ktjq2Fb3E7o 17:34 Developing the Durham University Museum Artefact Collection for Machine Learning Applications
+NwKTnw_NSNA 14:29 From manual mapping to automated detection: developing a large and reliable learning data set
+iiP62GmsaJs 17:47 Improving the discoverability of zooarchaeological using Natural Language Processing
+wuLZbtoOG1M 18:25 SkyEye, a machine learning software to detect archaeological structures in LiDAR Dataset
+fmVcM6oybv4 11:32 Use of convolutional networks for archaeological feature detection in geophysical surveys
+op8TptDy_yM 14:12 Extending the Nordic contribution to ARIADNE+
+WYinHaj84MM 21:43 Combining scientific and interpretive approaches to archaeological data: multi-proxy database
+TDN3Xt2Vpkw 13:03 Current status of georeferenced metadata visualization in Norwegian Stone Age
+f8MQ5DVhEu0 22:11 De facto standardisation: template database models as a path to adoption
+YGlw4sLSiQ4 18:35 Deir el-Bahari Projects : objective, realization, plans. Integration of data in the Database Digger
+WuCjkMf7zTs 1:12:23 FAME webinar: Upskill your heritage workforce in England
+YfNzYWHUDMU 15:02 Early Christian Baptisteries: Geocoding, Exploring and Analysing a Spatiotemporal Dataset
+p6TrPvE29fo 50:30 FAME webinar: Duty of Care When Providing Services
+hJh_1prEci8 16:34 Making excavation reports available
+o_XVi4pu3Rw 19:15 Preparation palynological norwegian dataset for digital re-analysis and publication as Open Data
+PJvvtYW71eo 20:48 Web-based data integration. A case study of Medieval coins in a multileveled perspective
+SvTiK3MCO1E 14:05 Where have all my data gone, and how do I find them again
+KIyWEFHaG5A 8:09 My little text mining minion
+dckFIpSvG8o 1:37:42 FAME webinar: Archaeology, access and digital data
+ywsRcnlQ198 7:40 A Linked and Open Bibliography for Aegean Glyptic in the Bronze Age
+zhD2bI3K66A 8:39 Serial, fast and low cost 3D pottery on site documentation
+AT20-5OgSUw 15:56 Estimating Neolithic spread rates at different scales
+y_LiGK8VMpc 15:09 Complex Study of Exogenous and Antropogenic Impact within Territory of Volga-Bulgar
+Fyy90ah76xM 22:32 Developing a digital documentation toolkit for the recording of coastal archaeology under threat
+qYGWBUmc1Sg 28:56 Feart Maidens: The Witches of Perthshire
+kws50LdSTOg 26:25 Loak Farm, Bankfoot: excavation of a prehistoric settlement
+or99r11rtUc 34:37 Uniting North and South - Investigations in Southern Pictland by the University of Aberdeen
+YpBb3hCMS3A 29:46 Neolithic Carved Stone Balls in context: A new find from Sheriffmuir
+HdTTCbq-UfE 21:18 Arcade Teaching
+VoL4R-JIWcg 7:30 Creating Immersive Multiplayer Classroom Experiences in Site Reconstructions
+_HureRW_fP8 5:18 Chairman’s Opening Remarks
+uCbavV134k0 21:06 An Unexpected Bronze Age Cemetery, Carnoustie, Angus
+qExhFVvdIUs 21:47 Creating a new gallery for the archaeological collections of Perth Museum & Art Gallery
+LmBJp4suyGE 11:04 The Perth & Kinross Archaeological Research Framework: Year 2 Update: a Framework taking form
+-oUPks5JWlA 27:27 New archaeological discoveries at the Wemyss Caves
+5F9aqnTtcUE 30:15 St Drostan’s Markinch. The Archaeology of a Unique 12th Century Building
+q-AV_-hMZ94 7:00 Development and first experiences with an interactive teaching movie
+gkBZQh28hrw 17:52 Archaeological sequence diagrams, directed graphs and Bayesian chronological models,
+Y5Ch456J7_Y 15:56 Computing Archaeological Stratigraphies. A State-of-the-Art
+DA5Z7tNRyik 18:15 Discovering the time of La Draga,
+7JfVFuNJB4Q 13:29 Going with the flow - From sediment cores underwater to 3D stratigraphic models in ArcGis
+HvabQLP1Kko 13:44 Interactive Visualisation of Stratigraphic Data
+ZEUdNdM2BYA 15:01 Simultaneous Horizontal and Vertical Stratigraphic Recording Using Daily UAV Flights
+DLau-7Q9F-8 19:41 Spatial Sequences: The use of 3D GIS for the identification of complex archaeological patterns.
+1AEl7tujJkY 16:43 Stratigraphy and photogrammetry: the case study of the Basilica Capo Don
+jbkwpfBGu3Y 18:00 Surface Correlation and the Sequence of Occupational Floors at La Draga, Banyoles (NE Iberia)
+bxIpw0JWXyc 16:58 The application of 3D density analysis to archaeological data
+UNBVZnURNRU 15:10 Three-dimensional documentation, reconstruction and visualization of site stratigraphy
+CcU5YGfqI4g 22:58 When Harris met Allen in The Matrix: How can the conceptual modelling of stratigraphic relationships
+GKiWRTBsIBk 15:18 Chasing heritage thieves
+i0Gs0lsYmkQ 20:42 JCHC: an editorial and social media project as a collection and dissemination tool
+Pce_KRbuD98 18:17 3D stone tool analysis in R: An introduction to the Lithics3D package
+_-p5OhTejtw 15:21 Emacs, Org-mode, R and LaTeX: Power tools in the archaeological toolbox
+3dc4-pzWoYc 12:32 sdsbrowser - an R Shiny Application for visualisation and analysis of SDS stone artefact data
+cnFtdHhJtEo 18:51 Using R to Update Minnesota’s Archaeological Predictive Model
+bkKm7hA0C6k 36:13 FAME webinar: Managing Risk
+2tiYmAyzXWA 15:30 Linked (Open) Data with Provenance for Prehistoric Mining Archaeology
+NTzEsZOrkHA 12:10 Enter the TechnoScape: thinking through our future toolkit.
+AND1d_GptLg 15:40 Proportions vs dimensions: shedding a different light on the analysis of 3D datasets
+aUe9hTKQs0o 13:01 Skeletons. We’ve all got one. What next?
+za148xROT9Y 11:16 Archaeological Map of Bulgaria in ARIADNE and ARIADNEplus
+6QIqSc0v9C8 16:32 Czech archaeology in the Digital Environment – Digitizing Archaeological Agenda in Theory and Practi
+OD6BsGjf7PY 14:52 Digital Infrastructures for Archaeology
+UuAzZ-_tEEU 15:14 Ísleif: a network-based approach to site survey
+olEeQgo66ro 17:10 My data manager is a robot!
+9Fb4AXL1Cp8 17:50 OpenArchaeo: an application to query archaeological data via CIDOC CRM
+g2e0Gi59suk 16:25 Prospects and Potential for the National Digital Repository of Archaeological Site Reports
+kZbkEF875Zc 14:14 The ADED project - a Norwegian infrastructure for excavation data
+ZHf2ljbiZIM 14:37 The ARIADNE project at INRAP: inception, implementation and future
+VsXztU5pJKk 16:15 FAME webinar: Archive use: outreach, exhibition, education, research
+CRBmNfkNZL8 13:59 FAME Webinar: Curatorial practice: accessioning, collections care, accessibility.
+6TQVv6aQvk0 13:32 FAME Webinar: Archaeological Archives: definitions; composition & the requirements of the elements
+EJMz8MuSPX8 15:24 FAME webinar: An introduction to the museum context and archive creation and issues
+pFMH6n1TmfM 13:40 Where is the data?
+ra4s0a9P4cs 17:49 ZBIVA web application
+PvWZCm3M2wY 13:59 Comparing sites, based on ceramic finds spectra
+xCIpx-ybtSk 16:02 From the photo to the size groups: Seeking relationships between artefact fragmentation.
+R9W1NWh6PQ0 36:03 FAME webinar 2: Collateral Warranties
+zHiEMW5BcdI 15:29 A method for automatic classification of artefacts using computer vision & machine learning
+aMiQv1YrRkI 17:05 A re-evaluation of the concept of type in coroplastic studies based on 3D shape analysis
+LPNMlqHo_WE 19:41 An Archaeological Perspective on the Classification of Categorical Data
+NC-KgJ5YhyM 19:16 An Automated Approach to the Classification of Fragmented Faunal Remains
+k8cFJa-2JzI 19:26 How deep or random is your forest? Some thoughts about making the right (algorithm) choice
+B1_bC6ddURA 19:20 Recovering Commonalities and Highlighting Differences in Aegean Sealings
+5z7GtWIAWb8 15:53 Computing Similarity Networks of Maya Glyphs from 3D Data
+D8GwoT2LHmI 12:36 From Local to Global: Nested Interaction and Community in Late Bronze Age Crete
+ggYoOYXioYY 16:04 From the artefacts to material culture, Statistical modelling using R
+k2Cv-wQz3Lk 14:00 Design thinking in Cultural Heritage
+GW5HWGqfQHM 10:21 Engaging visitors with ‘invisible’ heritage: lessons learned on the impact of digital media
+r3Fq82JI4ys 11:09 From heterogeneous data to heterogeneous public: thoughts on transmedia applications
+0Q2RyEDMdIs 13:32 Inclusive Digital Engagement for Heritage
+6mjuWVULc6o 12:53 Ksar es Said: Building Tunisian young people's critical engagement with their heritage
+e33rbg2VfIk 13:48 Unintended Outcomes – VR, Heritage and User Engagement
+tZFwuwxlRgA 12:59 Archeoinformatics and the Archaeological Digital Initiative: Successes and Challenges Teaching
+nq1JL-xh_XM 10:34 Developing a master’s degree in Digital and Computational Archaeology: a view from Germany
+5YxEm9yOLR8 11:58 Education of Digital Archaeology at Polish universities, different approaches
+QdUX-e5qq-4 12:50 Learning to See vs Learning to Understand. Why is Teaching Digital Archaeology so Difficult?
+9_ipeacO-6M 13:26 Problem- and Project-based Learning in Digital Archaeology: Potential and Challenges
+2EjYO1-A7_c 10:23 Teaching 3D archaeological documentation in the field and classroom
+GwuMHLdZiGc 9:41 Teaching Archeomatics at the University of Tours
+x-7KzD7NpQo 12:26 Teaching Digital Archaeology at Leiden University
+CLx2M7tx-t0 9:03 Don't JUST think archaeology
+1CKkh_S1G2Q 9:59 Share trainings to improve the skills in digital archaeology
+ZFGnQWbSfto 5:38 The ETO-SIG approach to modularisation: A Position Statement
+eGLJcQwMGAI 15:44 Disrupted temporalities of digital archaeological artifacts
+V0usjtb1HdA 22:27 Real-time Performative Negotiations of the Archaeological Unknown within Digital Objs & Landscapes
+20LdKjcFkwA 18:26 Rethinking the cultural taxonomy of the Euro Palaeolithic through 2D elliptic Fourier analysis
+RE59QuT9kFE 11:56 The fabric of a rural landscape, round trip from space to field survey (Loir-et-Cher, France)
+EDsxWRac0kU 18:00 Airborne laser scanning in Białowieża Primeval Forest
+rSEwGpGOmP4 15:26 Between traditional and innovative Case study of deserted forest village Neuhaus
+pYzRNaF0Yf0 19:30 Geophysical survey in tropical forest
+uLV0m6Dcnug 15:24 Terrestial Laser Scaning in the Rainforest: 3D documentation of the he ancient Maya centre of Nakum
+WStRD0gOI2g 10:01 Understanding how everything worked out so well. Teaching computer databases for archaeologist
+R9rtBEySTRA 21:02 Discussant in Round Table Session S39
+vMWgsP9GEew 24:01 The European Research Council ERC and its funding schemes
+b0tM8-kZbiU 13:13 Enough paperforms - a web and a mobile app for GIS-based field surveys in Bulgaria
+TnvrIofWeZs 13:33 FAME Webinar: Introducing the SoDA Toolkit
+LiEgnkEBt6o 13:36 Mobile GIS in the field: what people asked for and what they used - 7 years of FAIMS
+dMcKPYp19N0 15:27 Placing Mobile GIS in the archaeological field survey
+OLHoB1DxdN8 15:56 QField and the future of QGIS on mobile devices
+gwiFp4DeBDg 17:58 Seven years of FAIMS Mobile: Strategies for field recording infrastructures
+jaGxWzAYS1k 15:03 Taking not only your GIS onto the field: how to merge our individual documentation types
+oEFe59Z1G5w 15:27 The Present and the Future of Field-Surveys: are we aware of the digital limitations?
+qIHGf1zVeMQ 12:51 Applying Linked Open Data to non-standardised typologies: the example of Celtic coinages
+lpgkBUPz3BM 20:37 Breaking down barriers
+8yheFvbXKaM 10:59 Eight Years of Nomisma.org: Past, Present, and Future
+X7mwRToJZbA 8:04 Taming Time Tools: Alligator and Academic Meta Tool
+OFTdsdoZl3o 18:43 “Festung Brünn”: Remote sensing and spatial analysis of German World War 2 field fortification
+snLBeJlrrLM 17:19 Hold position: Case study of non-destructive archaeological survey and spatial analyses
+8oPjT3XCarM 16:48 An open online minor on the archaeology of conflicts
+CnxnEyuEjsI 15:00 Landscapes of disappearance in São Paulo: data modelling and visual analytics
+1ooez5vtlP0 15:05 Jewish religious heritage in the landscape of conflict. Relicts of military operations
+NO4v0IoUuAM 16:10 Past Landscape of Pomeranian Army (1939), a remote sensing perspective
+309qnQnFQu4 21:54 Nuclear "Soldiers of Freedom". Remote sensing of Cold War landscapes in Poland
+KNcA5PTigbM 19:52 The survivorship bias and intimate landscapes of conflict
+lXA7arR3z8M 13:12 An Automated Approach to Segmentation and Refitting of Fragmented Faunal Remains
+2zxLR8lMajQ 13:51 Challenging students by integrating digital archaeology
+yNklVy87-0U 19:16 Uncertain information, the Dark Matter of archaeology – use cases from numismatics
+pwBG1n9J5XI 16:36 Gorram shiny: an accessible interface for reproducible landscape archaeology with R and fieldwalkr
+gJT2LNwjfiM 27:42 Assessing manual, unsupervised, supervised and automatic change detection methods for detection of l
+1WaRZ5dot0U 26:14 Towards best practices for monitoring and quantifying archaeological looting with SAR
+TJ4R78vGN54 14:25 Percolation robustness and the deep history of regionality
+zKNq_qNb6PI 13:34 Application of object detection and semantic segmentation in structure from motion mappings of mines
+mb1SG0Rfy3M 6:40 Multi-scale insight into the archaeological study of an Andean archipelago settlement system
+eGilUuMxV1s 15:07 Statistical methods for the exploration of the spatial information in anthropogenic soils
+TUWyTcQSLT8 15:35 Combination of machine learning methods of image and natural language recognition on ancient coins
+h9Q_fIeTdPg 11:48 Complex data over large spatial and temporal scales: local understandings of national significance
+8sbFNNVYAtM 17:01 From picking up a sea snail to models of long-term occupation of the S Africa MidStone Age coastline
+Abji44XYxd0 5:11 Attempting to make agent-based models more applicable to regional settlement models
+rZrhvI7DURk 15:42 To perceive or to compute? Comparison of impressionistic & computer-aided shape classification
+dD8yrew9JwU 18:06 The Swedish Digital Archaeological Workflow in Action
+FRSq1Lx_ZwQ 15:42 CENIEH: A relevant source of digital paleoanthropological datasets for ARIADNEplus
+2Jgwdb0Ej24 18:24 Using the Energetic Calculator for Ancient Buildings (EnCAB) to Understand the Growth of Cities
+_3Rp0UsCA-E 17:29 Archiving realtime archaeological (para)data or archiving archaeological (para)data realtime?
+1txVmQ58z4k 10:37 Teaching Digital Archaeology at European Universities
+Jyo8QxR9Vkg 8:57 Feminist perspective on digital access to Archaeological Knowledgemaps
+jEcWxRcapZA 9:20 User Interface Design and Evaluation for Online Professional Search in Dutch Archaeology
+gkrzwpB1o6Q 15:29 Geometric morphometrics, visual perception of similarity, gestalt principles and creating groups
+HKZDrBf7Vvo 11:38 An online collaborative museum and associated lessons for secondary school students
+x5BTkCWqw6s 12:37 A Gaming Odyssey: Improving Video Game Pedagogy in Archaeology and History
+2hcZYRx4vck 8:55 Active Learning Using VR, Sketchfab, and 3D Printing
+xkUo1m0L4IQ 15:43 Barriers to the Adoption of Digital Systems in Field Research
+sMj125KFeiM 20:58 Point and Line to Hyperplane: Set and Graph Theory for Parsing Systemic Contexts and Assemblages
+GRcgF-5VJSY 18:32 Developing and using immersive experiences at Caistor Roman town
+8LOMX1A1ubg 17:29 Mongolian deer stones
+OsjyIB9Jcgg 20:48 Modelling spatial relations at Choirokoitia
+kYMpv7mBw6Q 20:50 Modelling the origin of polis in Anatolia. From conceptual to computational approaches
+c8hG9eCiSQE 16:34 UNESP/LARP-MAE/USP WebGIS: a Brazilian initiative to approach the Roman-Byzantine Period
+gN0aMSZdRus 18:29 ARIADNEplus for public/community archaeology
+2tJ_CuTQFrM 15:58 Modeling the Ptolemaic Cultural Export: A Quantitative Evaluation of the Spread of the Isiac Cults
+nQPuGPI0uVI 11:23 Creating a unified design system across web, mobile, AR and VR
+eGIiHA4ybAM 10:50 Mixable reality, Collaboration, and Evaluation
+DqWlubP75ds 15:57 Analysing settlement dynamics using statistics based on archaeological theory
+pvegmkUJu08 14:47 Teaching digital archaeology in Italy: still utopia or already reality?
+J3ZOO9fBi58 17:15 ARS3D - Documenting facts and interpretations of African Red Slip Ware
+r9zR6K_6dzc 13:47 Sharpen the image: Determining scales for questions of hominin dispersal and migration
+k3OnWmzPlNY 19:15 Towards A Digital Ethics of Agential Devices
+F865aw6Dbtc 21:10 GIS and spatial statistics for cultural heritage assessment
+9F62w76eYIE 17:42 CRaFT Work
+xV9Y6tpWtfk 26:45 Mudlarking on the Thames Foreshore
+QPCqitHXb4s 26:44 London in the Age of Becket: the 12th Century Thames
+mucH8p_oeRs 11:54 Diving In: The Tadpole's Year in Review
+E3TSAraeD9k 5:37 What I've learnt as a TaDPole
+ueAE1NSeoHE 22:24 Tideway Archaeology - A Tale of Two Tunnels
+0zdgPd9s6Hc 15:19 Tideway Site 4: Barn Elms - Going to Town on an Iron Age Oppidum
+ND8dFq9d_nU 15:57 Older Londoners: Final Year and New Beginnings
+jkYtu9EE5SI 20:02 The Magnificent Seven Discovery Programmes
+AzTNR0qqcN0 19:48 Back to the Future: TDP The Next Ten Years
+fbwh-TIbzuU 25:28 Embarking the D-Day Armada: Overlord Archaeology in the South
+xS4e8qMcH9Y 33:50 How to use archaeological collections beyond display - SMART Workshop
+G8F7R06KB0E 1:00:49 An understanding of the standards in the care & management of archaeological collections
+tlQ6Hf815eA 38:27 Introduction to the Treasure process - SMART Workshop
+9qgxYstgylw 47:22 How to manage archaeological archives - SMART Workshop
+THFxfSZjb10 24:52 Introduction to the Portable Antiquities Scheme - SMART Workshop
+j9VGA4baiiA 23:44 Gairloch Museum
+Ieaml0NYAow 22:58 Birnam & Dunkeld Historical Society
+DaFN5jWnyEM 20:40 Forth and Clyde Canal Society
+8zYIijekrzc 24:34 Scottish Maritime Museum
+M5OJ8jJIvdM 18:21 Badenoch Great Place Scheme
+u5msdE1Gomg 28:55 Hospitalfield Arts, Arbroath
+LimjOgKFV88 16:48 Edinburgh Archaeology Field Society
+X35T8qYh2FA 30:51 Perth & Kinross Remembers
+eYnr3zrQxJs 29:24 PKARF Priorities in Progress Conference - Closing remarks
+gOg8AyDg5KI 28:54 PKARF: Modern
+vZGkMRbuUHI 21:13 PKARF: Post Medieval
+4I3l5xHQ6oI 23:55 PKARF: Late Medieval
+0rVdp4FoiRU 27:53 PKARF: Early Medieval
+E4pqijA6SPM 25:35 PKARF: Iron Age
+aopKkrRe_wQ 25:10 PKARF: Bronze Age
+FbTPUA919DU 24:24 PKARF: Neolithic
+VBAxvphbok8 15:24 PKARF: Mesolithic
+TFRBYWyf-mk 6:55 PKARF Priorities in Progress Conference - Welcome
+hLX6aCJV6Xg 10:41 PKARF Priorities in Progress Conference - Introduction
+Ir41EL4s_7w 25:54 Driving Community Engagement and Research: a vision for Watling Street
+y3d10Cx7BmU 20:31 Liverpool Rethinking the ‘slums’: Victorian archaeology in a museum context
+rFuFhapd1GE 32:01 Experiencing the gods: Displaying and interpreting Romano-British religion in museums
+y5zxOJiEUJY 26:19 How can I put this? Interpreting the Evil Eye for a modern audience
+8Lea3hNklhc 23:43 Is Disposal a participatory practice?
+93V0wRc5tXg 12:29 Treasure
+0vRVpBboE0U 11:50 Graffiti
+_i-wY2OZDLg 16:07 Waiting in the Wings: The content, deposition and documentation of digital archaeological archives
+kx6SqR45ITc 24:13 Numismatics, Norman England and other Tricky Issues: Thematic display and marginalised collections
+sxEAAKiOYcM 23:28 Studies in Digital Heritage: A New, Open Access, Peer-Reviewed Journal
+fV0ltkCvYSc 41:02 Beyond the Bling: Exploring the human stories behind 4000 years of adornment
+W_M9bQlKWYw 18:34 Virtual Reconstruction of the Maya Site of Vista Alegre: Multi-use Digital Assets in Context
+ydS7wRbgSz8 57:58 Museum Archaeology: The Telling of Human Stories
+cwc43AIdGKk 19:38 Virtual Reconstruction of the Maya Site of Vista Alegre: Multi-use Digital Assets in Context
+fW7ivk2GrGs 28:44 Presenting Prehistory: Exploring the impact of prehistory-based projects at Tullie House Museum
+UwXOFw--CRQ 9:10 The effect of Augmented Reality and 3D printing in the comprehension of two historical bridges
+STPjJ2nYmTY 21:57 BC or not BC? Is that the question?
+o1ApOdLDOO8 21:16 Exploration of methods for interacting with archaeological 3D-data using virtual reality
+t_i7CQYx0Lw 28:33 Lost Landscapes
+op0WEnzpFlc 11:48 Virtual reality immersive serious game to enhance learning. The case of Peña del castro
+NrGCF4tuiek 28:16 Norwich Castle: Gateway to Medieval England
+ICixZN_lrVw 29:32 Archaeology for the People
+aSDJsUMAAHQ 15:23 Developing an optimized methodology to create a portable virtual reality tour
+i2nrVSiWzow 15:11 3D GIS: The road ahead (part 2)
+u4sxel28FTI 17:01 Visualizing the past: Developing tools to facilitate accurate and immer Grace Sommers
+GNePMxk97zk 18:27 Auralizing past places: Repurposing visual datasets
+4f9EQbFq-HU 16:26 Excavation at 100 North Street, St Andrews
+URWgKvO9H40 17:57 The 3D Survey of the Basilica of S. Apollinare in Classe
+hK1YK1aVO2I 30:24 There’s more to this than meets the eye – the 2019 excavation strategy on East Lomond
+zElgDElXtxI 22:05 Point-based Visual Analytics and Virtual Taphonomy: A Case Study involving the Submerged Cave Site
+aRKdWTYfDAk 23:26 Band of Brothers at Barry Buddon: Recent Operation Nightingale excavations on the MoD ranges
+0_ol0ydgGTc 19:27 Masterhand identification in 3D - Case studies from Archaic and Classical Greece
+EPvmjSz-8XA 29:28 Wemyss Caves 2019: digging deeper
+ewiWJXwMyYU 18:11 The potential of multidimensional visualization in stratigraphic analysis
+OkPqHXS7B28 20:57 Results of the A9 dualling archaeological works from Luncarty to the Pass of Birnam
+H5xqIPnG5EM 27:10 Some tools to prepare, cluster and visualise data
+WYt8s9K4h0k 14:17 The Perth & Kinross Archaeological Research Framework
+0erKDiUOhoI 17:59 Exploring spatial autocorrelation in archaeological spaces using R
+PXIMNyWzYo8 23:53 Reconstructing urban dietscapes in medieval Scotland
+xZn8y8gSAVg 18:14 Is there anything R can't do?
+j7xpabmp-kw 19:02 New work on the early medieval sculpture at St Andrews Cathedral
+bUBukex30QI 13:00 Aoristic research in R: Correcting temporal categorizations in archaeology
+4xsBCoFxKsE 12:36 A new Pictish cross slab in Easter Ross with strong artistic connections to southern Pictland
+_HQ28PmJh9g 17:00 Reproducible research in archaeology using R & rrtools
+50eSQ6MkHC0 12:49 Carmelite Friary, Perth: ongoing research
+c93D6TRY1QQ 12:25 mortAAR: the analysis of archaeological mortality data in R
+ctqeuNrYjhM 19:45 When all said and Dun, X marks the spot. Excavations at the Castle/House of Dun, Angus
+GPheSAg4F-M 15:55 c14bazAAR & oxcAAR -- two R packages for the collection, calibration and modelling of 14C dates
+qqlH_HCBuws 17:18 Energetic Cost Calculator for Ancient Architecture (EnCAB) and Open Context
+qqsO4vOPqqo 20:53 Metadata and long term data survival in cultural heritage
+3dqhQoZAv70 16:57 Automatic Geometry, Metrology and Visualization Techniques for 3D Scanned Vessels
+j3A6dIbxv60 19:32 New approaches to Open Data in Archaeology: the blockchain revolution
+N6AeBxESPG8 14:13 Using ABM to explore the role of socio-environmental interactions on Ancient Settlement Dynamics
+NvB_QBNXkEY 17:06 SKOPE: Making Paleoenvironmental Data Useful and Accessible
+KfLQ-V-UTt8 19:30 Geophysical Correlation: Global Versus Local Perspectives
+BbQwI4eI_uk 18:53 Case Studies in Open Context Data Reuse: Implications for Curation
+q2MQgO87xoI 19:06 Virtual Kinship Networks
+8-m-DUbrZ4U 16:44 The field research database iDAI.field 2.0
+uo7uI_8yzc8 14:20 Exploratory and Comparative Analysis of Archaeological Excavation Databases
+ZnFak9grHxU 22:38 Squeezing Radiocarbon Data
+_UfRwbW0PlY 14:47 Exploring the movement, exchange and transformation of metal in the Eurasian Bronze & Early Iron Age
+sJrQ23txNzo 15:02 Recycling Prehistory? Reality or Myth?
+c1rcbrCoszc 33:38 The structure of experience: modelling landscape visual quality
+qVoh5hAKoZ4 18:28 Assemblages of networks: tracing the connectivites of the medieval Icelandic farm
+ofmzS3-BLaU 21:48 Bringing Sound into the Picture: Experiencing Ancient Maya Landscapes with GIS & 3D Modeling
+tNcTh44s-W8 18:12 Interoperability of heterogeneous archaeological research databases
+f4WHID9Uc3k 21:40 Do we have a heading for hard questions about mobile GIS in archaeology?
+MjxapRhWkp8 16:30 Peripleo 2: connecting and exploring archaeological data
+YwjQhUHPjFg 19:22 Mobile GIS for Large Scale Excavations
+fjhJ5eG09nA 15:25 The Grand Challenge of interlinking palaeoenvironmental data and interpretations
+a3iWQdTtV9A 18:51 Evaluating QField as a Mobile GIS Solution for Archaeological Survey
+V8idpZZNqf0 16:43 Discovering Hidden Connectivity
+494Pl217bc4 17:07 Mobile GIS in primeval woodland landscape. Case study of the Białowieża Forest surface survey
+2fvkxYAS29E 16:52 Driving interdisciplinary search for collaborative studies of long-term human ecodynamics
+hvhk-u0ASGE 18:55 The recent contributions of Mobile GIS in the study of flint mining
+3T9chSh286c 21:32 Relating Norwegian palynological records and archaeological datasets
+OZUzRvJ-API 13:15 Site Reconstruction from Partial Information
+DBxPIeZHwi8 19:32 Landscapes of commerce: a spatial approach to local market systems
+_m16I4jHPCo 16:01 Advanced Numerical Models for Seismic Evaluation of Masonry Heritage Monuments
+oUCrEhOtppw 19:51 Past settlement structures vs modern archaeological recognition.
+NSalSQSWmpM 15:44 A new methodology for the structural analysis of 3d digitized cultural heritage through FEA
+Js-Q-v6Is8M 22:59 Hunter gatherer mobility, archaeological research biases, & the interpretation of settlement pattern
+-b6t9UzenJs 16:29 Loessic Landscapes and Past Population’s use: a Multidisciplinary Approach
+rKEbDuNyB5s 16:44 Numerical methods for understanding & quantifying crack propagation in complex masonry constructions
+ilT6T__PppU 22:08 Europe's Lost Frontiers: To the Limits of Mapping and Modelling
+9zp8ympjm1s 20:15 Challenges in Palaeolithic Spatial Analysis: Two Eurasian Case Studies
+5dTtCM5dFUo 25:34 A 3D geo-electric resistivity approach to assess Neolithic/ Palaeolithic sites
+rps1TVWy8H4 15:29 Moving Around and Settling Down – Reconstructing Palaeolithic Land Use with GIS
+xBwpQ-5he-E 26:37 Paleolandscape Characterization: An integrated work
+TvOniRLf9N8 20:03 Corridors or Barriers? A GIS model to classify biome distributions in the late Pleistocene Europe
+RyPcRNiRI8Q 22:17 Advances in Computational Cuneiform Analysis
+WeYKw4AA_U8 21:07 The Last Interglacial period and its implications for AMH dispersal: GIS-based PalaeoMap of Egypt
+BH02pLYwfa0 21:24 Rebuilding the Oldest Archive in the History of Mankind in Digital Form
+K05S-GqLaJI 20:26 Using Taphonomy, GIS, & Photogrammetry to reconstruct site formation & carnivore-hominin interaction
+WByjjDyr2IA 16:52 Evaluating Arabias trade routes with Least-Cost Path analysis
+puYObaaHKvk 13:45 Palaeo-geography of the Channel Plain & its influence on Neanderthal lithic & landscape behaviour
+OjpwR3QQ_iY 14:42 The Early Mesopotamia and the Persian Gulf Research Project
+MwcaQcPvbt0 13:35 Contribution of GIS in definition of human activity areas in Middle Palaeolithic
+5_tURwIEy5s 21:44 The role of modern digital techniques in documenting and rehabilitating the Syrian heritage
+eYUJvkSX-Z0 23:37 “Story first, technology second.” Exploring the archaeological affordances of iDocs
+1pCyFTTUAWA 23:59 Reasoning on the original appearance & use of a bronze implement with 3D models
+mWxELA7Yxro 18:16 VR and the death of the frame: Filmmaking in an age of immersive technology
+npr0JJI17PA 13:10 Data Quality experiences within the project Corpus Nummorum Thracorum
+W16FW-lygAU 23:31 SCHARP Focus: film making as an integral part of a wider community based project
+CW4ErT9iONk 21:46 Participatory Data Quality Estimation Procedures
+SgVIP3lF7m8 12:58 ProfileAAR – a small tool helping to rectify archaeological profiles in QGIS
+dOaDNkLWqTg 20:07 Taming Ambiguity - Dealing with doubts in archaeological datasets using LOD
+IgkFyD8rrnI 14:05 Numismatic Reconciliation APIs for OpenRefine
+_PoxHvl81yw 16:28 Data Quality – if not initially, how to solve it later?
+Fwjfp5YltaE 21:03 Hybrid Modelling Workflow for the Representation of Destroyed Heritage Monuments
+-_LI9SHvZ1M 17:41 Adapting Simple Magnetic Depth Estimation Techniques to Modern Archaeo-geophysics
+siVo9cyQVCE 15:15 Beyond 3D Modelling: Analysis of archaeological artefacts based on a morphing algorithm
+mCkIn3LzdVg 13:59 ‘Mark the Graves’: Adapting automation for improving the delineation of graves in GPR data
+oJEBIsaXOtw 13:23 Archaeology of Sicily in 3D: An interdisciplinary Italian-American collaborative research project
+u8T-znmUM0I 20:02 Computer-aided object detection in archaeological geophysics: helpful tool or mirage?
+9fASod9d99s 17:56 Is 3D scanning a suitable monitoring solution for supporting the lending management?
+FMbztFZDUwE 21:24 The Roles of Data Fusion in the Scientific Process of Archaeological Remote Sensing
+ObbWbUX6y50 14:52 Practical SfM Balancing: How Acquisition Parameters Affect Computation Time & Reconstruction Quality
+s7tqSMQkGSQ 16:56 Is the whole greater than the sum of its parts? Image fusion, analysis and interpretation approaches
+knQHgYRCVyg 17:44 The Application of Digital Survey Techniques to the Recording of Burials
+HRNf-XHWv8c 18:21 Connecting Iron Age Neighborhoods: An Urban Case study from Kerkenes
+nIxfDYJd5Ac 18:12 Lasergrammetry and high precision topography measurements to study a complex fortified building
+h8K7MJtnYRE 16:21 Reading Rubbish: modelling diachronic change at Tell Sabi Abyad, Syria
+BE0Ux1Hvknc 15:07 Close range photogrammetry for field documentation of the ongoing excavations
+j-Oj-2g4FZU 13:53 Reconstruction without validation? Limitations of computational and quantitative settlement analysis
+r2ZyyVl9YRA 17:11 Digital Object-Based Curricula: Teaching History with Underemphasized Collections
+MmifDWlLKOE 17:52 The urban past through the lens of fractals and visibility
+KwqJ0sO3Xl4 23:58 Immersion and the Submerged: The Scapa 100 Project
+4gisFOgZzNE 21:45 Assessing the value of minimal computational models for the study of long term settlement evolution
+vDSN3iYkN-A 16:56 Digital archaeology in museums: are we getting closer to matter?
+bcROg9iSaio 16:57 Site definition possibilities: Features excavated along a transect
+g0pBzNydFis 21:30 Virtual Reality and Storytelling for Viking Archaeology
+DzJcjW5X4vg 19:02 Sharing spatial data with a 3D component as a collaborative and dissemination tool for archaeology
+gqw3PNMudKM 15:54 Democratising Access to Museum Collections & Using Digital Innovation to Explore Archaeological Data
+WV3h3G7E6L8 17:50 Free and open source geospatial software for re-using archaeology open data
+WOTs4X5PiDw 16:47 Matrix in the Network: assemblage co-expression networks to unlock meaning in stratigraphic matrices
+rCHyfwRpITU 16:19 The Arches Cultural Heritage Data Management Platform: A flexible and expandable open source system
+S2wJYhthEgc 16:20 Multispectral image analysis applied to identification of archaeological buried remains
+kJfBnXApfG4 17:52 CLIMA: A webGIS platform for risk assessment in cultural heritage
+KTl8_q8QniY 19:23 Using Data Mining techniques to evaluate Bronze Age metallic components
+0p8hRJQOsH8 22:35 Sometimes a map is not enough: challenges & lessons from developing the dataARC data interface
+6hCSWxs8zdA 17:11 Computer-aided Classification of British Isles Neolithic Group VI Axes
+vYI9fQ6Yv_w 20:04 Data Aggregation and Visualisation in archaeometallurgy
+hoiGW65HMMg 23:56 A Model-Based Statistical Classification Analysis for Karamattepe Arrowheads
+9ImyeXn6vRE 17:08 Open source solutions for Norwegian Stone Age, Chaos theory, and the ADED-project 2018-2020
+-6OhfOEHhGs 15:51 Partitioning Archaeological Chaînes Opératoires on R: dealing with huge categorical datasets?
+1DJ1y0-Chko 19:18 Multidimensional Data Fusion For Archaeological Research - The Isparta Archaeological Survey
+iMZA2kpwuEw 18:10 Classifying vessel shapes using automated shape extraction and unsupervised classification
+75y4FZ3s7Uo 27:57 Investigating Continuous Archaeological Landscapes of Northern Mesopotamia
+xGPla4dZSOU 12:57 Archaeogaming as Queergaming
+PFRJZjPFAxc 14:30 Analysing the effect of spatial distribution of 2 populations over their hybrids genetic composition
+ydlZgf5dszY 16:40 Exploring the Mesopotamian landscape: integrating geophysics & drone-based remote sensing
+6Upt4vQAc6M 21:48 Networks of Meshworks: emerging social structure and communities in Kaushi, Taiwan
+H-3N1rWtQVc 26:19 Archaeological Prospection using Drone-acquired Thermal and Multispectral Imagery
+ALWi89-Fr20 18:43 Viewshed network analysis of the Cochasquí site, Ecuador
+z9f1WDvvvl0 19:38 Powerful Pictures: Uncovering Data in Aerial Photogrammetric Imagery
+4Q4WOQxw8xg 22:57 What’s geography got to do with it? A networked, agent-based model of exchange in Polynesia
+yHgTs5vSPJQ 22:46 Stereo-Satellite Imagery for Management of UNESCO World Heritage Sites in Jam and Bamiyan
+FxKFjU5zsQE 17:44 Chronological Network Analysis – A new methodical approach to the chronology of the middle Neolithic
+UhCQkoevMA8 20:06 Taking the Hobbits to Isengard': Testing common practices of spatial modelling in fictional worlds
+VVHQZZgqeKU 18:09 Reconstruction of Old Kingdom Administration using Data Mining
+nDzAkUNT8_w 17:39 Dissecting the Neolithic Dwelling Through the Application of Geostatistics Techniques
+1FHVcK6T9PQ 23:58 Identifying Late Chalcolithic & Early Bronze Age Metal Communities of Anatolia
+GwRSEYL9MeY 17:14 In the mind of a Roman farmer: social interaction and predictive modelling in Northern Gaul
+Wr_NZEVnp14 18:42 Epidemiological Modeling and Impact Evaluation of the Antonine Plague
+nrGZDynVqCg 14:26 Is 'culture' a buzzword? Ontological challenge of an interdisciplinary project
+wNY48N3BVXc 16:08 Christianization of the Roman Empire: Diffusion on a Settlement Network
+LyZEJwdznP8 15:20 Neanderthals on the move: An agent-based modeling approach to simulate Neanderthal migration
+j-CqWH639-Y 13:59 Networks of things: mapping quantitative and qualitative variables of archaeological artifacts
+UQv15w4C0gQ 23:48 Expansions – How to create links between Neanderthal behavior, ecology and environment
+c0Tek3l2u5U 20:09 The application of Network Science to the study of Atlantic Rock Art
+w45EJ_uZ-BA 18:19 Tool Diversity and Mobility: Deducing Neanderthal Land Use Patterns from Lithic Assemblages
+YffX2BdnnvI 16:18 Network approaches to the formation of artistic communities in the Orinoco Interaction Sphere
+x9fM414nYz8 15:25 Playing with Ethics: Preliminary Results of Perceptions of Archaeological Representation in Games
+SffcV_cz244 19:52 Towards a conceptually-enhanced archaeological network analytic tool
+rqOtm6vg_Wo 13:56 Advanced Visual Education in Archaeology using OpenSim: The Experience of the Time Maps Project
+Bbec04x_peY 23:04 The Emergence of the State in Predynastic Upper Egypt: An Agent-Based Approach
+5klnKixoU9o 14:06 BibNum : reflections on a systematic approach to structure & disseminate archaeological digital data
+kr1D4aF5YbU 18:42 Transferring knowledge from locational predictive models into spatial Agent Based Models
+busbxc28Fug 8:09 Beyond the Virtual Reconstruction of an Archaeological Settlement
+6KZXfF7BWCQ 18:25 Socio-Ecological Responses to a Changing Environment: The Mid-Holocene Elm Decline
+00bsvVWnmtk 12:04 Diffusion versus dispersal wave-of-advance models and Neolithic spread
+ivqfF2EJ5zs 18:04 Simulating (In)experience at Sea: Building an Agent-based Model for Iron Age Channel Crossings
+kdZhNSZByag 5:00 'Out of Site': Problems in Understanding Hominin Dispersal
+bUPy042wrkY 21:48 Evaluating simulation platforms to describe ancient work processes
+zDCVLwt6C8s 6:00 Route selection and number of exits: Quantifying “Out of Africa”
+_qljxiuioDo 8:44 Predicting the Past: Computer Simulations in Archaeology
+yEJFAGOMBww 7:29 No two ancient migrations are the same: constructing null models at different scales of analysis
+jiYuWiueHOU 19:22 Explicit Knowledge Representation in Archaeological ABMs
+41TyIgycH74 6:03 Modeling Movement on Water: Generating past mobility corridors on the sea
+J5SuiXFj9sU 16:48 Simulating the past: From Virtual Reality to SocioPhysics
+2BamC0h3dXQ 9:17 Automating heritage reporting tasks with R
+ToA3k6m7EEo 13:16 Agents, networks and complexity - an introduction to the session
+xPo1yyVAcMA 8:30 Agent-based modelling for archaeology classes: sampling
+j9qSag309Zk 15:48 Detection of Bomb Craters in WW2 Aerial Images Using Convolutional Neural Nets
+K3OSAuDQSVw 14:14 Hypothesis modelling in R, using shared data
+qEbOP32TveU 16:06 The use of Convolutional Neural Networks in the automated detection of archaeological objects
+jHJWy7smDuQ 19:42 Defining archaeological Site Exploitation Territories using the open source statistical language R
+yHjnJslk_8g 13:22 Semi-automatic mapping of cultural heritage in Arran, Scotland, using deep neural networks
+sRWFD7nD1hY 10:30 EDIT DISTANCE - Software tool for analysing epigraphic data
+snA57BXyTJs 15:56 Archaeological Object Detection in Airborne Laser Scanning Data Using Convolutional Neural Networks
+yRPJmPdBIfQ 14:46 Towards 3D modelling as a replicable and intellectually transparent process
+6u_nyH2f-CE 16:47 Extraction of linear structures from LIDAR images using a machine learning approach
+h9KE982DCE4 8:55 Standalone Photoscan VS Photoscan Cluster Processing
+urrL0wjqpZU 17:13 Semi-automatic detection & extraction of complex burial monuments in Arabia
+bDpGxtLhGmc 13:49 The Big Problem with Big Data: automating social media harvesting
+Eeac71tkZ4s 17:59 LiDAR-based automated detection of cultural heritage in Westphalia
+DV7_7kZ2XHg 16:18 Not all data are born digital: Workflows to facilitate data integration & rapid 3D visualization
+OjEWxlFhiNM 18:04 Computational classification in archaeology - an introduction
+Q3N1BRLZVDU 20:03 New insights from the historical events in Nydam by 3D-GIS
+Hd5ujceIZd8 18:02 From the Macro to the Micro; Digital shipwreck datasets
+yGDMyqFvXqU 22:38 Bootstrapping data processes within the arts: creative Informatics
+5jMXT-MccsQ 12:30 Monitoring protocol for the preservation conditions of the barge Arles Rhône 3 (France)
+Ta12v70KqnQ 21:24 Women and data: data activism as research method and impact
+OFp7ntNdk0U 24:31 Monitoring concept for deformation estimation of the Bremen Cog
+ed3yj7jHYZQ 24:05 Researching heritage on social media fields: complex designs and mixed methods approaches
+EjTypwgkQNA 24:38 Reconstructed one more time - The Bremen-Ship
+mVvS-DhWfEo 21:28 Dollar$ and value in heritage: what people want on eBay
+3stKWsPxR1o 15:50 Dirty Dishes for the WIn: Old museum collections as a source for new chemical analyses
+mdlb1YUbnkQ 22:29 Collecting, Knowing and Governing the mood of "Britian's Natives" Big data, then and now
+81z_Wtbz-A4 16:35 Digging in excavation diaries: digital re-assessment of stratigraphy in 3D GIS
+Mh7EhhRZK2g 23:11 The UK Web Archive: challenges, opportunities and issues in collecting the UK Web
+usAZ5qPWCSs 15:13 Assessing the value of legacy pre-digital landscape and survey data
+PR1YReZmzwY 21:28 The National Library of Scotland’s goal to deliver 30 million collection items as data
+MS8YgT74_DE 19:17 A GIS procedure to study settlement patterns from site-based survey datasets
+O__7AMNmoWE 22:31 Dark archive: the case of born-digital records in the Carcanet Press collection
+JBsWPsbHHyk 12:02 Synthesizing old excavation records and new archaeo-metallurgical data
+ToXJfG5SF80 25:50 The Arts API Project: insights from exploring data and networks in arts organisations
+htFw811CIiQ 17:23 Legacies Ancient and Modern: Hybrid Approaches to Digital Presentation of Legacy Data
+2sWpw8MIDDA 51:14 Community Data Science meets Digital Heritage: Controversies about World Heritage Sites in Wikipedia
+aN697JKNYv8 15:37 The Big Data Challenge. Integrative Big Data Approaches towards a Hybrid Archaeology
+KcpgTqZOXgA 14:00 Introduction to Digital Heritage in a World of Big Data
+gGvE0YgHeEQ 15:30 Utilising Text Mining to Unlock the Hidden Knowledge in Dutch Archaeological Reports
+CM_GVgDISLY 54:31 Repurposing Social Media for Social & Cultural Research? SEVEN CRITIQUES
+29wO4U98ikg 11:08 Reconstructing excavations ? Photogrammetry on 1980's Photos
+6LoC80yxPy0 12:35 Geophysical Survey & Planning - a consultant’s sop or vital tool in the Armoury
+tjcsfd_uPnY 17:15 Getting the Measure of Brochs: Using survey records old and new to investigate Shetland’s Iron Age
+jP6mAInu_ds 10:23 Using Geophysical Survey Results During Active Commercial Site Investigations
+amzRdMcFZRE 12:20 Bad Photogrammetry: Using Nonoptimal or Archived Photographs for Constructing 3D Models
+zWtBwrIxAqQ 9:41 ‘New dog- Old tricks?’ Training in Action- Geophysical Training in Tunisia
+DfhM61dN14s 17:36 Viability of Production and Implementation of Retrospective Photogrammetry in Archaeology
+kV-MSVYBsF0 10:42 Who Regulates Professional Standards in Archaeological Geophysics?
+7OlvPC9v98o 37:48 What makes the Ideal Archaeologist? & A Chat with Mark Spanjer
+PieQWbNrV9E 12:42 Logical Representation of Plurality
+CVZcR0LY3bw 8:12 Introduction: Geophysics: the wider context
+c0gN6JHIV_o 11:58 Archaeological geophysics - a digital 'Dark Age'
+VeaZvpjBrnA 15:23 An experiment in multi-user linked system for the co-creation of environmental reconstruction
+2_HPIeTerAI 13:01 Magnetometer Data Display and Archiving on Large Infrastructure Projects
+cyUFv9iHigM 11:21 A Computational Decipherment of Linear B
+6TT5c3Dmr8o 11:00 From hectares to square kilometres; Lessons learned from large scale infrastructure projects
+p_5UhHBBzEU 14:37 “Not Just a Pretty Picture”: Interpretive Visualisation as Design Practice in Archaeology
+eEhBPgSa0Qg 11:30 Prospective Alternatives: Assessing Low Frequency Electromagnetic Survey
+upVDxStCACs 14:24 Digital Creativity or Digital Dark Age?
+htyCp1SsYe0 13:53 The use of high density GPR arrays for large area geophysical survey
+ftIWChfJYLg 9:05 Introduction: Archaeological geophysics: Why aren’t we doing it like this?
+TBWfZT-ijj0 22:45 Assembling an Early Medieval Cosmic Frontier on the North Sea Coast of England
+msKmtnCclbQ 14:17 Metal detecting and local authority archaeology services
+B8TDustJhxA 18:04 Indigenous Landscape Transformations on the First Colonized Region in the Caribbean
+8SZ5qoJAkhI 18:46 Advocating a more archaeologically minded approach to hobby metal-detecting
+YZAiyQwn1qo 11:51 The Dramatized Landscape: Ritual performances and Topoanalysis of a Minoan peak sanctuary in Crete
+VNcQb44MiKA 22:42 Urban Terrorscapes? The Case of Pretoria, Seat of Apartheid
+mOUlFpxcwuk 19:44 The Current State of Hobbyist Metal Detecting in Scotland - Where do we go from here?
+GJaOv5IFDrI 18:47 Do Landscapes Move?
+aQI0SXB-ItA 21:01 Structured, supervised metal detecting surveys as technique for investigating
+hcB83tBDtwc 11:54 Animals and Activity areas: Integrating Faunal, Spatial and Geochemical Analysis
+KEUDRy4fQyk 12:57 Where to detect? A review: metal detector surveys on developer-funded investigations
+koRShuKx83E 8:43 Curious Case of Scottish Crannogology
+lzuVcnh9B-4 10:01 Theatre in Heritage. Facilitating engagement with environmental and archaeological Issues
+xB4eN-iRTcs 11:16 The Power of Plants: Using Palaeo-Ecology to Rethink Human-Environment Relationships
+iNLxpwJGHQI 16:31 Historic Landscape Characterisation as a climate change vulnerability assessment tool
+K5bjfpyAPh0 12:33 The Mesolithic Body: Articulating Science and Theory
+tAeu6eZiJAA 20:28 Archive Artefacts at Work
+9Fv0HiDeOeM 11:45 Approaching Hominin Healthcare
+NSy_fag7pi4 32:55 Building Benefit: the value of closer integration with construction
+sr2kRkiCiT0 11:16 Accessing the Individual: Genetic Relatedness and Identity
+MTel0sLVy0g 14:33 Developing projects with social impacts
+9buV4-SJCP8 10:53 The ‘Toolbox’ Paradigm
+m7djVqB7s10 20:03 Wellbeing and the Historic Environment: what now?
+y-S-g030PIE 21:09 Operation Nightingale: Working Towards a Standard Model
+DlRczJYE2bA 15:31 Archaeology supporting Mental Health and well-being in London: Lessons from earlier projects
+MSID0WmdDLA 12:59 Using Cheese-making to start Dialogue on the Relationship between Theory and Science
+yDS1a7kYnsk 17:37 A Band of Brothers at Bullecourt: an outsiders view of a century long military bond
+Ds246U3m41Q 11:56 Recording Archaeological Senses in Subterranean Environments
+YAVFJIgHTFQ 12:00 The Dis/Advantages and Advantages of Enabled Archaeological Holistic Fieldwork
+X-NSSVWmv_0 7:28 Archaeology Stinks! Can we find Smell in Archaeology?
+xRZKMu6iwT0 21:18 Marine Operation Nightingale & HMS Montagu – achieving heritage protection & therapeutic outcomes
+ig9vuCuR8do 10:12 Experimental Archaeology: A Conceptual Bridge?
+k1jOsuAhxlE 15:36 Collaborating on the Coast: Making Heritage for the Future at Orford Ness
+HIeF4fgRbhY 10:04 Peel Hill Thorne: Prescribing the Motte
+kQ7yYozX0Ls 17:06 Bringing together Lessons Learned from Community Comics Projects in Wales and Micronesia
+GhG26aOqp6U 27:18 Taking a developer's vision back in history
+sTlZoMSLIkk 14:58 Public Archaeology at Bryn Celli Ddu: Sharing Prehistory
+t_jyWSauXDc 21:03 Making connections between place, purpose and content
+qLwG19sCr1w 16:56 Tintagel and the Kingdom of Heaven: Mythology & The Republic of the Soul
+AV3ODnMp9PE 10:57 What came first, the trowel or the pen?
+WgcZqpH3bqs 15:32 Audley End, Artefact Biography and the English Country House
+wAbjw74Coik 8:52 Putting theory into practice
+rS7zSU_COkQ 16:25 Archaeological Embroideries: Their Post-Excavation Journeys
+DplorWzcZpI 24:39 Caring for Brodsworth: an impact case study of a conservation in action project
+nrWWD2yZtlc 14:59 Gender Bias: from Discovery to Display
+abVSOKU8MYo 18:23 Theories of change - for everyday!
+6X9Z98xn7uY 18:27 Finds Processing: A Community vs. Commercial Perspective
+re1HFJ5e0tI 16:28 Big Data – Does Bias Matter?
+52iFVgdAwlc 15:47 From Hills to Sea. Flooding and the historic environment in the North of England
+7cT_L3pSjJU 13:10 Dissertations and Detecting: Using PAS Material for Further Analysis
+u4t1IFPe_dc 15:47 Managing the positive effects of oceanic climate change on underwater cultural heritage
+8YNkBu7wj8I 30:28 Whose Identity Are We Talking About? The Imperial Melting Pot in Cheshire
+InfEzncqiFo 14:53 Climate change: Values, Benefits and Legacies. The value of cultural heritage in climate change
+ZG41g16WZWo 19:01 ‘Quick, someone call the archaeologists!’ A Provocation
+EZk6SVS-ypA 16:45 Adapting to Climate Change. A Positive Legacy for Scotland’s historic environment.
+OdmswBn1-KM 35:56 The Actuality of the Past: Experiences of an Archaeologist in Silicon Valley
+Ce8Ay47pZAk 19:57 A Sector Adaptation Plan for Wales: incorporating positive values
+SukpHT2VPSA 16:50 Lighting Fires: The Potential for Archaeological Interpreters to Influence the Next Generation
+sVEdxUZdoTc 14:38 #ArchiveLottery – a different kind of digital engagement
+Sc5tzR3LSvo 23:12 Art as a Creative Way to Deal with the ‘Museum of Lies’
+6VdR0S3JtkU 13:08 Reconnecting with the River: Two cases studies of engagement through artefacts
+0b7nz7-_LuU 30:28 Whose Identity Are We Talking About? The Imperial Melting Pot in Cheshire
+CHj-52lEnUI 28:26 Small finds, big impact: volunteer empowerment in the Portable Antiquities Scheme
+h7cEyI54DjI 17:57 “Through hollow lands and hilly lands”… Moving on and around Neolithic Mendip
+lNW78Rbutww 14:34 Art, Fermented: Comparative Experimentation in Medieval Brewing
+qgHOmE33CAM 26:57 Your DIG - Working Towards a Model of Participatory Interpretation
+DdJ7PUbg3TE 15:39 Negotiating Creativity in Acoustic Heritage
+68Nii9MlLnQ 15:47 Decolonising our approach to archaeological community engagement
+daeN2pBbSF0 15:03 Engaging with the Ancient Cultural Landscape through Technical Creativity & 'Internet of Things'
+YAqxtYQKmWw 19:58 Work Digital / Think Archive
+BiNGc8X7cSw 13:35 When the Artist Outperforms the Archaeologist
+doGk7keDbwQ 12:54 'But it's not FAIR!' Making data findable, accessible, interoperable and reusable
+dRyxvNqxcz0 17:42 A Case for the Embedded yet Autonomous Artist: Lessons Learned on The Pallasboy Project
+yMRCCm-v-oA 10:57 Introduction to Metadata Templates
+AUurbJ-eDmI 15:26 Found Sculpture: Negotiating the Art and Archaeology of a Buried Skateboard Park
+Oy1kHpISgA0 13:51 What did Cheddar Man look like and Why does it matter?
+x3ODdVvRm4w 16:18 It’s all in the Question: Exploring our legacy of engagement in the Yorkshire Wolds
+_mH5JQgELUw 14:22 Dig Greater Manchester
+8RYf7bFPqIY 13:24 Seeming and being are not one and the same
+w2AFEaUaE6Y 18:23 'Community Archaeology' Projects and Legacies: A case study from Nottingham, 2014-2018
+_f5UBzBRABk 15:22 Notes of, Notes on, Footnotes
+MrKk566TKm0 29:08 Maximising the legacy of commercial submerged landscape investigations
+QmBOHJZBmOw 19:33 Bootham Crescent: Sharing Memories, Shaping Place
+4f7LjaK9YXE 15:23 Hadrian’s Wall and Frontier Identities across Time
+9Jr5uTm-9aU 11:07 Museums and Place-making
+KmbFv3Vvk_g 17:40 Life on the Danubian Frontier 7000 Years Ago
+4_zAKMpyJ2k 17:07 Lessons from the Past: The Cambourne Village College Young Roots Project
+7zl884p8GGk 28:44 Belford’s Divergence: or is ‘Industrial Archaeology’ Relevant in an AONB?
+YSwEPTYmakA 16:55 The Sherford Community, Old and New: Changing client’s attitudes to community engagement
+3jTGpXDw3mg 23:51 Industrial Archaeology or Railway Anthropology?
+_yoXCNtQckg 14:36 Look after your denarii: the benefits of object first aid training for field staff
+AHLueY9JWBk 26:40 How do you Define Heritage in Fast Moving Fields such as Telecommunications?
+1FmWxaveZX0 7:16 Of Plagues and Mummies: Chalk, lime and gypsum deposits in Roman burial practices
+cli7UcOyXIA 18:34 OGS Crawford’s Feet: Movements through the Archaeological Site and Archive
+2pnDxU6H-Nw 14:14 After Excavation: Maintaining research potential of archaeological bone
+UmqxvPlNTuo 18:49 Positive Past, Present and Future Changes in Archaeology
+eQEQwS7Auxk 11:43 The Shefton Archive: Enhancing a Collection’s History through Object Biographies
+dN4dmcMsp28 14:32 Addressing Important Issues of Change: Creating an Equal and Diverse Archaeological Discipline
+OUk1mBm5zx0 15:58 My research has gone to pieces! What destruction of metalwork can tell us about Bronze Age society
+mghsuZre12k 27:36 The Role of Archaeology and Heritage in the Promotion of Recovery to Veterans
+LTI5wqt0EUQ 17:21 Managing interpretation on HMS Victory
+rfVLOQ_ZzCQ 14:16 Religion on the Frontier: Identity and Ritual Adaptations after the Anglo-Saxon migration
+_rzYnRo-3SY 16:15 Dead Man's Chest: Historic Environment Data Archive Centres and MEDIN
+dgDohTvOdNg 21:35 What we leave behind: establishing value and building a sustainable legacy
+BJnnz_CYxPI 20:28 Constructing frontier identities in the face of Roman imperialism
+tbyUz_QQmX4 20:55 Making a Great Place: How the Creative Arts can enhance the Heritage experience.
+Ly92g-5j0VA 20:48 Investigating Frontier Identity in Roman Cheshire
+u7xHfA1PI5k 15:37 Drawing on the coast – art, archaeology and future legacies
+9ymmDhEHHyE 28:09 The Wider Impact and Relevance of Industrial Archaeology in the Social Sphere
+J-CGm1Zec5M 16:41 Creating Archaeology: practice, process, purpose.
+RddhIMGJHhM 26:13 ‘What’s in a Name?’ – Concepts, Practice and Prejudice in Industrial Archaeology
+emO5-3YjkXM 17:09 Rethinking the perception of magic and rituals in archaeological contexts
+hui3q-vaipA 24:35 Funky Archaeology – The Legacy of Industrial Buildings in the 20th Century.
+vFiK4nQ4-Ls 20:08 From Find to Mind: how can we transform archaeology into cultural capital
+mMHhZKyQow4 21:15 ‘Dig Society’: Putting the Community into Community Archaeology
+JEKxuHreFLE 14:24 Motor Launch M.L. 286-A Movy for All Time
+HtYR0BqVkZU 13:18 Inspiring and experiencing at the London Mithraeum
+yvhc8dZnSfg 19:11 Can (and Should) Participative Public Archaeology Tackle Social Disadvantage?
+0muUsVUZ3MU 51:43 Offshore Legacies: are we making the most of the marine development dividend?
+WWaEOTuoaWs 10:18 Volunteering for All at Birmingham Museums Trust
+8AGz9BjA5l4 10:22 Introduction to Offshore Development: Creating a Legacy for Marine Archaeology
+Uud6nWAZ4tE 12:58 VIA Culture: Recording Cardiff’s Religious Landscapes for Social Inclusion
+FyzdXwecHFE 18:15 Where the wind blows: A Curators Perspective on the public benefit from offshore wind developments
+bWcmnoDtK_o 20:33 The CAER Heritage Project: Co-production with Disadvantaged Communities
+dFvflleX0do 17:41 Creating Heritage Projects for People: Archaeology Scotland Social Impact Programme
+Px3IKskbfXU 8:57 Archaeology for Change: Introduction
+-u1uckWdeTg 19:27 Shifting Baselines of the British Hare Goddess(es)?
+74YXTq7L0I8 16:47 Dead Dogs are so 9th Century
+53fzHOSrkE8 24:08 Birds of Battle? Myths and Materialities of Eagles and Ravens in the Old Norse World
+nAHrSGmGkqo 20:37 The Birds of the Manx Crosses
+80pZGtOYs-A 20:35 The Oswestry Heritage Comics: Bringing the Local Past Home
+bepRbkmTMCs 25:59 Prehistory to Primary Schools
+zGZMwS03ea8 22:42 Secret Identity – Community Comics and Cultural Identity
+7qmOWToRmJw 14:55 Roundtrip Stories: Thoughts and Experiences on Spanish Colonialism in Central Mexico
+2zlVq4EJVus 16:00 From Sugar Palaces to Colonial Fortresses: discussing the heritage of Dutch Brazil
+YInJsPLB4bY 14:11 'Good Intentions' are not enough: Searching the Many Faces of Colonialism in Mass Media
+yD4_BqRojBs 12:27 Dismantling the Persistent Structures of Colonialism in Archaeology and Heritage Management
+-VpcSiYLLlI 19:24 Roman West Cheshire: Disentangling Complex Landscapes
+2GNSLHMNBGw 21:25 “Few and the Most Depraved of their Sex”: Queering Regency Female Reformers
+_NpcloH1kUI 19:50 The Things we Hold Queer(ed): Questioning the Ownership of Viking Loot
+DOIrznAZfpQ 12:35 Creating an Archaeogaming Zine: A Queer Public Archaeology?
+f0YgRSWOHbA 18:42 Unpicking the Stitches in Time, or being Charlotte Sometimes
+xAnLMMLMgXQ 12:07 Haunted Futures and Alien Archaeologies
+TUPakFkv0Kc 16:24 Pausanias, Modern Folklore, and Literal Ghosts of Place
+mavV-CwuAq4 14:53 Alan Garner, Archaeologists, and the Fearful Art of Storytelling
+NI967cI1O8A 18:20 Exploring a Relational Approach to Mesolithic Fishing
+cOPn7Qis9wQ 16:01 The Sculptor's Cave: Virtual Acoustics, Field Recording and Composing the Sounds of Place
+sBIPJDXtYiY 16:23 Notes on the "Musical Archive"
+laXZG1Qm3so 15:24 Manchester’s Improving Daily
+s6dfs2SCh0Q 15:39 Guardians of Runes and Makers of Memories
+-Pz-mf1gjB8 14:07 Memory and Place in Songwriting and Production: The Magnetic North
+CFMp_ETVMgU 14:46 Where You Are, There You Are: Relating Ruin Experience with the Creative Process
+Zm8n3rUzq6w 15:01 Remediating the Mythical: Heritage Culture & Artists-as-Intermediaries
+mWf3Mm5pm0w 14:23 “It’s got bells on”: Space and Place in English Morris Dance
+Fs75ItoRQg8 15:51 The Northern Anxiety of Terveet Kädet: From Global Buzz to Unknown Local Heritage
+-wYQwxtjH3M 17:37 The Phallus in the Closet: Boundary Objects and the Movements of Classification
+VujgUBvSf3c 13:18 Lithics, Books and the Embodiment of Prehistory? Mesolithic-Neolithic Transition of Britain
+RvKVyhMHL18 15:28 Troublesome Cultural Heritage on the Move
+sTfCtKufJ8k 13:30 Locating Micro-Histories in Background Movements
+lxmDmtnelJ0 15:22 Moving and Mapping Images: Aerial Photographs, Cropmarks and Movement
+9MiQ2sxSsHE 19:22 My Brilliant Friends: Biography and Archaeology, Theory and Practice
+byv2lXnwd-E 21:58 Intersectionality: A Useful Category for the Historical Analysis of Oppressed Communities?
+VZf3cqbFNNc 25:19 Dreams, Realities and Deleuze: Achieving Equality and Diversity in Archaeology
+W4Vg1jiyfDE 25:18 Trowelblazers: Bedtime Stories and Radical Manifestoes for Feminist Archaeologists
+A1fT8922r5o 27:29 Ten years of British Women Archaeologists – Was it Worth it?
+wQTOU_MH79A 25:03 Roman Scotland: The Undiscovered Country?
+bVo0yd7YIfY 29:04 The Western Frontier of Britannia: An Assemblage?
+Dh9wDeYHwdI 26:48 Whither Roman Scotland?
+ztTJuKXS7Fs 18:31 Recycling Richborough: Living on the fringes in the 4th - 5th century
+ZG-a6Ty-q9k 19:40 Applying Plessner's Eccentric Positionality to Virtual Roman Frontiers
+dDY7PClSarg 16:35 To Infinity and Beyond! A Social History of Frontier Theory
+_96I9ODe9bQ 18:44 Not Any Old Iron, or an Axe for Every Occassion?
+HvqGmEoobdc 12:44 The Influence of the Modern Idea of Progress in Historical Studies
+_Q09WYLww5s 15:27 Killing off the Beaker Folk, again
+PgzktDuZKhg 16:07 Hengeland: The Results of Multimodal Geophysical Surveys
+C8USMvoZ_aM 17:02 Timing the M/LPPNB Transition
+4KzRFG_lxXE 28:16 Transition or Revolution? Rethinking the South African Earlier-Middle Stone Age
+bjB2LyVGEso 17:18 When the Virtual becomes Actual: Indigenous Ontologies within Immersive Reality Environments
+guU7a7P_gVg 20:36 Animism and Patterns of Economic Activity in the European Mesolithic
+3_UUl2XTTNo 17:03 Hunting Aurochs and the Making of a Significant Place
+gM1opHhYyG4 18:19 Mutual Becomings in Life and Death: Human and Non-Human Animals in the Mesolithic Danube Gorges
+GMBYtvVeG9E 16:23 Once Upon a Time in the Arctic...
+NLUS3VBLHCA 18:13 Relationality and Early Hominin Hunter-Gatherer Worlds: A Relational Exploration of Neanderthal Art
+VdusW_2Bi8g 15:30 More than a Bead: A Relational Approach for Studying Palaeolithic Personal Ornaments
+aOrhIuqxYf8 18:24 Introduction: A Relational Retrospective
+er7cyjv3KQw 16:54 Climate Change as Human Experience
+_rXKtWNtcA0 16:00 Things Worth Telling: Considering narrative storytelling in environmental archaeology
+W2Ox_6XnWuA 17:26 ‘Narrativizing Science’: Ecocriticism and peatland archaeology
+bzLLgbEzkik 36:00 The ruins of the Sacred City: Alternative indigeneity in the other-history of Quilmes
+V0euGHx-udI 21:26 Tracing the Mirage of the Near East: Saracens, Barbarians, Turks, Moors and Arabs
+-LSiPe1ElPQ 23:19 ‘Indigeneity’ and ‘Endemicity’ in an Environmental Archaeology Narrative: A Philippine case
+7VRksHhhVcc 21:58 On Cultures
+YXNRCCnZxco 15:10 Apologhìa for Chronology: An appraisal of chronology as a multi-layered problem
+C_cmiZdVRxQ 20:01 Some implications of ‘compound temporality’ for archaeological narratives
+ZxJZRfWtjwA 21:55 Duration, Endurance, and Clumps of Ongoingness
+qrK1bqKxUz0 20:51 Telling Time, Tide and Tomb
+rxCS42jdzKM 21:48 Time Signatures: Bayes and the British Neolithic
+yPrLRS5Tygg 15:55 In an Instant: Thoughts on an archaeological philosophy of time
+HitQ3_H7qrM 22:55 Towards a hybrid approach in understanding long-term histories of caves and rock shelters
+NiYuqsM9Nq4 20:08 Human Nature Plus Bias Persistence Equals an Obscure Fifth Century
+toYUdQuc__Q 18:14 Is the Fifth-century Fault-line a Hallucination?
+WSrRzgfgX7k 18:55 Days of Future Pasts: Material memories in past societies
+UaLdcjNhdIg 14:25 Digital Interactive Visualisation of Archaeological Sites: A case study from Bronze Age Cyprus
+5VVxWKd1Dh8 13:15 How analysis of DTM (Digital Terrain Model) of forest areas can boost archaeological surface survey
+mCggvNv256E 17:21 To See or Not to See: Computing and sensing Atlantic art’s (in)visibility
+pL3sowZtDdQ 17:30 Visualization, Depiction and Interpretation: An ongoing conversation about engaging with landscape
+ABR5QNujEYg 17:53 Visualizing Prehistoric People in Japan
+9ioVD0DXkro 16:03 A Critical Review of Visual Media in Artefact Shape Analysis
+1C9iqE8HuNk 22:23 Hopes, Fears and Eating Cake: Brexit in the fifth century?
+d13tRoc4S0U 19:55 Romans, Britons or Anglo-Saxons in Fifth Century Britain: How do we know, why should we care?
+rkXWDe80VWA 23:22 Britain and the Transformation of the Roman World: Rethinking rupture, ideology, and time
+6vGjdD22RbM 20:19 Time and the Fifth Century
+M4Qcrsfkcl0 23:32 About the problematic usability of a nonoperational term for describing deviant prehistoric burials
+ni-Cnoeizf4 34:22 Stealing Women's Clothes: Patriarchal appropriation of women's mysteries
+WzSNSWEs08M 22:05 Tasting the Sweetness of Death: A timeless morality in dark shamanism?
+QIPCCL-MSsw 16:52 Art and Shamanism: From cave painting to the White Cube
+MAh8A8ZucUU 22:07 Multitasking aspects of shamanic practice among recent Neolithic societies in Melanesia
+8XhgetM5ApU 22:20 Excavating Shamanic Objects at the Nunalleq Site Near the Village of Quinhagak, Alaska
+ro_mrXl8NnQ 20:18 A geoarchaeological approach to selected issues in Norwegian archaeological geophysical prospection
+c1ngJPRabmE 15:21 Peace negotiations in progress in Cyprus and prospects for protecting abandoned built heritage
+bQsl9Mw5frE 19:07 Where are the Mudbricks? A Geoarchaeological Analysis of Minoan Earthen Architecture
+XPx8J3vCMcg 22:42 Post-ex specialist assessments: the good, the bad and the ugly
+S2eOOQN0Zwk 17:01 Site Development and Utilization in Japan and the UK
+7TfBlodAEvw 17:50 Digital Experimentation and Developing Innovative Digital Tools for Global Engagement in Archaeology
+nuK8LCMLShY 18:27 Treasured possessions? Heirlooms and antiquities in Medieval coin hoards, AD c.1000- 1550
+NBV6MZIZj6A 21:04 Globalizing Caistor Roman Town: Challenges and approaches
+3brwfcNKpsw 18:44 Global Perspectives on British Archaeology
+aqE0gXX26gk 17:03 The Reuse of ‘Antiques’ in Anglo-Saxon Graves
+2WPNZMaKDWo 21:04 The Antique Antique?
+BMSXnbkpKqo 17:42 Fragmentation and Reassembly in the Iron Age: Tracing the biographies of heirloom objects
+Tcj8qvj6Nzo 17:47 'Multi-period' Hoards from the Late Bronze Age and Iron Age in Southern Britain
+RYN0QAH78ko 21:37 Becoming Urban? Actors and social identity in a Medieval Scandinavian town (c. 1100–1300 AD)
+xXMYzZcd8c8 20:18 Textual Worlds, Material Worlds
+Ik9Z2S28dwM 22:17 Late Medieval Books and their Fittings: A material culture study
+POX-4FhqZGE 17:30 Love Sex Magic in Medieval Europe: The archaeological evidence
+uARcZmvH3dk 19:48 Close to Home or Far Away? Exploring identity in early Medieval Suffolk
+nFPmaU4VMgI 17:37 Creating Communities and a Sense of Place in Medieval South Wales?
+5g-a1ya6RcY 16:21 Society and Personhood: Homer in (several) Iron Ages
+ElYGEzVW3l4 15:14 Celtic Art in Britain and the Continent: An archival approach to understanding knowledge production
+an8kvUb3RdU 19:31 Hillfort Communities in Early Iron Age Europe
+P1P8ci9gwFU 15:36 Feasting, Deposition and the Dead: Social change and social integration
+9k7mZoUmp3c 17:20 Unpacking the Term ‘Dolmen’ Around the Black Sea Coast
+iJiHhyDNNP0 19:38 Exhibiting Failure
+IyiDcR_XXX4 27:20 Let it Go: Loss is good for us
+n_J72KLjk6A 25:01 Failure in the Face of Climate Change
+kchaqeJMNaU 15:21 The Failure of Commercial Archaeology in the UK – Can it be fixed?
+T6_W3Y_6J8E 14:14 What Price is Failure?
+kztR7ENWAnQ 21:01 Failure: You’re doing it wrong
+OLgXwx9A8JU 15:52 Navigating the Interpretative Dilemma: Making progress through failed analogies
+6ZFOP_I3arM 18:01 Failure is not Fatal: It’s the silicosis that will kill you
+-nG2K5vArWg 16:08 Theorising Value: Not for the faint-hearted!
+QXRcuWYdBPw 16:58 From Place to Landscape in Heritage Discourse
+rY0t3DCoGe4 21:26 From Grateful Memories to Eloquent Witnesses; War memorials in the heritage process
+MUcV5jVwGK4 21:33 Using Archaeology to Understand Inequality in England Over the Last Millennium
+I9Ilnqsu8o4 24:55 EVERYTHING IS AWESOME: How the LEGO movie helps me reconcile heritage practice, philosophy & theory
+Bc0ysKgCDaI 25:13 Heritage Values, Where are we Now? An institutional perspective
+ALfkQihu_GU 19:09 Museums and Middle Eastern Communities: Promoting well-being, memory and creative practice
+3hAF0OmcRho 19:11 Human Henge: Stonehenge as a healing environment in the 21st century
+2VrGe1qupUo 18:15 Environment, Nature, Nurture: The site of St. Wulstan’s Hospital, Malvern Wells, Worcestershire
+Uow1FIj92yM 21:24 Archaeology and Mental Health: War Memorials Survey – Ceredigion
+evZceroOlvQ 19:14 The Roman Baths: A place of recovery
+1FdC0PCkEC8 19:29 Messing About on the River: Volunteering and well-being on the Thames Foreshore
+rJJIJpdZ8pw 17:40 ‘Heaven Is a Place Where Nothing Ever Happens’: Exploring heritage and well-being in a seaside town
+u7SV7E01P_g 13:44 Therapeutic Landscapes of Prehistory
+zHGGOWergik 11:54 Walking with Intent: Culture therapy in historic landscapes
+kErBzeIRe8U 12:05 Gifts from the Wrath of God: The reanimation of submerged prehistoric forests
+_GL8EFo8WG8 14:20 Cornwall’s Romano-British ‘Cottage Industry’
+m0Fwix3fOos 14:25 We Do Not Sow: Hunter-gatherer coastal communities on the eve of the Mesolithic-Neolithic transition
+9xxoapFWSqY 22:59 3D Digital Documentation in Archaeological Conservation: Revolution or evolution?
+8A7z078TFWo 20:20 Articulating Discovery: Experience from the Neolithic site of Drenovac
+B2Ep-Qzwlrg 19:48 Does context change impact our phenomenological experience and ability to create agency?
+HOYr6h9Q5kM 16:09 Conservation of Saruq Al Hadid (UAE): Objects as a Key for Archaeological Interpretation
+0t4aja1KUaw 20:32 The paintings from Neolithic Çatalhöyük and the Delicate Balance Between Research & Conservation
+8kKNaqIk6ew 15:07 Torque of the Town: Conserving the world’s largest Iron Age coin hoard
+NO9DfuwIiEY 21:08 Chap with the Wings... Aldbourne, Science Fiction and Archaeology
+1Zwic0OXkfc 26:50 ‘Dream Not of Today’: Archaeology in Star Trek: The Next Generation
+vfxf7dIpgLs 13:34 Inverted Worlds: Where archaeology and science fiction meet
+UF3159GiTUc 17:14 Ballard in the Bronze Age? Writing otherness in past and future narratives
+0xk3b01j_aE 18:51 Archaeologies of a Future That Never Happened
+DLGUVKH1OdI 26:16 On Most Ancient Earth: The narrative role of stratigraphy and deep time in science fiction
+5VvT4hGfLi4 23:00 Speculative Pasts: Archaeology, alternate history, and excavating trauma
+xIto2VQd1RQ 13:02 The Power: Speculating on the female future of the past
+8J7K3f-wttI 20:41 Do Humans Dream of Analogue Sheep? The construction of memories in SF and archaeology
+4NbNoSUrn2g 22:07 ‘A Veritable Collection of Erotomaniacs’: Archaeology, heritage and the post-apocalyptic museum
+0mzHJrNi8JE 18:41 The End of Eternity: The future of the past as a resource
+mKa7XiTY920 11:46 Against Instance: Proposing a radical epistemology of times
+l7vr1UYlOFM 26:14 Times the Living Make the Dead Live
+JzR9awimjf0 25:34 Hourglass Dawns: The becoming of time as space, contemporary post-phenomenological philosophy
+sqLIM_c5sfM 18:07 Postphenomenology and Time
+8tCpQAwTafQ 15:40 Materiality of Time and Temporality of Place
+1NeBHrOmluw 19:49 Religious Liminality: Hybridized ritual formation in Post-Roman Britain
+5Ngp8ok6UYA 18:20 Cash Cow: Transitional economies challenging hybridity in late prehistoric-early Medieval Ireland
+sq3w6nZHDOw 15:16 Broaching the Subject: Hybridised cultures behind the Bird and Sandal fibulae from northern Britain
+IJECiLRB3iw 13:43 Timing Death: Questioning the chronology of Romano- British figural funerary reliefs
+ahgdg7K5O2k 23:48 How Long Does It Take To Be Local?: the Foreigner-Local Threshold
+oi2-Pkm5KSw 16:57 Iconography, Hybrid Art and Self-Portrait in H.D.’s Helen in Egypt
+4XEiprkHXqQ 18:34 Scribe and Scripture: Poets’ experience of a sacred Medieval landscape
+HyiTsqO4DqI 18:46 Canalchemy: A collaborative walking performance series along the Glamorganshire Canal
+fbKcKn8ZhxY 17:03 At the Traverse of the Wall: Archaeological transformations in Thomas Percy and David Jones
+0v-hb7Hlwyo 15:46 Burial and Poetry: Exploring the limits of a metaphor
+VfiKhAzUd6g 13:59 In Cimmerian Darkness: An archaeological reading of J.H. Prynne
+6tAhwDlQmBw 16:41 "Of course we're safe, there's a little shop" Collecting & Curating Pop Culture Merchandise
+HNfPyNW0e4s 16:19 A Hitchhiker's (brief) Guide to the Ontology of the Digitisation of Archaeology
+3LQ4OInVvUI 20:07 Anticipating the future of building information modelling & archaeological practice
+wQeYugnQ_po 21:11 The Gold-plated Dinosaur: What can we do to improve the public’s idea of archaeology?
+EMGiGCkzcMg 16:09 Worlds.net – The Digital Ruins of an Online Chatroom
+M66QFbjCY08 17:54 From Myth to Taskscape: Animals in time and space in the ancient Nile Valley
+mZkxBt9tNrQ 16:36 Doing Time: Ontogenesis, causality, and the life-matter predicament
+1fNwq1O2C1g 15:56 Don’t Walk That Way! Why heritage sites need psychogeography
+IaBw_gVreb8 21:16 Walking Around or Walking Over? Wandering tourists and storytelling in the Ironbridge Gorge
+AKH-DCjMhEo 23:40 Walking Lochbrow: Experiencing a landscape through the feet
+-YmbeTPnm70 18:16 Walk on the Wild Side: Moving through past and present environments
+uj0BSZRKcec 19:26 Uncertain Allies? The place of indigenous metaphysics in posthumanist thought
+t91yCXfCEoY 19:51 Fear of Ontological Wolves
+FKWQkZVohsc 19:37 Rethinking Relations: Characterising connections in the light of posthumanism
+ydePvGb6pVc 19:25 A Posthumanist Archaeology of Byzantine Song
+bpohZs_9hsU 18:53 Power in a World Without Subjects and Objects
+gwZQuCM8NHU 14:46 Assessing the Role of Camelid Lifecycles in the Formation of Moche Political Institutions
+-K3VN-3OJK4 22:12 Archaeology of Utopia: The future and legacy of a 19th century socialist community at Manea Fen
+KP_qUI5mefM 21:02 Anticipatory Action: Archaeology, power and clairvoyance in a Medieval town
+iqSC-D8yf0M 33:28 Making Sense of Past Futures: Rural landscape temporalities in Roman Britain
+EGCcTp-pj98 15:17 Futures That Could Have Been Otherwise: Time and the past in an Imperial landscape
+wRTqJlXLs5c 17:22 Pits and Places: Using anticipation to characterize deposits at Neolithic Çatalhöyük
+PZc_ctDN8Us 18:51 Mind over Matter, and Matter over Mind: An archaeology of object attachment
+Cas8WuKPxzY 19:22 Using lithic reduction sites to trace the development of planning & forethought in the humans
+5hUs9_72AHQ 17:19 Cognitive Archaeology and the Evolution of Geometric Cognition
+qFJ5hOSSCVg 27:02 Space: The final frontier?
+13i5NezvAo0 16:46 Middle Stone Age Problem Solving: Examining the evidence for working memory
+iBpOF8A7vEA 25:19 Bad Timing: Problems with chronologies and narratives by numbers in Mediterranean prehistory
+Y9jMIzq9naY 21:16 Good, Bad or Absolute? Is Culture History Evil?
+jy9ol3r8U1g 18:12 Evidence for the deliberate construction of a historic narrative in the British Neolithic
+y1wDq_NyfP0 20:29 The Spiral of Interpretation: Thoughts on constructing narratives using precise chronologies
+rh_1AKEQqcw 18:41 How Many Hands Has a Clock? Integrating chronological records: A semiotic approach
+QRdb9fo0BSw 17:38 Anglo-Saxon Foodways and Faith
+R7mesGKvsxw 14:59 Food Production and Consumption in Late Roman and Early Anglo- Saxon Britain
+036zOLHEIHs 27:13 Historical Foodscapes: Challenges and reflections
+pmFONW7WlnE 17:11 Undergraduates Don’t Hate Theory: Reflections on three decades of teaching archaeological theory
+JOrgHmHSMWY 22:19 Embedding Debate From the Beginning: Teaching theory in Year 1
+KLNhTrnFMdk 21:27 Theory? No Thanks. An approach to the issues of Archaeological Theory in scientific discourse
+Dqe1cdp1aQk 17:11 Application of Student-centred Teaching in Learning Theory
+hthFxCzJN74 16:27 Why do Undergraduates Hate Archaeological Theory? Is it only the students…?
+eRNuBqsMdng 16:37 Assembling Theory: Teaching, learning and embedding archaeological theory
+CvIehfANfKM 19:06 The Vallum Antonini, Grymisdyke, and the Antonine Wall
+yRLBcyYyO7I 19:48 Offa’s Dyke and the Cheshire Cat Syndrome: Interrogating dykes and routeways
+Ih5XbiS7z1E 15:38 Offa’s Dyke and the Creation of the Welsh March
+YnF8WTYiNx4 14:57 The Early Iron Age Origins of the Cambridgeshire Dykes
+yHNK-1pplsM 20:34 Dykes as Ideological Markers: Embankment and state formation in the salt marshes of Flanders
+YWJ5-Rzcbdc 20:52 A New Career in a New Town: Locating sites of pilgrimage
+i3kHMadQtQM 21:53 The Palmyra Arch: Places, memories and ideologies
+_DpgxU0wkRA 19:05 On the Edges: Boundaries as places
+dTn1a7wPXNc 20:39 Commemoration and change: remembering what may not have happened
+PB-tB0Jysac 18:58 The practice of building and dismantling contemporary prehistoric dwellings in Japan
+W3FuEewp34k 23:10 Archaeology, Place Theory, and Process Philosophy
+CRNXWGMc5nY 15:42 ‘To Render Sensible to the Eye’: New stories for old pictures between Antiquity & the Grand Tour
+W4chTnHsDDc 16:02 From Prehistoric Rock Art to Cubism: Social and cultural aspects of seeing time in space
+v1g0iW_3udo 18:09 Scanning Over Time: Digital documentation of Shetland’s Iron Age brochs
+0D0rsHArWLE 16:56 Let’s do the Timed-warp Again: Visualising Medieval cloth production time
+i2j3Yky5gGw 21:06 Timing is Everything: The structure of Neolithic-Bronze Age calendars in the British Isles
+KqRCO4QRmSk 23:07 Exploring Seasonal Behavioural Variability with Modelled Enamel d18O and d13C Values
+lbKeHtjGVCQ 18:09 Continuing Bonds and the Ancient Dead
+26LctFwaZZc 15:29 Tattooed Women of Ancient Egypt: Inscribing power and protection upon the body
+lfyH_YirNg0 23:48 Alternating Cycles of the Politics of Forgetting and Remembering the Past in Taiwan
+MtyMgodCrI4 18:52 A Powerful Dead: Decapitation and plastering of human skulls at the Ancient Near East
+cUzinwmDI0A 19:56 Once, Twice, Three Times Forgotten: Material, myth, and memory in a Midlands city
+jwS5H8GnwUQ 19:51 The Wasted Memories of (Tsar) Nikolai II
+k7DWwoplHYA 14:11 Picturing Deer Valley: Images, visualisation, biography and heritage in a rock art landscape
+KnxBjYxYo_U 21:21 Scaling Ideological Time
+uxC-_6UG1bc 20:42 Narratives Against Forgetting: The archaeology of unloved objects
+xX08mkCykak 18:56 Community archives in the Western Isles
+beUSdRp99KA 13:49 Giants’ churches: Stone Age megastructures as multi-temporal architecture
+l_TBx4dmIus 18:43 Friends of Cambusnethan Priory
+7Y7lPneq9Ck 20:33 Llywarch Hen’s Dyke and the Royal Estate at Llangors: Defining space and power in Medieval Wales
+BqIFHwznKe8 15:32 Understanding Peripheries: Power, performance and place in the west of Mercia
+Szl7SyGGSk8 15:10 The Cateran Ecomuseum establishing a rural community group
+raTguDlN8jM 14:27 Prehistory as History: Problematizing historical units and scales of analysis
+25JX2ArPVK4 22:29 Nature vs Culture in Transdisciplinary Lake Village Research: Theoretical challenges
+mq_xT7fFfAA 15:50 A Path Toward Reconciliation? Biographies, between scales, assemble history
+RNC0Hi-X-f4 18:49 Intensive Scales and Virtual Archaeology
+H_aHZURsipE 12:26 One Minute Mayhem - Scotland's 2018 Community Heritage Conference
+VZjmLnSLjSI 19:52 Palimpsests of memory and the significance of place in Middle Palaeolithic occupations
+lPd5EwtldH4 20:43 Community Engagement at HES
+Iiwjkl2BR6A 17:33 New Discoveries at Eyemouth Fort
+hBxV9w3wW_A 20:59 Sign of the Times – 1500 Years of Cultural Change Reflected in the Human-Animal Relationship
+1vY9gXy5-38 19:11 Bringing the Dykes into the 21st Century: How did we get here?
+YSxmqwq2Ax8 28:12 The Ridge Project, Dunbar
+jf_UVyD33_k 25:30 Friends of Kilbride, Oban
+yVmj1Fxvhys 14:30 Presenting Stone Age Time in Museum Displays
+EpwbOQOSrYM 17:57 Digging Deeper into Treasure
+LdespZRKTR4 20:36 Winging Away Time: The seasonality of birds in Scottish and North Atlantic islands
+7c_9A2sYK6c 13:52 Discarded Matter: How do museums dematerialize objects?
+TK-ehnb9GRc 17:55 The Friends of Stirlingshire’s Historic Graveyards
+iy2Hi0kf5ig 19:44 Time for a Feast? Considering approaches to the temporality of feasting in later prehistoric Britain
+AMlOrrYI4bA 20:35 Sleeping Beauties: Mummies and the fairy tale genre at the Fin de Siècle
+Zyj-dsjhpzM 24:28 Portsoy Boat Festival
+t6TOaQEweEk 14:46 Many coloured habits - rediscovering the friaries of medieval Scotland
+136gTnkxgR8 18:31 Convals to All Hallows over 1,420 years and counting!
+52s8fz4YweA 29:08 Kings Seat: Initial results from survey and excavation in 2017-2018
+zM1xByOAOmE 18:58 Through a Glass, Darkly: Identity, collective memory, and visual culture in Qatar
+5IWa4cyp1JA 21:53 Taking a line for a walker: an initial look at the discovered figurative Pictish stone from Tulloch
+sJadohnJhwo 17:55 “Community Archaeology for Kids” – Loch Tay YAC’s Local Archaeology
+-6FNWa2BywM 22:58 Recent Casual and Interesting finds from Angus and District within ANGUSalive Museums
+CvVjxjvL2NY 35:35 Silver jigsaws: making sense of the Roman hoard from Dairsie, Fife
+cw_wgbPz6ws 24:56 Living on Water: Island Dwelling on Loch Tay 800-400 BC
+scylpod3Y7U 14:46 The Development of a Heritage App
+A1UFbkIJVLk 19:45 Cailleach and Bodach Stones in Rural Perthshire
+3F5sTMRl2R4 10:11 The Perth and Kinross Archaeological Research Framework: a brief introduction
+IByxJo-juxs 12:22 Archaeology and Performance at Bankside’s First Tudor Playhouse
+rrOE9hPyn1k 22:41 It’s about democracy
+n09-f6meVg4 19:16 Hapton's Heritage 2012-2018
+CVvwltvugt0 20:57 In search of Mipoundi – community engagement in Congo
+Ica3ntZdbWk 21:28 In the bootsteps of their ancestors – experiences from the military community
+oVUGTAaxml8 20:44 CSI: Sittingbourne - professionals, volunteers and visitors: 2009-2018
+wP9GdaFe5QE 21:15 Worcester life stories: the rewards and challenges of meshing agendas in partnership
+3zFrfUz59PM 58:06 Going solo: self-employment in an archaeological context- Panel
+kyguFQRDGDU 19:03 Ciota Ciara Cave and the Monte Fenera Palaeolithic (Italy): New Data, New Views
+k6q76iosU7E 56:03 Going solo: self-employment in an archaeological context, Setting the scene
+t7SqWpYwTJg 13:39 The Endangered Archaeology Image Interpretation Methodology
+QqgMmlpiqBA 15:32 Integrated data management in commercial Archaeology
+YsvyUpXravU 20:43 The ‘Near Lewes Hoard’: Capturing, visualising and presenting archaeological artefacts
+onhZeSHOoAM 21:45 Comparing modes of digital engagement for archaeological sites & their dissemination
+LpMJTGGzvjA 21:00 Studying Animal Mummies: An exploration of non-invasive surface and content recording techniques
+-htnHG885MI 12:11 Flexibility and efficiency
+naS7PtebYxY 19:55 Using GIS to Understand Climate Change Risk in the Historic Environment
+YxPXwtRbtNU 17:55 “The joys of upgrading!” Or, lessons learned from a simple upgrade
+Ao6kg4uj3j8 15:49 Adventures in Open Data
+0XIS2HIl78U 18:09 Twenty years after. Challenges and successes in digital archiving
+OOO6XCNhrak 11:35 From ‘dirty’ data to accessible resource
+HxAqsyuzWLs 13:05 Digital archives in archaeology; the Scottish context
+kB3OLE80j4w 11:49 Use It Or Lose It
+8CqzgkQsrQY 10:56 Digital Archaeology, but at What Cost? Supporting Curators in Managing the Heritage Resource
+cxlOeGuVBN8 12:33 Digital Data Capture – Cost or Benefit?
+8KG2OrY5QOw 13:27 Spatial data standards matter too
+-Yl2aQRE7bk 29:26 Changing the game – managing data with the Arches platform
+Tup2fxnWPAo 22:05 The contribution of data standards to the ARIADNE project
+UlquftUfLts 15:05 Digging into Early Colonial Mexico: old sources, new approaches
+7Hv8o-Stuio 17:33 Building a digital platform for research frameworks
+nqHEJ2wfEFQ 17:49 Visualising and researching complex prehistoric cemetery sites: the Ossi project (Sardinia, Italy)
+7C0FLNU001A 27:48 Wemyss Caves 4D: a digital future for the Pictish Wemyss Caves, Fife Scotland
+ehlaJtuCrKA 19:42 HES▪SIGMA: a new geo-spatial data capture tool for managing the conservation of historic assets
+6l2BCvFIz-Y 19:20 Offshore Scotland and archaeology: the challenge of big data
+YkLm5hc8l84 18:27 Classifying Digital Research Methods: Linked Ancient World Data in Context
+yBwbnTS4JdA 15:36 A QGIS plugin to explore landscape connectivity through circuit theory
+jzttTFlbLK0 20:13 Social Media in Digital Heritage Research – data extraction, management and analysis
+95oe8UejtZQ 17:21 Large-Scale Photogrammetric Recording on Commercial Projects
+i71_ud7AXH8 11:30 Filling the Gaps in a Fragmentary Bronze Object: Contribution of 3D Scanning & Printing Techniques
+lXsI_suTKeo 20:06 Demonstrator for data integration
+xM72ZuxeoR8 19:33 Where imagination fails: New possibilities of presenting the unexcavated
+zihNfaKtiVE 20:23 Quantifying uncertainty on the spread of Neolithic transition using Bayesian models
+OrPUSm1c60k 17:19 Roman Frontier or Fortified Road? GIS Analysis of the Gask Ridge
+DYLWxZaVQR8 21:31 The application of precision agricultural techniques to archaeological survey
+cllhLry_cMA 16:47 Practical applications of digital technologies for conservation & asset management of historic sites
+a1YdS-7vVJc 15:40 3D Scotland in miniature: digital topography, deep neural networks & approaches to national mapping
+gHjaKn3ahtw 18:33 Finding mechanisms for a comparative study of Atlantic Rock Art
+Yka1HpuOg5M 13:09 Taming the chronology of Samian found at Hadrian’s Wall & the German Limes using Linked Open Data
+XmljzKrKDIs 17:47 Community co-production of 3D rock art models in Scotland
+OBiqgnHCAXQ 21:53 Conservation & management of Historic vessels & the utilisation of 3D data for information modelling
+cHWzAF_N-KM 14:52 Analysing the use of light and space in Neolithic Malta through the use of custom Unity3D scripting
+SzmbeM6FybQ 15:53 The Antonine Wall in the Digital Age
+ickHIvAKA5Y 32:03 Visualising urban heritage: Dundee's lost spaces re-imagined
+D1ZaEwWlDtw 14:36 CIDOC CRM and CRMarchaeo A vision of use for the 'future'
+THFGLhmlLBE 11:04 Heritage Apprenticeships
+prCRQTW5COo 25:59 Citizen Science in the Sunshine State: FPAN’s Programs in Training and Mobilizing Volunteers
+26uMEkaOJUE 19:23 Intertidal Archaeology in Biscay: First Results for an Ongoing Project
+1lScAz3-3HM 25:34 Intertidal Archaeology in the Severn Estuary and the Study of Prehistoric Routeways
+fZEi3ofcHK8 22:17 Turning the Tide? Three Years of Community Archaeology on the English Coast
+xtZ8OHSxDXg 29:07 The Golden Age of Thames Antiquarians
+yRKoaROwCNQ 21:26 Archaeological Evidence for Change in Tidal Levels on the Thames, an Update
+CxYg3ieDM7k 13:56 When the Facts Change: Finding Officers’ Households at Roman Forts
+n7p7XSjvp7M 15:23 The Colne Valley in Prehistory
+PxLdmDhOxQg 20:52 Who were Roman Londoners ?
+joAR2--9MAA 30:00 Archaeological Investigations at Tideway
+jZmPlkmDi1c 18:08 Enabled Archaeology and the TDP
+wfUshCpZUgI 13:50 Tideway Engaging with Younger People Project
+86TDDve4XGQ 17:28 Older Londoners Project Update
+nVbRG43uUeY 32:55 Special Mysterry FROG
+Q377oK-vyx8 14:46 Art as Archaeology
+SjfUmERjfXQ 11:55 Welcome and year in Review
+BRWuYowL-ng 30:34 Bristol’s Brilliant Archaeology: planning for all ‘event’ …ualities
+j4mHOm9uZhg 29:54 Your Dig: York Archaeological Trust’s new Participatory Community Engagement Programme
+2sIIZOfYtyQ 22:27 Visitor perceptions of, and engagement with, British prehistory displays
+xL3p9iCHHFY 28:25 Positive Action with a 3D Printer
+krNWLyay9z4 9:58 Documentation and Curation of 3D Visualization Projects
+WIJcbuT4SFM 10:35 Displaying the Dead: results of the Leeds Museum visitor survey
+Lak6KUrHuh8 8:33 A new approach to rationalising archaeological shell
+U7bcBmvBpdg 27:01 Charging Ahead: Exploring fees for the transfer of archaeological archives in museums in England
+b8uVaR8OUtY 26:27 I like to move it, move it......into archive suitable boxes
+VUCDTmUuoUk 26:42 Pottery Shop? What Pottery Shop? Re - thinking Corbridge from the base up
+O3soNQ1GQkE 27:15 Improving Archaeological Reference Collections and Typologies
+INl8D8eOc1M 51:56 Archaeology matters: pass it on!
+vBAo3OSxBvE 25:14 Forging a positive collaboration between Swindon Museum & Art Gallery & Cardiff University
+FmkNKU1CIpo 30:08 Old Collections, New Questions: Researching the Roman collections of the Yorkshire Museum
+jH2s9Efk7ic 24:46 Birmingham: rediscovering archaeology for a superdiverse city
+53eDGLd6j2c 27:38 Putting Cyprus on the Map: promoting the Cypriot archaeology collections at Museums Sheffield
+rtrfGhPO-Qw 30:02 Papyrus for the People at the Petrie Museum
+SEd-Ycb00Cs 16:12 Baston Burn: A cairney/brochy thing!
+9gDvM47LHOw 28:16 After SERF: the post-excavation, writing up and legacy of a major archaeological project
+vfbrCfgyC98 22:00 From Hilltop to Shoreline
+frmJpjNQ5Jo 26:47 A step towards national mapping – Scotland in miniature and maximizing the use of remote sensed data
+g9_4sbw-PYw 27:02 The Lismore Nave Project
+JcCrgZvmYLU 21:19 In Search of the Early Medieval Monastery of Deer
+FDRdqnSGjiY 18:04 Beachy Head Woman and Take the Space
+JAVOWtqkeKc 27:52 Adopt a Monument – Results of evaluation
+RuUQJM6mcZI 6:04 Health and safety, bullying and harassment inductions for archaeological field staff
+2bnymK_vGFQ 23:24 A plethora of periods and some groovy pottery: the latest discoveries at Upper Largie quarry
+DMUeFh4Ao6E 11:39 Increasing diversity through community engagement: Goathland Incline, North York Moors National Park
+ReGWQf_CzWc 22:52 The Arrochar parish in the time of the Macfarlane chiefdom – recent archaeological discoveries
+3ZW3ZR_Rl3g 20:08 Whose career is it? An overview of diversity and inclusion actions outside of heritage
+2AJG-ViLQu0 28:20 ‘This is ane koull of Tullilum’ – excavations at Perth Whitefriars 2014-2017
+WQRCxVuNOE0 16:27 Recent history and work leading to HLF bid - Whitehawk Camp Community Archaeology Project
+Q9PKFypmE_s 10:30 Project outcomes and lessons learnt - Whitehawk Camp Community Archaeology Project
+FHf_sMngykI 17:08 Management of Brighton’s green spaces, natural heritage and collaborative working
+DGS-gCRmKzY 14:53 Brief History of Whitehawk Camp and historic impact from expanding city
+60WrYgh5xxY 14:05 BHAS’s historic & current involvement in Brighton’s archaeology & exp. of working in the project
+KYKvY-AchJU 9:39 Geoarchaeology
+MPkwbrsoJ3E 25:33 Environmental processing
+-7cK-CId74s 20:38 Careers in Archaeobotany (the study of seeds, chaff and other macroscopic plant remains)
+roFViRC7sEs 20:31 A career in specialisation
+YIrR3_6zEpc 28:17 The problem with archaeology is archaeologists….
+MsoHJQzaBIU 13:44 Communicating ideas: the (dis)connections between theory and practice
+6E7w8AjGZVY 32:51 Why bad things happen to good people
+3dMkUuC7em8 23:23 Re-connecting through place
+PH45JYyqdNQ 11:05 Reconnecting archaeology: introduction
+73ZYMzgTSGA 27:12 What do we need to do and when? Prioritisation and implementation
+9LBHhnizRYU 10:26 Introduction and background to the project
+4B_0kmnI834 27:37 21st-century Challenges for Archaeology: issues discussed, and actions proposed
+gqGvmGK90gw 21:04 Spare us the detail
+cUOuiobxMQY 15:20 A MAP2 thing
+UimNrSOCi2I 21:25 Modelling landscapes: assessing risk and opportunities at Skeffling
+lKMRlNzCsnU 15:58 Post-excavation from a consultant’s perspective
+GkMi6GznheQ 15:24 What do we do with those shapes?
+qutjXUYiIaQ 16:20 Sunlit uplands? Managing moorland archaeology in the Yorkshire Dales National Park
+t06dAB1wYIU 13:27 From flint head spear to javelin missile
+viZH5wRwFrY 14:57 Exmoor Mires and the historic environment: a partnership with the past
+4L_m9NIp5Ag 15:51 A risky business: reducing risks to scheduled monuments
+oD3fzik3DE8 11:15 Who’s leading the charge: leadership and innovation
+c1Ns1mj3i7U 16:21 What inhibits innovation: structure and outcomes
+pOWV0FCZC7g 24:53 What empowers innovation: money and value
+kNCXkQMikUM 16:11 The innovation survey results
+sPYHAZvUwYg 26:49 Innovation, what it means and what it looks like
+b2PeX6ZvPQ4 2:21 The SCAPE Trust/Scotland’s Coastal Heritage at Risk Project - Newshot Island Boat Graveyard
+zk_eVV3ABY4 2:33 The Small Isles
+pLaK6GX1diM 2:09 The Archaeology of Dun Deardail
+-N2CJoKXuPM 2:29 Lost Lives, New Voices: Unlocking the Story of the Scottish Soldiers in 1650
+47YP437O85U 2:42 Wemyss Caves 4D
+4u7b3SbjRBA 2:26 London Mithraeum Bloomberg SPACE
+0jQkKxf6iuI 3:02 360 Production for BBC4 Digging for Britain Series 6 - EAST
+uebKL3thT6I 2:21 CITiZAN (Coastal and Intertidal Zone Archaeological Network)
+mxRMoHfaRm4 2:15 National Trust Archaeology at Knole, Sevenoaks, Kent
+cVYzFilsGTw 2:29 Thames Discovery Programme
+Pl_DLxXplH4 11:05 One Minute Mayhem - Day 2 of SCHC
+7jgi3Z5ZtVs 2:57 Launch of “Listen to the Stones”
+W3Rn4S--FI4 30:18 What Do We Know? An outline for a Scotland-wide project to lift the lid on community heritage
+3D4JXd-4dQE 13:32 What’s Your Heritage?
+De9m6g0whRY 18:40 A new dimension on Scotland’s rock art
+qD6HZH1_OZ8 20:05 Building commitment and community engagement for a living history project
+4tK0SVeI9mo 19:27 Cousland Smiddy
+KnlVNlypSSc 37:54 Personal reflections on community heritage in Scotland: evolution and revolution
+j4xGRKL378M 23:11 Inspiring landscapes: the life and times of Muirhead Bone
+7RTs7DqJRv0 18:23 Rejuvenating the West Boathouse
+K3BSFh8kRt0 10:01 Walking Tours on Wheels, Paisley
+KaDxihmg8P4 14:11 The importance of memory in the park context
+QuYfrLss_DA 15:29 Nungate memories: the pleasures of oral recording
+8gxr7ACYJxU 16:25 Tracking the Highland Drovers
+f976b8R1bGQ 14:46 The physical and the virtual; the realities of young people in heritage
+2s519vMM4hg 20:37 Canal College - engaging young people with Scotland’s heritage
+CW4Edai164w 17:35 A beginner’s guide to brochs and bairns
+OrcAutdAR9M 23:29 Friends of Kinneil
+GWJuij7s39A 18:03 Edinburgh Living History
+6PRhGNMNjSU 38:53 The value of volunteers in heritage tourism
+VYB2RDJW49M 14:08 CINE: making virtual reality accessible for communities
+sAk5qaxjygo 18:29 New Forest Archaeology: motivating communities and enhancing their engagement
+WvnC875qkdQ 17:32 Save Wemyss Ancient Caves Society
+YueaLNx861g 12:28 Heritage assets creating a platform for community-led regeneration
+uiwEtlIS9Wc 18:01 Govanhill Baths’ experience of Community Shares
+SY4HECmyILY 18:09 Securing the future of the museum
+xO0bq7upMpU 18:29 EU-LAC-MUSEUMS project
+BZi56UhLEHA 18:45 Best practice in museums’ dealings with communities
+1CKgsnjmni4 17:54 Troyan Museum of Crafts
+ei9ebQ45S04 21:49 Community comics and cultural heritage
+DXjVX4PMIBc 24:01 Writing the Clydebank Blitz
+2cPJucnSjjQ 27:17 Weave Parkhead
+eXO0mmXJ4e8 30:50 Excavations at Clachtoll broch, Sutherland
+x4aznS1WQjQ 22:26 The Living Wells Project – community heritage and the interpretation of holy wells in Wales
+R2ieTY6HoXY 18:27 Feats of Clay: Bronze Age metalworking at North Kessock
+Lgs463rvYFQ 1:26:33 Future skills for community heritage: a panel discussion
+1RZUiNAW6XQ 20:33 100 years of defence along the North Clyde coastline
+Hg84BLuki5U 19:04 Wartime remains at Invergordon
+j6dH6sAhqtA 24:06 Public & community archaeologies of German PoW camps in Finnish Lapland
+JFGlHXucd_U 19:43 “To our comrades who died far from home”- exploring the WWI PoW cemetery at Stobs Camp
+uon746qdlKQ 34:43 Llwyn Celyn; a hall house in the Black Mountains
+ANLCblH14h4 14:04 Reconstructing turf buildings
+u1NDomAefBU 14:15 The work of the Gal Gael Trust
+1fW6lBafugo 22:48 Digging In: People's experiences of the Great War, then and now
+V1xMv_yt2Zo 9:30 Remember Us: Muslim communities and the First World War
+0R_5PXaeVGM 10:52 Playing the Past: excavations at Cathkin Park
+VMFY_Ab1Cjk 18:01 The Vennie Skate Park: an urban discovery
+hIcarUJPKtw 21:38 Funding East Wear Bay archaeological field school: life after HLF
+EpOvmflvRGc 26:13 Scotland goes south: the cemeteries of Lauderdale County
+8YtA2OViF3w 22:48 Understand the stones, hear the stories and re-live the past
+xUnmmjQd1Pk 10:25 One Minute Mayhem- Short talks on heritage
+mGbeZr6QJDg 11:21 Opening remarks to CHC 2017
+89TPCP12wxs 11:52 Welcome to Glasgow and to CHC 2017
+t5x2IqNpkGg 17:10 Diving in: how volunteers are uncovering the stories of Arlington Baths
+qPwW8fw8Z8Q 34:54 The Drosten Stone, St Vigeans: a cultural hybrid
+3hqm-Q6YPMw 18:41 Our Portmoak: uncovering stories from the past
+sa-Y5pjfgCo 33:41 Excavations at Perth Theatre and Hallhole, Meikleour
+jes87S_CToY 25:56 ‘The most powerful naval fortress in the British Empire’: the defence of the Firth of Forth
+Zta-eWoS_EA 27:03 Neolithic Halls, Bronze Age Roundhouses and a Late Bronze Age Hoard at Carnoustie
+X7TI2ENCpNk 7:29 Mapping Dundee's historic Howff cemetery
+wxUjZhfDync 28:11 New findings from East Lomond Hillfort
+kkrokKIWIXs 19:43 Dundee Law: The Past, the Present and the Future
+IUMJeYLr3BM 18:47 The FROG Awards - Foreshore Forum
+I-9UiekCvHI 16:15 Foreshore Conference- welcome and Introduction
+PEbFyUAxUeo 9:26 Edward Mudge, an interesting man?
+xkeRllC-t-Q 23:52 Pots and People in the Middle Bronze Age: assessing the Heatherstone Grange cremation cemetery
+0OgY0MCbz2A 25:21 Archaeology in the New Forest, 1960s to the present
+3_I-2NAUyRo 20:12 Animal Maiming in the New Forest as an instrument of protest and punishment
+7AKiuHJsQ68 18:43 The CHERISH Project - Understanding Climate Change and Coastal Heritage in Wales and Ireland
+xyNPcuYacOc 20:34 Five Transformative Years: The Scotland’s Coastal Heritage at Risk Project
+-RpC8lYJKio 17:58 CITiZAN SW Team Summary
+aS9IPm7l5Io 23:21 Tusks and trackways: CITiZAN on East Mersea
+99FLnIV85hE 26:15 A history of coastal defence in East Anglia and its impact on coastal archaeology
+7Iim-l0O83k 20:53 CITiZAN SE Team Summary
+1iDBYv955og 17:58 CITiZAN SW Team Summary
+qHHaj5lX7xc 18:15 CITiZAN North Team Summary
+ZXaUKUpgCKw 21:34 Did they enjoy it? Volunteer responses to CITiZAN
+j3zpU_sTnbI 13:47 Volunteering with CITiZAN A Year and a half on...
+cwNO5AwhBuw 8:31 Using a Drone to Survey hulks in Gosport
+jEkjXG8-cuo 13:33 Morecambe Bay
+WRm6LxEeRwI 33:54 The Art of Citizen Science, CITiZAN style
+VMDDcibC2zQ 31:28 The Old Custom House: Recent excavations and some finds from London’s medieval foreshore
+-BziWM92Uk4 18:33 Archaeological works at Chambers Wharf
+beY9kfLQ-zo 22:39 Slippery when wet; working on the foreshore
+UIMTIJClKQ0 16:58 Tideway and Tadpoles
+wStBsEWGYgI 17:41 A catalogue and discussion of finds made in the vicinity of Tower Pier
+yf_Cq_asQ5A 12:45 Changes to the Barnes foreshore: another look at two fish traps discovered during Thames Survey
+YYt49Vz2c6s 9:45 From Sail to Steam
+1Oi1Au-IC0g 24:06 CBT Project & Greenwich Update
+kZ2CHkH7NUU 17:56 Fieldwork Review - Thames Discovery Programme
+kz4ZgRYfJxA 22:45 World Heritage: meanings amongst local communities of the Ironbridge Gorge
+KQp49VNSLDs 11:28 Will Buckland Rings Reveal its secrets?
+YQcSP4v_G8M 35:10 East Lomond Hillfort and Late Iron Age Fife
+1QFcFxfEC9k 1:01:01 The Romans and Ridgeway hillforts; Moel y Gaer Bodfari, Denbighshire, North Wales
+HfaBPN107aA 28:10 Beyond the Bronze Age: Iron Age and Early Medieval Activity at Irish hillforts
+cbAg9owpyhI 30:51 Reconsidering Roman Iron Age Fife
+Bn5jKyAkwXE 45:50 Is that a fort on yonder hill?
+ofede0kmL2Q 24:13 Cullykhan - A Coastal Promontory in NE Scotland
+LXZ4bludb5A 22:57 An ecological perspective on long-term human impact within the New Forest
+wIg4ZBEvixI 22:12 Excavations at the ‘Royal Hunting Lodge’ at Church Place, Denny Wait
+yFflZrf1-To 16:48 New Forest Roman Pottery: the centenary of Heywood Sumner’s excavation at Ashley Rails
+3Yy1TDTQEeM 24:36 Equipping the Armada: The Archaeology of Lepe Country Park
+-qFs8U4PRyY 25:14 The New Forest and the Great War 1917
+GRtA4NemjPU 22:16 Three sites on the coastal zone: Roman, Saxon and Medieval
+iS0X-bIrvC0 14:50 HLF Funding for heritage projects
+UaVxJ8i-pBU 24:17 Automated Detection of Archaeology in the New Forest using Deep Learning with Remote Sensor Data
+irsZb2eckrE 16:19 Using Aerial Imagery for Desk Based Research
+pTDp0TNuC5s 18:20 Gazetteer of New Forest Properties
+ZtiRtognWIg 26:47 #NewForest: using social media and mobile data to manage our heritage
+_SnF3Ihr73s 19:54 Protecting cultural property during armed conflict: an international perspective
+JaXwFeWfqzE 14:06 The reconstruction of Dresden
+bNeBJLhdfv8 34:11 Restoring and preserving cultural property in post-conflict Bosnia- Herzegovina
+hpTYrCiZPgU 25:52 The arts in historic preservation – the southern Caucasus
+UwYXbFGZFvQ 19:11 An Introduction to the Cultural Protection Fund
+Y4V-XRa3GuM 17:20 Transnational working and the World Heritage Convention
+metf4-A0ddQ 21:58 Frontiers of the Roman Empire (FRE) – the ‘ideal’ transnational WHS or a crazy idea?
+ltftKG41WgY 21:20 Neanderthal connections: international research collaboration on the Gorham’s Cave Complex
+nj6UWHQQ8so 16:18 Research frameworks and global heritage
+3Phvi1pkz6k 15:49 Artefact Preservation in Saturated, Tropical Cave Sediments
+hm1qqT_EtNQ 18:46 All Along the Watchtowers!
+ZIwVUBPRGa4 21:55 Rescuing the Ranch: Geoarchaeology and Historic Resources Impact Mitigation at the FM Ranch Campsite
+T-6SCQa8ha8 20:00 Deposit Modelling for Archaeological Projects: Development of Technical Guidance
+DiJa4vgN46I 20:36 Geoarchaeology and Landscape History at the Squirrel Hill Archaeological Site, USA
+vkvoxbOgCzI 21:13 The Battersea Channel Project: Geoarchaeological Deposit Modelling
+LTujjv8NBbc 12:17 The Battersea Channel Project: development control deposit modelling work within southwest London
+FHguiKAlBWs 21:12 Mineral Phases in Burned Salmonid Bone and their Relevance to Studies of Combustion Features
+a6JuPrhZjEg 15:49 Blind Test Evaluation of Consistency in Macroscopic Lithic Raw Material Sorting
+r_PWwcfiSV8 20:36 Characterization of Silica Mousterian Tools from Navalmaíllo
+8OwFHHVbz60 32:21 An Integrated Ethno-Geoarchaeological Study of Small-Scale Nomadic Herding Sites in Woodland
+vr1MXGPlWLo 20:55 Medieval Sunken Buildings in the North of France: From Samples to Micro-Features
+M_x9Ke6dnys 11:51 Town Development in Mons (Belgium): The Contribution of the Geoarchaeological Study of Dark Earth
+3INK0cjj3n8 18:30 The Prospects for Geoarchaeological Interpretations of Medieval Dwelling Floors
+mpD-wuSjusE 19:00 Phytolith Analysis on thin Sections of Urban Dark Earth in Brussels. A State of the Art
+TT8EtYu22YU 30:12 Micro-Contextual Investigations of Organic Matter in the Archaeological Sedimentary Record
+Mh4M1U3zgh8 21:14 Geoarchaeological Investigations of Aghitu-3, an Upper Paleolithic Cave Site in Armenian
+PA1g3bgV0k0 22:57 Evaluating the Nature and Behavioral Implications of Laterally Extensive Occupation Deposits
+kd1ClS2NLg0 22:48 Breathing New Life into Archaeological Soils
+smaMTKNq4aY 20:00 Manuring Practices in the Danish Late Bronze and Early Iron Age
+FfecuOR2BUw 17:43 Subsistence Practices in the Arid Negev Highlands During the Intermediate Bronze Age
+yu3Gavw-Wfg 19:50 Developing High-Resolution Theoretically-Informed Geoarchaeology
+4-GJDw1ne74 18:55 How the Late Pleniglacial Landscape Changes Diversified the Gravettian Record of Ach & Lone Valleys
+4XRCctf8Kx4 29:36 From Green Sahara to Desert River: 6000 Years of Environmental Change in the Sudanese Nile Valley
+1gjVoaMGAIU 23:47 A Multidisciplinary Approach and a Double Level of Validation for the Radiocarbon Dating of Mortars
+yt2xg3nCprs 20:30 Characterization and Patina Formation of Flint used on Prehistoric Sites in NW Belgium
+_8Ldc9JRL_Y 22:05 Geophysical Surveys and Digital Elevation Modelling at the Roman Military Complex of Ardoch
+tV9GSgXWXr8 19:19 Garbage In – Wisdom Out! Geoarchaeological Investigation of Sedimentation Processes & Waste Disposal
+4GbsLK1i1nQ 23:46 An Integrated Micromorphological and Phytolith Study of Urban Dark Earths from Atuatuca Tungrorum
+8qC1PyDJMWQ 19:15 Late-Glacial/Early Holocene Palaeoenvironments and Evidence for the 8.2 ka Event in the North Sea
+3eLVVyTqZ3E 15:21 Patterns of Flint Raw Material Procurement and Use in the Late Neolithic Through Early Bronze Age
+7QdENQLx8FE 19:15 Visualizing Skyscapes: GIS-based 3D modelling and astronomical simulation
+2YeoRpOsTW8 17:33 Erosion of Archaeological Sites: Quantifying the Threat Using OSL and Fall-Out Isotopes
+MkCTopXoy5w 20:44 From Shipwrecks to Sphagnum - Geaorchaeology in the Marine Zone
+bOkQ_3nkYY0 20:44 Approaching Landscape Transformations Through Urban Micromorphology at Bronze Age Palaikastro, Crete
+6OC5gY6zLgs 21:17 Regional Stratigraphy, Tephrochronology, and Human Occupation of the Upper Susitna Basin
+hyn9Gxz2gks 1:16:03 Professional standards and ethics: making a world of difference
+rj0F25OHJDA 24:32 Conflict and Resolution: a case study of the Highway 55 and the Camp Coldwater conflict
+4uOpg2IkY9g 23:41 Views across the pond: different systems of reporting and engagement from North America and Europe
+XyDXNMl2svg 16:29 Engaging the public with archaeology: Birmingham Museums
+NdrFnp6jqVM 18:47 Archaeological output in the museum setting: a case study – The Mary Rose
+4RCmQmvfFeA 21:29 The Archaeological Recording Kit (ARK) – 10 years of learning lessons
+EzgxryPh_vg 25:46 Underwater cultural heritage protection in the UK: the failure to commit to the future
+VyIrSV2KPjc 26:01 Managing protected landscapes through the use of remote sensing, mobile devices and citizen science
+5ST3VG5o5sM 17:52 Protecting accessible marine tourism sites: the case of Scapa Flow
+3OpJwb308jA 26:41 Recording and analysing in 3D
+-NPEWwC0_88 21:48 Professional practice in community archaeology under UNESCO
+MhTGU5AUKkM 19:52 Squaring sovereign jurisdiction of underwater cultural heritage protection in shared ocean spaces
+vFm6jXKL0RU 37:36 Global standards for marine archaeological work: utopian dream or close to reality?
+zQYtniTlwKs 21:16 HERDS: delivering a research-focused strategy for HS2
+W_Q26Uztr1k 19:39 Infrastructure and research: a marine perspective
+WoZtfOoPo60 24:40 The Batinah Expressway (packages 3 and 4) excavations
+wvLumg46iWQ 24:09 Heathrow Terminal 5: a fitting legacy?
+ljDQbB1ZQP8 19:01 The future is a foreign country
+V5vsSaiLSlc 25:32 EAA and CIfA: going global together – possible pathways
+AUQqpUlYUfQ 15:22 When the UK leaves Europe where does that leave me? The perspective of an archaeologist
+KrkpEwDDO68 18:24 Introduction to the session: A broader vision for Brexit
+3khMvGyy5fo 24:32 On the outside looking in: what will Brexit mean for European archaeology?
+kmXYIHqoJr8 20:43 Identity, value and protection: the role of statutory heritage regimes in post-Brexit England
+f1pJmSjcVSc 40:13 From Dere Street to the A1(M): what have we learnt from over 20 years of excavation and research
+QWJwFXQenuY 21:44 The challenges, strategies and rewards of managing publicly owned cultural resources
+2cJw6DTpK68 23:40 Safeguarding a fragile legacy: managing uKhahlamba-Drakensberg rock art
+M8l-df4Qh-8 24:46 The Happiness Machine, or how to be an archaeologist in a changing world
+g0F60DGrnh8 21:04 Making a difference: volunteer approaches to heritage at risk in Northumberland National Park
+4vE-AQhZoPI 27:20 Remnants of farming past: cultural heritage and living landscapes in the Dales National Park
+04hcFW-TKVk 26:22 A multitude of designations
+O4j5Sfj_SiU 16:49 Making commercial archaeology more inclusive
+GjXfMCoys8s 20:12 Archaeology and vision impairment
+-FWrreffpRQ 26:16 From equality and diversity to fairness, inclusion and respect
+azfcIKaNb04 17:37 A global vision on diversity and involvement in archaeology
+mbp2axD22a8 29:09 Breaking down barriers to inclusion
+qpV0LXCe64A 23:16 Making a full circle: cultural repatriation from museum collections
+fgmUt8wehoU 22:15 Fragmentary ancestors and making monuments: international working at Manchester Museum
+qfFtSGd_zoc 26:00 Bottom up or top down? Connecting local enquiry with global research
+xt8bgLH-3fM 19:21 Hadrian’s cavalry: an international collaborative project on a World Heritage Site
+NgxUcN0dVH8 23:19 The Must Farm pile dwelling – taste, appearance, lifestyle and communication in the Late Bronze Age
+GQCOsU_1xws 26:34 Crossing boundaries: commercial archaeology, museums and universities
+Zilwb1r_f9o 29:59 Chartered Archaeologist: accrediting competence on a global scale?
+ZHOQJi9h_ro 33:55 Training of professional archaeologists in the United States: a path forward
+lZD2E8Taunk 27:20 Discovering the archaeologists of the world
+LjnT1Fet4o0 23:54 What do you mean, you don’t recognise my qualification? - Introduction
+rfMl2M-Npco 23:53 Case study 1: The soft power of archaeology and cultural heritage in the Gobi Desert
+hdvmHtfXvhk 27:44 Ecosystems services and green infrastructure approaches to land management in the UK
+j4DGwLmfZbY 21:05 An interdisciplinary approach towards an understanding of historic landscape change
+lMvs-MvxrsQ 22:39 Summer dairying and the history of upland landscapes
+vykMntbLKe4 27:15 Engaging stakeholders with the management of European cultural landscapes at a local level
+JX0kU25AVj4 14:27 Dissolving borders in landscape study and digital professionalism
+umKrfayGZUo 23:03 Archiving digital publication: preserving two decades of digital content in Internet Archaeology
+nSOMz1yBU1M 13:41 Davy Jones’ locker: Historic Environment Data Centres and MEDIN
+8jTVpievKXU 16:59 A toolkit in your pocket: data creation with the CITiZAN coastal archaeology app
+sVG4L8pAxQk 16:44 ADAPt or perish: developing a life-cycle approach to data management
+YYoSZlWgH5g 17:01 Improving access to better preserved heritage data through the Heritage Information Access Strategy
+6YfSam4A7Yw 17:08 RCAHMW guidelines for digital archaeological archives – sustainable approach to digital preservation
+tvDaOkPfbpo 12:39 Joining up… digital archiving and UK archaeology
+hyMzVp-o4aM 31:25 Case study 2: Cultural heritage projects, central and northern Mauritania
+gBd1MBhsrnI 14:23 The Bedern Charter: digital preservation and the historic environment
+s1gmKUz_4uo 14:12 Time pursued by a Bear: Ursa Major and stellar time-telling in the Paduan Salone
+TQG5NP8faWg 28:02 Skate City: Film, Architecture and Urban Space
+wNvaJdVdP-8 21:29 ‘Three stones in his belt’… astronomical imagery in myth and ritual sites
+aKKxDsXTYlY 19:13 Early Bronze Age deep postholes alignments in Linsmeau pointing towards astronomical events
+gx7kalmYgS8 20:54 The strange case of Dame Mary May's tomb
+pSCi4PgIH5c 20:32 When types matter (and when they don’t)
+ctykeyZOaR4 20:42 The Solar Discourse of the Welsh Cistercians
+Xe7mdN_9BKU 16:02 Skyscape Exploration: From Material Site to Apparent Non-Site and Back Again
+1tDnzB7YBms 19:57 A diachronic study of mid-Holocene skyscapes in southern England and Wales: preliminary results
+T1Boc-U_4TQ 21:07 Reflecting the sky in water: a phenomenological exploration
+gzJyAizdUDQ 21:29 Toads turning time: verifying visualizations of the Sanctuary
+SdA98jYOVLI 18:49 Visualised denial of rebirth of the dead in the mortuary process: Ritual disarticulation
+K_rZDih4kys 20:17 Weland’s Bones: Skeletons and Stories in Early Medieval Britain
+cv0Qn_MQKj4 21:54 The use/misuse of Iron Age Bodies after Death: Denying Agency and Drawing on the Power of the Body
+R6Te_LdMkWs 22:05 Visualising Taphonomy: reconstructing burial practices from 1m2 at the Xagħra Circle hypogeum
+q58o4dszmBE 17:49 Human remains as evidence for grief and mourning? A reinterpretation of plastered skulls from Levant
+GMuPSxNeV1o 19:43 Reclaiming past, present and future stories of a deserted medieval village
+LutUoTk3Y08 18:39 The Priory Tunnels
+72yi3bL4gsc 23:14 How can reflexive indexical image making expand the visual communication of liminal space?
+rjzK5UO3jaU 19:15 Visualising Entropic Narratives of Deep-Time: A presentation of fieldwork from the Broads
+ZX3HiiszA1o 17:27 Reassessing ‘henge’ monuments: can we see a neatly packaged monument type?
+90hE7HrlP2k 17:19 Archaeologists, typologies and relational thinking: where do we go from here?
+3q0-MVORcvI 20:34 Simply not my type: building and using typologies in a new materialist world
+sVB0SfYN7xE 16:53 Typologies of Early Neolithic mortuary structures through the lenses of relational theory
+xwB2zk9ekfA 17:20 All Things Shining: Towards ‘multi-dimensional’ typologies of Bronze Age Britain
+pGFB3rtqihQ 16:59 Assessing the Role of Stone-Ard-Points and Flaked-Stone-Bars in Prehistoric Orkney?
+eUE4o0fm1Yo 18:27 Tables, volcanoes, pots that (kind of) talk, and making sense of artefactual variation
+OJKNKvyWTu4 9:14 Rockburn
+gobLlK9Gc1M 9:58 Archaeology, Comics and Community: The Oswestry Heritage Comics Project
+JsS6AQJ-QcI 10:14 Visualising Complex Material Trajectories through Creative Ceramic Practice
+8AFwwfQJoK4 6:45 Site over Time (Digitally Printed Cotton & Wadding)
+dqdfovAO7a0 10:48 The Reliquary Project
+Y3dQIBoVrQU 8:42 An Ode to Hiort
+kAJZ8-AXiwA 11:49 An imaginary tour of Orkney from Elsewhere, and Elsewhere from Orkney
+8FpahH2gtaI 10:37 SERF: designing digital engagements
+Vfo1unrZJB8 8:38 #slowironbridge
+lReirtMLIvw 6:41 Stone Landscape
+Ruj9X0xpLU4 6:21 Plastic Earth
+VnCk903GI7c 9:36 Layered history, storied layers: Historic Environment Frameworks for the Ebbsfleet Valley
+eVMKZGmkcSo 8:54 Time in an urban landscape: 8-10 Moorgate, in the city of London
+uo-MdQP-NLY 10:56 How can we give a voice to the archaeological record?
+l6yUzxQjstc 9:27 ‘Danebury Environs – The Game’ experiments in map art
+YL_BNPr1MkE 9:55 Denken mit LEGO
+e081UFTe6yw 25:14 Re-empowering the artisan: a case study in CGI
+1-qbsKgxv_Q 20:59 “Archaeologists assemble!”: authorship as praxis in archaeological comics
+WuNHsR214xY 18:44 100 years of auteur archaeologists
+Z79H03d-tFg 13:10 Virtual Archaeology: Understanding the Past through a virtual reality?
+qw_J_Hy9WS0 18:03 The Queer and the Digital: Critical making, praxis and play in digital archaeology
+eOQrfVLL_MQ 19:03 Seeing History through a SCHARPer Lens; exploring the Wemyss Caves through community film making
+aNKGMmpJNy8 11:06 Auralisation making in practice; a very visual undertaking?
+xnQgw0X1PL4 12:57 Artefact Life History
+9XVmTHT65AE 14:44 Geophysics: creativity and the archaeological imagination
+RF_g55mBYOE 17:29 Different expressions of the same mode: apprehending the world through practice, and making a mark
+rMLkXTIg8xU 14:25 Extended Practice and Digital Representations
+6P5KnGpJX-A 15:57 Creating a Political Base for Archaeology: The Greater Manchester Experience
+7qDsLbxJU8o 13:40 Death: Mirroring life? An exploration of the perspectives gleaned from skeletal and burial material
+qM5ZGJyvJ1g 15:58 Assume the deposition: The position and effect of curated early Anglo-Saxon objects
+y4IXhWqPZik 17:51 The man with the stone in his mouth; and the symbolic replacement of severed body parts with objects
+kALEo3LLDW0 19:51 Punitive postures for the early medieval deviant dead
+n-5Jn_0FCbs 15:45 Facing the dead: Investigations of mummification and its social dimensions. A study of Garton Slack
+ii_psDXcjp0 10:14 Burial positions past and present: An introduction and some critical thoughts
+v31JonjcvQ4 17:08 Local archaeology for local people?
+fbBsvDKzemI 19:44 Local archaeological activism: The trials of leading horses to water
+o9SHyT1smnE 14:53 Turf Wars: Politics and Peatland Archaeology in Ireland
+lpPWaBiEN6Y 22:53 Where history meets legend… and produces political sparks; presenting Tintagel Castle, Cornwall
+2ixtVc3CzPo 16:34 DNA and Soil: Archaeology, Palaeogenetics and Nationalism
+K8a5CP2V7Pg 16:26 "Another Brick in the Wall" - Archaeological Outreach in Schools as a Political Act
+v59DbP-Tun8 16:39 Time to bite the hand that feeds? Or, at the very least, give it a long, hard squeeze
+s5wLQtVz-6Y 16:21 Selling a political framework for the Public Value Era
+JWMbMaKjcsY 17:26 Quitting my archaeological job as a political deed.
+UpDDujPR8Ww 14:16 Commercial archaeology and narratives of British exceptionalism
+c3XRxxiGpa0 17:53 The politics of Brexit. Why archaeologists need to be concerned.
+S-IGZoeuPyc 18:51 Clay and the art of experimentation
+aYl3cRdGX_E 16:36 Substance worlds: engaging matter beyond things
+xVLUJPQ-fSE 11:43 Archaeology is the science of aggregates
+BaxgMRib9Wo 14:25 Dung to ash: the alchemy of prehistoric everyday substances
+WjDTEK8H5iw 17:03 Bodies that co-create: the residues and intimacies of vital materials
+L9MJwm5XR90 9:06 Skateboarding through the Generations
+UbghGMPX4IM 19:26 Never Say Last Run: Skateboarders Challenging the Terrain and Becoming Involved in Archaeology
+7j1_S2ywZ4o 18:51 Gender and skateboarding: What can skateboarders learn from archaeologists?
+GitFwmfvmA8 16:59 Pathfinding and Pastfinding: a conversation between parkour and archaeology
+H0gN-76gduw 20:16 Drama in Archaeology: Performative archaeology and Process Drama
+BTnyrpH0ew8 16:50 Scenographic deconstruction of national mythologies connected to WWI & WWII in Norway
+uEveL3K44iE 19:02 ‘Seeing’ the past, a dark art? Maps, sections and images of the Palaeolithic past
+4QQGEOnz4mA 20:26 ‘Hearing’ heritage: The Kirkyard of St Mary’s of the Lowes
+tLrHdxtiuiE 18:41 The New Migrationists? Resolving studies of ancient DNA and archaeological theory
+dEzK1UV_Zt4 18:10 Prime movers: Considering the "driving forces" in the exploration of Creswell Crags through sound
+IDDJbagOSmg 15:55 Flint Provenancing: Combining Archaeometric and Archaeological Perspectives to Tackle Stony Issues
+KhyUgTKKaas 15:05 The act of creation - tangible engagements in the making and ‘re-making’ of prehistoric rock art
+sX8uDc2Yayw 21:11 Neolithic stamps in the Balkans: the enigma of vibrant tools and their missing imprints
+RpLjnIHsAP0 16:13 The Nile in the hippopotamus: Being and becoming in faience figurines of Middle Kingdom
+KhKvEUgOuRM 18:23 Conceptualizing Human-Mountain Relations in the Ancient Andes
+Zgz6rlZLDZA 14:02 A fresh slate: image, practice and multiplicity in the Manx Late Neolithic
+yGltD_DdA5o 19:47 Connectivity and the making of Atlantic rock art
+jnwNeqKRxz0 18:35 An Archaeology of Anthropomorphism: upping the ontological ante of Alfred Gell’s theory of art
+wGfWDdiMJTs 19:54 Beyond form: Iberian Late Bronze Age stelae in-the-making
+lZG-hg_SahM 18:22 Dirty RTI
+6nycfhiu_m4 11:16 Going beyond the safari: the potential role of the Environmental Humanities in sub-Saharan Africa
+9egfkRkTFfA 18:09 Towards an ecocritical palaeoecology
+bDzAFOI5VbE 18:36 Palaeoparasitology and histories of environmental justice
+L4ryRFblvgY 19:18 Archaeology and hyperart: wrecked and weird
+V-aobxTsGJg 19:00 Where the past meets the present. Modern families living in the Iron Age
+hhi4SV7xoBY 15:36 The uncanny archaeology of buried books
+s-el5hhZN0Y 14:40 Among the Tentative Haunters: Nautical Archaeology and Other Non-Senses
+URhleAU8Yvw 20:57 “Question your tea spoons:” The politics of familiarity.
+mTjoJX5UKiA 9:51 “Strange and estranged: on bringing things close”
+yso0IotLjvM 15:41 A research-historical and bibliometric perspective on Neanderthal occupation in Scandinavia
+dAUj7Cplq8Q 16:23 A History for Prehistory? - Rediscovering the lost voices of the British Iron Age
+TS6y7LLi1TU 11:52 Where time stands still: changing practices of prehistory display in the United Kingdom
+wQoeG35D-3I 19:08 Prehistoric Sex Objects: The Phalli of Windmill Hill
+w6IOvEZGMBk 16:06 The snowball effect: research bias in prehistoric archaeology
+udevUJdaItQ 12:48 We Are Not Alone: William King and the naming of the Neanderthals
+xbJjn9R7Guc 9:09 Gender (in)equalities in ancient Near Eastern studies: a retrospective look
+jkTfHhCaeYE 8:34 Making Archaeology a Safe Workspace for Adults with Autism Spectrum Disorder
+-7riEdE-nEA 8:05 Gender, Sex and Minority [In]Equality in Archaeology
+ToSg3CZnSr4 14:53 The Eneolithic adornments as components of the costume. The case of Sultana-Malu Rosu cemetery
+2VZYJiz_94I 13:28 Sewed jewelry in Old Russian costume
+5iHH3jQj2xI 19:59 Purses-amulets from territory of Tuva in I mill. BC as a phenomenon of cultural symbolization
+vYG3aeCpuD4 16:55 One costume – complex meanings. Women’s funerary dress in 12th-century North Estonia.
+YtWNGm3hQ2U 15:17 The variety of female textile funerary equipment from nineteenth century (Biala Rawska - Poland)
+RoACCid432A 10:08 Transformation of Zupan from military to elite element of the men’s costume among gentry
+THK2_rdV5MY 12:06 Small adults – forms of children clothes until 2nd half of 18th c.
+cqY-AVX_P0I 15:20 Women’s headwear from the burials of the III-IV centuries in Suzdal Opolie
+fZhc8LDGuyA 18:04 Late Bronze and early Iron Age costumes in the Southern Baltic: unknown and unexplored
+Bf5g98ZASuQ 15:33 Two costume assemblages from the Dnieper region: on the reconstruction of identities
+sF2-EQ8sGnM 12:17 Attire of the adornments: the main historical stages: natural, heavy-metal, jewelry, the accessory
+eGrRooh0b7g 14:45 Possible reconstruction of female dress in Grobin- Baltic influence and Scandinavian fashion
+uZYmRO1sAQI 7:52 Costume of deads or costume of livings?
+xFni_j1XkNU 14:45 Annular brooch in the context of the late mediaeval costume and worldview
+Sm7Htb01bxM 9:43 Jewelry: decoration or a detail of construction? Theory and practice
+Jbja3_NCnDI 14:55 One’s destination is never a place, but a new way of seeing things: Touring a Heritage trail
+iCh5zd8qAuM 14:04 Museums in Central Asia: The Role of Cultural Institutions in disseminating Information
+xBduT0ZrWVw 18:28 A journey through time: sensory tourism in the context of archaeological museums in Poland
+raY-NAj5gkg 15:37 From the ground up: Experiencing Romania through excavations at Halmyris in the Danube Delta
+ZkyRCqxQbpg 15:00 Unexpected experiences
+ihMfMGRkqOI 12:59 Crossing borders along the Dutch Limes
+Pp620LCh6yk 10:46 Bridging the gap: archaeology in tourism at the Archaeological park Emona (Ljubljana, Slovenia)
+-HkPt7sz2HU 17:30 Destination management of heritage sites and towns in Croatia
+EKRkYKZPya0 15:10 An agrarian town? – understanding the earliest phase of the medieval town Odense in Denmark
+AplEz7h6TWs 16:21 Viking age settlement networks and the rise of the early urban centers on the Upper Volga
+Sf1QNpDZZ3o 13:45 Small town in medieval Russia: the ratio of agricultural, craft and administrative functions
+33P1u5wqVI8 15:35 A town in the making - exploring early urbanity of Copenhagen through the study of social practices
+nFbE1Q6aIsk 16:36 Early medieval urban life in the Low Countries before the 10th-11th c.: approaches and problems
+vsGapGWCSw8 15:07 Production and Distribution networks in the Diocese of Tuam, West of Ireland, AD 500-1000
+QdoTASm1HY4 13:45 No town is an island
+VYnSo6CoZos 15:36 Multimetal smithing - An urban craft in rural settings?
+mFRR5SDtP-o 17:17 Craftspeople in emporia - the original cast. Non-ferrous metalworkers in eighth century Ribe
+fanirQeWQ8k 12:06 The rural component in the early urban development of Brussels, Belgium
+oDNOsLVcye8 13:09 The Trajectory of the Productive Limfjord Region AD 600-1100 – Exploring Changing Economic Patterns
+ExRhSYHs7nc 14:01 The emergence of Odense, the third largest city of Denmark. Methods, definitions and dynamics
+Mt67ZbWPzwM 14:23 The early urban development in the steppes
+eftKt5B7ZS4 17:49 More than a landing site, less than a vicus. Medieval Gasir in northern Iceland
+_p_vgwh9fXE 13:30 From late prehistoric harbours to medieval towns in the eastern coast of the Baltic
+aDUWQ2T5GgQ 16:01 Jewellery on mosaics from Roman Africa. Functions, aims and reliability of representations
+uiNaS_G_CaA 10:51 The origins of urbanization in the forest-steppe zone of Western Siberia
+ihoOjtoUbwI 14:24 How and when Venice became Venice. Framing the urban development of a trading town in Ital
+i3EZH6O-VAI 15:03 A Subersive Urbanism: Venice in the 9th century
+1xDYDVJEwCM 17:42 Changing Places: a comparative discussion of London and Tours in the Early Medieval Period
+TQlrhVA0OdA 17:35 Bypassing monolithic entities: diachronic and spatially informed approaches to early medieval towns
+mzZ-gohTonc 18:36 Before and after the emporium. The early and late phases of Walichrum (Domburg-Oostkapelle, NL)
+J6JGBtPB7kU 23:13 Emergence and Downfall of Viking Towns: The Concealed Phases within the Archaeological Record
+bQ8gr6QvMjI 13:27 Discernable Traces in Textil Archaeology
+88xAtzecLRU 13:37 (Inter)regional identities - performance in EIA sumptious burials of the Low Countries
+jpRdOlngP_Q 20:36 A different vision of ancient settlement dynamics
+1FYaxWjHtq8 24:58 Setting the scene: characterising Batavian society at the edge of empire in the Dutch river area
+M_UHzKUpeBc 28:02 What did the Romans ever do for us?
+5jp0gyF6iJs 28:14 The economy of Roman wine. Productive landscapes, archaeological data, quantification and modelling
+NvD1aatyJ-o 30:28 Simulating land-use for the Lower Rhine-Meuse delta in the Roman period
+GQfofTlHO20 22:57 Modelling evidence densities: past population variation or modern structuring affordances
+OGOMskK6twI 25:21 Investigating the agricultural economy in the Roman Dutch limes zone via agent-based modelling
+-W3MSuG7CNc 22:50 Linking archaeological data to demographic models of the Dutch limes
+2MjkhMDNBbo 14:23 Diverse movement in a dynamic environment: modelling local transport in the Dutch Roman limes
+QuMP9PAXtBU 29:38 Postdicting Roman Roads in the NW Iberian Peninsula
+OhV_gdkdtmk 20:29 Walking Between Gods and Mortals: reconsidering the movement of Roman religious processions
+G9RBE0PzAms 30:25 Network science in Roman studies: the potential and challenges
+B5EuNaLlcFE 17:40 Possibilities and challenges in the use of networks to study socio-economic relations
+ojuuOB2p-Lg 22:23 Network analysis to model and analyse the Roman transport and mobility
+BTWngPQXNdE 18:52 Multi-scalar approach to long-term dynamics, spatial relations and economic networks
+NJirwfDh8IE 22:27 Farmers and Forts in Moesia Inferior: Modelling agricultural strategies on the Danubian Frontier
+U4E2iU0d0fs 27:41 Modelling the cultural landscape of the Dutch Roman Limes: approach, results and prospects
+HkyOBT0oWRo 20:00 Integrating detection and modelling of ancient pathways
+Mv45bJSh7kM 22:25 Linking archaeological data to demographic models of the Dutch limes
+Gk2Hv4aqfrM 19:08 Is it gold that matters? The role of sumptuous burials of women in Bronze and Iron Age Europe
+qIgmC9RTtA4 15:45 Scarcity and dearness: an obvious link? Elite’s graves (1300-300 BC) in north-alpine world
+kLRIVF1ohSo 18:49 The Grave’s A Not-So-Private Place: Elite Multiple Burials in Early Iron Age West-Central Europe
+9iTOEutDxpk 18:12 Barbarian chief’s “secret” burials in the forest-steppe zone of Eastern Europe
+ZUMWnimUjrs 17:47 Commoners and Elites in Southeast Kazakhstan: Kurgans and Settlements of the Iron Age society
+Js4p08cYG3U 18:53 Miniaturization in the Production of Funerary Aesthetics in the Pontic Iron Age, ca. 600 - 300 BC
+ccbiUgfSrus 15:48 Another kind of archive: on the preservation of publications and born-digital material
+00-fTTCFYvw 17:13 Endangered Archaeology in the Archives: utilizing historical aerial photography to assess heritage
+IpK-8j9GUzg 16:17 The geography of a cemetery – the early Christian cemeteries of Skagafjör ur, North Iceland
+nQRCedr57ss 13:54 The Aerofototeca Nazionale of Rome: a photographic archive for the study of Italian heritage
+KDl4v7eTt5o 15:24 Analysing Archived Material to Unravel Wheelhouse Chronologies in the Western Isles, Scotland
+kWu6rX2jTvI 12:23 The relationship between archive documents and archaeological material of a naval conflict
+0uMIfIiNfbw 16:34 Archives and shipwrecks in the Baltic
+gVPw8aj64mY 13:50 Digging in Archives: Writing the Scientific Biography of Archaeologist Zsófia Torma
+mh658TVqrr8 10:30 Archives Vs Archaeology: the case study of the building beneath Via di San Nicola de’ Cesarini, Rome
+mYrsFMQNNh8 18:48 Searching the archives in pursuit of ancient Cyrenaica
+RTn2q4TnIWI 15:09 Archive and Archaeological Economy
+6Rt-pxRv6Xk 17:29 Archives – Can You Dig It? Time, Materiality, and the Archaeology of Archives
+33alht7LlsI 15:29 Ontology of archaeological sources and the possibilities of archive
+GL8cnrICnCI 11:06 Archaeological archives – A deconstruction
+46dzvUg6FQQ 16:48 Renovating practices in the history of archaeology
+T28C5Y-4zMk 14:03 ”Small churches” in Norse Greenland – what became of them?
+QORrK1aMKs0 20:44 Communities of death in medieval Iceland
+SvpIUNv6VSw 17:40 Chapels, Church sites and Settlement in Medieval Faroe Islands
+BRPXNH5AXA4 17:09 A landscape of belief: Orkney’s medieval churches
+rUt9tqNxbvg 17:07 An abundance of chapels: the pre-parochial religious landscape of the Isle of Man
+7prrEcd36a4 13:49 The bishop’s grave in St. Alban Church in Odense, Denmark
+ux-Zst-f7ao 16:09 Hofstaoir in Myvatnssveit. An early Icelandic religious landscape
+PDiqTKGMFTE 13:18 The Alp Fenga – Analysis of a post medieval alpine dairy hut in the Silvretta Alps
+UgevCfH3hf8 15:12 Archaeology and religious identities: the example of the Évora Inquisition court (Portugal)
+BFhcNIyFKL0 17:06 From hand to mouth: dietary perspectives on religious minorities in Medieval Portugal
+3E8OCmpDDjk 18:17 Dealing with identities. Archaeological traces of Muslims and Dimmi-s in the Middle Mark
+o8hJ5Elrlbs 16:14 Muslim and Protestant religious minorities and funerary spaces in south of France
+BHtRVGD5CHk 15:47 Woolen textiles from the times of Roman influences, the site in Grudna, Poland
+Ke6NiW4M30w 14:11 Technical Innovation in Flax Yarn in the Northwest of the Iberian Peninsula. The Spinning Bowl
+lDqyUZXet6E 15:03 Does anybody still wear that? Notes on (representations of) Minoan female dress in Mycenaean Greece
+OwA2W5yK0Z0 15:37 Beyond textiles: alternative uses of twisted fibers. Evidence from Akrotiri, Thera
+NnwF1LAImr4 16:49 Tradition and innovation of textile manufacture in Early Bronze Age Greece
+1nFgim4inIE 15:16 Innovative or traditional? Diachronic approach to weaving technology in Bronze Age Greece
+TvOmML6jQMc 14:08 Textile impressions on ceramics from the late Neolithic to the early Iron Age in Central Europe
+wJi1cw8_7fw 15:15 Manufacturing Traditions in Textile Archaeology
+bcTKxzCHv8c 14:47 A demographic history of the plague bacillus revealed through ancient Yersinia pestis genomes
+YBgdQs1p_zU 16:17 Germany and the Black Death: a zooarchaeological approach
+6IY1_roCdjY 15:01 Plague in Valencia, 546: A Case Study of the Integration of Texts and Archaeology
+Gn0SiAa-rgU 16:40 Bronze Age wool economy: production, trade, environment, husbandry and society
+ZwpOWlH0caA 11:56 Analysis of a High-coverage Yersinia pestis Genome from a 6th Century Justinianic Plague Victim
+VxApuvMlzeA 13:41 Early medieval burials of plague victims: examples from Aschheim and Altenerding (Bavaria, Germany)
+3OToQN_1fks 11:45 Placing the Plague of Justinian in the Yersinia pestis phylogenetic context
+GnUat489z34 14:02 Plague in the eastern Mediterranean region 1200-1000 BC?
+25HL_jqfyJI 15:46 Reconstructing ancient pathogens - discovery of Yersinia pestis in Eurasia 5,000 Years Ago
+fRyWKb1RgP0 13:05 Fleas, rats and other stories - The palaeoecology of the Black Death
+fbeAcPRJPpA 33:38 From Mild to Murderous: How Yersinia pestis Evolved to Cause Pneumonic Plague
+agw3NnfOpAw 15:38 Introduction-Plague in diachronic and Interdisciplinary perspective
+ArrjVCIZwEc 19:17 Can we have that on a map? Open Source options for the dissemination of archaeological spatial data
+iiSddmmCyFk 16:08 Consumption patterns and morphology of cattle in a Late Neolithic settlement Polg r–Csoszhalom
+Wp88QhPXKeQ 15:57 ArchSeries: an R package for transparent estimation of chronological frequency distributions
+WQrYbvzASqk 21:07 Digital media as an effective platform to archaeological data dissemination
+XLaxmjr4hBg 15:52 From the edge of the settlement to the centre of attention - new building remains from Kleinklein(A)
+jtJpLFZlwFc 14:39 Medieval Oslo’s Masonry Buildings Revisited
+3lRbIIr8Wnw 18:01 Remnants of a Siege – The Siege of Älvsborg 1612 at the West Coast of Sweden
+ArYyEOeLsHU 13:12 Kuressaare fortress (Estonia) as an example of the transformation of bastion fortifications
+YPFTqB1zgJ4 14:25 The city wall in Nya Lödöse
+uJNAhlE_UaI 14:13 The fortifications of Copenhagen: The western boundary as seen at Rådhuspladsen (Townhall square)
+1omF2e9ooZ8 15:13 The Outdating of Medieval Fortifications – The Castle of Raseborg and the Town Wall of Vyborg
+ZVSPRAdEUl4 15:48 Sveaborg (Suomenlinna), an 18th century sea fortress and the importance of water areas
+eheTXPDUGo8 14:09 Prussian, early modern fortification in Pomerania, a result of the Prussian - Swedish struggle
+6jRhEiibhCc 17:41 Breaching walls and sinking ships: the performance of 17th-century artillery
+vY4oJ31jwyQ 14:31 From earthworks to scars of the cold war - 500 years of coastal defence on Gotland
+vRrTkWQcqNI 14:33 The Early Modern Fortifications of Halmstad
+VbQdsuq0-Zs 15:40 The bastions of Christian 4th
+QP7nVVdaR2g 13:29 The Strong Link in the Chain? Jönköping Castle - a Swedish border fortress with hidden defects
+7ZOGUgRdpa0 13:07 The new fortified Kalmar – a work in progress during the 17th century
+5Yh5UQdMErk 17:48 The Fortifications of Gothenburg - A Centennial Construction Site
+3dZ-MugAwHA 14:15 Creating a home. Ritual practice related to houses in a terp settlement in the northern Netherlands
+A-7PdJfvoGc 14:20 Building on buildings: creating a solid foundation for the contextualisation of building remains
+vcaRPYcSoSg 16:55 Family space vs. community space from the perspective of settlements from the Lower Danube Region
+5DoDR-Ri9UE 15:56 ‘Private’ spaces???... Reconstructing the ‘living-rooms’ of medieval castles
+PR5bYMVQAJE 19:18 Understanding household activities: an examination of two Medieval dwellings in Atlantic Scotland
+FTyhDdzcvNI 15:28 Charting the microstratigraphic life-cycle of an early Roman urban property, Roman Silchester, UK
+wSQ-1sYX7qI 15:20 At the hearth. Daily life, and domestic architecture in Early Iron Age farmsteads of Western Denmark
+A10ovJpgunU 10:26 The use of architecture as cultural and socially discriminators in Iron Age Denmark
+YPSQSCEF5X8 11:42 Forres Heritage Trust
+cDhid10wMl0 10:59 Alyth Community Trust
+_iui3qZZE1s 14:13 Am fasgadh Regeneration Company
+I0BcKC7Jl5g 11:02 ONE MINUTE MAYHEM! 60-second presentations by conference delegates
+ZUjuFWi74Ok 23:18 The Historic Township of Glenrea
+Cx4Jqgqfhqk 18:28 The Lismore Nave Project
+tRGp40mclEw 20:34 Damn Rebel Bitches- Scottish Women’s History Group
+2CEguWP7jTQ 19:50 Ardnamurchan History & Heritage
+dCvxvcENZlU 23:11 ACFA Tiree Survey 2016
+XWaplm3n0xc 14:55 Oban Communities Trust
+vBXYCrxDRcU 14:58 Aberdeen Women's Alliance
+i94cAIZeTNA 19:06 Connecting Scotland's Sound Project
+4BLk8LagNMI 12:58 One Minute Mayhem 60-second presentations against the clock
+7adt4b8DWGc 12:33 Community heritage on Eigg
+erbmDanFLk8 16:23 Hillhead, Balbithan and beyond
+I-ZHjnFOxoo 17:36 Huntly Histories
+vTSYpAVQCYw 22:59 The Salmon Bothy and traditional boat-building
+b4KJI73EcJA 15:14 Spittal, Shielings and Stills
+7OcWqLIgKUU 8:20 Summing up Day 2 of Past Forward Conference
+MJty088nqt4 28:20 From interest to influence: How to be an advocate for archaeology
+oqm0K1iqypI 29:50 The MAS, the ASM, the SMR and the HER – recording Merseyside’s Archaeology over the last 40 years
+T5Pwr-Zp4Gs 22:03 Funding outside the box: Lasting impact on the "Other" volunteer
+t9VPBQ7NwW0 32:28 Community archaeology and a new direction for researching landscapes
+XydAtJh8nc8 35:37 Local Research Frameworks for Local People?
+WS-vB9vZXh8 11:33 Summing Up Day One of Past Forward Conference
+QDmHGBCwcHA 21:27 Getting Involved: Community Archaeology at National Museums Liverpool
+TO6LRhj1YUs 33:16 Merseyside’s Archaeology: a short history of archaeology policies and practice in North West England
+63VTsCPjV6Q 31:10 Making Merseyside: Metropolitan identity to localism in an era of public archaeology
+SshCvLZKGa0 20:09 The Formation of the three-compartment rural house in medieval Central Europe
+TuhzIx6n-K0 33:59 Merseyside Archaeological Society - a personal view of the last 30 years
+GVXearTnAT0 16:16 The medieval hospitals of England: a complex issue
+BwYBhlWVLw8 15:57 Medieval Roof Trusses in the Swedish landscape of Västergötland
+lqy4cQHIDZw 23:59 The Old Hutt, Yew Tree Farm and South Castle Street: What those sites taught us
+urhfHfgUJCc 15:15 The Cathedral of Anagni. A case study of the evolution of Southern Lazio in the the Middle Ages
+9Utv0xS5sK8 14:53 The archaeology of medieval buildings in a borderland: a study-case
+x_fDIlVw2M0 17:13 Living on the Edge: Cheshire Castles in Context
+741RJTRYIH8 16:48 Special building materials? The architectural importance of placed deposits in early medieval Europe
+eQICPkUgc7U 15:21 Urban life in an early byzantine small scale house
+QLqRnSppFTI 16:13 The metalworker’s farm. A study of a medieval “bygård” in Oslo
+-ZsIUZeajxc 15:06 Finnish medieval brickmakers’ marks as markers of identity
+CEzfh-sK_bA 19:05 To build the Medieval harbourside of Gammel Strand, Copenhagen, Denmark
+h-QZioSbiuQ 17:03 Buildings, Spaces and Societies: Manorial Sites in Normandy, ca 1050-1200
+j2o_8aZ__Rs 12:45 Iron Slag and the Quest for Provenance
+ny7NEi7qjGo 18:39 ‘Petrified’ societies? An Egyptological survey
+GVBUdpGZZSg 11:24 Iron isotopes as a new tool for ancient metal tracing: comparison with classical tracing methods
+5qQ09hSHkdU 17:31 Elemental and Sr/Nd isotopic investigation of late Hellenistic to early Roman glass bowls
+ca2HhJooxLs 12:56 The potential of large-scale seasonality studies, results from the Farasan Island shellmound complex
+cq6dTLwpygI 9:29 The geochemical relationship between soil, plant and streamwater; implications for migration studies
+RuLB3P0FcgY 13:03 Stable isotope ratios and trace elements in modern mammal tooth enamel
+yZZCYEhA6vY 12:48 Hydrogen stable isotope ratios measured in bone collagen from Danish prehistoric samples
+5h_xiPuwMoA 13:33 Zinc isotope compositions of bone and dental enamel and their relationship to diet
+h84Ee20iJns 17:52 Linked Open Data Approaches within the ARIADNE Project
+88nxvZOL_gc 10:42 Integrating data for archaeology
+4EREynksDYw 28:56 Requirements for open sharing of archaeological research data
+n9yDiK0eC7U 19:09 Beyond the Pale: grey literature as a method of publication
+_qtBH3Bw3nM 13:57 Antiquarians in the 21st Century: Opening up our data
+QX-5ibS3tOM 18:42 Legacy data and archaeological archives in Europe and North Africa
+HdmavQrPgJ8 14:57 Banded flint from Central Poland – new discoveries, new questions
+tLCDamTYAJY 12:05 Production, distribution and use of Final Neolithic flint axes in western Poland
+fm7wjwBNTY8 15:06 Lithic procurement as a social phenomenon in the Stone and Bronze Age in southern Norway
+Tm9fcAXn4nQ 11:47 Double cache – single core: a case of long distance (85 km) stone tool refits from southern Norway
+ZANpx93LGAg 13:23 Differences in the raw material preferences in Polgár-Csoszhalom, northeast Hungary
+U_WmWkhusYk 12:29 Texture and function. The multiple uses of Greywacke among northwest Iberian prehistoric groups
+weiVeqKSZmE 13:28 Provenancing Archaeological Obsidian from Bulgaria
+5f4IdasDkK8 19:31 Obsidian Use on Islands Big and Small: Sicily and others in the Central Mediterranean
+3CJOBwsv_Rw 16:52 Prehistoric dry-stone structures at high-altitude in the Alps: social, economic and cultural drivers
+SxSOPm4UY2g 13:32 Stony landscape, petrified society? Relations between landscape and society
+173exSn3iuc 15:50 Tracing “petrification” in prehistoric architectural processes
+wKn05BbEMcs 15:46 Genetics, Migrations and Language Dispersals
+sLtkv-L0KvA 17:40 The temporality of stone: communities and early sculptural traditions in late prehistoric Iberia
+Y8wzkLKyokc 12:02 The hardness and the eternal: petrification of human images and social contradiction
+YGrZ67mx0tY 14:07 When did eternity end? The so called downfall of Linear Pottery culture
+RGegmAcCf14 15:57 Liquid time, petrified objects. Concepts of historical change in archaeology
+VL9lnrXO3es 27:13 Petrification: a concrete comprehensive diachronic concept for past process comparison
+U3kfPwK8YIw 12:05 iMIS for EAA Communities
+cpA5MF4GKvk 11:25 From Incident to Structure. Possibilities for a network of professional Associations within EAA
+j5HoOfXKBbo 12:43 The working group „Archaeology and Gender in Europe (AGE)”: views on the past and to the future
+X4xlCyPKeNI 14:38 Experiences from the Farming, Forestry and Rural Land Management Working Group
+3ppDRxA5MM4 22:34 Is the Lake District a rural area? - CHAT Orkney 2016
+7g2zN-IkPng 21:27 Archaeology of Environmental Injustice- CHAT Orkney 2016
+qMQU7Lk5I5Y 14:53 Semi rural- CHAT Orkney 2016
+Vedb8r_5_iE 20:16 Rural Remainders, Enveloping Urbanity, and Encroaching Wilderness
+btRlaHl7Dfw 19:29 Forestry Cairns and Rural Lifeways: Adelphi State Forest, Cyprus
+tyrl63lw9pU 20:17 CHAT Orkney 2016 1(4) Matthew Edgeworth - Constructed Rurality
+QVJ_5B1TYC4 21:11 Rurbanities: Recording Rural Urbanities
+gMPdILd30nk 19:37 What Lies Between the Trees of New York City's Idyllic Rural Watershed? Artifacts of Urbanization
+kggcrsRIZZg 15:21 Race and Gardening in the African-American City- CHAT Orkney 2016
+oTjTsNQlMaI 22:27 Living the Good Life in Leicester, Environment City- CHAT Orkney 2016
+x5MFedZb8Io 19:56 Walking Backwards - psychogeographical approaches to heritage- CHAT Orkney 2016
+LM43-tEh74Y 22:21 Distant reading of storied lines: tracing tendrils of agency across 18th century Iceland.
+MEPEn3_NzKM 21:30 Ultima Thule – St Kilda and Pabbay. Two remote landscapes in the Hebrides
+PV-BS_yemJE 23:03 Terraforming Arcadia: An Archaeological Perspective on French Wetland Agriculture in Nova Scotia
+o9_Llp6XRgM 22:27 CHAT Orkney 2016 Session 5(1) Jobbe Wijnen - Think big and think pig
+8WK7ync3mWo 21:22 Access All Areas: Metal Detecting and the Mediation of Rural Landscapes
+bo7clCjB7pA 22:38 CHAT Orkney 2016 Session 6(3) Amy Woolvin and Fiona Smith - Landscapes through walking
+nrSw7S3GThA 21:32 CHAT Orkney 2016 Session 6(1) Alex Hale - (re)remembering rural graffiti art
+or79lY71h3E 25:00 The Bennachie Colony: On migration and rural stereotypes in 19th Century Scotland
+u2KuguR-OPI 20:48 CHAT Orkney 2016 Session 6(4) Mike Pearson - Deserted places, remote voices: performing landscape
+3GayIq50y-w 22:05 CHAT Orkney 2016 Session 7(1) - Bob Johnston and Krissy Moore - In Ruins? Militarisation
+rmctu8x3BEM 18:56 CHAT Orkney 2016 Session 7(3) Julie de Vos - Rurality as repression
+tkvh98rD8zg 17:06 CHAT Orkney 2016 Session 6(5) Oscar Aldred and Gisli Palsson - The 'roots' of connectedness
+zEiQYX8uPwI 20:50 CHAT Orkney 2016 Session 7(2) Gina Wall - Spectral Encounters
+Q7pwQr4Jrvk 19:30 CHAT Orkney 2016 Session 8(3) Gareth Davies - Change and innovation within valued rural settings
+crcqDK3AZhI 20:49 CHAT Orkney 2016 Session 7(4) Rupert Griffiths and Lia Wei - Re-interpreting rural margins
+dvOaNyJxafo 23:24 CHAT Orkney 2016 Session 8(1) Linda Ross - The 'white heat' of technology
+TD1g_uQHxYg 17:35 Imaginaries of ruralness in the construction of tourist space at an industrial World Heritage Site
+NafmCW6-KtM 18:44 Hinterland: rurality, community and heritage in Ceredigion
+nwKq1TxPsUA 23:45 CHAT Orkney 2016 Session 8(4) Alec Finlay - A Primer for the Archaeology of Energy
+AMdjByGDW8c 16:05 The Place and Importance of the Working Parties & Committees in the EAA
+KwiBXZHf3qg 20:58 Digging Around in the Graveyard
+u1Yt5mUIsZA 16:52 Dunfermline’s New Museum
+Jx9qNCkq0Vg 30:53 10 Fun Things for Children to do in a Graveyard
+oiHCDLrlmGI 21:42 Forgotten but not lost: The Achavanich Beaker Burial project
+Fg81VLRzRag 16:52 Feast and Famine: Excavations and monitoring between Guardbridge and St Andrews
+4IqsoDoGcb8 19:44 The Kilrenny, Anstruther & Cellardyke Burgh Survey
+ghv62bna_XM 18:33 The Construction and Reconstruction of St Drostan’s Kirk Markinch
+va080RDPZco 15:52 Tales from Tullilum: continuing excavations at Whitefriars, Perth
+YwfXyetpvWo 28:47 Early Historic Turf Longhouses at Lair, Glenshee
+plcXXcbl8dI 30:27 Six hillforts on the Tay: from source to sea
+z7vdbroXskU 28:39 SERF 2016: Excavations at Millhaugh
+K44OCuw8a0c 39:03 Kilmagadwood urns finds
+aPvEnishBrs 21:43 CHAT Orkney 2016 Session 8(2) Louise Senior - Flows of influence
+oYy9l9k-wdw 7:48 Adopt-A-Monument Celebration Day - Tommy Lawton Presentation
+Kw4aDxW-e_c 11:41 From Field Walking to Funding Awards: Our Journey with Adopt-a-Monument
+D2_HOUZ10yw 18:38 Top Ten Tips for Collaborative Projects - The Torwood Broch Adopt-a-Monument Project
+5SmLcP1F_Ao 13:23 The Mulchaich Adopt-a-Monument Project
+-0ggja0gXm8 22:26 A View from Historic Environment Scotland
+Mq1kBINaMmU 18:18 The Carn Glas Adopt-a-Monument Project
+jdbHkcKMxVk 9:58 'Working with Adopt-a-Monument on the AHRC Funded ACCORD Project
+knr7Gd0fB0E 14:54 History of the Adopt-a-Monument and its Impact on Archaeology Scotland
+t7FhTJV_V6s 15:17 The swatch of antiques bronzes
+QlOo5qoOpOI 14:39 Aspects regarding the production of neolithic pottery based on an experimental archaeological study
+z481zM-H1S4 13:49 Prehistoric drilling and bead manufacturing: Experimental approach and cognitive insight
+9CCsY8hlYmI 14:23 Research, experimentation and outreach in the early Neolithic site of La Draga (Banyoles-Spain)
+LhZTTYdNTJI 13:51 Microwear analysis on early medieval combs
+us5nAfAbSWg 11:43 Experimental archaeology in Latvia: some aspects possibilities for the future development
+uF9RoTvxRSw 12:44 Six years of experimental traseology at Klaipėda University: accomplishments and future prospects
+nKXGj9iax2w 9:25 Teaching Experimental Archaeology at Vilnius University
+BPOM5oPW9bs 9:13 Testing twined clothing in Mesolithic
+oorjsWARe0U 21:48 The “Arty” Way - Dutch Approach to the Presentation of Archaeological Heritage
+NOHC3Xge_eg 16:06 Using Archaeological Reconstructions for Outreach and Community Engagement
+Twanhue7Leo 23:52 As Planned, as Built, as Found: Reconciling Written and Field Records at Ksar es-Seghir (Morocco)
+xRshLes7LVM 16:43 The Art of Perception in Archaeological Visualisations
+w0miJMnlmnw 16:40 Illustrating 8,000 years of environmental change and human impact in the Areuse River Delta
+2g5UPxBBmcU 15:43 The Reconstruction of three Roman Houses at the Archaeological Park at Xanten (Germany)
+MlKdfQd6gh4 13:33 Turves and trusses: reconstructing an early medieval building tradition in the northern Netherlands
+OE5X6hns4Ao 20:07 Rocking the Cradle of Scotland
+RNyUMOt4fDE 15:01 Reconstructing the Past
+3bJ21hEnBYU 14:49 WAC Indigenous Plenary - Dorothy Lippert
+y9wiq-dA6E4 13:32 WAC Indigenous Plenary - Aulii Mitchell
+mKrK9GDKjyo 10:26 WAC Indigenous Plenary - Sayed Gul Kalash
+wGmVPWSXmT0 16:58 WAC Indigenous Plenary- Paul Tapsell
+HfEqK3tCrYo 21:31 WAC Indigenous Plenary- Tadashi Kato
+Cxgaj2EcHkY 4:10 WAC Indigenous Plenary- Koji Mizoguchi
+jmXg1Jv9YoY 8:59 WAC at 30: Give the Past a Future- Glenn Summerhayes
+suwgcwTM3_M 13:31 WAC at 30: Give the Past a Future- Mónica Berón
+Etfib7FFDzo 12:09 WAC at 30: Give the Past a Future- Ndukuyakhe Ndlovu
+IkHHXrGqeGI 8:39 WAC at 30: Give the Past a Future- Catherine Frieman
+xomjidSauoY 12:07 WAC at 30: Give the Past a Future- Diane Gifford Gonzalez
+6yyRRMXPan0 7:37 WAC at 30: Give the Past a Future- Jean Bourgeois
+mzPA0Ks29d4 23:41 What does archaeology have to offer (Today)? Archaeology, creativity and technology to empower
+i-Ej589fi30 9:06 Young Archaeologists Club: making a significant and positive impact on the lives of young people
+EnT1lIw7rUg 32:42 Achieving And Evidencing Social Impact In An Archaeology-Based Widening Participation Programme
+-ke5zLMWo6Q 21:39 Diversifying The Future Of Community Archaeology: Ethnicity, Disability And Affluence
+n6fdLqQU7nA 14:49 Informal Education As A Means Of Social Integration
+iiAYZye7jiY 19:43 Towards a narrative-based analysis of landscape development
+6Hme4xlEaTQ 25:12 The value of ‘informed’ rapid identification surveys in the assessment of the heritage impact
+FI4m8QiSQsI 18:58 Landscape archaeology in the recent past, present and near future
+MYopVVOA8RM 17:16 View from the coalface
+GcNXVaxRVeg 22:54 Bronze Age fancy footwork : Archaeology, schools & Bristol Museums
+TehrJakTFNc 19:00 Danebury and the Andover Museum of the Iron Age: the impact of the new national curriculum
+MdXjEwTIXxU 7:56 WAC at 30: Give the Past a Future- Koji Mizoguchi
+tlAVFmfbo0M 17:16 Teachers and archaeologists working together
+x_W3lpLYW_A 21:52 Archaeology and Classics in the community
+eNG8EppVlBs 17:57 Giving teachers the tools to engage with archaeology at Durham University
+aXglFclc8DU 16:59 The outdoor classroom: using the historic environment for interdisciplinary learning
+w78gBOpv2ik 51:27 Chartered Archaeologist Q&A
+vmchK-UzH7M 20:16 The information archaeologist: learning skills from context
+GezjeXS1hVs 26:41 Ancient ales and extreme beverages: an interview with Patrick E. McGovern
+N4_VLqEVW_0 16:33 The Old Brewery
+uHP9HU93Azs 7:56 A manifesto for the archaeology of brewing?
+j1PlCJB5NJg 29:07 Old and new brews: the archaeology of brewing in a New Zealand sociohistorical context
+rimdvVxMSb8 25:42 Beer as social phenomenon
+nOabeXu2ZME 26:25 The application of structure-from-motion as a documentation tool in forensic archaeology and beyond
+-TBnUN2ClrI 37:20 Cloud atlas case: how 17th century actions led to a conviction in the 21st century
+osgvX6UhjKA 29:47 The Building Cost Information Service and its applicability to commercial archaeology
+EdfAviiXIxE 25:17 What is a Professional? the view from the ground
+KuPtPEsPizs 21:43 On the right road from the start
+okmu_DB6bQ4 33:43 Remodelling the market: improving professional practice, understanding value and risk
+6-9Mz6BfoHY 24:25 Stewarding Scotland’s coastal heritage at risk
+ijVyun-0OPg 20:14 Enriching the list: crowdsourcing, public engagement and protected heritage
+jwkG4EERj8w 19:02 A Friends’ Group: Impact on participants and sustainability
+pohBD5gAXVQ 21:44 Creating an archaeological community – the Greater Manchester legacy
+efCp7dUgoZw 19:49 Archaeology Scotland’s adopt-a-monument scheme – twenty-something years of community led stewardship
+zgb6HJIgmfA 14:05 Closing of WAC-8
+83FTIy_npS8 14:38 Doing archaeology in the UK – consultants and contractors
+yY1upvl4Vpg 16:50 A contractor’s dilemma: archaeological regulation and ethics in the United States
+HA3iBZv0r9c 12:19 Is archaeology worth regulating? Challenges to professionalism in the UK
+cWpUXNkcHzE 31:51 Advancing archaeological professionalism in the US: the Register of Professional Archaeologists
+i-n8Sfz8JhI 20:55 ScARF: Knitting together the Scottish Archaeological Research Framework
+7AT__2aXg7o 20:04 Public-funded archaeology in Wales – the past, present and future
+2pCfNLdBwOQ 19:54 Powering the heritage research cycle – developing ways to improve access to information
+kS_0LzgJl-A 14:10 People, place and time: approaches to the historic environment and HS2
+DQorDQb6skA 22:32 The importance of partnerships in non-commercial archaeology
+MaUcu_0FU6g 15:06 Quay Meadow 2015: Trowels and tribulations
+cGPE3iMB9eo 27:22 No strangers to blue water
+MJKnKRJqAcQ 19:21 Embedding practitioner skills in undergraduate learning and teaching
+Samcbsxxtl4 15:44 All plain sailing? Challenges involved in community archaeology projects
+pxBmOHgvmNI 14:36 Can we ‘future proof’ community archaeology?
+q99AypqqVEE 11:54 What do YOU think community archaeology is? A definition from the bottom up
+p8Q-P5o2PzI 12:54 The significance of historical research to participants in 2 community archaeology projects, Wales
+J3zOXdREcgk 11:16 Assessing the value of community generated research
+Y3wcXaubE_Q 18:59 Training the next generation of archaeologists: how a smaller company can do it and why we should
+EF1xmGD3deY 28:08 Training case studies for archaeology
+2CvNrJ8vpQs 20:35 An exploratory use of 3D for investigating a prehistoric stratigraphic sequence
+3lF9r5ble_w 21:28 Wet Wet Wet – Maritime archaeology skills training
+AL76pvI-KKw 20:53 Vocational training within the commercial environment: the trainee scheme at MOLA
+a8bc5hgKCvc 20:47 Representing Archaeological Architecture―RAA
+G4XYwHBaULU 20:01 Virtual Cilicia Project: Digital globes for communicating digital archaeological heritage
+bmIJX0y0eEE 15:49 A virtual reconstruction of the sun temple of Niuserra: From scans to BIM
+iAfe5eL51qU 21:03 The building survey of Kaasan Church
+hUerrBGtkLs 11:51 Integrated methodologies for knowledge and valorisation of the Roman Casinum city
+acG_cOCrQVo 16:03 A new approach for the study and presentation of an archaeological context
+rXJTYdpdl60 16:20 Digital Archaeological Dissemination: Eleniana Domus in Rome
+GXV_oYEjaEs 18:23 Can you analyse that? Fitting simulations to idealised outcomes for the origins of farming
+nVAK6ovom-k 19:37 Content or context? Model selection of settlement growth models using entropy maximization
+SNhV0m36aTc 13:08 President's Opening Speech at WAC-8
+wdOYFZrvOBc 20:33 Evolving hominins in HomininSpace─Genetic Algorithms and the search for the perfect Neanderthal
+0A0d-3TMWMI 21:58 Everything seems possible: Exploring the parametric space of a simulated prehistoric scenario
+ww7-h7GEbIM 24:32 The emergence and process of formation of the La Tène cutlture settlement system in Upper Silesia
+52fnrqYVqa8 21:16 An agent-based empirical model of collective seasonal hunting
+wqjmfy_Impg 18:16 An agent-based modeling framework for Out of Africa hypotheses
+E2EYNvNQ4O8 19:44 Economics and demography of the first farming expansion in the Balkans
+3xwtmq1OnIw 22:41 Examining the spatio─temporal boundaries of the Guaraní expansion into the La Plata basin
+fWarjQlMFSY 18:00 The versatilist’s story of human dispersal
+RmcP4z-MOzs 21:37 An agent-based approach to weighted decision making
+0A1S3xkFLm4 21:31 Reinforcement learning for decision making in agent-based models
+yZieVsQYXVA 18:59 Simulating archaeological landscape formation to understand late Holocene population dynamics
+f42XdqdzclA 19:53 Agent-based modeling and complexity science: The next step in archaeological theory?
+ie4D8LJ3mNo 18:36 Assisting detection of rock art on lichen covered surfaces using photogrammetry and 3D modelling
+nJb6xgO0ce8 19:49 Ex-situ preservation of exposed painted rock art. Applying photogrammetry and color manipulation
+VY5FWHjBEEw 22:25 Documenting facades of Etruscan rock─cut tombs: From 3D recording to archaeological analysis
+wOm5dNRE-bU 21:35 Epistemological considerations on image-based 3D representations
+XinJEpjgBK0 16:52 Obstacles and (hidden) opportunities of magnetic prospection in challenging environments
+7wABtIMccYY 20:41 Looking through the rocks. Geophysical research on the agora of the ancient city: Nea Paphos
+RufysvQCxlc 21:29 Understanding contrast at Busayra: Geophysical surveys of an Iron Age settlement in Southwest Jordan
+d_jZ_a5aajs 25:20 Magnetic geophysical prospection on prehistoric iron production sites in cultivated contexts
+mPd1K4RI0QA 17:06 Geometrical and planar graphs in ancient iconography studies, a heuristic tool
+UoaOOEGxTbY 18:20 Least-Cost Networks and Network Analysis: Modelling trade relations in medieval East Central Europe
+cu_aeIXmhHE 19:39 Wine trade from Roman Crete: Onomastic─geographic network analysis
+W_yXXzK529g 19:47 Exploring formal SNA approaches to funerary contexts in Early Iron Age Italy
+Z9Ls46e4coY 22:22 A guide to good practice for archaeological network science
+I_bk2qdBeTQ 25:04 Being there and then: Introducing Cultural Presence in Virtual Archaeology
+FWO1FgtwUxg 24:57 The apparatus of digital archaeology
+MZiDCuSE51Y 21:56 Digital interpretive technologies: A way into difficult heritage in the Middle East & Central Asia?
+inCFCZfcQeo 20:55 The lives of digital machines: Evaluating the significance of historic computing machinery
+hdfrJtBmQoA 23:06 Communication in archaeological fieldwork: Responses to a digital workflow
+C3K3WsP_paI 21:54 How raw is raw data?
+Bz0DLyRpKgI 8:55 Lived experience and digital approaches
+qXKiESzg7ag 27:19 Theorising the digital turn in archaeology
+MyXQXBuRLhQ 19:42 Sustaining community─sourcing platforms for heritage management and conservation by co-creation
+yny367X3oMQ 16:41 DOMUS: Cyber─archaeology and education
+jQJR6PivSSc 17:24 A plea for (non-mathematical) reason. Rethinking the use of computational methods in archaeology
+SBqUZ25PqCo 17:07 Photomodeling and webmappingn on archeological site of Carthage
+wSCtrq_JMFM 20:55 Rekrei: A public platform for digitally preserving lost heritage
+0oHaONM7JdE 23:13 A 3D visualisation approach to the functional study of Early Upper Palaeolithic grinding stones
+7LWl2Cn1NTo 23:58 Using Google Earth applications to enhance public engagement with cultural heritage
+-xx3NyGvcMk 24:06 Experiences from the re-reading the British Memorial Project
+0zEEHdd66Zg 14:31 From survey to 3D modeling to 3D printing: Bramante's Nymphaeum Colonna at Genazzano
+16OLm8u12c8 9:16 Reconstruction of Koch, Russian rowing/sailing boat of the 17th century
+g0YaWDrl5qI 19:28 A comparison of methods for creating 3D models of obsidian artifacts
+fF0IJpkabKY 14:03 Application of Computer Vision algorithms for automatic classification of archaeological artefacts
+VV2ep-yficA 20:24 A machine learning approach for 3D shape analysis and recognition of archaeological objects
+2uobS7rymNI 11:17 Automated heritage monitoring software prototype implementing 3D technologies
+QYJTEsq_e6g 18:30 Auralization: What can acoustics tell us about digital lived experience?
+gIaBP8uYztE 26:04 A review of the use of 3D printing, touch tables and virtual environments to engage the public
+QNdffSaPl8Q 18:41 From the largest to the smallest: The use of the latest technology in digitalization of the objects
+arHrJhEOOWU 11:02 Fancy doing some networks?
+e_r5QUt027Q 14:30 Building on expert advice to create an informed model
+ptOpca-j1VA 17:04 Validation: The painful moment when the model meets the data
+RyC31tJBs8U 12:46 Proof of concept: Verifying ABM with analytical methods
+5VkO_Rnm9zo 13:24 Lessons already learned: Drawing from the best software practice
+vZ3JjAEiy0E 1:42 A fuzzy illustration from the 2014 Scotland's Community Heritage Conference
+zpXLyEzP9Gw 10:50 ABMs, because they’re worth it? Alternatives to our favourite method
+Eh_fihjAM4U 15:23 Models: ‘Small and elegant’ or ‘complicated but realistic’?
+McCjFjvQzxU 11:19 Simulation as middle–range research
+CuqUGtBLWnQ 27:00 Model selection: What is the ‘best’ model?
+vJYb9yOUmzY 13:31 What is complexity theory and why should we care about it
+XGuDB_VTukM 16:16 Why Model?
+2A_KnoD90xc 15:54 Vertical aspects of Stone Age distribution in Norwegian high mountains
+HU8yDwRXXxc 19:07 Management of raster data and their dynamic visualization within the ROCEEH─ROAD System
+68bQakQOGH8 23:08 Endangered archaeology in the Middle East and North Africa: The development of a spatial database
+KzeYUNfrcnE 15:59 GIS-based data integration for mapping paleoenvironments
+QN1ctC1y_wc 27:06 Transport and trade: An energyscape model and transport network approach for trade in Roman times
+cckbg95zC2E 19:10 From sea to land: Reflections on freight traffic during the Iron Age of Northeastern Iberian
+_m5XMYaVuWE 9:51 The need of topographic restitution in local mobility analysis
+5539uZSpCAI 14:24 Testing the validity of network analysis results in research on local transport networks
+5f0yPwtiXeQ 18:36 Comparison of regional and local transport networks of stone-walled structures in Gauteng Province
+RJm3WpTNFh8 21:56 A network model for the evolution of terrestrial connections in Central Italy (1175/1150─500 BC ca)
+1SN9AjBO6Do 18:06 Archaeology in the GIS portal of the National Heritage Board of Poland
+F2bvyHsg_Tc 23:38 Historic Building Information Modelling
+fm144S_Sbyo 19:02 Digitalizing the Archaeological Process in Sweden
+1MhMLCQyV_0 23:51 Switching to digital tools. Archaeological heritage evaluation for preventive archaeology in Hungary
+7K2WY9N1J8Y 23:38 Archaeology and Geohistory: building a multi-user platform in the Brussels Capital Region
+Jkx5aGMoyeY 19:41 Saving Treasures: The DANS digital archive
+msfbcIM_yTE 20:01 Current state and future visions of virtual research tools in Czech Republic
+Ht6jzts9eSc 20:57 ASA: an Open Source WebGIS application for Albania
+y8fb34f1eFI 19:00 New opportunities for access to cultural goods by the Hellenic Ministry of Culture and Sports
+WwsWcj0mSqs 14:56 Rediscovering the Barrowburn Mill, Coquetdale
+PBsaP2_Olm8 19:08 Beyond the Wall: Life and Death before and after the Romans
+va2_Hx4cscs 25:55 Shootinglee: Hunting lodge, Forest Stead or Toun- survey and excavation
+o2__RBTp1sc 31:13 Peregrini Lindisfarne Community Archaeology Project
+g2a1rn-eccQ 28:25 More Progress on Bullets, Ballistas and Burnswark
+twkqs2SBFuc 23:33 The Black Loch of Myrton: An Iron Age 'loch village' in SW Scotland
+MjqfafAvIn0 20:48 Recent archaeological measured survey in the Tweed Valley Forest Park
+3DBXST9LDEE 23:55 Ways to Flodden, 1513
+Cnd7FalUYVg 27:22 Sculpting the Past: Exploring the art and history of George Sutherland & Sons, Sculptors
+11ig4FBqSus 18:28 Come Together: Recent Work by Adopt-a-Monument in Southern Scotland
+wsN0nFIWDyg 25:59 The Underexplored Archaeological Riches of the Borders
+TI2aTcgvbX0 16:43 Application of New Digital Technologies in Archaeological Heritage Management in Hungary
+4InQSmD0c40 14:56 On-site presentation of the invisible prehistoric landscapes
+hFMKaV8N6lI 27:51 3D Icons project, and 3D Icons Ireland
+n89uqFqQJgU 18:49 Why the historic environment needs a Spatial Data infrastructure
+1-880BL3eQE 24:22 Long term data preservation and re-use: the work of the Archaeology Data Service
+-zZp67pKFjg 16:59 Survey2GIS - A flexible, open source solution for transferring survey data into GIS
+aIwK_PFIUOQ 17:26 Environmental archaeology: theorising the ‘wild’ in contemporary archaeology
+yWdczq-0FxU 14:43 Following my own path: middle ground social zooarchaeology
+AjCOlliR7kM 15:03 Ultra-sonic research on submarine hulls
+wSNTU1AgrCo 14:12 Non-invasive archaeology in the Republic of Moldova
+SD_N6USzw6Q 18:29 High resolution remote sensing data and the mapping and analysis of the archaeological landscape
+Pc9pqYOmq6s 25:09 The Rae Project: Digital Documentation of a Nation’s Heritage
+5Wt3MizGsiw 25:21 Pelagios Commons: Decentralizing the Web of historical data
+8q4RyWSXPGc 17:53 Where is the House of the Dwarves? Enhancing granularity in the Pleiades Gazetteer
+R1K6DMqmL-Y 17:51 LOD for Numismatic LAM Integration
+msDK7pobuwE 22:13 When data meets the enterprise
+E1pZD1lCnYQ 16:36 Linking periods: Modeling and utilizing spatio─temporal concepts in the chronOntology project
+FefUJdLlLpg 17:41 A Linked (Open) Data hub at the Norwegian Directorate for Cultural Heritage: A case study
+Z7xEWbaPMPM 24:33 The Matrix: Connecting time and space with archaeological research questions
+gzRn4Xd6c8I 21:03 An ontology for a numismatic island with bridges to others
+i9JaRG43P1U 15:57 Commercial environmental archaeology: back in the dark ages or a potential agent of change?
+5GOPG1O9ev4 14:57 Beyond extractive practice: bioarchaeology, geoarchaeology and human palaeoecology for the people
+qd8M1OlvP3M 14:41 Geoarchaeology: a framework for cultural heritage often ignored
+SvEOUJF38Oc 12:48 Who cares about bones? The relevance of social zooarchaeology to wider archaeology
+YMojTZKbwSw 19:26 Environmental archaeology – a laissez-faire approach
+e71LJe8NcO8 33:17 The experience of an early career archaeologist
+OVBEW_9diiM 11:06 Rules of engagement: a student perspective
+pCfDKMqhg40 20:30 Kids In museums
+diVWHTjEl3A 24:04 Archaeology for all – even young people!
+9LldTAcyejE 20:31 CITiZAN: Young people and a national community project
+SelGTXyZ-iw 0:37 The British Archaeological Awards 2016
+2KceiLhUupE 15:07 Bodiam Castle and Longthorpe Tower: elemental readings of later medieval building design
+555VYvW3HTg 19:51 Scientific fields? Medieval peasants, sustainable farming and elemental theory
+9troIslQOaA 18:43 The Medicine Tree: pollen analysis as a window into the elemental world of Tibetan Buddhism
+E8WlklLNxxg 17:39 The slightest elements of material culture
+DWPNlng7dlw 17:15 Getting a sense of humors in zooarchaeology
+EuLEnKnQCdo 13:47 Elemental theory: a dummies’ guide for archaeologists
+0xX6rHiqodA 14:46 Food, identity and humoral theory in early modern England: a case-study from Leicestershire
+X9oSPq_JPJg 14:43 Art as data: Studying corpses by drawing them
+BltNSQhiBOo 19:21 The Maker’s Mind: a perfect circularity
+bI078kRfqm4 18:04 Crafting contemporary heritage: perception, performance and thinking with greenwood
+ATAkh3ZHVmc 25:25 The Pallasboy Project
+o66wWwC6IpQ 16:23 Imaging time in the fine art/archaeology interface
+2ihc2g7aDkw 17:54 Mapping sound: creating a synaesthetic landscape
+PMEtdPgwef0 20:17 Introduction to Rethinking the Archaeological Map
+X-ZcPvM6MNU 19:56 Mapping risk: new visualizations of maritime networks in the Aegean Bronze Age
+kj3zMDSSmns 21:20 Challenges and opportunities in the interdisciplinary study of religious relics
+1r0dFKiaugM 23:41 Rethinking the conversation: a geomythological deep map
+Gf94U-Kmtug 27:59 Text and matter intertwined. Testing interdisciplinary on the case of inscribed stirrup jars
+zG3hCvIaJjA 25:27 If the (concealed) shoe fits: The logical pairing of archaeology and folklore
+enaxDruVs-c 23:02 Automating causal explanations of observed features using temporal planning
+GAMRruT31xU 24:36 Consuming pasts: a storyteller’s take on taking
+zSnNNlnZcH8 14:21 Philosophy and archaeology: an underrated relation
+2RlkNxbTp7w 21:50 The ultimate post-excavation experience: fictionalising La Hougue Bie
+ggBgOmrJGqk 20:58 Ambiguity and omission: creative mediation of the unknowable past
+Q1C5iR85OtM 22:07 Try walking in my shoes: empathy and archaeology
+Pq2-VABekJw 20:14 Imagined realities in the portrayal and investigation of the British Mesolithic
+WmDcdFlVC_k 18:51 Writing wonders: poetry as archaeological method?
+SyvJ4Km6HxE 18:33 Interrogating a new discovery of figurative early prehistoric rock art from the Lake District
+lYEp2WYO-ac 17:02 The cornflakes of prehistory: the nature of fact and fiction in archaeology
+_CrkaJ73rSE 18:42 Producing petroglyphs: the image and the technique
+kocHlELwcHc 15:29 The Manchester's Improving Daily Project
+ghuOzOjnsps 22:30 Tyrannical Tales? Fiction as Archaeological Method
+ZRSw1ga57OU 17:30 The importance of colour within prehistory: identifying colourscapes within the landscape
+n170RZKWgs0 17:34 Introduction to Heterarchies or Hierarchies
+FbFB0EGXJU0 18:21 Messy materiality take 2
+6IVrySU4Ng4 21:28 Scottish hillforts – hierarchies or heterarchies?
+5rrQvlcFFYs 20:19 Heterogeneous heterarchies? The dynamics of power in the Iron Age North-western Mediterranean
+xUx1jmOJ5rg 18:21 Making meta: towards ontological heterarchy
+cXy2-etUERo 22:50 The significance of the landscape: towards a non-hierarchical approach to heritage protection
+NtbuzA3Djl0 14:18 Institutionalization as a form of social organization
+Y3IeNYjKFlA 21:59 Hierarchies or heterarchies of settlement and social organisation in landscapes
+jMB3-Yv9M0M 20:10 Inclusion and therapy: archaeology and heritage for people with mental health problems and/or autism
+mEF7n1_PJKs 18:53 An out of the box perspective on archaeology and heritage as contributors to dementia care in Europe
+2k23Yr5lfKk 18:07 Are you OK? An exploration of suffering during archaeological fieldwork
+QEpZOUhB1H8 21:06 Myth, materiality and mental health
+evBCSy4USVE 18:58 Are museums in the United Kingdom less objective as a result of the 2008 recession?
+83-9p5a8MMc 26:15 Can digging make you happy? Archaeological excavations, happiness and heritage
+Y9qkyfT2BAM 1:21:49 Modelling the prehistoric spread of plants, animals people ad ideas
+OQPAu2uC464 16:02 Funding, community archaeology, and understanding everyday life in Roman Cumbria
+VyKwFXc9fD8 21:46 Transmedial archaeology: a deep map of regenerating narratives.
+Vs1He5estTI 21:42 Poachers and gamekeepers: Palaeolithic archaeology as a niche market in the commercial sector
+x4HQKPJN7mU 24:05 Magic kingdoms and heterotopias in Hertfordshire
+Y-izNtxt_Es 14:30 Follow the money: who funds UK archaeology PhDs?
+JqDi87ATYN8 23:31 Religious and allegorical iconography and the production of medieval space
+Yj3R1pdDDvk 25:44 Assembling urban space: an exploration of Medieval town ‘planning’
+8Rh3bVlEunI 24:00 City-states in early Medieval Southern Italy
+uR19t2QHAlQ 21:00 Analysing space in the Roman world: a new model
+CpJ3HrPfiOU 13:19 Contrasting the influence of factors shaping the spread of early farming
+224M1a-WlRY 21:28 Competing against the status quo: Are we building digital orphans?
+PIGUJ5NHkx0 22:12 Practices for archiving, management and visualisation of Structure-from-Motion data
+PWKXXq8sS9U 18:31 Agent Based Modelling in Archaeology- When Will It Get Complex?
+Xm9klg_NSAU 12:31 Interactive navigation and visualization of digitized archaeological excavations
+geLD7Fo6crU 21:56 The Matrix Reloaded: Explorations in Directed Acyclic Graphs
+1pVLMzTwZhY 22:52 The Embodied GIS. Using Mixed Reality to Explore Multi-sensory Archaeological Landscapes
+Zm8jb4jtV5Y 1:34:58 ‘this house believes that archaeological resources are not finite, and are renewable’
+iBWoR3pr7s4 14:21 How networks and Metapopulations can help us understand the Lower to Middle Palaeolithic Transition
+QlWY3fcTGZo 13:14 First results of assessing the time cost of moving through various terrains
+8ilUfnuWaY8 18:49 Quantitative Route Analysis and the Construction of Route Models
+E5SKZjfqTd8 10:38 Missing Data and GIS: A Case Study Using Romano-British Metalwork Hoards
+QyE2xN-BVNU 21:36 Expense vs. Effect :An analysis of selected variables that affect the production of cost surfaces
+1b432DpgQRE 19:47 The way that I field: analysing field system morphology using GIS
+GjFmohOcErk 23:01 The potential futures of drone recording in Archaeology and Cultural Heritage
+7Bmb2tU8gyQ 16:36 Seeing things differently. The use of combined geochemical and geophysical prospection techniques
+_VyYd51KJps 16:46 Community memories and virtual reality: the 3D reconstruction of St. Mary Bishophill Senior
+kvAxxcGJ3KA 4:06 Projects and groups to get invovled with- Scotland's Community Heritage II
+adJ-GqYtjYI 6:50 Projects and groups to get invovled with- Scotland's Community Heritage
+YHLFNNNjPdw 1:27 Scotland's Community Heritage Conference Mural Timelapse
+-3Ye2mJCi0g 19:45 Engaging the past in the present: ethics, challenges, opportunities
+vnSHhg8WFE4 6:33 Closing Remarks of Scotland's Community Heritage Conference
+GO7b9x_W49I 18:25 Glasgow Necropolis: the burial place of those who made Glasgow ‘The Second City of the Empire’
+PEnUDxft6qI 17:54 Eaval – archaeological field survey in a remote area of North Uist
+aOhOiEZZcrg 19:44 Oral History = Community Heritage
+4c-N04kataU 18:13 Figures in the landscape
+yRAKxPwAAag 10:26 Minute of Madness at Scotland's Community Heritage Conference 2015
+xyg6Sd_4MbY 19:23 Bennachie Landscapes Project
+WYvDwyxwMF4 19:03 Ballintoy’s Hidden History – a community project
+39KAWaevTl4 21:32 Ethnic origin of past societies and contemporary land affiliation
+QqMSPVLxhyQ 16:04 Race along the Dnieper – The rivalry of “Einsatzstab Reichsleiter Rosenberg” and “Ahnenerbe”
+kL-YkZh97Dk 16:18 The research of German archaeologist Robert Rudolf Schmidt in Croatia (1938-1943)
+yaVfZ8PdSlo 9:00 Introduction to The Legacies of Nazi Archaeology and Their Impact on Contemporary Research
+FMMrz0VV-vI 15:21 Ernst Sprockhoff and the development of German megalithic terminology
+U_-1kgL5eZQ 2:36 Interview 2- 2015 EAA Conference
+Uq4Sea0qSBw 1:08 Interview 1- 2015 EAA Conference
+-yxz1hYL4g8 3:03 Interview 6- 2015 EAA Conference
+59ttvdBkihI 2:56 Interview 8- 2015 EAA Conference
+6IQVQ9UD6Ew 3:05 Interview 7- 2015 EAA Conference
+CZzPL-3Ju58 3:28 Interview 3- 2015 EAA Conference
+JYo2Ik7DqNM 2:29 Interview 5- 2015 EAA Conference
+m3vr4nYO38Y 3:39 Interview 4- 2015 EAA Conference
+2ExknY4wk-g 4:16 Conference Tips from EAA 2015
+4F1xB-Nq2x8 2:28 Interview 9- 2015 EAA Conference
+INQ21dN4Kq4 8:07 Interview 12- 2015 EAA Conference
+N620VQL0KcQ 3:38 Interview 11- 2015 EAA Conference
+fgaY2FXtxg8 2:50 Interview 13- 2015 EAA Conference
+sZW6ZpXcUMw 3:04 Interview 10- 2015 EAA Conference
+pJNB4Do0K_0 15:26 Living History and the Public in Mitterkirchen, Upper Austria
+ObyHo8hzaog 22:20 50 years of “Past Family business” between Experimental Archaeology and Living History,
+cMhGuOSx00M 17:30 Reenactment of Gallo-Roman religious practices through Living History
+kEUnMWh6RUI 17:27 An educational role play
+zvYc1XD27xQ 16:19 From Spectator to Partaker - Changes in Visitors to the Past
+IgsGXPCtg5Y 10:48 Historic Environment Scotland- A brief review
+Guo77Qfoxyw 19:46 The Hunt for the Hidden Fort –results of excavation at Moncreiffe Hillfort
+NW45yuZwoj0 16:36 Living Lomonds Landscape: Year 2 Update (Part 1)
+ohrxrm_B-qY 17:40 Surveying Fortingall Kirkyard
+4CtJTvpDctc 19:36 Pushing Boundaries: Crannogs outside of the island-dwelling heartland
+mrWuQcVhig0 21:30 Crannog construction in early Iron Age Scotland: exploring duration and motivation
+C81Cxz75We8 21:11 Rising damp; challenging perceptions of wetland settlement in SW Scotland
+DnPaoXCsdwo 17:46 New investigations on Iron Age wetland settlements in the Northern Aquitaine (France)
+Zc8fxLuPpXo 16:34 Head-hunting in the Marshes
+jXZeZOJaHNE 25:19 SERF: Excavations at Wellhill, Dunning 2014 and 2015.
+cJ8QaCOPA6E 1:39 Archaeology Conference Survival Kit – TAG 2015
+spCLFwyW71Y 48:18 The use and reuse of stone circles: new fieldwork at five Scottish site
+SCd1iRCqh7s 21:04 The Mason’s Mark Project
+zrdCq9kJtvM 17:46 Living Lomonds Landscape: Year 2 Update (Part 2)
+EIoKRERR0BM 15:39 Back to Tullilum – excavations at Perth Whitefriars 2014/15
+3inL4bmEmsk 2:17 Introduction to Session 2: Bridging development and community
+BcyBk3G4_TI 3:58 Introduction to Session 1 of the Critical Mass Conference
+Dq-gyVbgoO0 10:11 Arfordir, Cymuned, Cynefin
+FuT2_tp0fWg 12:48 Community collaboration at eroding coastal sites: a view from Scotland
+K5elvagfqYU 5:44 Introduction to the Critical Mass Conference
+76KjwAVWOtI 8:20 Assessing the Contribution of Community Generated Heritage Research
+H6-yTaBtJno 16:37 Connecting Development - Led Archaeology and Community Engagement at Hungate, York
+X1DohhJDM5g 12:45 Volunteer-led participatory research on the foreshore at Greenwich
+kJqEJR5yZW4 13:54 Community engagement in commercial archaeology: the Greater Manchester experience
+lT7TC2h7nwg 28:15 Facilitated round table discussions: Session 1 Summary
+-DB5H7aV9XQ 2:33 Introduction to Session 3: Knowledge creation, contribution and access
+6os5Ju4RrYM 15:00 CBA and CIfA Summing up and Next Steps
+Z-y2NpXHY8k 16:22 Facilitated round table discussions: Session 3 Summary
+bQZ0GCsrNbg 13:36 Facilitated round table discussions: Session 2 Summary
+KubTeCZiVpc 18:35 Discovering the Northern Picts
+qxRP-2tFUFw 19:44 Predicting future challenges: Creating a foresight methodology for climate change adaptation
+I86WzCpDGpc 5:52 Introduction to Climate Change and Heritage Management Session
+O7eIclI0jV4 20:41 Climate Change Adaptation for Scotland’s Historic Environment
+7Brv3RiUsFo 17:58 Medmerry: Coastal change from the Neolithic to Medieval period
+7_WQbTq1inI 17:58 Safeguarding Open-Air Rock Art
+8dZhuvZ3QH4 18:25 Assessing palaeochannel resources in the light of future environmental change
+9mvQ7yPKamU 15:05 Recent landscape evolution of the Rio Grande drainage basin and impacts on the Nasca lines
+Gxf8FxWm7WU 14:22 Preserving and Protecting the Peatland Record post-Kyoto Protocol
+V_m0Hr3O5V8 17:27 Impacts of climate and Environmental Change: The effects on coastal saltmaking in Lincolnshire, UK
+jQAixsF9fcI 14:49 When an Asset Becomes a Curse.Isostatic uplift and 17th century military planning
+ndkk5VcYMyI 15:49 Managing World Heritage Sites by Geoarchaeological Landscape Assessment and Modelling
+_jOfKLKrBfc 21:28 Revolutionary graffiti? Locating, recording and interpreting at Kilmainham Gaol, Dublin
+bBLgfyYZtAM 15:19 Banksy is a woman: gender and femininity as displayed in graffiti
+eME3IdlsP7I 20:26 Wild times in wild places: Counter-cultures, graffiti and the wild at the Devil’s Spittleful
+B88gc-LIKhQ 17:11 Appraising modern cave graffiti in Greece
+JyAj8sHgGm8 14:41 Written in Stone: Reframing graffiti at the North Head Quarantine Station, Sydney, Australia
+wsVXfVbmYSs 14:29 52 weeks in a (graffiti) year
+WPo8-o673CA 15:44 Graffiti as a medium to teach and enthrall
+AorzzkkHn7I 8:58 “Harry was here 1945”: Graffiti and the Nazi Occupation of Alderney
+Jj_HEzx6Bx0 27:40 Buffing and Buffering: Street Art’s Accelerating Archaeologies
+XX0LJnJG2Jc 14:09 Marking military identity: textual graffiti in nineteenth-century Malta
+oVfXN5mPR48 19:35 Elite territoriality and the development of early medieval states
+3DNMytdex40 21:02 Manifesting power - the creation of monumental Gamla Uppsala
+BVvnrt41_8o 27:43 Landscape Agency and the Materialisation of Power in Viking Age Iceland
+av-30lGXBZM 9:20 Intangible Cultural Heritage and Archaeological Studies of Social Identity
+jE-LpC9K6eI 21:00 Form Follows Fingers - Archaeological Typologies and the Perspective of the Producer
+mXzXdETB8NQ 24:35 Making Kingdoms and Creating Communities in the 1st millennium AD
+r28ClySsKwA 25:30 Animals and the rise of Kingship in northern Europe.
+Ax-wZC7XR6E 21:06 The Drowned Landscape of Dordrecht
+b6NuAcGSzhg 18:22 Intangible cultural heritage in Mauritania: sedentarisation, adaptation and ongoing reinvention
+mbbGpxyXWPU 23:11 Intangible Heritage and Archaeology in Mongolia
+8n4GpXsJtAA 18:42 Climate change and the preservation of archaeological sites in Greenland
+HEw4_aY6tho 20:22 CITiZAN (coastal and intertidal zone archaeological network)
+d6cuIxdN1RM 20:54 Engaging the public to rescue information from eroding and destroyed coastal archaeological sites
+nmGLs05_C50 13:42 Threatened Heritage and Community Archaeology on Alaska’s North Slope
+wfrpdxpfIaE 17:15 Coastal erosion and Public Archaeology in Brittany (France)
+0Yj8qzdYHP4 20:16 Finding and Sharing Climate Stories with Cultural Heritage
+Abf2IWye-IQ 20:18 Rousay, the Egypt of the North: the story from the sea
+R87T9wJXy2k 10:32 Landscape and Cultural Change on the South Alligator River, Kakadu National Park, Northern Australia
+e9CoB-uKNDY 24:53 Archaeology, Art and Coastal Change
+fB3-Vmpe-uY 24:55 Communities and Coastal Heritage at Risk
+qpgLbVxP-wE 7:18 The Pocantico Statement on Climate Impacts and Cultural Heritage
+4WwlpGfwvGk 19:51 The Men and Women behind the MASC Project (Monitoring the Archaeology of Sligo’s Coastline)
+rvEWoG0fP7I 20:20 Gufuskálar: An eroding fishing station
+tpBI69azkw8 19:49 Challenged by an archaeologically educated public in Wales
+DvTBK6eINsQ 21:25 Beyond Ethnicity, Beyond Dacians.
+yMUEP-UA5ZE 21:27 Herodotus’s peoples: relations of dependence
+TP86zhwfNLc 21:11 The Last Days of Celts on Middle Danube – New Evidences
+hRMosATKR0Y 23:20 Beyond Celts: Nested identities in Iron Age Europe
+Rzc5FDjsdQM 20:37 Urbanisation dynamics in Celtic Europe: from sites to networks
+une6r502w4Y 20:32 Culture or social rank? The 'celtic' affinities of the northern Iberians
+16ZC9K-vNJ0 18:27 Celts and Cargo Cult Science
+V8bUfQ-h_Pw 19:31 Fundamentally flawed logic: the question of 'Celtic ethnicity’
+qMmertCoa_k 28:48 Rethinking the Celts: introduction
+yzpydRIDfSE 17:55 Science dedicated to the study of archaeological textiles
+hXDc3zRXTng 13:19 The stylistic unity between ornamentation of adornments from hoards and architectural carvings
+QEN5aNs-EJs 16:38 Archaeology and History of Art: study of Russian arms and armor
+37tY7kE9B7Q 23:45 Art and Archaeology: a happy marriage?
+y8356VONPLQ 15:42 Over the Horizon and Beyond the Foreshore
+5FsiBhvrofY 18:39 Communicating the value of archaeology of the contemporary to skeptical publics
+rgu08SrAQ-Y 20:41 Communicating Stories through Objects and Actions
+rwyciCZCQkA 18:14 Grounding Communication for Maximum Effect
+i-xgE1geA04 20:13 Cultural Communications through Archaeology and Heritage in Hokkaido
+ddzXjLh0X_8 17:14 Working togather and making together
+-upsNprbDhA 19:48 Communicating with Community: Adapting Communication Styles to the Community
+_NIsAy5WkPE 25:03 Digital Public Archaeology in Italy: what is changing and why it is important
+QHnYJvJRbUU 21:24 Archaeology in the virtual: Day of Archaeology 2015 in Poland
+bmcGRsaoLlA 17:53 Live from the trenches – The Social Media Presence of the Meillionydd Excavation
+4QmZEC1m4-Q 17:40 “Does anyone really think that a raised plinth will deter drunk Glaswegians?”
+7pklccZzHIE 12:05 Podcasting Archaeology - a Tool for Starting Conversations and Education
+UISnLZNqIc4 25:20 Experiences of online archaeology - the urban excavation of the early modern town of Nya Lödöse
+qVCI0l6H56w 18:25 Developing a guidebook to help archaeologists create “good” websites
+FFZwg3oqb3U 18:11 Explorations of New Approaches to Online Public Outreach Archaeology in the Age of Pseudoscience
+sY_wKx35Ue4 9:16 It Belongs on the Internet: Communicating Archaeology Online- Introduction
+Yep7TGyOHpg 16:54 Properties of archaeological spatial data and its impact on interpretation of archaeological record
+6-LQ1M3ayJM 16:06 The influence of conventions and mental stereo-types on the reproduction of landscape-images
+5k3x2x8PlhM 23:49 Interpreting the Archaeological Record by the aid of GIS – The Insula 30 of Augusta Raurica (CH)
+Hy2t1jLX0Fc 21:49 The Late Neolithic in Southern Bavaria – a GIS based approach
+g5IjOEWD414 16:48 How Space Talks
+541P5ap7F-8 20:15 Identifying and mapping lithic sites of national importance
+FvhgLQSYqcs 22:32 Towards fortune and glory: Using the tools we’ve got, to build the careers we want
+KMjZyAq7REU 13:13 Introduction to the 'Future of Our Profession'
+njp8w6ynsoU 27:28 2050: an archaeological odyssey. A vision of the future of our profession from the New Generation
+UgTskc8CGAE 19:10 Organising Archaeology – and what makes “good work”
+ehqp-yIp6hM 23:02 The Newport Medieval Ship in Context
+9EPK53cSYRY 11:26 Scrannying for Spidge amongst the Shipwrecks; Interviewing the Pirates of Plymouth, England.
+gI9RWEQ8RNw 18:35 Maritime Archaeology in Albania: Connecting the Dots Along an Overlooked Coastline
+jFVKjkdYwts 2:04:22 Traditions and Alternatives: Publishing for Students and Recent Graduates
+9dTV42G-DNs 18:11 Assessing and mapping significant heritage assets in a medieval university city of Oxford
+mEvff2xGw64 15:24 The future generation of architects
+6kysDKbsdlM 25:11 Twenty-first century challenges for professionals and professional institutes
+93p25jT49uY 17:28 Post-Charter depression and how to avoid it
+SC7YIgc8jlI 20:23 Short Presentations from institutes exclusively concerned with the historic environment
+GUWwJedL-yg 14:46 Reconstructing Holocene Wetlands: New Paleogeographic Models in the Humber Estuary
+gyj7ZwodyPQ 10:15 Knowledge Organisation and the historic environment sector
+asc8wMLZBbE 15:57 SHED +1: Working together for Scotland's Historic Environment Data
+sExlGgDEFOE 17:12 Heritage Information Access Strategy, Historic England: national versus local service provision
+tRKzBp9UqNw 17:13 Know Your Place: Exploring data collection strategies and impact on decision making
+1YDLlPMGP64 12:49 HER databases - the Welsh context: HERs as indexes not archives, a low-cost responsive future?
+KrxiVJlPrFk 7:55 Highlighting two key issues around Big Data today
+ymBF4GYbqHo 11:27 UK-level data collection - ADS and OASIS, workflow and best practice
+90wYQhjud6U 14:45 Working with big data
+13kKqjLsDJg 17:31 Issues identified by the SMA survey and progress to date
+UFjnDcKyxO8 26:32 Are building archaeologists adapting as the market changes?
+_zJhfIcRvJM 24:34 Firing up for a productive collaboration
+fMJ5y-ssXwQ 25:17 A perspective from those caught between developers and museums
+xINS3jKAqnc 31:32 Preparing Emergency Services for Disaster Planning with Respect to Heritage Assets
+yXqC21FytJo 17:47 The vital role of archaeological research in planning for a changed climate
+0Qv0AAFIb9g 23:46 Future-proofing archaeological archives in Wales
+3JtHL8MdLNA 17:25 Informing heritage policy in an uncertain climate – a perspective from EIRE.
+4MDwYaQqPvk 27:28 Managing coastal change and the use of Sectoral Adaptation Plans – a case study from Wales
+4i6HFWYv2ac 21:05 Let’s get sorted
+HUOiMGro0G4 23:37 A glass half empty?
+SHKviW4nXIM 17:17 Provocation, honesty and the debate on selection and access
+WnJjnNMeGoY 29:24 The what, where, and so what of major environmental threats
+ZZ537ZFqIiw 23:21 Managing the built environment through wider landscape assessment and modelling
+xRsPHtShPqA 23:58 Heritage significance assessments to evaluate retrofit impacts
+ybOYJ_cdLx4 24:07 National importance at the landscape scale: a pilot study from the Yorkshire Dales National Park
+58dsB6m9CD4 28:55 Planning matters
+r_y_2C5wDnQ 31:02 Identifying and mapping sites of national importance in wetland environments in East Sussex
+xZLQ8MTqBuI 17:09 Introduction to 'Of National Importance: Recognising Significance for Planning'
+AxaA9KVGviM 14:44 Thomas T. Tucker: A Beached US Liberty Ship in Cape Point Nature Reserve, South Africa
+tsNI8k9JH30 18:21 The Cape Point Maritime Cultural Landscape: Lighthouses, Shipwrecks, Baboons and Heritage Tourism
+3Cs8N_r3vFM 15:16 Sandalwood and Starfish: A Study of the Shipwreck Brunswick (1805) and Site Formation Processes
+S12n56l29OE 11:48 Technology and Empire: A Comparative Analysis of British and Dutch Maritime Technologies
+8Haj-FBaWKI 20:41 The Bay of Storms and Tavern of the Seas: Risk and the Maritime Cultural Landscape of Cape Town
+0m8ISgYckDQ 12:44 Overwhelmed with Possibilities: A Model for Urban Heritage Tourism Development
+8llJwmpZy8I 15:31 Finding Solutions for Environmental, Engineering, Cultural Resources, & Public Relations Challenges
+HwWHyVQxUKw 19:11 Digital Archaeological Data: An Examination Of Different Publishing Models
+66jqJiXc9yo 21:37 Present in the Past: Environmental Archaeology and Public Policy
+Xa6mzcUl6iI 13:56 The Best Kept Secrets in Archaeology: The numbers no one knows, but everyone talks about.
+ChhnEcWXZKU 12:37 Urban Archaeology in the City of the Saints and the Growth of a Real Frontier City
+ulLgRcY6CgI 35:46 Recruitment and Retention of Underrepresented Minorities in Anthropology Programs
+xi1nnCVQZds 1:18:17 Recruitment and Retention of Underrepresented Minorities in Anthropology Programs: Open Discussion
+GKA7GuQXMvs 29:32 SHA 2015 Conference on Historical and Underwater Archaeology Plenary Q&A
+OXa7wwACb9k 21:01 Radiocarbon dates, cremations, flatgraves and the appearance of the urnfield cemeteries in Belgium
+_kez4otYUyQ 16:24 James Delgado: SHA 2015 Conference on Historical and Underwater Archaeology Plenary
+ayJpXfX-omw 16:21 Experience from the front line: watching briefs, builders and child care
+OBaa0qhpfCg 20:38 Let’s DO something! The potential for a CIfA Equality and Diversity special interest group
+Ht4hh5RZ_NI 21:24 Gender equality and personal responsibility in the new CIfA: what being equal really means
+mfRGwn_QiUQ 21:02 Parents in archaeology: challenges facing parents working in archaeology in Wales
+xSWLWaZ49sI 18:33 Are we a profession yet? Archaeology and equity
+wzYUj9gIw3o 13:58 Individual development and leadership: its contribution and feed-back into sector capacity-building
+ZTeYTjFDces 15:07 Heritage Lottery Fund's Catalyst programme
+LXgwJSr_9JY 23:30 Beyond the training room: a practical guide to organisational knowledge management
+tA1E6nk1Bto 19:57 Building capacity - ensuring our profession has the skills it needs in the future
+7r5Hk5vILMI 23:52 High Speed Two: A Question of Scale
+kV5yU1oOOzw 20:22 Heritage 2020: building capacity through collaborative working
+u7sHTyzLAb8 4:31 Carolyn White Introduction to SHA 2015 Conference on Historical and Underwater Archaeology Plenary
+q3GHIPTd44I 15:53 Margie Purser: SHA 2015 Conference on Historical and Underwater Archaeology Plenary
+lDcl7FCA_IA 10:13 Laurie Wilkie: SHA 2015 Conference on Historical and Underwater Archaeology Plenary
+7wmsbrbVJmM 9:36 Chelsea Rose- SHA 2015 Conference on Historical and Underwater Archaeology Plenary
+T0pr-0Lp5AE 16:58 Kelly Dixon: SHA 2015 Conference on Historical and Underwater Archaeology
+NJIVAQ62E2U 6:53 Sharing Tips and Tricks for Engaging the Public- Becky O'Sullivan
+8X_KVNvV9aE 4:18 Sharing Tips and Tricks for Engaging the Public- Build a Archaeology Site
+GsubujAgHlc 4:43 Sharing Tips and Tricks for Engaging the Public- Stefan F. Woehlke
+Qt0Zla2iBnM 5:46 Sharing Tips and Tricks for Engaging the Public- Kari Jones
+VbHyle_GIyY 3:59 Sharing Tips and Tricks for Engaging the Public- Elizabeth Bollwerk
+XveTOYktPDo 3:26 Sharing Tips and Tricks for Engaging the Pub- Joe Bagley
+eAEiU36uHAs 3:58 Sharing Tips and Tricks for Engaging the Public- Karen Price
+ABTQ6dhOJT4 5:21 Sharing Tips and Tricks for Engaging the Public- Mark Freeman
+DldxzezNuG8 4:15 Sharing Tips and Tricks for Engaging the Public- Scott S Williams
+FSpmYy6vnKA 4:02 Sharing Tips and Tricks for Engaging the Public- Bernard K Means
+ZCZbApdCi2g 4:51 Sharing Tips and Tricks for Engaging the Public- Jennifer Poulsen
+wLthsUysE_Q 4:51 Sharing Tips and Tricks for Engaging the Public- James Gibb
+GMozLF-4hx4 1:42:57 Equity (Issues) for All, Historical Archaeology as a Profession in the 21st Century
+ctGSrXAv2RU 3:26 "We Do Not Do That Any More": The future of the graphics profession in Archaeology- Introduction
+6lxrYZHI3DU 36:06 Doing the same thing over and over again and expecting different results?
+7DxCCRIaSIc 27:28 Interactive approaches to landscape modelling using Lidar data
+Ji0ttP9sSE4 29:09 The interpreters digital toolbox
+btVrDBqdv2I 13:58 Why opera refreshes the archaeology other artforms fail to reach
+sdbqP49OnPM 16:23 Visible diggers? Engagement and communication: a student perspective
+dSVKD-G0miE 7:04 Crowdsourcing and Community Archaeology
+BQegtW0FE40 15:18 The sensory world of archaeology, accessibility and inclusivity
+G4oZP_xYJws 13:11 A brief examination of public outreach currently undertaken by commercial archaeology
+0OVe_zxihEo 5:20 CALCH
+jzdDhh4VrIU 7:38 The work of the Clwyd-Powys Archaeological Trust
+KBrFmp0_wOI 7:12 Prydain oddi Fry / Britain from Above
+jZ1MWfR5jZ0 12:47 SITAR: starting point, challenges and future development of an archaeology data sharing platform
+Vqh3FzpXw6I 21:55 High-performance agent-based models of worldwide human dispersals
+AL0MNICpZBc 14:32 New Evidence for Iron Age Burial Practice in the Western Isles
+CqDkUtG-TLA 22:18 Middle Iron Age native glass toggle production of the western seaboard
+y4MUSsEqNkE 22:35 Burnswark: Siege or no Siege?
+BF7Kwq0RKFg 21:55 Modelling glacial archaeological potential in the Pennine Alps – A multidisciplinary approach
+G7Uov617Z44 28:32 The trigger for the demise of an eighteenth century drovers' inn
+Ph2VlXhSNTE 26:39 From past to present: Reconciling years of Arctic archaeological data into a single visual database
+lJcBIzA8uHY 21:10 Archaeological contents: from open access to open data
+hqN8ptwkro8 21:36 What can we learn about the environmental preferences of Neanderthals and Modern Humans?
+L4c6TvbXnPY 15:07 Testing the Variability Selection Hypothesis on Hominin Dispersals
+L2ngbS8hO-k 17:09 Adoption of innovations and expansive phenomena in the 2nd millennium BC in Europe.
+X10onLGBuAs 13:14 The Italian Manifesto for Open Data in Archaeology (MODA)
+O0Ea9IY58DM 33:48 The Use of 3D Models for Intra-Site Investigation in Archaeology
+fymwKagmBFc 45:09 Computer Graphics Techniques for Analysis
+KFKGDGKbUAc 22:55 Legacy Data - Open strategies for closed data
+rd1zLKXyl1w 19:17 Large scale population modelling in the deep past. Issues and concerns.
+51KUYCAC33s 20:02 Drowning in a drip feed of molten glass
+rV4S3sIVqFI 14:22 Use of cartographical Open Data in the context of the project SITAN
+oAwIzL1npPc 17:29 Identification of Agent-Based Modeling elements in "Out of Africa" hypothese
+iUFzeRwq9kU 20:21 The future of engagement with archaeology in rural areas: challenges and opportunities
+TOs21O44X5c 16:21 The delicate relationship between the profession and 'amateur' archaeologists. Is divorce Imminent?
+RA6xp8Cma0U 23:55 The Past and Future of Open Access in Archaeology
+0TeYmg08Ky8 14:57 An Agent-based Model to Simulate the Balkan Neolithic Expansion
+3zGDm-pKwwI 20:16 From Lamp-light to Laser-light: Opening access to the historic and contemporary imaging of monuments
+5NdXnBASKJs 16:24 Digital resources for archaeology. The contribution of the on-line projects by ISMA-CNR.
+fbVrxn9D1Gs 27:15 Exploring sustainable publication and the web: a case -study from the Villa Magna Project
+pAsNPflZGT0 21:14 Wiggle-match dating Scottish crannogs
+7LaK0i4DHzw 35:00 How to do Freelancing in UK Archaeology- Part 2
+WfF6nz9fZaI 42:27 About Heritage Lottery Funding
+MejBWz9R2eE 58:40 It pays to be nice: the Big Heritage model for funding archaeology
+tRLlb-Xfkno 52:17 How to do Freelancing in UK Archaeology- Part 1
+7-URtu5XwbQ 1:26:44 Simulating the Past: Complex Systems Simulation in Archaeology
+zrtpWbMlZr0 21:32 Community driven archaeology
+_Xs6Vtm-hIM 27:29 (Re)discovering the Gaulcross Hoard and other early medieval silver
+R4a_dCqutKw 28:41 Living in the mountains: research on Mesolithic and Neolithic activity in the Cairngorms
+vrNTP2d39TM 23:53 SAMPHIRE: Crowd-sourcing Scottish underwater archaeology
+fp_LUU7vuF8 18:46 Daily activities and resource use in Neolithic Orkney: Microarchaeology at the Ness of Brodgar
+155iEBNEzes 27:24 Burial in the Bronze Age: Excavations at Broich Road, Crieff
+Xt_Srck0xlM 25:28 The Opening Address of CAA 2015
+gob0U8iprCc 9:54 #epicfail? Has Open Source in archaeology failed?
+QjDy1n2lF18 27:10 Building domain-agnostic databases using design patterns
+aC5pO0im4ZM 16:49 Archaeological science as community enterprise
+4yIgPXHg4jk 18:13 How to move from Relational to Linked Open Data 5 Star – a numismatic example
+Arx3N8tu1Go 14:19 Using CIDOC CRM for dynamically querying ArSol, a relational database, from the semantic web.
+uU63uz8Aa2w 19:36 The Syrian Heritage Project in the IT infrastructure of the German Archaeological Institute
+aDPt8saYoH4 9:43 pyArchInit- python for archaeology - Part II
+zWTpJx8PXiI 21:32 The Labeling System: A bottom-up approach for enriched vocabularies in the humanities
+Yq92onhlNKU 20:39 Individual-based modeling of population growth and dispersal in discrete time
+bcULOWbOcsY 16:36 From interoperable to interoperating Geosemantic resources
+DcQqLZo9kRA 22:25 GQBWiki goes open
+e-LyTku_isY 44:06 Towards a new landscape archaeology?
+BZwaRqz0swo 24:09 Using GIS and Geophysics to Examine Caesar’s Campaign against the Helvetii in 58 BC
+8LKE-9a5U_U 20:35 Legacy Data – Open strategies for closed data
+tqSq3EL0LxA 25:12 What have the Romans ever done for us? Digital strategies for research syntheses & fieldwork reports
+1N9rSnI9-Xw 32:10 Digitised Diseases: 3D digital documentation of bone change in cases of chronic disease
+wc9sqjWgjy8 15:11 Exploring sustainable publication and the web: a case-study from ARK perspective
+InDquoHEyts 20:09 Multidisciplinary research of Iron Age sites and landscapes of Slovenia
+kJLjZ5-TSUQ 16:23 Developing a method for a spatial correspondence analysis
+mM64XcBiAQU 17:42 CBA East Midlands Boundaries Project
+ItP8hDAt0go 24:02 Adventures in Agriculture: Experimental modelling for economic analysis
+Bb7ZPjMkuHs 24:07 Developing an integrated digital data workflow for the 100 Minories project
+51CypvR71xc 23:56 Plan, Features, Sections: Using NLP to remove ambiguity from Grey Literature
+MfTBq7DW_hc 16:30 Geospatial Geophysics: Processing GNSS located data in python
+OsNXsCZNQxc 19:48 Archaeology for all: the role of students
+YQTuuy9Ax1g 29:16 Preparing for professionalism: is a degree in archaeology really enough?
+DuPrsNOrUoU 27:09 A Chartered profession: CIfA and the next generation
+zAU6FWMwKpU 13:19 Learning by leading: working to encourage ownership in seminar settings
+u00_YwVfc0k 24:02 40 years of statistics on archaeology students: so what do we actually know?
+kDvpwZrxslQ 19:51 Talking to students: forums for initiatives, innovations and development
+qtkMwa_0ENw 33:32 Careers and skills: bridging the gap
+4h-up-eHGwY 21:05 Heritage Together: The Crowd-Sourcing of Digital Photographic Data for 3D Modelling
+PKr2lQrxO00 16:47 Digital heritage interpretation and engagement
+Z7drWnvRszI 22:06 Archaeology and Autism
+tb-7UGFc0Rg 26:50 Archaeology- the Dyslexic Profession or the Profession of Dyslexics?
+IPAx0yhtBnU 8:17 The Edinburgh Archaeology Outreach Project
+1n2AVi8FEnM 42:47 The Unexpected Outcomes of Engaging Academics
+MhAA1MQxTv0 21:02 Scaling the archaeological digital data mountain
+pDJslTKRTt0 12:06 The Greatest Digital Public Archaeology Tool… that we never use.
+kKrYSmAwnS8 25:23 Paranoid Android? The future of archaeological research in the collaborative and digital economy
+kHO13foVwxA 22:14 The ACCORD Project (Archaeology- Community Co-Design and Co-production of Research Data)
+qaMa4O14cfk 29:55 Tynwald: Assembly, Royal Inauguration and Parliamentary Tradition on the Isle of Man
+PoAvqxI4-Ck 26:09 Recent excavations and community engagement at Tantallon Castle.
+gG63SLCDu6c 25:18 Bringing Eyemouth Fort into the 21st century: co-creation and interpretation.
+62zacsqZiOM 31:33 Scone Abbey: An Overview of its Portfolio of Lands, Rights, and Churches
+osErPHiaLLI 28:06 Gathering the nations of early medieval Ireland
+JXGSvnTQiG8 30:52 ‘The Kings’ Chair’ – The Royal Acclamation Tribune on Nidaros Cathedral Cemetery
+Sv4V3v2YmR0 30:16 Perth/Scone and assembly government in the mid-twelfth century
+7M4Kfasdzrc 24:58 Where to make the king (or queen): the importance of place in Scottish inaugurations and coronations
+1E4WSufDWzI 32:26 Charlemagne’s own palatine chapel: Perception and Development of Aachen’s Carolingian Heritage
+I8XsphUzMww 26:00 From Charlemagne’s Royal Residence to the German Coronation Place: Aachen Palace
+L6PlkmkLero 30:11 Gamla Uppsala through a millennia – a continuous centre in constant transformation
+EXf0-55lBdE 25:48 Prague Castle – Seat of the Dukes and Kings of Bohemia, Place of Their Investiture
+O8jr0dC3XgA 28:01 Scandinavian Hill Forts – Symbolic sites for royal and common rituals
+AKfj97ogpOQ 36:53 Launch of the Chartered Institute for Archaeologist (CIfA) Plenary
+u59LEC79xIU 23:28 Cult and Kingship - Understanding the Early Pictish Royal Centre at Rhynie
+gjYDUrXyrV4 31:39 Stones and stone thrones in ‘celtic’ and non-‘celtic’ kingship across the middle ages
+VlU2sUsj6eM 30:36 Finlaggan, Islay – a place for inaugurating kings
+YgLuSKcq9BA 28:15 At the Assembly: Elite Rituals and the Creation of Ritual Space
+zdkIrF4Uu1s 23:53 The Last Coronation of a King of Scots: Charles II in 1651 at Scone
+l8k8DkaFGZM 23:23 Digital reconstruction of Scone Abbey
+SHZqfOcc4r0 27:50 The Princess, the Slave and the Weaver
+SqIjVIPFksU 26:23 Hidden history of the Scottish Borders: community archaeology in Glenrath, Peeblesshire.
+caCaZJafoaI 53:11 Tayside and Fife, 4000-1500BC: what we know and what we need to find out
+wQqhvtZem7E 22:23 Future Festivals and Frameworks: ScARF and Dig It! 2015
+1IQXMg9rH4E 26:13 Dark goings on at Cramond!
+8DltF3-qmRs 16:34 Closing Remarks of Scotland's Community Heritage Conference
+6dUhXxsWzac 18:31 Eyemouth's 16th-century Fort - Back on the Map!
+04As8uatC8g 22:27 Raising the Bar
+afEJ7bN0s14 9:07 Launch of the Scottish Heritage Angel Awards
+H1uu-1nT-x8 24:21 Fortingall Roots and the Survey of the Kirkyard
+9CZVFEFD9Fc 12:09 One Minute of Madness at SCHC 2014
+ObmIjuXMbho 26:45 Restoration of the Birks Cinema, Aberfeldy
+KHYHmEVXlbk 23:56 Picture this! Recent archaeological visualisation on Scotland’s national forest estate
+mfqHSqAZxfk 22:04 The Search for Bridgend Medieval Royal Chapel
+94Kz9ZM8D6U 18:36 Growing Research on Glasgow's Allotment Heritage
+TkyX1XOxV1s 19:04 Keil Chapel and Burial Ground
+uWrg5AGJkpE 30:08 Below the Brewery: Medieval industry in the heart of Edinburgh
+ocH897aDt4Y 19:52 The Hills are Alive... Being Involved in the Living Legacy of Fife's Benarty & Lomond Hills
+aRmROCtENQE 21:28 Leith Fort Rediscovered
+DDtBgthgGQs 9:01 Scottish Churches Heritage Research
+0CGV_tPtFs8 11:05 Digital reconstruction, interaction and community engagement
+RR0_C2Qf9Nw 27:35 Pit, Pot or Cist? Bronze Age Burial Practices at Broich Road, Crief
+9bLilhyNA1c 28:16 Living Lomonds Landscape Partnership: Discover the Ancient Lomonds
+eHOOBRTpb8A 25:28 Archaic sculpturings to 4D Wemyss
+GWyiw6GRuc4 24:11 Circling the square, re-imagining the Pittentian timber circle
+IyjTzL8w2Tc 22:03 Adding a new dimension to Dundee's carved stones
+G7DF1UCo7e8 17:42 Sweetly Refined - ceramics from Dundee's Sugar House
+4xb6-04Ta8I 18:11 ADSeasy: Developing a system for data deposition [Updated Version]
+Nhifi1fNjYE 17:55 When digital engagement costs you nothing: making websites in minutes [Updated version]
+9qxFG3skNsM 15:04 The Next Generation of Archaeology Public Engagement [Updated Version]
+igoVFw8F5DI 13:52 A Preview of the Ur Project [Updated Version]
+q1Hh2utr-vY 29:30 From Khipu Knots to Instant Tweets [Updated version]
+Gc15oVYVrKY 20:15 Publishing in Archaeology: Open Access and the Reward Project [Updated Version]
+DlU-Op13wQw 19:20 Nothing Ventured, Nothing Gained: DigVentures and Flag Fen Lives [Updated Version]
+EQhhLghCsw0 14:08 Let's Get Digital, Digital! [Updated version]
+8UN6GXDk0K0 14:42 We're Tweeting But is Anyone Really Listening? [Updated version]
+kxEkCdU9oBI 21:26 Not All Archaeology is Equal [Updated Version]
+6OdXtzuHHhw 17:31 Integrating Technology into the Trench [Updated Version]
+5esZg-pzfUM 18:42 Digital Artifact Ecosystems: The "Internet of Things" in Archaeology [Updated Version]
+GmNBPZQnQdE 14:09 Evaluating the Effectiveness of the Archaeological Apps as Interpretation Tools [Updated Version]
+BBykISDpOIY 17:51 Vote for Me - Interactive Ways to Digitally Engage Audiences with Archaeology [Updated Version]
+OARKjAav7oQ 15:04 A Case Study in Social Media, New Audiences and Local Museums- [Updated Version]
+6JOi88gWaw8 12:20 The Portable Antiquities Scheme and its impact on the public [Updated version]
+Jer7Brq3XWA 15:33 Impact of the Archaeology Data Service (ADS) [Updated Version]
+KP_8JF0LyQ0 13:42 The Archaeology of Digital Abandonment [Updated Version]
+Ms-Yh3LK1Es 20:02 An Emerging Research Framework for Studying Public Engagement [Updated Version]
+EAcd1A63150 20:23 Digital Audiences -- A Few Lessons from Arts Council Research [Updated Version]
+NBpgBd4bAVQ 22:24 Making it Simpler- Access, Archives and Archaeology [Updated version]
+cXp2suw22hc 17:29 Practical Augmented Visualization on Handheld Devices for Cultural Heritage [Updated Version]
+UoMoj9eKOWw 26:38 Integrating excavation and analysis on urban excavations [Updated version]
+LaeLVnuDGZk 28:54 Game Issues for Scholarly Discourse or for Public Understanding [Updated version]
+aiXktxryegM 6:36 CAAUK 2013 Introduction from Guy Hunt [Updated version]
+LHjZH3vyrOE 23:42 Digital Tabletops & Collaborative Learning for Archaeology [Updated version]
+aaNzQYeJn0E 52:50 Keynote: Open Archaeology [Updated version]
+Zsr6BbXChqE 16:37 SkOSifying an Archaeological Thesaurus [Updated Version]
+3InJbyG8Y0M 25:39 The application of applications: The bump and grind of commercial archaeology [Updated version]
+QGJ2WSjp9TM 13:02 Digital documentation through laser scanning of a cultural heritage site [Updated version]
+arowHri2dkg 22:49 Cloud computing and Cultural Heritage IT [Updated Version]
+T_uABqlwnIE 17:11 The movements of the Teuchitlán people [Updated Version]
+CRoEpDjWM5I 21:50 Can we share? -- current status for sharing heritage data online! [Updated version]
+Exf6ALCiqDs 21:49 Digital Outreach and the Thames Discovery Programme: What Next? [Updated version]
+Zm28XIrFasw 23:37 Analysing and visualising the ceramiscene of Roman Nepi [Updated Version]
+6ShzCu9pomM 19:23 The Wester Ross Wedigs Project [Updated version]
+T_hXn5apCRc 15:27 Assynt Fire and Water [Updated version]
+oVO7o9dMmkE 24:09 Bennachie Landscapes Project [Updated version]
+vvL_zYXNL18 21:00 The Mavis Valley Project [Updated Version]
+wc3O__8DqdA 21:03 The Dighty Connect Project [Updated version]
+kzPCnY4h2dU 18:40 The Designed Landscape of Cally [Updated version]
+JaEz6QIG23k 24:16 Trowels and Tea-Towels: The Hidden Heritage Project [Updated version]
+KECcVaK5mW0 10:58 Closing Comments to Scotland's Community Heritage Conference [Updated version]
+To_yn7hAicE 17:02 Introduction to the Scotland's Community Heritage Conference [updated version]
+0w2CDINDR38 28:58 Depicting the Dead: Faces from the Past
+kqhIapGpvk8 24:24 Picture this: Recent archaeological visualisation on Scotland's national forest estate
+qvE3oe5k5gQ 28:47 Always chasing deer: The Scottish medieval parks project
+TpsKzTzd1Bk 20:22 Monumental Iron Age Architecture in the Tay Estuary Basin
+eiZqlHFX_C8 26:31 Medieval and Renaissance Planning at Falkland Palace: the evidence from the East Range
+Q9ld8XYLcOI 20:24 Adopt-a-Monument and Dighty Connect: A partnership project with a different approach
+nm9VAmV09so 4:49 DigIt! 2015
+ADZve4PxFpY 19:19 Adding a new dimension to Dundee's medieval carves stones
+DtlOeGs7-_8 26:00 An Archaeological Renaissance? A Regional Review looking out from Dundee
+q39xSwO0Ors 19:42 'Those who can, do. Those who can do more, volunteer.'
+cAGUbieUgWg 18:27 Scotland's Coastal Heritage at Risk
+uWVIdJhUrMY 21:03 Adopt-a-Monument -- Everyone's Heritage?
+W4sy9R4Q-ms 22:16 Community archaeology -- The attitudes and approaches of commercial archaeologists
+3bf2KSJQzYg 17:25 Community archaeology and regional research: who's best placed to deliver?
+moEYf_9ud6I 23:20 The role of Local Government Archaeologists in translating research into practice
+4N3lNzd7dVg 11:16 Square pegs in round holes Fitting public archaeology into research agendas
+pD7DQJ-kKZM 24:47 'Into the Great Wide Open? The sustainability of community archaeology in the long run'
+zZg0XZYXKZo 20:10 The things we think and do not say: the future of our business.
+etRAPDWBCro 11:51 Zero Budget Archaeology in Local Authorities as Both a Service and a Research Tool
+Vi--4q1f7SI 13:01 Introduction to TACOS Workshop
+nlJjql3mITA 15:21 The Portable Antiquities Scheme- TACOS Workshop
+U5krs2Ay8Hg 19:08 Geosemantic Technologies
+kV0HQbPpQSg 23:24 Linked Data & heritage vocabularies
+oiR2aFRlU-c 16:57 Information management professional skills training
+yAKCrqQCqTc 16:47 Profiling the profession: Skills gaps in information management
+sAFFMqm82zk 16:07 Tomorrow's Standards Together
+61gV73ale6Y 17:46 Linking datasets with archives
+uAaXWLZZWA8 17:09 'Big Data' projects
+n1HCBtJnInM 9:16 TACOS Workshop Ending (edited version)
+jtxGghJRHo4 24:21 Trowels and tea-Towels: The Hidden Heritage Project
+DEBsfvCf9JE 11:11 Closing Comments to Scotland's Community Heritage Conference.
+fqSF0ipaRVM 18:46 The Designed Landscape of Cally
+b8JjZBueRWk 21:08 The Dighty Connect Project
+lLYXK5HrG7s 21:02 The Mavis Valley Project
+agudbXAGSBU 10:42 Scotland's Community Heritage Conference Minute of Madness
+ghoHCxlvd4w 24:16 Bennachie Landscapes Project
+i41d5U9pLZI 15:28 Assynt Fire and Water
+X2cWsYCTb8U 19:24 The Wester Ross Wedigs Project
+Tml33Hg_rAU 17:06 Introduction to the Scotland's Community Heritage Conference
+cAJhn1z1Xh4 17:36 Practical Augmented Visualization on Handheld Devices for Cultural Heritage
+4Aq3oUj0GJw 23:38 Analysing and visualising the ceramiscene of Roman Nepi
+abBMQJ9WFvA 29:02 Game Issues for Scholarly Discourse or for Public Understanding
+af7mVpMAR3U 21:51 Digital Outreach and the Thames Discovery Programme: What Next?
+GKhLsixlcRQ 23:43 Digital Tabletops & Collaborative Learning for Archaeology
+3_3lFYhaFK4 21:58 Can we share? -- current status for sharing heritage data online!
+sVSbtAcpE0w 16:42 SkOSifying an Archaeological Thesaurus
+Lb10XmLYUzs 18:25 ADSeasy: Developing a system for data deposition
+05OVdatYRpQ 22:54 Cloud computing and Cultural Heritage IT
+NPtkKD7UCaI 52:57 Keynote: Open Archaeology
+wY6lx6vbOxI 26:41 Integrating excavation and analysis on urban excavations
+NBJ8-qx29io 25:42 The application of applications: The bump and grind of commercial archaeology
+-kV5nBi2enU 13:04 Digital documentation through laser scanning of a cultural heritage site
+SvjwNPrxv0k 17:14 The movements of the Teuchitlán people: A testimony of regional interaction in Western Mexico
+mes9RI9dJBc 6:38 CAAUK 2013 Introduction from Guy Hunt
+iqx1hMokems 17:53 Vote For Me -- Interactive Ways to Digitally Engage Audiences with Archaeology
+-LdhhEMtrCo 17:52 When digital engagement costs you nothing: making websites in minutes
+TaNRTzNK3jM 29:43 From Khipu Knots to Instant Tweets
+QP7NDi8D3QU 20:09 Publishing in archaeology: Open Access and the REWARD project
+_vCOfJseUqw 19:21 Nothing Ventured, Nothing Gained: DigVentures and Flag Fen Lives
+3GbfRFfK2s4 14:08 Let's Get Digital, Digital!
+q_L7H5mMmoY 14:42 We're Tweeting but is Anyone Really Listening?
+TMD_rJB1xuM 21:28 Not All Archaeology is Equal
+GroeEvsMqNE 17:32 Integrating Technology into the Trench
+gT2_9kdg4ro 13:52 A Preview of the Ur Project (name still to be determined)
+GGM9sFZwELw 18:42 Digital Artifact Ecosystems: The "Internet of Things" in Archaeology
+yfbWgIpkHrU 14:07 Evaluating the Effectiveness of the Archaeological Apps as Interpretation Tools
+Qzr5HDqjoxs 15:03 A case study in social media, new audiences and local museums -- Wiltshire Heritage Museum
+EdvwNGym7hk 12:21 The Portable Antiquities Scheme and its impact on the public
+fd2KhNsIRMc 15:32 Impact of the Archaeology Data Service (ADS)
+n8tcEqrxe6Y 14:58 The Next Generation of Archaeology Public Engagement
+o18M6AQlwco 13:41 The Archaeology of Digital Abandonment
+KiZsjCKKBqI 20:01 An Emerging Research Framework for Studying Public Engagement with Digital Archaeology Resources
+3TMvnqxjVBM 20:20 Digital Audiences -- A Few Lessons from Arts Council Research
+0KTJl5e5XRU 22:20 Making it simpler -- access, archives and archaeology
+e1ZrMuL1QbE 9:46 Introduction to the Digital Engagement in Archaeology Conference
+Mi2wdVoaG9c 16:46 Barriers to Online Participation With the Portable Antiquities Scheme
+y1CfdD6xodM 21:30 Archaeology Gets Inspired: Examples of Online Public Engagement From Across UCL
+uqCZF7mQEk4 10:56 The Good, The Bad, and the Ugly of Archaeology and Social Media
+3D192SU9pk8 23:34 The Risky Business of Organisational Social Media
+tHp2FvoSJgc 15:12 Adopt-a-Monument - Digital Barriers to Our Grand Plans
+DdX4uO2l7EQ 0:57 Archaeology Field Tehcnician Pay in 2010 (USA)
+AsvhyPZX5iw 1:41 Archaeology Field Technician Pay Historic Trends
+spK0yBjQ94g 1:01 Archaeology Field Technician Interactive Video Introduction
+JPjgxPMTZPg 0:31 Archaeology Field Tehcnicain Pay Main Menu
+ZGBix8KNGuw 1:01 Archaeology Field Technician Pay Region Map 2010
+Yp8iVUPwAWw 1:01 Archaeology Field Technician Pay 2010: Iowa, Kansas, NB, ND, SD, MN, Missouri
+aPUpUvSY5PI 1:01 Archaeology Field Technician Pay 2010: Illinois, Indiana, Michigan, Ohio, Wisconsin
+oeWQfyo2ogk 1:01 Archaeology Field Technician Pay 2010: Florida, Georgia, NC, SC, Maryland, VA, WV
+Z8bBxjfA9_4 1:01 Archaeology Field Technician pay 2010: Connecticut, Delaware, NY, NJ, Maine, Mass, PA, RI, VT
+zsS2IZSZpcc 1:01 Archaeology Field Tecnician Pay 2010: Arkansas, Louisiana, Oklahoma, and Texas
+s5KkhpF2hfo 1:01 Archaeology Field Tehcnician Pay 2010: AZ, CO, Idaho, NV, New Mexico, Montana, Utah & Wy
+1RwvttpZKKU 1:01 Archaeology Field Technician Pay 2010:Alaska, California, Hawaii, Oregon, Washington
+-g19axfKOuQ 1:01 Archaeology Field Technician Pay 2010: Alabama, Mississippi, Kentucky, Tennessee
 `)
 
 export const channel1Episodes: Array<Episode> = parseEpisodes([
