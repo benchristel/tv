@@ -597,7 +597,7 @@ export const albums: Array<Episode> = parseEpisodes([
     -lgsCe-fLG4 40:05 The Alan Parsons Project - I Robot (full album)
   `,
   `
-    Blue Öyster Cult - Cult Classic
+    # Blue Öyster Cult - Cult Classic
     x25KqaNZurQ 5:08 [Don't Fear] The Reaper
     B_MZ_mYr_48 5:15 E.T.I. (Extraterrestrial Intelligence)
     6uwJpQGPs-s 3:11 M.E. 262 (Remastered)
