@@ -594,7 +594,8 @@ export const albums: Array<Episode> = parseEpisodes([
     jktBW1Etu3M 22:42 The Moody Blues - Days Of Future Passed - 1967 Vinyl LP - Side 2
   `,
   `
-    -lgsCe-fLG4 40:05 The Alan Parsons Project - I Robot (full album)
+    # -lgsCe-fLG4 40:05 The Alan Parsons Project - I Robot (full album)
+    EKTcH4xAU-w 21:41 The Alan Parsons Project I Robot Side 1
   `,
   `
     # Blue Öyster Cult - Cult Classic
@@ -613,4 +614,8 @@ export const albums: Array<Episode> = parseEpisodes([
     Bl5-Oo1bdu8 5:09 [Don't Fear] The Reaper
     mratO9l3eCE 3:43 Godzilla (Tv Mix Remastered)
   `,
+  `Gf1RHyuuLnI 4:59 Kirsten Bråten Berg - Heiemo og Nykkjen(folkesang)`,
+  `Tt8p5AxJn18 4:14 Sinéad O'Connor - Mna na h Eireann (Women of Ireland)`,
+  `HgwypQ_9_DE 4:25 Ripoff Raskolnikov - Azt gondoltam eső esik (Live at Paks)`,
+  `apE1n63ZhMQ 18:34 Muzsikás: Repülj madár, repülj (Fly Bird, fly) + pics of Hollókő (read the info)`,
 ])
