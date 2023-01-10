@@ -833,1041 +833,6 @@ P2jdy8NC-JU 5:00 WIKITONGUES: Sofia speaking Russian & English
 4SR39iWfZdk 1:53 WIKITONGUES: Regina speaking Spanish
 v2jD_SU9KZo 2:59 WIKITONGUES: Mario speaking Aragonese
 
-# We Plants Are Happy Plants
-
-tDl7O05ljZE 1:17:34 Terence McKenna - Speaking Metaphorically (FULL TALK)
-dGVXtLe3XRo 4:09 Terence McKenna - Nature Is Full Of Secrets
-WUYP6S5IU-Q 3:24 We Plants Are Happy Plants - Change
-IeEBq692Pz0 6:51:07 Terence McKenna Talks
-AXVk-HLzPeY 4:17 Terence McKenna - History Has Failed
-HE8eiwP0NQE 4:05:22 Terence McKenna Talks
-sVeSNR8USE8 5:40:56 Terence McKenna Talks
-2Azkg3-p7Rs 3:47 We Plants Are Happy Plants - Simple Satori
-r_CZQxS2j2c 9:02 Creating AI Art of Terence McKenna While He Talks About Technology
-Q6KhbXXbdh0 5:37:48 Terence McKenna - Understanding The Chaos At History's End
-9ZubqvL4Hzc 15:44 Terence & Kat McKenna - How To Trip On Mushrooms
-6QHTlZ60Jcg 3:55 We Plants Are Happy Plants - Ticking Time
-VrlKrpwA368 9:54:47 Terence McKenna - Turning The Tide
-CMOcmUXJdlw 6:13 Terence McKenna - The Ethical Life
-ScfCI5gQ6r0 4:01 We Plants Are Happy Plants - Escape Into The Dream
-j2V_NkhMPB4 4:13 We Plants Are Happy Plants - Elf Calling
-dv43YbR-UNU 1:29:13 Terence McKenna - Existence Beyond The Grave
-M0e4Wfc75Jc 8:31 Terence McKenna - The Guiding Image
-6YAVu2c78WY 6:31 Terence McKenna - The Human Body Is An Instrument For Exploration
-PQFRHlu141w 9:47 Terence McKenna - The End Of The Road
-1gLDjn1FFDg 7:42 Terence McKenna - The Male Ego Led Us Astray
-P-EhXbjRWTk 12:59 Terence McKenna Predicted The International Sanctions On Russia
-d1k_8z0yl20 12:22 Terence McKenna On War
-LZ8Q_gbx1LQ 34:05 Terence McKenna - The Emanation Of Wisdom
-vU6j_qIyvsc 7:35 Terence McKenna on Modern Art
-iYrhzAb5Sp4 7:03 Terence McKenna - Cleansing In Nature
-ct7fVzG_VEk 7:04 Terence McKenna - Scenarios Of The Future
-6DjhTfeI16E 6:05 Terence McKenna - The Unspoken Truth Of Creativity
-JTjDbW7ecKk 7:54 Terence McKenna - The Mushroom Looks Engineered
-LgtmJxrSko8 7:33 Terence McKenna - The Way Out
-UrStQRq95NY 7:23 Terence McKenna - The Alchemical Child At The End Of Time
-Ty2SIGIjRnE 2:57:38 Terence McKenna - Choosing Your Fate
-zyU-susjUKc 7:06 Terence McKenna's Seven-Minute Flight Of Ideas
-pOGXKRWIwWY 22:49 Terence McKenna On Transcendence
-dyUopIVjvHg 12:13 Terence McKenna Metaverse Interview (Virtual Reality)
-fClsFKfw1xg 10:16 Terence McKenna Tells Four Stories In Ten Minutes
-DhE7E9_tenM 3:04 The Quiet Center (Trailer) John C. Lilly Documentary
-hI2OkMfmH-0 11:13 Terence McKenna on Noam Chomsky And Marshall McLuhan
-mdY5zFmq7BA 6:49 Terence McKenna - The End Of Culture
-ixBPSX-gFP0 59:30 Terence McKenna - New Phase Of Human Existence
-ZyQLlWzOvYw 1:29:52 Terence McKenna - Everything Teaches
-9Ew3XLRkDIU 5:57 Terence McKenna - Language Can Do Anything
-nLNtpAXOlHk 5:02 Terence McKenna - The Cure For Boredom
-AmsiTPbbJhc 3:37 Terence McKenna - Calm Down
-QHtt_QhsUUY 5:49 Terence McKenna - Existence Is An Illusion
-sE8-5pQJPL4 12:31 Terence McKenna on Time Travel (Addendum)
-P52emKeqHrE 16:39 Terence McKenna - Shaping Destiny
-J4jIWnmx-Pg 16:02 Terence McKenna - Boundary Dissolution Parties
-Txm5JlpiXKM 3:46 Terence McKenna On Sacrifice
-ru-WouAYQzM 14:25 Terence McKenna - No Place For True Believers
-iwGiSe6WFqY 19:07 Terence McKenna On Magick
-KZQq0Oejfy8 6:01 Terence McKenna - A Cautionary Tale
-fsXt7ys03WE 53:44 Terence McKenna - Closing Lecture (Palenque 1994)
--obcZEABgS8 7:13 Terence McKenna On History
-rt_IKefTJn0 30:17 Terence McKenna On Quantum Physics
-3FnaQmg6gnI 10:22 Terence McKenna On Aliens
-bAZ0b6GHxiw 4:49 Terence McKenna On Determinism
-v6lsQoGMzGc 8:43 Terence McKenna - Subtle Evolution
-oKtR5o1X_NQ 53:37 Terence McKenna - Morning Lecture (Palenque 1994)
-vprIgkBGql4 3:49 Terence McKenna - Seeking Enlightenment
-0X8iBM3F5Uw 6:01 Terence McKenna - Walk The Golden Streets Of The Imagination
-_8UCpLZ7Nqc 9:48 Terence McKenna On DMT Elves
-OwkQRqOzg70 8:39 Terence McKenna - The Power Of Art
-TVHYiQIq9b0 8:59 Terence McKenna - Repairing Syntax
-SPF4m6r_Urk 6:21 Terence McKenna - We Are Living Out Fantasies
-qWKCsrwA1PY 25:28 Terence McKenna On Fractals
-EBYgq08akYs 4:21 Terence McKenna - Strange Datura Experience
-voJ1LBHPk_4 4:21 Terence McKenna - Burning Our Bridges
-RzTVv4vghCI 5:47 Terence McKenna - The Great Dilemma
-0ZLaRCE2qY0 1:00:35 Terence McKenna Funny Bits (Compilation)
-cqfJlaB7-Y8 6:17 Terence McKenna - Ripping The Membrane
-QaB2aZ0Q5FY 10:59 Terence McKenna - Human Impact On Prehistoric Nature
-_zXkWiGxSb0 17:12 Terence McKenna - The Ego Is Not Our Finest Achievement
-mJ9koe-UxrE 40:02 Terence McKenna on Time Travel
-pfgHHd2sIjs 2:32 Terence McKenna - Pattern Out Of Chaos
-dVtnZ5r9Bt8 17:05 Terence McKenna - Childhood Stories (Compilation)
-kch1qKPcKNE 6:33 Terence McKenna Encounters Hyper-Dimensional Pirates
-3duAI-as5-g 5:28 Terence McKenna - We Don't Have The Faintest Idea
-WekiRl16Oug 3:15 Robert Anton Wilson Talks About Crypto-Currency In 1997
-XTrwm4tbqkg 7:33 Terence McKenna - Times Of Confusion
-r4eSt4nH1NA 5:44 You Are Responsible For Yourself - Terence McKenna
-01eM6bIch2w 6:17 Terence McKenna On Wealth Inequality
-qn2w20Z0X6A 19:07 Terence McKenna - Don't Follow Leaders!
-qhxyA-lJtAo 11:34 Terence McKenna - Complete Experience Of Existence
-uQWadGDIedY 6:17 Terence McKenna - Digital Liberation
-XPeHEWAa_rc 8:10 Terence McKenna - Alienated From History
-AqP6IX4U8Wc 24:01 Terence McKenna "I Ching" Interview
-K2daXV4AxYY 7:07 Terence McKenna - The Fractal Faith
-ia9kVAxg-hc 6:25 Terence McKenna - The Still Small Voice
-DhLTWbxOGWo 1:19:17 Terence McKenna - Casting Doubt On Assumptions
-0o6yaBWWp-o 11:49 Terence McKenna - When Prophecy Fails
-CmAXFemOSFM 10:52 Terence McKenna - Constant Scientific Revolution
-WBZatEPUHIE 8:50 Terence McKenna - Alien Spores
-uFyLPZoPhOk 4:17 Terence McKenna - The Reconstruction Of Eden
-MwxkNpc9i-8 1:18:03 Terence McKenna - Brave New World
-GowIF-nIEvM 7:33 Terence McKenna - The Departure
-YkBcpsor1rk 5:20 Just McKenna Being McKenna For Five Minutes
-6vhFoVFOx1A 4:52 Terence McKenna - This Too Shall Pass
-kyf6GoPMQv0 4:30 Terence McKenna - Death Has No Sting
-En9JhgZcvj8 7:19 Terence McKenna - We Are Ruled By Corporations
-W5WsD0M2X3s 5:03 Terence McKenna Quoting Famous People For Five Minutes Straight
-tLdp9yyxNns 6:18 Terence McKenna - The Nightmare Of Modernity
-qNgXcp4i3gs 9:36 Terence McKenna Reads From Finnegans Wake
-ryeogBb4q3w 3:09 We Plants Are Happy Plants - Butterflies
-Pjl72SLA1qk 10:00 We Plants Are Happy Plants - Razz (Shift Of Consciousness Mix)
-QB7fRkyoIuo 6:33 Terence McKenna - The Big Picture
-CXEj666l-rs 11:28 The Future Is Virtual (Terence McKenna VR Documentary)
-_4Y4_r_iK0A 7:35 Terence McKenna - Science Is A Branch Of Art
-ivJp447eOu8 7:34 The Peculiar Humor Of Terence McKenna (Part 9)
-kbL8r35jQxU 33:47 The History Of Reason And Intuition - Terence McKenna
-uF_SSTmDZCc 2:43 McKenna Toons: Alienation (EP1)
-NK5-W_bvzBU 8:47 Terence McKenna - When Media Becomes Reality
-feLFulK4Vbw 13:07 Terence McKenna - When Culture Fails
-0rkRJXBQ8ds 13:52 The Momentum Of Our Ideologies - Terence McKenna
-KVNPUt56GOs 12:06 Terence McKenna - Technologies and Our Flaws
-rTpxbsaAxhU 15:50 Bad Trips (In Depth) - Terence McKenna
--fZQPkkSk2o 9:32 Terence McKenna - Everyone Is Ordinary
-vzZ08mXqpgs 5:09 Terence McKenna - Digital Existence
-rRgJwR65Cms 22:58 Terence McKenna Around The World (90's Travel Vlog Compilation)
-aLtJx7APLzk 7:31 Terence McKenna - The Sword Of Wisdom
-oxN8QKGPJ7I 8:03 Terence McKenna - Lunar Time
-MgQrCVVx5P8 15:35 Terence McKenna - Taoism (Compilation)
-wN0ZyRu55O8 12:55 Terence McKenna - The Plant Connection
-MsU6R0oMyZA 27:37 Terence McKenna - The Price Of Miracles
-0xefRtWIZnE 7:18 Terence McKenna - This Is The Way
-5Rq4tpWt5Bk 2:03 Terence McKenna Video Game (Teaser)
-e_N7pKY5s7U 6:13 Terence McKenna - The Power To Transform
-ax0RvqExzYk 4:58 Terence McKenna - The Game Of Understanding
-647yqQOTa_Y 9:39 Terence McKenna - The Fabric Of Time And Language
-s6B0d3MfB7s 2:21 Terence McKenna - We Are Awakening
-Blw6TMMNb38 11:21 Terence McKenna - Anxious Biology
-355TKLo4xsw 5:56 Terence McKenna Tribute (Narrated by Dennis McKenna)
-O3MCodNInhY 8:47 Terence McKenna - We Are Frustrated Monkeys
-ssRUz_tNdJw 6:37 Terence McKenna - Spiritual Objects
-qWeawgG-QwE 5:44 Terence McKenna - Coincidences Rule Our Lives
--F_n-0kBE9c 13:45 Terence McKenna - Messiahs And Flying Saucers
-E8ocbqwSzP4 8:49 Terence McKenna - How To Talk To Elves
-HaOYys4SfhI 7:49 Terence McKenna - The Only Escape
-TV5wIIQPTYc 11:17 Terence McKenna - The Mind Is A Hidden Organ
-arUfiA3nm70 28:25 Terence McKenna - The History Of New Age
-U3cfHrs7Un4 2:37:52 We Plants Are Happy Plants (Music Mix)
-I94YZHrmzO4 7:27 The Peculiar Humor Of Terence McKenna (Part 8)
-h8pwa68KWmo 5:35 How To Live Your Life (Terence McKenna)
-8x05V_lPm70 19:31 Terence McKenna - We Are Divided From Each Other
-4UC6A9rIJZU 5:43 Terence McKenna - Hacking Reality
-IOppvLvCbcw 4:45 Terence McKenna - It's Going To Get Crazier
-RFUPh6y7Bh0 5:29 Terence McKenna - We Have No Idea What Is Possible
-6MRs3qNZ64o 5:10 Terence McKenna - Truth Can Be Known
--8VE04-by9Q 10:25 Terence McKenna - What's Going On?
-ltG9_pE62eQ 5:33 Terence McKenna - Ocean Of Thought
-5aRpsBX8ByA 5:33 Terence McKenna - Globalism vs Fragmentation
-BO0pTiFjiIo 4:21 Terence McKenna - Language Makes Reality
-Fln4HO5xrIU 12:05 Terence McKenna - Challenges Of The Future
-0CorHrZHHHU 12:25 Terence McKenna - Consciousness Wars
-4Wb2ZxG95R8 4:00 Terence McKenna - Resonance
-fZk93k5T4iA 3:47 Terence McKenna - Chillum
-0b3outdSSoM 3:40 We Plants Are Happy Plants - Spirits In The Room
-g5TR5eezJXo 5:43 Terence McKenna - A Life Well Lived
-gnDYIUnMcYk 13:26 Terence McKenna - Spirit And Impermanence
-YhacmHCDsNs 6:47 Terence McKenna - Specialized Diets
-juYcaOD6lN8 5:49 Terence McKenna - We Are Lost
-QFm6xYglx4E 10:04 Terence McKenna - Social Unrest, Anarchy, Responsibility
-vU90ybDgEzM 12:52 Terence McKenna - Language Of Emotion
-Ix-JuTYKahc 4:49 Kathleen Harrison & Terence McKenna - Botanical Dimensions
-K_hDX3GzROo 7:43 Terence McKenna - Build Your Own Myth
-cn9cSBCQ5BA 1:02:09 Terence McKenna - The Weirdest Tales (Compilation)
-HUDvVq56vDw 6:52 Terence McKenna - The Lost Connection
-HWRjGPCxV_4 4:33 Terence McKenna - The Imagination is God (In The Dream)
-S9Po0KU5_nU 12:53 Terence McKenna - Green Anarchy
-2OiATjkR4uI 23:50:20 Terence McKenna - What Nature Teaches Us
-p_HCCHptP5Y 4:00 We Plants Are Happy Plants - Satori
-0Bhiy0797qo 4:51 Terence McKenna - Ride The Tao
-wSb7-DT7oK4 10:25 Terence McKenna - You Have Two Choices
-LUH-0iFJbYs 7:28 Terence McKenna - You Could Change Your Reality
-WPDF7lQVGRI 8:08 Terence McKenna & Anne Armstrong - Disasters Bring People Together
-MTJeljGJRgY 49:25 Terence McKenna: The Wordsmith
-k-AhCEAVtvQ 3:34 Terence McKenna - Tested To The Limits
-s6gaBZUZFHI 8:13 Terence McKenna - The Fire Of Consuming Hope
-J8mK4dPna18 11:12 Terence McKenna - Work On What Has Been Spoiled
-P7Ltbw9L1VU 9:45:36 Terence McKenna - Turning The Tide
-ziqYvPfJcmE 7:21 Terence McKenna - Don't Panic
-WjEK2CIK6nY 7:15 Terence McKenna - Viruses and Social Life
-7_qxFjk4BIk 5:21 Terence McKenna - We're Inside A Larger Organism
-yZQtrzUKj9Q 8:02 The Peculiar Humor Of Terence McKenna (Part 7)
-Zs0_ySA__cI 5:21 Terence McKenna - Your Feelings Are Correct
-bCYbSFbWoe8 10:17 Terence McKenna - Rearranging The Deckchairs On The Titanic
-QJBOMwsGsYs 10:17 Terence McKenna - Searching For Patterns
-C0o7JGkM9Fk 8:06 Terence McKenna - The Transmundane Plane
-vrvSvxOf2dY 6:43 Terence McKenna - Speech Makes Mountains
-_pihM8MjxoE 8:43 Terence McKenna - Everything is Double-Edged
-XQrJyR0t67g 5:49 Alan Watts - Give Yourself To The Water
-0U2Ag_Za7nc 4:51 Terence McKenna - The Best Stuff Is In Your Own Head
-FK-N6ZdDXfc 3:14 We Plants Are Happy Plants - All Of Me
-bb_A3kG0tmg 5:56 Terence McKenna - Action Assumes Understanding
-YjzsP-8FXO8 3:34 Terence McKenna - Make The Alien Your Friend
-Mb_boK7kuhA 8:25 Terence McKenna - Hard Enlightenment
-3blPu5GalPY 5:09 Terence McKenna - DMT Chronicles
-oyXnLjcncxM 7:45 The Peculiar Humor Of Terence McKenna (Part 6)
-OT-bjR8Dxak 36:15 Terence McKenna - The Nature Of Nature
-j56caHC--t8 4:21 Terence McKenna - We Need To Do Our Best
-r4co3bQr39I 16:25 Terence McKenna - We Don't Know Anything (Belief Is For Kids)
-DrsgNo6JuUU 4:58 Terence McKenna - What Life Is For
-YiIvoY3ikLs 5:15 Terence McKenna - Strategies For Leaving Earth
-mD66opUGI2o 5:19 Terence McKenna - This is an Art
-0-pdh1dLPzc 5:01 Terence McKenna - Singing And Synesthesia
-K3Xy0AfBszI 6:37 Terence McKenna - Creativity and Alienation
-v0VvC4WYKrM 2:54:10 Terence McKenna Digital Revival (Full Series)
-6pqBG3Zcy98 7:31 The Peculiar Humor Of Terence McKenna (Part 5)
-nWCFrfuPFi8 3:53 Terence McKenna - The Ego Does Not Want You To Take Psychedelics
-FXtWoFLG-p4 2:58 Terence McKenna on the Joe Rogan Experience
-qSyq7m5-xeY 3:22 We Plants Are Happy Plants - Syzygy
-qcFuTVGsX5I 0:11 Terence McKenna - There's No Business Like Show Business
-KYsI-4_Ilvo 5:22 Terence McKenna - You Can't Take Materialism With You
-r0pdF_FRv7M 2:03 Terence McKenna - Return To Authentic Being
-Fsax_JFUQyg 7:12 The Peculiar Humor Of Terence McKenna (Part 4)
-dJYoQd4o65k 5:07 Terence McKenna - The Spiritual Life
-gNTV7XEpxNg 2:01 McKennAI (Introduction)
-7XJHPL90t3o 4:32 Terence McKenna - Love Is The Realm Of True Being
-YWEwIzNADv8 7:28 The Peculiar Humor Of Terence McKenna (Part 3)
-1brilAv_gFQ 7:13 Terence McKenna - Know Your History
-sNR7CmN3ZiM 10:18 Terence McKenna - Jesus Christ (Stories and Controversies)
-QrXvIsqRPn4 7:25 The Peculiar Humor Of Terence McKenna (Part 2)
-G2OPrIZzHFs 7:00 Terence McKenna - To Groove With What's Going On
-DKemHGIsA4k 7:08 The Peculiar Humor Of Terence McKenna (Part 1)
-Iaf_L9sO5w8 3:17 We Plants Are Happy Plants - The Way (Official Music Video)
-8n0gaCif_x4 5:03 William S. Burroughs - Take Nirvana
-PV4qr7xEDw0 4:34 Terence McKenna - You're A Performer
-c09UgsmFxp0 2:19 McKenna Sipping Water For 2 Minutes
-01EBcUq8_S0 5:50 Terence McKenna - Ideas Are For Play
-E3FudiU1r8U 7:31:06 Terence McKenna - The History Of Shamanism
-rGJTwqLEsXY 5:31 Terence McKenna - How I Got To Be Who I Am
-k2VYcReT4ro 3:16 Terence McKenna - The Truth Cannot Be Repressed
-rhrgf0a8c84 7:13 Terence McKenna - The Art Of Memory
-Py9gLDk16fM 9:27 Terence McKenna - Just Take Hold Of Yourself
-T4w-HS3pUic 0:48 Terence "One Of The Gang" McKenna
-0HrK0u2f_dk 3:25 Paul Stamets on Terence McKenna
-OnIM9gBEZiA 6:13 Terence McKenna - An Anthill Is A Mind
-FJnyQwNDkW0 6:22 Terence McKenna - The Difference
-rqcqzv4FcvY 0:22 It's "Terence"
--ZwAUDOhfJE 8:17 Terence McKenna - The Mushroom Said To Me (Compilation)
-PeJfgBCs21U 4:13 Terence McKenna - A Message Of Feeling
-Hye5MxihJVE 7:12 Terence McKenna - Extraterrestrial Mushrooms
-fvRMjcH77iU 0:41 Best McKenna Snippet Ever
-SB52qYDgGwQ 1:19 Terence McKenna Has His Cake and Eats It Too
-# # yijwlGeOlOM 3:04 Jordan Peterson - The Pathway to Redemption
-6YNl7Eaikf0 3:32 Terence McKenna - Reaping The Fruits Of Sowing The Fields Of Mind
-Cbbl5xNa-pQ 8:07 Terence McKenna - Play The Game Of Life With A Full Deck
-bZkES0bOw0U 2:14 Terence McKenna - Faith In Progress
-edtpx9iqC-g 6:54 We Plants Are Happy Plants - The World Is A Labyrinth (featuring Terence McKenna)
-6uUdecUFta4 4:32 Terence McKenna - Alien Mind With An Agenda
-h4UKAvPTpr0 17:05 True Hallucinations Video Game Walkthrough (Part 3)
-PVSXgEYt4NE 2:09 We Plants Are Happy Plants - Alchemical Morning
-ijA5RHTJaV4 12:09:24 Terence McKenna - The Mystery Of Language
-6CC_em2fn-I 6:13 Terence McKenna - Ritual Is A Substitute For Understanding
-tF2q_V582i8 4:46 Terence McKenna - Live In The Light Of Paradox
-6j1D6s8vjdw 4:00 We Plants Are Happy Plants - Rites Of Spring
-5pjlpgkJpUg 39:44 Terence McKenna - Ecological Crisis (Video Compilation)
-MYl7Pjm2bT4 2:01 Alan Watts - We Put Ourselves In Boxes (Rare Footage)
-6sg5XwPnRS0 3:34 We Plants Are Happy Plants - Your Happiness (Featuring John Lennon)
-ICifGzyR1gE 5:49 Terence McKenna's Vision For Humanity
-khvJbfoAnqU 23:46 True Hallucinations Video Game Walkthrough (Part 2)
-PytgplWvBWs 4:42 We Plants Are Happy Plants - History Ends In Green
-vs7a_tkF0Iw 3:16 We Plants Are Happy Plants - Nature Is A Teacher
-msvESq62PTo 2:11 The Plants Return
-a92EZz6IQRA 19:04 Terence McKenna Digital Revival - The Buddha Blues (Episode 12)
-OxgLgwIfPSM 26:52 Terence McKenna Interview 1992 - Digital Revival Series (Episode 11)
-EPhuBLV0f1E 17:52 Terence McKenna Digital Revival - Shamanic Drumming (Episode 10)
-XtUmaSKOZDE 20:25 Terence McKenna Digital Revival - Are We Changing The World? (Episode 9)
-Myw2V4gInTY 16:11 Terence McKenna Digital Revival - LSD Studies (Episode 8)
-ez1GUqlgq3w 5:01 Terence McKenna Witnesses A Miracle (420 Special)
-XvsjzrBdT-A 12:02 A Day In Prague With Terence McKenna (Digital Revival Series - Episode 7)
-cy7WTprLjlU 21:42 Terence McKenna Digital Revival - Intuition (Episode 6)
-1YwyaSqcVIw 13:09 Terence McKenna Digital Revival - Poetry and Nature (Episode 5)
-xg_dKzZMoTI 17:07 Terence McKenna Digital Revival - Alchemical Mysteries (Episode 4)
-s2F_JFtAmvM 12:26 Terence McKenna Interviews Ralph Metzner (Digital Revival Series - Episode 3)
-BrcfKO1azc8 20:25 Terence McKenna Digital Revival (Episode 2) - The Water Birth Method
-YMJ8cQi5pfQ 13:53 Terence McKenna Digital Revival Series (Episode 1) - Alien Abduction Experiences
-JajxYcZI2R8 2:48 Terence McKenna - Vortexes Of Connectedness
-YGqZ6tjJOzQ 0:45 Terence McKenna Lives On In Cyberspace
-7wBa488-JDY 2:30 Terence McKenna - We Are Being Manipulated
-QNmGbiIARKA 4:00 Alan Watts - The Force Of Love
-jVwfmarlwhM 6:01 Terence McKenna - Find The Others
-x7L87cPWD8U 3:48 Terence McKenna - The Gaian Fury
-_dfuZPiicAw 3:24 Terence McKenna - It's Not Too Late!
-SiPe1Cx1X4c 2:53 Terence McKenna - The Big Questions
-DR0PNLFJHn0 5:18 Terence McKenna - Discipline Yourself
-23lbZz4fj4s 4:22 Terence McKenna - We Are Amnesic
-E__bB38ct6w 5:29 Terence McKenna - Have Your Mantras Polished And Your Yantras Ready
-CikveyZjum4 5:52 Terence McKenna - Hard Truths
-f5_R1C0tqSU 4:21 Terence McKenna - The Impulse
-equlEnNzGJ8 22:53 True Hallucinations - The Game (Walkthrough Part 1)
-hl28tz5JDJI 4:53 Terence McKenna - Our Destiny
-7O3GLn78CAA 7:45 Terence McKenna - The Final Illusion
-By7T4SyGhPU 1:31 True Hallucinations - The Game (OUT NOW!)
-Hn0GQMPkKU8 3:48 Terence McKenna - Something We Lost
-IhozWjUMEwM 4:21 Terence McKenna - Two Funny Stories
-FNUvHA_6Jf0 4:45 Terence McKenna - The Tale Of Sophia
-iXbDfIEbVUE 6:48 We Plants Are Happy Plants - Scepter Of Power
-11U8-mDleZM 3:42 Terence McKenna - The World Is Magic
-G3xUd6e06T0 6:19 Terence McKenna - We Are Language
-Tbx5vHePL-4 2:15 Terence McKenna - Why Are Boys In Charge Of Everything?
-# M3i4Zcld30g 3:01 Jordan Peterson - Just People Putting Their Lives Together
-K2zn8Ouwcmw 3:20 Terence McKenna - Is Man Good?
-UH3P5XzTNQE 2:29 Terence McKenna - The Hunt
-s0xn03i9DRA 4:42 Terence McKenna - Virtual Reality
-HfcqC88tQJk 1:44 Terence McKenna - Iosteck and Pinkastairs
-GQ5_rlIdnbs 1:26 Terence McKenna - Plants Which Hold The Gods
-CfUDLW8v8KE 3:34 Terence McKenna - Mama Matrix Most Mysterious
-V-E8Aun0P3s 21:15 Terence McKenna Tells A Story From Greek Mythology
-55RzIdrTwAQ 2:31 2001: A Shamanic Journey (Explained by Stanley Kubrick)
-iPzRme85KIQ 8:16 Albania Roadtrip
-zLcZLfF8eH8 5:16 The Mushroom Hunter - Paul Stamets
-qRfH0LocDUU 5:13 Terence McKenna On Taoism
-gk_nhjzvN8k 1:01 Terence McKenna - You Must Humble Yourself
-# LNJ8jfz9Nm4 2:21 Jordan Peterson - Conservatives And Liberals
-ONvyz1AThLc 4:02 Terence McKenna - Electronic Tribalism
-uJjR3aUhsOk 26:30 Terence McKenna - Self Transforming Elf Machines
-sH43VpDkERc 1:01 Terence McKenna - Meeting With My Publisher
-wJWGCF1NTiw 5:01 Terence McKenna - Paradise Lost
-o2rpkM846Ic 5:28 Terence McKenna - Humanity Has A Purpose
-W0kNgji6kzM 1:37 Terence McKenna - Culture Is A Flight From Reality
--kB-Vrrjjyo 18:33 How To Save The World - Terence McKenna
-X7ghslwtrJc 9:32 Terence McKenna - Ideology Has Poisoned The Last Thousand Years
-0BXZst265Es 6:02 Book Review
-# V3ADKHMwSoI 1:25 Jordan Peterson Explains Consciousness
-EhR-Qm0mc-s 7:02 Terence McKenna Explains Everything
-DGISua0YrEU 4:55 Terence McKenna - Private Miracles And Channeling
-oN93Lbh_uPg 4:22 Terence McKenna - Communities Fragmented And Suspicious Of Each Other
-YL3b47OMOoA 5:27 We Plants Are Happy Plants - Way Of The Wizard (Jewel In The Lotus Version)
-52sot1dhEGo 7:52 What's On My Bookshelf?
-jim0L_e2kc4 5:35 Terence McKenna - The Coming And Going Of Male Ego
-HpP1izuTeus 4:35 Alan Watts - The Happening
-17fw4nEUlO4 3:37 Nothing Lasts - Terence McKenna
-8_MWyOastoY 3:18 Terence McKenna - Astrology
-_r16TDBLI9Y 10:42 John C. Lilly - Looking Into Inner Space
-1p5s3jHpeKk 4:22 Terence McKenna - All About Plants
-aQKM8LUGLt8 3:43 Terence McKenna - Magical Connectedness
-QkDdojfTgbg 2:03 Terence McKenna on John C. Lilly
-lAFJEKnWwiU 14:02 Terence McKenna - Thoughts About Death
-Lvv8HhTw0D8 3:01 Men Are The Creation Of Choices Made By Women - Terence McKenna
-AJdqvnUEE-k 1:46 Anxiety Is Inappropriate - Terence McKenna
-3CvkTDyMOx0 0:29 When The Moment Comes - Terence McKenna
-# Ecyo5NOCi54 6:32 Jordan Peterson Easter Message
-ipqUz7EwjZs 3:22 Terence McKenna - Check Your Beliefs
-0iOCeQBVyIA 9:36 Terence McKenna - All About Mushrooms
-k7eJOKAPZxo 6:00 We Plants Are Happy Plants - Not Waiting For Anything (Variation On A Theme)
-GilviNXq3LM 4:21 Terence McKenna - We're Burning Our Bridges
-uHM-NN71F-U 3:37 Jim Carrey's Art and Paintings
-ZQaJaLvdBZU 1:59 Terence McKenna - My Website
-F4Zmvq67rgU 3:27 What Is God? - Terence McKenna
-btJpNVMQwQQ 2:20 Marxism And Capitalism - Terence McKenna
-LpPu663buHg 3:26 This Garden Party Is Over - Terence McKenna
-8OGKc3MYlP0 22:29 Terence McKenna - Memories
-HLZ75T6xX3c 15:09 Terence McKenna - Embedded In Biology But Transcendent To It
-qXVytj4S_M0 1:11:15 We Plants Are Happy Plants
-QFAZ-xRrkDg 0:56 Terence McKenna - Why Us?
-kztxwCsn9pk 1:56 Terence McKenna - All Flows
-S8id3RQK2ew 10:12 Terence McKenna - DMT: The Weirdest Thing
-e0Pzc6eCu08 8:25 Terence McKenna - I'm An Alienated Intellectual
--NLfXHL-2MM 5:46 What Is This Channel All About?
-b4S-eH-1PTw 9:48 All About Shamanism - Terence McKenna
-kLLUHioKKdE 6:10 We Plants Are Happy Plants - Beyond The Beyond
-DpqUn_szhhU 4:37 Terence McKenna - San Francisco State Strikes 1968
-66LFkWyCmuU 2:31 John C. Lilly - Go With The Indeterminate Flow
-iRNTd-dS0vo 1:37 John C. Lilly - Creativity Is Uncertain
-# tdu6iN0CM3s 4:36 Jordan Peterson - Don't Strive For Happiness
-DenxHRuaZ50 10:00 The Best Terence McKenna Quotes Of All Time
-# tnGI8aADZro 3:38 Jordan Peterson - Food Of The Gods (The Mystical Experience)
-wqfpSAf1Y6o 2:08 Terence McKenna - Who Knows The Answer?
-EmzppDaX0_o 3:41 Take Nature As A Teacher - Terence McKenna
-olvVeDDqv2w 3:51 How Weird People Shall Be Allowed To Be? - Terence McKenna
-FJonUTXopBY 1:14 JBP Drinking Coke
-w8M7t-gbwCk 14:22 We Plants Are Happy Plants Live At Toldi (2017)
-NQS7ziJ02l8 3:13 Go Forward Into The Shamanic Domain Of The Spirit - Terence McKenna
-# kO93SAHrd1E 4:01 How Jordan Peterson And His Wife Make Their Marriage Work
-ziy-Tuv_vmM 2:09 You Can Beat On The Truth With Ball-Peen Hammers And It Will Do Just Fine Thank You
-9CuH0AVAy3s 1:25 Terence McKenna - Sci-Fi Plot Idea
-treb7g9nNOE 1:26 Terence McKenna - My Political Stance
-bniT_r5VgZw 1:21 The World Is Like A Novel - Terence McKenna
-3FqmVITeiwQ 5:09 Terence McKenna - Lizard Land
-f924acEAG3M 2:16 Terence McKenna Reads Sailing To Byzantium
-ujBzJMbPMFg 16:52 Awakenings Of Jim Carrey
-VQ4MpZ9Vbks 3:43 Synchronicity Story - Terence McKenna
-I7D0KdKOSXM 4:45 The Perfect Relationship (Meditation) Wouldn't It Be Nice If...
-A8mVUPySzLI 9:02 We Plants Are Happy Plants - 9
-U6Iglfuyu5s 5:23 The Parable Of The Match Bearer
-BhgZXzqOubc 1:24 Terence McKenna MasterClass Trailer
-cTgGvPiVwic 4:47 We Plants Are Happy Plants - Downstream
-# 0jQY5E4NUvc 2:12 Jordan Peterson - Jump Straight Up (Remix)
-AWHj7Ilaz8E 1:01 A Good Examination Of Conscience - Terence McKenna
-hjsl3CzYuY0 2:05 The Reality Of The Transcendent - Terence McKenna
-k8Luyrezxfo 3:31 Apocalypse - Terence McKenna
-MckOyxy5NIM 4:22 We Addict To Everything - Terence McKenna
-EB0JMbr0BPQ 2:41 Terence McKenna - The Secret Adam
-CBLSC55FgOU 3:59 We Plants Are Happy Plants - Sands Of Time
--usWe5iOmPM 1:04:37 Terence McKenna - Personal Stories
-o7CEzTBQgeA 1:33 Terence McKenna - The Historical Octave
-TRZVxFQre6U 1:35 True Hallucinations (New Jim Carrey Movie) Trailer
-M42j9p9LKdE 1:56 Terence McKenna - Clear Thinking
-dfDthR_yLh0 0:08 Terence McKenna Reaction Meme
-zV84ou1NbSA 9:19 Terence McKenna - Jesus Christ (Brief History Of Early Christianity)
-mjiWHhvRrgE 3:08 Terence McKenna - The Witch Doctor
-3kI-wmdt3_o 1:28 Joe Rogan Falls For Jim Carrey Movie Rumor
-IwgMEwIs_kI 2:42 Jim Carrey - There is Just What is Happening
-puDtuBCMpxw 2:08 Eternal Life - Maria Szepes
-EGeQcPEoizM 2:46 We Plants Are Happy Plants - Guide Me Home
-aIsTzobBsNU 1:21 Terence McKenna - The Idea Of Unity
-7a9weV8I9Mc 4:39 The Epiphany Of Understanding - Terence McKenna
-yjUVFA-aIJw 5:24 We Plants Are Happy Plants - An Incredible Pearl
-JNotQ_gKq0s 5:02 Terence McKenna - Ayahuasca Stories
-psgccV9i6HU 4:02 Terence McKenna - Tripping With Other People
-CyB5VwSCoCc 3:59 Terence McKenna - When I Was Schizophrenic
-no5PTajeEa8 2:16 Terence McKenna - Mushroom Tea At A London Party
-FdXNHgmS9H8 4:01 Seth Speaks - The Validity Of Your Being
-T9fg20CcltE 1:56 Terence McKenna - Rome Falls Nine Times An Hour
-KT981LRibP8 5:08 Terence McKenna - Strange Things At La Chorrera
-3R8FDHu7AqY 4:41 Terence McKenna - A Weird Experience
-# dYMz_UArCAo 1:41 Rats Are So Afraid Of Cats - Jordan Peterson (Remix 2)
-ysvWrqLpTM8 3:15 Terence McKenna - Let's Create A New World
-W6gaFOtZI5w 3:19 IMAGINATRIX - Terence McKenna
-APqkta_1OYY 1:45 Terence McKenna - Something Is Going On In This Species
-i6DrTfegMtY 5:27 We Plants Are Happy Plants - An Incredible Pearl (Featuring Terence McKenna)
-r3VF7fIyRtg 2:41 Jim Carrey Set To Play Psychonaut Terence McKenna In New Biopic?
--LD5tU9a3hk 1:52 Terence McKenna - To Make Language More Poetically Compelling
-aUeickoampI 1:46 Terence McKenna - Making Sense
-G1fxGm_l1J4 4:04 We Plants Are Happy Plants - Hermes Thrice Greatest
-JB0mb26M9VY 2:29 Terence McKenna - If Anything Undoes Us, This Will Be It
-2475UMbj19I 1:14 Terence McKenna - The Truth Will Be Persuasive For Those Who Doubt It
-sdbJicB0go0 3:23 We Plants Are Happy Plants - Wind Of Intuition
-ZELaYHgCDs8 1:28:36 Terence McKenna - The Future Of Art (Esalen 1998 August 7)
-G2aA8n6suKY 3:51 Terence McKenna - Cyberspace Is A Land Of Opportunity
-E0gyOk8wqeg 0:29 The Bohemian Impulse
-B8aVtYTdkhQ 4:13 Terence McKenna In Thailand
-hvRkr6fdRxc 3:37 Terence McKenna Reading List
-ePO5jbLF2NY 4:58 Terence McKenna Debunks Crop Circles In Under 5 Minutes
-3r7V3oRYLJI 6:37 Terence McKenna - Plain Talk
-UYV7uPLVNXY 2:39 Terence McKenna - I Was Flaming And It Took Me Years And Years To Dial It Down (True Hallucinations)
-WeL83yuTVao 0:51 Terence McKenna - We Look Like Everybody Else
-# CuiPzPV6nw0 1:08 Jordan Peterson as Jerry Seinfeld
-BCMTi9AU_5Q 8:09 Terence McKenna - Growing Up
-dOy7v44WE2o 2:14 Terence McKenna - Curiosity
-i4sB3agikXI 3:50 Terence McKenna - Transformation Of Man Into A Galaxy-Roving Bodhisattva
-54JA1AHqnI8 1:10 We Have To Awaken To Our Past - Terence McKenna
-L3b-FB_2-nk 7:24 We Plants Are Happy Plants - Not Waiting For Anything
-wieYC04FAcw 1:06 Terence McKenna - Show!
-# bg5mE5yp-5g 3:04 Jordan Peterson - Plan Your Future
-EpZzkNBqOJQ 2:47 Terence McKenna - Anarchy And Social Responsibility
-# qDSeL8wSN20 6:10 Jordan Peterson - I Suffer Therefore I Am
-# uJBgj8U3lw0 4:34 Jordan Peterson - Psychedelics
-WVGPoAofey8 1:01 Terence McKenna - You Can Give It A Theme
-cQvd8a1Z6vo 5:15 Terence McKenna - Evolution Of Language
-# pUqBbOzBZ5Y 2:19 Jordan Peterson - Rats Are So Afraid Of Cats (Remix)
-Q2IJ9ZTLfY0 6:46 Terence McKenna - Transition
-# 9apmGBM-hiI 1:49 Jordan Peterson - Stories And Myths
-_VlJCtPAmbg 3:58 Terence McKenna - Lisbon Interlude
-# MdsVC_qR4t0 5:34 Jordan Peterson - Nihilism, Totalitarianism, and The Divine Individual
-Oiog0RHir8A 2:34 Trigger - Ralph Abraham, Terence McKenna
-i3S2ftdAHdw 0:56 Was Terence McKenna CIA?
-0FRrjqSm0vo 1:31 Religion - Terence McKenna
-64IPmS_87UM 6:32 My Trip to Thailand and Cambodia
-4DbWAMWPCKs 3:00 Bullshit - Terence McKenna
-7pLiUd5N_Cg 3:14:17 Terence McKenna Meme Movie (FULL HD)
-syhZ_0loMZk 3:27 We Plants Are Happy Plants - Full Of Sound (Variation On A Theme)
-1aMZrc3uv5M 0:43 11 16
-cgDOvJg3-dQ 9:37 We Can Make A Difference - Terence McKenna Environmental Speech
-czGSwEvblRI 2:57 An Entirely New View Of What Time Is - Terence McKenna
-RCnJVTT9vyk 2:40 Revolution - Terence McKenna
-2aW9IUDPdNk 2:01 The Mind Is Poised On A Precipice Of Incomprehension - Terence McKenna
-FpMlrRbOJHI 1:40 Absence Of An Emotional Vocabulary - Terence McKenna
-ubQ5sWxvr4U 1:36 People Raving On Streetcorners About The Approaching Doom - Terence McKenna
-75iR-P7QlSo 5:35 Two Kinds Of People, Artists And Marks - Terence McKenna
-mJLXr9OXlDk 0:40 Steve Buscemi As Terence McKenna (2)
-osDZ9j69EqU 1:25 A Standard Story Of Mine - Terence McKenna
-2HKGxcDw27s 1:38 The Dialogue - Terence McKenna
-TdthFYYrpGc 1:32 Noetic Archaeologist - Terence McKenna
-R7lKPDNSa-g 2:51 Rational Discourse Conducted At High Volume - Terence McKenna
--MGX_VxLbOw 0:47 Terence McKenna On Meeting Carl Sagan (2)
-Kt5btMF4LGQ 1:08 The Fate Of A Whole Planet - Terence McKenna
-l1x3c7o_J40 0:55 To Be Able To Stand Up And Yell 'Bullshit!' - Terence McKenna
-dJJKBtbyfeY 3:34 Science Is The Plumbing Level Of Reality - Terence McKenna
-hWqdZIrG1q8 1:14 I Sorted Through Just As I Assume You Are Doing - Terence McKenna
-An8X9myD7SQ 1:39 A Feeling Of Optimism And Wholeness - Terence McKenna
-ZA1aOcF-Aag 2:08 Terence McKenna Describes European Thinking Of The Early 17th Century
-fRUpjfN-Ihg 2:07 What Is My Reality? - Terence McKenna
-RIsK65Hc3nM 4:10 Our Role Is Not To Understand But To Appreciate - Terence McKenna
-U0eyaBmz3Mg 1:36 We Want More Consciousness - Terence McKenna
-Hr3f6gIz0-k 4:17 The Forward Escape - Terence McKenna
-pAZ7tLLJDXU 0:29 Funny Terence McKenna Soundbite
-_zKpweQyNtI 2:24 The Tao Of The Ancestors - Terence McKenna
-qRFfjmBJwFg 1:31 Democracy - Terence McKenna
-NQwGZojmwDM 7:53 Terence McKenna Rave Session
-kjG8AaLjR9k 3:22 Recordings Which People Find Extremely Alarming - Terence McKenna
-pOvmnc2BTrQ 4:31 Moving The Boundaries Of What Can Be Said - Terence McKenna
-_Lcmd-bMlAE 10:00 We Plants Are Happy Plants - Razz (Shift Of Consciousness Mix)
-5XMfIgA7ZUU 3:23 One Of The Hardest Evenings I Ever Spent - Terence McKenna
-A-cYANDZ_Mo 0:45 Steve Buscemi As Terence McKenna
-J1MAd9LpCxE 2:31 Half In and Half Out - Terence McKenna
-qN3NLeKMImk 3:08 The Famous 55 Gallon Drum - Terence McKenna
-YtROWN9angY 1:15 The Tim Award - Terence McKenna
-xwucF9MKJM8 0:45 Captain Ahab In Space - Terence McKenna
-E7wITcn0StM 11:56 The Jackalope - Terence McKenna
-WjONF4Uqt5c 1:27 You're As Good As The Dalai Lama - Terence McKenna
-zZoQwKUwjXc 6:11 A Story Of True Hallucinations - Terence McKenna
-fQSbvZ86Hi4 1:01 Alchemy - Terence McKenna
-g4n43UUZ8Y8 0:54 Nature Is Alive
-dxkfiKW6BiY 1:35 Terence McKenna Introduction
-xuHEfAZpr7s 0:56 Terence McKenna - Language Evolution
-lBDPM2JpoCM 3:23 Why Culture Is Not Your Friend - Terence McKenna
-sqJYQ_TUC7c 44:48 Terence McKenna - Alchemical Youth On The Edge Of The World (Full Talk)
-a9zqS1pMTRA 2:29 Terence McKenna - The Anticipation Of The Unspeakable
-NUi_n7k1kyM 30:15 Visual Meditation with 432 Hz Music
-zAkrTm3IlYE 6:22 The Real Meaning Of The Holy Grail
-xtxuSCyIoq0 0:19 Robert Anton Wilson - The Sad Man Lives In...
-Yb8BCUcB2oM 17:15 We Plants Are Happy Plants - Tao (Variation On A Theme)
-SoRVFpAjCZ0 1:10 Terence McKenna On Meeting Carl Sagan
-ruOH-6fnjKw 5:19 Brilliant Reading Of Moby-Dick by Terence McKenna
-9Ejn4APak1w 2:32 Terence McKenna - Meme Theory
-y8xAXuHaR9Y 1:29 Terence McKenna - We're Not Bullshitting You
-xp0sktrYVAE 6:25 Terence McKenna - Consciousness Research
-ktizo51HXBU 0:41 Terence McKenna - The Precondition For Democracy
-MBufYdcVk0g 2:40 Terence McKenna Knocks Bill Clinton
-6UiAqbqcMxM 2:25 We Have To Send Artists - Terence McKenna
-JWPqI5OyiHs 2:51 If You Could Have Anything - Terence McKenna
-OAag7w0iRg8 6:12 Terence McKenna - 5DGISD
-CYUDWw_MauU 3:22 We Plants Are Happy Plants - Light At Eventide
-OkkZZV73ZUM 45:25 We Plants Are Happy Plants - Any Day Now (Full Album)
-bLggYY_Ibmk 4:33 Terence McKenna - Tension Over Values
-dHFC1BB2gOU 4:06 Terence McKenna And The Howling Tao
-7cexhOG4UZY 5:25 Terence McKenna Reads Hermetic Lore
-# YOG1L7ZMjs0 3:15 We Plants Are Happy Plants - Tipsiness And Rapture
-cBKK7Nvk1ZA 1:45 Terence McKenna - Keep The Faith
-vO95PjQk0pQ 1:04 Terence McKenna - Up And Out
-7MztB_TQLaI 1:16:33 We Plants Are Happy Plants - Time Is A Landscape (Full Album)
-e5L_-4yZ2vY 3:08 Terence McKenna - Alien Forms
-wGdz1y0kqRM 1:12 Terence McKenna - Energy and Time
-h3sndgdol5I 1:43 Terence McKenna - How It Began
-mNcKZVVnG9o 0:49 My channel is back!
-MXAD6SimTOc 3:42 We Plants Are Happy Plants - In Search Of The Holy Grail
-ZWl13ZxYc2s 2:33 Robert Anton Wilson - High And Happy
-hUFKa53936o 2:08 Terence McKenna Raves Into The Future
-TsutY3dgGJ8 4:33 We Plants Are Happy Plants - Waves Of Eternity
-aAcHPkj4aNE 3:09 Inner And Outer Space (Are Exactly The Same)
-033b8jN55q0 3:00 We Plants Are Happy Plants - Butterflies
-zywkOFcehbc 5:09 Terence McKenna - The Mushroom Speaks
-8MG5gFtZ3U8 2:48:44 Terence McKenna's True Hallucinations (Full Movie) HD
-tJmNduaK5Sw 4:41 We Plants Are Happy Plants - She Created The Door
-WWoiWyHhvcg 0:55 Teaser: Terence McKenna's True Hallucinations (5)
-fwK8NRKkSCA 1:22 Teaser: Terence McKenna's True Hallucinations (4)
-Qeka6BcHRlc 0:37 We Plants Are Happy Plants - New Album Promo
-fhy2l4XmAGg 2:05 Terence McKenna - Money and Donald Trump
-1rhgZgL7KhI 6:10 We Plants Are Happy Plants - The First Man In Another Galaxy
-6caUfg7XZ24 0:34 Teaser: Terence McKenna's True Hallucinations (2)
-_H8oTI2fgns 1:41 Terence McKenna - Falling In Love
-CcGgfUiTDaU 4:33 We Plants Are Happy Plants - I Am You
-flvXnQdrqEs 4:13 We Plants Are Happy Plants - Vortex
-flwyJEWwcbE 1:12 Jim Carrey at a Terence McKenna lecture
-bbqc7OdbloA 5:05 Terence McKenna - High Water Weirdness Event
-N4pLehjPBZU 5:40 We Plants Are Happy Plants - Life Is Living You
-XlBzIecpxfE 16:58 Terence McKenna - The DMT Experience (The Transcendental Object At The End Of Time)
-l6osSqvn1R4 1:29 Teaser: Terence McKenna's True Hallucinations
-xQXP31A9Rl8 1:31 Terence McKenna - The Dizziness Of The Things Unsaid
-4rL_gR-dCT4 6:03 We Plants Are Happy Plants - Euphrosyne
-heGCdpuhLso 15:36 Terence McKenna - Last Thoughts (The Transcendental Object At The End Of Time Movie)
-8YsLiSYTIJM 7:36 We Plants Are Happy Plants - Razz
-PWHWK0pe8SY 4:15 Ralph Abraham - The Sandy Beach (Terence McKenna, Rupert Sheldrake)
-H-O6sEaI7nw 4:51 Terence McKenna - The Archaic Revival
-Z5rCDfJh9pE 4:37 We Plants Are Happy Plants - The Transcendental Object At The End Of Time
-ZpTF8pFDVR4 6:21 We Plants Are Happy Plants - Tao
-D2bkYB7kNpo 2:31 TRAILER 2: Terence McKenna's True Hallucinations
-F4nGuEVs-JA 3:35 Alan Watts - The Potato Speaks
-IMaygY8aagg 3:09 TRAILER: Terence McKenna's True Hallucinations
-B__BY-d4nXA 22:18 We Plants Are Happy Plants @ Toldi Mozi (2015)
-TX0GZI-lvTE 1:33 Robert Anton Wilson - Belief Systems (BS)
-6uqcnfhH1T4 0:13 Terence McKenna - You Can't Go Forward and You Can't Stand Still
-fJQ6rvFjmSg 3:31 We Plants Are Happy Plants - Alignment
-ZvOGPQydTxw 5:32 Terence McKenna - From Monkeydom To Starshiphood
-e0-RH5t47fA 6:04 We Plants Are Happy Plants - One Million Years
-sopijO_cftE 1:40 Terence McKenna - The Shaman
-oJgyMzfTT9w 3:17 We Plants Are Happy Plants - MK3
-5tfMknBJbDk 4:36 We Plants Are Happy Plants - Cloud Hidden
-bcRTUen6TcA 4:21 We Plants Are Happy Plants - My Love Song
-rkANK7DbHQo 4:44 We Plants Are Happy Plants - Warren Commission
-MoB5p-bAkIY 4:57 We Plants Are Happy Plants - The Secret
-aAlaRdrcQcY 3:34:49 The Transcendental Object At The End Of Time (Terence McKenna Movie) FULL HD
-0Bvf4PpW5m8 4:30 We Plants Are Happy Plants - Mantra Of The Universe
-6nLsFix-6e0 1:33 Terence McKenna - You (The Transcendental Object At The End Of Time TEASER)
-r42NFBzPk-4 2:37 TEASER: The Transcendental Object At The End Of Time (Terence McKenna Movie)
-1r97VpcKgJ4 3:25 The Love Unlimited Orchestra - Bayou (We Plants Are Happy Plants Rework)
-2Der6EhLocU 4:51 TRAILER: The Transcendental Object At The End Of Time (Terence McKenna Movie)
-pWKZLW_vfTI 5:25 We Plants Are Happy Plants - Way Of The Wizard
-N5ot2RmJmZ0 4:01 Terence McKenna - The Future Of The Human Race
-97aZ8nC9Wj0 48:05 Daft Punk - Alive 2014 (presented by We Plants Are Happy Plants)
-sTSvj37D-zE 4:31 We Plants Are Happy Plants - Tuned In (Official Music Video)
-_S9q-phYxmI 5:17 We Plants Are Happy Plants - Apollo
-XrcEn5peCik 4:33 We Plants Are Happy Plants - Purple And Blue
-XAuEsy6_o2s 6:18 We Plants Are Happy Plants - We Plants Are Happy Plants (Original Mix)
-2pPmt9xNj0I 5:29 We Plants Are Happy Plants - Full Of Sound
-l9GLDrC3amA 4:12 We Plants Are Happy Plants - Twilight Of The Dawn
-16dcYDscO5Q 4:24 We Plants Are Happy Plants - Planetary Exploration
-NG-nXMabvO4 4:09 We Plants Are Happy Plants - Lullaby
-_7VAScNbTa0 2:42 JJ Abrams - Star Wars (2015)
-jaUAs2sPXbs 4:33 We Plants Are Happy Plants - Simply Be Aware
-zVayyPuKSI0 0:37 Charlie Gonzo
-HXTwB6ANiec 4:39 We Plants Are Happy Plants - Bluebird (2010)
-Ty5eZ0ZqSW0 5:29 Cloud Atlas Theme Song (We Plants Are Happy Plants Remix)
-SuiPc-F4i50 6:01 Zagar - Wings Of Love (We Plants Are Happy Plants Remix)
-d97PjM7g6to 5:10 We Plants Are Happy Plants - Apollo 2012
-YfsCnB2oisY 6:09 We Plants Are Happy Plants - Rise And Fall
-RC1FPUk5p_4 7:24 We Plants Are Happy Plants - The End
-zXL9LVf9VP4 5:02 We Plants Are Happy Plants - M42
-wmoFjGqypMs 3:33 We Plants Are Happy Plants - Prelude
-yMYM7xe4JNY 6:41 Hans Zimmer - Time (Inception) We Plants Are Happy Plants Remix
-WSkzlLIY3ew 3:46 Dec 21, 2012 Terence McKenna - TimeWave Zero
-YVHXap0k1rc 6:01 We Plants Are Happy Plants - Love Is Silent
-Y-Q20YE9q7E 6:16 Om Namah Shivaya (We Plants Are Happy Plants Remix) 2012 HQ
-uC_vFa3FZg8 4:33 We Plants Are Happy Plants - Perception Of Dimensions
-byxSazKYnw8 6:16 Om Namah Shivaya (We Plants Are Happy Plants Remix)
-_uMSap7ntuw 6:01 We Plants Are Happy Plants - Underneath The Form
-1Q8d9MNM-lw 3:33 We Plants Are Happy Plants - Earth Mars Venus (Official Music Video)
-fvSX8cA5H78 3:33 We Plants Are Happy Plants - Galactic Spiral Arms (Official Music Video) 432 Hz
-sdIlzZMQxVY 3:38 Aaren Reale - Black Part 2 (We Plants Are Happy Plants Remix) feat. Jim Carrey
-toq3WTB1fAA 8:55 We Plants Are Happy Plants - Sell Your Soul (Dream Version) and Apollo
-RgBQdvKLpCc 4:48 Aaren Reale - Black Part II (We Plants Are Happy Plants Remix)
-XhpKOM541gc 3:58 Radiohead - Codex (We Plants Are Happy Plants Remix)
-4HMJuRJHa1Y 4:26 We Plants Are Happy Plants - Apollo (HD)
-dyCyyPfWMl4 2:17 We Plants Are Happy Plants - My Love Song (New Earth EP Promo)
-wiTP02UGsoE 1:12 We Plants Are Happy Plants Live @ A38 03.18.2011
-RSghspRAqLc 4:04 We Plants Are Happy Plants - Razz (OFFICIAL MUSIC VIDEO)
-wdoG41SYotg 6:14 We Plants Are Happy Plants - We Plants Are Happy Plants
--CNMXnIwEvQ 3:56 We Plants Are Happy Plants - Flatlanders
-fDRnt3jktsk 7:23 We Plants Are Happy Plants Live @ U26 (Perfect Audio)
-CmQbvv9VZSY 3:08 We Plants Are Happy Plants - Sailing In A Dreamboat (2010)
-hh_nYnPGvKE 4:12 We Plants Are Happy Plants Live @ A38 2008
-1tvcMbbtsyw 4:14 We Plants Are Happy Plants - Sell Your Soul (OFFICIAL MUSIC VIDEO)
-r4IgyZ-NEvk 5:10 We Plants Are Happy Plants - We Wave Goodbye
-U9GI3dhjCac 4:20 We Plants Are Happy Plants - Invisible Elephant
-18vcPGnmijM 3:59 We Plants Are Happy Plants - Twilight Of The Dawn vs Wonderwall
-dzjiCduRVw0 3:27 We Plants Are Happy Plants - Long Live Space Race
-9brQTel8SUc 4:56 We Plants Are Happy Plants - Trance Steel
-
-# Culadasa Audio Archive
-
-# UG-0XGpesgs 39:10 Sit, Breath, Wake Up! Meditation #1 - Culadasa
-# IeXWFRs5cGk 42:45 Sit, Breath, Wake Up! Meditation #2 - Culadasa
-# SRqXq570Cf0 45:40 Sit, Breath, Wake Up! Meditation #3 - Culadasa
-# aNFc4veG61E 20:10 Sit, Breath, Wake Up! Meditation #4 - Culadasa
-# LBDV7jmZL8s 51:40 Sit, Breath, Wake Up! Joy, Meditation #7 - Culadasa
-# gB4_JS4jsb0 34:20 Sit, Breath, Wake Up! Meditation #5 - Culadasa
-# nbvx7K_Zh0U 45:25 Sit, Breath, Wake Up! Still Point, Meditation #8 - Culadasa
-# SpTDGyhoFho 24:55 Sit, Breath, Wake Up! Metta, Meditation #9 - Culadasa
-# 4XGLpEJBq5c 1:59:40 Sit, Breath, Wake Up! Part 1, Including Meditation - Culadasa
-# xySz7-vJbjo 1:24:50 Sit, Breath, Wake Up! Part 2, Including Meditation - Culadasa
-# Ok347OnJyYc 1:38:25 Sit, Breath, Wake Up! Part 4, Including Meditation - Culadasa
-# -lYvn_JxiaM 1:14:50 Sit, Breath, Wake Up! Part 3, Including Meditation - Culadasa
-# Mw0GWsCYSho 1:52:30 Sit, Breath, Wake Up! Part 7, Including Joy Meditation - Culadasa
-# pyFa9lezeLE 49:45 Sit, Breath, Wake Up! Part 5, Including Meditation - Culadasa
-# F-SO2jLEl94 59:00 Sit, Breath, Wake Up! Part 6 - Culadasa
-# mtdUEXGAxIc 1:17:05 Sit, Breath, Wake Up! Part 8, Including Still Point Meditation - Culadasa
-# DBrpnFgXZY4 1:05:15 Sit, Breath, Wake Up! Part 9, Including Metta Meditation - Culadasa
-# F1qKILcv9eA 1:30:55 tcmc-weekend-03-22-2013a-trim-lc-amp-comp
-# 8d0NJNnc90E 1:16:55 tcmc-weekend-03-23-2013c-trim-lc-amp-comp
-# ZReyxVVZlHA 52:50 tcmc-weekend-03-23-2013b-trim-lc-amp-comp
-# Jd-ymGtmsAs 1:23:10 tcmc-weekend-03-23-2013d-trim-lc-amp-comp
-# 1fesc0JmB0s 1:17:10 tcmc-weekend-03-24-2013f-trim-lc-amp-comp
-# oDAWRHX1ez8 1:17:00 tcmc-weekend-03-23-2013e-trim-lc-amp-comp
-# 6UzBUJCMDLM 50:45 tcmc-weekend-03-24-2013g-trim-lc-amp-comp
-# Os78CbIOCaU 1:13:15 tcmc-weekend-03-24-2013h-trim-lc-amp-comp
-# -VgYwj3QLY8 1:28:35 tcmc-weekend-03-24-2013i-trim-lc-amp-comp
-# xwIuNvfs3-A 1:14:40 The Path to Awakening in Daily Life, Part 1 - Culadasa
-# akF9g-7p18g 1:11:10 The Path to Awakening in Daily Life, Part 3 - Culadasa
-# EsyJiZJ7y4Q 1:04:40 The Path to Awakening in Daily Life, Part 2 - Culadasa
-# Ay3t8b-I9xk 1:19:15 The Path to Awakening in Daily Life, Part 4 - Culadasa
-# uFDhnyJzzLE 55:55 The Path to Awakening in Daily Life, Part 5 - Culadasa
-# iqBvQ_b0zEE 1:09:30 The Path to Awakening in Daily Life, Part 7 - Culadasa
-# 8Y9wpzzarAc 1:01:50 The Path to Awakening in Daily Life, Part 6 - Culadasa
-# 2k-NO_vUAqk 40:50 The Path to Awakening in Daily Life, Part 8 - Culadasa
-# 4E2e3AZZuVw 38:50 Discussion about the Anapanasati Sutta - Culadasa
-# jVoK8u6LDMM 46:25 The Magic of Mindfulness, Part 1 - Culadasa
-# Ds5Um2pZ2a8 1:23:15 The Magic of Mindfulness, Part 4 - Culadasa
-# zF6rkzTtvI4 1:15:40 The Magic of Mindfulness, Part 3 - Culadasa
-# N_HB_wpsmOc 35:55 The Magic of Mindfulness, Part 2 - Culadasa
-# -7rQQq9FI4E 45:25 The Magic of Mindfulness, Part 5 - Culadasa
-# 6wmmWA-oxVk 1:25:10 The Magic of Mindfulness, Part 8 - Culadasa
-# 6jQ6pXPu8gM 37:00 The Magic of Mindfulness, Part 6, Guided Meditation - Culadasa
-# oXOrlj_Us8Q 1:01:30 The Magic of Mindfulness, Part 7 - Culadasa
-# -6D8fCaLGqw 1:28:10 The Magic of Mindfulness, Part 9 - Culadasa
-# Ce_M5w83mMo 1:35:50 The Magic of Mindfulness, Part 10 - Culadasa
-# Xiz1DkB1JeU 46:40 The Magic of Mindfulness, Part 9, Meditation Only - Culadasa
-# KdQRPJsCpV0 43:25 The Magic of Mindfulness, Part 11 - Culadasa
-# 5RxJHGQIo6c 34:35 The Magic of Mindfulness, Part 11 - Meditation Only
-# WbqhyGbIkic 1:49:15 Meditation and Insight, Part 1 - Culadasa
-# holYpHpF_v8 1:17:45 Meditation and Insight, Part 2 - Culadasa
-# G_X9f5tPcv0 1:27:05 Meditation and Insight, Part 3 - Culadasa
-# BdNzQ5mpMPM 1:16:15 Meditation and Insight, Part 4 - Culadasa
-# dp1YUUw9_xQ 44:20 Meditation and Insight, Part 5 - Culadasa
-# pUJGCaaECnY 22:40 Meditation and Insight, Part 3, Meditation Only - Culadasa
-# X3I8gD_VuH0 1:17:30 Meditation and Insight, Part 6 - Culadasa
-# litqY-oF1DY 1:09:15 Meditation and Insight, Part 8 - Culadasa
-# irovcJniM34 45:30 Meditation and Insight, Part 7 - Culadasa
-# xGDw947qcO4 47:55 Meditation and Insight, Part 9 - Culadasa
-# om9lc05kShI 1:11:20 Meditation for Peace, Part 1 - Culadasa
-# XWs7iJuRlNk 1:03:05 Meditation for Peace, Part 2 - Culadasa
-# gc4OIzNCzJE 1:18:10 Meditation for Peace, Part 4 - Culadasa
-# i2smsi-Po5s 1:00:25 Meditation for Peace, Part 3, Meditation Followed by Discussion - Culadasa
-# _c0SvbC3n0E 1:04:45 Meditation for Peace, Part 5 - Culadasa
-# _O0HwUi4L8M 19:45 Meditation for Peace, Part 6 - Culadasa
-# X2I1Xkpu1ao 1:05:35 Meditation for Peace, Part 8 - Culadasa
-# w5yfStrGXZs 46:25 Meditation for Peace, Part 7, Guided Metta - Culadasa
-# PbKB7L3wXN4 1:37:35 Joy & Meditation, Part 1, Introduction - Culadasa
-# 4h_jZo7D8nY 52:25 Joy & Meditation, Part 3 - Culadasa
-# pnVa5LOFYMI 12:45 Joy & Meditation, Part 2, Meditation - Culadasa
-# Xfj-XisH-f8 33:35 Joy & Meditation, Part 4, Guided-Meditation - Culadasa
-# WuHTnUFJvTY 57:45 Joy & Meditation, Part 5 - Culadasa
-# x8f4ywGuz7E 1:05:40 Joy & Meditation, Part 6 - Culadasa
-# 5P-EcrWA3JE 56:05 Joy & Meditation, Part 8 - Culadasa
-# QdWx1DyPoG4 34:55 Joy & Meditation, Part 7, Guided-Meditation - Culadasa
-# VvWGrbkl7XU 27:10 Joy & Meditation, Part 9 - Culadasa
-# GEJPm0EpZIY 1:20:00 Joy & Meditation, Part 11 - Culadasa
-# -UjegcD2NOI 40:25 Joy & Meditation, Part 10, Guided-Meditation - Culadasa
-# kLLUeGyKLFw 39:20 Joy & Meditation, Part 12 - Culadasa
-# 7pXwbEuqlds 49:00 Joy & Meditation, Part 13, Closing Meditation - Culadasa
-# sJ02xiHY1KI 1:14:25 What Is Enlightenment, Part 1 - Culadasa
-# hM2qhko-5V0 53:10 What Is Enlightenment, Part 2 - Culadasa
-# gTTbURalWwY 1:27:35 What Is Enlightenment, Part 4 - Culadasa
-# 6udxIzA9B8I 50:05 What Is Enlightenment, Part 3 - Culadasa
-# GoiFe39LKiE 1:19:25 What Is Enlightenment, Part 5 - Culadasa
-# aOKWj4Kk2rg 1:14:05 What Is Enlightenment, Part 6 - Culadasa
-# BwmcPn-7oMI 1:41:10 What Is Enlightenment, Part 7 - Culadasa
-# JwpiFIrG4bk 1:27:35 When the Buddhadharma Came to the West, Part 1 - Culadasa
-# ARdWVSNy7U8 1:23:45 When the Buddhadharma Came to the West, Part 3 - Culadasa
-# gGKT2sxn2Vs 1:17:10 When the Buddhadharma Came to the West, Part 2 - Culadasa
-# hoik390Dg9k 1:13:40 When the Buddhadharma Came to the West, Part 4 - Culadasa
-# R3nftLD2eMA 52:55 When the Buddhadharma Came to the West, Part 5 - Culadasa
-# 8sEeiWdGW-o 1:38:00 When the Buddhadharma Came to the West, Part 6 - Culadasa
-# sMPeNHk6Srs 1:16:10 When the Buddhadharma Came to the West, Part 8 - Culadasa
-# S9xqIz51SbM 29:10 When the Buddhadharma Came to the West, Part 7 - Culadasa
-# TJcy0n9NnKI 1:29:25 The Jhanas, Part 5 - Culadasa
-# qstlQPwmHq8 4:25 How Do We Project Reality - Culadasa
-# oufkssKC5qA 4:15 How Do I Meditate - Culadasa
-# WLx5Fvh91eE 30:45 The Jhanas, Part 6, Meditation - Culadasa
-# YplfDrwaZNA 59:00 The Jhanas, Part 4 - Culadasa
-# HeZuKlcaRTs 1:23:40 The Jhanas, Part 3, Meditation and Discussion - Culadasa
-# 3z3Mt0Bw4GE 1:20:00 The Jhanas, Part 2 - Culadasa
-# M8vpuW34HcI 1:36:35 The Jhanas, Part 1 - Culadasa
-# YZSsmNBUWEw 1:14:15 Meditation for Peace, Part 1 - Culadasa
-# xY7BdB32DEk 1:06:35 Meditation for Peace, Part 8 - Culadasa
-# YiO0UpLWbcA 48:00 Meditation for Peace, Part 7 - Culadasa
-# wc-EslQfkDU 1:05:50 Meditation for Peace, Part 5 - Culadasa
-# DQG0WzQTZfI 1:21:15 Meditation for Peace, Part 4 - Culadasa
-# AT9ZRu_4XMY 19:55 Meditation for Peace, Part 6 - Culadasa
-# qsgmBFeb5Cw 1:01:35 Meditation for Peace, Part 3 - Culadasa
-# rBerwigAmAQ 1:04:00 Meditation for Peace, Part 2 - Culadasa
-# tbF2gwJLEWQ 1:06:35 Meditation for Peace, Part 8 - Culadasa
-# WB76phVVvsA 1:21:15 Meditation for Peace, Part 4 - Culadasa
-# ApfkpAp3aC0 1:14:15 Meditation for Peace, Part 1 - Culadasa
-# An5pQGuPyRk 1:05:50 Meditation for Peace, Part 5 - Culadasa
-# Hwd9DnGRjpg 1:01:35 Meditation for Peace, Part 3 - Culadasa
-# 90JkxrK8QjM 1:04:00 Meditation for Peace, Part 2 - Culadasa
-# hYYjVAJfOPM 48:00 Meditation for Peace, Part 7 - Culadasa
-# ENWUs9QqTCU 19:55 Meditation for Peace, Part 6 - Culadasa
-# 5mlUleMSiTQ 1:38:30 When the Buddhadharma Came to the West, Part 6 - Culadasa
-# lsNaJVfKwZs 1:16:10 When the Buddhadharma Came to the West, Part 8 - Culadasa
-# VAPcuZvr9JA 1:29:15 When the Buddhadharma Came to the West, Part 1 - Culadasa
-# q1NkYOCYlA4 1:14:10 When the Buddhadharma Came to the West, Part 4 - Culadasa
-# KvG4Rw0YuJY 1:24:25 When the Buddhadharma Came to the West, Part 3 - Culadasa
-# ZpBlVT8okLQ 54:25 When the Buddhadharma Came to the West, Part 5 - Culadasa
-# 3UVOXvaG6z8 1:18:20 When the Buddhadharma Came to the West, Part 2 - Culadasa
-# unnYRQF04BE 29:15 When the Buddhadharma Came to the West, Part 7 - Culadasa
-# wpj0hT4_dwk 22:35 What is the Space Between Thoughts? - Culadasa
-# WUYh-0Tkvjk 17:10 The Five Aggregates and “No-Self” - Culadasa
-# mStFqLFqXRA 31:30 Piti (Joy) - Culadasa
-# zPv549Jmia4 18:35 What is Karma? - Culadasa
-# ROwydcA-Mkc 17:40 Will Power and Achievement - Culadasa
-# pgK3cLIO5DM 21:30 Motivation for Morality - Culadasa
-# Wprau239F-E 11:55 Progressing on the Path - Culadasa
-# oOCtnXOL6mk 10:50 Silence of the Mind - Culadasa
-# krRHH83qbiU 20:30 How to Develop Introspective Awareness - Culadasa
-# ud6Ndl6i2rE 2:25 Walking Meditation - Culadasa
-# PSal7mqWPps 3:50 Subtle Distractions and Gross Dullness - Culadasa
-# ourDJ0u2Xbo 7:30 Role for Psychedelics in the Path - Culadasa
-# M7G5Xt5GRb8 4:45 Is the Hologram a Good Model for Ultimate Reality? - Culadasa
-# MflPS9FAV5E 5:25 How Does the Mind Create the World? - Culadasa
-# 2aQgp47Fknc 4:25 How Do We Project Reality? - Culadasa
-# kCkR5wINMBA 4:15 How Do I Meditate? - Culadasa
-# oTBUDL8SfwU 15:55 Can Suchness Be Reduced to Energy? - Culadasa
-# IVUYdz_yzAw 9:20 Concentration vs Blissful States and Dullness - Culadasa
-# Qvb1JL94ikU 5:30 Focus on Sensations vs Absorption at Stage 4 - Culadasa
-# nFMPD65ccTI 9:10 A Model for Understanding Dullness - Culadasa
-# u-FD7WijOxk 1:00:10 TCMC Thursday #20, Part 2 - Culadasa
-# 5yrF0tBrnP4 1:00:15 TCMC Thursday #10 - Culadasa
-# vBrDgkMNh3Q 1:50:05 Bisbee Zen Sangha Lecture - Culadasa
-# pO2ChM2NFgY 1:53:45 Q&A - Culadasa, Stronghold Retreat #1, Part 5
-# cVU1rikYX9Y 45:25 Guided Meditation, TCMC Weekend #1, Part 7 - Culadasa
-# 5_KI-CwG37c 1:04:40 TCMC Thursday #28, Part 2 - Culadasa
-# uw3S_pDNjkQ 1:18:05 UWest Meditation Camp #2, Part 1 - Culadasa
-# 8smu6ilczdI 54:45 Uposatha Day #26 - Culadasa
-# jCLVsQIdY8w 1:08:57 TCMC Thursday #27, Part 2 - Culadasa
-# 0P3Yyat-BaY 46:00 Uposatha Day #27 - Culadasa
-# 1R9xgzbRF5Q 6:20 Tips on Developing Full-minded Awareness with Concentration (Stage 5) - Culadasa
-# W3xULt6Uatc 39:15 TCMC Thursday #28, Part 1 - Culadasa
-# rm9zAOF0mr8 29:25 TCMC Thursday #27, Part 1 - Culadasa
-# id7tS03tufI 57:20 TCMC Weekend #1, Part 9 - Culadasa
-# e7W5JRI1c8g 1:18:50 Uposatha Day #23 - Culadasa
-# -pqILBXTL0A 1:10:15 Uposatha Day #20 - Culadasa
-# lQBtlKV-8A4 13:30 Can a Cessation Be an Object of Consciousness? - Culadasa
-# vaVhcfOqIVE 1:13:15 UWest Meditation Camp #2, Part 8 - Culadasa
-# GC-n9-dWYsg 1:00:30 Uposatha Day #25 - Culadasa
-# M22w9lxOtAo 1:07:10 Uposatha Day #22 - Culadasa
-# dL02xlODGbI 47:10 Uposatha Day #24 - Culadasa
-# eG5VxQUctPQ 1:04:15 TCMC Weekend #1, Part 6 - Culadasa
-# uHWxeRv9M5Y 1:39:15 Guided Metta - UWest Meditation Camp #2, Part 10 - Culadasa
-# eqL6CsQ3lFg 1:00:15 UWest Meditation Camp #2, Part 6 - Culadasa
-# Bv9_koMGnWc 33:30 Uposatha Day #21 - Culadasa
-# pyoewXHdww0 1:03:55 UWest Meditation Camp #2, Part 5 - Culadasa
-# a9NKE-7GrZQ 1:19:20 TCMC Weekend #1, Part 2 - Culadasa
-# wILUJC_sqRY 51:35 TCMC Weekend #1, Part 8 - Culadasa
-# R0f7KOhA7Qc 1:12:00 TCMC Weekend #1, Part 4 - Culadasa
-# lfPThV3AARs 38:35 UWest Meditation Camp #2, Part 4 - Culadasa
-# lTQj8xh-BfM 1:26:30 TCMC Weekend #1, Part 1 - Culadasa
-# KdkOwnxE9rY 1:23:50 TCMC Thursday #21, Part 2 - Culadasa
-# hqnyTNVcSik 1:04:35 TCMC Weekend #1, Part 3 - Culadasa
-# iChmRArdaLo 23:25 UWest Meditation Camp #2, Part 7 - Culadasa
-# 920eFHwVlJs 58:55 TCMC Weekend #1, Part 10 - Culadasa
-# h3JLS4-ZWbE 1:09:30 Dharma Talk - Culadasa, Santa Fe Vipassana Sangha
-# rEgW_al38u4 47:10 TCMC Thursday #26 - Culadasa
-# UC6Xouvoi7k 13:15 UWest Meditation Camp #2, Part 3 - Culadasa
-# RN8SwjbPlWE 1:02:30 TCMC Thursday #24, Part 2 - Culadasa
-# D2yc0g73YBU 1:09:25 TCMC Thursday #23, Part 2 - Culadasa
-# sp9KKBWN5Wk 9:10 The Awakening Process - Culadasa
-# 6Fgux1RwmYQ 1:26:20 Q&A - Culadasa, Stronghold Retreat #1, Part 4
-# wrw7vKh_9BU 19:00 TCMC Weekend #1, Part 5 - Culadasa
-# q-W_rfqczBw 1:07:35 TCMC Thursday #22 - Culadasa
-# b56ubFUSw6w 1:38:35 Dharma Talk - Culadasa, Stronghold Retreat #1, Part 2
-# 1216dY3Pvdk 22:50 TCMC Thursday #25 - Culadasa
-# nRLmVRSEcUM 55:25 Q&A & Dharma Talk - Culadasa, Stronghold Retreat #1, Part 3
-# u6qjNcZ9GCA 42:50 TCMC Thursday #20, Part 1 - Culadasa
-# -dh1sQUjMts 58:30 Dharma Talk - Culadasa, Stronghold Retreat #1, Part 1
-# WP1tvBUKI_Q 28:35 TCMC Thursday #23, Part 1 - Culadasa
-# n2uF0xD7x7E 21:25 TCMC Thursday #24, Part 1 - Culadasa
-# DZg8pCJlzX8 26:40 TCMC Thursday #21, Part 1 - Culadasa
-# pYowT4zFgwc 14:05 Levels After the First Nine Meditation Stages - Culadasa
-# 0CcyCbcTovA 23:10 Guided Meditation, UWest Meditation Camp #2, Part 2 - Culadasa
-# Mu0SkCBR0nM 20:30 How Does Insight Fit into the Meditation Systems - Culadasa
-# rXJZhFgX2tk 11:25 Bypassing Steps to Awakening? - Culadasa
-# T7DJRmgDweE 34:30 Q&A - Culadasa, Retreat in California #4, Part 2
-# luJk8sbK2SI 1:38:01 UWest Meditation Camp #1, Part 4 - Culadasa
-# uxb_0HNI48Q 1:37:15 University of the West Lecture - Culadasa
-# oLY0mG2MdRk 1:08:15 Uposatha Day #18 - Culadasa
-# z3lTL0k4UmA 49:00 Uposatha Day #19 - Culadasa
-# ZDlU3G0eYiE 1:27:55 TCMC Weekend #1, Part 1 - Culadasa
-# oDDk6RJTWxY 58:05 Uposatha Day #17 - Culadasa
-# uWElZuDMpMM 52:50 Uposatha Day #16 - Culadasa
-# oaGu4A4KfVs 15:55 What is Free Will - Culadasa
-# 9y6eFyPZCSQ 1:18:40 TCMC Thursday #17, Part 2 - Culadasa
-# e2KkHo8wGMo 43:20 Uposatha Day #14 - Culadasa
-# NHfqniV75Aw 58:47 UWest Meditation Camp #1, Part 8 - Culadasa
-# 8HnEWG5qDLI 1:15:50 TCMC Thursday #18, Part 2 - Culadasa
-# y2gLtq8JRHM 1:47:15 Dharma Talk - Culadasa, Retreat in California #4, Part 9
-# 7f_BEI7XJhU 16:40 When We’ve Done Wrong - Culadasa
-# CNPdu6jjeNI 1:05:20 TCMC Thursday #19, Part 2 - Culadasa
-# HvfqSSF_QFE 46:55 Uposatha Day #13 - Culadasa
-# eFVkkRZ9WDM 1:20:35 TCMC Thursday #15, Part2 - Culadasa
-# 4JFLsHNdE3s 1:11:55 TCMC Thursday #16, Part 2 - Culadasa
-# oLiFFYFIFp4 1:42:20 Dharma Talk - Culadasa, Retreat in California #4, Part 7
-# iOIQjYjy7n4 6:30 Uposatha Day #15 - Culadasa
-# ENDA8TKB9jI 1:28:25 Dharma Talk - Culadasa, Retreat in California #4, Part 5
-# _j_XSDukuPQ 35:10 TCMC Thursday #18, Part 1 - Culadasa
-# 6iGOYQE-0ZQ 21:30 TCMC Thursday #19, Part 1 - Culadasa
-# LLLKVOWuhRM 28:00 TCMC Thursday #17, Part 1 - Culadasa
-# UMMCB-f3ALM 1:31:10 Dharma Talk - Culadasa, Retreat in California #4, Part 13
-# uRYLMUOPMlM 1:40:50 Dharma Talk - Culadasa, Retreat in California #4, Part 14
-# it4uodKgY5Q 34:10 TCMC Thursday #16, Part 1 - Culadasa
-# dsOl0vFkkTU 24:15 Q&A - Culadasa, Retreat in California #4, Part 4
-# bPHS6mdr0fA 30:05 TCMC Thursday #15, Part 1 - Culadasa
-# c7fH8AR978U 1:22:40 Dharma Talk - Culadasa, Retreat in California #4, Part 3
-# okEjvyYOx88 33:55 Q&A - Culadasa, Retreat in California #4, Part 6
-# L1HXCZV8XL0 1:32:45 Dharma Talk - Culadasa, Retreat in California #4, Part 11
-# tYZOM-C5hZ8 23:40 Q&A - Culadasa, Retreat in California #4, Part 8
-# MD39KrPZQmE 28:50 Q&A - Culadasa, Retreat in California #4, Part 10
-# vJgT3_2lZWQ 9:00 Sleepiness and Dullness - Culadasa
-# qQsfqL9FxqA 1:09:10 Dharma Talk - Culadasa, Retreat in California #3, Part 19
-# 6YcrRxk1PgE 33:00 Guided Beginner Meditation, UWest Meditation Camp #1, Part 10 - Culadasa
-# 7wnt72CF_Gg 24:00 Mind Unification - Culadasa
-# 8sBGx0VwCuo 1:07:10 Dharma Talk - Culadasa, Retreat in California #4, Part 1
-# w3dwsnoJQZM 14:40 Q&A - Culadasa, Retreat in California #4, Part 12
-# IEwgfA68m6c 15:00 Mindfulness Practice - Culadasa
-# SRM4bNmg0-g 15:30 Behind the Veil - Culadasa
-# jWLJhhrTokU 1:25 Lengthening Meditation Times - Culadasa
-# PTUZxS9cjwQ 20:05 Changing Your Destiny - Culadasa
-# UeJYk6Nm0r0 8:50 Benefits of Meditation - Culadasa
-# 4IVxof5UQkg 4:35 Counting as Meditation Tool - Culadasa
-# L5cLz8A9k3A 5:55 Brain vs Mind - Culadasa
-# Xj06Lc7y21I 1:07:05 TCMC Thursday #11, Part 2 - Culadasa
-# XazGRf3OnNc 1:27:25 UWest Meditation Camp #1, Part 6 - Culadasa
-# LENVuV2yeR4 1:34:15 Uposatha Day #11 - Culadasa
-# OPeTSpVFgzI 1:44:25 UWest Meditation Camp #1, Part 11 - Culadasa
-# YpbZSm8nEcs 1:00:20 UWest Meditation Camp #1, Part 5 - Culadasa
-# LVISBodOXac 55:55 Uposatha Day #10 - Culadasa
-# lTCNyukce0k 1:00:45 UWest Meditation Camp #1, Part 7 - Culadasa
-# wZaVkac9oK4 47:50 UWest Meditation Camp #1, Part 9 - Culadasa
-# LqUfbmBn0XQ 1:15:00 UWest Meditation Camp #1, Part 1 - Culadasa
-# maQ7WNnMMVI 1:12:53 UWest Meditation Camp #1, Part 14 - Culadasa
-# w3SZAD7VZ8c 1:03:47 UWest Meditation Camp #1, Part 12 - Culadasa
-# t-RLX9JA21M 16:05 Uposatha Day #8, Mindfulness in Daily Life - Culadasa
-# gD9WB4zI4eo 56:25 UWest Meditation Camp #1, Part 3 - Culadasa
-# P1gZHKsPF_Y 23:55 Uposatha Day #12 - Culadasa
-# 9J70of2c8Xw 29:40 Uposatha Day #7 - Culadasa
-# Vrn-GhJofeU 1:07:50 Q&A - Culadasa, Retreat in California #3, Part 8
-# WZN9NuUeH6Q 1:08:35 TCMC Thursday #12 - Culadasa
-# vd0s3TREqok 1:25:20 TCMC Thursday #13 - Culadasa
-# HHVCSTDsF6s 1:08:10 Dharma Talk - Culadasa, Retreat in California #3, Part 9
-# S3nX3gm9JBA 1:08:00 TCMC Thursday #14, Part 2 - Culadasa
-# 3ENaibWuA0w 56:40 Q&A - Culadasa, Retreat in California #3, Part 2
-# 6aWXvmIjDAE 1:08:50 Q&A - Culadasa, Retreat in California #3, Part 13
-# MZQqa2NvoHg 1:08:10 Q&A - Culadasa, Retreat in California #3, Part 4
-# DJBBZ9pKLcE 1:02:25 Q&A - Culadasa, Retreat in California #3, Part 15
-# w9jAKb2Mqi8 35:10 TCMC Thursday #14, Part 1 - Culadasa
-# Da44vOqxXLw 29:30 TCMC Thursday #11, Part 1 - Culadasa
-# c-KuXPdIZe8 1:00:50 Q&A - Culadasa, Retreat in California #3, Part 17
-# 9jH8MpuXlHc 1:03:00 Q&A - Culadasa, Retreat in California #3, Part 10
-# 0G8q942gfzM 58:40 Q&A - Culadasa, Retreat in California #3, Part 6
-# q-XQicy6HR0 1:05:50 Dharma Talk - Culadasa, Retreat in California #3, Part 14
-# 8GE5M0wrjss 1:38:30 Dharma Talk - Culadasa, Retreat in California #3, Part 16
-# ZYV2X_7YNQc 36:30 Guided Metta - Culadasa, Retreat in California #3, Part 18
-# sacyPpJK7gg 44:00 Opening - Culadasa, Retreat in California #3, Part 1
-# 0Uork0NCSis 1:22:10 DM Retreat #2 - Culadasa
-# _FCO92IIMLE 1:11:30 Dharma Talk - Culadasa, Retreat in California #3, Part 3
-# HiyQfOzsSms 59:35 Dharma Talk - Culadasa, Retreat in California #3, Part 11
-# 3efUiakSwiI 56:05 Dharma Talk - Culadasa, Retreat in California #3, Part 5
-# R0Crl1r_4Fk 1:09:10 Dharma Talk - Culadasa, Retreat in California #3, Part 7
-# 6ghUvwHiq-Y 1:14:15 Beginner Guided Meditation, UWest Meditation Camp #1, Part 2 - Culadasa
-# 8yz0HxXTVFY 28:25 Guided Metta - Culadasa, Retreat in California #3, Part 12
-# 70qMmwmaccQ 1:13:15 DM Retreat - Culadasa
-# xmmPRYagq3s 26:05 Guided Metta Meditation, UWest Meditation Camp #1, Part 13 - Culadasa
-# wU0RjslXxlo 14:00 Analytical Meditations, What and How - Culadasa
-# SdYgWK-mYrg 3:00 First Stage of Meditation Tips - Culadasa
-# oQixjDgWq9g 1:28:13 Cochise Stronghold 10 Day Retreat #1, Part 1 - Culadasa
-# Zl0zl_Yd1-I 1:25:15 Cochise Stronghold 10 Day Retreat #1, Part 3 - Culadasa
-# TnasBvYIsHE 59:00 Closing Dharma Talk - Culadasa, Cochise Stronghold Weekend #1, Part 3
-# EpupNjzIt-M 1:13:15 Cochise Stronghold 10 Day Retreat #1, Part 4 - Culadasa
-# nLQ_1dSc8ZQ 51:00 Cochise Stronghold 10 Day Retreat #1, Part 2 - Culadasa
-# QGlXc2UWBJY 1:10:15 Cochise Stronghold 10 Day Retreat #1, Part 6 - Culadasa
-# yA-q5TQn0NM 7:15 Brightening the Mind to Combat Subtle Dullness - Culadasa
-# dqxHOoBS8e8 1:04:45 Cochise Stronghold 10 Day Retreat #1, Part 7 - Culadasa
-# FqYQWfh1GJw 46:30 Cochise Stronghold 10 Day Retreat #1, Part 5 - Culadasa
-# iPZTuq11gqA 1:57:05 TCMC Thursday #5 - Culadasa
-# yAqvatURbgs 1:26:10 Dharma Talk, Q&A - Culadasa, Cochise Stronghold Weekend #1, Part 2
-# PSg_Pxe89bA 1:43:30 TCMC Thursday #7 - Culadasa
-# WeQ-VzAFDzU 1:29:25 TCMC Thursday #6, Part 3 - Culadasa
-# m13cmG7uhu8 43:20 Guided Metta Meditation, TCMC Thursday #6, Part 2 - Culadasa
-# -8JH-QPG6lA 19:45 Combating Depression and Dissastifaction During Transition - Culadasa
-# 8-dkvQ8T89o 15:05 Loving Kindness Practice - Culadasa
-# Xx-QIXKainU 12:25 Craving, What’s it All About? - Culadasa
-# Idkm7mG3ohI 3:40 Exchanging Self and Others - Culadasa
-# w9i_1vp2OCg 6:20 How do I develop mindful awareness and good concentration - Culadasa
-# GGOS42Ws7_I 1:14:45 TCMC Thursday #9, Part 2 - Culadasa
-# 1kXIzUKS0TM 11:55 The Benefits and Practice of Letting Go - Culadasa
-# -TmI4U9JYFc 4:40 Physical Suffering vs Mental Suffering - Culadasa
-# wRZdcZUz1ks 21:45 TCMC Thursday #6, Part 1 - Culadasa
-# mywGH24zu60 41:35 TCMC Thursday #8, Part 2 - Culadasa
-# -2rXnz9RUuc 31:15 TCMC Thursday #8, Part 1 - Culadasa
-# KRxHUtQ3Vjc 42:40 Uposatha Day #5 - Culadasa
-# ZCiDLdvHDyI 25:55 TCMC Thursday #9, Part 1 - Culadasa
-# HuKdJQUR2TY 15:00 Uposatha Day #3 - Culadasa
-# endc5cDy8zM 10:50 Uposatha Day #4 - Culadasa
-# 293vximFQW4 1:25 Working with Post Traumatic Stress Disorder - Culadasa
-# V5v-nNBgYSM 45:20 Guided Meditation - Culadasa, California Retreat #2, Part 6
-# 25GQobBP1C0 1:42:35 TCMC Thursday #4 - Culadasa
-# F_MDEaOBWI0 1:57:45 TCMC Thursday #1 - Culadasa
-# 8EetwP74CF0 1:25:40 TCMC Thursday #2 - Culadasa
-# 5Rz0LSfeRyQ 1:34:05 TCMC Thursday #3 - Culadasa
-# 1akIBebwVOQ 1:04:50 Introduction - Culadasa, Cochise Stronghold Weekend, Part 1
-# GlaQy-CRY_Q 35:15 Uposatha Day #2 - Culadasa
-# 8o-qawkwkeE 1:23:00 Dharma Talk - Culadasa, California Retreat #2, Part 4
-# vxkieoMDKsk 1:01:20 Q&A – Culadasa, Retreat in California #2, Part 8
-# m8rijuciZWg 1:25:05 Dharma Talk – Culadasa, Retreat in California #2, Part 11
-# 12gfXprvTWo 59:20 Q&A – Culadasa, Retreat in California #2, Part 5
-# y9h7KzDwMMU 1:27:10 Dharma Talk – Culadasa, Retreat in California #2, Part 9
-# cSjkj8p1bzw 1:04:25 Q&A – Culadasa, Retreat in California #2, Part 10
-# YbZyAR4bKRw 1:02:10 Dharma Talk – Culadasa, Retreat in California #2, Part 7
-# U6nPD02iPf8 37:15 Closing – Culadasa, Retreat in California #2, Part 12
-# -mbGcDSEEcI 2:13:40 Dharma Talk - Culadasa, California Retreat #1, Part 15
-# FMDdB2RpckY 1:50:35 Dharma Talk - Culadasa, California Retreat #1, Part 17
-# VVXIYCC5Tg8 1:59:40 Dharma Talk - Culadasa, California Retreat #1, Part 13
-# CKSVmsDZjAg 1:53:35 Dharm Talk - Culadasa, California Retreat #1, Part 11
-# qNVfPuGbJcc 1:25:10 Dharma Talk – Culadasa, Retreat in California #2, Part 2
-# K6bhtKYvUc4 1:22:55 Q&A – Culadasa, Retreat in California #2, Part 1
-# k8zFTjBnNl8 1:13:55 Retreat Closing - Culadasa, California Retreat #1, Part 18
-# J_dFNqelBfI 1:04:10 Q&A – Culadasa, Retreat in California #2, Part 3
-# W4rdBy2rS0E 1:12:10 Q&A - Culadasa, California Retreat #1, Part 16
-# 9izV_lZ2gF4 1:01:20 Q&A - Culadasa, California Retreat #1, Part 12
-# -eWefpzBzqQ 59:45 Q&A - Culadasa, California Retreat #1, Part 14
-# -9bu9P6OjIo 2:01:45 Dharma Talk - Culadasa, California Retreat #1, Part 9
-# wQkmlFKLONM 2:22:10 Evening Opening - Culadasa, California Retreat #1, Part 1
-# ZIVpqZ12n5s 1:15:55 Dharma Talk - Culadasa, California Retreat #1, Part 7
-# wE7ONOW73zE 1:01:00 Q&A - Culadasa, California Retreat #1, Part 10
-# b8zAJ3JCc_k 1:14:35 Dharma Talk - Culadasa, California Retreat #1, Part 5
-# eptT3fEFeWM 1:01:55 Q&A - Culadasa, California Retreat #1, Part 8
-# CpVvyfvHs4I 1:01:55 Q&A - Culadasa, California Retreat #1, Part 6
-# JexBXhxlXnU 1:04:25 Q&A - Culadasa, California Retreat #1, Part 4
-# Ep2XB4eZVDQ 1:08:35 Dharma Talk - Culadasa, California Retreat #1, Part 3
-# ev2a4H1ZO88 59:50 Q&A - Culadasa, California Retreat #1, Part 2
-# iS_hjBoApQY 1:12:15 Uposatha Day #1 - Culadasa
-
-# Culadasa
-
-# edd2fS8BRdM 1:48:18 Culadasa May 2021 Patreon Q&A No1
-# fmn_lz7tGFc 1:29:09 Culadasa April 2021 Patreon Q&A No2
-# 8Uc_gewR1gY 1:27:55 Culadasa April 2021 Patreon Q&A No1
-# -hKGfbBuemA 1:15:01 Culadasa March 2021 Patreon Q&A No2
-# qppnBfQ_KEI 1:22:26 Culadasa February 2021 Patreon Q&A No2
-# 1nPhm73Aaxw 1:34:44 Culadasa February 2021 Patreon Q&A No1
-# qIuZg6jBNsM 1:25:03 Culadasa January 2021 Patreon Q&A No2
-# ZbmFWHoT0YE 1:21:16 Culadasa January 2021 Patreon Q&A No1
-# d4x3_ffTPC0 1:42:07 Culadasa December 2020 Patreon Q&A No1
-# z2aOw9Uhc-w 2:01:19 Culadasa November 2020 Patreon Q&A No3
-# 9KYmlShAz_g 1:26:29 Culadasa November 2020 Patreon Q&A N°2 Recording
-# K0KKBU46hNM 1:33:03 Culadasa November 2020 Patreon Q&A N°1 - Sunday the 1st
-# rXySJwIZMP8 1:32:17 Culadasa October 2020 Patreon Q&A N°2 Recording
-# JK0q0tgsw2U 1:37:12 Culadasa October 2020 Patreon Q&A N°1 Recording
-# GWThVC6FEzA 1:46:16 Culadasa September 2020 Patreon Q&A N°2 Recording
-# 81mCT4D6w1I 1:39:36 Culadasa September 2020 Patreon Q&A N°1 Recording
-# BJzM7GH9-nE 1:22:54 Culadasa August 2020 Patreon Q&A N°2 Recording
-# kwyGPfavfFY 1:44:59 Culadasa August 2020 Patreon Q&A N°1 Recording
-# YU_gUvXkkVY 1:43:06 Culadasa July 2020 Patreon Q&A N°2 Recording
-# nlB-Dk8MkVE 1:41:08 Culadasa July 2020 Patreon Q&A N°1 Recording
-# a8XJrNx7iN0 1:42:38 Culadasa June 2020 Patreon Q&A N°2 Recording
-# 1-bzZgZd-sg 1:45:21 Culadasa June 2020 Patreon Q&A N°1 Recording
-# BYtQAyNyA8E 1:57:23 Culadasa May 2020 Patreon Q&A Recording N°2
-# eL36yVnWcb8 2:02:09 Culadasa May 2020 Patreon Q&A Recording N°1
-# omNF2wQYVxs 1:53:06 Culadasa April 2020 Patreon Q&A Recording
-# FnQVRtDu0kQ 1:46:48 Culadasa February 2020 Patreon Q&A Recording Nº 2 - Sunday
-# IamWcgYWKcw 1:30:15 Culadasa February 2020 Patreon Q&A Nº 1 - Saturday
 BAWrOls6I8U 0:54 New Channel 4 My Journey
 AdiW7_HcjiE 1:13:05 My Journey: Episode 6 - The Ups and Downs of Practice (and Life!) - RE-UPLOAD WITH BETTER SOUND
 BR7D92whYXA 1:09:49 My Journey: Episode 5 - Unifying life around the Dharma (re-upload)
@@ -1879,39 +844,6 @@ kn050yBN37U 59:17 My Journey: Episode 1 - The path of the lay practitioner, comm
 Uf_su1wDk94 8:57 Introduction to "My Journey" discussion series
 UjBXtI1Q2as 1:04:56 Culadasa discusses meditation and the "Dark Night": What it is, what it isn't, and how to avoid it
 6nxZFnYCjbc 1:16:17 Nihilism vs Eternalism; Meaning in life; Is Awakening worth it? How long does it take?
-# lVvii04Sa3I 1:14:39 Culadasa December 2020 Patreon Q&A No2
-# aJ16ifG-udI 1:23:30 Culadasa January 2020 Patreon Q&A N° 2 (Monday)
-# c7GSUFa_lF4 1:22:12 Culadasa January 2020 Patreon Q&A Nº 1 - Sunday
-# eERQSG0eMFY 1:17:41 Culadasa December 2019 Patreon Q&A Video - Monday the 16th
-# _c94GntI6qM 1:31:22 Culadasa December 2019 Patreon Q&A Video - Sunday the 15th
-# Wmg-SOl9Sk4 1:28:38 Culadasa November 2019 Patreon Q&A Video - Friday the 29th
-# -pqnkm1tQ0E 1:42:39 Culadasa November 2019 Patreon Q&A - Monday
-# YfRp9cMPSNk 1:33:47 Culadasa November 2019 Patreon Q&A - Sunday
-# X7brJ8qrLBo 1:35:54 Culadasa July 2019 Patreon Q&A
-# MapEQWUQakY 1:34:42 Culadasa June 2019 Patreon Q&A
-# kGgpbE_etV8 1:32:49 20190517 Culadasa Patreon Q&A
-# mW3_WGR2Llo 1:13:02 Culadasa March 2019 Patreon Q&A Catchup
-# Dp3l_XnTd20 1:25:44 Culadasa April 2019 Patreon Q&A
-# 7UdHOJqB03o 1:54:58 March 2019 Culadasa Patreon Q&A
-# eKMKZGZy6sc 1:29:33 February 2019 Culadasa Patreon Q&A
-# zRa9I0ZkdKM 1:24:01 February 2019 Culadasa Patreon Q&A catch-up
-# ewiA5sh-otw 1:28:44 Culadasa January 2019 Patreon Q&A
-# By0s1KVLYBw 1:33:21 Culadasa December 2018 Patreon Q&A
-# urCb5Ryp8SU 1:42:43 Culadasa November 2018 Patreon Q&A
-# _m3ou_CA1Wk 1:16:31 November 23, 2018 Culadasa Q&A Catch Up
-# DO4vExydTKA 1:30:28 October 29, 2018 Culadasa Patreon Q&A
-# aM0o-BkrwkY 1:48:46 September 2018 Patreon Q&A
-# EhtU5ei6YaM 1:30:00 20180816 Patreon Meetup Video
-# mz0MlFOwaek 1:49:44 July 25, 2018 Culadasa Patreon Q&A
-# rqpZrRRC1sU 1:24:06 Culadasa June 2018 Patreon Q&A
-# pYZ7kiIbLWs 1:32:29 Culadasa May 2018 Patreon Q&A
-# 0nC9ZUx-Xs4 1:48:10 Culadasa April 2018 Patreon Q&A
-# 3ZM2Hq-wiwU 2:00:47 Culadasa April 2018 Patreon Q&A Catch-Up
-# YD02MC1RaUs 1:42:10 Culadasa February 2018 Patreon Q&A
-# e1kss-E0IKU 1:22:37 Culadasa October 2017 Patreon Q&A
-# 9GCa0epZVs8 1:01:04 Culadasa March 2018 Patreon Q&A
-# RarJIUBrysw 1:31:37 Culadasa January 2018 Patreon Q&A
-# uuBr-5G0zoE 1:59:49 Culadasa December 2017 Patreon Q&A
 Zk2XQFwESIk 1:11:22 Creating the optimal state of mind for Meditation - Culadasa at NYIMC
 2LYa1YCdZH8 1:15:37 Culadasa -The 5 ultimate insights that lead to direct awakening.
 vtWoFpEHTBs 27:27 How do you know whats true? - Culadasa at NY Insight
@@ -5313,331 +4245,331 @@ d6pX0S34CZk 10:08 Webinar, "Federated Wiki: Potential for a new generation of op
 
 # PBS Space Time
 
-WZfmG_h5Oyg 20:16 What Happens Inside a Proton?
-184eP_KuXek 14:12 How Many States Of Matter Are There?
-JnKzt6Xq-w4 18:53 What If We Live in a Superdeterministic Universe?
-rQnNghhPw6o 19:28 Could We Decode Alien Physics?
-wdP_UDSsuro 20:34 Is Interstellar Travel Impossible?
-epSev7ovVew 14:22 Have We SOLVED The Black Hole Information Paradox with Wormholes?
-v-aP1J-BdvE 18:51 What If Physics IS NOT Describing Reality?
-e3jGWXeBtPo 20:30 The Evolution of the Modern Milky Way Galaxy
-v4ogRCjhFDM 15:06 What If the Galactic Habitable Zone LIMITS Intelligent Life?
-bUHZ2k9DYHY 17:32 Space DOES NOT Expand Everywhere
-G0Q4UAiKacw 18:04 How the Higgs Mechanism Give Things Mass
-I8p1yqnuk8Y 18:44 Does the Universe Create Itself?
-jeRgFqbBM5E 13:01 Could The Universe Be Inside A Black Hole?
-BOLHtIWLkHg 19:15 Where Is The Center of The Universe?
-esayi49OAk4 15:44 What If Charge is NOT Fundamental?
-LHhFFfv20-4 21:22 Is the Proxima System Our Best Hope For Another Earth?
-Thw43hzXlDA 15:55 Are Cosmic Strings Cracks in the Universe?
-FP6iyVJ70OU 20:16 Is The Wave Function The Building Block of Reality?
-twvj9os9DLE 39:34 The Nature of Space and Time AMA
-cDQZXvplXKA 18:14 How Does Gravity Escape A Black Hole?
-D-wzdsSiemU 13:25 How To Build The Universe in a Computer
-55c9wkNmfn0 20:53 How To Simulate The Universe With DFT
-6mJXv5OBel8 14:42 How to Find ALIEN Dyson Spheres
-AK44wAvv2E4 20:26 What Happens If A Black Hole Hits Earth?
-X5r36VCrA_w 36:39 2021 End of Year AMA!
-351JCOvKcYw 16:29 Are Black Holes Actually Fuzzballs?
-0sTBZ2G4vow 18:28 What If Our Understanding of Gravity Is Wrong?
-Q_CQDSlmboA 19:40 Is ACTION The Most Fundamental Property in Physics?
-hYc97J2MZIo 16:19 Will Constructor Theory REWRITE Physics?
-iDIcydiQOhc 17:31 New Results in Quantum Tunneling vs. The Speed of Light
-dw1sekg6SUY 18:27 Why Magnetic Monopoles SHOULD Exist
-EK_6OzZAh5k 19:29 How Electron Spin Makes Matter Possible
-1Ou1MckZHTA 14:15 Neutron Stars: The Most Extreme Objects in the Universe
-I9y62qoTsic 17:13 First Detection of Light from Behind a Black Hole
-gc4pxTjii9c 13:15 How Vacuum Decay Would Destroy The Universe
-IEDSAheh8Os 19:01 How to Communicate Across the Quantum Multiverse
-QLSIZg0npuA 18:46 How An Extreme New Star Could Change All Cosmology
-_H4xrVzd65Q 19:04 How Magnetism Shapes The Universe
-z-syaCoqkZA 13:03 Where Are The Worlds In Many Worlds?
-pWlk1gLkF2Y 18:10 Electrons DO NOT Spin
-vgYQglmYU-8 19:36 How Quantum Entanglement Creates Entropy
-snp-GvNgUt4 12:23 Can Space Be Infinitely Divided?
-LkeTk-Fi_c8 16:52 Are We Running Out of Space Above Earth?
-srVKjWn26AQ 16:08 What If (Tiny) Black Holes Are Everywhere?
-uZDhCW-PTRM 11:02 Breaking The Heisenberg Uncertainty Principle
-3sq658Okvao 19:20 How To Know If It's Aliens
-Vk5bxHetL4s 18:54 The NEW Warp Drive Possibilities
-qy8MdewY_TY 12:21 What If Dark Matter Is Just Black Holes?
-O4Ko7NW2yQo 12:36 Why the Muon g-2 Results Are So Exciting!
-SMPid7Sh0EE 17:11 Zeno's Paradox & The Quantum Zeno Effect
-dsCjRjA4O7Y 18:09 The NEW Crisis in Cosmology
-OHdV9aO6jaE 13:25 How Does Gravity Affect Light?
-UKxQTvqcpSg 11:51 Does Time Cause Gravity?
-L9L_gNogNes 18:26 Gravitational Wave Background Discovered?
-GKD1vDAPkFQ 12:44 How Does Gravity Warp the Flow of Time?
-fidzLZQyaJE 16:51 Is Dark Matter Made of Particles?
-6MfJ59lkABY 16:43 Can We Break the Universe?
-j5HyMNNSGqQ 12:58 What Happens During a Quantum Jump?
-0A1ouV7iD8o 16:22 Navigating with Quantum Entanglement
-3tCWWnXicC0 16:30 The Supernova At The End of Time
-F0b8b_ykPQk 14:36 Why Do You Remember The Past But Not The Future?
-QkWT-xMTm1M 14:21 The Arrow of Time and How to Reverse It
-RY7hjt5Gi-E 13:57 Can Free Will be Saved in a Deterministic Universe?
-qKVpknSKgE0 15:44 Electroweak Theory and the Origin of the Fundamental Forces
-z4odQd8q3xY 16:59 How The Penrose Singularity Theorem Predicts The End of Space Time
-1JCRDaa3ehk 16:31 Is The Future Predetermined By Quantum Mechanics?
-EagNUvNfsUI 16:06 Do the Past and Future Exist?
-nNdy-LJWNQs 15:58 Venus May Have Life!
-4KCDGa98Ckc 17:43 Solving Quantum Cryptography
-XNK5oahmw3I 16:17 Could Life Evolve Inside Stars?
-xFKgIOX8IRE 16:55 The Truth About Beauty in Physics
-hp2Ek1cA1LE 12:44 How Do We Know What Stars Are Made Of?
-tJgWnbET1eE 17:49 Can Future Colliders Break the Standard Model?
-Uf0q4Iq3AC8 15:18 How Stars Destroy Each Other
-CJx3gLkebIA 1:23:28 Theory of Everything Controversies: Livestream
-_izocEgArtQ 1:34:45 What is a Theory of Everything: Livestream
-iozCwyjxhyY 2:30 Theory of Everything Livestreams with Amazing Guests
-As7vWYmb5L8 15:01 The Boundary Between Black Holes & Neutron Stars
-JOMrbkZqTcs 13:48 Does Antimatter Explain Why There's Something Rather Than Nothing?
-1Z5fnwUmTSY 16:19 Dissolving an Event Horizon
-lqGxj3Esdxc 13:27 Building Black Holes in a Lab
-PC2JOQ7z5L0 18:30 What Happens After the Universe Ends?
-o2ZcvPW5EcI 17:10 Can Viruses Travel Between Planets?
-z91oGI5aP0A 16:42 Does Gravity Require Extra Dimensions?
-4v9A9hQUcBQ 17:41 Mapping the Multiverse
-M3GQM7tuq2w 18:04 How Luminiferous Aether Led to Relativity
-Y6Vhh70Lw9w 17:49 How We Know The Universe is Ancient
-9xIn1Ti7bz0 1:14:15 Space Time Livestream: Ask Matt Anything
-ldVDM-v5uz0 17:18 Will Wormholes Allow Fast Interstellar Travel?
-t8o5W425uhw 16:59 Was the Milky Way a Quasar?
-vAgiHreswj0 17:25 How We Know The Earth Is Ancient
-T4oYvSH6jJ8 15:15 What’s On The Other Side Of A Black Hole?
-UjgGdGzDFiM 13:59 How Black Holes Spin Space Time
-vSnq5Hs3_wI 19:27 How Do Quantum States Manifest In The Classical World?
-QTZZUjnrbF8 17:20 Does Quantum Immortality Save Schrödinger's Cat?
-GlOwJWJWPUs 15:25 How Decoherence Splits The Quantum Multiverse
-CT7SiRiqK-Q 17:17 Does Consciousness Influence Quantum Mechanics?
-e7yXqF32Yvw 17:01 Are Axions Dark Matter?
-qT110-Q8PJI 16:56 Are there Infinite Versions of You?
-GWFJteC7kIk 16:53 Hacking the Nature of Reality
-et7XvBenEo8 16:17 Solving the Three Body Problem
-T2pImihwFHg 14:57 How To Capture Black Holes
-zw2TYNY3F8U 10:06 How To Detect a Neutrino
-rFgpKlcpzNM 18:30 Do Black Holes Create New Universes?
-dSvgw9ZOK3I 17:50 The Doomsday Argument
-F2s7vyKucis 16:39 Is The Universe Finite?
-q-6oU3jXAho 18:29 Can You Observe a Typical Universe?
-YmOVoIpaPrc 17:24 Does Life Need a Multiverse to Exist?
-8wa1l7M5gU8 15:59 Why We Might Be Alone in the Universe
-pGnMiGrYmPE 13:01 Is Time Travel Impossible?
-L2suMPiuog4 17:33 Loop Quantum Gravity Explained
-fKgQYOlpxmo 14:19 Black Hole Harmonics
-XglOw2_lozc 18:45 How Many Universes Are There?
-CzJIWxplAbQ 18:17 Is Pluto a Planet?
-FshtPsOTCP4 19:37 Could We Terraform Mars?
-51usJ74pPP8 14:13 Is Earth's Magnetic Field Reversing?
-n8cEZM1lN5g 12:59 How To Become an Astrophysicist + Challenge Question!
-chsLw2siRW0 13:51 What Happened Before the Big Bang?
--5j98wi_M2w 5:31 Exploring Arecibo in VR 180
-xJCX2NlhdTc 13:28 What Caused the Big Bang?
-E8rel2-kLJA 10:12 Deciphering The Vast Scale of the Universe | STELLAR
-K8gV05nS7mc 13:34 Did Time Start at the Big Bang?
-_N-2Sx-FDQA 15:20 The Quantum Internet
-ElulEJruhRQ 18:42 Thorium and the Future of Nuclear Energy
-cqCPnXHKO5c 8:33 The Quasar from The Beginning of Time | STELLAR
-FocZf26yTU0 14:33 How Black Holes Kill Galaxies
-MmgMboWunkI 15:41 The Alchemy of Neutron Star Collisions
-k6BL1GOXgp8 15:21 The Cosmic Dark Ages
-pi7YwxxZQ5A 17:15 Why Quantum Computing Requires Quantum Cryptography
-GOhOlLa4teg 12:07 The Real Science of the EHT Black Hole
-5t0jaE--l0Y 14:38 No Dark Matter = Proof of Dark Matter?
-klpDHn8viX8 18:24 The Holographic Universe Explained
-tJevBNQsKtU 18:30 The Edge of an Infinite Universe
-gEyXTQ9do-c 15:49 Could the Universe End by Tearing Apart Every Atom?
-tAtVgHvt05M 18:22 Is Dark Energy Getting Stronger?
-dWk9d_YCQOk 16:23 Will You Travel to Space?
-rckrnYw5sOA 16:31 The Impossibility of Perpetual Motion Machines
-C4CKtEQJGMY 17:11 Secrets of the Cosmic Microwave Background
-PPpUxoeooZk 17:32 Sound Waves from the Beginning of Time
-10AP7tio408 15:15 Perpetual Motion From Negative Mass?
-72cM_E6bsOs 18:05 The Crisis in Cosmology
-L2idut9tkeQ 18:27 Our Antimatter, Mirrored, Time-Reversed Universe
-miGddxrvmDU 13:54 Are Dark Matter And Dark Energy The Same?
-IhpGdumLRqs 18:39 Why String Theory is Wrong
-UyTqgnKD3sw 17:11 Quantum Physics in a Mirror Universe
-REl20rlZGTw 18:34 Did Life on Earth Come from Space?
-wICOlaQOpM0 17:32 'Oumuamua Is Not Aliens
-5ESFGYkkbEI 16:26 Supersymmetric Particle Found?
-iTTa9YcTe1k 16:48 Why String Theory is Right
-ztFovwCaOik 17:14 Are Virtual Particles A New Layer of Reality?
-uhJ9lJPt09k 17:37 Will We Ever Find Alien Life?
-k6TWO-ESC6A 16:38 What are the Strings in String Theory?
-0GLgZvTCbaA 15:09 Computing a Universe Simulation
-3HYw6vPR9qU 15:48 How to Detect Extra Dimensions
-YNEBhwimJWs 16:41 Quantum Gravity and the Hardest Problem in Physics | Space Time
-XxVlGAFX7vA 16:12 How Much Information is in the Universe?
-Ab8JIzckx_M 12:25 The Black Hole Entropy Enigma
-VmEY6T5Wc-Q 13:42 Is There Life on Mars?
-Qg4vb-KH5F4 17:53 How Will the Universe End? | Space Time
-7UwigY4SjKY 16:30 Quantum Theory's Most Incredible Prediction | Space Time
-cOzaGEAGzzA 14:15 How Close To The Sun Can Humanity Get?
-KR23aMjIHIY 14:01 Reversing Entropy with Maxwell's Demon
-kfffy12uQ7g 12:20 The Misunderstood Nature of Entropy
-V5kgruUjVBs 13:04 Quantum Invariance & The Origin of The Standard Model
-0mXW1zPlxEE 13:49 Will A New Neutrino Change The Standard Model?
-TF6GRPaeLbk 11:58 How Asteroid Mining Will Save Earth
-9XkHBmE-N34 15:30 The Black Hole Information Paradox
-GscfuQWZFAo 14:08 What Survives Inside A Black Hole?
-HF-9Dy6iB_4 13:43 Why Quantum Information is Never Destroyed
-04ERSb06dOg 13:02 Noether's Theorem and The Symmetries of Reality
-Jdy09y0A4t0 10:45 How Gaia Changed Astronomy Forever
--iWGtQ03OZM 11:04 The Star at the End of Time
-UVhtKAnp3G4 11:32 Black Hole Swarms | Space Time
-xnwXyPU_ps0 12:47 Using Stars to See Gravitational Waves
-GcfLZSL7YGw 13:41 The Physics of Life (ft. It's Okay to be Smart & PBS Eons!)
-7cj6oiFDEXc 11:14 The Unruh Effect
-_P1xKh_kZFU 12:02 The Andromeda-Milky Way Collision
--R9F2_D76TE 9:28 Scientists Have Detected the First Stars
-qPKj0YnKANw 12:06 Hawking Radiation
-wJ7d503fN-g 12:40 Should Space be Privatized? | Space Time
-G7UOFZBEA_g 8:48 The Trebuchet Challenge | Space Time
-iJY3y5_k0do 12:01 The Death of the Sun
-PUn2izowBkw 14:19 What is Energy?
-9-SxVSpSoek 9:47 Kronos: Devourer Of Worlds
-wwGeCfWc100 14:15 The End of the Habitable Zone
-bG-xu5H6plk 14:56 Horizon Radiation
-TbWyuJYybMA 13:50 What Do Stars Sound Like?
-TmD27cUuylw 1:36 Space Time VR
-8HvwNOSnveE 13:09 Extinction by Gamma-Ray Burst
-nYGs92-qnFY 11:36 The Origin of 'Oumuamua, Our First Interstellar Visitor | Space Time
-izqaWyZsEtY 14:49 Understanding the Uncertainty Principle with Quantum Fourier Series | Space Time
-tFB8MsizvBc 10:33 Citizen Science + Zero-Point Challenge Answer | Space Time
-_x2nL6ukJDg 16:48 Suicide Space Robots
-Rh898Yr5YZ8 10:09 Zero-Point Energy Demystified
-n6jAOV7bZ3Y 11:36 The Vacuum Catastrophe
-RchRrngfjQY 13:23 The Missing Mass Mystery
-X5rAGfjPSWE 16:07 The Nature of Nothing | Space Time
-OvgZqGxF3eo 10:41 Absolute Cold | Space Time
-gtZ7OVoI2nc 13:39 When Quasars Collide STJC
-YJzoelANL_Y 14:52 Are the Fundamental Constants Changing?
-BIASPc89Sgk 13:40 The Future of Space Telescopes
-kL81uuYW9BY 15:51 Neutron Stars Collide in New LIGO Signal?
-S4aqGI1mSqo 13:27 White Holes | Space Time
-OfOuBx6XW3Q 11:41 First Detection of Life
-OjFKcGHfVag 14:09 Extraterrestrial Superstorms
-9dqtW9MslFk 12:50 The One-Electron Universe | Space Time
-xgdNBQCdhdA 12:29 Dark Flow
-fG52mXN-uWI 14:25 The Secrets of Feynman Diagrams
-Q8shnjlGwmg 18:06 The Real Star Wars
-oQ1WZ-eJW8Y 15:21 Solving the Impossible in Quantum Field Theory
-vSFRN-ymfgE 15:49 Feynman's Infinite Quantum Paths
-ATcrrzJFtBY 15:22 The First Quantum Field Theory
-hYkaahzFWfo 16:12 Anti-Matter and Quantum Relativity
-lrS0rxX-UhA 14:00 Supervoids vs Colliding Universes!
-4pSUtWBiuB4 13:28 The Fate of the First Stars
-vLR_a1MAy9I 14:59 Martian Evolution
-nsWhE22i4FM 11:58 The Great American Eclipse
-hmVOV7xvl58 16:28 Are We Living in an Ancestor Simulation? ft. Neil deGrasse Tyson | Space Time
-nhy4Z_32kQo 11:44 Are You a Boltzmann Brain?
-osvOr5wbkUw 12:19 The Oh My God Particle
-6ACW7GVKCxs 1:42 Here's Why I Love PBS
-aHjiXTlFSSM 13:35 Telescopes on the Moon
-KePNhUJ2reI 15:29 How Time Becomes Space Inside a Black Hole | Space Time
-HUMGc8hEkpc 11:48 Superluminal Time Travel + Time Warp Challenge Answer
-5l1KxgHH2Ek 12:43 Time Crystals!
-_tmMKQ4kp_I 5:33 The Race to a Habitable Exoplanet - Time Warp Challenge | Space Time
-h871oE5QkTU 12:03 The Treasures of Trappist-1 | Space Time
-TQZyaMRp7_0 10:47 The Eye of Sauron Reveals a Forming Solar System!
-CoQE5J346mU 13:01 Telescopes of Tomorrow
-1YFrISfN7jo 16:07 The Geometry of Causality
-3TZEp_n3eIc 11:54 Why Quasars are so Awesome | Space Time
--q7EvLhOK08 18:05 The Phantom Singularity | Space Time
-hqoo_4wSkdg 14:43 The EM Drive: Fact or Fantasy?
-q_oHv6HCMX4 11:18 How to See Black Holes + Kugelblitz Challenge Answer
-Ttwl_zH_DZ8 17:57 Have They Seen Us? | Space Time | PBS Digital Studios
-v3hd3AI2CAA 8:09 Escape The Kugelblitz Challenge
-mht-1c4wc0Q 19:59 What Happens at the Event Horizon? | Space Time | PBS Digital Studios
-RlXdsyctD50 16:32 Pilot Wave Theory and Quantum Realism | Space Time | PBS Digital Studios
-u4RNGRyzt10 13:46 Strange Stars | Space Time | PBS Digital Studios
-7UNLgPIiWAg 15:50 Did Dark Energy Just Disappear? | Space Time | PBS Digital Studios
-ZY47bVu-0Bs 9:03 Quantum Vortices and Superconductivity + Drake Equation Challenge Answers
-dzKWfw68M5U 12:53 The Many Worlds of the Quantum Multiverse
-jowVq81AgGw 11:25 The First Humans on Mars
-rcv_tYcRgw4 13:43 Black Holes from the Dawn of Time
-BAoEnV3Zt_Q 6:22 Are We Alone? Galactic Civilization Challenge
-pEJ-wXpeH6w 13:09 Life on Europa?
-tafGL02EUOA 14:03 Quantum Entanglement and the Great Bohr-Einstein Debate | Space Time | PBS Digital Studios
-4H55wybU3rI 12:54 Self-Replicating Robots and Galactic Domination
-MuvwcsfXIIo 8:22 Is There a Fifth Fundamental Force? + Quantum Eraser Answer
-jW55cViXu6s 14:31 Should We Build a Dyson Sphere? | Space Time | PBS Digital Studios
-2Uzytrooz44 5:53 Quantum Eraser Lottery Challenge
-8ORLN_KwAgs 14:40 How the Quantum Eraser Rewrites the Past | Space Time | PBS Digital Studios
-UjmlwdUK4RE 13:27 Can We Survive the Destruction of the Earth? ft. Neal Stephenson
-p-MNSLsjjdo 13:32 The Quantum Experiment that Broke Reality | Space Time | PBS Digital Studios
-eJ2RNBAFLj0 8:20 The Future of Gravitational Waves
-_NqbRcwWwPw 13:27 Juno to Reveal Jupiter's Violent Past
-SqF_Iy0lz_M 4:21 Nuclear Physics Challenge | Space Time | PBS Digital Studios
-tQSbms5MDvY 15:16 Planck's Constant and The Origin of Quantum Mechanics | Space Time | PBS Digital Studios
-Dgv2WWpm7_s 13:32 The Strange Universe of Gravitational Lensing
-KFOgIijPWGY 13:44 New Fundamental Particle Discovered?? + Challenge Winners!
--IfmgyXs7z8 11:07 Is Quantum Tunneling Faster than Light? | Space Time | PBS Digital Studios
-ztninkgZ0ws 15:28 Is an Ice Age Coming? | Space Time | PBS Digital Studios
-UwYSWAlAewc 14:48 Anti-gravity and the True Nature of Dark Energy | Space Time | PBS Digital Studios
-nZQIM1C6xQw 7:02 The Cosmic Conspiracy of Dark Energy Challenge Question
-fsARBnvUB2E 12:17 Will Starshot's Insterstellar Journey Succeed?
-RUE_LUqcTvM 12:39 What Does Dark Energy Really Do?
--4PayaEgEZc 12:41 Why the Universe Needs Dark Energy
-xZTb6sfHEX8 13:11 Will the Universe Expand Forever?
-6yLGeviU8FM 13:38 We Are Star Stuff
-nFYveYkSPuA 9:10 Pulsar Starquakes Make Fast Radio Bursts? + Challenge Winners! | Space Time | PBS Digital Studios
-blSTTFS8Uco 13:41 How Cosmic Inflation Flattened the Universe
-Aj6Kc1mvsdo 14:17 Why is the Earth Round and the Milky Way Flat? | Space Time | PBS Digital Studios
-wcBjibuHxEk 5:01 Cosmic Microwave Background Challenge | Space Time | PBS Digital Studios
-JDmKLXVFJzk 12:58 What’s Wrong With the Big Bang Theory? | Space Time | PBS Digital Studios
-aPStj2ZuXug 12:35 Why the Big Bang Definitely Happened | Space Time | PBS Digital Studios
-xGfv3Oay_pY 8:37 Planet X Discovered?? + Challenge Winners!
-gw-i_VKd6Wo 9:32 LIGO's First Detection of Gravitational Waves!
-o8TCUGDltqM 10:57 Will Mars or Venus Kill You First?
-fHRqibyNMpw 12:32 The Origin of Matter and Time
-kpuGjzdHqgI 2:17 The Photon Clock Challenge | Space Time | PBS Digital Studios
-GguAN1_JouQ 9:31 When Time Breaks Down
-gSKzgpt4HBU 10:48 The True Nature of Matter and Mass | Space Time | PBS Digital Studios
-kixAljyfdqU 9:32 The Higgs Mechanism Explained | Space Time | PBS Digital Studios
-xx4562gesw0 13:22 How to Build a Black Hole
-T2m-ZXrclW0 8:05 100 Years of Relativity + Challenge Winners!
-dEIjKjIgCA0 11:13 5 Ways to Stop a Killer Asteroid
-NzvcVcPnSCY 3:02 Challenge: Can you save Earth from a Killer Asteroid? | Space Time | PBS Digital Studios
-cJONS7sqi0o 12:11 Why Haven't We Found Alien Life?
-94ed4v_T6YM 10:00 Is The Alcubierre Warp Drive Possible? | Space Time | PBS Digital Studios
-1Tstyqz2g7o 11:27 Have Gravitational Waves Been Discovered?!?
-EzZGPCyrpSU 13:03 5 REAL Possibilities for Interstellar Travel
-msVuCEs8Ydo 12:46 The Speed of Light is NOT About Light
-AwwIFcdUFrE 9:37 What Happens At The Edge Of The Universe? | Space Time | PBS Digital Studios
-z3rgl-_a5C0 10:42 Does Dark Matter BREAK Physics?
-VzUl3D41oIs 5:52 Watch THIS! (New Host + Challenge Winners) | Space Time | PBS Digital Studios
-vNaEBbFbvcY 14:25 Do Events Inside Black Holes Happen?
-MUThGpp6ze4 6:02 Challenge: Which Particle Wins This Race? | Space Time | PBS Digital Studios
-pwChk4S99i4 15:21 What Physics Teachers Get Wrong About Tides! | Space Time | PBS Digital Studios
-AwhKZ3fd9JA 8:53 General Relativity & Curved Spacetime Explained! | Space Time | PBS Digital Studios
-U8Hx-AkFDCY 6:03 SPECIAL ANNOUNCEMENT + Flat Spacetime Geometry Comments | Space Time | PBS Digital Studios
-P4rW_pPbD-U 9:19 Can You Trust Your Eyes in Spacetime?
-RuPQsqZaq8A 2:21 The Leap Second Explained | Space Time | PBS Digital Studios
-g1nbZ4PctOI 6:59 Curvature Demonstrated + Comments | Space Time | PBS Digital Studios
-D3GVVkPb3OI 10:22 Can a Circle Be a Straight Line?
-bT3hBK6kAJQ 7:37 The Calendar, Australia & White Christmas | Space Time | PBS Digital Studios
-gWYEnvMM1dA 11:17 How to Signal Aliens
-_UKyswjng60 1:46 What Happens to a Helium Balloon in Freefall?
-NblR01hHK6U 12:33 Is Gravity An Illusion?
-9Q_0vOdzw4Y 10:47 Habitable Exoplanets Debunked!
-Xo232kyTsO0 10:24 The Real Meaning of E=mc²
-w5TSfjvzMGs 9:38 9 NASA Technologies Shaping YOUR Future
-gEagBK4Xb1w 10:39 Should the First Mars Mission Be All Women?
-EHKQIC5p8MU 11:22 What's the Most Realistic Artificial Gravity in Sci-Fi?
-YycAzdtUIko 8:55 Are Space and Time An Illusion?
-uzgaZbbDsAA 6:22 Could NASA Start the Zombie Apocalypse?
-3t0lRt329wM 1:26 How to Weigh a Fart | Space Time | PBS Digital Studios
-iaN0xg2VQSo 8:09 Could You Fart Your Way to the Moon?
-bcsBWPuLJsQ 9:41 Is the Moon in Majora’s Mask a Black Hole?
-3tCMd1ytvWg 7:10 Cosmic Microwave Background Explained
-EtExl3sm-1E 9:51 Can A Starfox Barrel Roll Work In Space?
-W4UfmOHjiJg 8:08 What Will Destroy Planet Earth?
-gJ5KV3rzuag 7:37 Should We Colonize Venus Instead of Mars?
-QXfhGxZFcVE 6:37 How Do You Measure the Size of the Universe?
-XAU9ofjcx-Y 7:52 Is It Irrational to Believe in Aliens?
-McsgRggUjE4 6:13 What Planet Is Super Mario World?
+# WZfmG_h5Oyg 20:16 What Happens Inside a Proton?
+# 184eP_KuXek 14:12 How Many States Of Matter Are There?
+# JnKzt6Xq-w4 18:53 What If We Live in a Superdeterministic Universe?
+# rQnNghhPw6o 19:28 Could We Decode Alien Physics?
+# wdP_UDSsuro 20:34 Is Interstellar Travel Impossible?
+# epSev7ovVew 14:22 Have We SOLVED The Black Hole Information Paradox with Wormholes?
+# v-aP1J-BdvE 18:51 What If Physics IS NOT Describing Reality?
+# e3jGWXeBtPo 20:30 The Evolution of the Modern Milky Way Galaxy
+# v4ogRCjhFDM 15:06 What If the Galactic Habitable Zone LIMITS Intelligent Life?
+# bUHZ2k9DYHY 17:32 Space DOES NOT Expand Everywhere
+# G0Q4UAiKacw 18:04 How the Higgs Mechanism Give Things Mass
+# I8p1yqnuk8Y 18:44 Does the Universe Create Itself?
+# jeRgFqbBM5E 13:01 Could The Universe Be Inside A Black Hole?
+# BOLHtIWLkHg 19:15 Where Is The Center of The Universe?
+# esayi49OAk4 15:44 What If Charge is NOT Fundamental?
+# LHhFFfv20-4 21:22 Is the Proxima System Our Best Hope For Another Earth?
+# Thw43hzXlDA 15:55 Are Cosmic Strings Cracks in the Universe?
+# FP6iyVJ70OU 20:16 Is The Wave Function The Building Block of Reality?
+# twvj9os9DLE 39:34 The Nature of Space and Time AMA
+# cDQZXvplXKA 18:14 How Does Gravity Escape A Black Hole?
+# D-wzdsSiemU 13:25 How To Build The Universe in a Computer
+# 55c9wkNmfn0 20:53 How To Simulate The Universe With DFT
+# 6mJXv5OBel8 14:42 How to Find ALIEN Dyson Spheres
+# AK44wAvv2E4 20:26 What Happens If A Black Hole Hits Earth?
+# X5r36VCrA_w 36:39 2021 End of Year AMA!
+# 351JCOvKcYw 16:29 Are Black Holes Actually Fuzzballs?
+# 0sTBZ2G4vow 18:28 What If Our Understanding of Gravity Is Wrong?
+# Q_CQDSlmboA 19:40 Is ACTION The Most Fundamental Property in Physics?
+# hYc97J2MZIo 16:19 Will Constructor Theory REWRITE Physics?
+# iDIcydiQOhc 17:31 New Results in Quantum Tunneling vs. The Speed of Light
+# dw1sekg6SUY 18:27 Why Magnetic Monopoles SHOULD Exist
+# EK_6OzZAh5k 19:29 How Electron Spin Makes Matter Possible
+# 1Ou1MckZHTA 14:15 Neutron Stars: The Most Extreme Objects in the Universe
+# I9y62qoTsic 17:13 First Detection of Light from Behind a Black Hole
+# gc4pxTjii9c 13:15 How Vacuum Decay Would Destroy The Universe
+# IEDSAheh8Os 19:01 How to Communicate Across the Quantum Multiverse
+# QLSIZg0npuA 18:46 How An Extreme New Star Could Change All Cosmology
+# _H4xrVzd65Q 19:04 How Magnetism Shapes The Universe
+# z-syaCoqkZA 13:03 Where Are The Worlds In Many Worlds?
+# pWlk1gLkF2Y 18:10 Electrons DO NOT Spin
+# vgYQglmYU-8 19:36 How Quantum Entanglement Creates Entropy
+# snp-GvNgUt4 12:23 Can Space Be Infinitely Divided?
+# LkeTk-Fi_c8 16:52 Are We Running Out of Space Above Earth?
+# srVKjWn26AQ 16:08 What If (Tiny) Black Holes Are Everywhere?
+# uZDhCW-PTRM 11:02 Breaking The Heisenberg Uncertainty Principle
+# 3sq658Okvao 19:20 How To Know If It's Aliens
+# Vk5bxHetL4s 18:54 The NEW Warp Drive Possibilities
+# qy8MdewY_TY 12:21 What If Dark Matter Is Just Black Holes?
+# O4Ko7NW2yQo 12:36 Why the Muon g-2 Results Are So Exciting!
+# SMPid7Sh0EE 17:11 Zeno's Paradox & The Quantum Zeno Effect
+# dsCjRjA4O7Y 18:09 The NEW Crisis in Cosmology
+# OHdV9aO6jaE 13:25 How Does Gravity Affect Light?
+# UKxQTvqcpSg 11:51 Does Time Cause Gravity?
+# L9L_gNogNes 18:26 Gravitational Wave Background Discovered?
+# GKD1vDAPkFQ 12:44 How Does Gravity Warp the Flow of Time?
+# fidzLZQyaJE 16:51 Is Dark Matter Made of Particles?
+# 6MfJ59lkABY 16:43 Can We Break the Universe?
+# j5HyMNNSGqQ 12:58 What Happens During a Quantum Jump?
+# 0A1ouV7iD8o 16:22 Navigating with Quantum Entanglement
+# 3tCWWnXicC0 16:30 The Supernova At The End of Time
+# F0b8b_ykPQk 14:36 Why Do You Remember The Past But Not The Future?
+# QkWT-xMTm1M 14:21 The Arrow of Time and How to Reverse It
+# RY7hjt5Gi-E 13:57 Can Free Will be Saved in a Deterministic Universe?
+# qKVpknSKgE0 15:44 Electroweak Theory and the Origin of the Fundamental Forces
+# z4odQd8q3xY 16:59 How The Penrose Singularity Theorem Predicts The End of Space Time
+# 1JCRDaa3ehk 16:31 Is The Future Predetermined By Quantum Mechanics?
+# EagNUvNfsUI 16:06 Do the Past and Future Exist?
+# nNdy-LJWNQs 15:58 Venus May Have Life!
+# 4KCDGa98Ckc 17:43 Solving Quantum Cryptography
+# XNK5oahmw3I 16:17 Could Life Evolve Inside Stars?
+# xFKgIOX8IRE 16:55 The Truth About Beauty in Physics
+# hp2Ek1cA1LE 12:44 How Do We Know What Stars Are Made Of?
+# tJgWnbET1eE 17:49 Can Future Colliders Break the Standard Model?
+# Uf0q4Iq3AC8 15:18 How Stars Destroy Each Other
+# CJx3gLkebIA 1:23:28 Theory of Everything Controversies: Livestream
+# _izocEgArtQ 1:34:45 What is a Theory of Everything: Livestream
+# iozCwyjxhyY 2:30 Theory of Everything Livestreams with Amazing Guests
+# As7vWYmb5L8 15:01 The Boundary Between Black Holes & Neutron Stars
+# JOMrbkZqTcs 13:48 Does Antimatter Explain Why There's Something Rather Than Nothing?
+# 1Z5fnwUmTSY 16:19 Dissolving an Event Horizon
+# lqGxj3Esdxc 13:27 Building Black Holes in a Lab
+# PC2JOQ7z5L0 18:30 What Happens After the Universe Ends?
+# o2ZcvPW5EcI 17:10 Can Viruses Travel Between Planets?
+# z91oGI5aP0A 16:42 Does Gravity Require Extra Dimensions?
+# 4v9A9hQUcBQ 17:41 Mapping the Multiverse
+# M3GQM7tuq2w 18:04 How Luminiferous Aether Led to Relativity
+# Y6Vhh70Lw9w 17:49 How We Know The Universe is Ancient
+# 9xIn1Ti7bz0 1:14:15 Space Time Livestream: Ask Matt Anything
+# ldVDM-v5uz0 17:18 Will Wormholes Allow Fast Interstellar Travel?
+# t8o5W425uhw 16:59 Was the Milky Way a Quasar?
+# vAgiHreswj0 17:25 How We Know The Earth Is Ancient
+# T4oYvSH6jJ8 15:15 What’s On The Other Side Of A Black Hole?
+# UjgGdGzDFiM 13:59 How Black Holes Spin Space Time
+# vSnq5Hs3_wI 19:27 How Do Quantum States Manifest In The Classical World?
+# QTZZUjnrbF8 17:20 Does Quantum Immortality Save Schrödinger's Cat?
+# GlOwJWJWPUs 15:25 How Decoherence Splits The Quantum Multiverse
+# CT7SiRiqK-Q 17:17 Does Consciousness Influence Quantum Mechanics?
+# e7yXqF32Yvw 17:01 Are Axions Dark Matter?
+# qT110-Q8PJI 16:56 Are there Infinite Versions of You?
+# GWFJteC7kIk 16:53 Hacking the Nature of Reality
+# et7XvBenEo8 16:17 Solving the Three Body Problem
+# T2pImihwFHg 14:57 How To Capture Black Holes
+# zw2TYNY3F8U 10:06 How To Detect a Neutrino
+# rFgpKlcpzNM 18:30 Do Black Holes Create New Universes?
+# dSvgw9ZOK3I 17:50 The Doomsday Argument
+# F2s7vyKucis 16:39 Is The Universe Finite?
+# q-6oU3jXAho 18:29 Can You Observe a Typical Universe?
+# YmOVoIpaPrc 17:24 Does Life Need a Multiverse to Exist?
+# 8wa1l7M5gU8 15:59 Why We Might Be Alone in the Universe
+# pGnMiGrYmPE 13:01 Is Time Travel Impossible?
+# L2suMPiuog4 17:33 Loop Quantum Gravity Explained
+# fKgQYOlpxmo 14:19 Black Hole Harmonics
+# XglOw2_lozc 18:45 How Many Universes Are There?
+# CzJIWxplAbQ 18:17 Is Pluto a Planet?
+# FshtPsOTCP4 19:37 Could We Terraform Mars?
+# 51usJ74pPP8 14:13 Is Earth's Magnetic Field Reversing?
+# n8cEZM1lN5g 12:59 How To Become an Astrophysicist + Challenge Question!
+# chsLw2siRW0 13:51 What Happened Before the Big Bang?
+# -5j98wi_M2w 5:31 Exploring Arecibo in VR 180
+# xJCX2NlhdTc 13:28 What Caused the Big Bang?
+# E8rel2-kLJA 10:12 Deciphering The Vast Scale of the Universe | STELLAR
+# K8gV05nS7mc 13:34 Did Time Start at the Big Bang?
+# _N-2Sx-FDQA 15:20 The Quantum Internet
+# ElulEJruhRQ 18:42 Thorium and the Future of Nuclear Energy
+# cqCPnXHKO5c 8:33 The Quasar from The Beginning of Time | STELLAR
+# FocZf26yTU0 14:33 How Black Holes Kill Galaxies
+# MmgMboWunkI 15:41 The Alchemy of Neutron Star Collisions
+# k6BL1GOXgp8 15:21 The Cosmic Dark Ages
+# pi7YwxxZQ5A 17:15 Why Quantum Computing Requires Quantum Cryptography
+# GOhOlLa4teg 12:07 The Real Science of the EHT Black Hole
+# 5t0jaE--l0Y 14:38 No Dark Matter = Proof of Dark Matter?
+# klpDHn8viX8 18:24 The Holographic Universe Explained
+# tJevBNQsKtU 18:30 The Edge of an Infinite Universe
+# gEyXTQ9do-c 15:49 Could the Universe End by Tearing Apart Every Atom?
+# tAtVgHvt05M 18:22 Is Dark Energy Getting Stronger?
+# dWk9d_YCQOk 16:23 Will You Travel to Space?
+# rckrnYw5sOA 16:31 The Impossibility of Perpetual Motion Machines
+# C4CKtEQJGMY 17:11 Secrets of the Cosmic Microwave Background
+# PPpUxoeooZk 17:32 Sound Waves from the Beginning of Time
+# 10AP7tio408 15:15 Perpetual Motion From Negative Mass?
+# 72cM_E6bsOs 18:05 The Crisis in Cosmology
+# L2idut9tkeQ 18:27 Our Antimatter, Mirrored, Time-Reversed Universe
+# miGddxrvmDU 13:54 Are Dark Matter And Dark Energy The Same?
+# IhpGdumLRqs 18:39 Why String Theory is Wrong
+# UyTqgnKD3sw 17:11 Quantum Physics in a Mirror Universe
+# REl20rlZGTw 18:34 Did Life on Earth Come from Space?
+# wICOlaQOpM0 17:32 'Oumuamua Is Not Aliens
+# 5ESFGYkkbEI 16:26 Supersymmetric Particle Found?
+# iTTa9YcTe1k 16:48 Why String Theory is Right
+# ztFovwCaOik 17:14 Are Virtual Particles A New Layer of Reality?
+# uhJ9lJPt09k 17:37 Will We Ever Find Alien Life?
+# k6TWO-ESC6A 16:38 What are the Strings in String Theory?
+# 0GLgZvTCbaA 15:09 Computing a Universe Simulation
+# 3HYw6vPR9qU 15:48 How to Detect Extra Dimensions
+# YNEBhwimJWs 16:41 Quantum Gravity and the Hardest Problem in Physics | Space Time
+# XxVlGAFX7vA 16:12 How Much Information is in the Universe?
+# Ab8JIzckx_M 12:25 The Black Hole Entropy Enigma
+# VmEY6T5Wc-Q 13:42 Is There Life on Mars?
+# Qg4vb-KH5F4 17:53 How Will the Universe End? | Space Time
+# 7UwigY4SjKY 16:30 Quantum Theory's Most Incredible Prediction | Space Time
+# cOzaGEAGzzA 14:15 How Close To The Sun Can Humanity Get?
+# KR23aMjIHIY 14:01 Reversing Entropy with Maxwell's Demon
+# kfffy12uQ7g 12:20 The Misunderstood Nature of Entropy
+# V5kgruUjVBs 13:04 Quantum Invariance & The Origin of The Standard Model
+# 0mXW1zPlxEE 13:49 Will A New Neutrino Change The Standard Model?
+# TF6GRPaeLbk 11:58 How Asteroid Mining Will Save Earth
+# 9XkHBmE-N34 15:30 The Black Hole Information Paradox
+# GscfuQWZFAo 14:08 What Survives Inside A Black Hole?
+# HF-9Dy6iB_4 13:43 Why Quantum Information is Never Destroyed
+# 04ERSb06dOg 13:02 Noether's Theorem and The Symmetries of Reality
+# Jdy09y0A4t0 10:45 How Gaia Changed Astronomy Forever
+# -iWGtQ03OZM 11:04 The Star at the End of Time
+# UVhtKAnp3G4 11:32 Black Hole Swarms | Space Time
+# xnwXyPU_ps0 12:47 Using Stars to See Gravitational Waves
+# GcfLZSL7YGw 13:41 The Physics of Life (ft. It's Okay to be Smart & PBS Eons!)
+# 7cj6oiFDEXc 11:14 The Unruh Effect
+# _P1xKh_kZFU 12:02 The Andromeda-Milky Way Collision
+# -R9F2_D76TE 9:28 Scientists Have Detected the First Stars
+# qPKj0YnKANw 12:06 Hawking Radiation
+# wJ7d503fN-g 12:40 Should Space be Privatized? | Space Time
+# G7UOFZBEA_g 8:48 The Trebuchet Challenge | Space Time
+# iJY3y5_k0do 12:01 The Death of the Sun
+# PUn2izowBkw 14:19 What is Energy?
+# 9-SxVSpSoek 9:47 Kronos: Devourer Of Worlds
+# wwGeCfWc100 14:15 The End of the Habitable Zone
+# bG-xu5H6plk 14:56 Horizon Radiation
+# TbWyuJYybMA 13:50 What Do Stars Sound Like?
+# TmD27cUuylw 1:36 Space Time VR
+# 8HvwNOSnveE 13:09 Extinction by Gamma-Ray Burst
+# nYGs92-qnFY 11:36 The Origin of 'Oumuamua, Our First Interstellar Visitor | Space Time
+# izqaWyZsEtY 14:49 Understanding the Uncertainty Principle with Quantum Fourier Series | Space Time
+# tFB8MsizvBc 10:33 Citizen Science + Zero-Point Challenge Answer | Space Time
+# _x2nL6ukJDg 16:48 Suicide Space Robots
+# Rh898Yr5YZ8 10:09 Zero-Point Energy Demystified
+# n6jAOV7bZ3Y 11:36 The Vacuum Catastrophe
+# RchRrngfjQY 13:23 The Missing Mass Mystery
+# X5rAGfjPSWE 16:07 The Nature of Nothing | Space Time
+# OvgZqGxF3eo 10:41 Absolute Cold | Space Time
+# gtZ7OVoI2nc 13:39 When Quasars Collide STJC
+# YJzoelANL_Y 14:52 Are the Fundamental Constants Changing?
+# BIASPc89Sgk 13:40 The Future of Space Telescopes
+# kL81uuYW9BY 15:51 Neutron Stars Collide in New LIGO Signal?
+# S4aqGI1mSqo 13:27 White Holes | Space Time
+# OfOuBx6XW3Q 11:41 First Detection of Life
+# OjFKcGHfVag 14:09 Extraterrestrial Superstorms
+# 9dqtW9MslFk 12:50 The One-Electron Universe | Space Time
+# xgdNBQCdhdA 12:29 Dark Flow
+# fG52mXN-uWI 14:25 The Secrets of Feynman Diagrams
+# Q8shnjlGwmg 18:06 The Real Star Wars
+# oQ1WZ-eJW8Y 15:21 Solving the Impossible in Quantum Field Theory
+# vSFRN-ymfgE 15:49 Feynman's Infinite Quantum Paths
+# ATcrrzJFtBY 15:22 The First Quantum Field Theory
+# hYkaahzFWfo 16:12 Anti-Matter and Quantum Relativity
+# lrS0rxX-UhA 14:00 Supervoids vs Colliding Universes!
+# 4pSUtWBiuB4 13:28 The Fate of the First Stars
+# vLR_a1MAy9I 14:59 Martian Evolution
+# nsWhE22i4FM 11:58 The Great American Eclipse
+# hmVOV7xvl58 16:28 Are We Living in an Ancestor Simulation? ft. Neil deGrasse Tyson | Space Time
+# nhy4Z_32kQo 11:44 Are You a Boltzmann Brain?
+# osvOr5wbkUw 12:19 The Oh My God Particle
+# 6ACW7GVKCxs 1:42 Here's Why I Love PBS
+# aHjiXTlFSSM 13:35 Telescopes on the Moon
+# KePNhUJ2reI 15:29 How Time Becomes Space Inside a Black Hole | Space Time
+# HUMGc8hEkpc 11:48 Superluminal Time Travel + Time Warp Challenge Answer
+# 5l1KxgHH2Ek 12:43 Time Crystals!
+# _tmMKQ4kp_I 5:33 The Race to a Habitable Exoplanet - Time Warp Challenge | Space Time
+# h871oE5QkTU 12:03 The Treasures of Trappist-1 | Space Time
+# TQZyaMRp7_0 10:47 The Eye of Sauron Reveals a Forming Solar System!
+# CoQE5J346mU 13:01 Telescopes of Tomorrow
+# 1YFrISfN7jo 16:07 The Geometry of Causality
+# 3TZEp_n3eIc 11:54 Why Quasars are so Awesome | Space Time
+# -q7EvLhOK08 18:05 The Phantom Singularity | Space Time
+# hqoo_4wSkdg 14:43 The EM Drive: Fact or Fantasy?
+# q_oHv6HCMX4 11:18 How to See Black Holes + Kugelblitz Challenge Answer
+# Ttwl_zH_DZ8 17:57 Have They Seen Us? | Space Time | PBS Digital Studios
+# v3hd3AI2CAA 8:09 Escape The Kugelblitz Challenge
+# mht-1c4wc0Q 19:59 What Happens at the Event Horizon? | Space Time | PBS Digital Studios
+# RlXdsyctD50 16:32 Pilot Wave Theory and Quantum Realism | Space Time | PBS Digital Studios
+# u4RNGRyzt10 13:46 Strange Stars | Space Time | PBS Digital Studios
+# 7UNLgPIiWAg 15:50 Did Dark Energy Just Disappear? | Space Time | PBS Digital Studios
+# ZY47bVu-0Bs 9:03 Quantum Vortices and Superconductivity + Drake Equation Challenge Answers
+# dzKWfw68M5U 12:53 The Many Worlds of the Quantum Multiverse
+# jowVq81AgGw 11:25 The First Humans on Mars
+# rcv_tYcRgw4 13:43 Black Holes from the Dawn of Time
+# BAoEnV3Zt_Q 6:22 Are We Alone? Galactic Civilization Challenge
+# pEJ-wXpeH6w 13:09 Life on Europa?
+# tafGL02EUOA 14:03 Quantum Entanglement and the Great Bohr-Einstein Debate | Space Time | PBS Digital Studios
+# 4H55wybU3rI 12:54 Self-Replicating Robots and Galactic Domination
+# MuvwcsfXIIo 8:22 Is There a Fifth Fundamental Force? + Quantum Eraser Answer
+# jW55cViXu6s 14:31 Should We Build a Dyson Sphere? | Space Time | PBS Digital Studios
+# 2Uzytrooz44 5:53 Quantum Eraser Lottery Challenge
+# 8ORLN_KwAgs 14:40 How the Quantum Eraser Rewrites the Past | Space Time | PBS Digital Studios
+# UjmlwdUK4RE 13:27 Can We Survive the Destruction of the Earth? ft. Neal Stephenson
+# p-MNSLsjjdo 13:32 The Quantum Experiment that Broke Reality | Space Time | PBS Digital Studios
+# eJ2RNBAFLj0 8:20 The Future of Gravitational Waves
+# _NqbRcwWwPw 13:27 Juno to Reveal Jupiter's Violent Past
+# SqF_Iy0lz_M 4:21 Nuclear Physics Challenge | Space Time | PBS Digital Studios
+# tQSbms5MDvY 15:16 Planck's Constant and The Origin of Quantum Mechanics | Space Time | PBS Digital Studios
+# Dgv2WWpm7_s 13:32 The Strange Universe of Gravitational Lensing
+# KFOgIijPWGY 13:44 New Fundamental Particle Discovered?? + Challenge Winners!
+# -IfmgyXs7z8 11:07 Is Quantum Tunneling Faster than Light? | Space Time | PBS Digital Studios
+# ztninkgZ0ws 15:28 Is an Ice Age Coming? | Space Time | PBS Digital Studios
+# UwYSWAlAewc 14:48 Anti-gravity and the True Nature of Dark Energy | Space Time | PBS Digital Studios
+# nZQIM1C6xQw 7:02 The Cosmic Conspiracy of Dark Energy Challenge Question
+# fsARBnvUB2E 12:17 Will Starshot's Insterstellar Journey Succeed?
+# RUE_LUqcTvM 12:39 What Does Dark Energy Really Do?
+# -4PayaEgEZc 12:41 Why the Universe Needs Dark Energy
+# xZTb6sfHEX8 13:11 Will the Universe Expand Forever?
+# 6yLGeviU8FM 13:38 We Are Star Stuff
+# nFYveYkSPuA 9:10 Pulsar Starquakes Make Fast Radio Bursts? + Challenge Winners! | Space Time | PBS Digital Studios
+# blSTTFS8Uco 13:41 How Cosmic Inflation Flattened the Universe
+# Aj6Kc1mvsdo 14:17 Why is the Earth Round and the Milky Way Flat? | Space Time | PBS Digital Studios
+# wcBjibuHxEk 5:01 Cosmic Microwave Background Challenge | Space Time | PBS Digital Studios
+# JDmKLXVFJzk 12:58 What’s Wrong With the Big Bang Theory? | Space Time | PBS Digital Studios
+# aPStj2ZuXug 12:35 Why the Big Bang Definitely Happened | Space Time | PBS Digital Studios
+# xGfv3Oay_pY 8:37 Planet X Discovered?? + Challenge Winners!
+# gw-i_VKd6Wo 9:32 LIGO's First Detection of Gravitational Waves!
+# o8TCUGDltqM 10:57 Will Mars or Venus Kill You First?
+# fHRqibyNMpw 12:32 The Origin of Matter and Time
+# kpuGjzdHqgI 2:17 The Photon Clock Challenge | Space Time | PBS Digital Studios
+# GguAN1_JouQ 9:31 When Time Breaks Down
+# gSKzgpt4HBU 10:48 The True Nature of Matter and Mass | Space Time | PBS Digital Studios
+# kixAljyfdqU 9:32 The Higgs Mechanism Explained | Space Time | PBS Digital Studios
+# xx4562gesw0 13:22 How to Build a Black Hole
+# T2m-ZXrclW0 8:05 100 Years of Relativity + Challenge Winners!
+# dEIjKjIgCA0 11:13 5 Ways to Stop a Killer Asteroid
+# NzvcVcPnSCY 3:02 Challenge: Can you save Earth from a Killer Asteroid? | Space Time | PBS Digital Studios
+# cJONS7sqi0o 12:11 Why Haven't We Found Alien Life?
+# 94ed4v_T6YM 10:00 Is The Alcubierre Warp Drive Possible? | Space Time | PBS Digital Studios
+# 1Tstyqz2g7o 11:27 Have Gravitational Waves Been Discovered?!?
+# EzZGPCyrpSU 13:03 5 REAL Possibilities for Interstellar Travel
+# msVuCEs8Ydo 12:46 The Speed of Light is NOT About Light
+# AwwIFcdUFrE 9:37 What Happens At The Edge Of The Universe? | Space Time | PBS Digital Studios
+# z3rgl-_a5C0 10:42 Does Dark Matter BREAK Physics?
+# VzUl3D41oIs 5:52 Watch THIS! (New Host + Challenge Winners) | Space Time | PBS Digital Studios
+# vNaEBbFbvcY 14:25 Do Events Inside Black Holes Happen?
+# MUThGpp6ze4 6:02 Challenge: Which Particle Wins This Race? | Space Time | PBS Digital Studios
+# pwChk4S99i4 15:21 What Physics Teachers Get Wrong About Tides! | Space Time | PBS Digital Studios
+# AwhKZ3fd9JA 8:53 General Relativity & Curved Spacetime Explained! | Space Time | PBS Digital Studios
+# U8Hx-AkFDCY 6:03 SPECIAL ANNOUNCEMENT + Flat Spacetime Geometry Comments | Space Time | PBS Digital Studios
+# P4rW_pPbD-U 9:19 Can You Trust Your Eyes in Spacetime?
+# RuPQsqZaq8A 2:21 The Leap Second Explained | Space Time | PBS Digital Studios
+# g1nbZ4PctOI 6:59 Curvature Demonstrated + Comments | Space Time | PBS Digital Studios
+# D3GVVkPb3OI 10:22 Can a Circle Be a Straight Line?
+# bT3hBK6kAJQ 7:37 The Calendar, Australia & White Christmas | Space Time | PBS Digital Studios
+# gWYEnvMM1dA 11:17 How to Signal Aliens
+# _UKyswjng60 1:46 What Happens to a Helium Balloon in Freefall?
+# NblR01hHK6U 12:33 Is Gravity An Illusion?
+# 9Q_0vOdzw4Y 10:47 Habitable Exoplanets Debunked!
+# Xo232kyTsO0 10:24 The Real Meaning of E=mc²
+# w5TSfjvzMGs 9:38 9 NASA Technologies Shaping YOUR Future
+# gEagBK4Xb1w 10:39 Should the First Mars Mission Be All Women?
+# EHKQIC5p8MU 11:22 What's the Most Realistic Artificial Gravity in Sci-Fi?
+# YycAzdtUIko 8:55 Are Space and Time An Illusion?
+# uzgaZbbDsAA 6:22 Could NASA Start the Zombie Apocalypse?
+# 3t0lRt329wM 1:26 How to Weigh a Fart | Space Time | PBS Digital Studios
+# iaN0xg2VQSo 8:09 Could You Fart Your Way to the Moon?
+# bcsBWPuLJsQ 9:41 Is the Moon in Majora’s Mask a Black Hole?
+# 3tCMd1ytvWg 7:10 Cosmic Microwave Background Explained
+# EtExl3sm-1E 9:51 Can A Starfox Barrel Roll Work In Space?
+# W4UfmOHjiJg 8:08 What Will Destroy Planet Earth?
+# gJ5KV3rzuag 7:37 Should We Colonize Venus Instead of Mars?
+# QXfhGxZFcVE 6:37 How Do You Measure the Size of the Universe?
+# XAU9ofjcx-Y 7:52 Is It Irrational to Believe in Aliens?
+# McsgRggUjE4 6:13 What Planet Is Super Mario World?
 
 # Lindsay Ellis
 
