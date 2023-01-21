@@ -5314,6 +5314,21 @@ kUrE0wZj2GU 1:25 Short Cuts: American Scythe snath with English Bramble Blade
 1DtDmnBPXFc 1:11 Short Cuts: English Scythe on lawn
 o64B-mcOIfQ 8:08 Making a little hay with a Scottish scythe
 
+# urbanology
+YEsJnMc43pE 7:36 Analogous Unfolding
+m1IZqlnEbmg 7:11 Unfolding Sequences - an introduction
+ZDUlG6E3Lpw 11:53 The Beautiful Software Thesis: feeling as the core of good engineering
+oTflOKPpCy8 9:30 Adaptation - with Christopher Alexander - part one: Adapting to the Environment or "Flint & Brick"
+xmlo0Lva5AU 10:33 Nature, life, and self: Christopher Alexander after a pattern language
+VZHb9-Y9r_E 8:25 Christopher Alexander: pattern languages are for communities
+tiOzvEUoLeU 26:14 The Beautiful Software seminar at Building Beauty
+dnTpXwgO6Qg 2:20 Gatemaker: a silent explanation
+o8b7ZBWGmu4 8:35 Gatemaker
+2V4QYC-PRIw 8:29 The Application of Feeling -- Christopher Alexander
+lxxlLqwCPDc 3:55 urbanology.com - an overview
+xdKFPA8SrKM 3:55 the scope of urbanology
+5uxAp1piXMY 7:17 urbanology: neighborhood collaboration
+
 JKhHPdfmx8k 1:30:40 Dünyayı Kurtaran Adam - Eski Türk Filmi Tek Parça
 
 -sEvzdefXk8 2:11:25 Zork Grand Inquisitor - English Longplay - No Commentary
