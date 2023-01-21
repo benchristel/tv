@@ -5329,6 +5329,201 @@ lxxlLqwCPDc 3:55 urbanology.com - an overview
 xdKFPA8SrKM 3:55 the scope of urbanology
 5uxAp1piXMY 7:17 urbanology: neighborhood collaboration
 
+# Videos of Irish Farming Life
+A1IaWPaqbVw 38:09 The Hiring Fairs - Recruiting fairs for Irelands poor and destitute
+f6vEk91Paao 1:44 Combined Harvester cutting Barley
+4p0M8FGl_zY 41:32 Sheep Farming in Ireland Documentary - A Year in the Life of an Irish Sheep Farmer
+D47RhkOKMOU 41:23 Potato Farming in Ireland ** Documentary by Videos of Irish Farming Life
+QJew3JjN5oQ 22:59 Irish Farming in Days Gone By -- Vintage Farming Documentary *** Featuring Fordson Tractors
+Z2J1A_ZoMd0 25:53 Farming Potatoes in my Fathers Day -- Irish Vintage Farming Documentary
+kabpPfX82c4 20:14 Traditional Farming in Ireland - Growing & Harvesting Oats - Threshing - Irish Farming Documentary
+wNpeCgzn22w 34:30 Vintage Potato Farming in Ireland - Farming with Horses & Vintage Tractors - Irish Documentary
+lrqH7-7UyKI 41:11 Vintage Farming in Ireland Documentary "The History of Irish Farming" *Videos of Irish Farming Life*
+tqntI3Ec8Ew 40:01 Making Irish Linen & Vintage Flax farming - Traditional Crafts of Ireland Documentary
+tcCHQ3yDdBU 3:39 Making Irish Whiskey at Old Bushmills Distillery.
+0iemaocqsVc 1:37 Bringing in the Hay @ Muckross Traditional Farms Ireland
+sFR2XW0_S2k 3:37 What is Irish Peat?
+mPXI1muG4P0 2:58 The Oul Turf Fire by Ireland's Singing Farmer -- (Irish Emigration Song)
+AiS_kUMsYJs 3:38 From the Cow to the Creamery (Milk & Butter Making in Ireland)
+36nZmgXeY5c 5:21 A Short History of Timber Harvesting in Ireland (Garvagh Forest)
+qE1yFzKJjRo 16:44 Vintage Tractor Restoration Project -- Restoring a 1940 Fordson N Tractor -- (Part Two)
+I3tneKGBSeE 5:30 Documentary on Country Life in N. Ireland during the Second World War
+gR0h1Sy-NBg 10:06 Restoring a 75 year old Vintage Tractor - 1940 Fordson N Tractor Restoration Project
+r2QhFbFY2G4 50:07 Traditional Farming Documentary -- Farm life in Ireland during the 1930s - "Preserving the Past"
+3C5UAzWIGW4 3:22 Farming in Ireland before the Potato Famine
+EZJKqHAw30w 4:08 Vintage Farming Scenes on an Irish Harvest Day **Including Music**
+YaIlE79R9Xg 4:06 Separating Cream in a Traditional Irish Farmhouse
+QklSj60zYok 8:51 Traditional Hay Making
+p3Kd9J_Wd0E 7:45 Vintage Farming Ireland- Threshing Oats - Irish Farming Documentary - Videos of Irish Farming Life
+mihqgFLTB68 10:07 Vintage Farming in Ireland in the 1950s - Harvesting Oats - Traditional Farming Documentary
+LZR_7TXt0ss 5:43 Vintage Fordsons tractors cutting oats with Reapers & Binders
+xrMi5pbRBF4 23:10 Farming In Ireland in the 1950s - Growing Oats - Farming Down the Years Part One
+CZB9-_fkb4c 5:11 300+ Vintage Ferguson Tractors at Work!
+ZFRDvonoiaw 3:12 Beef Farming in Ireland -- Dexter Cattle
+szGI33ETEq0 4:01 Lambing Season in Ireland -- Ewe Lambing Twins
+kxkbbDWnjmk 7:51 Cutting Oats with a Scythe & Threshing the Corn -- Harvest Old Ireland
+-D5GPBYQnZ8 46:24 The Story of Turf Cutting in Ireland *Those Days are Gone* Irish History Documentary
+-hbcHGDUH-Y 2:46 Forty Shades of Green - Scenery from around Ireland & music by John Watt
+9TbQLcaA_Xc 5:30 Haymaking in Old Ireland
+_1nfT5R6WBY 3:16 Old Farming Scenes of Ireland -- The Singing Farmer performs "21 Acres Of Land"
+TW9JcU8T6Qg 4:46 Pedigree Sheep Farming in Ireland -- Rare Breeds Part 2
+wzNHvl4P6aY 9:11 Vintage Haymaking in Ireland
+# W2PBpGoa_tE 9:26 Phillip McCallen win at the 1991 NW200 + Interview with McCallen
+LyiDIrZdFz0 1:18 Old Video of Haymaking - Vinatge Farming in Ireland
+LoNvrydG8NY 3:54 Modern Turf Cutting Machine
+gHQBgBBMuiI 2:18 Potato Harvesting in back in the day -- "The Potato Spinner"
+Ut-fwZpEA6Y 5:30 Sheep Farming in Ireland -- Rare Breeds of Sheep
+qULjCyRrByA 5:06 Farming of Yesteryear -- Old Time Ploughing with Horses and Tractors in Ireland
+dVt-6NJ71kQ 3:14 Churning in the Olden Days -- Irish Butter Making
+dAIFSjC0lCA 5:00 How did Ireland become a player in the flax and linen industry?
+-THsf82PNks 6:32 Reaping the Harvest -- Farming of the Fifties in Ireland
+LGHLKBeXodU 2:30 Threshing the Oats at the Glens of Antrim, N. Ireland
+f9Kd-WpqI3w 6:02 Traditional Irish Butter Making -- Making Farmhouse Butter in Ireland
+9ZPJV4xAZNk 4:43 Traditional Irish Turf Cutting -- Life on the Moss in the 1950's
+xXzfYJPmX6g 10:34 Vintage farming in the North of Ireland - Old tractors and machinery planting potatoes & oats
+HJX5mjqJdtQ 5:45 Threshing Day in Rural Ireland -- Traditional Irish Farming
+ExI9MYTcKaA 6:26 Working on the bog - Cutting the turf in Ireland
+0UmKRw2xOco 2:47 Thatching an Irish Cottage
+pIZFv2A6OLI 4:16 Threshing the Harvest 1960's Style in Ireland using Vintage Fordson Major Tractors
+LU7jliaxiQA 0:56 Mowing the Irish Corn -- Harvesting Oats using a Scythe in Ireland - Old Farming Videos
+# 6X68jJYA888 10:21 Robert Dunlop V Phillip McCallen 250cc NW200 **1991** Vintage Road-racing Ireland
+# XEt4i0NwyXE 34:27 Joey Dunlop Rare Interview May 1989 -- FULL UNCUT 30 MIN INTERVIEW
+h8HKg8lTn3Y 4:49 Glimpse of farming in old Ireland - Cutting the Corn with Scythe & Horse pulled Binder
+tj6TVM4nius 3:28 Vintage Farming in Ireland - Ploughing with Horses & Fordson Tractor
+TaG8RzrBAFU 3:57 Planting Potatoes 1950's Style Ireland
+YK0dfeZ_WVI 4:12 Farming with horses in 1920's Ireland - Planting the grain crop
+HxqEK1nUeA4 5:31 Seamus Heaney talks about his youth
+4liwp7vlp-U 2:17 Cutting the Corn and Threshing in N. Ireland
+CLbcvc5LfZM 2:05 Farming with a vintage Fordson N Tractor - 1950's Ireland
+5JyRYMMP2jU 2:14 Sowing Oats with a Fiddle in rural Ireland
+4-YYw61jFhE 3:58 Garvie Threshing Mill Co. Kerry Ireland
+0yNr5VcEoQw 3:36 Worlds Oldest Tractor - The Ivel - Harvesting Oats in Ireland
+WzxCw4dEm8U 4:57 Thatching a Traditional Irish Cottage ✓ ✓
+t4VxvlU_29I 2:16 Life on the Farm in Rural Ireland - Videos of Irish Farming Life
+OLF8YDz9zxM 6:24 Blacksmith making a Horseshoe & shoeing a horse in Co. Kerry Ireland
+Y1OqdELPK_w 2:37 Irish Rural History Video - A Traditional Dresser
+Iea9i21c5Ok 0:58 Traditional Potato planting from a seed bag in Ireland
+VYuWtpkWppM 1:26 A Threshing Mill arrives on a farm @ Muckross Farms Killarney
+rWQcbbNq4GI 1:13 A pair of horses pulling a binder cutting Oats
+BDLr_xAisD4 1:50 The history of the Green Glens of Antrim plus scenery of the coast
+6zo-UzbRN_0 5:24 The Ferguson Vintage Tractor World Record at Cooley Co. Louth
+YJVNjCjPsqo 1:10 Farming with Donkeys - Pulling a brake/ harrow
+4ee83nL2qL8 3:37 Rathlin Island Northern Ireland in the 1990s
+NRk8RPMjdzU 2:48 Restoration of a Fordson vintage tractor
+0CU7FPnwmLA 2:51 Ploughing with donkeys in Ireland
+jGvNeHjE_EU 0:28 Irish Pony & Trap
+lPxOGGeQhd4 0:57 A horse drawn plough in Ireland
+tLvaxSc3p-0 0:59 Ploughing with horses in Ireland
+1E9LBnDITaQ 1:19 Ireland's Farming Past - Planting Potatoes by hand
+35gRXzJbM6o 1:40 Mowing the corn with a pair of Donkeys
+3SXcWwogWWM 1:19 Lifting Stones from fields in Ireland
+675hpkgQveM 0:58 Growing Potatoes using Ridges @ Muckross Farms Killarney Ireland
+BsEM0RoStX4 1:10 Milking the cow by hand
+I-GnLTpc3d0 0:42 Ploughing with a Ford Ferguson 9N
+N7iXbgeKUno 1:02 Pedigree Charolais Cattle Breeding
+SDSVAv5B74E 0:54 Manure Loading - Irish Farming of yesteryear
+SyMTrRbixk0 0:47 Lifting the huts of corn with a T20
+daWTSfQjS3w 1:28 Muckross Farms Killarney Ireland
+fhRgHfTXt2g 1:46 Thatching an Irish Cottage in the 1980s
+gv4voibXb60 0:29 Traditional Irish Horse and Cart
+j-DytCZhMDs 4:07 Linen and the Irish Flax Production
+obilgOznIjU 1:05 Man powered threshing machine!
+udyCDAOfluM 2:00 Memories of farming in rural Ireland
+zO2_OQhN9RI 1:06 Lammas Fair with John Watt
+-iRoy9I4qNc 1:24 Kerry Hill Ewe
+94wQtox1V0w 1:56 Irish Famine Video
+H2XLQSaEE4M 0:28 Haymaking Trim Co. Meath
+PSY-LRywXLc 1:43 Hand weaving linen on a small loom plus interview with Hermann Bauer
+WRJ8tu5jeao 0:29 Hay Mowing Machine
+ifufOn2uFyg 0:44 Ireland first Combined Harvester 1934 Ardee
+rFTiaE6_Ocg 1:53 The Hiring Fairs of Ireland - Rural Irish History Video
+rTaEZKw2gBA 1:50 Irish Potato Famine - The arrival of the potato in Ireland
+yEHzA0v4JL4 1:10 Grinding the corn with a stone
+5Li98MB8EeU 1:06 Footing turf
+9GsGZpjpvts 2:29 Fruit Loaf New
+IckLSzLydpM 0:42 Geeze
+MG-L651vu4w 0:39 Derry Turf Cutting
+kvAroM9qFWQ 1:33 Fordson dexta super late 1950s and 60s
+pnnJPFghu6g 1:36 Farming Potatoes in Ireland 1950s style
+DgdrmIj4HG8 2:09 Baking bread in an Oven Pot
+2vLVCFZbxf4 0:37 1926 morris cowley
+5rY6sZpr6UM 1:05 1964 Fordson Super Major with Ransom plough
+ixQive4hZCg 0:34 2 drill elavator digger
+rubvGxFhM7k 0:55 1840s Ireland
+XRX3OyAjObI 1:48 Potato blight in Ireland - Spraying the spuds to stop the blight
+Wq_u9xWc_BE 2:38 The Singing Farmer sings a Tribute to Joey Dunlop in his bar
+Mu_H_BOoX1w 4:36 Flax Mill - Scutching and Linen Production
+DFnscJkI-Kc 1:58 Farm life in rural Ireland
+cDU2OlHpJaY 2:48 Clydesdale Horse Show
+eTotvyFn01E 4:45 Harvesting Potatoes - Digging and gathering the spuds
+_iKllHSC978 4:52 Traditional Irish Cooking - Making Champ
+Nm5OdDXdQTA 2:05 Growing Flax and Irish Linen
+rJ1UegJjDhI 1:23 Memories of Rural Ireland
+yX-SPFhYbmY 1:38 Sheep Dog rounding up the Sheep ✔
+M-8N9VXNZmw 3:39 Thatching an Irish Cottage
+dEI0hXgiVDI 1:11 Machine cutting Turf -- Harvesting Peat the modern way!
+UY6VYo_rPxg 1:52 Three Heavy Horses Pull a Reaper and Binder ✔
+GQVSuehrf_0 1:17 Haymaking in Ireland - Farming in old rural Ireland
+zkmjjA6py9s 4:42 Scutching flax at a Flaxmill in Ireland - Making Irish Linen
+qjD4887wkvs 3:41 How to make Irish Potato Bread
+8VR3PWOmokM 1:25 Ferguson Farm Systems The Bell Dropper
+MtxrFEN-_88 3:42 Story of Potato farming in Ireland through the last century.
+hZQZyzV5Q0o 2:36 Arrival of the potato blight in Ireland- Irish Famine
+Uk6fQVQzW5g 3:56 FolkyBilly RocknRoll by Willie Drennan -- Ulster Scots Folk Music meets Rock & Roll
+DqBg-80NIRk 5:00 Traditional farming in Ireland with Horses
+LWgZt8YNts8 4:30 Potato Farming -- Harvesting Potatoes
+PpoTNWOKWtY 2:59 Making Irish Soda Bread - How to make Soda Bread
+9vakGkbPw80 4:14 An Irish Harvest Day
+# qqlGUMDKu2w 6:23 Joey v Robert -Clash of the Dunlops at NW200 1991 Honda v Norton
+# z8_HNCwaeoU 8:52 Steve Hislop wins the Superbike Race @ North West 200 NW200 1989
+# cmooXbKpVWE 5:19 Robert Dunlop v Joey Dunlop on 125cc @ NW200 1990
+# mzbwRMggS50 9:29 Robert Dunlop v Carl Fogarty on Superbikes @ NW200 plus Interview
+MdCp44an3d8 6:50 Threshing Corn in Ireland 1950s style Farming Video
+BA9tgnbEMkI 12:01 Harvesting Corn with Scythes and Vintage Tractors in Ireland - the old fashioned way!
+# RuktXUoaKOc 9:41 Pedigree Cattle Breeding in Ireland
+# 6_pGTEegcCw 6:23 Fordson, Ferguson and Massey Tractors working the land in Ireland
+# 0sSpEng64YA 6:55 Charles Thomson Founding Fathers Irish American & Ulster Scot
+# cAy8nrWxMK8 12:45 Zuruck in die Zukunft
+# yTDKtdNlTfs 9:32 Berryman Murders Garvagh N.Ireland by John Thompson Videos
+OUIOo2xIcLA 2:47 Willy Drennan The Lagonda
+-hWRxN4ryE4 20:16 Leinen aus Irland/Linen from Ireland
+iXd9YVOHRyA 3:39 David McClarty
+6D5mNIiZQHs 7:13 Rare breeds of cattle in Ireland
+XVA96MQxcNs 2:44 Duck and Hens on an Irish Farm
+4_nPVREmJzs 7:36 Bee Keeping Making Honey
+MoqWoDiYQg4 1:29 Farming Potatoes in Ireland as was done in the 1950'
+IXAq7WqVA9A 0:55 Ploughing with Horses Farming the old way in Ireland
+zL_llRUxbz4 1:28 Potatoes being planted in Ireland the old way!
+Om6dvTQSEms 1:42 Potato gathering in Ireland using tractor and machines
+upfWS4iWo5k 2:00 Farming potatoes in Ireland using a bell dropper
+# qq9ncem-9eM 1:53 Ploughing a field in Ireland using a Ford Ferguson Tractor
+IXoSpLsGMQs 4:28 LINT AND LINEN scuttching the flax and making linen
+T0RKzo0agdc 2:56 LINT AND LINEN putting the flax in a lint dam
+SDCfZUIB0eY 0:47 LINT AND LINEN pullinh flax by hand
+GgbhUMKxPq4 3:22 Irish linen being weaved from flax farmed in Ireland
+9eYaLek9hKg 3:55 Sowing of Flax Seed in the Farming of Irish Linen
+b7wPUrOWqBY 0:43 Trim in County Meath show off thir Haying making festival each June
+# LrctgXIWP_o 4:58 Irish Farming -- Ferguson and Fordson Vintage Tractors
+# lTaBMsbCF90 10:28 Robert Dunlop winning Nortwest 200 Superbike race 1990
+# dxivCOGpJFo 1:50 Fly fishing for salmon on river Bann
+# c54vPb7U8VQ 1:21 Salmon fishing on carnroe
+# z7fF8DsWe14 2:20 Salmon fishing in ireland
+# CpKnEmSBpyI 0:48 Lough Neagh eels
+# 4EY-YbFqbn8 5:49 brown trout fishery Ireland
+# wsTvK7w2wtY 4:22 How to tie a trout fly
+# -Gk0S7Rp66s 3:43 fly fishing salmon caught!
+# QR5eW0C6xpA 3:31 Joey Dunlop Rare Interview May 1989
+ufwvFOXUCnc 7:25 Peat cutting and Turf cutting in Ireland
+j0yf4bNZ-fY 5:54 Hiring fairs in Ireland
+WHVwHgNnkQo 2:34 Poor Irish Dwelling in the west of Ireland in the 19th Century - Irish History
+Yw1eXl9lh3o 8:13 Irish Flax Farming - Growing Flax and Retting it in the Dam
+v8bQGmUaTzY 5:53 Irish Linen and the Flax Harvest - Lint & Linen Ireland
+vkGuMvl26-k 7:15 Potato Famine in Ireland
+lIn4MTJBOmY 8:37 Farming in Ireland
+SS7n-l7a7xk 8:16 The North Coast of Ireland
+# uGzKQ8CIyg8 4:18 Wildfowling and hunting in Ireland - Fox and Rabbit shooting
+# YY6e3yc9rHw 10:00 Fox Hunting Rabbit Shooting and wildfowling
+
 JKhHPdfmx8k 1:30:40 Dünyayı Kurtaran Adam - Eski Türk Filmi Tek Parça
 
 -sEvzdefXk8 2:11:25 Zork Grand Inquisitor - English Longplay - No Commentary
