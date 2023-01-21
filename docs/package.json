@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@benchristel/taste": "^0.3.1",
+    "bookmarklet": "^3.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
