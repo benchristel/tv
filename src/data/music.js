@@ -54,6 +54,21 @@ export const albums: Array<Episode> = parseEpisodes([
   `i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely`,
   `obK-k848Vto 1:13:05 Heroes of Might & Magic IV - Official Soundtrack`,
   `
+    # Heroes of Might & Magic IV
+    cvyS50v2Uts 1:37 Main Theme - Heroes of Might and Magic IV
+    3k9fPBM-rPo 2:27 HOMM IV - Academy (Order) theme
+    m5vEXnWQOH0 14:51 Heroes of Might & Magic IV - Grasslands Theme
+    _OCxQHsSijw 3:15 The Last Battle - Heroes of Might and Magic IV
+    sNz026pZP84 2:48 HOMM IV - Castle (Life) theme
+    hkDXNSWJLuo 2:17 Heroes Of Might And Magic IV - Sea Theme
+    lrLCLfoxKb4 3:29 HOMM IV - Preserve (Nature) theme
+    wG9nDmv1UJg 2:37 Asylum - Heroes of Might and Magic IV
+    PrZvWzbj3ek 3:24 Necropolis - Heroes of Might and Magic IV
+    pOZRUREX6xo 2:20 Heroes of Might and Magic 4 - Snow Lands Theme
+    skGuDAhrkJ4 3:11 Castle Stronghold - Heroes of Might and Magic IV
+    tNUX6Zd89C8 2:52 Wandering - Heroes of Might and Magic IV
+  `,
+  `
     # Jethro Tull - Thick As A Brick
     ldXdnZtTWp8 22:40 Thick as a Brick (Pt. 1) (1997 Remaster)
     GTWQv8RsI6s 21:10 Thick as a Brick (Pt. 2) (1997 Remaster)
