@@ -626,8 +626,8 @@ export const albums: Array<Episode> = parseEpisodes([
     2tV-0Ukur9k 4:09 Cities on Flame with Rock 'n' Roll (Remastered)
     w-fT77g0oEw 3:58 Harvester of Eyes (Remastered)
     eYkBaQkIcQ8 6:53 Buck's Boogie (Remastered)
-    Bl5-Oo1bdu8 5:09 [Don't Fear] The Reaper
-    mratO9l3eCE 3:43 Godzilla (Tv Mix Remastered)
+    # Bl5-Oo1bdu8 5:09 [Don't Fear] The Reaper
+    # mratO9l3eCE 3:43 Godzilla (Tv Mix Remastered)
   `,
   `Gf1RHyuuLnI 4:59 Kirsten Bråten Berg - Heiemo og Nykkjen(folkesang)`,
   `Tt8p5AxJn18 4:14 Sinéad O'Connor - Mna na h Eireann (Women of Ireland)`,
