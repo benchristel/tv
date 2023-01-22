@@ -629,6 +629,21 @@ export const albums: Array<Episode> = parseEpisodes([
     # Bl5-Oo1bdu8 5:09 [Don't Fear] The Reaper
     # mratO9l3eCE 3:43 Godzilla (Tv Mix Remastered)
   `,
+  `
+    # Karen Ashbrook - Hills of Erin
+    CavQx4hY8c4 5:24 Good Morning To Your Nightcap - Behind The Haystack
+    qx34I_WCCe0 3:08 Connaughtman's Rambles
+    H2QP2tV9kQ8 3:05 Over The Moor To Maggie - The Scholar
+    OokdITzfDYM 3:11 Slieve Gallen Braes - The Cabin Boy
+    HgBfVOxm7x8 6:38 The Two William Davises - Kean O'Hara
+    28aNtAY8FFQ 3:06 Master Crowley's
+    A1z_ZYEjPYE 3:59 Bank Of Red Roses - The Castle - The Chess Tournament
+    lxtqOCXLLP4 3:57 Isabella Burke
+    3y4oHjFAq0s 3:01 Gan Ainm - Reaping The Rye
+    xwh8H4kLFNQ 5:41 An Comhra Donn - Plains Of Boyle
+    g0gGZDYRg-o 3:17 Prelude, Cello Suite #1
+    Q_wKNHReSRY 5:44 Fairhaired Child Set
+  `,
   `Gf1RHyuuLnI 4:59 Kirsten Bråten Berg - Heiemo og Nykkjen(folkesang)`,
   `Tt8p5AxJn18 4:14 Sinéad O'Connor - Mna na h Eireann (Women of Ireland)`,
   `HgwypQ_9_DE 4:25 Ripoff Raskolnikov - Azt gondoltam eső esik (Live at Paks)`,
