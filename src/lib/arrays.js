@@ -53,3 +53,7 @@ test("pick", {
     expect(pick([1, 2], 0.99), is, 2)
   },
 })
+
+export function isEmpty(s: string | $ReadOnlyArray<mixed>): boolean {
+  return s.length === 0
+}

@@ -1,6 +1,8 @@
 // @flow
 import type { Episode, Video } from "./types";
+import { isEmpty } from "../lib/arrays";
 import { map, pipe } from "../lib/fns";
+import { trim } from "../lib/strings";
 import { test, expect, is, equals, not } from "@benchristel/taste"
 
 export const parseEpisodes: (Array<string>) => Array<Episode>
@@ -132,14 +134,6 @@ test("parseDuration", {
     expect(parseDuration("1:0:00:01"), is, 86401)
   },
 })
-
-function trim(s) {
-  return s.trim()
-}
-
-function isEmpty(s) {
-  return s.length === 0
-}
 
 const split =
   (delim, limit = Infinity) =>

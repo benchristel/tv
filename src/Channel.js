@@ -1,6 +1,6 @@
 // @flow
 
-import { pick } from "./lib/arrays"
+import { isEmpty, pick } from "./lib/arrays";
 import { cache } from "./lib/cache"
 import { cyrb128 } from "./lib/hash"
 import { sfc32 } from "./lib/random"
@@ -46,8 +46,7 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
     const dayBoundary = seconds - secondsOfDay
     const schedule = getSchedule(String(dayBoundary))
     const segment = binarySearch(schedule, (seg) => seg.startAt <= secondsOfDay)
-    if (segment == null) return { type: "nothing", nextVideoId: "" }
-    if (segment.type === "video") {
+    if (segment?.type === "video") {
       return {
         type: "video",
         videoId: segment.videoId,
@@ -57,13 +56,16 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
     } else {
       return {
         type: "nothing",
-        nextVideoId: segment.nextVideoId,
+        nextVideoId: segment?.nextVideoId ?? "",
       }
     }
   }
 }
 
 const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
+  if (isEmpty(episodes)) {
+    return []
+  }
   episodes = [...episodes]
   const rng = sfc32(...cyrb128(seed))
   let totalDuration = 0
@@ -110,6 +112,14 @@ function add(a, b) {
 }
 
 // TESTS =====================================================================
+
+test("a Channel", {
+  "broadcasts nothing given no episodes"() {
+    const noEpisodes = []
+    const channel = createChannel("", noEpisodes)
+    expect(channel.getBroadcast(999), equals, {type: "nothing", nextVideoId: ""})
+  },
+})
 
 test("randomIntInRange", {
   "when low and high are the same"() {
