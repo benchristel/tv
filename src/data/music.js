@@ -52,7 +52,7 @@ export const albums: Array<Episode> = parseEpisodes([
     AlhtLYq4H5k 4:43 The Dove
   `,
   `i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely`,
-  `obK-k848Vto 1:13:05 Heroes of Might & Magic IV - Official Soundtrack`,
+  // `obK-k848Vto 1:13:05 Heroes of Might & Magic IV - Official Soundtrack`,
   `
     # Heroes of Might & Magic IV
     cvyS50v2Uts 1:37 Main Theme - Heroes of Might and Magic IV
