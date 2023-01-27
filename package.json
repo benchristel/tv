@@ -18,6 +18,7 @@
   },
   "scripts": {
     "dev": "snowpack dev",
-    "build": "snowpack build"
+    "build": "yarn bookmarklet && yarn snowpack build",
+    "bookmarklet": "./dev/build-bookmarklet"
   }
 }
