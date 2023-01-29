@@ -536,20 +536,34 @@ export const albums: Array<Episode> = parseEpisodes([
     BLAi3NNz2Vs 4:01 Valsapena
     cr1eD_MJ80Y 3:10 Nocturne
   `,
+  // `
+  //   ku0P5Fdv0Tk 2:38 Cirque Du Soleil O, O
+  //   bCpnyazy7D0 4:34 Cirque Du Soleil O, Terre Aride
+  //   1GCzME-a9sU 7:51 Cirque Du Soleil O, Desert
+  //   htvaQjYBVr8 4:42 Cirque Du Soleil O, Ephra
+  //   8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan
+  //   urzeNmFKL8Q 5:23 Cirque Du Soleil O, Simcha
+  //   FEMZqYM3Peg 4:06 Cirque Du Soleil O, Nostalgie
+  //   SgttczPRNAs 6:01 Cirque Du Soleil O, Svecounia
+  //   tN777jqzeLA 7:17 Cirque Du Soleil O, Remous
+  //   y0Kx_QU-2ek 2:19 Cirque Du Soleil O, Africa
+  //   sFLeL9F4HBQ 3:08 Cirque Du Soleil O, Tzelma
+  //   MtfUtwrRdqI 5:24 Cirque Du Soleil O, Mer Noire
+  //   S6tE6laWTEc 4:22 Cirque Du Soleil O, Jeux d'Eau
+  // `,
   `
-    ku0P5Fdv0Tk 2:38 Cirque Du Soleil O, O
-    bCpnyazy7D0 4:34 Cirque Du Soleil O, Terre Aride
-    1GCzME-a9sU 7:51 Cirque Du Soleil O, Desert
-    htvaQjYBVr8 4:42 Cirque Du Soleil O, Ephra
-    8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan
-    urzeNmFKL8Q 5:23 Cirque Du Soleil O, Simcha
-    FEMZqYM3Peg 4:06 Cirque Du Soleil O, Nostalgie
-    SgttczPRNAs 6:01 Cirque Du Soleil O, Svecounia
-    tN777jqzeLA 7:17 Cirque Du Soleil O, Remous
-    y0Kx_QU-2ek 2:19 Cirque Du Soleil O, Africa
-    sFLeL9F4HBQ 3:08 Cirque Du Soleil O, Tzelma
-    MtfUtwrRdqI 5:24 Cirque Du Soleil O, Mer Noire
+    # Cirque du Soleil Compilation - O - Dralion
     S6tE6laWTEc 4:22 Cirque Du Soleil O, Jeux d'Eau
+    eRuaup9q164 5:56 Ombra
+    _1seEbWLfmo 5:40 Ballare
+    FEMZqYM3Peg 4:06 Cirque Du Soleil O, Nostalgie
+    oZsE0Kpe2Mg 4:35 Stella Errans
+    QETX5wGDkBQ 5:17 Miracula Aeternitatis
+    tN777jqzeLA 7:17 Cirque Du Soleil O, Remous
+    q3aryI9pa3w 5:14 Ninkou Latora
+    MtfUtwrRdqI 5:24 Cirque Du Soleil O, Mer Noire
+    1GCzME-a9sU 7:51 Cirque Du Soleil O, Desert
+    ku0P5Fdv0Tk 2:38 Cirque Du Soleil O, O
   `,
   `
     IYbE2coMZPc 52:50 Íslandsklukkur (Instrumental Icelandic Folk Music)
@@ -648,4 +662,5 @@ export const albums: Array<Episode> = parseEpisodes([
   `Tt8p5AxJn18 4:14 Sinéad O'Connor - Mna na h Eireann (Women of Ireland)`,
   `HgwypQ_9_DE 4:25 Ripoff Raskolnikov - Azt gondoltam eső esik (Live at Paks)`,
   `apE1n63ZhMQ 18:34 Muzsikás: Repülj madár, repülj (Fly Bird, fly) + pics of Hollókő (read the info)`,
+  `8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan`,
 ])
