@@ -658,6 +658,11 @@ export const albums: Array<Episode> = parseEpisodes([
     g0gGZDYRg-o 3:17 Prelude, Cello Suite #1
     Q_wKNHReSRY 5:44 Fairhaired Child Set
   `,
+  `
+    hA7OGf2Laj4 45:43 Return to Forever - Romantic Warrior (1976) FULL ALBUM Vinyl Rip
+  `,
+
+  // SINGLES ==============================================
   `Gf1RHyuuLnI 4:59 Kirsten Bråten Berg - Heiemo og Nykkjen(folkesang)`,
   `Tt8p5AxJn18 4:14 Sinéad O'Connor - Mna na h Eireann (Women of Ireland)`,
   `HgwypQ_9_DE 4:25 Ripoff Raskolnikov - Azt gondoltam eső esik (Live at Paks)`,
