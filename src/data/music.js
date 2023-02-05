@@ -661,6 +661,66 @@ export const albums: Array<Episode> = parseEpisodes([
   `
     hA7OGf2Laj4 45:43 Return to Forever - Romantic Warrior (1976) FULL ALBUM Vinyl Rip
   `,
+  `
+    # Chansons de la Renaissance, Disc 1 - Obsidienne
+    gAfFLDXrSDE 3:10 Ce jour de l'an voudray joye mener
+    kTqCPKEUIbE 3:35 Par droit je puis bien complaindre et gémir - Guillaume Dufay
+    hvGGLwQUd7g 4:44 Ma belle dame souveraine
+    JCesTMbhtBM 3:42 Ce moys de may soyons lies et joyeux
+    qkKjDrvWsao 2:14 Reveslons nous amoureux - Guillaume Dufay
+    voXt4SRsD2M 4:38 Le roy anglois
+    POxFVsrEZQo 3:11 Hellas il est pic de ma vie
+    xzywNs3Xdvw 1:26 Bevons ma commère
+    4JSAFhBVL38 3:33 Hellas mon cœur
+    M3agM5qYcyg 2:26 Dieu gard celle de déshonneur
+    ACPTHR-nibo 2:31 Belle très douce mère
+    XiBIAc5P3EM 2:46 Ne l'oseray je dire, se j'ayme par amour ?
+    4RVGgBvZqws 5:25 Hellas ma dame que je désire tant
+    7647a5w4e_U 2:37 M'erme je n'ay point nom Johanne
+    COWB4SHdcz8 2:32 La Dernière Nuictée d'avril - Manuscrit de Bayeux
+    KQ8NrwFM0QE 2:13 Jamais amoureux bien n'aira
+    pSAOUIzOGyA 4:45 Le grand désir
+    wJq1XiaIHYQ 2:24 L'amour de moi si est enclose I
+    8WpYxTAcVG0 4:29 Nymphes des bois Déesse des fontaines
+    LeSvZoWhRTo 1:34 In te Domine speravi
+    Vfr1jWds5Wo 1:08 Scaramella
+    tcOH73WSguo 1:10 Vive le roy
+  `,
+  `
+    # Chansons de la Renaissance, Disc 2 - Obsidienne
+    nG2O7b1_FeI 3:51 L'amour de moi si est enclose II
+    KHKwJilIEB8 1:50 Autant en emporte le vent
+    uKPV-B9RtMA 3:11 Mais que che fut secrétement
+    Oi7uFaUCQlE 4:13 Et trop penser
+    XL6AOlOj7iM 1:50 Puisque Robin j'ay à nom - Improvisation polyphonique Obsidienne
+    dj0WK94Sngs 2:07 Entre Peronne et Saint Quentin
+    kZfVqi3Yevc 3:45 Vecy le mai
+    Y4M0Qzjw3NM 3:54 Quant je vois renouveler
+    D1cPszbdwJU 1:20 Quant je voy renouveller (Improvisation polyphonique)
+    Dsu6NRcUJAg 0:40 Le Renvoy I
+    n0uou2WA9W8 1:15 Le Renvoy II
+    V3ZLEarFJCQ 2:52 On doibt bien aymer l'oyselet (Improvisation polyphonique)
+    GNeJZDQbecg 1:27 Joye me fuit et douleur me queurt seure
+    pQFpJqz8hgM 4:26 Joye me fuit
+    IXubAmvh4wE 3:17 Je ne pourroye plus celer
+    sFNtisPqqeU 2:23 Pourquoy non
+    Y8iLbMPaXxA 4:14 Helas Olivier Vasselin (Improvisation polyphonique)
+    kMt8FHQ4i6k 0:50 Mon mignault musequin I
+    xUeUe6S4LhU 2:31 Mon mignault musequin II
+    FdFRgtpOGIc 2:34 Dieu la gard la bergerotte (Improvisation polyphonique)
+    ImS_S7kITqA 0:30 Amy je prends congé de vous
+    SjO5LTMPWxQ 2:10 Kyrie improvisé sur Amy je prends congié de vous I
+    ZJ340xw7tYQ 1:37 Forseulement
+    AjQ3Z4fpYtM 2:15 Kyrie improvisé sur Amy je prends congié de vous II
+    jMZeiwDQ5Tk 2:12 Plaine de dueil
+    gbDDTFO54ec 4:26 Ce n'est pas jeu
+  `,
+  `
+    492RxYXYw9o 3:17 The Dungeon Master's Lair
+    co9Q5BZDunI 30:32 Atmospheric Lightness
+    ZpPbmPHJTG0 25:00 Chamber Lightness
+    Jl1_m1OtkpE 1:01:28 Brian Eno - New Space Music
+  `,
 
   // SINGLES ==============================================
   `Gf1RHyuuLnI 4:59 Kirsten Bråten Berg - Heiemo og Nykkjen(folkesang)`,
