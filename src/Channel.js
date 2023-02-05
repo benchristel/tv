@@ -9,6 +9,8 @@ import type { Broadcast } from "./Broadcast"
 import type { Episode } from "./data/types"
 import { equals, expect, is, test } from "@benchristel/taste"
 import { binarySearch } from "./lib/binarySearch"
+import { entireVideo } from "./data/ingestion";
+import { duration } from "./data/types";
 
 export interface Channel {
   getBroadcast(time: number): Broadcast;
@@ -93,7 +95,7 @@ const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
           startSecondOfVideo: 0,
         }
       )
-      totalDuration += video.durationSeconds + GAP_SECONDS
+      totalDuration += duration(video) + GAP_SECONDS
     }
   }
   return schedule
@@ -143,7 +145,7 @@ test("ScheduleGenerator", {
       {
         videos: [
           {
-            durationSeconds: 3600 * 24,
+            timeWindow: entireVideo(3600 * 24),
             videoId: "the-video-id",
             title: "the-title",
           },
@@ -168,7 +170,7 @@ test("ScheduleGenerator", {
       {
         videos: [
           {
-            durationSeconds: 3600 * 12,
+            timeWindow: entireVideo(3600 * 12),
             videoId: "the-video-id",
             title: "the-title",
           },
@@ -201,7 +203,7 @@ test("ScheduleGenerator", {
       {
         videos: [
           {
-            durationSeconds: 3600 * 2,
+            timeWindow: entireVideo(3600 * 2),
             videoId: "one",
             title: "",
           },
@@ -210,7 +212,7 @@ test("ScheduleGenerator", {
       {
         videos: [
           {
-            durationSeconds: 3600 * 2,
+            timeWindow: entireVideo(3600 * 2),
             videoId: "two",
             title: "",
           },
@@ -219,7 +221,7 @@ test("ScheduleGenerator", {
       {
         videos: [
           {
-            durationSeconds: 3600 * 2,
+            timeWindow: entireVideo(3600 * 2),
             videoId: "three",
             title: "",
           },

@@ -25,11 +25,15 @@ export function parseVideos(raw: string): Array<Video> {
         : [
             {
               videoId,
-              durationSeconds: parseDuration(rawDuration),
+              timeWindow: entireVideo(parseDuration(rawDuration)),
               title,
             },
           ]
     )
+}
+
+export function entireVideo(duration: number): Video["timeWindow"] {
+  return {start: 0, end: duration}
 }
 
 test("parseVideos", {
@@ -59,12 +63,12 @@ test("parseVideos", {
     expect(parseVideos(data), equals, [
       {
         videoId: "leb645Xu6uo",
-        durationSeconds: 654,
+        timeWindow: {start: 0, end: 654},
         title: "Captain Murderer - Emlyn Williams",
       },
       {
         videoId: "Ga8tNxnHjt4",
-        durationSeconds: 181,
+        timeWindow: {start: 0, end: 181},
         title: "Sut Wnaethoch Chi Sillafu Caernarfon? Y Dydd 1971",
       },
     ])
@@ -77,7 +81,7 @@ test("parseVideos", {
     expect(parseVideos(data), equals, [
       {
         videoId: "leb645Xu6uo",
-        durationSeconds: 654,
+        timeWindow: {start: 0, end: 654},
         title: "Captain Murderer - Emlyn Williams",
       },
     ])
