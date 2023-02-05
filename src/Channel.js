@@ -20,9 +20,9 @@ type Schedule = Array<
       type: "video",
       videoId: string,
       videoTitle: string,
-      startAt: number,
+      startSecondOfDay: number,
     |}
-  | {| type: "nothing", nextVideoId: string, startAt: number |}
+  | {| type: "nothing", nextVideoId: string, startSecondOfDay: number |}
 >
 
 export const GAP_SECONDS = 2
@@ -45,13 +45,13 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
       (seconds - TIMEZONE_OFFSET) % SCHEDULE_GENERATION_PERIOD
     const dayBoundary = seconds - secondsOfDay
     const schedule = getSchedule(String(dayBoundary))
-    const segment = binarySearch(schedule, (seg) => seg.startAt <= secondsOfDay)
+    const segment = binarySearch(schedule, (seg) => seg.startSecondOfDay <= secondsOfDay)
     if (segment?.type === "video") {
       return {
         type: "video",
         videoId: segment.videoId,
         videoTitle: segment.videoTitle,
-        currentTime: secondsOfDay - segment.startAt,
+        currentTime: secondsOfDay - segment.startSecondOfDay,
       }
     } else {
       return {
@@ -81,14 +81,14 @@ const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
       schedule.push(
         {
           type: "nothing",
-          startAt: totalDuration,
+          startSecondOfDay: totalDuration,
           nextVideoId: video.videoId,
         },
         {
           type: "video",
           videoId: video.videoId,
           videoTitle: video.title,
-          startAt: totalDuration + GAP_SECONDS,
+          startSecondOfDay: totalDuration + GAP_SECONDS,
         }
       )
       totalDuration += video.durationSeconds + GAP_SECONDS
@@ -150,12 +150,12 @@ test("ScheduleGenerator", {
     ]
     const generator = ScheduleGenerator(episodes)
     expect(generator(""), equals, [
-      { type: "nothing", startAt: 0, nextVideoId: "the-video-id" },
+      { type: "nothing", startSecondOfDay: 0, nextVideoId: "the-video-id" },
       {
         type: "video",
         videoId: "the-video-id",
         videoTitle: "the-title",
-        startAt: 2,
+        startSecondOfDay: 2,
       },
     ])
   },
@@ -174,19 +174,19 @@ test("ScheduleGenerator", {
     ]
     const generator = ScheduleGenerator(episodes)
     expect(generator(""), equals, [
-      { type: "nothing", startAt: 0, nextVideoId: "the-video-id" },
+      { type: "nothing", startSecondOfDay: 0, nextVideoId: "the-video-id" },
       {
         type: "video",
         videoId: "the-video-id",
         videoTitle: "the-title",
-        startAt: 2,
+        startSecondOfDay: 2,
       },
-      { type: "nothing", startAt: 43202, nextVideoId: "the-video-id" },
+      { type: "nothing", startSecondOfDay: 43202, nextVideoId: "the-video-id" },
       {
         type: "video",
         videoId: "the-video-id",
         videoTitle: "the-title",
-        startAt: 43204,
+        startSecondOfDay: 43204,
       },
     ])
   },
