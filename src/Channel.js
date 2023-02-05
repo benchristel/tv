@@ -21,6 +21,7 @@ type Schedule = Array<
       videoId: string,
       videoTitle: string,
       startSecondOfDay: number,
+      startSecondOfVideo: number,
     |}
   | {| type: "nothing", nextVideoId: string, startSecondOfDay: number |}
 >
@@ -89,6 +90,7 @@ const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
           videoId: video.videoId,
           videoTitle: video.title,
           startSecondOfDay: totalDuration + GAP_SECONDS,
+          startSecondOfVideo: 0,
         }
       )
       totalDuration += video.durationSeconds + GAP_SECONDS
@@ -156,6 +158,7 @@ test("ScheduleGenerator", {
         videoId: "the-video-id",
         videoTitle: "the-title",
         startSecondOfDay: 2,
+        startSecondOfVideo: 0,
       },
     ])
   },
@@ -180,6 +183,7 @@ test("ScheduleGenerator", {
         videoId: "the-video-id",
         videoTitle: "the-title",
         startSecondOfDay: 2,
+        startSecondOfVideo: 0,
       },
       { type: "nothing", startSecondOfDay: 43202, nextVideoId: "the-video-id" },
       {
@@ -187,6 +191,7 @@ test("ScheduleGenerator", {
         videoId: "the-video-id",
         videoTitle: "the-title",
         startSecondOfDay: 43204,
+        startSecondOfVideo: 0,
       },
     ])
   },
