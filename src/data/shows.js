@@ -1,6 +1,7 @@
 // @flow
 import type { Episode, Video } from "./types"
 import { parseEpisodes, parseVideos } from "./ingestion";
+import { tastingHistoryEpisodes } from "./tasting-history";
 
 export const debuggingVideos: Array<Video> = parseVideos(`
     vKXu0CzRcrI 0:16 Here's Tree
@@ -1374,7 +1375,6 @@ YXzxEqdvuIE 31:11 One Day Builds: Adam Savage Demonstrates Weathering Tricks Mop
 # Tasting History
 
 hIKx0G4ghpA 18:44 The Noble Origins of Afternoon Tea
-R-dPIBUvVC8 17:25 Byzantine Honey Fritters
 SoFxrwuMuQs 20:42 Medieval Table Manners
 iWlqxGQXZx8 20:24 A History of Ketchup
 Kz-VpoNEWXM 17:38 A History of Tacos
@@ -5552,7 +5552,7 @@ g8twezOz2h4 0:03 WGBH Boston | Title Card | 2003 | PBS Kids
 g8twezOz2h4 0:03 WGBH Boston | Title Card | 2003 | PBS Kids
 `)
 
-export const channel1Episodes: Array<Episode> = parseEpisodes([
+export const channel1Episodes: Array<Episode> = tastingHistoryEpisodes.concat(parseEpisodes([
   `# Elif'in Hecesi
 
     SUoqi6C8qkw 7:40 Perija and Friends - Kuzum Belo Edije ( a balkan gathering )
@@ -5658,7 +5658,7 @@ export const channel1Episodes: Array<Episode> = parseEpisodes([
     LUZ29kEJLdE 3:02 LOTR The Fellowship of the Ring - Parth Galen
     9skYkQfAwus 2:43 LOTR The Fellowship of the Ring - Extended Edition - The Departure of Boromir
   `,
-])
+]))
 
 export const channel2Videos: Array<Video> = parseVideos(`
 # Slow TV
