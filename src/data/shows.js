@@ -5530,6 +5530,13 @@ JKhHPdfmx8k 1:30:40 Dünyayı Kurtaran Adam - Eski Türk Filmi Tek Parça
 
 WnxK4iYehag 40:54 Kalevala laulettuna - Viidestoista runo
 
+maTkAcDbrEY 29:36 How Buildings Learn by Stewart Brand 1 of 6 “Flow”
+3gXj3l3BxCI 30:21 How Buildings Learn by Stewart Brand 2 of 6 “The Low Road”
+ySPBcLbI8ko 29:10 How Buildings Learn by Stewart Brand 3 of 6 “Built for Change”
+PuP-MF7lOe4 29:15 How Buildings Learn by Stewart Brand 4 of 6 “Unreal Estate”
+nWsASJ-CnvI 29:14 How Buildings Learn by Stewart Brand 5 of 6 “The Romance of Maintenance”
+485R4xst-DU 29:05 How Buildings Learn by Stewart Brand 6 of 6 “Shearing Layers”
+
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
