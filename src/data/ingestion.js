@@ -19,13 +19,13 @@ export function parseVideos(raw: string): Array<Video> {
     .filter(not(isComment))
     .filter(not(isEmpty))
     .map(split(/ +/, 3))
-    .flatMap(([videoId, rawDuration, title]) =>
-      rawDuration === "SHORTS"
+    .flatMap(([videoId, rawTimeWindow, title]) =>
+      rawTimeWindow === "SHORTS"
         ? []
         : [
             {
               videoId,
-              timeWindow: entireVideo(parseDuration(rawDuration)),
+              timeWindow: parseTimeWindow(rawTimeWindow),
               title,
             },
           ]
@@ -77,6 +77,18 @@ test("parseVideos", {
       },
     ])
   },
+  "parses time ranges"() {
+    const data = `
+      leb645Xu6uo 1:01-5:00 The Title
+    `
+    expect(parseVideos(data), equals, [
+      {
+        videoId: "leb645Xu6uo",
+        timeWindow: {start: 61, end: 300},
+        title: "The Title",
+      },
+    ])
+  },
   "removes shorts"() {
     const data = `
       undefined SHORTS blah blah
@@ -94,6 +106,18 @@ test("parseVideos", {
 
 function isComment(line) {
   return line.startsWith("#")
+}
+
+function parseTimeWindow(raw: string) {
+  const parts = raw.split("-")
+  if (parts.length === 1) {
+    return entireVideo(parseDuration(parts[0]))
+  } else {
+    return range(
+      parseDuration(parts[0]),
+      parseDuration(parts[1]),
+    )
+  }
 }
 
 function parseDuration(raw: string) {

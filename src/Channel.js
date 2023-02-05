@@ -54,7 +54,7 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
         type: "video",
         videoId: segment.videoId,
         videoTitle: segment.videoTitle,
-        currentTime: secondsOfDay - segment.startSecondOfDay,
+        currentTime: secondsOfDay - segment.startSecondOfDay + segment.startSecondOfVideo,
       }
     } else {
       return {
@@ -122,6 +122,31 @@ test("a Channel", {
     const noEpisodes = []
     const channel = createChannel("", noEpisodes)
     expect(channel.getBroadcast(999), equals, {type: "nothing", nextVideoId: ""})
+  },
+
+  "starts a video when it's supposed to start"() {
+    const episodes = [
+      {
+        videos: [
+          {
+            timeWindow: range(1000, 2000),
+            videoId: "",
+            title: "",
+          }
+        ]
+      }
+    ]
+    const channel = createChannel("", episodes)
+    const fiveSecondsAfterMidnightPacificTime = (TIMEZONE_OFFSET + 5) * 1000
+    expect(
+      channel.getBroadcast(fiveSecondsAfterMidnightPacificTime),
+      equals,
+      // For the first 2 seconds of the day, nothing is playing (due to the
+      // gap between videos).
+      // At 00:00:05, we are 3 seconds into the first video segment, which
+      // starts playing 1000 seconds into the YouTube data.
+      {type: "video", currentTime: 1003, videoId: "", videoTitle: ""},
+    )
   },
 })
 
