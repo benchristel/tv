@@ -9,7 +9,7 @@ import type { Broadcast } from "./Broadcast"
 import type { Episode } from "./data/types"
 import { equals, expect, is, test } from "@benchristel/taste"
 import { binarySearch } from "./lib/binarySearch"
-import { entireVideo } from "./data/ingestion";
+import { entireVideo, range } from "./data/ingestion";
 import { duration } from "./data/types";
 
 export interface Channel {
@@ -92,7 +92,7 @@ const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
           videoId: video.videoId,
           videoTitle: video.title,
           startSecondOfDay: totalDuration + GAP_SECONDS,
-          startSecondOfVideo: 0,
+          startSecondOfVideo: video.timeWindow.start,
         }
       )
       totalDuration += duration(video) + GAP_SECONDS
@@ -194,6 +194,40 @@ test("ScheduleGenerator", {
         videoTitle: "the-title",
         startSecondOfDay: 43204,
         startSecondOfVideo: 0,
+      },
+    ])
+  },
+
+  "schedules a time window of a video"() {
+    const episodes = [
+      {
+        videos: [
+          {
+            // 12 hours of video, starting at 1:00:00 and ending at 13:00:00
+            timeWindow: range(3600, 3600 * 13),
+            videoId: "the-video-id",
+            title: "the-title",
+          },
+        ],
+      },
+    ]
+    const generator = ScheduleGenerator(episodes)
+    expect(generator(""), equals, [
+      { type: "nothing", startSecondOfDay: 0, nextVideoId: "the-video-id" },
+      {
+        type: "video",
+        videoId: "the-video-id",
+        videoTitle: "the-title",
+        startSecondOfDay: 2,
+        startSecondOfVideo: 3600,
+      },
+      { type: "nothing", startSecondOfDay: 43202, nextVideoId: "the-video-id" },
+      {
+        type: "video",
+        videoId: "the-video-id",
+        videoTitle: "the-title",
+        startSecondOfDay: 43204,
+        startSecondOfVideo: 3600,
       },
     ])
   },

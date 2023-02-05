@@ -36,6 +36,10 @@ export function entireVideo(duration: number): Video["timeWindow"] {
   return {start: 0, end: duration}
 }
 
+export function range(start: number, end: number): Video["timeWindow"] {
+  return {start, end}
+}
+
 test("parseVideos", {
   "empty string"() {
     expect(parseVideos(""), equals, [])
