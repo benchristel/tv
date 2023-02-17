@@ -101,9 +101,9 @@ export const albums: Array<Episode> = parseEpisodes([
     KNc2uifQuGw 4:32 Cup of Wonder (2003 Remaster)
     royymUiwItI 5:12 Hunting Girl (2003 Remaster)
     XJS9TjjHxx8 3:44 Ring Out, Solstice Bells (2003 Remaster)
-    6-ANplhDJNY 6:03 Velvet Green (2003 Remaster)
+    # 6-ANplhDJNY 6:03 Velvet Green (2003 Remaster)
     2mBaE-K4RxI 3:32 The Whistler (2003 Remaster)
-    pkUCchG0Kls 8:34 Pibroch (Cap in Hand) (2003 Remaster)
+    # pkUCchG0Kls 8:34 Pibroch (Cap in Hand) (2003 Remaster)
     73LAuGkgayo 2:28 Fire at Midnight (2003 Remaster)
     XzJVZ5Uda84 5:19 Beltane (2003 Remaster)
   `,
@@ -498,6 +498,7 @@ export const albums: Array<Episode> = parseEpisodes([
     5dM3LikmKTc 6:47 Dead Boy's Poem
     z94ip-1_khY 3:37 Nightwish - Kuolema Tekee Taiteilijan [Lyrics]
   `,
+  `_zmeye7-HOE 48:54 Evanescence - Fallen (FULL ALBUM)`,
   `
     # Dire Straits - Brothers in Arms
     p0D-w-HhB64 47:46 Dire Straits - Brothers In Arms {Reissue} [Full Album]
@@ -596,7 +597,7 @@ export const albums: Array<Episode> = parseEpisodes([
   `
     lN8Ii1gGqZI 2:10 Tîr Im by The Fellowship
     XFOzTds_3Qk 2:51 The Longbottom Leaf by The Fellowship
-    PYIOu7CpUAo 4:29 In Elven Lands - Dan Barliman's Jig
+    # PYIOu7CpUAo 4:29 In Elven Lands - Dan Barliman's Jig
     fPy_RzFd6Vc 2:10 The Silver Bowl by The Fellowship
     bHqQ_IuApfA 3:03 The Man in the Moon by The Fellowship
     RLa4mYiLf_0 2:05 Verse to Elbereth Gilthóniel by The Fellowship
@@ -604,17 +605,17 @@ export const albums: Array<Episode> = parseEpisodes([
     2WyK2DbofJo 3:54 Elechoi Mirnu Aglaron
     5vd5LyKSDmU 4:20 Elo Elleth by The Fellowship
     zjiuFe99PA0 5:19 In Elven Lands - Beware The Wolf
-    GSqGC5jsiDQ 6:45 The Battle of Evermore - Performed by The Fellowship
+    # GSqGC5jsiDQ 6:45 The Battle of Evermore - Performed by The Fellowship
     IkIr_5UMx5w 5:13 Oromë: Lord of the Hunt by The Fellowship
     uCoJjv6b_Zw 4:49 The Fellowship - When Dûrin Woke (Official Music Video)
     r0-K_EcCdEs 3:20 Silmesse by The Fellowship (Official Music Video)
     PLeECmnHSxg 2:18 J.R.R. Tolkien's "Namárië" - Performed by The Fellowship
     lpQMgV8sAJ8 2:08 In Elven Lands - Eala Earendel
     QYDu4MlvDeE 3:29 In Elven Lands - Creation Hymn
-    TV4Sn3UTvzM 5:07 The Sacred Stones
+    # TV4Sn3UTvzM 5:07 The Sacred Stones
     3wO8Vf1ADnc 4:44 The Fellowship - In Elven Lands - The Blood of Kings
-    mVCLUBkko9w 4:56 Verses to Elbereth Gilthoniel
-    gF3oD8oUlPo 5:00 Canticle to Elbereth Gilthóniel by The Fellowship
+    # mVCLUBkko9w 4:56 Verses to Elbereth Gilthoniel
+    # gF3oD8oUlPo 5:00 Canticle to Elbereth Gilthóniel by The Fellowship
     uZ6P2-vEhBU 4:06 Evening Star by The Fellowship
     1El5LNGvtb0 1:15 Terra Beata by The Fellowship
   `,
