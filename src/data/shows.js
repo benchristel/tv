@@ -839,7 +839,6 @@ AdiW7_HcjiE 1:13:05 My Journey: Episode 6 - The Ups and Downs of Practice (and L
 BR7D92whYXA 1:09:49 My Journey: Episode 5 - Unifying life around the Dharma (re-upload)
 TrK3NBylnVA 1:23:23 My Journey: Episode 4 - Stranger in a Strange Land
 E48ByR0Xt6U 1:10:46 My Journey: Episode 3 - Experiences don't mean sh...
-# Yg6l-DsFEz8 1:32:25 Culadasa March 2021 Patreon Q&A No1
 OAfkxskGREo 1:07:21 My Journey: Episode 2 - A Series of Miracles
 kn050yBN37U 59:17 My Journey: Episode 1 - The path of the lay practitioner, commitment, and the early years
 Uf_su1wDk94 8:57 Introduction to "My Journey" discussion series
@@ -2149,93 +2148,33 @@ q69tb_H94ao 3:17 La Ferrassie 1 - A Painted Reconstruction
 
 # Stadstuinieren
 
-# CMqMKLYGMuY 3:02 Stadstuinieren - Limonade met bramen - Zo maak je dat
 3_7j8XGfOLc 3:31 Stadstuinieren - Zelf zaden zakjes vouwen - Zo doe je dat
-# kJe_EqzsMxQ 3:07 Stadstuinieren - Tomatillo kweken en oogsten
 NzhKvcN3YdA 3:39 Stadstuinieren - Hoekjeskool of Rubras - een nieuw gewas
-# P4V3XwK1-js 3:08 Stadstuinieren - Herfst en Wintergewassen voorzaaien
 W49dfzlUUDE 5:50 Stadstuinieren - Tuinen kijken - Moestuin klooster Oud Bijdorp
-# E2DYK7RG36I 4:16 Stadstuinieren - Wortels kweken en oogsten + Recept voor een lekkere risotto
-# 0-xcXvqz8aY 3:02 Stadstuinieren - Recept Gevulde Courgette
 KJXHqmlBuRM 5:24 Stadstuinieren - Van peulen naar vruchtbaar aardbeienbed
-# uonGXvtYVnE 3:13 Stadstuinieren - Recept met munt: Muntsoep
-# bnGuzmUkva8 1:03 Het leukste tijdschrift voor de moestuinier 🌱
 reBnrC-zh6A 8:00 Stadstuinieren - Aardappels oogsten - Knollen, bessen en beestjes
-# IGLOSqR0YbA 3:40 Stadstuinieren - Rode bieten kweken en oogsten + Recept Rode bieten hummus
 Ds5dYclBWz4 4:49 Stadstuinieren - Tuinen kijken - in de Loire Vallei in Frankrijk
-# 7gwvtR60Zto 3:11 Stadstuinieren - Snijbiet kweken en Snijbietquiche maken
 3HQ5kMugXTI 4:14 Stadstuinieren - Genoeg te doen in de moestuin
 BMt4lmiD__s 3:53 Stadstuinieren - Te kleine tuin of balkon? - Kijk omhoog!
-# jBAkUJatRY8 3:35 Stadstuinieren - Aardbeien kweken
 lnb6TkuI23c 3:25 Stadstuinieren - Vogels én een nest! - In de stadstuin
-# xkLc19m8DcQ 3:03 Stadstuinieren - Meiraap oogsten + Recept meiraapfrietjes
 TYXf9Ri-0bc 8:56 Stadstuinieren - Tomaten en druiven dieven - Zo doe je dat
-# 9KTVTyP9NHY 3:03 Stadstuinieren - Komkommerfamilie uitplanten
 BGOyHKxqfVw 8:21 Stadstuinieren - Een rondje door de moestuinen - eind mei
 2t4k7W1iASk 7:00 Stadstuinieren - Rabarber oogsten - Zo doe je dat
-# L4jVJxP2oAE 3:02 Stadstuinieren - Uitplanten in mei - Aubergines en prei
-# Gwt3Vbu6ghE 0:54 Het leukste tijdschrift voor de moestuinier 🌱
-# Hji6-JO61p0 3:52 Stadstuinieren - Sla zaaien en oogsten + Recept Slasoep
-# aDmnOspdOgg 4:39 Stadstuinieren - Broccoli kweken en uitplanten
-# Qjbc01PoPr8 3:03 Stadstuinieren - Gojibes planten en kweken
 KkM5XMbuyX8 4:49 Stadstuinieren - Tomaten buiten planten, na de ijsheiligen
 lLx1lAsvJuw 3:30 Stadstuinieren - Groene asperges oogsten - Zo doe je dat
 JFA-3KwNLt8 10:26 Stadstuinieren - Basilicum kopen, zaaien en stekken
-# YOCocNOGtxg 3:13 Stadstuinieren - Paardenbloem oogsten
 hQw-YE6Q60k 5:11 Stadstuinieren - Een rondje door de moestuin - half april
-# 7EUnkkzgUhs 3:24 Stadstuinieren - Snijbiet zaaien
 N9O_3MlpTrc 3:22 Stadstuinieren - Bloesem, vorst en bestuiving
 u7q5aJJ39HA 3:21 Stadstuinieren - Eeuwig Moes - meerjarig koolgewas
-# VtfD9kN84nw 3:33 Stadstuinieren - Wasmiddel maken met Klimop
-# DuQxd9UgKug 3:08 Stadstuinieren - Recept Salade radijs en munt
 OmuB1U0HxbI 4:46 Stadstuinieren - Vroege aardappels poten - Zo doe je dat
-# jej9Qe9rwWU 3:19 Stadstuinieren - Kruiden snoeien
 fYj-frPfeF0 5:37 Stadstuinieren - Tomaten, Pepers en Aubergine voorzaaien - Wanneer doe je dat
-# 6BVS7fR-XI0 3:03 Stadstuinieren - Paprika's verspenen
 5z3gLZIoInA 7:05 Stadstuinieren - Aardappels voorkiemen - Zo doe je dat
-# d2tcq38UB1c 4:00 Stadstuinieren - Zaaien in maart in moestuin of pot
 bEmCUcU-cvQ 4:45 Stadstuinieren - Zaaien en planten - begin maart
-# b8FiiO40C-8 3:14 Stadstuinieren - Winterspinazie oogsten + recept omelet
 rYYCAKxfOnA 2:52 Stadstuinieren - Optimaal gebruik maken van zonlicht - Zo doe je dat
-# Hp6oHbeGCRo 3:38 Stadstuinieren - De moestuin in februari Aardpeer planten
 3rF8f4r_EJk 3:08 Stadstuinieren - Zaden bewaren - Tips
 abMdcAUTSpA 3:02 Stadstuinieren - Weefkunst met natuurlijke materialen
 a5RE1H_5tJc 11:47 Stadstuinieren - Zaaien en voorzaaien in februari - het seizoen is begonnen!
 aELlmAvkmoY 7:12 Stadstuinieren - Eenjarige, tweejarige of meerjarige gewassen? - Zo zit dat
-# QOs8wj13KtM 3:43 Stadstuinieren - Peterselie kweken
-# TEk4W8nGZxk 3:04 Stadstuinieren - Plantenvoeding maken van bananenschillen
-# ZNCLazWortw 5:43 Stadstuinieren - Moestuinplanning maken
-# Y9W4BvVkyIs 3:59 Stadstuinieren - Zonnebloemen zaaien
-# @removed - wrong aspect ratio
-# O-mp3lcvT2w 4:02 Stadstuinieren - Tips Sla kweken
-# 7pA4pkBxK0k 5:15 Stadstuinieren - Tomaten zaaien
-# wKM6xq8mBNY 3:01 Stadstuinieren - Recept Andijviestamppot uit eigen tuin
-# i8GE9UKFchA 3:23 Stadstuinieren - Limonade van Tijmsiroop
-# AlcyADSIGoQ 3:10 Stadstuinieren - Zelf Tijmsiroop maken
-# jN0JQpKAfu4 4:54 Stadstuinieren -Tips zaaien pepers en paprika
-# YtDQlH7VdWU 3:02 Stadstuinieren - Spinazie Zaaien + Recept smoothie met spinazie
-# t_Bbi_3oWHI 4:35 Stadstuinieren - Prei en ui kweken
-# WHfIyMV2F6Q 3:35 Stadstuinieren - Kiemhoofdjes maken met de kids
-# MVQHmlNEMIU 3:17 Stadstuinieren - Rozemarijn Thee uit de tuin
-# X53i6_GJYl8 3:02 Stadstuinieren - Kweekpotjes maken van papier
-# lXbijluLCmg 3:09 Stadstuinieren - Radijsjes en Worteltjes kweken
-# GYsIM5LFtS4 3:48 Stadstuinieren - Recept Aardbeienjam
-# N_bnpLHvfAU 3:31 Stadstuinieren - Tomatenplanten snoeien
-# dYG9JvPn3lE 3:36 Stadstuinieren - Courgette kweken + Recept Courgette soep
-# 8pXh8vDcbD4 3:31 Stadstuinieren - Tomaten dieven, zo doe je dat
-# O3QD8b4SAXs 5:20 Stadstuinieren - Recept Pavlova
-# u1898_IG_sQ 3:59 Stadstuinieren - Recept pesto met radijs
-# qmvy2o3CXVQ 4:16 Stadstuinieren - Tomatenplanten verpotten
-# SFd-7ZhvSG8 7:06 Stadstuinieren - Tomaten in de stadstuin - update juli
-# QPEz6lSjI58 4:47 Stadstuinieren - Tomaten uitplanten
-# yGkOEic-Gzc 5:22 Stadstuinieren - Sla zaaien
-# JA5GleBebjw 5:52 Stadstuinieren - Lage slaboontjes kweken en oogsten
-# SUhmC63jLh4 6:08 Stadstuinieren -Wilde bramen plukken
-# P2o1U9bkPuo 4:48 Stadstuinieren - Komkommers oogsten
-# VboSbAq482Q 3:09 Stadstuinieren - Zaden ordenen
-# 4xb7-lQ7peY 4:22 Stadstuinieren - Dahlia's planten
-# y_eMkCNZU18 3:20 Stadstuinieren - Recept Chilisaus
-# E2qBOiWSsjw 3:20 Stadstuinieren - Aardappelen kweken
 g0AFu5x4IUE 6:18 Stadstuinieren - Wortelonkruiden bestrijden - Zo doe je dat
 MB3St12AoSs 3:08 Stadstuinieren - Bietjes kweken
 XE1qiaT5-NQ 4:08 Stadstuinieren - Radijsjes oogsten + recept Tzatziki van radijsjes
@@ -2791,51 +2730,32 @@ LgpqLcR8a4w 12:25 Secrets to Building with Logs - Frontier Log Barn - Extended
 FzOVLy2eH58 15:04 How To Make Homemade Raspberry Wine: Time-Tested Recipe!
 IASqjWncv6I 1:01:35 Ice Cream in the 18th Century! - Live In The Nutmeg Tavern!
 ps6NxaoR69M 17:24 Hand-Dug Well Using Primitive Tools? - Frontier Well - Townsends Wilderness Homestead
-# @removed - books and let's-plays aren't good TV
-# j5cpxSJStWE 2:04:59 Live Play-Through "Lewis and Clark: The Expedition!"
 QAL-9V0635Y 11:22 Were They Afraid to Drink Coffee 250 Years Ago?
-# 5CdgQkw41dU 41:25 Finale! Townsends Book Club Episode 17 - Autobiography of Benjamin Franklin
 vsvYZtFyqM4 10:20 How To Eat Like Benjamin Franklin
-# H94KCQ75gmc 48:30 Townsends Book Club Episode 16 - Autobiography of Benjamin Franklin
 8USEQGCyFqE 8:32 Wood-Fired Steak from 1788 - Frontier Food
 IOaz6EQZgg0 11:12 Summer Sweetness! - Mulberry Pudding Delight - Historical Boiled Pudding
-# Cl2NUnEjM7A 37:10 Townsends Book Club Episode 15 - Autobiography of Benjamin Franklin
 3ky02udlbpI 10:32 Barbecue Pork on the Frontier in 1824 - BBQ with Gravy?
-# yXDI3WJ4Cng 50:30 Townsends Book Club Episode 14 - Autobiography of Benjamin Franklin
 aRoukj48bkc 11:38 Unusual and Delicious Pan Fried Puddings from 1773
 iCrJBiO0GLg 9:51 Let's Get This Straight - Primitive Levels
-# 6fs6DtYM400 44:35 Townsends Book Club Episode 13 - Autobiography of Benjamin Franklin
 KzcoUtLufps 8:59 200 Years Before "Mayberry" - The Self Sufficient Small Town Of Early America
-# do--rwss7UA 42:21 Townsends Book Club Episode 12 - Autobiography of Benjamin Franklin
 4JdW-B0bQ9I 10:12 Whole Almonds Crushed To Make Flour? - Almond Cheesecakes
-# 8t5Asj6kK0M 54:06 Townsends Book Club Episode 11 - Autobiography of Benjamin Franklin
 EcATbhRA8-4 8:23 Inside A Woodturners Woodshop - Old vs. New
 fsJbnWaa4tA 11:55 Breakfast Waffles Over The Fire - 18th Century Cooking
 Qwyyi5-Ye7c 9:13 Hide Glue! - Primitive Adhesive from the 1700's
 HidS4xItLsM 1:02:11 Live In The German Kitchen!
-# cspSM6eTLB8 49:35 Townsends Book Club Episode 10 - Autobiography of Benjamin Franklin
 rEXcs8bR_VE 25:23 Making Pottery with Jon - Grease Lamp - Kicking the Wheel
 iTGqzVXD36k 9:03 The Myth of "The Rugged Individual"
-# PVtsgaoLrP0 51:56 Townsends Book Club Episode 9 - Autobiography of Benjamin Franklin
 8HTgcZpDE1s 10:54 London Leftovers from 1669 - Citrus and Meat Hash
-# lo_ZBwkVgEg 38:10 Townsends Book Club Episode 8 - Autobiography of Benjamin Franklin
 Zgi4Gbu1ZFE 13:28 350 Year Old Chicken Curry - 18th Century Cooking - Townsends
 PnDi0URKwVU 8:02 Inside a Longhunter Camp - American Frontier Trek
-# IwuN96WPX3w 54:26 Townsends Book Club Episode 7 - Autobiography of Benjamin Franklin
 ld1_Wsx5L3k 9:31 Poor People Food: Budget Cooking In Early America - Boiled Dumplings
-# Pkc4xGlzaeQ 55:00 Townsends Book Club Episode 6 - Autobiography of Benjamin Franklin
 JBYvgOc1PY8 9:15 Beer for Breakfast? A Working Class Morning: London Print Shop Circa 1725
-# 2j7ZKdIMatI 53:00 Townsends Book Club Episode 5 - Autobiography of Benjamin Franklin
 QsWja0-_3Ww 11:13 Navy Captain Food in the 18th Century - Cheshire Pork Pie - Pork & Potatoes
 p5LK5EOjUYI 10:29 Frontier Blacksmith: A Day in the Life - Decorative Blacksmithing
-# DUTGxDmRQlM 56:00 Townsends Book Club Episode 4 - Autobiography of Benjamin Franklin
 zqSa3fycEKE 8:59 Shoe Repair: The Work Of The Cobbler - Historical Buckle Shoe Repair
-# lEuoxW120Ls 56:51 Townsends Book Club Episode 3 - Autobiography of Benjamin Franklin
 P-Mcbf38GfQ 6:20 Potatoes and Greens! 100% Irish Cooking - Happy St. Patrick's Day!
 3OX0yGfvRoo 9:05 "What Do I Want To Do When I Grow Up?" - Benjamin Franklin Autobiography
-# 0gDIW_7fHQc 57:55 Townsends Book Club Episode 2 - Autobiography of Benjamin Franklin
 vg4OIFd5-aA 23:08 Sailor, Soldier, & Explorer Rations: Food for the Commoner - Salt Pork
-# nvfBf8Pbi_A 58:25 Townsends Book Club Episode 1 - Autobiography of Benjamin Franklin
 zH8xnJQKQVc 29:21 What's In Early American Kitchens? - Colonial Cookware
 InmrHSCLKKA 11:35 Preserved Cod Pie From 1769 - "Saltfish Pie" - Townsends
 aQd4C7ReaB4 1:02:35 Victorian Era Cocktails and Spirits with Guests, Brian and Amy Cushing of "The Victorian Barroom"
@@ -3024,8 +2944,6 @@ UlVENzhq_Xw 15:49 Building Log Cabin Walls - Townsends Homestead Part One
 -b6Ojpeb-oQ 5:02 Paw Paws To The Rescue! - The Fruit That Saved Lewis And Clark
 bGxZFMlQ-Bc 5:56 Camp Oven Cornbread - Feeding Hungry Workers
 jv3hsU1NlPo 26:39 Townsends On The Road! - The Search For The Perfect Cabin
-# @removed - too meta
-# bz38QhBT06w 1:13:50 One Million Subscriber Celebration! - Live From The Nutmeg Tavern
 7hBSwK7BkfM 8:01 Breakfast Casserole In The 18th Century? - Egg And Bacon Pie
 ZEXic7y1X-Y 4:12 Open Fire Shrimp With Black Pepper Butter Sauce - 1600's Recipe
 xxb-XqsgaqM 20:43 Postage: The Dos and Don'ts Of Sending A Letter In The 18th Century
@@ -3158,8 +3076,6 @@ gMskLUQyo5g 1:32 Introducing "The American Frontier" - A New Series from Townsen
 4rT6J0OxEmM 5:52 Beef, Mushrooms, Eggs, and Gravy - 1730 Scotch Collops
 pPNiSBD9Ih8 9:35 Sorry the Internet Broke - Follow up Q/A with Dan Wowak 18th Century Bushcrafter
 5ag8uQxSQYY 5:52 Pulled Pork From The 1700's
-# @removed - too meta
-# wAWBpbnWSvY 1:11:05 500K Subscriber Celebration! (With Michael Dragoo)
 3cPizm6i15A 8:27 Offering a Bed for the Night
 bvbZ1_h9HW8 7:58 A Poor Man's Rice Pudding
 UQe5Y2m6QfM 8:32 A Well-To-Do Rice Pudding
@@ -3332,8 +3248,6 @@ Fv4ekr9HGLk 12:45 Caring For Your Tinware
 4egYfaTxR3k 12:29 Making Bread From Beer At Genesee Country Village
 -J6HayX1K6w 12:50 Bugs To Dye Food? - Q&A
 MAQEwlEKWB8 5:22 A Harvest Succotash
-# @removed - too meta
-# ZDOOMEY71ro 8:32 Silver Play Button! - Q&A
 Uwqlx1AuLqc 4:57 Gunsmith Tim Williams
 W3-85vpDKEI 7:21 Paw Paw Pudding
 969EwYCVjJk 3:24 Ice In The 18th and Early 19th Century - Q&A
@@ -3689,17 +3603,11 @@ i0foHjPVbP4 12:31 How to Build an Earthen Oven
 fKNGPMefJ_A 7:33 Soup, Stew and Hash - 18th Century Soldier Cooking S1E4
 ZdmPIpQZPRg 6:17 Preparing Salt Pork - 18th Century Cooking Series S1E5
 f55ZjXt7rrc 10:13 Cooking Ash Cakes - 18th Century Cooking Series S1E3
-# @removed - advertisements
-# UVWzUUMIaI8 1:29 Townsend's Rotisserie Set
 gFFxPVfJNXQ 7:17 Cooking Pumpkins - 18th Century Cooking Series S1E2
 qUt1ZHs3wQ8 2:34 18th Century Soldier's Rations - Cooking Series at Jas Townsend and Son S1E1
 tQfelatUur8 15:49 Death by Zombies
 Zg65rB-z66Q 3:02 Starting a Fire with Flint and Steel at Jas Townsend and Son
 G_iITvMJZEY 9:58 Making Beeswax Candles at Jas Townsend and Son
-# Qdeao8VuOvc 3:31 Strangely Ever So Slightly Green Sale at Jas Townsend and Son
-# HUPicKky8q4 5:27 18th Century Lighting at Jas Townsend and Son
-# JjDaQAfIPew 1:46 Men's 1830's Clothing at Jas. Townsend and Son
-# A4wUEkOdrdU 1:55 Ladies 18th Century Shortgown Outfit at Jas Townsend and Son
 t9fNT33UPyk 4:18 DRESSING A LONGUNTER
 lTj69MROASA 4:06 Buttons at Jas Townsend and Son
 Mbp9gUQEyyM 1:49 Sewing Kit at Jas Townsend and Son
@@ -3710,16 +3618,7 @@ _4mEKFl53j8 4:31 Making Pottery at Jas Townsend and Son
 yAeucZG98oM 5:17 Making Hasty Pudding - Jas Townsend and Son
 igBvQeQQh4M 1:38 Pocket Spice Kit Informational Video
 76bfbziXgu0 1:50 Townsend's Traveling Physician - 18th Century Medicine Kit
-# BW3st-zVKOE 2:59 Oak Kegs at Jas Townsend and Son
-# 6GYcEKlUUYM 5:39 18th Century Work Shirts at Jas. Townsend and Son
-# _Y1sYnUT5VY 1:12 JTS Video Collection on DVD
 wCKkG4AMFOY 2:50 Caring for Your 18th Century Leather Shoes
-# BMbtRtqu1oY 2:43 18th Century Mens Shoes at Jas Townsend and Son
-# CR7hbun0Hbo 4:48 18th Century Writing Items available at Jas Townsend and Son
-# dB6NaRKr--E 2:18 Folding Writing Desk at Jas. Townsend and Son
-# wgwvG7M82tU 5:38 18th Century Mens Felts Hats at Jas. Townsend and Son
-# BR8PuwYXMOU 2:36 Closeup view of Rev War Regimental Coat from Jas Townsend and son
-# om5hXLDxta4 3:34 18th Century Style Pocket Watches at Jas. Townsend and Son
 MW0b_jufUjQ 3:04 Dough Bowl Information and Care
 fb198dPndE4 3:05 How to Take Care of your 18th Century Reproduction Knives
 cKYGjhj9DfQ 7:33 Choosing Period Eye Glasses for Historical Reenacting
@@ -4242,334 +4141,6 @@ P5Bu9LjfcZE 2:10 Michael Mehaffy shares lessons at Orenco Station
 ts_ArwNEHRk 6:00 Michael Mehaffy at Future of Places II
 o2V_0BvFJuc 2:30 2014 Year-end Message from the Sustasis Executive Director
 d6pX0S34CZk 10:08 Webinar, "Federated Wiki: Potential for a new generation of open-source scenario-modeling tools:
-
-# PBS Space Time
-
-# WZfmG_h5Oyg 20:16 What Happens Inside a Proton?
-# 184eP_KuXek 14:12 How Many States Of Matter Are There?
-# JnKzt6Xq-w4 18:53 What If We Live in a Superdeterministic Universe?
-# rQnNghhPw6o 19:28 Could We Decode Alien Physics?
-# wdP_UDSsuro 20:34 Is Interstellar Travel Impossible?
-# epSev7ovVew 14:22 Have We SOLVED The Black Hole Information Paradox with Wormholes?
-# v-aP1J-BdvE 18:51 What If Physics IS NOT Describing Reality?
-# e3jGWXeBtPo 20:30 The Evolution of the Modern Milky Way Galaxy
-# v4ogRCjhFDM 15:06 What If the Galactic Habitable Zone LIMITS Intelligent Life?
-# bUHZ2k9DYHY 17:32 Space DOES NOT Expand Everywhere
-# G0Q4UAiKacw 18:04 How the Higgs Mechanism Give Things Mass
-# I8p1yqnuk8Y 18:44 Does the Universe Create Itself?
-# jeRgFqbBM5E 13:01 Could The Universe Be Inside A Black Hole?
-# BOLHtIWLkHg 19:15 Where Is The Center of The Universe?
-# esayi49OAk4 15:44 What If Charge is NOT Fundamental?
-# LHhFFfv20-4 21:22 Is the Proxima System Our Best Hope For Another Earth?
-# Thw43hzXlDA 15:55 Are Cosmic Strings Cracks in the Universe?
-# FP6iyVJ70OU 20:16 Is The Wave Function The Building Block of Reality?
-# twvj9os9DLE 39:34 The Nature of Space and Time AMA
-# cDQZXvplXKA 18:14 How Does Gravity Escape A Black Hole?
-# D-wzdsSiemU 13:25 How To Build The Universe in a Computer
-# 55c9wkNmfn0 20:53 How To Simulate The Universe With DFT
-# 6mJXv5OBel8 14:42 How to Find ALIEN Dyson Spheres
-# AK44wAvv2E4 20:26 What Happens If A Black Hole Hits Earth?
-# X5r36VCrA_w 36:39 2021 End of Year AMA!
-# 351JCOvKcYw 16:29 Are Black Holes Actually Fuzzballs?
-# 0sTBZ2G4vow 18:28 What If Our Understanding of Gravity Is Wrong?
-# Q_CQDSlmboA 19:40 Is ACTION The Most Fundamental Property in Physics?
-# hYc97J2MZIo 16:19 Will Constructor Theory REWRITE Physics?
-# iDIcydiQOhc 17:31 New Results in Quantum Tunneling vs. The Speed of Light
-# dw1sekg6SUY 18:27 Why Magnetic Monopoles SHOULD Exist
-# EK_6OzZAh5k 19:29 How Electron Spin Makes Matter Possible
-# 1Ou1MckZHTA 14:15 Neutron Stars: The Most Extreme Objects in the Universe
-# I9y62qoTsic 17:13 First Detection of Light from Behind a Black Hole
-# gc4pxTjii9c 13:15 How Vacuum Decay Would Destroy The Universe
-# IEDSAheh8Os 19:01 How to Communicate Across the Quantum Multiverse
-# QLSIZg0npuA 18:46 How An Extreme New Star Could Change All Cosmology
-# _H4xrVzd65Q 19:04 How Magnetism Shapes The Universe
-# z-syaCoqkZA 13:03 Where Are The Worlds In Many Worlds?
-# pWlk1gLkF2Y 18:10 Electrons DO NOT Spin
-# vgYQglmYU-8 19:36 How Quantum Entanglement Creates Entropy
-# snp-GvNgUt4 12:23 Can Space Be Infinitely Divided?
-# LkeTk-Fi_c8 16:52 Are We Running Out of Space Above Earth?
-# srVKjWn26AQ 16:08 What If (Tiny) Black Holes Are Everywhere?
-# uZDhCW-PTRM 11:02 Breaking The Heisenberg Uncertainty Principle
-# 3sq658Okvao 19:20 How To Know If It's Aliens
-# Vk5bxHetL4s 18:54 The NEW Warp Drive Possibilities
-# qy8MdewY_TY 12:21 What If Dark Matter Is Just Black Holes?
-# O4Ko7NW2yQo 12:36 Why the Muon g-2 Results Are So Exciting!
-# SMPid7Sh0EE 17:11 Zeno's Paradox & The Quantum Zeno Effect
-# dsCjRjA4O7Y 18:09 The NEW Crisis in Cosmology
-# OHdV9aO6jaE 13:25 How Does Gravity Affect Light?
-# UKxQTvqcpSg 11:51 Does Time Cause Gravity?
-# L9L_gNogNes 18:26 Gravitational Wave Background Discovered?
-# GKD1vDAPkFQ 12:44 How Does Gravity Warp the Flow of Time?
-# fidzLZQyaJE 16:51 Is Dark Matter Made of Particles?
-# 6MfJ59lkABY 16:43 Can We Break the Universe?
-# j5HyMNNSGqQ 12:58 What Happens During a Quantum Jump?
-# 0A1ouV7iD8o 16:22 Navigating with Quantum Entanglement
-# 3tCWWnXicC0 16:30 The Supernova At The End of Time
-# F0b8b_ykPQk 14:36 Why Do You Remember The Past But Not The Future?
-# QkWT-xMTm1M 14:21 The Arrow of Time and How to Reverse It
-# RY7hjt5Gi-E 13:57 Can Free Will be Saved in a Deterministic Universe?
-# qKVpknSKgE0 15:44 Electroweak Theory and the Origin of the Fundamental Forces
-# z4odQd8q3xY 16:59 How The Penrose Singularity Theorem Predicts The End of Space Time
-# 1JCRDaa3ehk 16:31 Is The Future Predetermined By Quantum Mechanics?
-# EagNUvNfsUI 16:06 Do the Past and Future Exist?
-# nNdy-LJWNQs 15:58 Venus May Have Life!
-# 4KCDGa98Ckc 17:43 Solving Quantum Cryptography
-# XNK5oahmw3I 16:17 Could Life Evolve Inside Stars?
-# xFKgIOX8IRE 16:55 The Truth About Beauty in Physics
-# hp2Ek1cA1LE 12:44 How Do We Know What Stars Are Made Of?
-# tJgWnbET1eE 17:49 Can Future Colliders Break the Standard Model?
-# Uf0q4Iq3AC8 15:18 How Stars Destroy Each Other
-# CJx3gLkebIA 1:23:28 Theory of Everything Controversies: Livestream
-# _izocEgArtQ 1:34:45 What is a Theory of Everything: Livestream
-# iozCwyjxhyY 2:30 Theory of Everything Livestreams with Amazing Guests
-# As7vWYmb5L8 15:01 The Boundary Between Black Holes & Neutron Stars
-# JOMrbkZqTcs 13:48 Does Antimatter Explain Why There's Something Rather Than Nothing?
-# 1Z5fnwUmTSY 16:19 Dissolving an Event Horizon
-# lqGxj3Esdxc 13:27 Building Black Holes in a Lab
-# PC2JOQ7z5L0 18:30 What Happens After the Universe Ends?
-# o2ZcvPW5EcI 17:10 Can Viruses Travel Between Planets?
-# z91oGI5aP0A 16:42 Does Gravity Require Extra Dimensions?
-# 4v9A9hQUcBQ 17:41 Mapping the Multiverse
-# M3GQM7tuq2w 18:04 How Luminiferous Aether Led to Relativity
-# Y6Vhh70Lw9w 17:49 How We Know The Universe is Ancient
-# 9xIn1Ti7bz0 1:14:15 Space Time Livestream: Ask Matt Anything
-# ldVDM-v5uz0 17:18 Will Wormholes Allow Fast Interstellar Travel?
-# t8o5W425uhw 16:59 Was the Milky Way a Quasar?
-# vAgiHreswj0 17:25 How We Know The Earth Is Ancient
-# T4oYvSH6jJ8 15:15 What’s On The Other Side Of A Black Hole?
-# UjgGdGzDFiM 13:59 How Black Holes Spin Space Time
-# vSnq5Hs3_wI 19:27 How Do Quantum States Manifest In The Classical World?
-# QTZZUjnrbF8 17:20 Does Quantum Immortality Save Schrödinger's Cat?
-# GlOwJWJWPUs 15:25 How Decoherence Splits The Quantum Multiverse
-# CT7SiRiqK-Q 17:17 Does Consciousness Influence Quantum Mechanics?
-# e7yXqF32Yvw 17:01 Are Axions Dark Matter?
-# qT110-Q8PJI 16:56 Are there Infinite Versions of You?
-# GWFJteC7kIk 16:53 Hacking the Nature of Reality
-# et7XvBenEo8 16:17 Solving the Three Body Problem
-# T2pImihwFHg 14:57 How To Capture Black Holes
-# zw2TYNY3F8U 10:06 How To Detect a Neutrino
-# rFgpKlcpzNM 18:30 Do Black Holes Create New Universes?
-# dSvgw9ZOK3I 17:50 The Doomsday Argument
-# F2s7vyKucis 16:39 Is The Universe Finite?
-# q-6oU3jXAho 18:29 Can You Observe a Typical Universe?
-# YmOVoIpaPrc 17:24 Does Life Need a Multiverse to Exist?
-# 8wa1l7M5gU8 15:59 Why We Might Be Alone in the Universe
-# pGnMiGrYmPE 13:01 Is Time Travel Impossible?
-# L2suMPiuog4 17:33 Loop Quantum Gravity Explained
-# fKgQYOlpxmo 14:19 Black Hole Harmonics
-# XglOw2_lozc 18:45 How Many Universes Are There?
-# CzJIWxplAbQ 18:17 Is Pluto a Planet?
-# FshtPsOTCP4 19:37 Could We Terraform Mars?
-# 51usJ74pPP8 14:13 Is Earth's Magnetic Field Reversing?
-# n8cEZM1lN5g 12:59 How To Become an Astrophysicist + Challenge Question!
-# chsLw2siRW0 13:51 What Happened Before the Big Bang?
-# -5j98wi_M2w 5:31 Exploring Arecibo in VR 180
-# xJCX2NlhdTc 13:28 What Caused the Big Bang?
-# E8rel2-kLJA 10:12 Deciphering The Vast Scale of the Universe | STELLAR
-# K8gV05nS7mc 13:34 Did Time Start at the Big Bang?
-# _N-2Sx-FDQA 15:20 The Quantum Internet
-# ElulEJruhRQ 18:42 Thorium and the Future of Nuclear Energy
-# cqCPnXHKO5c 8:33 The Quasar from The Beginning of Time | STELLAR
-# FocZf26yTU0 14:33 How Black Holes Kill Galaxies
-# MmgMboWunkI 15:41 The Alchemy of Neutron Star Collisions
-# k6BL1GOXgp8 15:21 The Cosmic Dark Ages
-# pi7YwxxZQ5A 17:15 Why Quantum Computing Requires Quantum Cryptography
-# GOhOlLa4teg 12:07 The Real Science of the EHT Black Hole
-# 5t0jaE--l0Y 14:38 No Dark Matter = Proof of Dark Matter?
-# klpDHn8viX8 18:24 The Holographic Universe Explained
-# tJevBNQsKtU 18:30 The Edge of an Infinite Universe
-# gEyXTQ9do-c 15:49 Could the Universe End by Tearing Apart Every Atom?
-# tAtVgHvt05M 18:22 Is Dark Energy Getting Stronger?
-# dWk9d_YCQOk 16:23 Will You Travel to Space?
-# rckrnYw5sOA 16:31 The Impossibility of Perpetual Motion Machines
-# C4CKtEQJGMY 17:11 Secrets of the Cosmic Microwave Background
-# PPpUxoeooZk 17:32 Sound Waves from the Beginning of Time
-# 10AP7tio408 15:15 Perpetual Motion From Negative Mass?
-# 72cM_E6bsOs 18:05 The Crisis in Cosmology
-# L2idut9tkeQ 18:27 Our Antimatter, Mirrored, Time-Reversed Universe
-# miGddxrvmDU 13:54 Are Dark Matter And Dark Energy The Same?
-# IhpGdumLRqs 18:39 Why String Theory is Wrong
-# UyTqgnKD3sw 17:11 Quantum Physics in a Mirror Universe
-# REl20rlZGTw 18:34 Did Life on Earth Come from Space?
-# wICOlaQOpM0 17:32 'Oumuamua Is Not Aliens
-# 5ESFGYkkbEI 16:26 Supersymmetric Particle Found?
-# iTTa9YcTe1k 16:48 Why String Theory is Right
-# ztFovwCaOik 17:14 Are Virtual Particles A New Layer of Reality?
-# uhJ9lJPt09k 17:37 Will We Ever Find Alien Life?
-# k6TWO-ESC6A 16:38 What are the Strings in String Theory?
-# 0GLgZvTCbaA 15:09 Computing a Universe Simulation
-# 3HYw6vPR9qU 15:48 How to Detect Extra Dimensions
-# YNEBhwimJWs 16:41 Quantum Gravity and the Hardest Problem in Physics | Space Time
-# XxVlGAFX7vA 16:12 How Much Information is in the Universe?
-# Ab8JIzckx_M 12:25 The Black Hole Entropy Enigma
-# VmEY6T5Wc-Q 13:42 Is There Life on Mars?
-# Qg4vb-KH5F4 17:53 How Will the Universe End? | Space Time
-# 7UwigY4SjKY 16:30 Quantum Theory's Most Incredible Prediction | Space Time
-# cOzaGEAGzzA 14:15 How Close To The Sun Can Humanity Get?
-# KR23aMjIHIY 14:01 Reversing Entropy with Maxwell's Demon
-# kfffy12uQ7g 12:20 The Misunderstood Nature of Entropy
-# V5kgruUjVBs 13:04 Quantum Invariance & The Origin of The Standard Model
-# 0mXW1zPlxEE 13:49 Will A New Neutrino Change The Standard Model?
-# TF6GRPaeLbk 11:58 How Asteroid Mining Will Save Earth
-# 9XkHBmE-N34 15:30 The Black Hole Information Paradox
-# GscfuQWZFAo 14:08 What Survives Inside A Black Hole?
-# HF-9Dy6iB_4 13:43 Why Quantum Information is Never Destroyed
-# 04ERSb06dOg 13:02 Noether's Theorem and The Symmetries of Reality
-# Jdy09y0A4t0 10:45 How Gaia Changed Astronomy Forever
-# -iWGtQ03OZM 11:04 The Star at the End of Time
-# UVhtKAnp3G4 11:32 Black Hole Swarms | Space Time
-# xnwXyPU_ps0 12:47 Using Stars to See Gravitational Waves
-# GcfLZSL7YGw 13:41 The Physics of Life (ft. It's Okay to be Smart & PBS Eons!)
-# 7cj6oiFDEXc 11:14 The Unruh Effect
-# _P1xKh_kZFU 12:02 The Andromeda-Milky Way Collision
-# -R9F2_D76TE 9:28 Scientists Have Detected the First Stars
-# qPKj0YnKANw 12:06 Hawking Radiation
-# wJ7d503fN-g 12:40 Should Space be Privatized? | Space Time
-# G7UOFZBEA_g 8:48 The Trebuchet Challenge | Space Time
-# iJY3y5_k0do 12:01 The Death of the Sun
-# PUn2izowBkw 14:19 What is Energy?
-# 9-SxVSpSoek 9:47 Kronos: Devourer Of Worlds
-# wwGeCfWc100 14:15 The End of the Habitable Zone
-# bG-xu5H6plk 14:56 Horizon Radiation
-# TbWyuJYybMA 13:50 What Do Stars Sound Like?
-# TmD27cUuylw 1:36 Space Time VR
-# 8HvwNOSnveE 13:09 Extinction by Gamma-Ray Burst
-# nYGs92-qnFY 11:36 The Origin of 'Oumuamua, Our First Interstellar Visitor | Space Time
-# izqaWyZsEtY 14:49 Understanding the Uncertainty Principle with Quantum Fourier Series | Space Time
-# tFB8MsizvBc 10:33 Citizen Science + Zero-Point Challenge Answer | Space Time
-# _x2nL6ukJDg 16:48 Suicide Space Robots
-# Rh898Yr5YZ8 10:09 Zero-Point Energy Demystified
-# n6jAOV7bZ3Y 11:36 The Vacuum Catastrophe
-# RchRrngfjQY 13:23 The Missing Mass Mystery
-# X5rAGfjPSWE 16:07 The Nature of Nothing | Space Time
-# OvgZqGxF3eo 10:41 Absolute Cold | Space Time
-# gtZ7OVoI2nc 13:39 When Quasars Collide STJC
-# YJzoelANL_Y 14:52 Are the Fundamental Constants Changing?
-# BIASPc89Sgk 13:40 The Future of Space Telescopes
-# kL81uuYW9BY 15:51 Neutron Stars Collide in New LIGO Signal?
-# S4aqGI1mSqo 13:27 White Holes | Space Time
-# OfOuBx6XW3Q 11:41 First Detection of Life
-# OjFKcGHfVag 14:09 Extraterrestrial Superstorms
-# 9dqtW9MslFk 12:50 The One-Electron Universe | Space Time
-# xgdNBQCdhdA 12:29 Dark Flow
-# fG52mXN-uWI 14:25 The Secrets of Feynman Diagrams
-# Q8shnjlGwmg 18:06 The Real Star Wars
-# oQ1WZ-eJW8Y 15:21 Solving the Impossible in Quantum Field Theory
-# vSFRN-ymfgE 15:49 Feynman's Infinite Quantum Paths
-# ATcrrzJFtBY 15:22 The First Quantum Field Theory
-# hYkaahzFWfo 16:12 Anti-Matter and Quantum Relativity
-# lrS0rxX-UhA 14:00 Supervoids vs Colliding Universes!
-# 4pSUtWBiuB4 13:28 The Fate of the First Stars
-# vLR_a1MAy9I 14:59 Martian Evolution
-# nsWhE22i4FM 11:58 The Great American Eclipse
-# hmVOV7xvl58 16:28 Are We Living in an Ancestor Simulation? ft. Neil deGrasse Tyson | Space Time
-# nhy4Z_32kQo 11:44 Are You a Boltzmann Brain?
-# osvOr5wbkUw 12:19 The Oh My God Particle
-# 6ACW7GVKCxs 1:42 Here's Why I Love PBS
-# aHjiXTlFSSM 13:35 Telescopes on the Moon
-# KePNhUJ2reI 15:29 How Time Becomes Space Inside a Black Hole | Space Time
-# HUMGc8hEkpc 11:48 Superluminal Time Travel + Time Warp Challenge Answer
-# 5l1KxgHH2Ek 12:43 Time Crystals!
-# _tmMKQ4kp_I 5:33 The Race to a Habitable Exoplanet - Time Warp Challenge | Space Time
-# h871oE5QkTU 12:03 The Treasures of Trappist-1 | Space Time
-# TQZyaMRp7_0 10:47 The Eye of Sauron Reveals a Forming Solar System!
-# CoQE5J346mU 13:01 Telescopes of Tomorrow
-# 1YFrISfN7jo 16:07 The Geometry of Causality
-# 3TZEp_n3eIc 11:54 Why Quasars are so Awesome | Space Time
-# -q7EvLhOK08 18:05 The Phantom Singularity | Space Time
-# hqoo_4wSkdg 14:43 The EM Drive: Fact or Fantasy?
-# q_oHv6HCMX4 11:18 How to See Black Holes + Kugelblitz Challenge Answer
-# Ttwl_zH_DZ8 17:57 Have They Seen Us? | Space Time | PBS Digital Studios
-# v3hd3AI2CAA 8:09 Escape The Kugelblitz Challenge
-# mht-1c4wc0Q 19:59 What Happens at the Event Horizon? | Space Time | PBS Digital Studios
-# RlXdsyctD50 16:32 Pilot Wave Theory and Quantum Realism | Space Time | PBS Digital Studios
-# u4RNGRyzt10 13:46 Strange Stars | Space Time | PBS Digital Studios
-# 7UNLgPIiWAg 15:50 Did Dark Energy Just Disappear? | Space Time | PBS Digital Studios
-# ZY47bVu-0Bs 9:03 Quantum Vortices and Superconductivity + Drake Equation Challenge Answers
-# dzKWfw68M5U 12:53 The Many Worlds of the Quantum Multiverse
-# jowVq81AgGw 11:25 The First Humans on Mars
-# rcv_tYcRgw4 13:43 Black Holes from the Dawn of Time
-# BAoEnV3Zt_Q 6:22 Are We Alone? Galactic Civilization Challenge
-# pEJ-wXpeH6w 13:09 Life on Europa?
-# tafGL02EUOA 14:03 Quantum Entanglement and the Great Bohr-Einstein Debate | Space Time | PBS Digital Studios
-# 4H55wybU3rI 12:54 Self-Replicating Robots and Galactic Domination
-# MuvwcsfXIIo 8:22 Is There a Fifth Fundamental Force? + Quantum Eraser Answer
-# jW55cViXu6s 14:31 Should We Build a Dyson Sphere? | Space Time | PBS Digital Studios
-# 2Uzytrooz44 5:53 Quantum Eraser Lottery Challenge
-# 8ORLN_KwAgs 14:40 How the Quantum Eraser Rewrites the Past | Space Time | PBS Digital Studios
-# UjmlwdUK4RE 13:27 Can We Survive the Destruction of the Earth? ft. Neal Stephenson
-# p-MNSLsjjdo 13:32 The Quantum Experiment that Broke Reality | Space Time | PBS Digital Studios
-# eJ2RNBAFLj0 8:20 The Future of Gravitational Waves
-# _NqbRcwWwPw 13:27 Juno to Reveal Jupiter's Violent Past
-# SqF_Iy0lz_M 4:21 Nuclear Physics Challenge | Space Time | PBS Digital Studios
-# tQSbms5MDvY 15:16 Planck's Constant and The Origin of Quantum Mechanics | Space Time | PBS Digital Studios
-# Dgv2WWpm7_s 13:32 The Strange Universe of Gravitational Lensing
-# KFOgIijPWGY 13:44 New Fundamental Particle Discovered?? + Challenge Winners!
-# -IfmgyXs7z8 11:07 Is Quantum Tunneling Faster than Light? | Space Time | PBS Digital Studios
-# ztninkgZ0ws 15:28 Is an Ice Age Coming? | Space Time | PBS Digital Studios
-# UwYSWAlAewc 14:48 Anti-gravity and the True Nature of Dark Energy | Space Time | PBS Digital Studios
-# nZQIM1C6xQw 7:02 The Cosmic Conspiracy of Dark Energy Challenge Question
-# fsARBnvUB2E 12:17 Will Starshot's Insterstellar Journey Succeed?
-# RUE_LUqcTvM 12:39 What Does Dark Energy Really Do?
-# -4PayaEgEZc 12:41 Why the Universe Needs Dark Energy
-# xZTb6sfHEX8 13:11 Will the Universe Expand Forever?
-# 6yLGeviU8FM 13:38 We Are Star Stuff
-# nFYveYkSPuA 9:10 Pulsar Starquakes Make Fast Radio Bursts? + Challenge Winners! | Space Time | PBS Digital Studios
-# blSTTFS8Uco 13:41 How Cosmic Inflation Flattened the Universe
-# Aj6Kc1mvsdo 14:17 Why is the Earth Round and the Milky Way Flat? | Space Time | PBS Digital Studios
-# wcBjibuHxEk 5:01 Cosmic Microwave Background Challenge | Space Time | PBS Digital Studios
-# JDmKLXVFJzk 12:58 What’s Wrong With the Big Bang Theory? | Space Time | PBS Digital Studios
-# aPStj2ZuXug 12:35 Why the Big Bang Definitely Happened | Space Time | PBS Digital Studios
-# xGfv3Oay_pY 8:37 Planet X Discovered?? + Challenge Winners!
-# gw-i_VKd6Wo 9:32 LIGO's First Detection of Gravitational Waves!
-# o8TCUGDltqM 10:57 Will Mars or Venus Kill You First?
-# fHRqibyNMpw 12:32 The Origin of Matter and Time
-# kpuGjzdHqgI 2:17 The Photon Clock Challenge | Space Time | PBS Digital Studios
-# GguAN1_JouQ 9:31 When Time Breaks Down
-# gSKzgpt4HBU 10:48 The True Nature of Matter and Mass | Space Time | PBS Digital Studios
-# kixAljyfdqU 9:32 The Higgs Mechanism Explained | Space Time | PBS Digital Studios
-# xx4562gesw0 13:22 How to Build a Black Hole
-# T2m-ZXrclW0 8:05 100 Years of Relativity + Challenge Winners!
-# dEIjKjIgCA0 11:13 5 Ways to Stop a Killer Asteroid
-# NzvcVcPnSCY 3:02 Challenge: Can you save Earth from a Killer Asteroid? | Space Time | PBS Digital Studios
-# cJONS7sqi0o 12:11 Why Haven't We Found Alien Life?
-# 94ed4v_T6YM 10:00 Is The Alcubierre Warp Drive Possible? | Space Time | PBS Digital Studios
-# 1Tstyqz2g7o 11:27 Have Gravitational Waves Been Discovered?!?
-# EzZGPCyrpSU 13:03 5 REAL Possibilities for Interstellar Travel
-# msVuCEs8Ydo 12:46 The Speed of Light is NOT About Light
-# AwwIFcdUFrE 9:37 What Happens At The Edge Of The Universe? | Space Time | PBS Digital Studios
-# z3rgl-_a5C0 10:42 Does Dark Matter BREAK Physics?
-# VzUl3D41oIs 5:52 Watch THIS! (New Host + Challenge Winners) | Space Time | PBS Digital Studios
-# vNaEBbFbvcY 14:25 Do Events Inside Black Holes Happen?
-# MUThGpp6ze4 6:02 Challenge: Which Particle Wins This Race? | Space Time | PBS Digital Studios
-# pwChk4S99i4 15:21 What Physics Teachers Get Wrong About Tides! | Space Time | PBS Digital Studios
-# AwhKZ3fd9JA 8:53 General Relativity & Curved Spacetime Explained! | Space Time | PBS Digital Studios
-# U8Hx-AkFDCY 6:03 SPECIAL ANNOUNCEMENT + Flat Spacetime Geometry Comments | Space Time | PBS Digital Studios
-# P4rW_pPbD-U 9:19 Can You Trust Your Eyes in Spacetime?
-# RuPQsqZaq8A 2:21 The Leap Second Explained | Space Time | PBS Digital Studios
-# g1nbZ4PctOI 6:59 Curvature Demonstrated + Comments | Space Time | PBS Digital Studios
-# D3GVVkPb3OI 10:22 Can a Circle Be a Straight Line?
-# bT3hBK6kAJQ 7:37 The Calendar, Australia & White Christmas | Space Time | PBS Digital Studios
-# gWYEnvMM1dA 11:17 How to Signal Aliens
-# _UKyswjng60 1:46 What Happens to a Helium Balloon in Freefall?
-# NblR01hHK6U 12:33 Is Gravity An Illusion?
-# 9Q_0vOdzw4Y 10:47 Habitable Exoplanets Debunked!
-# Xo232kyTsO0 10:24 The Real Meaning of E=mc²
-# w5TSfjvzMGs 9:38 9 NASA Technologies Shaping YOUR Future
-# gEagBK4Xb1w 10:39 Should the First Mars Mission Be All Women?
-# EHKQIC5p8MU 11:22 What's the Most Realistic Artificial Gravity in Sci-Fi?
-# YycAzdtUIko 8:55 Are Space and Time An Illusion?
-# uzgaZbbDsAA 6:22 Could NASA Start the Zombie Apocalypse?
-# 3t0lRt329wM 1:26 How to Weigh a Fart | Space Time | PBS Digital Studios
-# iaN0xg2VQSo 8:09 Could You Fart Your Way to the Moon?
-# bcsBWPuLJsQ 9:41 Is the Moon in Majora’s Mask a Black Hole?
-# 3tCMd1ytvWg 7:10 Cosmic Microwave Background Explained
-# EtExl3sm-1E 9:51 Can A Starfox Barrel Roll Work In Space?
-# W4UfmOHjiJg 8:08 What Will Destroy Planet Earth?
-# gJ5KV3rzuag 7:37 Should We Colonize Venus Instead of Mars?
-# QXfhGxZFcVE 6:37 How Do You Measure the Size of the Universe?
-# XAU9ofjcx-Y 7:52 Is It Irrational to Believe in Aliens?
-# McsgRggUjE4 6:13 What Planet Is Super Mario World?
 
 # Lindsay Ellis
 
