@@ -3546,6 +3546,11 @@ lxxlLqwCPDc 3:55 urbanology.com - an overview
 xdKFPA8SrKM 3:55 the scope of urbanology
 5uxAp1piXMY 7:17 urbanology: neighborhood collaboration
 
+# generative films
+08eEdgqbJns 5:48 [Richard P. Gabriel] The Beginning of Writers' Workshop
+ad5XAPgKJoM 6:15 [Jenny Quillen] History from A Pattern Language to the Nature of Order
+_V0kVOLOCrY 2:37 [Ward Cunningham] The Starting Point of Software Patterns
+
 # Videos of Irish Farming Life
 A1IaWPaqbVw 38:09 The Hiring Fairs - Recruiting fairs for Irelands poor and destitute
 f6vEk91Paao 1:44 Combined Harvester cutting Barley
