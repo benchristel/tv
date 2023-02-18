@@ -834,14 +834,14 @@ P2jdy8NC-JU 5:00 WIKITONGUES: Sofia speaking Russian & English
 4SR39iWfZdk 1:53 WIKITONGUES: Regina speaking Spanish
 v2jD_SU9KZo 2:59 WIKITONGUES: Mario speaking Aragonese
 
-BAWrOls6I8U 0:54 New Channel 4 My Journey
-AdiW7_HcjiE 1:13:05 My Journey: Episode 6 - The Ups and Downs of Practice (and Life!) - RE-UPLOAD WITH BETTER SOUND
-BR7D92whYXA 1:09:49 My Journey: Episode 5 - Unifying life around the Dharma (re-upload)
-TrK3NBylnVA 1:23:23 My Journey: Episode 4 - Stranger in a Strange Land
-E48ByR0Xt6U 1:10:46 My Journey: Episode 3 - Experiences don't mean sh...
-OAfkxskGREo 1:07:21 My Journey: Episode 2 - A Series of Miracles
-kn050yBN37U 59:17 My Journey: Episode 1 - The path of the lay practitioner, commitment, and the early years
-Uf_su1wDk94 8:57 Introduction to "My Journey" discussion series
+# BAWrOls6I8U 0:54 New Channel 4 My Journey
+# AdiW7_HcjiE 1:13:05 My Journey: Episode 6 - The Ups and Downs of Practice (and Life!) - RE-UPLOAD WITH BETTER SOUND
+# BR7D92whYXA 1:09:49 My Journey: Episode 5 - Unifying life around the Dharma (re-upload)
+# TrK3NBylnVA 1:23:23 My Journey: Episode 4 - Stranger in a Strange Land
+# E48ByR0Xt6U 1:10:46 My Journey: Episode 3 - Experiences don't mean sh...
+# OAfkxskGREo 1:07:21 My Journey: Episode 2 - A Series of Miracles
+# kn050yBN37U 59:17 My Journey: Episode 1 - The path of the lay practitioner, commitment, and the early years
+# Uf_su1wDk94 8:57 Introduction to "My Journey" discussion series
 UjBXtI1Q2as 1:04:56 Culadasa discusses meditation and the "Dark Night": What it is, what it isn't, and how to avoid it
 6nxZFnYCjbc 1:16:17 Nihilism vs Eternalism; Meaning in life; Is Awakening worth it? How long does it take?
 Zk2XQFwESIk 1:11:22 Creating the optimal state of mind for Meditation - Culadasa at NYIMC
