@@ -3546,6 +3546,9 @@ lxxlLqwCPDc 3:55 urbanology.com - an overview
 xdKFPA8SrKM 3:55 the scope of urbanology
 5uxAp1piXMY 7:17 urbanology: neighborhood collaboration
 
+# physics
+xdZMXWmlp9g 1:17:57 Richard Feynman on Quantum Mechanics Part 1 - Photons Corpuscles of Light
+
 # generative films
 08eEdgqbJns 5:48 [Richard P. Gabriel] The Beginning of Writers' Workshop
 ad5XAPgKJoM 6:15 [Jenny Quillen] History from A Pattern Language to the Nature of Order
