@@ -2190,7 +2190,6 @@ xDiUFUCeczM 4:59 Stadstuinieren - Worteltjes kweken + Recept worteltaart
 6PwM_f-kyVE 3:09 Stadstuinieren - Recept Pompoensoep
 hJsSB-D6XbA 3:51 Stadstuinieren - Zo maak je Tandpastapoeder
 ES9NtOExpEo 3:19 Stadstuinieren - Zaden oogsten van radijs
-9pl0uelqV-Y 3:32 Stadstuinieren - Rode bieten oogsten + recept Rode bieten smoothie
 Tv9dnLsmYvg 3:34 Stadstuinieren - Broccoli kiemen
 Lf4YxNnUzow 3:41 Stadstuinieren - Recept Broccolitaartjes
 5ydtkro30lA 3:56 Stadstuinieren - Peultjes kweken
