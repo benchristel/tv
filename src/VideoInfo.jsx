@@ -80,9 +80,11 @@ export function VideoInfo(props: {|
         <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">license</a>.
       </p>
       <p>
-        <a href={bookmarklet}>
-          Bookmarklet to scrape videos from YouTube
-        </a>
+        <span dangerouslySetInnerHTML={{__html: `
+          <a href="${bookmarklet}">
+            Bookmarklet to scrape videos from YouTube
+          </a>
+        `}}/>
         {" "}
         (<a href="https://github.com/benchristel/tv#what-is-a-bookmarklet">What's this?</a>)
       </p>
