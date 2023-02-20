@@ -1,10 +1,11 @@
 // @flow
 import type { Broadcast } from "./Broadcast"
+import type { Channel } from "./Channel";
 import type { PlayerStatus } from "./PlayerStatus"
 import type { Player } from "./youtube/player.jsx"
 import { stateString } from "./PlayerStateView.jsx"
 import { bookmarklet } from "./data/scraper-bookmarklet";
-import { hoursMinutesSeconds } from "./lib/time"
+import { durationAsWords, hoursMinutesSeconds } from "./lib/time";
 import { videoIdFromUrl } from "./youtube/videoId"
 import * as React from "react"
 
@@ -61,6 +62,7 @@ function viewModel({ broadcast, player }): VideoInfoViewModel {
 }
 
 export function VideoInfo(props: {|
+  channels: Array<Channel>,
   broadcast: Broadcast,
   player: PlayerStatus,
   onClose: () => mixed,
@@ -132,6 +134,28 @@ export function VideoInfo(props: {|
       </table>
       <p>Seconds behind schedule: {vm.secondsBehindSchedule}</p>
       <p>Time remaining in video: {vm.timeRemainingInVideo}</p>
+      <h2>Channel Stats</h2>
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">name</th>
+            <th scope="col">duration</th>
+          </tr>
+        </thead>
+        <tbody>
+          {props.channels.map(channel =>
+            <ChannelTableRow channel={channel}/>
+          )}
+        </tbody>
+      </table>
+      <div style={{height: 60}}/>
     </>
   )
+}
+
+function ChannelTableRow(props: {|channel: Channel|}): React.Node {
+  return <tr>
+    <td>{props.channel.getName()}</td>
+    <td>{durationAsWords(props.channel.getTotalDuration())}</td>
+  </tr>
 }

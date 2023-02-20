@@ -50,6 +50,7 @@ export function App(): React.Node {
             <VideoInfo
               player={playerStatus}
               broadcast={broadcast}
+              channels={channels}
               onClose={() => setInfoPaneOpen(false)}
             />
           </div>

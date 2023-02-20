@@ -34,6 +34,18 @@ function formatPositiveHoursMinutesSeconds(seconds, decimals) {
     : `${m}:${pad(s, toFixed(decimals))}`
 }
 
+export function durationAsWords(seconds: number): string {
+  const [unit, magnitude] = (() => {
+    switch (true) {
+      case seconds > 86400: return ["days", seconds / 86400]
+      case seconds > 3600: return ["hours", seconds / 3600]
+      case seconds > 60: return ["minutes", seconds / 60]
+      default: return ["seconds", seconds]
+    }
+  })()
+  return `${magnitude.toFixed(1)} ${unit}`
+}
+
 test("hoursMinutesSeconds", {
   "formats NaN"() {
     expect(hoursMinutesSeconds(0 / 0), is, "--:--")
@@ -92,6 +104,36 @@ test("hoursMinutesSeconds", {
     // representation, for rounding, which can lead to strange-seeming
     // results. For this silly toy app it doesn't matter at all, though.
     expect(hoursMinutesSeconds(2.3456, 2), is, "0:02.35")
+  },
+})
+
+test("durationAsWords", {
+  "zero"() {
+    expect(durationAsWords(0), is, "0.0 seconds")
+  },
+
+  "two seconds"() {
+    expect(durationAsWords(2), is, "2.0 seconds")
+  },
+
+  "two minutes"() {
+    expect(durationAsWords(120), is, "2.0 minutes")
+  },
+
+  "two and a half minutes"() {
+    expect(durationAsWords(150), is, "2.5 minutes")
+  },
+
+  "two and a third minutes"() {
+    expect(durationAsWords(140), is, "2.3 minutes")
+  },
+
+  "two hours"() {
+    expect(durationAsWords(7200), is, "2.0 hours")
+  },
+
+  "two days"() {
+    expect(durationAsWords(48 * 3600), is, "2.0 days")
   },
 })
 

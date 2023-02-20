@@ -6,7 +6,7 @@ import { cyrb128 } from "./lib/hash"
 import { sfc32 } from "./lib/random"
 
 import type { Broadcast } from "./Broadcast"
-import type { Episode } from "./data/types"
+import type { Episode, Video } from "./data/types";
 import { equals, expect, is, test } from "@benchristel/taste"
 import { binarySearch } from "./lib/binarySearch"
 import { entireVideo, range } from "./data/ingestion";
@@ -15,6 +15,7 @@ import { duration } from "./data/types";
 export interface Channel {
   getBroadcast(time: number): Broadcast;
   getName(): string;
+  getTotalDuration(): number;
 }
 
 type Schedule = Array<
@@ -34,9 +35,11 @@ export const TIMEZONE_OFFSET = 8 * 3600
 
 export function createChannel(name: string, episodes: Array<Episode>): Channel {
   const getSchedule = cache(1, ScheduleGenerator(episodes))
+  let totalDurationCache = null
 
   return {
     getBroadcast,
+    getTotalDuration,
     getName() {
       return name
     },
@@ -62,6 +65,16 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
         nextVideoId: segment?.nextVideoId ?? "",
       }
     }
+  }
+
+  function getTotalDuration() {
+    if (totalDurationCache == null) {
+      totalDurationCache = episodes
+        .flatMap(videos)
+        .map(duration)
+        .reduce(add, 0)
+    }
+    return totalDurationCache
   }
 }
 
@@ -115,6 +128,10 @@ function add(a, b) {
   return a + b
 }
 
+function videos(episode: Episode): Array<Video> {
+  return episode.videos
+}
+
 // TESTS =====================================================================
 
 test("a Channel", {
@@ -148,6 +165,30 @@ test("a Channel", {
       {type: "video", currentTime: 1003, videoId: "", videoTitle: ""},
     )
   },
+
+  "has a total duration of 0 given no videos"() {
+    const episodes = []
+    const channel = createChannel("", episodes)
+    expect(channel.getTotalDuration(), is, 0)
+  },
+
+  "sums the durations of its videos"() {
+    const episodes: Array<Episode> = [
+      {
+        videos: [
+          {timeWindow: {start: 0, end: 1}, title: "", videoId: ""},
+          {timeWindow: {start: 0, end: 2}, title: "", videoId: ""},
+        ]
+      },
+      {
+        videos: [
+          {timeWindow: {start: 0, end: 3}, title: "", videoId: ""},
+        ]
+      }
+    ]
+    const channel = createChannel("", episodes)
+    expect(channel.getTotalDuration(), is, 6)
+  }
 })
 
 test("randomIntInRange", {
