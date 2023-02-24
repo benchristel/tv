@@ -717,6 +717,9 @@ export const albums: Array<Episode> = parseEpisodes([
     gbDDTFO54ec 4:26 Ce n'est pas jeu
   `,
   `
+    1tW-h3GTE7E 0:00-48:57 Nepali Folk Songs Instrumental Music
+  `,
+  `
     492RxYXYw9o 3:17 The Dungeon Master's Lair
     co9Q5BZDunI 30:32 Atmospheric Lightness
     ZpPbmPHJTG0 25:00 Chamber Lightness
