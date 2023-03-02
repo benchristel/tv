@@ -168,7 +168,6 @@ export const albums: Array<Episode> = parseEpisodes([
     mfvGAG1N7g8 4:04 Sweet Dream (2001 Remaster)
     Mxr9R2GvMbk 3:08 17 (2001 Remaster)
   `,
-  `c6e3dcHvtvY 58:40 ሙላቱ አስታጥቄ - Mulatu Astatqé - Ethio Jazz & Musique Instrumentale 1969-1974 (Full Album)`,
   `
     # Sting - Songs From The Labyrinth
     Bx8Wv4hlWhs 0:39 Walsingham
