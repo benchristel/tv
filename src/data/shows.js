@@ -3932,18 +3932,27 @@ export const channel1Episodes: Array<Episode> = tastingHistoryEpisodes.concat(pa
 export const channel2Videos: Array<Video> = parseVideos(`
 # Slow TV
 
-3rDjPLvOShM 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, WINTER [1080HD] SlowTV
-yCtt26c_AOg 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, SUMMER [1080HD] SlowTV
-AWRKa0hOe98 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, FALL [1080HD] SlowTV
-cNiN7gOcNI4 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, SPRING [1080HD] SlowTV
-Ux8xAuQBdkk 3:00:13 4K Realtime Fireplace - Relaxing Fire Burning Video - 3 Hours - No Loop - Ultra HD - 2160p
-gB3XH5t9QCA 6:04:00 4K HDR Fireplace REALTIME - 6 Hours - Relaxing Fire Burning Video & Crackling Sounds - NO LOOP - UHD
+# 3rDjPLvOShM 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, WINTER [1080HD] SlowTV
+# yCtt26c_AOg 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, SUMMER [1080HD] SlowTV
+# AWRKa0hOe98 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, FALL [1080HD] SlowTV
+# cNiN7gOcNI4 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, SPRING [1080HD] SlowTV
+# Ux8xAuQBdkk 3:00:13 4K Realtime Fireplace - Relaxing Fire Burning Video - 3 Hours - No Loop - Ultra HD - 2160p
+# gB3XH5t9QCA 6:04:00 4K HDR Fireplace REALTIME - 6 Hours - Relaxing Fire Burning Video & Crackling Sounds - NO LOOP - UHD
 
 # Audiobooks
 
 mh1wgTAa_Fw 8:52:56 J. K. Rowling: Harry ​Potter és a Bölcsek Köve (Teljes hangoskönyv)
 aP_3BZxWz9k 1:17:44 Wind in the Willows - Derek Jacobi [Abridged]
+k5onUh_4qv8 6:55:28 The Wind in the Willows [Full Audiobook] by Kenneth Grahame
 `)
+
+export const channel2Episodes: Array<Episode> = parseEpisodes([
+  `
+    # 8hnmCeIYerg 0-9:59:05 ALAN WATTS Wisdom Podcast - PERFECT FOR INSOMNIA - 10 HOURS Black screen - No music
+    8hnmCeIYerg 0-1:53:42 ALAN WATTS Wisdom Podcast - PERFECT FOR INSOMNIA - 10 HOURS Black screen - No music
+    8hnmCeIYerg 1:55:45-9:59:05 ALAN WATTS Wisdom Podcast - PERFECT FOR INSOMNIA - 10 HOURS Black screen - No music
+  `,
+])
 
 export const channel4Videos: Array<Video> = parseVideos(`
 if6iWVgR8h4 19:58 Silent Meditations (20 min) | 4 intervals
