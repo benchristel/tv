@@ -10,7 +10,7 @@ import type { Episode, Video } from "./data/types";
 import { equals, expect, is, test } from "@benchristel/taste"
 import { binarySearch } from "./lib/binarySearch"
 import { entireVideo, range } from "./data/ingestion";
-import { duration } from "./data/types";
+import { duration, videoDuration } from "./data/types";
 
 export interface Channel {
   getBroadcast(time: number): Broadcast;
@@ -71,7 +71,7 @@ export function createChannel(name: string, episodes: Array<Episode>): Channel {
     if (totalDurationCache == null) {
       totalDurationCache = episodes
         .flatMap(videos)
-        .map(duration)
+        .map(videoDuration)
         .reduce(add, 0)
     }
     return totalDurationCache
@@ -100,15 +100,19 @@ const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
           startSecondOfDay: totalDuration,
           nextVideoId: video.videoId,
         },
-        {
+      )
+      totalDuration += GAP_SECONDS
+
+      for (const segment of video.segments) {
+        schedule.push({
           type: "video",
           videoId: video.videoId,
           videoTitle: video.title,
-          startSecondOfDay: totalDuration + GAP_SECONDS,
-          startSecondOfVideo: video.timeWindow.start,
-        }
-      )
-      totalDuration += duration(video) + GAP_SECONDS
+          startSecondOfDay: totalDuration,
+          startSecondOfVideo: segment.start,
+        })
+        totalDuration += duration(segment)
+      }
     }
   }
   return schedule
@@ -146,7 +150,7 @@ test("a Channel", {
       {
         videos: [
           {
-            timeWindow: range(1000, 2000),
+            segments: [range(1000, 2000)],
             videoId: "",
             title: "",
           }
@@ -176,13 +180,13 @@ test("a Channel", {
     const episodes: Array<Episode> = [
       {
         videos: [
-          {timeWindow: {start: 0, end: 1}, title: "", videoId: ""},
-          {timeWindow: {start: 0, end: 2}, title: "", videoId: ""},
+          {segments: [{start: 0, end: 1}], title: "", videoId: ""},
+          {segments: [{start: 0, end: 2}], title: "", videoId: ""},
         ]
       },
       {
         videos: [
-          {timeWindow: {start: 0, end: 3}, title: "", videoId: ""},
+          {segments: [{start: 0, end: 3}], title: "", videoId: ""},
         ]
       }
     ]
@@ -211,7 +215,7 @@ test("ScheduleGenerator", {
       {
         videos: [
           {
-            timeWindow: entireVideo(3600 * 24),
+            segments: [entireVideo(3600 * 24)],
             videoId: "the-video-id",
             title: "the-title",
           },
@@ -236,7 +240,7 @@ test("ScheduleGenerator", {
       {
         videos: [
           {
-            timeWindow: entireVideo(3600 * 12),
+            segments: [entireVideo(3600 * 12)],
             videoId: "the-video-id",
             title: "the-title",
           },
@@ -270,7 +274,7 @@ test("ScheduleGenerator", {
         videos: [
           {
             // 12 hours of video, starting at 1:00:00 and ending at 13:00:00
-            timeWindow: range(3600, 3600 * 13),
+            segments: [range(3600, 3600 * 13)],
             videoId: "the-video-id",
             title: "the-title",
           },
@@ -303,7 +307,7 @@ test("ScheduleGenerator", {
       {
         videos: [
           {
-            timeWindow: entireVideo(3600 * 2),
+            segments: [entireVideo(3600 * 2)],
             videoId: "one",
             title: "",
           },
@@ -312,7 +316,7 @@ test("ScheduleGenerator", {
       {
         videos: [
           {
-            timeWindow: entireVideo(3600 * 2),
+            segments: [entireVideo(3600 * 2)],
             videoId: "two",
             title: "",
           },
@@ -321,7 +325,7 @@ test("ScheduleGenerator", {
       {
         videos: [
           {
-            timeWindow: entireVideo(3600 * 2),
+            segments: [entireVideo(3600 * 2)],
             videoId: "three",
             title: "",
           },

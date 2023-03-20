@@ -1,5 +1,5 @@
 // @flow
-import type { Episode, Video } from "./types";
+import type { Episode, Segment, Video } from "./types";
 import { isEmpty } from "../lib/arrays";
 import { map, pipe } from "../lib/fns";
 import { trim } from "../lib/strings";
@@ -25,18 +25,18 @@ export function parseVideos(raw: string): Array<Video> {
         : [
             {
               videoId,
-              timeWindow: parseTimeWindow(rawTimeWindow),
+              segments: parseSegments(rawTimeWindow),
               title,
             },
           ]
     )
 }
 
-export function entireVideo(duration: number): Video["timeWindow"] {
+export function entireVideo(duration: number): Segment {
   return {start: 0, end: duration}
 }
 
-export function range(start: number, end: number): Video["timeWindow"] {
+export function range(start: number, end: number): Segment {
   return {start, end}
 }
 
@@ -67,12 +67,12 @@ test("parseVideos", {
     expect(parseVideos(data), equals, [
       {
         videoId: "leb645Xu6uo",
-        timeWindow: {start: 0, end: 654},
+        segments: [{start: 0, end: 654}],
         title: "Captain Murderer - Emlyn Williams",
       },
       {
         videoId: "Ga8tNxnHjt4",
-        timeWindow: {start: 0, end: 181},
+        segments: [{start: 0, end: 181}],
         title: "Sut Wnaethoch Chi Sillafu Caernarfon? Y Dydd 1971",
       },
     ])
@@ -84,7 +84,22 @@ test("parseVideos", {
     expect(parseVideos(data), equals, [
       {
         videoId: "leb645Xu6uo",
-        timeWindow: {start: 61, end: 300},
+        segments: [{start: 61, end: 300}],
+        title: "The Title",
+      },
+    ])
+  },
+  "parses a video with multiple segments"() {
+    const data = `
+      leb645Xu6uo 1-3:00,10:00-11:01 The Title
+    `
+    expect(parseVideos(data), equals, [
+      {
+        videoId: "leb645Xu6uo",
+        segments: [
+          {start: 1, end: 180},
+          {start: 600, end: 661},
+        ],
         title: "The Title",
       },
     ])
@@ -97,7 +112,7 @@ test("parseVideos", {
     expect(parseVideos(data), equals, [
       {
         videoId: "leb645Xu6uo",
-        timeWindow: {start: 0, end: 654},
+        segments: [{start: 0, end: 654}],
         title: "Captain Murderer - Emlyn Williams",
       },
     ])
@@ -108,7 +123,11 @@ function isComment(line) {
   return line.startsWith("#")
 }
 
-function parseTimeWindow(raw: string) {
+function parseSegments(raw: string): Array<Segment> {
+  return raw.split(",").map(parseSegment)
+}
+
+function parseSegment(raw: string): Segment {
   const parts = raw.split("-")
   if (parts.length === 1) {
     return entireVideo(parseDuration(parts[0]))

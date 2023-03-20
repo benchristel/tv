@@ -30,6 +30,7 @@ export const channels: Array<Channel> = [
     ...christmasAlbums,
     ...christmasSongs.map(singleVideoEpisode),
   ]),
+  // createChannel("debug", debuggingVideos.map(singleVideoEpisode)),
 ]
 
 function singleVideoEpisode(v: Video): Episode {
