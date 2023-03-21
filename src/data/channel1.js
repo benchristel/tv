@@ -3932,6 +3932,15 @@ tXIzuN3z7WM 6:58 Making a Handmade Book - Part 1.5 - Endpapers & Trimming
 EL9NBb0ihI8 10:19 Making a Handmade Book - Part 2 - Rounding & Endbands
 8RfR_mgwNLs 10:20 Making a Handmade Book - Part 1
 
+# Northmen
+bo9hXBdTfzQ 52:34 Grandfather. Full Documentary
+
+# Edward Calcutt
+tLjPk99iR9s 48:02 A History of London through Fascinating Street Names
+
+# Will Lord
+nD3UlqgPN5U 22:12 Let’s make a Neolithic Longbow - Primitive Technology
+
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
