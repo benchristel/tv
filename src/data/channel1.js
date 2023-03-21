@@ -1473,6 +1473,42 @@ YXzxEqdvuIE 31:11 One Day Builds: Adam Savage Demonstrates Weathering Tricks Mop
 
 # Tasting History
 
+lYZq2ZnwPZA 16:02 Irish Soda Bread from 1836
+IfcQcAPt5vk 18:58 Feeding a Medieval Outlaw
+NjH7ssGctuM 18:21 School Lunch from the Great Depression
+_LRE4dUgbLM 11:25 Moroccan Berber Pizza - Tabadirt / Medfouna
+4DPu-Ve_luU 20:29 The History of Ukrainian Borshch
+02V5dqRjNfw 16:46 Medieval French Toast
+THcfqRk4NyI 17:22 The King of Siam's Massaman Curry
+zBurkdTyJhE 17:07 Surviving on Leather
+YfKdaXTwB9A 19:46 Dinner with Attila the Hun
+KMWrk_94L8Y 18:44 The Great Molasses Flood | Boston Brown Bread
+JxUSzM29Y3M 15:47 Al Capone's Soup Kitchen
+LlBS-BgqN4E 19:06 The First Fad Diet of Georgian England
+gK4DMt8ARyU 21:34 Brewing Mesopotamian Beer - 4,000 Years Old
+jQTPJ1WrBBo 17:55 History of Latkes
+aEbO80_4uyM 15:05 What the heck is Wassail?
+CPs0WHtqZgQ 18:09 Christmas in the WWI Trenches - Xmas Rations
+Tw98kP3xrfk 19:49 The Marie Antoinette Diet
+qvOTev_r4-8 12:55 When Coffee was Illegal
+B7A8GOgAm54 16:45 Making Medieval Haggis
+UpBv8H0G6ZY 18:34 Japan & the Portuguese Barbarians
+ixTkzBuD-cw 19:08 The true story of the First Thanksgiving
+ry5Du60WPGU 16:18 What did WWII Soldiers Eat?
+MrKafmzGNJc 20:18 Macaroni & Cheese from 1845
+1QRNJB29p6o 18:29 Feeding King Tut
+fkJPqxelmkY 19:50 Sin Eaters & Funeral Biscuits
+Qud0SI5ZgC0 18:51 1000 Year Old Jalebi (Zalabia)
+I4ZTRjA7NhU 16:49 History's Real Macbeth
+APeVpwejxWQ 20:50 Ancient Roman Jellyfish for the Black Banquet
+DUAayg3D0XA 0-3:31,4:39-20:39 Pemmican: History's Power Bar
+jBRVvMm3xv0 19:41 The Medieval Saint Diet
+AjuGvTBPoy0 19:47 Whisky - Scotland's Water of Life
+XQJkasR3Iak 16:28 The Original Caesar Salad from Mexico
+lABWCEfeEyw 20:11 Feijoada - Brazil's National Dish
+IVpiIa_Txws 17:30 Growing an Ancient Roman Garden
+h_xqJtGWvhg 21:19 Catherine the Great & the Volga Germans
+exTSP163sRg 21:16 Debunking the Myths of Leonardo da Vinci
 R-dPIBUvVC8 0:00-1:48,2:53-17:24 Byzantine Honey Fritters
 hIKx0G4ghpA 18:44 The Noble Origins of Afternoon Tea
 SoFxrwuMuQs 20:42 Medieval Table Manners
