@@ -1,64 +1,55 @@
 // @flow
 import type { Episode, Segment, Video } from "./types";
-import { isEmpty } from "../lib/arrays";
-import { map, pipe } from "../lib/fns";
-import { trim } from "../lib/strings";
 import { test, expect, is, equals, not } from "@benchristel/taste"
+import {
+  episode,
+  parseVideos,
+  range,
+  entireVideo,
+  parseDuration,
+  split,
+  parseEpisodes,
+} from "./ingestion.impl";
 
-export const parseEpisodes: (Array<string>) => Array<Episode>
-  = map(pipe(parseVideos, episode))
+export {
+  parseEpisodes,
+  parseVideos,
+  episode,
+  entireVideo,
+  range,
+} from "./ingestion.impl.js"
 
-export function episode(videos: Array<Video>): Episode {
-  return {videos}
-}
-
-export function parseVideos(raw: string): Array<Video> {
-  return raw
-    .split(/\n+/)
-    .map(trim)
-    .filter(not(isComment))
-    .filter(not(isEmpty))
-    .map(split(/ +/, 3))
-    .flatMap(([videoId, rawTimeWindow, title]) =>
-      rawTimeWindow === "SHORTS"
-        ? []
-        : [
-            {
-              videoId,
-              segments: parseSegments(rawTimeWindow),
-              title,
-            },
-          ]
-    )
-}
-
-export function entireVideo(duration: number): Segment {
-  return {start: 0, end: duration}
-}
-
-export function range(start: number, end: number): Segment {
-  return {start, end}
-}
+;(parseEpisodes: (Array<string>) => Array<Episode>)
+;(parseVideos: (string) => Array<Video>)
+;(episode: (Array<Video>) => Episode)
+;(entireVideo: (duration: number) => Segment)
+;(range: (start: number, end: number) => Segment)
 
 test("parseVideos", {
-  "empty string"() {
+  "handles empty string"() {
     expect(parseVideos(""), equals, [])
   },
-  spaces() {
+
+  "ignores spaces"() {
     expect(parseVideos("  "), equals, [])
   },
-  newlines() {
+
+  "ignores blank links"() {
     expect(parseVideos("\n\n\n"), equals, [])
   },
-  "newlines and spaces"() {
+
+  "ignores space-only lines"() {
     expect(parseVideos(" \n \n \n"), equals, [])
   },
-  comments() {
+
+  "strips comments"() {
     expect(parseVideos("#foo\n# bar"), equals, [])
   },
+
   "strips spaces before comments"() {
     expect(parseVideos("  #foo\n  # bar"), equals, [])
   },
+
   "parses actual data"() {
     const data = `
       leb645Xu6uo 10:54 Captain Murderer - Emlyn Williams
@@ -77,6 +68,7 @@ test("parseVideos", {
       },
     ])
   },
+
   "parses time ranges"() {
     const data = `
       leb645Xu6uo 1:01-5:00 The Title
@@ -89,6 +81,7 @@ test("parseVideos", {
       },
     ])
   },
+
   "parses a video with multiple segments"() {
     const data = `
       leb645Xu6uo 1-3:00,10:00-11:01 The Title
@@ -104,6 +97,7 @@ test("parseVideos", {
       },
     ])
   },
+
   "removes shorts"() {
     const data = `
       undefined SHORTS blah blah
@@ -118,37 +112,6 @@ test("parseVideos", {
     ])
   },
 })
-
-function isComment(line) {
-  return line.startsWith("#")
-}
-
-function parseSegments(raw: string): Array<Segment> {
-  return raw.split(",").map(parseSegment)
-}
-
-function parseSegment(raw: string): Segment {
-  const parts = raw.split("-")
-  if (parts.length === 1) {
-    return entireVideo(parseDuration(parts[0]))
-  } else {
-    return range(
-      parseDuration(parts[0]),
-      parseDuration(parts[1]),
-    )
-  }
-}
-
-function parseDuration(raw: string) {
-  const multipliers = [1, 60, 3600, 86400]
-  const parts = raw
-    .split(":")
-    .map((n) => parseInt(n, 10))
-    .reverse()
-  return zip(parts, multipliers)
-    .map(([p, m]) => p * m)
-    .reduce(add, 0)
-}
 
 test("parseDuration", {
   "0:00"() {
@@ -186,28 +149,6 @@ test("parseDuration", {
   },
 })
 
-const split =
-  (delim, limit = Infinity) =>
-  (s) => {
-    if (typeof delim === "string" && delim.length === 0) {
-      throw "split(): empty delimiter not supported"
-    }
-    let matchStart = 0,
-      matchEnd = 0
-    const parts = []
-    let rest = s
-    while (parts.length < limit - 1 && rest.length > 0) {
-      const match = rest.match(delim)
-      if (match == null) {
-        break
-      }
-      parts.push(rest.slice(0, match.index))
-      rest = rest.slice(match.index + match[0].length)
-    }
-    parts.push(rest)
-    return parts
-  }
-
 test("split", {
   "empty string"() {
     expect(split(" ")(""), equals, [""])
@@ -222,15 +163,3 @@ test("split", {
     expect(split(/ +/)("a b   c"), equals, ["a", "b", "c"])
   },
 })
-
-function zip(a, b) {
-  const ret = []
-  for (let i = 0; i < a.length && i < b.length; i++) {
-    ret.push([a[i], b[i]])
-  }
-  return ret
-}
-
-function add(a, b) {
-  return a + b
-}
