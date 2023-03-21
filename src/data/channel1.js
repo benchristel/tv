@@ -1473,6 +1473,7 @@ YXzxEqdvuIE 31:11 One Day Builds: Adam Savage Demonstrates Weathering Tricks Mop
 
 # Tasting History
 
+R-dPIBUvVC8 0:00-1:48,2:53-17:24 Byzantine Honey Fritters
 hIKx0G4ghpA 18:44 The Noble Origins of Afternoon Tea
 SoFxrwuMuQs 20:42 Medieval Table Manners
 iWlqxGQXZx8 20:24 A History of Ketchup
