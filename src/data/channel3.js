@@ -1,9 +1,8 @@
 // @flow
 
-import type { Episode } from "./types"
-import { parseEpisodes } from "./ingestion";
+export const videos: string = ""
 
-export const albums: Array<Episode> = parseEpisodes([
+export const episodes: Array<string> = [
   `BecZdQvjGrY 54:49 In Gowan Ring - Compendium (Full Album)`,
   `B3oAx9VmAdA 43:52 In Gowan Ring - Hazel Steps Through A Weathered Home`,
   `
@@ -731,4 +730,4 @@ export const albums: Array<Episode> = parseEpisodes([
   `HgwypQ_9_DE 4:25 Ripoff Raskolnikov - Azt gondoltam eső esik (Live at Paks)`,
   `apE1n63ZhMQ 3:39 Muzsikás: Repülj madár, repülj (Fly Bird, fly) + pics of Hollókő (read the info)`,
   `8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan`,
-])
+]

@@ -1,18 +1,114 @@
 // @flow
-import type { Episode, Video } from "./types"
-import { parseEpisodes, parseVideos } from "./ingestion";
-import { tastingHistoryEpisodes } from "./tasting-history";
 
-export const debuggingVideos: Array<Video> = parseVideos(`
-    #vKXu0CzRcrI 0:16 Here's Tree
-    #ieWm9T_GgSA 0:08 I'm Lost
-    zBIx-gP-I8c 0-20,40-51 Strong Bad Email #1 - Some Kinda Robot
-    #BHLsrzYt-H4 0:52 Strong Bad Email #2 - Homsar
-    #wRKrv-RlJOw 1:01 Strong Bad Email #6 - Depressio
-    #Lml_AKkhCVY 1:01 Strong Bad Email #9 - I Love You
-`)
+export const episodes: Array<string> = [
+  `# Elif'in Hecesi
 
-export const channel1Videos: Array<Video> = parseVideos(`
+    SUoqi6C8qkw 7:40 Perija and Friends - Kuzum Belo Edije ( a balkan gathering )
+    p_avIhRC5aI 4:48 Maddi - Come and Go ( The ballad of the butterfly )
+    Sq_kTDO97ao 3:06 Muharrem & Halil - Seni Şah'a Gider Derler
+    ICdF6F3Qg_c 7:29 Mohammad Oktay - Ruhani Aşık Havası
+    kLpBEkNpob0 6:51 Eren & Özgür - Yaman
+    zMSdG1wpz3s 4:44 Itamar Zakai - Pleasant
+  `,
+  `
+    zFa-n9uEcKI 8:34 All Related - Mountain Version (Nessi Gomes)
+    HgBeSQaCXDQ 3:23 Akira Takeguchi - Konil Tolkyny (Көңіл толқыны)
+    Oechuj3Mt7M 6:11 Perija - Sevda ( Tvojte ochi Leno mori )
+    lNrIc9DTFUg 3:41 Nevra Coşkun - Güzel Mevcûdiyetim
+    2X63S7FSWFs 7:23 Bacıyan - Sığmazam
+    2u_dV0-TDQ8 3:49 Adaya - No Countries
+    6CY6Z-8iQbM 7:09 Dunja & Tim - Welcome
+    ZTVXX9iblhE 9:09 Farshad Haghighi - Tanbour Magham
+  `,
+  `
+    7dcExfezgd0 3:43 Ayşe & Doğa - Kızılırmak
+    HLe-oRtYAEM 8:33 Pouriya Raisi - Huzûr
+    VXbGyJ6NQDI 10:23 Demircan & Macithan - Sığmazam
+    syCrQp1OVO8 6:55 Memduh Özdemir - Canânı İster Canımız
+    6Lys2SXUA5Q 10:53 A Gathering | Bir Buluşma: Doğruya Nazar Eyleriz
+  `,
+  `
+    iLZQuO_e3Hs 11:25 Demircan Demir - Bir Yol Senden Açık
+    tknEIHce5P8 4:39 Seda Seyrek Houbakht - Elif'in Hecesi
+    0evfXX417co 10:06 Volkan Örgün - Efendiler Bağı
+    _-dBFlwMnis 2:41 Georgi Ivanov Edrev - Karai Maicho
+    IdWqBbCkDpg 4:38 Ayşe Özaltın - Ha Babam Ha
+    dylcppL_yVQ 3:28 Süyümbike Güvenç - Tugan Avıl
+    sk-S9ZRuT7g 3:03 Serxas - Barana Payîz
+  `,
+  `
+    IsxCeTk5VXY 11:22 Hamed Habibpoor - Glare
+    cIMKJ43TFLs 14:15 Özgür Baba - Dertli Dolap
+    EE_5kmy8ZRc 3:13 Serkan Güven - Nihavend Gezinti
+    8iBofAFcdBk 2:35 Bilal Karaman - Neredesin Sen
+    YXbA8wzqyIQ 4:11 Aslı Büyükköksal - Güneş'le Birdirbir
+    uMWm7ADcvmE 3:31 Faridah Busemann - Dertli Dolap
+    Tal_1JmjI-Q 6:11 Yarden Cohen - Shaar Asher Nisgar
+    ti_jsP3BJ-g 5:36 Zainab Lax - Negaresh
+  `,
+  `
+    w-GJOnbpHRM 7:51 Burhan Alkhatib - Rumi I
+    lenZMY8ESQ0 3:51 Doğa Can Yaman - Meandering
+    pH-ElLzMY_E 5:04 Macithan Terzioğlu - Can Ellerinden Gelmişem
+    Di8qHpVJjeI 4:54 Amin Parvin - Shoghe Rahaee
+    d7pDgGR2dhY 8:11 Pouriya Raisi - Bi Zamani
+    mJ8S8qxG9xk 7:33 Memduh Özdemir - Bugün Seyre Çıkmış Hublar Sultanı
+    c9CfJyZxBug 7:11 Çağrı Akoğlu - Taft
+    lbDuhK9F-KM 4:37 Selen Hünerli - Aşık
+  `,
+  `
+    Udf1V3prIzU 7:14 Işık Işık - Kim Dervişlik İster İse
+    JYEXS7lflYI 4:16 Seda Seyrek Houbakht - Rodos Semahı
+    MECioY_N-94 4:24 Ali Naki Gündoğdu - Harabat Ehliyiz
+    gTCBu37MfaI 7:17 Macithan Terzioğlu - Pınarın Başında Destin Var İmiş
+    26vLRhm6bXc 3:21 Ertuğrul Küçükbayraktar - Çayın Öte Yüzünde
+    lzRCuT1dUH0 3:20 Nebî - Dem-i Nesimi
+  `,
+  `
+    qj139dE7tFI 4:01 LOTR The Fellowship of the Ring - Extended Edition - The Prologue: One Ring to Rule Them All... Pt 1
+    d_NhmyrcoQ4 3:06 LOTR The Fellowship of the Ring - Extended Edition - The Prologue: One Ring to Rule Them All... Pt 2
+    -PcUnqlPA8A 3:00 LOTR The Fellowship of the Ring - Extended Edition - Concerning Hobbits
+    CiRu_W9tzM8 1:56 LOTR The Fellowship of the Ring - Extended Edition - A Long-expected Party Part 2
+    4Yy0pPTrHlk 4:14 LOTR The Fellowship of the Ring - Farewell Dear Bilbo
+    xYgc2G6ThUs 4:55 LOTR The Fellowship of the Ring - The Account of Isildur
+    JZUxc-Cb5LM 1:24 LOTR The Fellowship of the Ring - Extended Edition - At the Green Dragon
+    TBMiyEzOJmI 4:38 LOTR The Fellowship of the Ring - Saruman the White
+    2rtpEbRyqbg 2:19 LOTR The Fellowship of the Ring - Bucklebury Ferry
+    WmghV5AimjU 1:19 LOTR The Fellowship of the Ring - Extended Edition - Bree
+    bYFPxU9xGZI 4:44 LOTR The Fellowship of the Ring - At the Sign of The Prancing Pony
+    FTthEbYCYN8 2:12 LOTR The Fellowship of the Ring - The Nazgûl
+    qofMAoY0Ts4 1:34 LOTR The Fellowship of the Ring - Extended Edition - Into the Wild
+    fO9vymA8-vo 1:39 LOTR The Fellowship of the Ring - Extended Edition - The Midgewater Marshes
+    wzaa-jHULLc 1:44 LOTR The Fellowship of the Ring - The Spoiling of Isengard
+    LwinMu7-ZrI 2:31 LOTR The Fellowship of the Ring - The Caverns of Isengard
+    LbAPwwAXaWM 3:34 LOTR The Fellowship of the Ring - The Fate of the Ring
+    B1uGDjSVLOk 2:40 LOTR The Fellowship of the Ring - Extended Edition - The Sword That Was Broken
+    -k3ABfmCr2I 3:34 LOTR The Fellowship of the Ring - Extended Edition - The Council of Elrond Part 1
+    V1c2tUcL-jY 1:14 LOTR The Fellowship of the Ring - Extended Edition - Gilraen's Memorial
+    ofDh5t1l738 1:44 LOTR The Fellowship of the Ring - Bilbo's Gifts
+    brcI4oF1Kto 1:24 LOTR The Fellowship of the Ring - Extended Edition - The Departure of the Fellowship
+    BuHLeZjYQrg 4:47 LOTR The Fellowship of the Ring - Extended Edition - The Pass of Caradhras
+    oBkiwyEOWEU 1:07 LOTR The Fellowship of the Ring - Extended Edition - The Walls of Moria
+    -jlsKzPiCbQ 2:37 LOTR The Fellowship of the Ring - Extended Edition - Moria Part 1
+    UZzwaVerraA 2:45 LOTR The Fellowship of the Ring - Extended Edition - Moria Part 2
+    jGUkkF8-3QQ 2:46 LOTR The Fellowship of the Ring - Extended Edition - A Journey in the Dark
+    IrOqnZdvI6M 2:36 LOTR The Fellowship of the Ring - Extended Edition - Gandalf speaks to Frodo in Moria
+    HKGQFkWI_bM 4:26 LOTR The Fellowship of the Ring - The Fall of Gandalf
+    wbOvoGqraKY 3:55 LOTR The Fellowship of the Ring - Extended Edition - Lothlórien
+    qdD6Cte8HrU 3:31 LOTR The Fellowship of the Ring - Extended Edition - Caras Galadhon
+    YMjKPVBNQ0E 1:07 LOTR The Fellowship of the Ring - Extended Edition - Lament for Gandalf
+    2OYsgAawB-s 2:01 LOTR The Fellowship of the Ring - Boromir and Aragorn in Lothlórien
+    0I7Qs4ByI0c 5:03 LOTR The Fellowship of the Ring - Extended Edition - The Mirror of Galadriel
+    tgXPRxmHk6Q 1:41 LOTR The Fellowship of the Ring - The Fighting Uruk-hai
+    Ot7T7IzY--s 1:27 LOTR The Fellowship of the Ring - Extended Edition - Farewell to Lórien
+    jASCi95Aw7A 3:33 LOTR The Fellowship of the Ring - Extended Edition - The Great River
+    SlLC1kCH1ps 2:36 LOTR The Fellowship of the Ring - The Argonath
+    LUZ29kEJLdE 3:02 LOTR The Fellowship of the Ring - Parth Galen
+    9skYkQfAwus 2:43 LOTR The Fellowship of the Ring - Extended Edition - The Departure of Boromir
+  `,
+]
+
+export const videos: string = `
 
 # LOTR extras
 
@@ -3819,159 +3915,4 @@ g8twezOz2h4 0:03 WGBH Boston | Title Card | 2003 | PBS Kids
 g8twezOz2h4 0:03 WGBH Boston | Title Card | 2003 | PBS Kids
 g8twezOz2h4 0:03 WGBH Boston | Title Card | 2003 | PBS Kids
 g8twezOz2h4 0:03 WGBH Boston | Title Card | 2003 | PBS Kids
-`)
-
-export const channel1Episodes: Array<Episode> = tastingHistoryEpisodes.concat(parseEpisodes([
-  `# Elif'in Hecesi
-
-    SUoqi6C8qkw 7:40 Perija and Friends - Kuzum Belo Edije ( a balkan gathering )
-    p_avIhRC5aI 4:48 Maddi - Come and Go ( The ballad of the butterfly )
-    Sq_kTDO97ao 3:06 Muharrem & Halil - Seni Şah'a Gider Derler
-    ICdF6F3Qg_c 7:29 Mohammad Oktay - Ruhani Aşık Havası
-    kLpBEkNpob0 6:51 Eren & Özgür - Yaman
-    zMSdG1wpz3s 4:44 Itamar Zakai - Pleasant
-  `,
-  `
-    zFa-n9uEcKI 8:34 All Related - Mountain Version (Nessi Gomes)
-    HgBeSQaCXDQ 3:23 Akira Takeguchi - Konil Tolkyny (Көңіл толқыны)
-    Oechuj3Mt7M 6:11 Perija - Sevda ( Tvojte ochi Leno mori )
-    lNrIc9DTFUg 3:41 Nevra Coşkun - Güzel Mevcûdiyetim
-    2X63S7FSWFs 7:23 Bacıyan - Sığmazam
-    2u_dV0-TDQ8 3:49 Adaya - No Countries
-    6CY6Z-8iQbM 7:09 Dunja & Tim - Welcome
-    ZTVXX9iblhE 9:09 Farshad Haghighi - Tanbour Magham
-  `,
-  `
-    7dcExfezgd0 3:43 Ayşe & Doğa - Kızılırmak
-    HLe-oRtYAEM 8:33 Pouriya Raisi - Huzûr
-    VXbGyJ6NQDI 10:23 Demircan & Macithan - Sığmazam
-    syCrQp1OVO8 6:55 Memduh Özdemir - Canânı İster Canımız
-    6Lys2SXUA5Q 10:53 A Gathering | Bir Buluşma: Doğruya Nazar Eyleriz
-  `,
-  `
-    iLZQuO_e3Hs 11:25 Demircan Demir - Bir Yol Senden Açık
-    tknEIHce5P8 4:39 Seda Seyrek Houbakht - Elif'in Hecesi
-    0evfXX417co 10:06 Volkan Örgün - Efendiler Bağı
-    _-dBFlwMnis 2:41 Georgi Ivanov Edrev - Karai Maicho
-    IdWqBbCkDpg 4:38 Ayşe Özaltın - Ha Babam Ha
-    dylcppL_yVQ 3:28 Süyümbike Güvenç - Tugan Avıl
-    sk-S9ZRuT7g 3:03 Serxas - Barana Payîz
-  `,
-  `
-    IsxCeTk5VXY 11:22 Hamed Habibpoor - Glare
-    cIMKJ43TFLs 14:15 Özgür Baba - Dertli Dolap
-    EE_5kmy8ZRc 3:13 Serkan Güven - Nihavend Gezinti
-    8iBofAFcdBk 2:35 Bilal Karaman - Neredesin Sen
-    YXbA8wzqyIQ 4:11 Aslı Büyükköksal - Güneş'le Birdirbir
-    uMWm7ADcvmE 3:31 Faridah Busemann - Dertli Dolap
-    Tal_1JmjI-Q 6:11 Yarden Cohen - Shaar Asher Nisgar
-    ti_jsP3BJ-g 5:36 Zainab Lax - Negaresh
-  `,
-  `
-    w-GJOnbpHRM 7:51 Burhan Alkhatib - Rumi I
-    lenZMY8ESQ0 3:51 Doğa Can Yaman - Meandering
-    pH-ElLzMY_E 5:04 Macithan Terzioğlu - Can Ellerinden Gelmişem
-    Di8qHpVJjeI 4:54 Amin Parvin - Shoghe Rahaee
-    d7pDgGR2dhY 8:11 Pouriya Raisi - Bi Zamani
-    mJ8S8qxG9xk 7:33 Memduh Özdemir - Bugün Seyre Çıkmış Hublar Sultanı
-    c9CfJyZxBug 7:11 Çağrı Akoğlu - Taft
-    lbDuhK9F-KM 4:37 Selen Hünerli - Aşık
-  `,
-  `
-    Udf1V3prIzU 7:14 Işık Işık - Kim Dervişlik İster İse
-    JYEXS7lflYI 4:16 Seda Seyrek Houbakht - Rodos Semahı
-    MECioY_N-94 4:24 Ali Naki Gündoğdu - Harabat Ehliyiz
-    gTCBu37MfaI 7:17 Macithan Terzioğlu - Pınarın Başında Destin Var İmiş
-    26vLRhm6bXc 3:21 Ertuğrul Küçükbayraktar - Çayın Öte Yüzünde
-    lzRCuT1dUH0 3:20 Nebî - Dem-i Nesimi
-  `,
-  `
-    qj139dE7tFI 4:01 LOTR The Fellowship of the Ring - Extended Edition - The Prologue: One Ring to Rule Them All... Pt 1
-    d_NhmyrcoQ4 3:06 LOTR The Fellowship of the Ring - Extended Edition - The Prologue: One Ring to Rule Them All... Pt 2
-    -PcUnqlPA8A 3:00 LOTR The Fellowship of the Ring - Extended Edition - Concerning Hobbits
-    CiRu_W9tzM8 1:56 LOTR The Fellowship of the Ring - Extended Edition - A Long-expected Party Part 2
-    4Yy0pPTrHlk 4:14 LOTR The Fellowship of the Ring - Farewell Dear Bilbo
-    xYgc2G6ThUs 4:55 LOTR The Fellowship of the Ring - The Account of Isildur
-    JZUxc-Cb5LM 1:24 LOTR The Fellowship of the Ring - Extended Edition - At the Green Dragon
-    TBMiyEzOJmI 4:38 LOTR The Fellowship of the Ring - Saruman the White
-    2rtpEbRyqbg 2:19 LOTR The Fellowship of the Ring - Bucklebury Ferry
-    WmghV5AimjU 1:19 LOTR The Fellowship of the Ring - Extended Edition - Bree
-    bYFPxU9xGZI 4:44 LOTR The Fellowship of the Ring - At the Sign of The Prancing Pony
-    FTthEbYCYN8 2:12 LOTR The Fellowship of the Ring - The Nazgûl
-    qofMAoY0Ts4 1:34 LOTR The Fellowship of the Ring - Extended Edition - Into the Wild
-    fO9vymA8-vo 1:39 LOTR The Fellowship of the Ring - Extended Edition - The Midgewater Marshes
-    wzaa-jHULLc 1:44 LOTR The Fellowship of the Ring - The Spoiling of Isengard
-    LwinMu7-ZrI 2:31 LOTR The Fellowship of the Ring - The Caverns of Isengard
-    LbAPwwAXaWM 3:34 LOTR The Fellowship of the Ring - The Fate of the Ring
-    B1uGDjSVLOk 2:40 LOTR The Fellowship of the Ring - Extended Edition - The Sword That Was Broken
-    -k3ABfmCr2I 3:34 LOTR The Fellowship of the Ring - Extended Edition - The Council of Elrond Part 1
-    V1c2tUcL-jY 1:14 LOTR The Fellowship of the Ring - Extended Edition - Gilraen's Memorial
-    ofDh5t1l738 1:44 LOTR The Fellowship of the Ring - Bilbo's Gifts
-    brcI4oF1Kto 1:24 LOTR The Fellowship of the Ring - Extended Edition - The Departure of the Fellowship
-    BuHLeZjYQrg 4:47 LOTR The Fellowship of the Ring - Extended Edition - The Pass of Caradhras
-    oBkiwyEOWEU 1:07 LOTR The Fellowship of the Ring - Extended Edition - The Walls of Moria
-    -jlsKzPiCbQ 2:37 LOTR The Fellowship of the Ring - Extended Edition - Moria Part 1
-    UZzwaVerraA 2:45 LOTR The Fellowship of the Ring - Extended Edition - Moria Part 2
-    jGUkkF8-3QQ 2:46 LOTR The Fellowship of the Ring - Extended Edition - A Journey in the Dark
-    IrOqnZdvI6M 2:36 LOTR The Fellowship of the Ring - Extended Edition - Gandalf speaks to Frodo in Moria
-    HKGQFkWI_bM 4:26 LOTR The Fellowship of the Ring - The Fall of Gandalf
-    wbOvoGqraKY 3:55 LOTR The Fellowship of the Ring - Extended Edition - Lothlórien
-    qdD6Cte8HrU 3:31 LOTR The Fellowship of the Ring - Extended Edition - Caras Galadhon
-    YMjKPVBNQ0E 1:07 LOTR The Fellowship of the Ring - Extended Edition - Lament for Gandalf
-    2OYsgAawB-s 2:01 LOTR The Fellowship of the Ring - Boromir and Aragorn in Lothlórien
-    0I7Qs4ByI0c 5:03 LOTR The Fellowship of the Ring - Extended Edition - The Mirror of Galadriel
-    tgXPRxmHk6Q 1:41 LOTR The Fellowship of the Ring - The Fighting Uruk-hai
-    Ot7T7IzY--s 1:27 LOTR The Fellowship of the Ring - Extended Edition - Farewell to Lórien
-    jASCi95Aw7A 3:33 LOTR The Fellowship of the Ring - Extended Edition - The Great River
-    SlLC1kCH1ps 2:36 LOTR The Fellowship of the Ring - The Argonath
-    LUZ29kEJLdE 3:02 LOTR The Fellowship of the Ring - Parth Galen
-    9skYkQfAwus 2:43 LOTR The Fellowship of the Ring - Extended Edition - The Departure of Boromir
-  `,
-]))
-
-export const channel2Videos: Array<Video> = parseVideos(`
-# Slow TV
-
-# 3rDjPLvOShM 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, WINTER [1080HD] SlowTV
-# yCtt26c_AOg 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, SUMMER [1080HD] SlowTV
-# AWRKa0hOe98 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, FALL [1080HD] SlowTV
-# cNiN7gOcNI4 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, SPRING [1080HD] SlowTV
-# Ux8xAuQBdkk 3:00:13 4K Realtime Fireplace - Relaxing Fire Burning Video - 3 Hours - No Loop - Ultra HD - 2160p
-# gB3XH5t9QCA 6:04:00 4K HDR Fireplace REALTIME - 6 Hours - Relaxing Fire Burning Video & Crackling Sounds - NO LOOP - UHD
-
-# Audiobooks
-
-mh1wgTAa_Fw 8:52:56 J. K. Rowling: Harry ​Potter és a Bölcsek Köve (Teljes hangoskönyv)
-aP_3BZxWz9k 1:17:44 Wind in the Willows - Derek Jacobi [Abridged]
-k5onUh_4qv8 6:55:28 The Wind in the Willows [Full Audiobook] by Kenneth Grahame
-
-bws8BIteUhQ 35:44 Viisasten kivi - 1. luku
-lpALOAEzfrI 27:27 Viisasten kivi - 2. luku
-Dd6kNghklXM 29:33 Viisasten kivi - 3. luku
-QicLugnrw8E 30:01 Viisasten kivi - 4. luku
-kvfXAtBWCnQ 56:27 Viisasten kivi - 5. luku
--FRNVvS4agM 49:56 Viisasten kivi - 6. luku
-MSjIWDhTq8M 35:44 Viisasten kivi - 7. luku
-puo4O44vimQ 23:36 Viisasten kivi - 8. luku
-Uy3d63ppXD8 40:25 Viisasten kivi - 9. luku
-t2yqFHlb_3o 34:11 Viisasten kivi - 10. luku
--pkuT0WpjPY 26:31 Viisasten kivi - 11. luku
-ynYThAUBY-8 42:57 Viisasten kivi - 12. luku
-fhnEqm_msKU 24:52 Viisasten kivi - 13. luku
-jji6vaRfwyY 26:38 Viisasten kivi - 14. luku
-VRcz5GqW8ko 39:52 Viisasten kivi - 15. luku
-orXsEygws-0 49:37 Viisasten kivi - 16. luku
-IQyBxBtwMEc 46:26 Viisasten kivi - 17. luku
-
-sJgYxwbkxLg 1:06:29 Taru Sormusten herrasta #podcast äänikirja. Suomeksi #1
-6X5yemYOTdI 1:05:59 Taru Sormusten herrasta #podcast äänikirja  Suomeksi #2
-aIiEnRRCap8 1:03:41 Taru Sormusten herrasta #podcast äänikirja Suomeksi #3
-ByVEvos9qrs 1:08:52 Taru Sormusten herrasta #podcast äänikirja Suomeksi #4
-NqYDxFFJBgs 1:06:29 Taru Sormusten herrasta #podcast äänikirja Suomeksi #5
-
-8hnmCeIYerg 0-1:53:42,1:55:45-9:59:05 ALAN WATTS Wisdom Podcast - PERFECT FOR INSOMNIA - 10 HOURS Black screen - No music
-`)
-
-export const channel4Videos: Array<Video> = parseVideos(`
-if6iWVgR8h4 19:58 Silent Meditations (20 min) | 4 intervals
-`)
+`

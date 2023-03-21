@@ -1,10 +1,24 @@
 // @flow
 
-import type { Video, Episode } from "./types";
-import { episode, parseVideos } from "./ingestion"
-import {pipe, map} from "../lib/fns"
+export const episodes: Array<string> = [
+  `
+    # Windham Hill - Celtic Christmas II
+    7jOsFtZghxM 3:47 Chanonry Point
+    vN8nlmA8RSM 4:33 Amanecer
+    dTL7l-7AJxg 3:26 The Wexford Carol
+    4VK5-TPlGK8 3:59 Bríd Og Ní Mháille
+    yeYa_7s24pg 4:45 The Day's Last Light
+    If3peqjJKY0 3:41 Muladach Mi Is Mi Air M'Aineol
+    w9y6dWVdBJU 4:49 Listen To The River
+    Q2YBArGX4Dc 3:37 After Aughrim's Great Disaster
+    nd1ZGC0Bpls 4:26 The Star Of The County Down/Sweeney's Buttermilk/Jenny's Chicken's
+    _vVq05JqE9o 3:53 I'll Rock You To Rest
+    PB6MYWOao-8 5:24 Johnny Seoighe
+    hcOB2m4lBqk 3:01 The Dove's Return
+  `,
+]
 
-export const christmasSongs: Array<Video> = parseVideos(`
+export const videos: string = `
 CThjvN0snQ4 2:46 YULE - In Dulci Jubilo - Celtic Harp , Guitar , Lute
 N5IG0874s2Q 2:24 WASSAIL - Sussex Carol - Celtic Harp , Guitar and Lute
 Ao0CtiGxVHE 2:14 THE CELTIC CONSORT - Ev Chistr LAOU - Celtic Harp , Lute and Guitar
@@ -180,22 +194,4 @@ r7adETaOYiQ 1:30 The Boar's Head Carol
 # JjIkeO7Pe3g 2:49 December Rain
 # rmyRBNcQAmM 3:02 Kitty Magennis
 # 0z0_ZsNZmos 2:43 Christmas Time's A Comin'
-`)
-
-export const christmasAlbums: Array<Episode> = map(pipe(parseVideos, episode))([
-  `
-    # Windham Hill - Celtic Christmas II
-    7jOsFtZghxM 3:47 Chanonry Point
-    vN8nlmA8RSM 4:33 Amanecer
-    dTL7l-7AJxg 3:26 The Wexford Carol
-    4VK5-TPlGK8 3:59 Bríd Og Ní Mháille
-    yeYa_7s24pg 4:45 The Day's Last Light
-    If3peqjJKY0 3:41 Muladach Mi Is Mi Air M'Aineol
-    w9y6dWVdBJU 4:49 Listen To The River
-    Q2YBArGX4Dc 3:37 After Aughrim's Great Disaster
-    nd1ZGC0Bpls 4:26 The Star Of The County Down/Sweeney's Buttermilk/Jenny's Chicken's
-    _vVq05JqE9o 3:53 I'll Rock You To Rest
-    PB6MYWOao-8 5:24 Johnny Seoighe
-    hcOB2m4lBqk 3:01 The Dove's Return
-  `,
-])
+`
