@@ -4,7 +4,7 @@ import type { Channel } from "./Channel";
 import type { PlayerStatus } from "./PlayerStatus"
 import type { Player } from "./youtube/player.jsx"
 import { stateString } from "./PlayerStateView.jsx"
-import { bookmarklet } from "./data/scraper-bookmarklet";
+import { bookmarklet } from "./scraper/bookmarklet";
 import { durationAsWords, hoursMinutesSeconds } from "./lib/time";
 import { videoIdFromUrl } from "./youtube/videoId"
 import * as React from "react"
