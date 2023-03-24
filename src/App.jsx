@@ -6,7 +6,7 @@ import { useInterval } from "./lib/useInterval"
 import { useLatch } from "./lib/useLatch"
 import { PlayerStateView } from "./PlayerStateView.jsx"
 import { ChannelView } from "./ChannelView.jsx"
-import { channels } from "./data/channels"
+import { channels as channelData } from "./data/channels"
 import { useNow } from "./lib/useNow"
 import { nothing } from "./Broadcast"
 import { reconcile } from "./reconcile.js"
@@ -15,6 +15,12 @@ import { VideoInfo } from "./VideoInfo.jsx"
 import { debuggingDecorator } from "./youtube/player.jsx"
 import { PlayerCommander } from "./PlayerCommander.jsx"
 import { status } from "./PlayerStatus.js"
+import { allEpisodes } from "./video/ingestion";
+import { createChannel } from "./Channel";
+
+const channels = channelData.map(([name, module]) =>
+  createChannel(name, allEpisodes(module))
+)
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
@@ -64,6 +70,7 @@ export function App(): React.Node {
       controlPanel={
         <>
           <ChannelView
+            channels={channels}
             onChannelSelected={(ch) => {
               setChannel(ch)
               setUserRequestedPlayback()

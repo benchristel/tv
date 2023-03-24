@@ -1,10 +1,18 @@
 // @flow
 
 import type { Episode, Segment, Video } from "./types";
+import type { ChannelModule } from "../data/types";
 import { isEmpty } from "../lib/arrays";
 import { map, pipe } from "../lib/fns";
 import { trim } from "../lib/strings";
 import { not } from "@benchristel/taste";
+
+export function allEpisodes({videos, episodes}: ChannelModule): Array<Episode> {
+  return [
+    ...parseEpisodes(episodes),
+    ...parseVideos(videos).map(singleVideoEpisode),
+  ]
+}
 
 export const parseEpisodes: (Array<string>) => Array<Episode>
   = map(pipe(parseVideos, episode))
@@ -27,6 +35,10 @@ export function parseVideos(raw: string): Array<Video> {
             },
           ]
     )
+}
+
+export function singleVideoEpisode(v: Video): Episode {
+  return episode([v])
 }
 
 export function episode(videos: Array<Video>): Episode {

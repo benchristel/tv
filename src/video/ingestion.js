@@ -9,19 +9,17 @@ import {
   parseDuration,
   split,
   parseEpisodes,
-} from "./ingestion.impl";
+  allEpisodes,
+} from "./ingestion.impl"
 
+import type { ChannelModule } from "../data/types";
 export {
-  parseEpisodes,
-  parseVideos,
-  episode,
+  allEpisodes,
   entireVideo,
   range,
 } from "./ingestion.impl.js"
 
-;(parseEpisodes: (Array<string>) => Array<Episode>)
-;(parseVideos: (string) => Array<Video>)
-;(episode: (Array<Video>) => Episode)
+;(allEpisodes: (ChannelModule) => Array<Episode>)
 ;(entireVideo: (duration: number) => Segment)
 ;(range: (start: number, end: number) => Segment)
 

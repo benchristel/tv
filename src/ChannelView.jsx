@@ -1,18 +1,16 @@
 // @flow
+import * as React from "react"
 import type { Channel } from "./Channel"
 
-import { channels } from "./data/channels"
-
-import * as React from "react"
-
 type Props = {|
+  channels: Array<Channel>,
   onChannelSelected: (Channel) => mixed,
 |}
 
 export function ChannelView(props: Props): React.Node {
   return (
     <>
-      {channels.map((ch) => (
+      {props.channels.map((ch) => (
         <button key={ch.getName()} onClick={() => props.onChannelSelected(ch)}>
           {ch.getName()}
         </button>
