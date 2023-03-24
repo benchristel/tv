@@ -17,12 +17,6 @@ export type Episode = {|
   videos: Array<Video>,
 |}
 
-export type Show = {|
-  weight: number,
-  timeslot: Range<number>, // seconds after midnight
-  episodes: Array<Episode>,
-|}
-
 export function duration({start, end}: Segment): number {
   return end - start
 }
