@@ -1,8 +1,8 @@
 // @flow
 import type { Channel } from "../Channel"
 import { createChannel } from "../Channel"
-import type { Episode, Video } from "./types"
-import { parseEpisodes, parseVideos } from "./ingestion"
+import type { Episode, Video } from "../ingestion/types"
+import { parseEpisodes, parseVideos } from "../ingestion/ingestion"
 import * as channel1 from "./channel1"
 import * as channel2 from "./channel2"
 import * as channel3 from "./channel3"

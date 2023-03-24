@@ -6,11 +6,11 @@ import { cyrb128 } from "./lib/hash"
 import { sfc32 } from "./lib/random"
 
 import type { Broadcast } from "./Broadcast"
-import type { Episode, Video } from "./data/types";
+import type { Episode, Video } from "./ingestion/types";
 import { equals, expect, is, test } from "@benchristel/taste"
 import { binarySearch } from "./lib/binarySearch"
-import { entireVideo, range } from "./data/ingestion";
-import { duration, videoDuration } from "./data/types";
+import { entireVideo, range } from "./ingestion/ingestion";
+import { duration, videoDuration } from "./ingestion/types";
 
 export interface Channel {
   getBroadcast(time: number): Broadcast;
