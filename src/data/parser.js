@@ -1,5 +1,5 @@
 // @flow
-import type { Episode, Segment, Video } from "./types";
+import type { Episode, Segment, Video } from "../video/types";
 import { test, expect, is, equals, not } from "@benchristel/taste"
 import {
   episode,
@@ -10,14 +10,14 @@ import {
   split,
   parseEpisodes,
   allEpisodes,
-} from "./ingestion.impl"
+} from "./parser.impl"
 
 import type { ChannelModule } from "../data/types";
 export {
   allEpisodes,
   entireVideo,
   range,
-} from "./ingestion.impl.js"
+} from "./parser.impl"
 
 ;(allEpisodes: (ChannelModule) => Array<Episode>)
 ;(entireVideo: (duration: number) => Segment)

@@ -15,7 +15,7 @@ import { VideoInfo } from "./VideoInfo.jsx"
 import { debuggingDecorator } from "./youtube/player.jsx"
 import { PlayerCommander } from "./PlayerCommander.jsx"
 import { status } from "./PlayerStatus.js"
-import { allEpisodes } from "./video/ingestion";
+import { allEpisodes } from "./data/parser";
 import { createChannel } from "./Channel";
 
 const channels = channelData.map(([name, module]) =>

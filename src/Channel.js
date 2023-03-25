@@ -9,7 +9,7 @@ import type { Broadcast } from "./Broadcast"
 import type { Episode, Video } from "./video/types";
 import { equals, expect, is, test } from "@benchristel/taste"
 import { binarySearch } from "./lib/binarySearch"
-import { entireVideo, range } from "./video/ingestion";
+import { entireVideo, range } from "./data/parser";
 import { duration, videoDuration } from "./video/types";
 
 export interface Channel {

@@ -1,6 +1,6 @@
 // @flow
 
-import type { Episode, Segment, Video } from "./types";
+import type { Episode, Segment, Video } from "../video/types";
 import type { ChannelModule } from "../data/types";
 import { isEmpty } from "../lib/arrays";
 import { map, pipe } from "../lib/fns";
