@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SRC=src/data/scrape.js
+SRC=src/scraper/script.js
 
->src/data/scraper-bookmarklet.js echo "// @flow
+>src/scraper/bookmarklet.js echo "// @flow
 // This file was generated from $SRC by $0.
 export const bookmarklet = '$(node_modules/.bin/bookmarklet $SRC)'"
