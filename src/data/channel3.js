@@ -1,6 +1,8 @@
 // @flow
 
-export const videos: string = ""
+export const videos: string = `
+Uw85aNJabkE 43:55 King Crimson - In the Court of the Crimson King (Original Master Edition)  2004
+`
 
 export const episodes: Array<string> = [
   `BecZdQvjGrY 54:49 In Gowan Ring - Compendium (Full Album)`,
