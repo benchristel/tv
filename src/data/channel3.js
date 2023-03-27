@@ -717,6 +717,27 @@ export const episodes: Array<string> = [
     gbDDTFO54ec 4:26 Ce n'est pas jeu
   `,
   `
+    # Venite a Laudare - Obsidienne
+    jtITD1l2GCY 2:59 Venite a laudare, laude
+    F6MHIwftZj0 1:41 Kyrie
+    VdWM0WgvRtM 4:35 Gloria spiritus et alme
+    hauSdKivu6Y 7:41 Credo Je ne vis oncques la pareille
+    voy1pYCw9v8 3:01 Dal ciel venne messo novello, laude instrumental
+    25c0KwO4U04 2:56 Stomme allegro e latioso, laude
+    3dUaPb6Zp6A 2:10 Quando signor Jesu, laude
+    UooTqVZSd3U 2:52 Chi vole lo mondo i despreççare, laude
+    a9o36yLSslQ 2:40 Benedeto ne sia lo çorno, laude
+    ouiMNUbsL6A 1:11 Salve regina de misericordia, laude
+    bxS_xI1Z8RI 1:32 Cum desiderio vo cerchando, laude
+    bBhCnIBkOcI 2:18 Amor dolçe, laude instrumental
+    N1q-PdVwDiE 1:58 Sanctus
+    __dJXNdKeDQ 2:26 Motet "Mater Patris"
+    MJ3CCyCNEJs 5:04 Agnus Dei
+    2vXQFbj7Pik 6:33 Domine ne in furore tuo, motet
+    99HpCbnMF2k 2:17 Ave Maria, canon
+    w75BoSNlJ2M 2:26 Kyrie, rondeau
+  `,
+  `
     1tW-h3GTE7E 0:00-48:57 Nepali Folk Songs Instrumental Music
   `,
   `
