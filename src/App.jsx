@@ -15,12 +15,10 @@ import { VideoInfo } from "./VideoInfo.jsx"
 import { debuggingDecorator } from "./youtube/player.jsx"
 import { PlayerCommander } from "./PlayerCommander.jsx"
 import { status } from "./PlayerStatus.js"
-import { allEpisodes } from "./data/parser";
 import { createChannel } from "./Channel";
 
-const channels = channelData.map(([name, module]) =>
-  createChannel(name, allEpisodes(module))
-)
+const channels = channelData
+  .map(([name, episodes]) => createChannel(name, episodes))
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()

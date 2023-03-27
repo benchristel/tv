@@ -5,12 +5,13 @@ import * as channel3 from "./channel3"
 import * as channel4 from "./channel4"
 import * as christmas from "./channelChristmas"
 import * as channelDebug from "./channelDebug";
-import type { ChannelModule } from "./types";
+import type { Episode } from "../video/types";
+import { allEpisodes } from "./parser";
 
 // Set debug to true to enable the debugging channel.
 const debug = false;
 
-export const channels: Array<[string, ChannelModule]> = [
+export const channels: Array<[string, Array<Episode>]> = [
   ["Channel 1", channel1],
   ["Channel 2", channel2],
   ["Channel 3", channel3],
@@ -18,3 +19,4 @@ export const channels: Array<[string, ChannelModule]> = [
   ["🎄", christmas],
   debug ? ["debug", channelDebug] : null,
 ].filter(Boolean)
+  .map(([name, module]) => [name, allEpisodes(module)])
