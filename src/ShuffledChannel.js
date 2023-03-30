@@ -33,7 +33,7 @@ export const GAP_SECONDS = 2
 export const SCHEDULE_GENERATION_PERIOD = 24 * 3600
 export const TIMEZONE_OFFSET = 8 * 3600
 
-export function createChannel(name: string, episodes: Array<Episode>): Channel {
+export function ShuffledChannel(name: string, episodes: Array<Episode>): Channel {
   const getSchedule = cache(1, ScheduleGenerator(episodes))
   let totalDurationCache = null
 
@@ -141,7 +141,7 @@ function videos(episode: Episode): Array<Video> {
 test("a Channel", {
   "broadcasts nothing given no episodes"() {
     const noEpisodes = []
-    const channel = createChannel("", noEpisodes)
+    const channel = ShuffledChannel("", noEpisodes)
     expect(channel.getBroadcast(999), equals, {type: "nothing", nextVideoId: ""})
   },
 
@@ -157,7 +157,7 @@ test("a Channel", {
         ]
       }
     ]
-    const channel = createChannel("", episodes)
+    const channel = ShuffledChannel("", episodes)
     const fiveSecondsAfterMidnightPacificTime = (TIMEZONE_OFFSET + 5) * 1000
     expect(
       channel.getBroadcast(fiveSecondsAfterMidnightPacificTime),
@@ -172,7 +172,7 @@ test("a Channel", {
 
   "has a total duration of 0 given no videos"() {
     const episodes = []
-    const channel = createChannel("", episodes)
+    const channel = ShuffledChannel("", episodes)
     expect(channel.getTotalDuration(), is, 0)
   },
 
@@ -190,7 +190,7 @@ test("a Channel", {
         ]
       }
     ]
-    const channel = createChannel("", episodes)
+    const channel = ShuffledChannel("", episodes)
     expect(channel.getTotalDuration(), is, 6)
   }
 })

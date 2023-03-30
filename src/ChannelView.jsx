@@ -1,6 +1,6 @@
 // @flow
 import * as React from "react"
-import type { Channel } from "./Channel"
+import type { Channel } from "./ShuffledChannel"
 
 type Props = {|
   channels: Array<Channel>,

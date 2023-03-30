@@ -15,10 +15,10 @@ import { VideoInfo } from "./VideoInfo.jsx"
 import { debuggingDecorator } from "./youtube/player.jsx"
 import { PlayerCommander } from "./PlayerCommander.jsx"
 import { status } from "./PlayerStatus.js"
-import { createChannel } from "./Channel";
+import { ShuffledChannel } from "./ShuffledChannel";
 
 const channels = channelData
-  .map(([name, episodes]) => createChannel(name, episodes))
+  .map(([name, episodes]) => ShuffledChannel(name, episodes))
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
