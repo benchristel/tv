@@ -4,7 +4,7 @@ import type { Player, PlayerStateCode } from "./youtube/player"
 import { State as PlayerState } from "./youtube/player"
 import { videoIdFromUrl } from "./youtube/videoId"
 import type { Broadcast } from "./Broadcast"
-import { GAP_SECONDS } from "./ShuffledChannel"
+import { GAP_SECONDS } from "./playback"
 import type { Command } from "./PlayerCommander.jsx"
 import type { PlayerStatus } from "./PlayerStatus"
 

@@ -12,6 +12,7 @@ import { equals, expect, is, test } from "@benchristel/taste"
 import { binarySearch } from "./lib/binarySearch"
 import { entireVideo, range } from "./data/parser";
 import { duration, videoDuration } from "./video/types";
+import { GAP_SECONDS } from "./playback"
 
 type Schedule = Array<
   | {|
@@ -24,7 +25,6 @@ type Schedule = Array<
   | {| type: "nothing", nextVideoId: string, startSecondOfDay: number |}
 >
 
-export const GAP_SECONDS = 2
 export const SCHEDULE_GENERATION_PERIOD = 24 * 3600
 export const TIMEZONE_OFFSET = 8 * 3600
 
