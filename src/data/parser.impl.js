@@ -6,6 +6,7 @@ import { isEmpty } from "../lib/arrays";
 import { map, pipe } from "../lib/fns";
 import { trim } from "../lib/strings";
 import { not } from "@benchristel/taste";
+import { episode } from "../video/types";
 
 export function allEpisodes({videos, episodes}: ChannelModule): Array<Episode> {
   return [
@@ -39,10 +40,6 @@ export function parseVideos(raw: string): Array<Video> {
 
 export function singleVideoEpisode(v: Video): Episode {
   return episode([v])
-}
-
-export function episode(videos: Array<Video>): Episode {
-  return {videos}
 }
 
 export function entireVideo(duration: number): Segment {

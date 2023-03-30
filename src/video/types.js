@@ -17,6 +17,10 @@ export type Episode = {|
   videos: Array<Video>,
 |}
 
+export function episode(videos: Array<Video>): Episode {
+  return {videos}
+}
+
 export function duration({start, end}: Segment): number {
   return end - start
 }
