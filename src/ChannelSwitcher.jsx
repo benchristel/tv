@@ -7,7 +7,7 @@ type Props = {|
   onChannelSelected: (Channel) => mixed,
 |}
 
-export function ChannelView(props: Props): React.Node {
+export function ChannelSwitcher(props: Props): React.Node {
   return (
     <>
       {props.channels.map((ch) => (

@@ -5,7 +5,7 @@ import { State as PlayerState } from "./youtube/player"
 import { useInterval } from "./lib/useInterval"
 import { useLatch } from "./lib/useLatch"
 import { PlayerStateView } from "./PlayerStateView.jsx"
-import { ChannelView } from "./ChannelView.jsx"
+import { ChannelSwitcher } from "./ChannelSwitcher.jsx"
 import { channels as channelData } from "./data/channels"
 import { useNow } from "./lib/useNow"
 import { nothing } from "./Broadcast"
@@ -67,7 +67,7 @@ export function App(): React.Node {
       }
       controlPanel={
         <>
-          <ChannelView
+          <ChannelSwitcher
             channels={channels}
             onChannelSelected={(ch) => {
               setChannel(ch)
