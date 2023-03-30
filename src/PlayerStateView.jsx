@@ -1,5 +1,5 @@
 // @flow
-import type { Channel } from "./ShuffledChannel"
+import type { Channel } from "./Channel"
 import type { PlayerStateCode } from "./youtube/player.jsx"
 import { State as PlayerState } from "./youtube/player.jsx"
 

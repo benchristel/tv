@@ -6,17 +6,12 @@ import { cyrb128 } from "./lib/hash"
 import { sfc32 } from "./lib/random"
 
 import type { Broadcast } from "./Broadcast"
+import type { Channel } from "./Channel"
 import type { Episode, Video } from "./video/types";
 import { equals, expect, is, test } from "@benchristel/taste"
 import { binarySearch } from "./lib/binarySearch"
 import { entireVideo, range } from "./data/parser";
 import { duration, videoDuration } from "./video/types";
-
-export interface Channel {
-  getBroadcast(time: number): Broadcast;
-  getName(): string;
-  getTotalDuration(): number;
-}
 
 type Schedule = Array<
   | {|

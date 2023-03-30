@@ -1,6 +1,6 @@
 // @flow
 import type { Broadcast } from "./Broadcast"
-import type { Channel } from "./ShuffledChannel";
+import type { Channel } from "./Channel";
 import type { PlayerStatus } from "./PlayerStatus"
 import type { Player } from "./youtube/player.jsx"
 import { stateString } from "./PlayerStateView.jsx"
