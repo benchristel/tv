@@ -12,7 +12,7 @@ import { equals, expect, is, test } from "@benchristel/taste"
 import { binarySearch } from "./lib/binarySearch"
 import { entireVideo, range } from "./data/parser";
 import { duration, videoDuration } from "./video/types";
-import { GAP_SECONDS } from "./playback"
+import { SECONDS_BETWEEN_VIDEOS } from "./playback"
 
 type Schedule = Array<
   | {|
@@ -96,7 +96,7 @@ const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
           nextVideoId: video.videoId,
         },
       )
-      totalDuration += GAP_SECONDS
+      totalDuration += SECONDS_BETWEEN_VIDEOS
 
       for (const segment of video.segments) {
         schedule.push({
