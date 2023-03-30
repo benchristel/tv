@@ -1,6 +1,6 @@
 // @flow
 
-import { expect, is, test } from "@benchristel/taste"
+import { expect, is, equals, test } from "@benchristel/taste"
 
 export function sfc32(a: number, b: number, c: number, d: number): () => number {
   function rng() {
@@ -19,6 +19,10 @@ export function sfc32(a: number, b: number, c: number, d: number): () => number 
     rng()
   }
   return rng
+}
+
+export function randomIntInRange(low: number, high: number, rng: () => number): number {
+  return low + Math.floor(rng() * (high + 1 - low))
 }
 
 test("sfc32", {
@@ -43,5 +47,19 @@ test("sfc32", {
       generated.add(Math.floor(rng() * 10000))
     }
     expect(generated.size, is, 99)
+  },
+})
+
+test("randomIntInRange", {
+  "when low and high are the same"() {
+    expect(randomIntInRange(3, 3, Math.random), is, 3)
+  },
+
+  "when low and high are 1 apart"() {
+    const results = new Set()
+    for (let i = 0; i < 30; i++) {
+      results.add(randomIntInRange(0, 1, Math.random))
+    }
+    expect(results, equals, new Set([0, 1]))
   },
 })

@@ -1,137 +1,14 @@
 // @flow
 
-import { isEmpty, pick } from "./lib/arrays";
-import { cache } from "./lib/cache"
-import { cyrb128 } from "./lib/hash"
-import { sfc32 } from "./lib/random"
+export { ShuffledChannel } from "./ShuffledChannel.impl";
 
-import type { Broadcast } from "./Broadcast"
+;(ShuffledChannel: (name: string, Array<Episode>) => Channel)
+
+import { ShuffledChannel, ScheduleGenerator, TIMEZONE_OFFSET } from "./ShuffledChannel.impl";
+import { range, entireVideo } from "./data/parser";
+import { test, expect, is, equals } from "@benchristel/taste"
+import type { Episode } from "./video/types"
 import type { Channel } from "./Channel"
-import type { Episode, Video } from "./video/types";
-import { equals, expect, is, test } from "@benchristel/taste"
-import { binarySearch } from "./lib/binarySearch"
-import { entireVideo, range } from "./data/parser";
-import { duration, videoDuration } from "./video/types";
-import { SECONDS_BETWEEN_VIDEOS } from "./playback"
-
-type Schedule = Array<
-  | {|
-      type: "video",
-      videoId: string,
-      videoTitle: string,
-      startSecondOfDay: number,
-      startSecondOfVideo: number,
-    |}
-  | {| type: "nothing", nextVideoId: string, startSecondOfDay: number |}
->
-
-export const SCHEDULE_GENERATION_PERIOD = 24 * 3600
-export const TIMEZONE_OFFSET = 8 * 3600
-
-export function ShuffledChannel(name: string, episodes: Array<Episode>): Channel {
-  const getSchedule = cache(1, ScheduleGenerator(episodes))
-  let totalDurationCache = null
-
-  return {
-    getBroadcast,
-    getTotalDuration,
-    getName() {
-      return name
-    },
-  }
-
-  function getBroadcast(time) {
-    const seconds = time / 1000
-    const secondsOfDay =
-      (seconds - TIMEZONE_OFFSET) % SCHEDULE_GENERATION_PERIOD
-    const dayBoundary = seconds - secondsOfDay
-    const schedule = getSchedule(String(dayBoundary))
-    const segment = binarySearch(schedule, (seg) => seg.startSecondOfDay <= secondsOfDay)
-    if (segment?.type === "video") {
-      return {
-        type: "video",
-        videoId: segment.videoId,
-        videoTitle: segment.videoTitle,
-        currentTime: secondsOfDay - segment.startSecondOfDay + segment.startSecondOfVideo,
-      }
-    } else {
-      return {
-        type: "nothing",
-        nextVideoId: segment?.nextVideoId ?? "",
-      }
-    }
-  }
-
-  function getTotalDuration() {
-    if (totalDurationCache == null) {
-      totalDurationCache = episodes
-        .flatMap(videos)
-        .map(videoDuration)
-        .reduce(add, 0)
-    }
-    return totalDurationCache
-  }
-}
-
-const ScheduleGenerator = (episodes: Array<Episode>) => (seed: string) => {
-  if (isEmpty(episodes)) {
-    return []
-  }
-  episodes = [...episodes]
-  const rng = sfc32(...cyrb128(seed))
-  let totalDuration = 0
-  let schedule: Schedule = []
-  let i = 0
-  while (totalDuration < SCHEDULE_GENERATION_PERIOD) {
-    if (i === episodes.length) i = 0
-    swap(episodes, i, randomIntInRange(i, episodes.length - 1, rng))
-
-    const episode = episodes[i++]
-
-    for (const video of episode.videos) {
-      schedule.push(
-        {
-          type: "nothing",
-          startSecondOfDay: totalDuration,
-          nextVideoId: video.videoId,
-        },
-      )
-      totalDuration += SECONDS_BETWEEN_VIDEOS
-
-      for (const segment of video.segments) {
-        schedule.push({
-          type: "video",
-          videoId: video.videoId,
-          videoTitle: video.title,
-          startSecondOfDay: totalDuration,
-          startSecondOfVideo: segment.start,
-        })
-        totalDuration += duration(segment)
-      }
-    }
-  }
-  return schedule
-}
-
-function swap(array, i, k) {
-  const tmp = array[i]
-  array[i] = array[k]
-  array[k] = tmp
-}
-
-function randomIntInRange(low, high, rng) {
-  return low + Math.floor(rng() * (high + 1 - low))
-}
-
-function add(a, b) {
-  return a + b
-}
-
-function videos(episode: Episode): Array<Video> {
-  return episode.videos
-}
-
-// TESTS =====================================================================
 
 test("a Channel", {
   "broadcasts nothing given no episodes"() {
@@ -188,20 +65,6 @@ test("a Channel", {
     const channel = ShuffledChannel("", episodes)
     expect(channel.getTotalDuration(), is, 6)
   }
-})
-
-test("randomIntInRange", {
-  "when low and high are the same"() {
-    expect(randomIntInRange(3, 3, Math.random), is, 3)
-  },
-
-  "when low and high are 1 apart"() {
-    const results = new Set()
-    for (let i = 0; i < 30; i++) {
-      results.add(randomIntInRange(0, 1, Math.random))
-    }
-    expect(results, equals, new Set([0, 1]))
-  },
 })
 
 test("ScheduleGenerator", {
