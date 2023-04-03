@@ -9,8 +9,7 @@ import * as channelTestSegments from "./channelTestSegments";
 import type { Episode } from "../video/types";
 import { allEpisodes } from "./parser";
 
-// Set debug to true to enable the debugging channel.
-const debug = false
+const debug = window.ENVIRONMENT === "development"
 export const channels: Array<[string, BroadcastAlgorithm, Array<Episode>]> = [
   ["Channel 1", "shuffle", channel1],
   ["Channel 2", "shuffle", channel2],
