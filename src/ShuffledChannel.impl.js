@@ -32,6 +32,7 @@ export function ShuffledChannel(name: string, episodes: Array<Episode>): Channel
     const dayBoundary = seconds - secondsOfDay
     const schedule = getSchedule(String(dayBoundary))
     const segment = binarySearch(schedule, (seg) => seg.startSecondOfDay <= secondsOfDay)
+    // TODO: stop using the term "segment" here.
     if (segment?.type === "video") {
       return {
         type: "video",

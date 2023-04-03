@@ -16,9 +16,17 @@ import { debuggingDecorator } from "./youtube/player.jsx"
 import { PlayerCommander } from "./PlayerCommander.jsx"
 import { status } from "./PlayerStatus.js"
 import { ShuffledChannel } from "./ShuffledChannel";
+import { SegmentBoundaryTestChannel } from "./SegmentBoundaryTestChannel";
 
 const channels = channelData
-  .map(([name, episodes]) => ShuffledChannel(name, episodes))
+  .map(([name, algorithm, episodes]) => {
+    switch (algorithm) {
+      case "shuffle":
+        return ShuffledChannel(name, episodes)
+      case "test-segment-boundaries":
+        return SegmentBoundaryTestChannel(name, episodes)
+    }
+  })
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()

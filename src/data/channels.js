@@ -5,18 +5,23 @@ import * as channel3 from "./channel3"
 import * as channel4 from "./channel4"
 import * as christmas from "./channelChristmas"
 import * as channelDebug from "./channelDebug";
+import * as channelTestSegments from "./channelTestSegments";
 import type { Episode } from "../video/types";
 import { allEpisodes } from "./parser";
 
 // Set debug to true to enable the debugging channel.
-const debug = false;
-
-export const channels: Array<[string, Array<Episode>]> = [
-  ["Channel 1", channel1],
-  ["Channel 2", channel2],
-  ["Channel 3", channel3],
-  ["Channel 4", channel4],
-  ["🎄", christmas],
-  debug ? ["debug", channelDebug] : null,
+const debug = false
+export const channels: Array<[string, BroadcastAlgorithm, Array<Episode>]> = [
+  ["Channel 1", "shuffle", channel1],
+  ["Channel 2", "shuffle", channel2],
+  ["Channel 3", "shuffle", channel3],
+  ["Channel 4", "shuffle", channel4],
+  ["🎄", "shuffle", christmas],
+  debug ? ["debug", "shuffle", channelDebug] : null,
+  debug ? ["test segments", "test-segment-boundaries", channelTestSegments] : null,
 ].filter(Boolean)
-  .map(([name, module]) => [name, allEpisodes(module)])
+  .map(([name, algorithm, module]) => [name, algorithm, allEpisodes(module)])
+
+  export type BroadcastAlgorithm =
+    | "shuffle"
+    | "test-segment-boundaries"
