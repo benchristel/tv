@@ -746,6 +746,30 @@ export const episodes: Array<string> = [
     ZpPbmPHJTG0 25:00 Chamber Lightness
     Jl1_m1OtkpE 1:01:28 Brian Eno - New Space Music
   `,
+  `
+    # The Watersons - For Pence and Spicy Ale
+    IT3pporiNFI 2:02 The Watersons - Country Life
+    3cEPM8LSfBo 5:28 Swarthfell Rocks
+    hidOCY-0PZI 3:01 Barney
+    eNM4nWMQFXY 2:32 Chickens In The Garden
+    VEFHpU7qJfA 3:25 Adieu Adieu
+    YONvNt43K4I 2:42 Apple Tree Wassail
+    k5u3hJiXQP0 3:44 King Pharim
+    h7vyE2ahoMo 3:30 The Watersons - The Good Old Way
+    N-K0TIMmHL0 4:44 Lal Waterson, Norma Waterson - Grace Darling
+    N_2jr4pDVYM 1:38 Three Day Millionaire
+    R3dWcf_y62k 2:20 Swinton May Song
+    EW_L2Mswjs8 3:44 The Watersons - T Stands for Thomas
+    l7k76ltiQlw 3:18 Welcome Sailor
+    W8rBJPMth_U 4:15 Malpas Wassail
+    Y9nW0XHhGTc 3:07 The Bonny Lighthorseman
+    HLyKF4dvbvE 11:01 Tam Lyn
+    Cz9bSMFtrlo 2:23 Sheepshearing
+    7VZlCTU7Wok 4:17 Seven Yellow Gypsies
+    QSALP2o0ZlU 3:34 Beggar Man
+    m9ec7bk-xcs 4:28 Swansea Town
+    XH-QpfZsHJw 3:57 Bellman
+  `,
 
   // SINGLES ==============================================
   `Gf1RHyuuLnI 4:59 Kirsten Bråten Berg - Heiemo og Nykkjen(folkesang)`,

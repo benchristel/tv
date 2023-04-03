@@ -2154,6 +2154,19 @@ jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 CPLWbeUq8Z0 2:32 Harold Macmillan
 
 # Simon Roper
+A2OQV4MOOBg 7:07 A Ramble about the New 'Atgeirr' Discovery
+haH0bihkzwk 27:04 Evolution of a Northern and Southern English Accent, 1586 - 2006
+zl7nYepuCoI 13:52 Why do Some People Pronounce 'Off' as 'Awf'? | The LOT-CLOTH and TRAP-BATH Splits
+hkRxn7tUNIc 53:36 Questions and Answers
+idjxjfS5-zA 19:40 What was a 'Northern Accent' Like in Old English?
+4IJqbMLg4D0 2:59:03 'Beowulf' with Dr Jackson Crawford | Prologue, Fits 1 - 3
+n3twHHIdgWI 20:31 'And then I was like...'
+_h4-nIupTDU 9:02 How do you Say 'Ich Heiße' in English?
+jucns7hHAkI 17:20 Faces, Past & Present
+tYN_pkmja-w 13:45 Proto-Germanic Farming Terminology
+VKzZ0_XEtdo 1:48:47 Söl'ring North Frisian with Moritz Lauer
+8d766dMjJjo 16:37 Beginner's Guide to Phonology - Part 3
+eN-4fT3YWnM 1:45 Jack of the Dump - The Day That Laughter Died | Trailer 2023
 1Ntcj97LNyI 1:15:42 Reflections on First Time in the US (California)
 i1GjSKR5udY 15:52 The Disappearance (and Survival) of 'Thou'
 C1xN-fjyCvU 15:31 Problems of Studying Emotion Cross-Culturally
@@ -3940,6 +3953,9 @@ tLjPk99iR9s 48:02 A History of London through Fascinating Street Names
 
 # Will Lord
 nD3UlqgPN5U 22:12 Let’s make a Neolithic Longbow - Primitive Technology
+
+# Eddie Izzard
+QRB_GhLXCds 1:54:08 Eddie Izzard - Dress To Kill Show in1999.
 
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
