@@ -487,15 +487,15 @@ export const episodes: Array<string> = [
     NtEAh5xPvHU 5:21 Nightwish - Gethsemane
     wEERFBI9eCg 4:03 Nightwish - Wish I Had An Angel (OFFICIAL VIDEO)
     uRU9fBRd6MU 8:29 Creek Mary's Blood
-    1I55pp0i150 4:25 Crownless
-    jvxDdgwaCyI 4:24 Wishmaster
+    YvG58wNFJJI 4:25 Crownless
+    2ZV9Snsk3vU 4:24 Wishmaster
     CwED4C5FJuo 3:55 Nightwish - Over The Hills And Far Away (OFFICIAL VIDEO)
-    99BC8s8LHgQ 4:50 Wanderlust
+    hIKgj6vHFx8 4:50 Wanderlust
     E7chnYnI64Q 4:23 End of All Hope (Remastered)
-    GO1nF0uAZ9E 4:08 The Phantom Of The Opera
+    n1G5WiMoRjw 4:08 The Phantom Of The Opera
     SXI9hoyymN8 4:33 Sleeping Sun (Remastered)
     fWm7BLoY9wI 4:36 Nemo (Remastered)
-    5dM3LikmKTc 6:47 Dead Boy's Poem
+    Dm3k7lXNSa8 6:47 Dead Boy's Poem
     z94ip-1_khY 3:37 Nightwish - Kuolema Tekee Taiteilijan [Lyrics]
   `,
   `_zmeye7-HOE 48:54 Evanescence - Fallen (FULL ALBUM)`,
