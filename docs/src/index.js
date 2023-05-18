@@ -1552,7 +1552,7 @@ UolBvOIodEg 18:35 Icelandic Volcano Bread - Rúgbrauð
 Pl55tJHadZc 20:19 Samosas of Mughal India
 GSGNiDjILiU 13:19 Ancient Rome's Wonder Medicine: Cabbage
 B0-TCPUNdbI 22:00 1600s Chicken & Cherries with Ken Albala
-Mda8Jetfnx8 16:34 Hogmanay Shortbread from 1779
+Mda8Jetfnx8 0-2:55,4:03-16:34 Hogmanay Shortbread from 1779
 BjyRlYO6MDI 1:10:07 1 Million Subscribers Live Q&A
 Oy17ef4cEL4 14:26 Quick Panettone: A controversial recipe
 JJnOtxBQEgo 16:09 A Bakewell Tart from World War One
@@ -2162,6 +2162,7 @@ jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 CPLWbeUq8Z0 2:32 Harold Macmillan
 
 # Simon Roper
+ClDidPO-ua0 29:39 Þæs Anhagas Siþ   |   Early Medieval Short Film   |   2023
 A2OQV4MOOBg 7:07 A Ramble about the New 'Atgeirr' Discovery
 haH0bihkzwk 27:04 Evolution of a Northern and Southern English Accent, 1586 - 2006
 zl7nYepuCoI 13:52 Why do Some People Pronounce 'Off' as 'Awf'? | The LOT-CLOTH and TRAP-BATH Splits
@@ -4385,15 +4386,15 @@ Uw85aNJabkE 43:55 King Crimson - In the Court of the Crimson King (Original Mast
     NtEAh5xPvHU 5:21 Nightwish - Gethsemane
     wEERFBI9eCg 4:03 Nightwish - Wish I Had An Angel (OFFICIAL VIDEO)
     uRU9fBRd6MU 8:29 Creek Mary's Blood
-    1I55pp0i150 4:25 Crownless
-    jvxDdgwaCyI 4:24 Wishmaster
+    YvG58wNFJJI 4:25 Crownless
+    2ZV9Snsk3vU 4:24 Wishmaster
     CwED4C5FJuo 3:55 Nightwish - Over The Hills And Far Away (OFFICIAL VIDEO)
-    99BC8s8LHgQ 4:50 Wanderlust
+    hIKgj6vHFx8 4:50 Wanderlust
     E7chnYnI64Q 4:23 End of All Hope (Remastered)
-    GO1nF0uAZ9E 4:08 The Phantom Of The Opera
+    n1G5WiMoRjw 4:08 The Phantom Of The Opera
     SXI9hoyymN8 4:33 Sleeping Sun (Remastered)
     fWm7BLoY9wI 4:36 Nemo (Remastered)
-    5dM3LikmKTc 6:47 Dead Boy's Poem
+    Dm3k7lXNSa8 6:47 Dead Boy's Poem
     z94ip-1_khY 3:37 Nightwish - Kuolema Tekee Taiteilijan [Lyrics]
   `,"_zmeye7-HOE 48:54 Evanescence - Fallen (FULL ALBUM)",`
     # Dire Straits - Brothers in Arms
@@ -4831,7 +4832,7 @@ zBIx-gP-I8c 0-20,40-51 Strong Bad Email #1 - Some Kinda Robot
 #wRKrv-RlJOw 1:01 Strong Bad Email #6 - Depressio
 #Lml_AKkhCVY 1:01 Strong Bad Email #9 - I Love You
 `;var rs={};wn(rs,{episodes:()=>xg,videos:()=>Yg});var xg=[],Yg=`
-h9xX78pauXQ 0-5:35,6:45-19:21 Japan's Edo Era Noodles (1643)
+Mda8Jetfnx8 0-2:55,4:03-16:34 Hogmanay Shortbread from 1779
 `;function Mt(e){try{e()}catch(n){return n}}function Ea(e,n){if(e.length===0)throw new Error("can't pick element from an empty array");if(n>=1||n<0)throw new Error("fraction out of bounds: "+n);return e[Math.floor(n*e.length)]}Y("pick",{"throws if the array is empty"(){f(Mt(()=>Ea([],0)),F,new Error("can't pick element from an empty array"))},"throws if the fraction is 1"(){f(Mt(()=>Ea([""],1)),F,new Error("fraction out of bounds: 1"))},"throws if the fraction is > 1"(){f(Mt(()=>Ea([""],1.25)),F,new Error("fraction out of bounds: 1.25"))},"throws if the fraction is > 0"(){f(Mt(()=>Ea([""],-.25)),F,new Error("fraction out of bounds: -0.25"))},"picks the first element of the array given 0"(){f(Ea([1,2],0),I,1)},"picks the last element of the array given 1 - epsilon"(){f(Ea([1,2],.99),I,2)}});function Fi(e){return e.length===0}var Ki=(...e)=>e.reduce(jg);Y("pipe",{"given one function"(){f(Ki(n=>n+1)(1),I,2)},"given two functions"(){let e=n=>n+1;f(Ki(e,e)(1),I,3)}});function jg(e,n){return(...a)=>n(e(...a))}function Md(e){return n=>n.map(e)}function wd(e){return e.trim()}function De(e){return{videos:e}}function Hi({start:e,end:n}){return n-e}function os(e){return e.segments.map(Hi).reduce(Vg,0)}Y("duration",{"is the difference between the segment's start and end"(){f(Hi({start:50,end:99}),I,49)}});Y("videoDuration",{"is the sum of the segment durations"(){f(os({videoId:"",title:"",segments:[{start:1,end:5},{start:10,end:13}]}),I,7)}});var Vg=(e,n)=>e+n;function bi({videos:e,episodes:n}){return[...zg(n),...Me(e).map(_g)]}var zg=Md(Ki(Me,De));function Me(e){return e.split(/\n+/).map(wd).filter(qo(Qg)).filter(qo(Fi)).map(va(/ +/,3)).flatMap(([n,a,t])=>a==="SHORTS"?[]:[{videoId:n,segments:Jg(a),title:t}])}function _g(e){return De([e])}function be(e){return{start:0,end:e}}function qe(e,n){return{start:e,end:n}}function Qg(e){return e.startsWith("#")}function Jg(e){return e.split(",").map(qg)}function qg(e){let n=e.split("-");return n.length===1?be(Se(n[0])):qe(Se(n[0]),Se(n[1]))}function Se(e){let n=[1,60,3600,86400],a=e.split(":").map(t=>parseInt(t,10)).reverse();return Zg(a,n).map(([t,i])=>t*i).reduce(Xg,0)}var va=(e,n=Infinity)=>a=>{if(typeof e=="string"&&e.length===0)throw"split(): empty delimiter not supported";let t=0,i=0,r=[],o=a;for(;r.length<n-1&&o.length>0;){let s=o.match(e);if(s==null)break;r.push(o.slice(0,s.index)),o=o.slice(s.index+s[0].length)}return r.push(o),r};function Zg(e,n){let a=[];for(let t=0;t<e.length&&t<n.length;t++)a.push([e[t],n[t]]);return a}function Xg(e,n){return e+n}Y("parseVideos",{"handles empty string"(){f(Me(""),F,[])},"ignores spaces"(){f(Me("  "),F,[])},"ignores blank links"(){f(Me(`
 
 
