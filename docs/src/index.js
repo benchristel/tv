@@ -2162,8 +2162,9 @@ jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 CPLWbeUq8Z0 2:32 Harold Macmillan
 
 # Simon Roper
+Mn9Ch78keo4 24:59 Unpicking Some Aspects of 'Þæs Anhagas Siþ'
 ClDidPO-ua0 29:39 Þæs Anhagas Siþ   |   Early Medieval Short Film   |   2023
-A2OQV4MOOBg 7:07 A Ramble about the New 'Atgeirr' Discovery
+A2OQV4MOOBg 7:07 *APRIL FOOLS* Atgeirr Video
 haH0bihkzwk 27:04 Evolution of a Northern and Southern English Accent, 1586 - 2006
 zl7nYepuCoI 13:52 Why do Some People Pronounce 'Off' as 'Awf'? | The LOT-CLOTH and TRAP-BATH Splits
 hkRxn7tUNIc 53:36 Questions and Answers
@@ -3967,6 +3968,8 @@ nD3UlqgPN5U 22:12 Let’s make a Neolithic Longbow - Primitive Technology
 QRB_GhLXCds 1:54:08 Eddie Izzard - Dress To Kill Show in1999.
 
 CcPLsIy4tys 1:20:36 The Mouse and His Child
+
+OOF3dmmELqU 47:40 Gonzo Presents Muppet Weird Stuff
 
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
