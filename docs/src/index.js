@@ -3971,6 +3971,12 @@ CcPLsIy4tys 1:20:36 The Mouse and His Child
 
 OOF3dmmELqU 47:40 Gonzo Presents Muppet Weird Stuff
 
+YXGfCKNa_9E 1:49:40 Wind in the Willows Cosgrove Hall 1983 (extended version with omitted chapters)
+msM29o87uTs 34:41 The Wind in the Willows (1949) 50s reissue
+
+# Gilbert and Sullivan
+IGzv4vufN-k 1:51:53 The Pirates Of Penzance (1983) full movie watch on YouTube HD
+
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
@@ -4390,7 +4396,7 @@ Uw85aNJabkE 43:55 King Crimson - In the Court of the Crimson King (Original Mast
     NzWizk3e4MM 4:28 1.Nightwish - Dark Chest Of Wonders
     NtEAh5xPvHU 5:21 Nightwish - Gethsemane
     wEERFBI9eCg 4:03 Nightwish - Wish I Had An Angel (OFFICIAL VIDEO)
-    uRU9fBRd6MU 8:29 Creek Mary's Blood
+    kEILUXXlX4I 8:29 Creek Mary's Blood
     YvG58wNFJJI 4:25 Crownless
     2ZV9Snsk3vU 4:24 Wishmaster
     CwED4C5FJuo 3:55 Nightwish - Over The Hills And Far Away (OFFICIAL VIDEO)
