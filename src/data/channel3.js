@@ -486,7 +486,7 @@ export const episodes: Array<string> = [
     NzWizk3e4MM 4:28 1.Nightwish - Dark Chest Of Wonders
     NtEAh5xPvHU 5:21 Nightwish - Gethsemane
     wEERFBI9eCg 4:03 Nightwish - Wish I Had An Angel (OFFICIAL VIDEO)
-    uRU9fBRd6MU 8:29 Creek Mary's Blood
+    kEILUXXlX4I 8:29 Creek Mary's Blood
     YvG58wNFJJI 4:25 Crownless
     2ZV9Snsk3vU 4:24 Wishmaster
     CwED4C5FJuo 3:55 Nightwish - Over The Hills And Far Away (OFFICIAL VIDEO)
