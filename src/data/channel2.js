@@ -1,6 +1,12 @@
 // @flow
 
-export const episodes: Array<string> = []
+export const episodes: Array<string> = [
+  `
+  -Ms1an9I-Ok 45:03 The Canterbury Tales General Prologue, complete reading (Middle English)
+  lCRi3tB4uSU 2:03:04 The Knight's Tale, from the Canterbury Tales, complete Middle English reading
+  4cDVjJqesys 22:26 The Reeve's Tale (Canterbury Tales), read in Middle English (complete)
+  `
+]
 
 export const videos: string = `
 # Slow TV

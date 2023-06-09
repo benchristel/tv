@@ -1762,6 +1762,36 @@ ZTGLUDEEWko 11:27 Nettle Fibre Processing
 62PvfIR0xDg 4:42 Simple Cordage Instructions
 ebYZidfmn-0 7:55 Making Natural Cordage from Horseradish
 
+# Alfie and Jon
+
+qa1S2iKrZkk 3:53 Jon Dyer & Alfie Gidley - Key to the Cellar/Rusty Gully
+4o54hkBoRGU 4:52 Jon Dyer & Alfie Gidley - Mount Hills/Princess Royal
+vypvrry1jQs 5:08 Jon Dyer & Alfie Gidley - Porthlystry
+yD6aczmf_lk 3:47 Jon & Alfie - Leaving Friday Harbour
+Re2nvQNS2RY 4:59 Jon & Alfie - Barefoot Reel/Duke of Cornwall's Reel
+sRB4Aj4BAmY 4:21 Jon & Alfie - Skylight Jig/Simon and Candy's Halsway Jig
+H0kI7S_8UIs 4:14 Jon & Alfie - Key to the Cellar/Rusty Gully
+29rAej5KWeA 4:22 Jon & Alfie - Skylight Jig/Simon & Candy's Halsway Jig
+1-TGSdKWd78 5:28 Ali Brady's/The Old Lancashire Hornpipe - Jon & Alfie
+CencoG-_4gk 3:58 Watermans - Jon & Alfie
+1Xm1qB8-Mzo 3:34 Jodie's Swivel/The Butterfly - Jon & Alfie
+8tFDtFWuoVE 11:27 Jon & Alfie - Lived Art Festival Concert Part 05
+ce_3oRp-43o 10:43 Jon & Alfie - Lived Art Festival Concert Part 04
+Xk9_oRISKPk 8:06 Jon & Alfie - Lived Art Festival Concert Part 03
+w6b55FyUNxg 6:59 Jon & Alfie - Lived Art Festival Concert Part 02
+dPO07a-hoxM 11:35 Jon & Alfie - Lived Art Festival Concert Part 01
+a4t8AhHZZLE 4:46 Farewell to Whalley Range/ Standard Jon Meal - Jon & Alfie
+FT4turju5WI 4:02 Gannel Crake/Two Borders - Jon & Alfie
+9ljxFQmGfpw 4:41 Jon & Alfie - Banish Misfortune/Northumbria Tune
+kJMjIOSLxAs 5:57 Jon & Alfie - Ali Brady's/Old Lancashire Hornpipe
+yJpyabU9-5k 4:36 Jon & Alfie - Gannel Crake/Two Borders
+S4iHdJ-Ii20 4:23 Jon & Alfie - Leaving Friday Harbour
+5OYDyUjPYEc 6:01 Jon & Alfie - Ali Brady's/Old Lancashire Hornpipe
+JempUKUhFD4 3:19 Jon & Alfie: Pressed for Time
+N7w4TWtE3zw 0:43 Jon and Alfie at 'Gidley Studios' Day 1
+ZTZYwZlezz8 5:05 Jon & Alfie: "Banish Set" Live
+Fb-Y1Tm1r7g 4:26 Jon & Alfie Banish Set
+
 # Pellwolok an Gernewegva
 
 hST4dBO3u8s 31:05 An Mis 59 - mis Gortheren / July 2022
@@ -2154,6 +2184,8 @@ jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 CPLWbeUq8Z0 2:32 Harold Macmillan
 
 # Simon Roper
+-99-lRGIFeg 38:27 Exploring Two Northern Irish Accents
+hCV_oGQjV4k 21:21 What is 'Historical Accuracy'?
 Mn9Ch78keo4 24:59 Unpicking Some Aspects of 'Þæs Anhagas Siþ'
 ClDidPO-ua0 29:39 Þæs Anhagas Siþ   |   Early Medieval Short Film   |   2023
 A2OQV4MOOBg 7:07 *APRIL FOOLS* Atgeirr Video
