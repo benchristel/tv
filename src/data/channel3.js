@@ -2,7 +2,120 @@
 
 export const videos: string = `
 Uw85aNJabkE 43:55 King Crimson - In the Court of the Crimson King (Original Master Edition)  2004
-`
+` 
+// + `
+// # Arany Zoltán
+// a3oJ_SLmb6I 3:04 Folk music from Denmark - Ramund den unge
+// 6zpE0B_Bus4 4:40 Folk music from Greece I trata mas i korelou
+// Y2mCB34GtZI 3:57 Folk music from North Macedonia - Ete Majko
+// X9gQsu5buHw 2:55 Ancient world - Dancing Shiva
+// 6Gjb_qGPuKc 3:22 Renaissance music - Summáját írom
+// 4jo_Xg_tLQY 6:00 Medieval music - Stella Splendens
+// S9nRFnLeNXs 5:16 Ancient World - The Palace of Knossos
+// cpcinoVEERw 4:32 Italian traditional music - Tarantella del Gargano
+// Sldxk6HzNR4 3:54 Ancient world - Dur Sharrukin
+// T2l03poWeHU 3:41 Irish folk music : Father O'Flynn / Irish washerwoman / From the new country
+// tEEx62mKz-Y 3:02 Portuguese fado - Fado Faia
+// XXRLERuy1qY 4:44 Morena me llaman
+// Gi3C9jTgiG8 3:12 Macedonian folk music - Nevestinsko oro
+// QkLzCGs3bGs 4:10 Mandolin Madrigal
+// Qx67A7KJc7s 3:30 Mexican folk music - La Bruja
+// MqCG8VMljsI 3:38 Folk music from Asturias - Muiñeira de Tormaleo
+// r1jUxPkKd38 1:13:55 Medieval music
+// FHy0bDLw798 3:37 Folk music from Wales - Pibddawns y Tant
+// ciO1XyuHa1E 3:25 Dance of the Prince of Transylvania
+// Qgw-9dbvIE8 3:26 Folk music from Finland - Mansikka
+// qhm9ehxrTlo 3:46 Folk music from Italy - Tarantella Napoletana
+// XYh-HTjDOeQ 3:12 Folk music from Bulgaria - Kopanitsa
+// 1bHCAJVhLwI 3:42 Irish folk music - Dan Ab's slide / The Blackthorn Stick / Morrison's Jig
+// VQsGr-syVjo 2:48 Folk music from Sweden - Flodens död
+// vhMRL6RoAD4 4:11 Folk music from Brittany - An Dro
+// ldX2Ngdoq7I 3:26 Irish folk music - Rakish Paddy / Drowsy Maggie
+// rub0mQlDtlE 3:21 Folk music from Romania - La portiță la Gheorghiță
+// CfDLu6EDusk 3:32 Folk music from Normandy - Les garçons d'Hattenville
+// QDXVlhOJeD0 3:24 Folk music from Thracia - Alexandris
+// Eej4umuQ6LE 4:41 Irish folk song - Whiskey in the jar
+// TSffgNLi6-0 3:41 Folk music from Venezuela - El Morere
+// zMGf6dqgdO0 3:23 Folk music from Iceland - Sofðu unga ástin mín
+// NMFH-zoPto0 3:30 Scottish folk music - The Bonnie Ship The Diamond
+// jMmAyIqViHw 3:19 Irish folk song - Finnegan's wake
+// QYDXciIw9Ug 5:16 Macedonian folk music - More sokol pie
+// vUQTKiIV71A 2:29 Folk music from Poland - Hej szalała szalała by Arany Zoltán
+// bid_GYJcgjA 2:34 Ancient Greek music - The Seikilos epitaph
+// NQljqVUk2F8 4:22 Ancient world - The Phoenician Wedding
+// RkgHTZ4VD7w 3:24 Arany Zoltán - Mediterranean - Paloma Mensajera ( Spain )
+// x1y0aj43B8U 2:41 Medieval music - In taberna quando sumus
+// KkhLTOgLnko 3:25 Irish folk music - Kid on the mountain by Arany Zoltán
+// tNXiWcPbAuI 2:50 Fado from Portugal - Fado do Toureiro
+// qN-xSID3CKs 3:01 Arany Zoltán - Tarantella
+// bKPaOz1UvtA 6:40 Arany Zoltán - The Dolphin's Jig
+// kij_Y3ZgGSM 4:15 Arany Zoltán - Aegean blue
+// 0AjMqfxZncg 3:48 Gaelic folk song - Buachaill ón Éirne
+// I_oQzNioT7k 3:55 Greek folk music : Thalassaki mou
+// jzgU-dWK7Kg 3:33 Arany Zoltán & World Music Syndicate - Gamilia patinada
+// -nlkWWphiaM 4:39 Arany Zoltán & World Music Syndicate - La molinera
+// QelvkIsANTc 2:38 Arany Zoltán & World Music Syndicate : Celtic fairy dance
+// CESwhjFCbsI 4:01 Arany Zoltán & World Music Syndicate - Cooley's reel / The merry blacksmith / Cup of tea
+// Xewpvp91630 4:44 Arany Zoltán & World Music Syndicate - Black is the colour
+// DzBUzjucWu4 2:40 Folk music from Venezuela - El tigrito
+// lxemhnoeUVA 4:36 Ancient world - Gardens of Babylon
+// R3ir51hmmmE 2:36 Russian folk song - Dark eyes
+// pcv0hpkaOFY 43:10 Perro Negro
+// uMHJjPqO59Q 3:41 Folk music from Italy - Napoletana
+// sC2yEFpacIE 3:16 Hungarian folk music from Transylvania
+// mvsKycGUpNw 3:26 Irish folk music - Spanish lady by Arany Zoltán
+// PKsdjH0RmsU 4:28 Folk music from Scotland - Black is the colour
+// cK1e77vquco 1:50 Good morning
+// zGyVZOunVAg 3:05 Renaissance music - Sokféle részögösről
+// wJuxq-x4usk 4:09 The Irish Rover by Arany Zoltán
+// 8mDBSIDJZBM 5:22 Thracian folk music
+// i-Lm08sLEwM 2:36 Under the sea
+// AaM605kP3tU 3:37 Hungarian folk song - Akkor szép az erdő
+// qyF5eIkecSg 3:20 Folk music from Ecuador - Que doloroso
+// 81SgTHg66QY 3:40 Old Hungarian music - Militaris congratulatio
+// BaXFEhGT-4s 2:37 Folk music from Corsica - U scogliu di Santa Elena
+// nuV5Z28rlp0 1:07 Renaissance music - Je ne l'ose dire
+// sxhT6hmHW1I 3:04 Folk music from Sicily - Lu purtuni
+// gilalcUtP2c 3:28 Irish folk music - Rocky road to Dublin
+// p6_9LOUnFQw 4:06 Chinese folk music by Arany Zoltán
+// 5WokdenoUd8 4:10 La rosa enflorece by Arany Zoltán
+// 33NmYtVF3S4 3:05 Folk music from Macedonia - Dvajspetorka
+// fxTeoSlrXTg 2:14 Irish folk song - The raggle taggle gipsy
+// QTwjijTkiZs 2:32 Portuguese fado - Anda comigo
+// nQNhbi9KZfU 3:01 Hungarian folk music from Transylvania
+// GJaiIG5xPqg 2:51 Medieval music - Ich was Ein Chint so Wolgetan
+// -eAAMPAp0AE 3:52 Celtic folk music from Brittany - Tri martolod
+// T7Azt07__eE 4:02 Folk music from Bulgaria - Chetvorno
+// T8Q_QtfADZs 3:52 Celtic folk music from Cape Breton Island
+// fkgaF6Oj5Q4 3:54 Folk music from Greece - Tsifteteli
+// qfXMbZTMP4k 5:18 Folk music from Scotland - Ye Jacobites by name
+// Fudo3fpr0Dc 5:04 Folk music from Spain - La molinera by Arany Zoltán
+// mbY17Lr_wu4 3:47 Folk music from Turkey - Üsküdara
+// e8aQm3SoyI4 2:32 Medieval music - Saltarello
+// ek1PWKvgDZE 3:33 Irish folk music - King of the fairies
+// ZSgGZGt4r7Y 3:53 Medieval music - Totus floreo
+// zYl9eOBZIgs 2:48 Celtic mandolin music by Arany Zoltán
+// 6A7beekR_80 2:40 Bulgarian folk music - Sharena gaida
+// sAs3mh2Nmq0 3:13 Folk music from Sicily - Sciuri sciuri
+// rxoe1C0xg2o 3:39 Folk music from Sweden by Arany Zoltán
+// BalUi1MCKI4 5:08 Medieval music : pilgrim song - Stella splendens
+// I2yA-F-_A2E 2:17 Hungarian music from the 17th century
+// i3Fejzo7KWc 2:07 Celtic music from Brittany
+// P8dV0rC7p1w 1:43 Folk music from Armenia - Perepelka
+// Xk1W22yHLJQ 4:01 Medieval music - Troubadour love song
+// wt3FM5qEHa0 3:16 Folk music from Scotland - Cam Ye O'er Frae France
+// sZ5zKRPJB7M 2:14 Celtic music from Cape Breton Island
+// B0R_QL-X-Ck 3:49 Folk music from Macedonia - Tropnalno oro
+// ifHHOWnuL_A 2:49 Folk music from Greece by Arany Zoltán
+// 4gKSqVZ9AAs 3:46 Folk music from Bulgaria - Rachenitsa by Arany Zoltán
+// _aX555L37N8 2:36 Renaissance dances from Hungary by Arany Zoltán
+// sTijE8FpJa0 4:03 Irish folk music by Arany Zoltán
+// 3iJ6bxrLVos 4:05 Hungarian folk music
+// bVEV2y3e0nM 3:31 Folk music from Thracia - Hadrianopolis by Arany Zoltán
+// lQF0jfInbac 2:16 Hungarian folk music : bagpipe tunes by Arany Zoltán
+// bYu5_Q-Xn7w 4:03 Folk music from Ireland by Arany Zoltán
+// nepBS1mrc2A 3:46 Perro Negro : Rumba Catalán
+// `
 
 export const episodes: Array<string> = [
   `BecZdQvjGrY 54:49 In Gowan Ring - Compendium (Full Album)`,
@@ -769,6 +882,111 @@ export const episodes: Array<string> = [
     QSALP2o0ZlU 3:34 Beggar Man
     m9ec7bk-xcs 4:28 Swansea Town
     XH-QpfZsHJw 3:57 Bellman
+  `,
+  // `
+  //   # Arany Zoltán - Folk's Not Dead
+  //   SOn8NumaAUw 5:17 Rumba Moresca
+  //   s__gL5vhiuI 5:06 Folk music from Asturias - Danza Santana
+  //   f1ClxjXOcd0 3:43 Hadrianopolis
+  //   -Iifb3O-tBM 4:18 A Leányok ágya
+  //   c97VWy4_vaA 4:54 Silk Road by Arany Zoltán
+  //   vYiG6AXbvvk 3:29 Irish folk music - Oró sé do bheatha 'bhaile
+  //   BWnOPXi_Qm8 3:55 Folk music from Galicia - Deixame subir
+  //   0hYgjSaVVvw 4:38 Se Navali
+  //   mDuoINfdeCY 3:50 Hungarian folk music - Sárgul már a fügefa levele
+  //   aMZnxBClrr4 4:13 Reels
+  //   6NXQHgvmDH8 3:33 Üsküdara
+  //   aUskrSbYMzE 3:16 Rumba Catalana by Arany Zoltán
+  // `,
+  `
+    # Arany Zoltán - The Last of the Troubadours
+    OxLBWE2BSog 3:31 Medieval music - Ai vist lo lop
+    qgZp9DoW3CY 2:54 Medieval music - Saltarello la Regina
+    ZlipG4F3WeE 3:02 Medieval music - In taberna quando sumus
+    NdSJYgjMIfQ 2:42 Medieval music - Estampie
+    m3P2xWSS5YA 2:42 Medieval music - Santa Maria strela do día
+    yvjuv4IIKcU 3:55 Renaissance music - Tourdion
+    Xra_9AvEwVo 5:00 Ich Was Ein Chint so Wolgetan
+    5eMa_C9f1zI 2:30 Medieval music - Ecco la primavera
+    T2bauLl38cU 2:34 Saltarello Della Pioggia
+    nXDblTqdbvs 1:00 Je Ne L'ose Dire
+    tn6U2utoIko 3:57 Medieval music - Non é gran cousa
+    mw-VhXNvj9Q 4:15 S'om Pugues Partir Son Voler
+  `,
+  `
+    # Arany Zoltán - Celtica
+    hRJT-ZC-o0Y 3:27 King of the Fairies
+    sKuC9Vle3Jo 4:36 Ye Jacobites by Name
+    MkV-eJ6awpw 3:21 Celtic music from Galicia - Muiñeira de Chantada
+    n_efjdY5Jl0 3:10 Celtic music from Brittany - Kemmesk
+    Km92ScBYo3M 3:01 Cam Ye O'er Frae France
+    QTYr3ECNOVU 3:13 Fraser's Jig
+    CvZ3pxZZ_PI 3:39 Gaelic folk song - Beidh aonach amárach
+    POwIfgjf4lU 2:16 Folk music from Wales - Morfa Rhuddlan
+    GS5mFVlPYpw 3:50 Tri Martolod
+    BKC43U1xQMw 3:40 Folk music from Isle of Man - Three little boats
+    gUIBeH0TnBs 4:26 Folk music from Brittany - Ar Soudarded Zo Gwisket E Ruz
+    5iRW95P1LRY 5:00 Galician folk song - Tua nai e meiga
+  `,
+  // `
+  //   # Arany Zoltán - The Balkan Trip
+  //   kgicgyZgdvE 3:24 Bulgarian folk music - Snoshti e Dobra
+  //   KvJ0ez4OnWI 3:15 Folk music from Albania - Valle Tropojane
+  //   A-7FdmvLmT4 3:59 Mandilatos - Greece
+  //   tjdlXrTIU6k 4:14 Folk music from Serbia - Ajde Jano
+  //   G6vZk6bY50c 2:59 Dvajspetorka - Macedonia
+  //   nBFkwTmuaFI 4:08 Folk music from Albania - Rugovo
+  //   1QqRWfQcpr4 3:27 Folk music from Bulgaria - Bucimis
+  //   ACAEpYXQXm4 2:07 Folk music from Croatia - Dalmatian dance
+  //   q0XFEP3a7JU 3:03 Folk music from Greece - Tsifteteli
+  //   tuZKMkQWipM 3:28 Folk music from Bulgaria - Jove malaj mome
+  //   oIm9AR0Sku4 2:30 Folk music from Montenegro - Crnogorsko Oro
+  //   tLviUpTxMNM 3:52 Folk music from Bosnia - Poljem se vija
+  // `,
+  // `
+  //   # Arany Zoltán - Mediterranean
+  //   s-vgxqu40Kw 2:35 Folk music from Portugal - Apanhar o Trevo
+  //   6D_m0M73tyc 3:11 Mazurka
+  //   wZbpHSI8Z8E 5:05 La Molinera
+  //   Jd9hbtpHwto 4:28 Sciuri, Sciuri
+  //   uOEUeLUyVro 3:56 Gamilia Patinada
+  //   vfR2KFPyft8 2:59 Italian folk music - Tarantella del '600
+  //   2XKeQeF97GQ 4:03 Folk music from Spain - Las lavanderas de Cáceres
+  //   2mrxfyjW3AA 3:31 Valse
+  //   k6HW9H1bsLc 2:57 Folk music from the Balearic Islands - Jota Mallorquina
+  //   0F7QUClsYGE 4:43 Portuguese music - Comboio Da Beira Baixa
+  //   YcjDATE4f7k 3:43 Bulería
+  //   2hlFsNYv4yw 3:25 Napolitana
+  // `,
+  `
+    # Arany Zoltán - Laudator Temporis Acti
+    J_zjgZJOFl4 4:03 Medieval music - Palästinalied
+    pDtWM6L75l4 2:17 Medieval music - Mirie it is while sumer y-last
+    EAL36dauebs 2:58 Renaissance music - Pase el agoa
+    Jg5x6lxdJxc 4:27 Medieval music - Laudar vollio per amore n
+    jmpfQYARVxI 2:14 Medieval music - Platerspiel
+    4mG76NcTecI 6:17 Medieval music - Deinceps ex nulla
+    bbgHGPLjPFc 2:15 Old English dance - Parson's Farewell by Arany Zoltán
+    lJOLb1GSvws 3:00 Renaissance music - Riu Riu Chiu
+    D4nHUUXcMHU 4:50 Medieval music - Da que Deus mamou
+    PxDzYJQ2DkQ 2:30 Renaissance music - Schiarazula Marazula
+    hApROcR510k 3:26 Renaissance music - Greensleeves
+    LePaNDiie-w 3:33 Medieval music - Saltatio mortis by Arany Zoltán
+  `,
+  `
+    # Arany Zoltán - Laus Pannoniae
+    yLkxfw-NsYA 4:22 Bagolymadár
+    UrmtiIicFUI 3:16 Lőrincrévi Pontozó
+    ujOjs7unF0I 3:36 Militaris Congratulatio
+    Q9rrTJgLH1s 3:18 Hungarian folk music - Dudanóták by Arany Zoltán
+    CbXJK7KwTMo 4:08 Hungarian folk music - Debrecennek van egy vize by Arany Zoltán
+    Y9au9CBWKUo 3:57 Hungarian folk music - Csángó dances
+    v9IqBNyofnM 2:10 Kuruc Tánc
+    UViKf9cKN7M 2:58 Hungarian music from the 17th century - Nosza hajdú
+    9krz9o0twv8 4:07 Hungarian folk music - Transdanubian dances
+    jvqkb7NzaTI 3:26 Old Hungarian dance - Rókatánc
+    p04J_qiu9J0 3:00 Serény Magyaros
+    nei4wYohZqA 4:54 Hungarian folk song - Átalmennék a Dunán
   `,
 
   // SINGLES ==============================================
