@@ -2,6 +2,8 @@
 
 export const videos: string = `
 Uw85aNJabkE 43:55 King Crimson - In the Court of the Crimson King (Original Master Edition)  2004
+cCXWuAm-cqA 1:15:08 In Gowan Ring - The Twin Trees (1997) [FULL ALBUM]
+RqKtDn5ntms 53:37 Genesis - Selling England by the Pound (Full Album) 1973
 ` 
 // + `
 // # Arany Zoltán
@@ -130,18 +132,18 @@ export const episodes: Array<string> = [
     ZXK1NYbjozk 8:04 Arrowsmith's Fire
     2LjJzCTfaPo 12:31 Milk Star
   `,
-  `
-    # In Gowan Ring - The Twin Trees
-    UT_RFFLZQt0 7:43 In Gowan Ring – Rivertime Tome
-    PKAq679Y4Dc 8:50 In Gowan Ring – One Silver Ring
-    qAHUytdB9dg 6:29 In Gowan Ring – Stone Song III
-    Fh3u050071M 6:38 In Gowan Ring – The Twin Trees
-    wSHJj79wUhY 10:18 In Gowan Ring – Lady Beyond The River
-    pxLzMC3LxI4 11:00 In Gowan Ring – By Moss Strand And Waterspathe
-    MsnojV6lHPI 10:49 In Gowan Ring – Cupped Hands Spell
-    -qfgGOMmwLo 6:25 In Gowan Ring – Our Rainbowed Paradox
-    JBasAvPr08c 7:10 In Gowan Ring – Still Water Bonne
-  `,
+  // `
+  //   # In Gowan Ring - The Twin Trees
+  //   UT_RFFLZQt0 7:43 In Gowan Ring – Rivertime Tome
+  //   PKAq679Y4Dc 8:50 In Gowan Ring – One Silver Ring
+  //   qAHUytdB9dg 6:29 In Gowan Ring – Stone Song III
+  //   Fh3u050071M 6:38 In Gowan Ring – The Twin Trees
+  //   wSHJj79wUhY 10:18 In Gowan Ring – Lady Beyond The River
+  //   pxLzMC3LxI4 11:00 In Gowan Ring – By Moss Strand And Waterspathe
+  //   MsnojV6lHPI 10:49 In Gowan Ring – Cupped Hands Spell
+  //   -qfgGOMmwLo 6:25 In Gowan Ring – Our Rainbowed Paradox
+  //   JBasAvPr08c 7:10 In Gowan Ring – Still Water Bonne
+  // `,
   // `
   //   # In Gowan Ring - Love Charms
   //   ljm3wcEUeIc 4:23 In Gowan Ring – Listen To Colours
@@ -280,7 +282,6 @@ export const episodes: Array<string> = [
     WMCC8IzFSl8 4:13 In Darkness Let Me Dwell
   `,
   `jGZaH0JEiic 39:33 Genesis - Nursery Cryme (Full Album) 1971`,
-  `E-jS4e3zacI 53:37 Genesis - Selling England By The Pound (Full Album Remastered)`,
   `
     # Genesis - Trespass
     E7Z_xXh7gm8 7:04 Genesis - Looking For Someone (Official Audio)
