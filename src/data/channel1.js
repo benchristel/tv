@@ -127,6 +127,46 @@ export const episodes: Array<string> = [
     n1iDSF0HXZo 13:11 Jethro Tull - Budapest (Ian Anderson Plays The Orchestral Jethro Tull)
     Svrd9fRQgsQ 6:58 Jethro Tull - Locomotive Breath (Ian Anderson Plays The Orchestral Jethro Tull)
   `,
+  `
+    pj0jddZiTMk 1:10:28 New London Opera Group Patience, Act I
+    -joxknSRsBQ 50:56 New London Opera Group Patience, Act II
+  `,
+  `
+    qxZWtjBb4Q8 1:16:22 The Grand Duke, Act I (New London Opera Group, 2014)  
+    6AcrJCCVCew 1:04:30 The Grand Duke, Act II (New London Opera Group, 2014)
+  `,
+  `
+    pvXgo3Xb1OM 59:25 The Pirates of Penzance Act One - New London Opera Group
+    1KqnohvE3B0 47:49 The Pirates of Penzance Act Two - New London Opera Group
+  `,
+  `
+    NI7TzUv9kjs 4:56 The Yeomen of the Guard - Overture
+    zQU_k3fiZKI 28:33 The Yeomen of the Guard - Part 1
+    t_qpcw4e3xs 28:23 The Yeomen of the Guard - Part 2
+    slFbBji9Id8 16:49 The Yeomen of the Guard - Part 3
+    dWA3WWdu_ng 30:26 The Yeomen of the Guard - Part 4
+    -YzbTKK2DmM 31:04 The Yeomen of the Guard - Part 5
+  `,
+  `
+    i6GnUUbK7-Q 15:49 Utopia Limited - part 1
+    7lKrvbG0N0g 11:53 Utopia Limited - part 2
+    ZkLNbA4oOvA 14:01 Utopia Limited - part 3
+    jsVknDUwut4 18:22 Utopia Limited - part 4
+    oDrKqGf0z2s 17:43 Utopia Limited - part 5 (Act I finale)
+    FILzExx5tQo 9:31 Utopia Limited - part 6
+    uktB0cQZXu8 13:55 Utopia Limited - part 7
+    TjFTVOkbB6E 18:38 Utopia Limited - part 8
+    25jvb8oSEfU 16:59 Utopia Limited - part 9
+  `,
+  `
+    t1QnXClcY5I 17:09 The Sorcerer New London Opera Group (part 1)
+    3CL0e3ZxZb0 15:32 The Sorcerer - New London Opera Group (part 2)
+    jyPd--h2X-0 18:54 The Sorcerer - New London Opera Group (part 3)
+    aISTXiklWzg 8:23 The Sorcerer - New London Opera Group (part 4)
+    y9NFregh8MY 11:45 The Sorcerer - New London Opera Group (part 5)
+    b_wiOXerTFg 19:11 The Sorcerer - New London Opera Group (part 6)
+    4ydWQ8PSAzs 17:22 The Sorcerer - New London Opera Group (part 7)
+  `,
 ]
 
 export const videos: string = `
@@ -3878,6 +3918,9 @@ VNJH8vhL32w 2:35:30 The Yeomen of the Guard, by Gilbert and Sullivan (2009 produ
 j5eycS1Gi14 2:45:25 Utopia (Limited), by Gilbert and Sullivan (2011 production)
 cvHj7lYHqmo 36:41 Trial By Jury, by Gilbert and Sullivan (2012 production)
 e5nmssekZII 2:47:13 The Grand Duke, by Gilbert and Sullivan (2012 production)
+ms9aoiyTJpY 1:58 Shche ne vmerla Ukrainy [Ukrainian National Anthem] - the New London Opera Group
+Ssg6tJC5hqU 56:32 Cox & Box, 2006
+O_7H162D9fI 30:56 Trial by Jury by Gilbert and Sullivan
 
 # Brandon Acker
 r5K0nxMjFWU 6:03 My Favorite Baroque Piece 🎶
