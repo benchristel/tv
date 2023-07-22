@@ -2245,6 +2245,7 @@ jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 CPLWbeUq8Z0 2:32 Harold Macmillan
 
 # Simon Roper
+bL9sBWz2Uqs 40:54 Footage of birds, insects and rain
 -99-lRGIFeg 38:27 Exploring Two Northern Irish Accents
 hCV_oGQjV4k 21:21 What is 'Historical Accuracy'?
 Mn9Ch78keo4 24:59 Unpicking Some Aspects of 'Þæs Anhagas Siþ'
@@ -3924,6 +3925,8 @@ O_7H162D9fI 30:56 Trial by Jury by Gilbert and Sullivan
 
 # Brandon Acker
 r5K0nxMjFWU 6:03 My Favorite Baroque Piece 🎶
+
+upy9dA5uD-U 5:36:54 The Once And Future King by T.H. White (Radio Drama)
 
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977

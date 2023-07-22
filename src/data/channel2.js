@@ -4,9 +4,22 @@ export const episodes: Array<string> = [
   `
   -Ms1an9I-Ok 45:03 The Canterbury Tales General Prologue, complete reading (Middle English)
   lCRi3tB4uSU 2:03:04 The Knight's Tale, from the Canterbury Tales, complete Middle English reading
+  vL6NgxKv6R8 36:37 The Miller's Tale (Canterbury Tales), read in Middle English (complete reading)
   4cDVjJqesys 22:26 The Reeve's Tale (Canterbury Tales), read in Middle English (complete)
   F6Gzi7BRnbU 2:18 The Cook's Prologue (Canterbury Tales), read in Middle English
+  `,
   `
+  Cw6vJPLk6sM 17:25 The House at Pooh Corner - read by Norman Shelley - Chapter 1
+  tKZRHKLrBJc 16:58 The House at Pooh Corner - read by Norman Shelley - Chapter 2
+  vkmRt2HEHeU 16:15 The House at Pooh Corner - read by Norman Shelley - Chapter 3
+  qn5s8nI67RE 19:28 The House at Pooh Corner - read by Norman Shelley - Chapter 4
+  IrETKMx38to 19:44 The House at Pooh Corner - read by Norman Shelley - Chapter 5
+  cRpA3PuH8T0 18:09 The House at Pooh Corner - read by Norman Shelley - Chapter 6
+  1v0s8PTGH7g 19:32 The House at Pooh Corner - read by Norman Shelley - Chapter 7
+  izomS5SgaG8 17:35 The House at Pooh Corner - read by Norman Shelley - Chapter 8
+  K_h6BhkKE-U 16:18 The House at Pooh Corner - read by Norman Shelley - Chapter 9
+  tQhCqByiv-M 16:06 The House at Pooh Corner - read by Norman Shelley - Chapter 10
+  `,
 ]
 
 export const videos: string = `
@@ -24,6 +37,10 @@ export const videos: string = `
 # mh1wgTAa_Fw 8:52:56 J. K. Rowling: Harry ​Potter és a Bölcsek Köve (Teljes hangoskönyv)
 # aP_3BZxWz9k 1:17:44 Wind in the Willows - Derek Jacobi [Abridged]
 k5onUh_4qv8 6:55:28 The Wind in the Willows [Full Audiobook] by Kenneth Grahame
+WScPMDMBM9Q 1:15:53 Kensa Kernewek - Volume 1 (CD, 2006)
+UxEvRoAaYBM 1:42:53 Dao De Jing or Tao Te Ching - Book of the way
+POSkU5goGXE 2:20:56 Winnie-the-Pooh (Version 2) by A. A. Milne read by Matthew Soanes | Full Audio Book
+bnp9U16h_IM 2:54:44 The House at Pooh Corner Unabridged Audiobook
 
 # bws8BIteUhQ 35:44 Viisasten kivi - 1. luku
 # lpALOAEzfrI 27:27 Viisasten kivi - 2. luku
