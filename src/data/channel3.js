@@ -669,7 +669,13 @@ export const episodes: Array<string> = [
     ku0P5Fdv0Tk 2:38 Cirque Du Soleil O, O
   `,
   `
-    IYbE2coMZPc 52:50 Íslandsklukkur (Instrumental Icelandic Folk Music)
+    # Here we use time slices to replace the instrumental version of Ólafur
+    # Liljurós with the sung version.
+    IYbE2coMZPc 0-7:33 Íslandsklukkur (Instrumental Icelandic Folk Music)
+    QwfI6nvCShI 3:37 Ólafur Liljurós - Íslandsklukkur Icelandic folk music with Lyrics
+    # rfjaob7FsTg 3:29 "Ólafur Liljurós" Icelandic Viking Folk Song (Lyrics)
+    IYbE2coMZPc 11:09-52:50 Íslandsklukkur (Instrumental Icelandic Folk Music)
+    lqwybpJgnPg 3:50 Íslandsljóð - The Iceland Song
   `,
   `
     KwAvU70ZhtQ 5:47 I Mada

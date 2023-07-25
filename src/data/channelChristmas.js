@@ -19,6 +19,10 @@ export const episodes: Array<string> = [
 ]
 
 export const videos: string = `
+nG2O7b1_FeI 3:51 L'amour de moi si est enclose II
+POxFVsrEZQo 3:11 Hellas il est pic de ma vie
+jtITD1l2GCY 2:59 Venite a laudare, laude
+voy1pYCw9v8 3:01 Dal ciel venne messo novello, laude instrumental
 CThjvN0snQ4 2:46 YULE - In Dulci Jubilo - Celtic Harp , Guitar , Lute
 N5IG0874s2Q 2:24 WASSAIL - Sussex Carol - Celtic Harp , Guitar and Lute
 Ao0CtiGxVHE 2:14 THE CELTIC CONSORT - Ev Chistr LAOU - Celtic Harp , Lute and Guitar
