@@ -3923,6 +3923,7 @@ e5nmssekZII 2:47:13 The Grand Duke, by Gilbert and Sullivan (2012 production)
 ms9aoiyTJpY 1:58 Shche ne vmerla Ukrainy [Ukrainian National Anthem] - the New London Opera Group
 Ssg6tJC5hqU 56:32 Cox & Box, 2006
 O_7H162D9fI 30:56 Trial by Jury by Gilbert and Sullivan
+h6AtEIuagK-k 2:04:21 The Mikado 1966 (Speed corrected) D'Oyly Carte Opera Company Gilbert & Sullivan
 
 # Brandon Acker
 r5K0nxMjFWU 6:03 My Favorite Baroque Piece 🎶
@@ -4015,6 +4016,9 @@ bnp9U16h_IM 2:54:44 The House at Pooh Corner Unabridged Audiobook
 
 # hykA1SLAkbc 1:18:21 Mabinogion - walesi legendák. A Mabinogi első ága [hangoskönyv]
 ozQCUwofCXw 36:55 Branwen Uerch Lyr
+
+# Alan Watts Lectures
+NpHqYnFELLE 52:55 Alan Watts - What Is Reality?
 `;var ns={};wn(ns,{episodes:()=>Ug,videos:()=>Lg});var Lg=`
 Uw85aNJabkE 43:55 King Crimson - In the Court of the Crimson King (Original Master Edition)  2004
 cCXWuAm-cqA 1:15:08 In Gowan Ring - The Twin Trees (1997) [FULL ALBUM]
@@ -4392,7 +4396,13 @@ JE913dPe_9M 7:38 moondragon/Lordryk Demo Vroe Management. Track#1 Chaotic
     1GCzME-a9sU 7:51 Cirque Du Soleil O, Desert
     ku0P5Fdv0Tk 2:38 Cirque Du Soleil O, O
   `,`
-    IYbE2coMZPc 52:50 Íslandsklukkur (Instrumental Icelandic Folk Music)
+    # Here we use time slices to replace the instrumental version of Ólafur
+    # Liljurós with the sung version.
+    IYbE2coMZPc 0-7:33 Íslandsklukkur (Instrumental Icelandic Folk Music)
+    QwfI6nvCShI 3:37 Ólafur Liljurós - Íslandsklukkur Icelandic folk music with Lyrics
+    # rfjaob7FsTg 3:29 "Ólafur Liljurós" Icelandic Viking Folk Song (Lyrics)
+    IYbE2coMZPc 11:09-52:50 Íslandsklukkur (Instrumental Icelandic Folk Music)
+    lqwybpJgnPg 3:50 Íslandsljóð - The Iceland Song
   `,`
     KwAvU70ZhtQ 5:47 I Mada
     pQbaGFsSe8c 4:47 Wassiye
@@ -4630,6 +4640,10 @@ if6iWVgR8h4 19:58 Silent Meditations (20 min) | 4 intervals
     PB6MYWOao-8 5:24 Johnny Seoighe
     hcOB2m4lBqk 3:01 The Dove's Return
   `],Fg=`
+nG2O7b1_FeI 3:51 L'amour de moi si est enclose II
+POxFVsrEZQo 3:11 Hellas il est pic de ma vie
+jtITD1l2GCY 2:59 Venite a laudare, laude
+voy1pYCw9v8 3:01 Dal ciel venne messo novello, laude instrumental
 CThjvN0snQ4 2:46 YULE - In Dulci Jubilo - Celtic Harp , Guitar , Lute
 N5IG0874s2Q 2:24 WASSAIL - Sussex Carol - Celtic Harp , Guitar and Lute
 Ao0CtiGxVHE 2:14 THE CELTIC CONSORT - Ev Chistr LAOU - Celtic Harp , Lute and Guitar
