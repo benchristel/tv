@@ -27,7 +27,7 @@ videos =
     :
       [...document.querySelectorAll("ytd-rich-grid-media")]
         .map((v) => {
-          const link = v.querySelector("#thumbnail")?.href ?? "";
+          const link = v.querySelector("a#thumbnail")?.href ?? "";
           const id = /v=(.{11})/.exec(link)?.[1];
           const time = v
             .querySelector(
