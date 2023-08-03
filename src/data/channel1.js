@@ -2244,6 +2244,8 @@ jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 2MWNLYa_bqM 3:16 Electricity Comes To Ystradfellte
 CPLWbeUq8Z0 2:32 Harold Macmillan
 
+Y5WkbmDDzwk 42:16 HTV Cymru Wales Interval Junction into Miri-Mawr (c. 1975)
+
 # Simon Roper
 bL9sBWz2Uqs 40:54 Footage of birds, insects and rain
 -99-lRGIFeg 38:27 Exploring Two Northern Irish Accents
@@ -2577,7 +2579,38 @@ HVHceitbQsw 3:22 Stadstuinieren - Bloemen, kruiden en sla voorzaaien - begin apr
 
 # Alan Watts
 
-53k--lN1QmE 2:03:35 It just is - nature of consciousness Alan Watts Black Screen, No Music
+hz6dIFkeeto 54:06 Alan Watts | Turning the head (on drugs)
+UC9MJ1HobpU 26:37 Alan Watts | Swallowing a hot ball of iron
+sgDc7s8w-os 15:23 Alan Watts | Ecology and religion
+NwHSrModwgY 49:49 Alan Watts | Seeing through the net
+qGNa1URj0Fw 5:01 Alan Watts | The universe is a matter of form
+YmL7BuYHlFI 6:02 Alan Watts | You must draw the line somewhere
+afLevQv5kwk 52:06 Alan Watts | Jesus, his Religion
+tw3v4lT4DFk 5:06 Alan Watts | In the real universe there are no 'things'
+LJ_aiu0dBOE 1:52 Alan Watts | Still the mind
+DceMK3OI4fM 11:44 Alan Watts | A finger pointing at the moon
+7TtvTkRKXAM 1:27:36 Alan Watts | The Art of Meditation Full
+VSsRIdHU5JA 9:33 Alan Watts | Consider death now [NL. ondertiteld]
+foZQSfYSSiE 6:20 Alan Watts | The thinker [NL. ondertiteld]
+sL-cLpGYN3s 1:47 Alan Watts | Basics of meditation 4- Let's all just laugh
+6W-FDGk-oXs 5:09 Alan Watts | Basics of meditation 3
+AvJvn5DuIJ8 8:52 Alan Watts | Describes his metaphysics
+zRZsabTkQxU 3:55 Alan Watts | Basics of meditation 2
+yeSSA7GhNFg 6:11 Alan Watts | Basics of meditation
+JsUDa44fyeY 3:22 Alan Watts | Buddism is a dialogue, Bodhisattva
+4LLO64pIB-s 28:06 Alan Watts | The Taoist way of Karma
+H3z-AsjPT10 9:36 Alan Watts | That which ís of itself
+7gpw3BzlBc0 13:43 Alan Watts | Opposites are mutually dependent
+O-ZWqajCeJ4 25:45 Alan Watts | Images are at the root of thinking
+NfN4bc_v8zU 22:48 Alan Watts | Faith
+s6BTEUqksxs 26:03 Alan Watts | You are required to do what is expected, voluntarily
+vGZu1Lhb2O8 55:26 Alan Watts | We need a new kind of consciousness
+3-71zlq0SDQ 0:30 Alan Watts | We're carried along
+2y6A3MaoaIs 25:22 Alan Watts | Images of God, " She is black "
+swmxGx9Fp68 1:53 Alan Watts | I have nothing to teach you
+q2g25Ydaw30 2:10 Alan Watts | Get with it (incl. Nederlandse ondertiteling und Deutscher Untertitel)
+hmzIhILujwk 2:02 Alan Watts | Eventually rocks come alive
+RKJMwRnx0TY 3:23 Alan Watts Philosophy: The discussion of trivia
 
 # Orchestra of the Age of Enlightenment
 
