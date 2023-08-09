@@ -7,6 +7,7 @@ export const episodes: Array<string> = [
   vL6NgxKv6R8 36:37 The Miller's Tale (Canterbury Tales), read in Middle English (complete reading)
   4cDVjJqesys 22:26 The Reeve's Tale (Canterbury Tales), read in Middle English (complete)
   F6Gzi7BRnbU 2:18 The Cook's Prologue (Canterbury Tales), read in Middle English
+  CzSbHVFMr8o 3:14 The Cook's Tale, from the Canterbury Tales, read in Middle English
   `,
   `
   Cw6vJPLk6sM 17:25 The House at Pooh Corner - read by Norman Shelley - Chapter 1

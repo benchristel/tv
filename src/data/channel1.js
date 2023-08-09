@@ -1853,6 +1853,45 @@ N7w4TWtE3zw 0:43 Jon and Alfie at 'Gidley Studios' Day 1
 ZTZYwZlezz8 5:05 Jon & Alfie: "Banish Set" Live
 Fb-Y1Tm1r7g 4:26 Jon & Alfie Banish Set
 
+# Jamie Smith's Mabon
+
+chXgrPrEEy4 48:47 Jamie Smith's MABON: Full Concert LLANGOLLEN EISTEDDFOD // Cyngerdd Lawn EISTEDDFOD LLANGOLLEN 2019
+cc1SNCOTyRw 8:31 Jamie Smith's MABON - 'Frank's Reels' - WOMADalaide 2019 - Soundman's Eye View!
+UMQrkpEzNfk 1:05 Jamie Smith's MABON -
+89zy2LtjV48 4:48 Jamie Smith's MABON - Live at Shrewsbury Folk Festival
+RJS9Acv2oQw 5:19 Jamie Smith's MABON - The Accordionist's Despair
+7X1A1Unx6fQ 5:21 Jamie Smith's MABON - 'YR ENNYD' - Notre Dame de Gravenchon, Rouen, Normandy.
+boNeX72tKeE 2:58 Jamie Smith's MABON - BBC WALES ARTS REVIEW 2014
+a7k6NvY95fg 2:50 Jamie Smith's MABON - 'DRUM 'ND BREIZH' S4C Stiwdio Gefn
+zGTwtli-1VY 3:12 Jamie Smith's MABON - 'CROESO IOAN' - S4C Stiwdio Gefn
+VQI8dDn4DkU 6:33 Jamie Smith's MABON - The tale of Nickolai the dancing bear.
+86LbpfVOxFQ 1:27 Jamie Smith's MABON - 'The Space Between' - Crowdfunder Video 2
+4kpZ0H7E2_Y 5:13 Jamie Smith's MABON - Festival Interceltico de Sendim, Portugal
+uXABv1yKjJ0 1:48 Jamie Smith's MABON - Festival Season!
+gVRS__rk68g 3:12 Jamie Smith's MABON - Gareth and Aoife's - Heno, S4C
+WdUJOC_Y5og 4:49 Jamie Smith's MABON - The Gordano Ranter - Festival Interceltique de Lorient 2013
+fjYEyveaoSA 2:45 Jamie Smith's MABON - Super Mega Bonus Reel - Music Meeting, Nijmegen 2013
+fhmqAqOzcbY 6:57 Jamie Smith's MABON - Caru Pum Merch - Pontardawe Arts Centre
+w19bi_wyhRI 7:41 Jamie Smith's MABON - Easy on the Reels - Cwlwm Celtaidd Festival 2013
+_d2RXAdl4mQ 4:22 Jamie Smith's Mabon vs The Lighting Man!
+afiL2dfiIQk 4:41 Jamie Smith's MABON - Galician Stylee - Peel Centenary Centre, Isle of Man 2011
+nXmokyUVcu4 5:12 Jamie Smith's MABON - Huzzah! - Bridport Arts Centre 2011
+Qdc3Ocg7mvY 4:26 Jamie Smith's MABON - The Gordano Ranter - The Grand, Clitheroe 2011
+hyXl6lfvsGY 8:11 Jamie Smith's MABON - Tunnag's Tunes - The Plough Arts Centre, Torrington 2011
+ZkQLxcf9zvE 4:19 Jamie Smith's MABON - Hummingbird - Wedi 7, S4C
+8uGuvqG4_XU 5:03 Jamie Smith's MABON - The Buck Rarebit - Horo Gheallaidh, BBC Alba
+-rZEdkK31oY 4:24 Jamie Smith's MABON - The Hustler - Horo Gheallaidh, BBC Alba
+xXL2sK3VjPo 5:12 Jamie Smith's Mabon - The New Set - St Davids Hall, Cardiff 2011
+CK_ucA9_LMk 5:50 Jamie Smith's Mabon feat. The Mabonettes - File Under Biddley - WOMAD Charlton Park 2011
+a0HBhMFs1eo 3:43 Jamie Smith's Mabon feat. The Mabonettes - Fiddlers Despair - WOMAD Charlton Park 2011
+OyPvvU6UPS4 4:43 Jamie Smith's Mabon - The Gordano Ranter - Small Nations Festival 2011
+r1OsJRg8HMs 4:56 Jamie Smith's Mabon - The Buck Rarebit - Llangollen International Music Eisteddfod 2011
+4WO2PKHyLUA 5:04 Jamie Smith's Mabon - Galician Stylee - Small Nations Festival 2011
+YWnDjPLEbd4 9:53 Jamie Smith's Mabon - Whiskey Burp Reels - Priddy Folk Festival 2011
+v9pK4BB1shY 4:22 Jamie Smith's Mabon - The Hustler - Chester Folk Festival 2011
+kjiNqaVBH-I 4:52 Jamie Smith's Mabon - Galician Stylee - Live at Celtic Connections 2011
+iBwk-WNSBw4 9:23 Jamie Smith's Mabon - Whiskey Burp Reels - Live at Celtic Connections 2011
+
 # Pellwolok an Gernewegva
 
 hST4dBO3u8s 31:05 An Mis 59 - mis Gortheren / July 2022
@@ -2245,6 +2284,51 @@ jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 CPLWbeUq8Z0 2:32 Harold Macmillan
 
 Y5WkbmDDzwk 42:16 HTV Cymru Wales Interval Junction into Miri-Mawr (c. 1975)
+
+# Ddoe am ddeg
+5WQU2gh6jzM 0:45 Tŷ Mawr Wps!
+XKWR8SPjy6Y 3:30 Sbwng Dagrau
+KLN9uiT95MU 1:01 Trasiedi Bychan: Monopoli
+0rySktDG3nE 2:10 Rownd a Rownd - Y Mŵfi
+K63q8qLbh2I 3:47 Melfed a'r Meirw
+10djyVQlnd8 2:47 Cymraeg i Ysbrydion
+PPLgulxuhZs 2:54 Yr Unig Ffordd yw Edern
+lMKRiUeQHbA 1:45 69 gyda Lisa
+pephjceYVyQ 1:54 Cefnogwch apêl loncian McGurk - o Aber i Aber
+RgAgfVlMs4s 2:46 Seremoni Graddio Watkins
+Yo1_dVO5EKQ 2:34 Watkins yn mynd am beint
+ndAi-BlpSTs 1:53 Lisa'n holi am syniadau Steddfod Dinbych
+csKxeDSK4UU 0:57 Dy Siop Fechan Leol
+OVsEAxSgTVM 0:56 SRG RIP OMG LOL
+BESjNRFGbAI 1:43 Gwaredwch newyn - cymrwch fath
+YdlmJZcthek 0:55 Shampŵ Fformiwla
+V-YFaZV0ZqA 2:20 Gêm Sbeisys Sbeisdref Rhuthun
+MeWh8aDCgpY 2:30 Watkins yn y Rhyng-gol
+-TfPmVlQy2w 3:30 Adolygiad o Dân - yn FYW o Abertawe
+fVnO-BEGwkU 1:33 Solomon, Gaenor... a Barry
+pvoFoau4zHY 3:22 O Holyhead i Hollywood
+UGxjrdcaRcw 0:54 Cliwdo SRG
+WdX5CsOo8tY 1:33 Lisa yn rhoi trigolion Bala ar y Titanic
+UMcB-S-q60A 0:33 Hedd Wyn II - trasiedi bychan
+qYz85kixDSw 2:31 Watkins yn mynd i barti gwisg ffansi
+QtHKhLvXl14 3:19 Adolygiad o'r Testament Newydd - yn FYW o Gaerdydd
+hOusJunNlDg 2:22 Trabant â'r Sbeisrac i Ddinbych
+cwIECiEfD7g 0:49 Williams Tomos Pari
+wqlDPbIDzwM 1:56 Lisa ar strydoedd Caerfyrddin
+Ue_6zszQFio 1:42 Apêl Ffish Ffingyrs
+S--W85C7CGI 2:54 Darlith hanes Watkins
+eClf0o9zvXg 2:30 Apêl Haen o Hyder
+bXXt32PMboE 1:52 Tethe Hwyrach
+PwBv2df-rKA 1:27 Hambon Ffactor - yn fuan ar S4C
+3NjkLOxzJ24 3:52 Yn fyw o Gorris: Amgueddfa yr Olwyn
+Fe2w7XIT364 2:31 Watkins - Stiwdant y'ch chi?
+H3YW9P7ji-c 1:16 Le Chais Noir - Y Gadair Ddu
+6r1_bEvcU18 2:25 Ginger & Black - Mabwysiadu
+O8GhABv8wmc 2:31 Ginger & Black - Paid â neidio!
+hXzQ14F7duE 0:51 Taid: Heddiw Yfory am Ding Ding, Diwedd yr Ornest
+LmuwIHLlvHA 1:21 Taid ar yr weiarles bictiwrs
+Z3YnTACNLHI 0:21 Mr Picton
+EVjSAn-TFT8 0:30 Syr Wynff a Plwmsan
 
 # Simon Roper
 bL9sBWz2Uqs 40:54 Footage of birds, insects and rain
