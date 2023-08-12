@@ -845,6 +845,31 @@ export const episodes: Array<string> = [
     99HpCbnMF2k 2:17 Ave Maria, canon
     w75BoSNlJ2M 2:26 Kyrie, rondeau
   `,
+
+  `
+    # Guillaume de Machaut : Voyage au cœur du Moyen Âge - Obsidienne
+    62HkSO_Ovws 2:23 Ma fin est mon commencement - Rondeau - Guillaume de Machaut
+    RB0s2UvRLdk 2:35 Dame, se vous m'estes lonteine
+    nT6XeItIGlU 11:02 J'aim la flour de valour - Lai de Guillaume de Machaut
+    sTT8aGG9tpI 2:07 Le parchet / Sanz cuer men vois
+    J0nsONPbgmw 3:17 Dame, a vous sans retollir
+    jdf6LLIv1nE 2:26 Moult sui de bonne heure née
+    ugwTIDd940E 2:33 Joie plaisence et douce norriture
+    F4ItuVhV_Q0 0:53 Pour quoy me bat mes maris
+    c6J7OEcrw6I 2:37 Se j'aim mon loyal ami / lasse comment oublieray / pour quoy me bat mes maris
+    uvcF4yEYUGM 1:21 Phyton le mervilleus serpent (Texte)
+    c4iBeXXDHuA 2:29 Phyton le mervilleus serpent
+    4bp2h8-nEgM 2:03 Dame ne regardes pas
+    u036Cw2sSCc 3:04 De bonté de valour
+    MR2MiV_Kc3U 1:42 J'aim sans penser
+    QagJ3YzBgvI 2:21 Je ne cuit pas
+    7roN76LtDr0 4:26 Tels rit au main qui au soir pleure
+    cfzV327Rzls 1:47 Ite missa est (Messe Notre Dame)
+    IIEqhAkGfV8 2:55 Douce dame jolie
+    g_qpcyNnxno 4:22 David
+    UUODYF0G-1s 3:04 Nes que on porroit les estoiles nombrer
+    RFx03DCICPM 1:24 Ma fin est mon commencement (Instrumental)
+  `,
   // `
   //   1tW-h3GTE7E 0:00-48:57 Nepali Folk Songs Instrumental Music
   // `,
@@ -967,6 +992,16 @@ export const episodes: Array<string> = [
     PxDzYJQ2DkQ 2:30 Renaissance music - Schiarazula Marazula
     hApROcR510k 3:26 Renaissance music - Greensleeves
     LePaNDiie-w 3:33 Medieval music - Saltatio mortis by Arany Zoltán
+  `,
+  `
+    # Music from the Reign of Henry VIII
+    891PFtgdW2w 2:31 En vray amour
+    7AgesfSWxJY 1:40 If love now reigned
+    L2SlgDpi6Bs 1:22 Laissies Parler
+    9rRKYeZJXJg 0:53 The Emperor's Pavyn
+    cKCLZSQM1VY 1:22 Helas Madame
+    XsVOJWi-XDU 1:34 Gentil prince
+    SV-12mVuDqQ 1:19 The King's Pavyn
   `,
   // `
   //   # Arany Zoltán - Laus Pannoniae
