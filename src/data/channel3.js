@@ -1,13 +1,25 @@
 // @flow
 
 export const videos: string = `
+# Full album videos
+
 # Uw85aNJabkE 43:55 King Crimson - In the Court of the Crimson King (Original Master Edition)  2004
+BecZdQvjGrY 54:49 In Gowan Ring - Compendium (Full Album)
 cCXWuAm-cqA 1:15:08 In Gowan Ring - The Twin Trees (1997) [FULL ALBUM]
+B3oAx9VmAdA 43:52 In Gowan Ring - Hazel Steps Through A Weathered Home
 RqKtDn5ntms 53:37 Genesis - Selling England by the Pound (Full Album) 1973
 54PIvzGOlmo 44:52 Moondragon - Synaesthesia (1996)
 c8gylOvjVoM 31:59 Moondragon - Moondragon (their first album)
 2F37ZjThB6s 1:13:09 Moondragon - Dream (1991)
 # dfkTPeaVU50 1:09:01 Lordryk (Moondragon) - Combined Chaos (Live)
+
+# Singles
+
+Gf1RHyuuLnI 4:59 Kirsten Bråten Berg - Heiemo og Nykkjen(folkesang)
+Tt8p5AxJn18 4:14 Sinéad O'Connor - Mna na h Eireann (Women of Ireland)
+Dhgi3wb_GB8 4:25 Ripoff Raskolnikov - Azt gondoltam eso esik
+apE1n63ZhMQ 3:39 Muzsikás: Repülj madár, repülj (Fly Bird, fly) + pics of Hollókő (read the info)
+8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan
 ` 
 // + `
 // # Arany Zoltán
@@ -124,8 +136,6 @@ c8gylOvjVoM 31:59 Moondragon - Moondragon (their first album)
 // `
 
 export const episodes: Array<string> = [
-  `BecZdQvjGrY 54:49 In Gowan Ring - Compendium (Full Album)`,
-  `B3oAx9VmAdA 43:52 In Gowan Ring - Hazel Steps Through A Weathered Home`,
   `
     # In Gowan Ring - The Glinting Spade
     GCglHYJb2Yk 5:34 Two Wax Dolls
@@ -864,6 +874,41 @@ export const episodes: Array<string> = [
     UUODYF0G-1s 3:04 Nes que on porroit les estoiles nombrer
     RFx03DCICPM 1:24 Ma fin est mon commencement (Instrumental)
   `,
+  `
+    gaHpnjhVGvI 5:17 Sen calar (arr. C.A. Fulton)
+    In7PYhfQ3Kk 2:38 Alborada Gallega
+    QjYy6fBWSBs 4:15 Sen meu amigo
+    S_2syRuw87E 3:08 Alvorada
+    1dXuhU9RGZ0 6:18 Enas verdes ervas
+    tuoVTRWJtxQ 2:38 Por Deus
+    CNo0CYAWmnM 8:35 Cantiga de Santa Maria 11, "Macar ome per folia" (arr. C.A. Fulton, K. Higginson, S. Kammen and...
+    AkMRKKfnwfg 1:41 Levantous' a velida
+    MelUCr7TVXs 4:16 Bailemos nos ja todas
+    XP3jM0yPupo 5:00 Cantigas de Amigo (arr. for vocal ensemble) : No. 1. Ondas de mar de Vigo
+    XPYfy9jp4bw 1:23 Cantigas de Amigo (arr. for vocal ensemble) : No. 2. Mandad' ei comigo
+    d4MmgyCqU4g 2:26 Cantigas de Amigo (arr. for vocal ensemble) : No. 3. Mia irmana fremosa
+    Eru5th_a0Bc 4:20 Cantigas de Amigo (arr. for vocal ensemble) : No. 4. Ai Deus, se sab' ora meu amigo
+    TCP8xZ6dfE0 2:21 Cantigas de Amigo (arr. for vocal ensemble) : No. 5. Quantas sabedes amare amigo
+    otrmxo5NyiE 3:46 Cantigas de Amigo (arr. for vocal ensemble) : No. 6. Eno sagrado en Vigo
+    XorXlx8VTPE 2:25 Cantigas de Amigo (arr. for vocal ensemble) : No. 7. Ai ondas que eu vin veere
+    ksc8DYfSNUU 5:02 Cantigas de Santa Maria: No. 10. Rosa das rosas e Fror das frores (arr. C.A. Fulton)
+  `,
+  `
+    GZTQ1CVTBCM 4:47 En avril au tens pascour
+    zfsTIz1wWCw 3:10 La seconde estampie royal
+    tjVTbTYHcEI 2:12 S'Onques nuls hoem
+    BUv5x3yUpPs 4:59 Flos pudicitie
+    WK19j9k8IFs 7:17 DS 11:11
+    vVFRL-dVD7Q 2:16 Danse Royale I
+    NjD1Cytp4FY 2:02 Si tost c'amis
+    07UvnGUEf54 1:32 Danse Royale II
+    aSGq-ZkiswE 2:24 El tens d'iver
+    SFGvDXTP1XQ 4:48 Retrove
+    MKH9QuD5_lA 6:30 Espris d'ire et d'amour
+    _5whdjxlees 4:06 La prime estampie royal
+    WSQ6_C6NyP8 2:33 La ultime estampie real, la septime estampie real
+    UVdhyWknqJE 3:41 Trop est mes maris jalos
+  `,
   // `
   //   1tW-h3GTE7E 0:00-48:57 Nepali Folk Songs Instrumental Music
   // `,
@@ -1016,11 +1061,4 @@ export const episodes: Array<string> = [
   //   p04J_qiu9J0 3:00 Serény Magyaros
   //   nei4wYohZqA 4:54 Hungarian folk song - Átalmennék a Dunán
   // `,
-
-  // SINGLES ==============================================
-  `Gf1RHyuuLnI 4:59 Kirsten Bråten Berg - Heiemo og Nykkjen(folkesang)`,
-  `Tt8p5AxJn18 4:14 Sinéad O'Connor - Mna na h Eireann (Women of Ireland)`,
-  `Dhgi3wb_GB8 4:25 Ripoff Raskolnikov - Azt gondoltam eso esik`,
-  `apE1n63ZhMQ 3:39 Muzsikás: Repülj madár, repülj (Fly Bird, fly) + pics of Hollókő (read the info)`,
-  `8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan`,
 ]
