@@ -1,19 +1,13 @@
 // @flow
 
 export const videos: string = `
-Uw85aNJabkE 43:55 King Crimson - In the Court of the Crimson King (Original Master Edition)  2004
+# Uw85aNJabkE 43:55 King Crimson - In the Court of the Crimson King (Original Master Edition)  2004
 cCXWuAm-cqA 1:15:08 In Gowan Ring - The Twin Trees (1997) [FULL ALBUM]
 RqKtDn5ntms 53:37 Genesis - Selling England by the Pound (Full Album) 1973
 54PIvzGOlmo 44:52 Moondragon - Synaesthesia (1996)
-XrSTAMyh38U 6:24 Moondragon on Lives Of Our Own 1991
 c8gylOvjVoM 31:59 Moondragon - Moondragon (their first album)
 2F37ZjThB6s 1:13:09 Moondragon - Dream (1991)
-dfkTPeaVU50 1:09:01 Lordryk (Moondragon) - Combined Chaos (Live)
-3CB-zoxepfs 8:05 Moondragon - Live at The Helston Festival (1990)
-fNA8CBiyIUE 6:15 xsaylent, Moon Dragon
-_K36zB76oco 4:55 again moon dragon
-1W9ArKuJqms 10:27 Trance. Moondragon.
-JE913dPe_9M 7:38 moondragon/Lordryk Demo Vroe Management. Track#1 Chaotic
+# dfkTPeaVU50 1:09:01 Lordryk (Moondragon) - Combined Chaos (Live)
 ` 
 // + `
 // # Arany Zoltán
@@ -1003,6 +997,10 @@ export const episodes: Array<string> = [
     XsVOJWi-XDU 1:34 Gentil prince
     SV-12mVuDqQ 1:19 The King's Pavyn
   `,
+  // `
+  //   BYOmfEYTUAg 21:52 Stevie Wonder - Songs In The Key Of Life (Side 2) - 1976 HQ Vinyl Rip - Technics 1200G / AT ART9
+  //   L9LLrGwYShg 21:00 Stevie Wonder - Songs In The Key Of Life (Side 1) - 1976 HQ Vinyl Rip - Technics 1200G / AT ART9
+  // `,
   // `
   //   # Arany Zoltán - Laus Pannoniae
   //   yLkxfw-NsYA 4:22 Bagolymadár

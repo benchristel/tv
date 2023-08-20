@@ -2331,6 +2331,7 @@ Z3YnTACNLHI 0:21 Mr Picton
 EVjSAn-TFT8 0:30 Syr Wynff a Plwmsan
 
 # Simon Roper
+oJE3Ium5Q7Q 22:42 Did Proto-Indo-European Really Only Have 2 Vowels?
 bL9sBWz2Uqs 40:54 Footage of birds, insects and rain
 -99-lRGIFeg 38:27 Exploring Two Northern Irish Accents
 hCV_oGQjV4k 21:21 What is 'Historical Accuracy'?
@@ -3746,8 +3747,39 @@ lxxlLqwCPDc 3:55 urbanology.com - an overview
 xdKFPA8SrKM 3:55 the scope of urbanology
 5uxAp1piXMY 7:17 urbanology: neighborhood collaboration
 
-# physics
-xdZMXWmlp9g 1:17:57 Richard Feynman on Quantum Mechanics Part 1 - Photons Corpuscles of Light
+# Feynmann Lectures
+# https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2
+EYPapE-3FRw 9:59 Feynman on Scientific Method.
+kd0xTfdt6qw 55:55 Richard Feynman - The.Character.of.Physical.Law - Part 2 (full version)
+NM-zWTU7X-k 5:37 Feynman: Knowing versus Understanding
+lr8sVailoLw 6:24 Richard Feynman Thinking Part 1 of 2
+MDZaM-Bi-kI 1:15:03 The reason for antiparticles - Richard P. Feynman
+xdZMXWmlp9g 1:17:58 Richard Feynman on Quantum Mechanics Part 1 - Photons Corpuscles of Light
+QkhBcLk_8f0 2:51 Great Minds: Richard Feynman - The Uncertainty Of Knowledge
+j3mhkYbznBk 56:04 Richard Feynman - The.Character of Physical Law - Part 1 The Law of Gravitation (full version)
+ZcpwnozMh2U 1:57:27 Richard Feynman: Quantum Mechanical View of Reality 1
+4eRCygdW--c 1:19:47 Richard Feynman "Tiny Machines" Nanotechnology Lecture - aka "There's Plenty of Room at the Bottom"
+M1TiXLGqlM4 1:31 Feynman and Reading
+E383eEA54DE 4:36 Richard Feynman on - philosophy, Why question, Modern science and Mathematics.avi
+OX1EK5IBSdw 57:53 Richard P. Feynman: Theory, Prediction, Observation
+VW6LYuli7VU 1:22 Richard Feynman talks about Algebra
+uY-u1qyRM5w 1:18:01 Richard Feynman Lecture -- "Los Alamos From Below"
+kW6rR9H9Vu8 41:31 Richard Feynman's Story of Particle Physics - 1973 Lecture
+iMDTcMD6pOw 1:15 You don't like it? Go somewhere else! by Richard Feynman, the QED Lecture at University of Auckland
+Ec03o-7rHLw 28:23 Richard P Feynman: Quantum Mechanical View of Reality 2 (Part 1)
+aAgcqgDc-YM 56:10 Richard Feynman - The Character of Physical Law - Part 6 Probability and Uncertainty (full version)
+EKWGGDXe5MA 1:15:47 Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics
+a6n0HSJ5jEE 56:01 Richard Feynman-The Character of Physical Law Part3: The Great Conservation Principles
+zQ6o1cDxV7o 57:03 Richard Feynman - The Character of Physical Law - Part4 Symmetry in Physical Law (full version)
+36GT2zI8lVA 7:33 Richard Feynman. Why.
+b9F8Wn4vf5Y 5:30 How did we find the speed of light?
+GNhlNSLQAFE 36:42 Richard Feynman - The World from another point of view
+euGp9quNqLU 9:11 Richard Feynman - Law of Gravitation - An Example of Physical Law part1
+LPDP_8X5Hug 9:46 Richard Feynman Lecture on Quantum Electrodynamics: QED. 1/8
+ZbFM3rn4ldo 1:44 Richard Feynman: The Beauty of the Flower
+lytxafTXg6c 0:44 Richard Feynman explains the feeling of confusion
+xdIjYBtnvZU 21:44 Feynman's Lost Lecture (ft. 3Blue1Brown)
+OL6-x0modwY 1:03 The Scientific Method-Richard Feynman
 
 # generative films
 08eEdgqbJns 5:48 [Richard P. Gabriel] The Beginning of Writers' Workshop
