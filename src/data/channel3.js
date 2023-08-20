@@ -711,4 +711,9 @@ export const episodes: Array<string> = [
     XsVOJWi-XDU 1:34 Gentil prince
     SV-12mVuDqQ 1:19 The King's Pavyn
   `,
+  `
+    # Dallas Simpson
+    M_-7FjNBZIY 8:57 Webster's Raft (Excerpt)
+    tmhPr0J-GmM 13:20 Waterpump (Aquapump)
+  `
 ]
