@@ -3,15 +3,22 @@
 export const videos: string = `
 # Full album videos
 
-# Uw85aNJabkE 43:55 King Crimson - In the Court of the Crimson King (Original Master Edition)  2004
 BecZdQvjGrY 54:49 In Gowan Ring - Compendium (Full Album)
 cCXWuAm-cqA 1:15:08 In Gowan Ring - The Twin Trees (1997) [FULL ALBUM]
 B3oAx9VmAdA 43:52 In Gowan Ring - Hazel Steps Through A Weathered Home
 RqKtDn5ntms 53:37 Genesis - Selling England by the Pound (Full Album) 1973
+jGZaH0JEiic 39:33 Genesis - Nursery Cryme (Full Album) 1971
 54PIvzGOlmo 44:52 Moondragon - Synaesthesia (1996)
 c8gylOvjVoM 31:59 Moondragon - Moondragon (their first album)
 2F37ZjThB6s 1:13:09 Moondragon - Dream (1991)
-# dfkTPeaVU50 1:09:01 Lordryk (Moondragon) - Combined Chaos (Live)
+dfkTPeaVU50 1:09:01 Lordryk (Moondragon) - Combined Chaos (Live)
+bnaTLcFpQnE 45:45 Manu Chao - Clandestino (Full Album)
+tIGW_TEwCXw 46:50 #TheBeatles #AbbeyRoad #1969
+08ozElWwpzc 35:28 Nektar - Remember The Future 1973 - Full Album - Digitally Remastered 2002
+npsgOn1QY1M 41:53 Pink Floyd - Dark side of the moon - HD - High Audio Quality (Full Vinyl Album)
+_zmeye7-HOE 48:54 Evanescence - Fallen (FULL ALBUM)
+p0D-w-HhB64 47:46 Dire Straits - Brothers In Arms {Reissue} [Full Album]
+Jl1_m1OtkpE 1:01:28 Brian Eno - New Space Music
 
 # Singles
 
@@ -21,119 +28,6 @@ Dhgi3wb_GB8 4:25 Ripoff Raskolnikov - Azt gondoltam eso esik
 apE1n63ZhMQ 3:39 Muzsikás: Repülj madár, repülj (Fly Bird, fly) + pics of Hollókő (read the info)
 8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan
 ` 
-// + `
-// # Arany Zoltán
-// a3oJ_SLmb6I 3:04 Folk music from Denmark - Ramund den unge
-// 6zpE0B_Bus4 4:40 Folk music from Greece I trata mas i korelou
-// Y2mCB34GtZI 3:57 Folk music from North Macedonia - Ete Majko
-// X9gQsu5buHw 2:55 Ancient world - Dancing Shiva
-// 6Gjb_qGPuKc 3:22 Renaissance music - Summáját írom
-// 4jo_Xg_tLQY 6:00 Medieval music - Stella Splendens
-// S9nRFnLeNXs 5:16 Ancient World - The Palace of Knossos
-// cpcinoVEERw 4:32 Italian traditional music - Tarantella del Gargano
-// Sldxk6HzNR4 3:54 Ancient world - Dur Sharrukin
-// T2l03poWeHU 3:41 Irish folk music : Father O'Flynn / Irish washerwoman / From the new country
-// tEEx62mKz-Y 3:02 Portuguese fado - Fado Faia
-// XXRLERuy1qY 4:44 Morena me llaman
-// Gi3C9jTgiG8 3:12 Macedonian folk music - Nevestinsko oro
-// QkLzCGs3bGs 4:10 Mandolin Madrigal
-// Qx67A7KJc7s 3:30 Mexican folk music - La Bruja
-// MqCG8VMljsI 3:38 Folk music from Asturias - Muiñeira de Tormaleo
-// r1jUxPkKd38 1:13:55 Medieval music
-// FHy0bDLw798 3:37 Folk music from Wales - Pibddawns y Tant
-// ciO1XyuHa1E 3:25 Dance of the Prince of Transylvania
-// Qgw-9dbvIE8 3:26 Folk music from Finland - Mansikka
-// qhm9ehxrTlo 3:46 Folk music from Italy - Tarantella Napoletana
-// XYh-HTjDOeQ 3:12 Folk music from Bulgaria - Kopanitsa
-// 1bHCAJVhLwI 3:42 Irish folk music - Dan Ab's slide / The Blackthorn Stick / Morrison's Jig
-// VQsGr-syVjo 2:48 Folk music from Sweden - Flodens död
-// vhMRL6RoAD4 4:11 Folk music from Brittany - An Dro
-// ldX2Ngdoq7I 3:26 Irish folk music - Rakish Paddy / Drowsy Maggie
-// rub0mQlDtlE 3:21 Folk music from Romania - La portiță la Gheorghiță
-// CfDLu6EDusk 3:32 Folk music from Normandy - Les garçons d'Hattenville
-// QDXVlhOJeD0 3:24 Folk music from Thracia - Alexandris
-// Eej4umuQ6LE 4:41 Irish folk song - Whiskey in the jar
-// TSffgNLi6-0 3:41 Folk music from Venezuela - El Morere
-// zMGf6dqgdO0 3:23 Folk music from Iceland - Sofðu unga ástin mín
-// NMFH-zoPto0 3:30 Scottish folk music - The Bonnie Ship The Diamond
-// jMmAyIqViHw 3:19 Irish folk song - Finnegan's wake
-// QYDXciIw9Ug 5:16 Macedonian folk music - More sokol pie
-// vUQTKiIV71A 2:29 Folk music from Poland - Hej szalała szalała by Arany Zoltán
-// bid_GYJcgjA 2:34 Ancient Greek music - The Seikilos epitaph
-// NQljqVUk2F8 4:22 Ancient world - The Phoenician Wedding
-// RkgHTZ4VD7w 3:24 Arany Zoltán - Mediterranean - Paloma Mensajera ( Spain )
-// x1y0aj43B8U 2:41 Medieval music - In taberna quando sumus
-// KkhLTOgLnko 3:25 Irish folk music - Kid on the mountain by Arany Zoltán
-// tNXiWcPbAuI 2:50 Fado from Portugal - Fado do Toureiro
-// qN-xSID3CKs 3:01 Arany Zoltán - Tarantella
-// bKPaOz1UvtA 6:40 Arany Zoltán - The Dolphin's Jig
-// kij_Y3ZgGSM 4:15 Arany Zoltán - Aegean blue
-// 0AjMqfxZncg 3:48 Gaelic folk song - Buachaill ón Éirne
-// I_oQzNioT7k 3:55 Greek folk music : Thalassaki mou
-// jzgU-dWK7Kg 3:33 Arany Zoltán & World Music Syndicate - Gamilia patinada
-// -nlkWWphiaM 4:39 Arany Zoltán & World Music Syndicate - La molinera
-// QelvkIsANTc 2:38 Arany Zoltán & World Music Syndicate : Celtic fairy dance
-// CESwhjFCbsI 4:01 Arany Zoltán & World Music Syndicate - Cooley's reel / The merry blacksmith / Cup of tea
-// Xewpvp91630 4:44 Arany Zoltán & World Music Syndicate - Black is the colour
-// DzBUzjucWu4 2:40 Folk music from Venezuela - El tigrito
-// lxemhnoeUVA 4:36 Ancient world - Gardens of Babylon
-// R3ir51hmmmE 2:36 Russian folk song - Dark eyes
-// pcv0hpkaOFY 43:10 Perro Negro
-// uMHJjPqO59Q 3:41 Folk music from Italy - Napoletana
-// sC2yEFpacIE 3:16 Hungarian folk music from Transylvania
-// mvsKycGUpNw 3:26 Irish folk music - Spanish lady by Arany Zoltán
-// PKsdjH0RmsU 4:28 Folk music from Scotland - Black is the colour
-// cK1e77vquco 1:50 Good morning
-// zGyVZOunVAg 3:05 Renaissance music - Sokféle részögösről
-// wJuxq-x4usk 4:09 The Irish Rover by Arany Zoltán
-// 8mDBSIDJZBM 5:22 Thracian folk music
-// i-Lm08sLEwM 2:36 Under the sea
-// AaM605kP3tU 3:37 Hungarian folk song - Akkor szép az erdő
-// qyF5eIkecSg 3:20 Folk music from Ecuador - Que doloroso
-// 81SgTHg66QY 3:40 Old Hungarian music - Militaris congratulatio
-// BaXFEhGT-4s 2:37 Folk music from Corsica - U scogliu di Santa Elena
-// nuV5Z28rlp0 1:07 Renaissance music - Je ne l'ose dire
-// sxhT6hmHW1I 3:04 Folk music from Sicily - Lu purtuni
-// gilalcUtP2c 3:28 Irish folk music - Rocky road to Dublin
-// p6_9LOUnFQw 4:06 Chinese folk music by Arany Zoltán
-// 5WokdenoUd8 4:10 La rosa enflorece by Arany Zoltán
-// 33NmYtVF3S4 3:05 Folk music from Macedonia - Dvajspetorka
-// fxTeoSlrXTg 2:14 Irish folk song - The raggle taggle gipsy
-// QTwjijTkiZs 2:32 Portuguese fado - Anda comigo
-// nQNhbi9KZfU 3:01 Hungarian folk music from Transylvania
-// GJaiIG5xPqg 2:51 Medieval music - Ich was Ein Chint so Wolgetan
-// -eAAMPAp0AE 3:52 Celtic folk music from Brittany - Tri martolod
-// T7Azt07__eE 4:02 Folk music from Bulgaria - Chetvorno
-// T8Q_QtfADZs 3:52 Celtic folk music from Cape Breton Island
-// fkgaF6Oj5Q4 3:54 Folk music from Greece - Tsifteteli
-// qfXMbZTMP4k 5:18 Folk music from Scotland - Ye Jacobites by name
-// Fudo3fpr0Dc 5:04 Folk music from Spain - La molinera by Arany Zoltán
-// mbY17Lr_wu4 3:47 Folk music from Turkey - Üsküdara
-// e8aQm3SoyI4 2:32 Medieval music - Saltarello
-// ek1PWKvgDZE 3:33 Irish folk music - King of the fairies
-// ZSgGZGt4r7Y 3:53 Medieval music - Totus floreo
-// zYl9eOBZIgs 2:48 Celtic mandolin music by Arany Zoltán
-// 6A7beekR_80 2:40 Bulgarian folk music - Sharena gaida
-// sAs3mh2Nmq0 3:13 Folk music from Sicily - Sciuri sciuri
-// rxoe1C0xg2o 3:39 Folk music from Sweden by Arany Zoltán
-// BalUi1MCKI4 5:08 Medieval music : pilgrim song - Stella splendens
-// I2yA-F-_A2E 2:17 Hungarian music from the 17th century
-// i3Fejzo7KWc 2:07 Celtic music from Brittany
-// P8dV0rC7p1w 1:43 Folk music from Armenia - Perepelka
-// Xk1W22yHLJQ 4:01 Medieval music - Troubadour love song
-// wt3FM5qEHa0 3:16 Folk music from Scotland - Cam Ye O'er Frae France
-// sZ5zKRPJB7M 2:14 Celtic music from Cape Breton Island
-// B0R_QL-X-Ck 3:49 Folk music from Macedonia - Tropnalno oro
-// ifHHOWnuL_A 2:49 Folk music from Greece by Arany Zoltán
-// 4gKSqVZ9AAs 3:46 Folk music from Bulgaria - Rachenitsa by Arany Zoltán
-// _aX555L37N8 2:36 Renaissance dances from Hungary by Arany Zoltán
-// sTijE8FpJa0 4:03 Irish folk music by Arany Zoltán
-// 3iJ6bxrLVos 4:05 Hungarian folk music
-// bVEV2y3e0nM 3:31 Folk music from Thracia - Hadrianopolis by Arany Zoltán
-// lQF0jfInbac 2:16 Hungarian folk music : bagpipe tunes by Arany Zoltán
-// bYu5_Q-Xn7w 4:03 Folk music from Ireland by Arany Zoltán
-// nepBS1mrc2A 3:46 Perro Negro : Rumba Catalán
-// `
 
 export const episodes: Array<string> = [
   `
@@ -146,30 +40,6 @@ export const episodes: Array<string> = [
     ZXK1NYbjozk 8:04 Arrowsmith's Fire
     2LjJzCTfaPo 12:31 Milk Star
   `,
-  // `
-  //   # In Gowan Ring - The Twin Trees
-  //   UT_RFFLZQt0 7:43 In Gowan Ring – Rivertime Tome
-  //   PKAq679Y4Dc 8:50 In Gowan Ring – One Silver Ring
-  //   qAHUytdB9dg 6:29 In Gowan Ring – Stone Song III
-  //   Fh3u050071M 6:38 In Gowan Ring – The Twin Trees
-  //   wSHJj79wUhY 10:18 In Gowan Ring – Lady Beyond The River
-  //   pxLzMC3LxI4 11:00 In Gowan Ring – By Moss Strand And Waterspathe
-  //   MsnojV6lHPI 10:49 In Gowan Ring – Cupped Hands Spell
-  //   -qfgGOMmwLo 6:25 In Gowan Ring – Our Rainbowed Paradox
-  //   JBasAvPr08c 7:10 In Gowan Ring – Still Water Bonne
-  // `,
-  // `
-  //   # In Gowan Ring - Love Charms
-  //   ljm3wcEUeIc 4:23 In Gowan Ring – Listen To Colours
-  //   9WnXQBigyWw 2:39 In Gowan Ring – Love Charms
-  //   Fx7MoHH72lA 5:11 In Gowan Ring – Spindle Tree (With Dreambox)
-  //   OqWS_5JFHn0 3:00 In Gowan Ring – A Swan Song
-  //   FM-YvrTrPz8 4:41 In Gowan Ring – Stone Song II
-  //   kMB5zA_klZE 2:07 In Gowan Ring – Dandelion Wine
-  //   w_u8WsgzNnU 9:04 In Gowan Ring – Within Rings (With Dreambox)
-  //   uAA4rUuZ-IA 6:37 In Gowan Ring – Of Water Wiverings
-  //   LAzCskIPtuc 15:01 In Gowan Ring – Urn And Water
-  // `,
   `
     # In Gowan Ring - The Serpent And The Dove
     Tr8BAGlGA1U 3:31 The Serpent
@@ -181,7 +51,6 @@ export const episodes: Array<string> = [
     FFPew-WtLI0 6:33 A Song, a Story and a Stone
     AlhtLYq4H5k 4:43 The Dove
   `,
-  // `obK-k848Vto 1:13:05 Heroes of Might & Magic IV - Official Soundtrack`,
   `
     # Heroes of Might & Magic IV
     cvyS50v2Uts 1:37 Main Theme - Heroes of Might and Magic IV
@@ -295,7 +164,6 @@ export const episodes: Array<string> = [
     KRMT5xQg7SY 2:48 Clear Or Cloudy
     WMCC8IzFSl8 4:13 In Darkness Let Me Dwell
   `,
-  `jGZaH0JEiic 39:33 Genesis - Nursery Cryme (Full Album) 1971`,
   `
     # Genesis - Trespass
     E7Z_xXh7gm8 7:04 Genesis - Looking For Someone (Official Audio)
@@ -305,20 +173,6 @@ export const episodes: Array<string> = [
     v719eZmXRdE 8:56 Genesis - The Knife (Official Audio)
     zhw1gm5-nt0 4:11 Genesis - Dusk (Official Audio)
   `,
-  // `VKmixRYUFBE 47:53 Wolf Parade - Apologies to the Queen Mary [FULL ALBUM STREAM]`,
-  // `KzPE54bO7Po 46:46 Wolf Parade - At Mt Zoomer [FULL ALBUM STREAM]`,
-  // `0yBIc0uRxtY 55:38 Wolf Parade - Expo 86 [FULL ALBUM STREAM]`,
-  // `
-  //   # Sunset Rubdown - Dragonslayer
-  //   6OPbEYljPLs 4:46 Silver Moons
-  //   1m9au8nNn1Q 6:10 Idiot Heart
-  //   A7jo4ExgkS8 5:25 Apollo and the Buffalo and Anna Anna Anna Oh!
-  //   7c9YDgL5yDA 6:53 Sunset Rubdown - "Black Swan" (Official Video)
-  //   sfZJhco5NA8 3:48 Paper Lace
-  //   9Tf8rrW50h8 5:46 You Go On Ahead (Trumpet Trumpet II)
-  //   brpl2ZlDlAc 5:36 Nightingale / December Song
-  //   y9QF7mbsd10 10:46 Sunset Rubdown - "Dragon's Lair" (Official Video)
-  // `,
   `
     # AFI - Decemberunderground
     d0Gsyr_0PpA 1:35 Prelude 12/21
@@ -334,8 +188,6 @@ export const episodes: Array<string> = [
     DBJkPYoSu5A 3:53 37mm
     _-h_khKeJB0 4:27 Endlessly, She Said
   `,
-  `bnaTLcFpQnE 45:45 Manu Chao - Clandestino (Full Album)`,
-  `tIGW_TEwCXw 46:50 #TheBeatles #AbbeyRoad #1969`,
   `
     # The Beatles - Magical Mystery Tour
     l8WMGBuNaus 2:51 Magical Mystery Tour (Remastered 2009)
@@ -350,7 +202,6 @@ export const episodes: Array<string> = [
     i5m-sgtwFck 3:02 Baby, You're A Rich Man (Remastered 2009)
     1A8sOOKianA 3:51 All You Need Is Love (Remastered 2009)
   `,
-  `08ozElWwpzc 35:28 Nektar - Remember The Future 1973 - Full Album - Digitally Remastered 2002`,
   `
     # Shira Kammen - The Almanac
     DTAoc_dWJ9A 3:29 The Oar Wheel
@@ -387,40 +238,6 @@ export const episodes: Array<string> = [
     mE4ZD2NengI 2:41 The Shepherd's Daughter
     FAernSjceMs 2:35 King Henry
   `,
-  `
-    # Pink Floyd - The Dark Side of the Moon
-    npsgOn1QY1M 41:53 Pink Floyd - Dark side of the moon - HD - High Audio Quality (Full Vinyl Album)
-    # HW-lXjOyUWo 1:08 Speak To Me
-    # Vddl9TK5RqU 2:50 Breathe (In The Air)
-    # 2sUyk5zSbhM 3:46 On The Run
-    # Qr0-7Ds79zo 6:57 Pink Floyd – Time (Official Audio)
-    # mPGv8L3a_sY 4:45 The Great Gig In The Sky
-    # -0kcet4aPpQ 4:44 Pink Floyd - Money (Official Music Video)
-    # GKiLEgAzFDQ 7:50 Us And Them
-    # _83urK9rO4U 3:27 Any Colour You Like
-    # BhYKN21olBw 3:47 Brain Damage
-    # 9wjZrswriz0 2:13 Eclipse
-  `,
-  // `
-  //   # Pink Floyd - Wish You Were Here
-  //   TAUdfj_fWFs 21:19 Pink Floyd - Wish You Were Here (Side 1) (1975 HQ Vinyl LP) - Technics 1200G / Audio Technica ART9
-  //   MFrn16sXCFE 23:22 Pink Floyd - Wish You Were Here (Side 2) (1975 HQ Vinyl LP) - Technics 1200G / Audio Technica ART9
-  // `,
-  // `
-  //   # Pink Floyd - The Division Bell
-  //   hoEDw18mkbU 5:57 Cluster One
-  //   KmlZ1WhlYsM 4:22 What Do You Want From Me
-  //   5ciWB7VykII 7:04 Poles Apart
-  //   8EHHUiRuJAk 5:30 Marooned
-  //   01F1leQgsEc 4:18 A Great Day For Freedom
-  //   aRAfpefISk4 6:51 Pink Floyd - Wearing The Inside Out (360 Reality Audio / Official Audio)
-  //   Y5rde4bRIZA 5:03 Pink Floyd - Take It Back (Official Music Video HD)
-  //   04LrDEQZmD0 6:20 Pink Floyd - Coming Back To Life (360 Reality Audio / Official Audio)
-  //   wbOTkDn49qI 6:12 Pink Floyd - Keep Talking (Official Lyrics Video)
-  //   FKROYzWRiQ0 5:14 Lost For Words
-  //   7jMlFXouPk8 7:49 Pink Floyd - High Hopes (Official Music Video HD)
-  // `,
-  // `r48BLz42NuI 1:21:08 Pink Floyd - The Wall (Full Album) 1979`,
   `
     # Baltimore Consort - La Rocque and Roll
     0Tly_wgC858 2:05 J'ai vu le loup
@@ -470,60 +287,6 @@ export const episodes: Array<string> = [
     rn7ryGcOm4Y 3:15 Sixteenth Century French Dances: Bransle Simple
     G-rdQRx5AIE 5:35 Sixteenth Century French Dances: L'Homme Arme
   `,
-  // `_rwNe2QXwrU 1:23:14 Yes - Tales from Topographic Oceans (Full Album)`,
-  // `
-  //   # Steeleye Span - Now We Are Six Again
-  //   zGAMGNZtkO4 5:00 Seven Hundred Elves
-  //   rgLA_cASxAM 6:21 Drink Down The Moon/Cuckoo's Nest
-  //   mFXUuQuyXpU 2:22 Now We Are Six
-  //   KBjIIwTDZjI 6:28 Thomas The Rhymer
-  //   eFc3gXTJL9M 3:06 The Mooncoin Jig
-  //   VqnTzoM6qek 4:38 Edwin
-  //   sA-Xyqy8eZo 4:11 Long-A-Growing
-  //   JBFPrIEygPs 4:02 Two Magicians
-  //   -AFCEO_1uMU 3:43 Twinkle Little Star
-  //   kGfgDw3RaHY 2:54 To Know Him Is To Love Him
-  //   H3lDdXob9TI 4:19 Just As The Tide
-  //   BeqxKnLemq0 4:42 Let Her Go Down
-  //   NS6mEPSV75c 6:23 Edward
-  //   cIzBXOQ-sl8 5:55 Two Constant Lovers
-  //   6S_pAYFO2Uo 6:00 Prince Charlie Stuart
-  //   aa1MeuElEhs 4:55 Cam Ye O'er Frae France
-  //   AKIECgIW1rA 3:40 Creeping Jane
-  //   2YyodO5z6gc 4:18 Cold Haily Windy Night
-  //   XS1esx-dM3E 4:51 Bonny Black Hare
-  //   ai3WMASNVgw 4:11 All Around My Hat
-  //   imBjpHUhC44 2:08 Gaudete
-  // `,
-  // `
-  //   # Steeleye Span - Hark! The Village Wait
-  //   cDQYz4CVMI0 1:14 A Calling-On Song
-  //   qA5RqKBbJvU 3:40 The Blacksmith
-  //   dyml6HZuaJM 3:13 Fisherman's Wife
-  //   v3f9YpKH1AM 2:46 The Blackleg Miner
-  //   rB7H_EpBq_I 5:59 The Dark-Eyed Sailor
-  //   7b0ZrfdzrQo 2:35 Copshawholme Fair
-  //   M_2IioCRWDE 2:41 All Things Are Quite Silent
-  //   d67Xk5QF6BA 4:02 The Hills of Greenmore
-  //   MhaV1Q7eG9s 1:11 My Johnny Was a Shoemaker
-  //   FPvHBlDW-cE 6:00 Lowlands of Holland
-  //   FcZisVk_py4 2:07 Twa Corbies
-  //   jhJ3b7rxpo0 3:30 One Night as I Lay on My Bed
-  // `,
-  // `
-  //   # Steeleye Span - Below The Salt
-  //   5siqD27ftpc 3:09 Spotted Cow (2009 Remaster)
-  //   PqRZHqf54Ok 3:44 Rosebud in June (2009 Remaster)
-  //   oSSjMLdeVQA 3:14 Jigs (2009 Remaster)
-  //   l0d3OlQm5eM 4:46 Sheepcrook and Black Dog (2009 Remaster)
-  //   HHGx8nmkr54 4:37 Royal Forester (2009 Remaster)
-  //   QMqPhPSmcPk 7:13 King Henry (2009 Remaster)
-  //   Njg11_7-OEg 2:28 Gaudete (2009 Remaster)
-  //   M5l0-4aQWSY 4:51 John Barleycorn (2009 Remaster)
-  //   GPbveJNQQzA 5:53 Saucy Sailor (2009 Remaster)
-  //   Kuu9JJkN3-0 2:28 Gaudete
-  //   tsfdXrKhk9g 2:26 The Holly and the Ivy (2009 Remaster)
-  // `,
   `
     # Markahuasi - Traditional Music of the Andes
     CeOR5tsYD8s 3:24 Markahuasi - Los Refranes (The Old Sayings)
@@ -540,19 +303,6 @@ export const episodes: Array<string> = [
     zmB2ulRI_4c 6:26 Markahuasi - El Condor Pasa (Flight of the Condor)
     ZzEjGlRkdFQ 4:55 Markahuasi - Tinku
   `,
-  // `ZCNTaH8VSEg 30:08 Fairuz - Al Quds - فيروز - القدس العتيقة - HD - High Audio Quality (Full Vinyl Album)`,
-  // `
-  //   # DARKSIDE - Spiral
-  //   uq0OncoFp70 6:16 Narrow Road
-  //   pek2nt59lUY 5:22 The Limit
-  //   3_Bcw2O0f_c 5:09 The Question Is To See It All
-  //   RJ-_tY3JgUs 5:50 Lawmaker
-  //   zKu9izMdLP0 5:09 I'm the Echo
-  //   nq8ftImCQYw 4:59 Spiral
-  //   8WsbdoTkKOI 4:03 Liberty Bell
-  //   Nd6BRdX9lV0 8:36 Inside Is Out There
-  //   kxK0mtDeQMI 6:31 Only Young
-  // `,
   `
     # Die Irrlichter - Elfenhain
     DUqUNQFws5M 3:54 Aelinesse na megil
@@ -604,11 +354,6 @@ export const episodes: Array<string> = [
     Dm3k7lXNSa8 6:47 Dead Boy's Poem
     z94ip-1_khY 3:37 Nightwish - Kuolema Tekee Taiteilijan [Lyrics]
   `,
-  `_zmeye7-HOE 48:54 Evanescence - Fallen (FULL ALBUM)`,
-  `
-    # Dire Straits - Brothers in Arms
-    p0D-w-HhB64 47:46 Dire Straits - Brothers In Arms {Reissue} [Full Album]
-  `,
   `
     # Bob Marley - Legend (Full Album)
     wsu_8UwapEI 3:52 01. Is This Love? - (Bob Marley) - [Legend]
@@ -626,9 +371,6 @@ export const episodes: Array<string> = [
     tXnYRDmT2g8 7:22 13. Exodus - (Bob Marley) - [Legend]
     Yta1LtlZqVI 3:13 14. Jammin - (Bob Marley) - [Legend]
   `,
-  // `
-  //   _SBQvd6vY9s 3:40:32 Lord Of The Rings - Soundtrack HD Complete (with links)
-  // `,
   `
     Y3Vxjgjp4HA 5:52 Alegria
     PTMisEaiWM4 4:35 Vai Vedrai
@@ -643,21 +385,6 @@ export const episodes: Array<string> = [
     BLAi3NNz2Vs 4:01 Valsapena
     cr1eD_MJ80Y 3:10 Nocturne
   `,
-  // `
-  //   ku0P5Fdv0Tk 2:38 Cirque Du Soleil O, O
-  //   bCpnyazy7D0 4:34 Cirque Du Soleil O, Terre Aride
-  //   1GCzME-a9sU 7:51 Cirque Du Soleil O, Desert
-  //   htvaQjYBVr8 4:42 Cirque Du Soleil O, Ephra
-  //   8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan
-  //   urzeNmFKL8Q 5:23 Cirque Du Soleil O, Simcha
-  //   FEMZqYM3Peg 4:06 Cirque Du Soleil O, Nostalgie
-  //   SgttczPRNAs 6:01 Cirque Du Soleil O, Svecounia
-  //   tN777jqzeLA 7:17 Cirque Du Soleil O, Remous
-  //   y0Kx_QU-2ek 2:19 Cirque Du Soleil O, Africa
-  //   sFLeL9F4HBQ 3:08 Cirque Du Soleil O, Tzelma
-  //   MtfUtwrRdqI 5:24 Cirque Du Soleil O, Mer Noire
-  //   S6tE6laWTEc 4:22 Cirque Du Soleil O, Jeux d'Eau
-  // `,
   `
     # Cirque du Soleil Compilation - O - Dralion
     S6tE6laWTEc 4:22 Cirque Du Soleil O, Jeux d'Eau
@@ -771,9 +498,6 @@ export const episodes: Array<string> = [
     g0gGZDYRg-o 3:17 Prelude, Cello Suite #1
     Q_wKNHReSRY 5:44 Fairhaired Child Set
   `,
-  // `
-  //   hA7OGf2Laj4 45:43 Return to Forever - Romantic Warrior (1976) FULL ALBUM Vinyl Rip
-  // `,
   `
     # Chansons de la Renaissance, Disc 1 - Obsidienne
     gAfFLDXrSDE 3:10 Ce jour de l'an voudray joye mener
@@ -849,7 +573,6 @@ export const episodes: Array<string> = [
     99HpCbnMF2k 2:17 Ave Maria, canon
     w75BoSNlJ2M 2:26 Kyrie, rondeau
   `,
-
   `
     # Guillaume de Machaut : Voyage au cœur du Moyen Âge - Obsidienne
     62HkSO_Ovws 2:23 Ma fin est mon commencement - Rondeau - Guillaume de Machaut
@@ -909,15 +632,6 @@ export const episodes: Array<string> = [
     WSQ6_C6NyP8 2:33 La ultime estampie real, la septime estampie real
     UVdhyWknqJE 3:41 Trop est mes maris jalos
   `,
-  // `
-  //   1tW-h3GTE7E 0:00-48:57 Nepali Folk Songs Instrumental Music
-  // `,
-  // `
-  //   492RxYXYw9o 3:17 The Dungeon Master's Lair
-  //   co9Q5BZDunI 30:32 Atmospheric Lightness
-  //   ZpPbmPHJTG0 25:00 Chamber Lightness
-  //   Jl1_m1OtkpE 1:01:28 Brian Eno - New Space Music
-  // `,
   `
     # The Watersons - For Pence and Spicy Ale
     IT3pporiNFI 2:02 The Watersons - Country Life
@@ -942,21 +656,6 @@ export const episodes: Array<string> = [
     m9ec7bk-xcs 4:28 Swansea Town
     XH-QpfZsHJw 3:57 Bellman
   `,
-  // `
-  //   # Arany Zoltán - Folk's Not Dead
-  //   SOn8NumaAUw 5:17 Rumba Moresca
-  //   s__gL5vhiuI 5:06 Folk music from Asturias - Danza Santana
-  //   f1ClxjXOcd0 3:43 Hadrianopolis
-  //   -Iifb3O-tBM 4:18 A Leányok ágya
-  //   c97VWy4_vaA 4:54 Silk Road by Arany Zoltán
-  //   vYiG6AXbvvk 3:29 Irish folk music - Oró sé do bheatha 'bhaile
-  //   BWnOPXi_Qm8 3:55 Folk music from Galicia - Deixame subir
-  //   0hYgjSaVVvw 4:38 Se Navali
-  //   mDuoINfdeCY 3:50 Hungarian folk music - Sárgul már a fügefa levele
-  //   aMZnxBClrr4 4:13 Reels
-  //   6NXQHgvmDH8 3:33 Üsküdara
-  //   aUskrSbYMzE 3:16 Rumba Catalana by Arany Zoltán
-  // `,
   `
     # Arany Zoltán - The Last of the Troubadours
     OxLBWE2BSog 3:31 Medieval music - Ai vist lo lop
@@ -987,36 +686,6 @@ export const episodes: Array<string> = [
     gUIBeH0TnBs 4:26 Folk music from Brittany - Ar Soudarded Zo Gwisket E Ruz
     5iRW95P1LRY 5:00 Galician folk song - Tua nai e meiga
   `,
-  // `
-  //   # Arany Zoltán - The Balkan Trip
-  //   kgicgyZgdvE 3:24 Bulgarian folk music - Snoshti e Dobra
-  //   KvJ0ez4OnWI 3:15 Folk music from Albania - Valle Tropojane
-  //   A-7FdmvLmT4 3:59 Mandilatos - Greece
-  //   tjdlXrTIU6k 4:14 Folk music from Serbia - Ajde Jano
-  //   G6vZk6bY50c 2:59 Dvajspetorka - Macedonia
-  //   nBFkwTmuaFI 4:08 Folk music from Albania - Rugovo
-  //   1QqRWfQcpr4 3:27 Folk music from Bulgaria - Bucimis
-  //   ACAEpYXQXm4 2:07 Folk music from Croatia - Dalmatian dance
-  //   q0XFEP3a7JU 3:03 Folk music from Greece - Tsifteteli
-  //   tuZKMkQWipM 3:28 Folk music from Bulgaria - Jove malaj mome
-  //   oIm9AR0Sku4 2:30 Folk music from Montenegro - Crnogorsko Oro
-  //   tLviUpTxMNM 3:52 Folk music from Bosnia - Poljem se vija
-  // `,
-  // `
-  //   # Arany Zoltán - Mediterranean
-  //   s-vgxqu40Kw 2:35 Folk music from Portugal - Apanhar o Trevo
-  //   6D_m0M73tyc 3:11 Mazurka
-  //   wZbpHSI8Z8E 5:05 La Molinera
-  //   Jd9hbtpHwto 4:28 Sciuri, Sciuri
-  //   uOEUeLUyVro 3:56 Gamilia Patinada
-  //   vfR2KFPyft8 2:59 Italian folk music - Tarantella del '600
-  //   2XKeQeF97GQ 4:03 Folk music from Spain - Las lavanderas de Cáceres
-  //   2mrxfyjW3AA 3:31 Valse
-  //   k6HW9H1bsLc 2:57 Folk music from the Balearic Islands - Jota Mallorquina
-  //   0F7QUClsYGE 4:43 Portuguese music - Comboio Da Beira Baixa
-  //   YcjDATE4f7k 3:43 Bulería
-  //   2hlFsNYv4yw 3:25 Napolitana
-  // `,
   `
     # Arany Zoltán - Laudator Temporis Acti
     J_zjgZJOFl4 4:03 Medieval music - Palästinalied
@@ -1042,23 +711,4 @@ export const episodes: Array<string> = [
     XsVOJWi-XDU 1:34 Gentil prince
     SV-12mVuDqQ 1:19 The King's Pavyn
   `,
-  // `
-  //   BYOmfEYTUAg 21:52 Stevie Wonder - Songs In The Key Of Life (Side 2) - 1976 HQ Vinyl Rip - Technics 1200G / AT ART9
-  //   L9LLrGwYShg 21:00 Stevie Wonder - Songs In The Key Of Life (Side 1) - 1976 HQ Vinyl Rip - Technics 1200G / AT ART9
-  // `,
-  // `
-  //   # Arany Zoltán - Laus Pannoniae
-  //   yLkxfw-NsYA 4:22 Bagolymadár
-  //   UrmtiIicFUI 3:16 Lőrincrévi Pontozó
-  //   ujOjs7unF0I 3:36 Militaris Congratulatio
-  //   Q9rrTJgLH1s 3:18 Hungarian folk music - Dudanóták by Arany Zoltán
-  //   CbXJK7KwTMo 4:08 Hungarian folk music - Debrecennek van egy vize by Arany Zoltán
-  //   Y9au9CBWKUo 3:57 Hungarian folk music - Csángó dances
-  //   v9IqBNyofnM 2:10 Kuruc Tánc
-  //   UViKf9cKN7M 2:58 Hungarian music from the 17th century - Nosza hajdú
-  //   9krz9o0twv8 4:07 Hungarian folk music - Transdanubian dances
-  //   jvqkb7NzaTI 3:26 Old Hungarian dance - Rókatánc
-  //   p04J_qiu9J0 3:00 Serény Magyaros
-  //   nei4wYohZqA 4:54 Hungarian folk song - Átalmennék a Dunán
-  // `,
 ]
