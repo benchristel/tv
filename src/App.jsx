@@ -17,6 +17,7 @@ import { PlayerCommander } from "./PlayerCommander.jsx"
 import { status } from "./PlayerStatus.js"
 import { ShuffledChannel } from "./ShuffledChannel";
 import { SegmentBoundaryTestChannel } from "./SegmentBoundaryTestChannel";
+import { VolumeControl } from "./VolumeControl.jsx";
 
 const channels = channelData
   .map(([name, algorithm, episodes]) => {
@@ -32,6 +33,7 @@ export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
   const [infoPaneOpen, setInfoPaneOpen] = useState(false)
   const [channel, setChannel] = useState(channels[0])
+  const [volume, setVolume] = useState(100)
   const now = useNow()
   const broadcast = userRequestedPlayback
     ? channel.getBroadcast(now)
@@ -82,6 +84,7 @@ export function App(): React.Node {
               setUserRequestedPlayback()
             }}
           />
+          <VolumeControl volume={volume} onChange={setVolume}/>
           <button
             className={
               infoPaneOpen
