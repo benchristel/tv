@@ -1,46 +1,52 @@
 // @flow
-import type { Video } from "./types"
+import type { Episode, Segment, Video } from "../video/types";
 import { test, expect, is, equals, not } from "@benchristel/taste"
+import {
+  parseVideos,
+  range,
+  entireVideo,
+  parseDuration,
+  split,
+  parseEpisodes,
+  allEpisodes,
+} from "./parser.impl"
 
-export function parseVideos(raw: string): Array<Video> {
-  return raw
-    .split(/\n+/)
-    .map(trim)
-    .filter(not(isComment))
-    .filter(not(isEmpty))
-    .map(split(/ +/, 3))
-    .flatMap(([videoId, rawDuration, title]) =>
-      rawDuration === "SHORTS"
-        ? []
-        : [
-            {
-              videoId,
-              durationSeconds: parseDuration(rawDuration),
-              title,
-            },
-          ]
-    )
-}
+import type { ChannelModule } from "../data/types";
+export {
+  allEpisodes,
+  entireVideo,
+  range,
+} from "./parser.impl"
+
+;(allEpisodes: (ChannelModule) => Array<Episode>)
+;(entireVideo: (duration: number) => Segment)
+;(range: (start: number, end: number) => Segment)
 
 test("parseVideos", {
-  "empty string"() {
+  "handles empty string"() {
     expect(parseVideos(""), equals, [])
   },
-  spaces() {
+
+  "ignores spaces"() {
     expect(parseVideos("  "), equals, [])
   },
-  newlines() {
+
+  "ignores blank links"() {
     expect(parseVideos("\n\n\n"), equals, [])
   },
-  "newlines and spaces"() {
+
+  "ignores space-only lines"() {
     expect(parseVideos(" \n \n \n"), equals, [])
   },
-  comments() {
+
+  "strips comments"() {
     expect(parseVideos("#foo\n# bar"), equals, [])
   },
+
   "strips spaces before comments"() {
     expect(parseVideos("  #foo\n  # bar"), equals, [])
   },
+
   "parses actual data"() {
     const data = `
       leb645Xu6uo 10:54 Captain Murderer - Emlyn Williams
@@ -49,16 +55,46 @@ test("parseVideos", {
     expect(parseVideos(data), equals, [
       {
         videoId: "leb645Xu6uo",
-        durationSeconds: 654,
+        segments: [{start: 0, end: 654}],
         title: "Captain Murderer - Emlyn Williams",
       },
       {
         videoId: "Ga8tNxnHjt4",
-        durationSeconds: 181,
+        segments: [{start: 0, end: 181}],
         title: "Sut Wnaethoch Chi Sillafu Caernarfon? Y Dydd 1971",
       },
     ])
   },
+
+  "parses time ranges"() {
+    const data = `
+      leb645Xu6uo 1:01-5:00 The Title
+    `
+    expect(parseVideos(data), equals, [
+      {
+        videoId: "leb645Xu6uo",
+        segments: [{start: 61, end: 300}],
+        title: "The Title",
+      },
+    ])
+  },
+
+  "parses a video with multiple segments"() {
+    const data = `
+      leb645Xu6uo 1-3:00,10:00-11:01 The Title
+    `
+    expect(parseVideos(data), equals, [
+      {
+        videoId: "leb645Xu6uo",
+        segments: [
+          {start: 1, end: 180},
+          {start: 600, end: 661},
+        ],
+        title: "The Title",
+      },
+    ])
+  },
+
   "removes shorts"() {
     const data = `
       undefined SHORTS blah blah
@@ -67,27 +103,12 @@ test("parseVideos", {
     expect(parseVideos(data), equals, [
       {
         videoId: "leb645Xu6uo",
-        durationSeconds: 654,
+        segments: [{start: 0, end: 654}],
         title: "Captain Murderer - Emlyn Williams",
       },
     ])
   },
 })
-
-function isComment(line) {
-  return line.startsWith("#")
-}
-
-function parseDuration(raw: string) {
-  const multipliers = [1, 60, 3600, 86400]
-  const parts = raw
-    .split(":")
-    .map((n) => parseInt(n, 10))
-    .reverse()
-  return zip(parts, multipliers)
-    .map(([p, m]) => p * m)
-    .reduce(add, 0)
-}
 
 test("parseDuration", {
   "0:00"() {
@@ -125,36 +146,6 @@ test("parseDuration", {
   },
 })
 
-function trim(s) {
-  return s.trim()
-}
-
-function isEmpty(s) {
-  return s.length === 0
-}
-
-const split =
-  (delim, limit = Infinity) =>
-  (s) => {
-    if (typeof delim === "string" && delim.length === 0) {
-      throw "split(): empty delimiter not supported"
-    }
-    let matchStart = 0,
-      matchEnd = 0
-    const parts = []
-    let rest = s
-    while (parts.length < limit - 1 && rest.length > 0) {
-      const match = rest.match(delim)
-      if (match == null) {
-        break
-      }
-      parts.push(rest.slice(0, match.index))
-      rest = rest.slice(match.index + match[0].length)
-    }
-    parts.push(rest)
-    return parts
-  }
-
 test("split", {
   "empty string"() {
     expect(split(" ")(""), equals, [""])
@@ -169,15 +160,3 @@ test("split", {
     expect(split(/ +/)("a b   c"), equals, ["a", "b", "c"])
   },
 })
-
-function zip(a, b) {
-  const ret = []
-  for (let i = 0; i < a.length && i < b.length; i++) {
-    ret.push([a[i], b[i]])
-  }
-  return ret
-}
-
-function add(a, b) {
-  return a + b
-}

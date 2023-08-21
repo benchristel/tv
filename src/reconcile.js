@@ -4,7 +4,7 @@ import type { Player, PlayerStateCode } from "./youtube/player"
 import { State as PlayerState } from "./youtube/player"
 import { videoIdFromUrl } from "./youtube/videoId"
 import type { Broadcast } from "./Broadcast"
-import { GAP_SECONDS } from "./Channel"
+import { SECONDS_BETWEEN_VIDEOS } from "./playback"
 import type { Command } from "./PlayerCommander.jsx"
 import type { PlayerStatus } from "./PlayerStatus"
 
@@ -47,7 +47,7 @@ export function reconcile(
           // If we're near the start of the video, just play it from the
           // begnning. This prevents the first second of the video
           // from being cut off after the previous video ends.
-          timestamp: targetTime < GAP_SECONDS ? 0 : targetTime,
+          timestamp: targetTime < SECONDS_BETWEEN_VIDEOS ? 0 : targetTime,
         },
       ]
     } else {
@@ -63,7 +63,7 @@ export function reconcile(
           if (currentVideoId) cmds.push({ type: "play" })
       }
 
-      if (currentTime && delta(currentTime, targetTime) >= GAP_SECONDS) {
+      if (currentTime && delta(currentTime, targetTime) >= SECONDS_BETWEEN_VIDEOS) {
         console.debug("time is off; seeking", currentTime, targetTime)
         cmds.push({ type: "seek", timestamp: targetTime })
       }

@@ -1,37 +1,33 @@
 // @flow
-import type { Channel } from "../Channel"
 
-import type { Episode, Video } from "./types"
+import * as channel1 from "./channel1"
+import * as channel2 from "./channel2"
+import * as channel3 from "./channel3"
+import * as channel4 from "./channel4"
+import * as channel5 from "./channel5"
+import * as channel6 from "./channel6"
+import * as channel7 from "./actualPlays"
+import * as channel8 from "./channel8"
+import * as channelDebug from "./channelDebug";
+import * as channelTestSegments from "./channelTestSegments";
+import type { Episode } from "../video/types";
+import { allEpisodes } from "./parser";
 
-import { createChannel } from "../Channel"
-import { createLoopingChannel } from "../LoopingChannel"
-import { campaigns } from "./actualPlays"
-import { albums } from "./music"
-import {
-  channel1Videos,
-  channel2Videos,
-  channel4Segments,
-  channel4Videos,
-  channel5Videos,
-  channel6Videos,
-  debuggingVideos,
-  mechaThemeSongs,
-} from "./shows"
+const debug = window.ENVIRONMENT === "development"
+export const channels: Array<[string, BroadcastAlgorithm, Array<Episode>]> = [
+  ["One", "shuffle", channel1],
+  ["Two", "shuffle", channel2],
+  ["Three", "shuffle", channel3],
+  ["Four", "shuffle", channel4],
+  ["Five", "shuffle", channel5],
+  ["Six", "loop", channel6],
+  ["Seven", "shuffle", channel7],
+  ["Eight", "loop", channel8],
+  debug ? ["debug", "shuffle", channelDebug] : null,
+].filter(Boolean)
+  .map(([name, algorithm, module]) => [name, algorithm, allEpisodes(module)])
 
-export const channels: Array<Channel> = [
-  createChannel("One", channel1Videos.map(singleVideoEpisode)),
-  createChannel("Two", channel2Videos.map(singleVideoEpisode)),
-  createChannel("Three", albums),
-  createChannel("Four", [
-    ...channel4Videos.map(singleVideoEpisode),
-    ...channel4Segments,
-  ]),
-  createChannel("Five", channel5Videos.map(singleVideoEpisode)),
-  createLoopingChannel("Six", channel6Videos),
-  createChannel("Seven", campaigns),
-  createLoopingChannel("Eight", mechaThemeSongs),
-]
-
-function singleVideoEpisode(v: Video): Episode {
-  return { videos: [v] }
-}
+  export type BroadcastAlgorithm =
+    | "shuffle"
+    | "test-segment-boundaries"
+    | "loop"

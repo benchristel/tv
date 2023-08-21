@@ -5,8 +5,8 @@ import { State as PlayerState } from "./youtube/player"
 import { useInterval } from "./lib/useInterval"
 import { useLatch } from "./lib/useLatch"
 import { PlayerStateView } from "./PlayerStateView.jsx"
-import { ChannelView } from "./ChannelView.jsx"
-import { channels } from "./data/channels"
+import { ChannelSwitcher } from "./ChannelSwitcher.jsx"
+import { channels as channelData } from "./data/channels"
 import { useNow } from "./lib/useNow"
 import { nothing } from "./Broadcast"
 import { reconcile } from "./reconcile.js"
@@ -15,11 +15,29 @@ import { VideoInfo } from "./VideoInfo.jsx"
 import { debuggingDecorator } from "./youtube/player.jsx"
 import { PlayerCommander } from "./PlayerCommander.jsx"
 import { status } from "./PlayerStatus.js"
+import { ShuffledChannel } from "./ShuffledChannel";
+import { SegmentBoundaryTestChannel } from "./SegmentBoundaryTestChannel";
+import { VolumeControl } from "./VolumeControl.jsx";
+import { LoopingChannel} from "./LoopingChannel";
+
+const channels = channelData
+  .map(([name, algorithm, episodes]) => {
+    switch (algorithm) {
+      case "shuffle":
+        return ShuffledChannel(name, episodes)
+      case "test-segment-boundaries":
+        return SegmentBoundaryTestChannel(name, episodes)
+      case "loop":
+        // TODO: enable LoopingChannel to play episodes
+        return LoopingChannel(name, episodes.flatMap(e => e.videos))
+    }
+  })
 
 export function App(): React.Node {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
   const [infoPaneOpen, setInfoPaneOpen] = useState(false)
   const [channel, setChannel] = useState(channels[0])
+  const [volume, setVolume] = useState(100)
   const now = useNow()
   const broadcast = userRequestedPlayback
     ? channel.getBroadcast(now)
@@ -32,7 +50,13 @@ export function App(): React.Node {
 
   return (
     <Layout
-      effects={<PlayerCommander commands={playerCommands} player={player} />}
+      effects={
+        <PlayerCommander
+          player={player}
+          commands={playerCommands}
+          volume={volume}
+        />
+      }
       screen={
         <div className={infoPaneOpen ? "info-pane-open" : ""}>
           <div className="player-assembly">
@@ -50,6 +74,7 @@ export function App(): React.Node {
             <VideoInfo
               player={playerStatus}
               broadcast={broadcast}
+              channels={channels}
               onClose={() => setInfoPaneOpen(false)}
             />
           </div>
@@ -62,12 +87,14 @@ export function App(): React.Node {
       }
       controlPanel={
         <>
-          <ChannelView
+          <ChannelSwitcher
+            channels={channels}
             onChannelSelected={(ch) => {
               setChannel(ch)
               setUserRequestedPlayback()
             }}
           />
+          <VolumeControl volume={volume} onChange={setVolume}/>
           <button
             className={
               infoPaneOpen

@@ -1,8 +1,8 @@
 // @flow
 
-import { expect, is, test } from "@benchristel/taste"
+import { expect, equals, test } from "@benchristel/taste"
 
-export function cyrb128_32(str: string): number {
+export function cyrb128(str: string): [number, number, number, number] {
   let h1 = 1779033703,
     h2 = 3144134277,
     h3 = 1013904242,
@@ -18,13 +18,25 @@ export function cyrb128_32(str: string): number {
   h2 = Math.imul(h4 ^ (h2 >>> 22), 2869860233)
   h3 = Math.imul(h1 ^ (h3 >>> 17), 951274213)
   h4 = Math.imul(h2 ^ (h4 >>> 19), 2716044179)
-  return (h1 ^ h2 ^ h3 ^ h4) >>> 0
+  return [(h1^h2^h3^h4)>>>0, (h2^h1)>>>0, (h3^h1)>>>0, (h4^h1)>>>0];
 }
 
 test("cyrb128_32", {
   "hashes unix timestamps to random-looking values"() {
-    expect(cyrb128_32("1661673600"), is, 1866196007)
-    expect(cyrb128_32("1661760000"), is, 3655929289)
-    expect(cyrb128_32("1661846400"), is, 2165297363)
+    expect(
+      cyrb128("1661673600"),
+      equals,
+      [1866196007,1194674827, 898714046, 497018642],
+    )
+    expect(
+      cyrb128("1661760000"),
+      equals,
+      [3655929289, 901600698, 732811234, 3355023249],
+    )
+    expect(
+      cyrb128("1661846400"),
+      equals,
+      [2165297363, 2940322590, 3636107238, 4143219755],
+    )
   },
 })

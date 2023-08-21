@@ -1,9 +1,11 @@
 // @flow
 import type { Broadcast } from "./Broadcast"
+import type { Channel } from "./Channel";
 import type { PlayerStatus } from "./PlayerStatus"
 import type { Player } from "./youtube/player.jsx"
 import { stateString } from "./PlayerStateView.jsx"
-import { hoursMinutesSeconds } from "./lib/time"
+import { bookmarklet } from "./scraper/bookmarklet";
+import { durationAsWords, hoursMinutesSeconds } from "./lib/time";
 import { videoIdFromUrl } from "./youtube/videoId"
 import * as React from "react"
 
@@ -60,6 +62,7 @@ function viewModel({ broadcast, player }): VideoInfoViewModel {
 }
 
 export function VideoInfo(props: {|
+  channels: Array<Channel>,
   broadcast: Broadcast,
   player: PlayerStatus,
   onClose: () => mixed,
@@ -68,7 +71,7 @@ export function VideoInfo(props: {|
   const vm = viewModel({ broadcast, player })
   return (
     <>
-      <button class="close-button" onClick={onClose}>
+      <button className="close-button" onClick={onClose}>
         close
       </button>
       <h1>Culture Machine</h1>
@@ -77,6 +80,15 @@ export function VideoInfo(props: {|
         <a href="https://github.com/benchristel/tv">Source code here</a>. Some
         rights reserved. See the{" "}
         <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">license</a>.
+      </p>
+      <p>
+        <span dangerouslySetInnerHTML={{__html: `
+          <a href="${bookmarklet}">
+            Bookmarklet to scrape videos from YouTube
+          </a>
+        `}}/>
+        {" "}
+        (<a href="https://github.com/benchristel/tv#what-is-a-bookmarklet">What's this?</a>)
       </p>
       <hr />
       <h2>Video Info</h2>
@@ -122,6 +134,28 @@ export function VideoInfo(props: {|
       </table>
       <p>Seconds behind schedule: {vm.secondsBehindSchedule}</p>
       <p>Time remaining in video: {vm.timeRemainingInVideo}</p>
+      <h2>Channel Stats</h2>
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">name</th>
+            <th scope="col">duration</th>
+          </tr>
+        </thead>
+        <tbody>
+          {props.channels.map(channel =>
+            <ChannelTableRow channel={channel}/>
+          )}
+        </tbody>
+      </table>
+      <div style={{height: 60}}/>
     </>
   )
+}
+
+function ChannelTableRow(props: {|channel: Channel|}): React.Node {
+  return <tr>
+    <td>{props.channel.getName()}</td>
+    <td>{durationAsWords(props.channel.getTotalDuration())}</td>
+  </tr>
 }

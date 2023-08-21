@@ -1,17 +1,8 @@
 // @flow
 
-import type { Episode } from "./types"
+export const videos: string = ""
 
-import { parseVideos } from "./ingestion"
-import { expect, is, test } from "@benchristel/taste"
-
-const pipe: $ComposeReverse = ((...fns) => {
-  return fns.reduce(rcompose)
-}: any)
-
-export const campaigns: Array<Episode> = map(
-  pipe(parseVideos, (v) => ({ videos: v }))
-)([
+export const episodes: Array<string> = [
   `
     EzkW6jKQVeU 2:30:52 Delta Green: Divergence S1
     3Lsz_ay4TH4 1:54:09 Delta Green: Divergence S2
@@ -456,24 +447,4 @@ export const campaigns: Array<Episode> = map(
   ZUM8pL9fEI8 1:55:59 Cortex Prime Horror TTRPG | maninthelake.exe Ep 1
   2ySybevyUMM 1:50:59 Cortex Prime Horror TTRPG | maninthelake.exe Ep 2
 `,
-])
-
-test("pipe", {
-  "given one function"() {
-    const inc = (x) => x + 1
-    expect(pipe(inc)(1), is, 2)
-  },
-
-  "given two functions"() {
-    const inc = (x) => x + 1
-    expect(pipe(inc, inc)(1), is, 3)
-  },
-})
-
-function rcompose<T, U, V>(f: (T) => U, g: (U) => V): (T) => V {
-  return (...args) => g(f(...args))
-}
-
-function map<T, U>(f: (T) => U): (Array<T>) => Array<U> {
-  return (array) => array.map(f)
-}
+]
