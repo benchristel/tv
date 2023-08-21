@@ -18,6 +18,7 @@ export interface Player {
   getDuration(): number;
   addEventListener(string, ({ data: PlayerStateCode }) => mixed): mixed;
   removeEventListener(string, () => mixed): mixed;
+  setVolume(number): void;
 }
 
 export function nullPlayer(): Player {
@@ -39,6 +40,7 @@ export function nullPlayer(): Player {
     },
     addEventListener() {},
     removeEventListener() {},
+    setVolume() {},
   }
 }
 
@@ -81,6 +83,9 @@ export function debuggingDecorator(wrapped: Player): Player {
       console.debug(debugTimestamp(), "player.removeEventListener")
       return wrapped.removeEventListener(...args)
     },
+    setVolume(...args) {
+      wrapped.setVolume(...args)
+    }
   }
 }
 

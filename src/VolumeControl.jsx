@@ -8,6 +8,14 @@ type Props = {|
 
 export function VolumeControl(props: Props): React.Node {
   return <div className="volume">
-    <input type="range" min="0" max="100" onChange={props.onChange}></input>
+    <div className="volume-icon" />
+    <input
+      aria-label="volume"
+      type="range"
+      min="0"
+      max="100"
+      onChange={(e) => props.onChange(e.target.value)}
+      value={props.volume}
+    />
   </div>;
 }

@@ -17,7 +17,7 @@ export const channels: Array<[string, BroadcastAlgorithm, Array<Episode>]> = [
   ["Channel 4", "shuffle", channel4],
   ["🎄", "shuffle", christmas],
   debug ? ["debug", "shuffle", channelDebug] : null,
-  debug ? ["test segments", "test-segment-boundaries", channelTestSegments] : null,
+  debug ? ["segments", "test-segment-boundaries", channelTestSegments] : null,
 ].filter(Boolean)
   .map(([name, algorithm, module]) => [name, algorithm, allEpisodes(module)])
 

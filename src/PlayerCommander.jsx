@@ -5,6 +5,7 @@ import * as React from "react"
 type Props = {|
   player: Player,
   commands: Array<Command>,
+  volume: number,
 |}
 
 export type Command =
@@ -14,7 +15,10 @@ export type Command =
 
 export class PlayerCommander extends React.Component<Props> {
   componentDidUpdate() {
-    const { player, commands } = this.props
+    const { player, volume, commands } = this.props
+
+    player.setVolume(volume)
+
     commands.forEach((cmd) => {
       switch (cmd.type) {
         case "play":

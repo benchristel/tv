@@ -46,7 +46,13 @@ export function App(): React.Node {
 
   return (
     <Layout
-      effects={<PlayerCommander commands={playerCommands} player={player} />}
+      effects={
+        <PlayerCommander
+          player={player}
+          commands={playerCommands}
+          volume={volume}
+        />
+      }
       screen={
         <div className={infoPaneOpen ? "info-pane-open" : ""}>
           <div className="player-assembly">

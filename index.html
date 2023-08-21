@@ -270,10 +270,23 @@
 
       .volume {
         margin-left: auto;
+        margin-right: 12px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
       }
 
       .volume input {
-        width: 120px;
+        width: 100px;
+      }
+
+      .volume-icon {
+        width: 18px;
+        height: 18px;
+        margin-right: 6px;
+        background-image: url("src/volume.png");
+        background-size: contain;
+        filter: invert(33%);
       }
     </style>
     <script>
