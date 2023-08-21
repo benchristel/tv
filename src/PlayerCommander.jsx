@@ -1,6 +1,7 @@
 // @flow
 import type { Player } from "./youtube/player.jsx"
 import * as React from "react"
+import {test, expect, is} from "@benchristel/taste"
 
 type Props = {|
   player: Player,
@@ -17,7 +18,7 @@ export class PlayerCommander extends React.Component<Props> {
   componentDidUpdate() {
     const { player, volume, commands } = this.props
 
-    player.setVolume(volume)
+    player.setVolume(fromPerceivedVolume(volume))
 
     commands.forEach((cmd) => {
       switch (cmd.type) {
@@ -39,4 +40,26 @@ export class PlayerCommander extends React.Component<Props> {
   render(): React.Node {
     return null
   }
+}
+
+function fromPerceivedVolume(perceivedVolume) {
+  return square(perceivedVolume / 100) * 100
+}
+
+test("fromPerceivedVolume", {
+  "returns 0 given 0"() {
+    expect(fromPerceivedVolume(0), is, 0)
+  },
+
+  "returns 100 given 100"() {
+    expect(fromPerceivedVolume(100), is, 100)
+  },
+
+  "returns 25 given 50"() {
+    expect(fromPerceivedVolume(50), is, 25)
+  },
+})
+
+function square(x) {
+  return x * x
 }
