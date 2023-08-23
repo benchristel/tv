@@ -221,26 +221,35 @@
         cursor: pointer;
       }
 
+      :root {
+        --slider-track-border: 1px solid #2e2e2e;
+        --slider-track-border-highlight: #393939;
+        --slider-track-background: linear-gradient(to bottom, #000, #333);
+        --slider-thumb-border: 1px solid #555;
+        --slider-thumb-background: linear-gradient(to bottom, #666, #444);
+        --slider-thumb-background-lit: linear-gradient(to bottom, #aaa, #888);
+      }
+
       input[type="range"]::-moz-range-track {
-        background: linear-gradient(to bottom, #000, #333);
-        border: 1px solid #2e2e2e;
-        border-bottom-color: #393939;
+        background: var(--slider-track-background);
+        border: var(--slider-track-border);
+        border-bottom-color: var(--slider-track-border-highlight);
         border-radius: 99px;
         height: 5px;
       }
 
       input[type="range"]::-webkit-slider-runnable-track {
-        background: linear-gradient(to bottom, #000, #333);
-        border: 1px solid #2e2e2e;
-        border-bottom-color: #393939;
+        background: var(--slider-track-background);
+        border: var(--slider-track-border);
+        border-bottom-color: var(--slider-track-border-highlight);
         border-radius: 99px;
         height: 7px;
       }
 
       input[type="range"]::-moz-range-thumb {
-        border: 1px solid #555;
+        border: var(--slider-thumb-border);
         border-radius: 99px;
-        background: linear-gradient(to bottom, #666, #444);
+        background: var(--slider-thumb-background);
         height: 12px;
         width: 12px;
       }
@@ -249,18 +258,20 @@
         -webkit-appearance: none;
         appearance: none;
         margin-top: -5px;
-        border: 1px solid #555;
+        border: var(--slider-thumb-border);
         border-radius: 99px;
-        background: linear-gradient(to bottom, #666, #444);
+        background: var(--slider-thumb-background);
         height: 14px;
         width: 14px;
       }
 
       input[type="range"]:hover::-moz-range-thumb,
       input[type="range"]:hover::-webkit-slider-thumb {
-        background: linear-gradient(to bottom, #aaa, #888)
+        background: var(--slider-thumb-background-lit);
       }
 
+      /* no corresponding styles for webkit because the webkit shadow dom
+       * doesn't represent progress/fill for range inputs */
       input[type="range"]::-moz-range-progress {
         background: linear-gradient(to bottom, #1d3c7b, #0f2041);
         border-radius: 99px;
