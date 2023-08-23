@@ -28,8 +28,7 @@ const channels = channelData
       case "test-segment-boundaries":
         return SegmentBoundaryTestChannel(name, episodes)
       case "loop":
-        // TODO: enable LoopingChannel to play episodes
-        return LoopingChannel(name, episodes.flatMap(e => e.videos))
+        return LoopingChannel(name, episodes)
     }
   })
 

@@ -9,6 +9,7 @@ import {
   split,
   parseEpisodes,
   allEpisodes,
+  singleVideoEpisode,
 } from "./parser.impl"
 
 import type { ChannelModule } from "../data/types";
@@ -16,11 +17,13 @@ export {
   allEpisodes,
   entireVideo,
   range,
+  singleVideoEpisode
 } from "./parser.impl"
 
 ;(allEpisodes: (ChannelModule) => Array<Episode>)
 ;(entireVideo: (duration: number) => Segment)
 ;(range: (start: number, end: number) => Segment)
+;(singleVideoEpisode: (Video) => Episode)
 
 test("parseVideos", {
   "handles empty string"() {

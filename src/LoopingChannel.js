@@ -2,10 +2,11 @@
 import type { Broadcast } from "./Broadcast"
 import type { Channel } from "./Channel"
 import type { Episode, Video } from "./video/types"
-import {videoDuration} from "./video/types"
+import { episode, videoDuration } from "./video/types";
 
 import { SECONDS_BETWEEN_VIDEOS } from "./playback"
 import { equals, expect, is, test } from "@benchristel/taste"
+import { singleVideoEpisode } from "./data/parser";
 
 function gap(nextVideoId) {
   return {
@@ -16,8 +17,9 @@ function gap(nextVideoId) {
 
 export function LoopingChannel(
   name: string,
-  videos: Array<Video>
+  episodes: Array<Episode>
 ): Channel {
+  const videos = episodes.flatMap((ep) => ep.videos)
   const totalScheduleDuration =
     videos.map((v) => videoDuration(v)).reduce(add, 0) +
     videos.length * SECONDS_BETWEEN_VIDEOS
@@ -60,8 +62,8 @@ const add = (a, b) => a + b
 test("looping channel", {
   "plays the first episode after the second"() {
     const channel = LoopingChannel("Jonathan", [
-      video("first", "The First", 100),
-      video("second", "The Second", 100),
+      singleVideoEpisode(video("first", "The First", 100)),
+      singleVideoEpisode(video("second", "The Second", 100)),
     ])
 
     expect(
@@ -87,7 +89,7 @@ test("looping channel", {
 
   "plays a first video at the beginning"() {
     const channel = LoopingChannel("Jonathan", [
-      video("the-id", "the-title", 42),
+      singleVideoEpisode(video("the-id", "the-title", 42)),
     ])
     expect(channel.getBroadcast(0 + SECONDS_BETWEEN_VIDEOS * 1000), equals, {
       type: "video",
@@ -99,7 +101,7 @@ test("looping channel", {
 
   "plays a video all the way though"() {
     const channel = LoopingChannel("Jonathan", [
-      video("the-id", "the-title", 42),
+      singleVideoEpisode(video("the-id", "the-title", 42)),
     ])
 
     expect(channel.getBroadcast(1000 + SECONDS_BETWEEN_VIDEOS * 1000), equals, {
@@ -112,8 +114,8 @@ test("looping channel", {
 
   "puts a gap between videos"() {
     const channel = LoopingChannel("Jonathan", [
-      video("first", "The First", 100),
-      video("second", "The Second", 10),
+      singleVideoEpisode(video("first", "The First", 100)),
+      singleVideoEpisode(video("second", "The Second", 10)),
     ])
     // |~~|------------------------|~*~|--------------|
     //  2    +    100         +     1
@@ -125,8 +127,8 @@ test("looping channel", {
 
   "plays a second episode after the first"() {
     const channel = LoopingChannel("Jonathan", [
-      video("first", "The First", 1),
-      video("second", "The Second", 1),
+      singleVideoEpisode(video("first", "The First", 1)),
+      singleVideoEpisode(video("second", "The Second", 1)),
     ])
 
     expect(channel.getBroadcast(2 * SECONDS_BETWEEN_VIDEOS * 1000 + 1000), equals, {
@@ -136,6 +138,22 @@ test("looping channel", {
       videoTitle: "The Second",
     })
   },
+
+  "plays the videos of a multi-video episode in sequence"() {
+    const channel = LoopingChannel("", [
+      episode([
+        video("first", "The First", 1),
+        video("second", "The Second", 1),
+      ]),
+    ])
+
+    expect(channel.getBroadcast(2 * SECONDS_BETWEEN_VIDEOS * 1000 + 1000), equals, {
+      type: "video",
+      videoId: "second",
+      currentTime: 0,
+      videoTitle: "The Second",
+    })
+  }
 })
 
 function video(videoId, title, duration): Video {
