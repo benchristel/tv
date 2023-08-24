@@ -1553,7 +1553,7 @@ CPs0WHtqZgQ 18:09 Christmas in the WWI Trenches - Xmas Rations
 Tw98kP3xrfk 19:49 The Marie Antoinette Diet
 qvOTev_r4-8 12:55 When Coffee was Illegal
 B7A8GOgAm54 16:45 Making Medieval Haggis
-UpBv8H0G6ZY 18:34 Japan & the Portuguese Barbarians
+UpBv8H0G6ZY 0-2:15,3:20-18:34 Japan & the Portuguese Barbarians
 ixTkzBuD-cw 19:08 The true story of the First Thanksgiving
 ry5Du60WPGU 16:18 What did WWII Soldiers Eat?
 MrKafmzGNJc 20:18 Macaroni & Cheese from 1845
@@ -1656,7 +1656,7 @@ giPXpKy2lQ0 18:52 Baking An Ancient Roman Cheesecake
 NvQkpdFjqJY 16:29 Ancient Roman Honeyed Pork
 k6VBdGAEJyc 17:12 How To Feed A Roman Emperor: Vitellius & the Year of 4 Emperors
 jHpkqBFKmvA 3:27 I Quit
-qj5vg2fjOtk 18:52 Feeding a Roman Legion | Posca & Laridum
+qj5vg2fjOtk 0-38,1:00-13:57,14:29-18:52 Feeding a Roman Legion | Posca & Laridum
 DvBNqLUuHLI 19:08 Dragon Heart for a Viking King
 FVIng1x_6BU 17:51 Fabulous French Feasts of the 1700s
 n7T5abyBiUg 15:48 Queen Victoria's Easter Cake
