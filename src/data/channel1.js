@@ -4034,6 +4034,8 @@ EL9NBb0ihI8 10:19 Making a Handmade Book - Part 2 - Rounding & Endbands
 # Northmen
 bo9hXBdTfzQ 52:34 Grandfather. Full Documentary
 
+3-Jrp6it9Ss 1:30:18 Tunnel Vision: An Unauthorized BART Ride
+
 # Edward Calcutt
 tLjPk99iR9s 48:02 A History of London through Fascinating Street Names
 
@@ -4075,6 +4077,55 @@ h6AtEIuagK-k 2:04:21 The Mikado 1966 (Speed corrected) D'Oyly Carte Opera Compan
 
 # Brandon Acker
 r5K0nxMjFWU 6:03 My Favorite Baroque Piece 🎶
+
+# Leyriath Ensemble
+GraXhAge6co 5:11 LEYRIATH | CSM 340: Virgem Madre Groriosa - Alfonso X (1221-1284)
+JxHeQlqljck 4:22 LEYRIATH | CSM 18: "Por Nos de Dulta Tirar" - Alfonso X (1221-1284)
+5T0pTxiBclk 3:14 LEYRIATH | Je Veulx Laysser Melancolie de Ricaforte - Luys de Narvaez (1490-1547)
+Iw5m2k5pbTA 3:13 LEYRIATH | Pode Por Santa Maria (CSM 163 - Alfonso X)
+OmUnDAcUddQ 3:43 LEYRIATH | Sen Calar Nen Tardar (CSM 380 - Alfonso X)
+0e78OsFbsc8 3:59 CSM 380: Sen Calar Nen Tardar (Time of Sharing) - LEYRIATH Of Music and Legends & TWB, LIVE
+-B9pM-L9XBc 5:01 Fantasia que Contrahace la Arpa en la Manera de Luduvico - LEYRIATH Of Music and Legends & TWB, LIVE
+HjIbu-JDsGM 2:37 CSM 37: Milagres Fremosos Faz Por Nos (Chasing a Dream) - LEYRIATH Of Music and Legends & TWB, LIVE
+
+# Carlos Simas
+MvclI-LE46k 9:57 Carlos Simas - minha biografia musical
+KIvlQaXpnrU 3:56 Fest - Noz I (Carlos Simas)
+SCVfyIs4b6s 4:20 Butterfly - Video Clip
+Ma3Cit9DglI 9:16 New Age Acústico - Carlos Simas
+DlT0beyD3xw 9:00 CELTIC SOLO AUTORAL by Carlos Simas
+LvniuzeT5_w 1:39 King Williams's March - Carlos Simas - Celtic Harp
+WeMQPuj9RVs 1:19 PIOBAIREACHD OF DONALD OHU - March - Carlos Simas - Mountain Dulcimer
+YO00PRuuPcc 1:08 Loch Lomond (trad. Scotland) - Carlos Simas - Mountain Dulcimer
+g0PFVNYaEo8 1:05 Amazing Grace - Carlos Simas - 5 Strings Banjo
+mT0_hfbzAjc 3:14 SHENANDOAH - Carlos Simas - Folk Guitar
+hKk_a8IebUQ 1:04 HERR MANNELIG - Carlos Simas - Anglo-Saxon Lyre
+o5ipxqKsBnI 0:44 VÖLUSPÁ /IGGDRASIL- Anglo-saxon Lyre - Carlos Simas (Instrumental)
+sovBrNCqO9w 6:13 Mountain Dulcimer - Triskele Programa Nº3 - Carlos Simas
+X3TwGqtUM0w 4:45 Kantele - Triskele Programa 1 - Carlos Simas
+rra6UZO4SGM 1:57 Cantiga 353 - Bear Dance (ancient) Flauta Tamborileira: Carlos Simas
+KiR9YL4nykE 0:55 Drømte Mig en Drøm - Bowed Psaltery - Carlos Simas
+DwOPyTk5Imc 1:04 Je Vivroie Liement (Guilhaume de Machaut) - Carlos Simas: Kravik Troll Lyre
+o_J7KNGbT8g 0:59 Cantiga 119 - Alfonso X (Espanha XIII cent.) Carlos Simas
+KANBD2qJIk8 1:10 Hooleys - by Dick Wildman (Carlos Simas - Acoustic Guitar)
+hVl1TLSV8Wg 0:54 Batismo Celta (Pequena Amostra)
+nry5VRI3JxM 0:59 Kotiin Tulessa (Home In Fire) Trad. Finland - Kantele : Carlos Simas
+NougRZwvGi8 1:05 Cantiga 380 Sen Calar - Alfonso X (Espanha cent. XIII) Carlos Simas - Mountain Dulcimer
+Ve0JS8Lfnnc 1:30 Kantele 20 strings - Lehmiäisä Hunlaissa (Trad. Finish) Carlos Simas
+nog9ZCfPIBk 6:00 Ruas Sonoras CARLOS SIMAS
+yhSpEqaoG8k 13:03 Música Céltica - Banda Thunderkelt, Noites Curitibanas ÓTV 042011
+cnwTE3-mV6o 1:19 Rio na Pousada Monte Crista (Garuva - (SC) Brasil
+NSL-__YEPcE 0:56 Cantiga de Santa Maria 213 (Alfonso X , XIII c.)-Carlos Simas :Gotic Harp
+RhQPj8fAwCI 2:02 Polorum Regina (Llibre Vermell de Montserrat, Spanish-late XIV) - Carlos Simas, Gotic Harp(Brazil)
+apBJqNWIcRw 1:38 Arja kastinen y Carlos Simas
+eg3GjjqawgM 3:31 Muñeira da Magali
+KRCH_HhJgAE 2:25 Carlos Simas and Deni Ribas playing a polka for chidrens
+CJussPvi4jI 2:04 LLanthony Valley (Jessica Walsh) - Carlos Simas (whistles) y Elizabeth Viero (lyre).
+fgR_261qEnM 2:40 Down by the Glenside (Ireland) - Carlos Simas and Elizabeth Viero
+HL_TSZVT3bg 0:50 My Musical Instruments-Carlos Simas
+VjjCDDA6s_w 3:23 Cantigas de Santa Maria - Gaita Galega - Carlos Simas
+zmbqvk1iPg0 6:44 Inisheer/Tribute to Rick Mullin: Carlos Simas (Wire Strung Harp)
+KVqXBuvnVuk 2:59 Si Bheag Si Mhor (T. Carolan 1670-1738 - Ireland) Carlos Simas and Luis FitzPatrick (Brasil)
 
 upy9dA5uD-U 5:36:54 The Once And Future King by T.H. White (Radio Drama)
 

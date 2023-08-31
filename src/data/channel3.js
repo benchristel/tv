@@ -25,8 +25,10 @@ Jl1_m1OtkpE 1:01:28 Brian Eno - New Space Music
 Gf1RHyuuLnI 4:59 Kirsten Bråten Berg - Heiemo og Nykkjen(folkesang)
 Tt8p5AxJn18 4:14 Sinéad O'Connor - Mna na h Eireann (Women of Ireland)
 Dhgi3wb_GB8 4:25 Ripoff Raskolnikov - Azt gondoltam eso esik
+7lvI8e3vPT4 4:04 Muzsikás - Azt gondoltam, eső esik
 apE1n63ZhMQ 3:39 Muzsikás: Repülj madár, repülj (Fly Bird, fly) + pics of Hollókő (read the info)
 8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan
+OmUnDAcUddQ 3:43 LEYRIATH | Sen Calar Nen Tardar (CSM 380 - Alfonso X)
 ` 
 
 export const episodes: Array<string> = [
@@ -715,5 +717,27 @@ export const episodes: Array<string> = [
     # Dallas Simpson
     M_-7FjNBZIY 8:57 Webster's Raft (Excerpt)
     tmhPr0J-GmM 13:20 Waterpump (Aquapump)
+  `,
   `
+    # Leyriath - The Song of Lumino
+    MtWzQgdaIeQ 3:17 Prologue: L’Orfeo, Ritornello (The Ritual of Initiation)
+    A4_nTlFnaqk 3:02 Canción del Emperador (Enchanter of the Hearts)
+    WQ0r5F9l0UE 3:10 Je Veulx Laysser Melancolie de Ricafort (The Pirate Ship)
+    oym47GWAhP4 5:29 Pavana de Alexandre (The Last Song)
+    aKMuFza65LU 3:24 Guardame las Vacas (Delfin and Safirina)
+    tA-Mtkopq-0 5:06 Fantasía que Contrahaze la Harpa en la Manera de Ludovico (Journey to the Stars)
+    gD9f-qmEcCY 7:10 The Song of Lumino (Bonus Track)
+  `,
+  `
+    # Leyriath - Of Music and Legends: Cantigas de Santa Maria (Alfonso X)
+    XEPAeUvMRJY 4:06 CSM 18: Por Nos De Dulta Tirar (Nunium, The Wizard Of Leyriath)
+    TZHw7ARVvEU 3:09 CSM 400: Pero Cantigas De Loor (Journey Through Liz And Lena)
+    fygUlMULpuA 2:25 CSM 37: Miragres Fremosos Faz Por Nos (Chasing A Dream)
+    3H-fS-xHsUI 5:14 CSM 340: Virgen Madre Groriosa (The Muse And The Bard)
+    E3oO5qBQSAc 3:24 CSM 380: Sen Calar Nen Tardar (Time Of Sharing)
+    IAFZFrDd7E0 3:05 CSM 163: Pode Por Santa Maria O Mao Perdela Fala (The Quest Of Nunium)
+    GFvjaK-PRFQ 4:58 CSM 126: De Toda Chaga Ben Pode Guarir (Yearned Encounter)
+    pn_NobLCSAc 2:56 CSM 123: De Santa Maria Sinal Qual Xe Quer (Everlasting Promise)
+    VvGqD_m0O34 7:04 The Wizard Of Leyriath (Bonus Track)
+  `,
 ]
