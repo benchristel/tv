@@ -4129,6 +4129,10 @@ KVqXBuvnVuk 2:59 Si Bheag Si Mhor (T. Carolan 1670-1738 - Ireland) Carlos Simas 
 
 upy9dA5uD-U 5:36:54 The Once And Future King by T.H. White (Radio Drama)
 
+# Ball Machine Kinetic Sculptures
+nxDcvBJL1dI 3:38 1993 George Rhoads Audio-Kinetic Sculpture - Great Ball Machine Contraption Roller Coaster
+bhJl6KtgN50 3:17 Ball Machine Sculpture: Odyssey of the Spheres (George Rhoads)
+
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
