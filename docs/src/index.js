@@ -2060,6 +2060,9 @@ txnsyXlyi3g 0:41 Argemmyn Gwydhyo RanG
 s4Jr_sHpCpo 2:41 Peboryon
 31Ks1xEWnNg 2:24 Cornish Language on Great British Railway Journeys
 
+# Cornish Language Office
+-ZWfPD1fJrQ 12:30 Hwedhel Henry Jenner | Story of Henry Jenner (with subtitles)
+
 # Archif Teledu Cymru
 leb645Xu6uo 9:54 Captain Murderer - Emlyn Williams
 Ga8tNxnHjt4 3:39 Sut Wnaethoch Chi Sillafu Caernarfon? Y Dydd 1971
@@ -4130,6 +4133,14 @@ KVqXBuvnVuk 2:59 Si Bheag Si Mhor (T. Carolan 1670-1738 - Ireland) Carlos Simas 
 
 upy9dA5uD-U 5:36:54 The Once And Future King by T.H. White (Radio Drama)
 
+# Ball Machine Kinetic Sculptures
+nxDcvBJL1dI 3:38 1993 George Rhoads Audio-Kinetic Sculpture - Great Ball Machine Contraption Roller Coaster
+bhJl6KtgN50 3:17 Ball Machine Sculpture: Odyssey of the Spheres (George Rhoads)
+
+# Noh
+wA3CEeqMCHQ 1:29:14 Matsukaze (松風) Noh with Script & Synopsis
+eqsN6R1PfEA 59:36 能 「土蜘蛛 ササガニ 」 KYOTO de petit能　文化庁委託事業「文化芸術収益力強化事業」林宗一郎
+
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
@@ -4195,7 +4206,9 @@ g8twezOz2h4 0:03 WGBH Boston | Title Card | 2003 | PBS Kids
 # aP_3BZxWz9k 1:17:44 Wind in the Willows - Derek Jacobi [Abridged]
 k5onUh_4qv8 6:55:28 The Wind in the Willows [Full Audiobook] by Kenneth Grahame
 WScPMDMBM9Q 1:15:53 Kensa Kernewek - Volume 1 (CD, 2006)
-UxEvRoAaYBM 1:42:53 Dao De Jing or Tao Te Ching - Book of the way
+8c4fAznBlEg 52:10 Crysten Fudge, Graham Sandercock - Kernewek Mar Plek 1
+mVXZg6_JdmE 4:40 The Hobbit Chapter I in Cornish (An Hobys Chaptra I in Kernowek)
+# UxEvRoAaYBM 1:42:53 Dao De Jing or Tao Te Ching - Book of the way
 POSkU5goGXE 2:20:56 Winnie-the-Pooh (Version 2) by A. A. Milne read by Matthew Soanes | Full Audio Book
 # bnp9U16h_IM 2:54:44 The House at Pooh Corner Unabridged Audiobook
 
@@ -4226,7 +4239,7 @@ POSkU5goGXE 2:20:56 Winnie-the-Pooh (Version 2) by A. A. Milne read by Matthew S
 # 8S1ulnPb15A 5:00:18 Äänikirja: Odysseun harharetket, Homeros
 # R1cXzTVTXdE 8:40:55 Robin Hood ja hänen iloiset toverinsa, John Finnemore
 
-# hykA1SLAkbc 1:18:21 Mabinogion - walesi legendák. A Mabinogi első ága [hangoskönyv]
+hykA1SLAkbc 1:18:21 Mabinogion - walesi legendák. A Mabinogi első ága [hangoskönyv]
 ozQCUwofCXw 36:55 Branwen Uerch Lyr
 
 # Alan Watts Lectures
