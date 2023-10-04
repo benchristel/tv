@@ -4168,6 +4168,7 @@ g8twezOz2h4 0:03 WGBH Boston | Title Card | 2003 | PBS Kids
   4cDVjJqesys 22:26 The Reeve's Tale (Canterbury Tales), read in Middle English (complete)
   F6Gzi7BRnbU 2:18 The Cook's Prologue (Canterbury Tales), read in Middle English
   CzSbHVFMr8o 3:14 The Cook's Tale, from the Canterbury Tales, read in Middle English
+  GxfHOHececU 5:36 The Man of Law's Tale, read in Middle English (Part 1, Canterbury Tales)
   `,`
   Cw6vJPLk6sM 17:25 The House at Pooh Corner - read by Norman Shelley - Chapter 1
   tKZRHKLrBJc 16:58 The House at Pooh Corner - read by Norman Shelley - Chapter 2
@@ -4252,7 +4253,6 @@ cCXWuAm-cqA 1:15:08 In Gowan Ring - The Twin Trees (1997) [FULL ALBUM]
 B3oAx9VmAdA 43:52 In Gowan Ring - Hazel Steps Through A Weathered Home
 RqKtDn5ntms 53:37 Genesis - Selling England by the Pound (Full Album) 1973
 jGZaH0JEiic 39:33 Genesis - Nursery Cryme (Full Album) 1971
-54PIvzGOlmo 44:52 Moondragon - Synaesthesia (1996)
 c8gylOvjVoM 31:59 Moondragon - Moondragon (their first album)
 2F37ZjThB6s 1:13:09 Moondragon - Dream (1991)
 dfkTPeaVU50 1:09:01 Lordryk (Moondragon) - Combined Chaos (Live)
@@ -4924,7 +4924,6 @@ OmUnDAcUddQ 3:43 LEYRIATH | Sen Calar Nen Tardar (CSM 380 - Alfonso X)
     oym47GWAhP4 5:29 Pavana de Alexandre (The Last Song)
     aKMuFza65LU 3:24 Guardame las Vacas (Delfin and Safirina)
     tA-Mtkopq-0 5:06 Fantasía que Contrahaze la Harpa en la Manera de Ludovico (Journey to the Stars)
-    gD9f-qmEcCY 7:10 The Song of Lumino (Bonus Track)
   `,`
     # Leyriath - Of Music and Legends: Cantigas de Santa Maria (Alfonso X)
     XEPAeUvMRJY 4:06 CSM 18: Por Nos De Dulta Tirar (Nunium, The Wizard Of Leyriath)
@@ -4936,6 +4935,21 @@ OmUnDAcUddQ 3:43 LEYRIATH | Sen Calar Nen Tardar (CSM 380 - Alfonso X)
     GFvjaK-PRFQ 4:58 CSM 126: De Toda Chaga Ben Pode Guarir (Yearned Encounter)
     pn_NobLCSAc 2:56 CSM 123: De Santa Maria Sinal Qual Xe Quer (Everlasting Promise)
     VvGqD_m0O34 7:04 The Wizard Of Leyriath (Bonus Track)
+  `,`
+    # Erik Ask-Upmark - Himlens Polska
+    djwgp9uN484 5:07 Oppningspolskor
+    HCTw61XMQLU 3:13 Ornunga
+    ASSqu8WpBfA 4:38 Himlens Polska
+    16ShSBDcEPM 3:09 Slippolska
+    Fn9TvQJx4og 3:27 Andakten
+    BtX-t54RRjQ 3:55 Fingerstrackarn
+    enEhmRLOJYg 3:46 Flageoletten
+    _n68kCrBHHM 4:42 Blekingarna
+    QP45DNImiPU 4:22 Florellen
+    p7CPysK9bf0 4:50 Allor E'ro A Allor Bir'o
+    2TT2eLEnzD8 4:11 Koral Fran Seglora
+    FuO_Fx_H2Tc 3:22 Blomgren
+    a0ie1T2YeII 6:13 Norsk Brudmarsch
   `];var ts={};Vn(ts,{episodes:()=>Ug,videos:()=>Fg});var Ug=[],Fg=`
 T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] - Antique Table Clock
 `;var is={};Vn(is,{episodes:()=>Kg,videos:()=>Hg});var Kg=[`
