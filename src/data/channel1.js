@@ -3691,6 +3691,8 @@ v8Dti6dGHFs 5:15 Urban Think Tank - Future of Places Interview 2013
 
 # Concerts
 Cl2-pDsMkrw 1:48:52 Watermelon Wednesday 2015 - Peter Blanchette and Friends
+nTUegVgzxag 0-4:50 Heifetz Hootenanny: Sí Bheag, Sí Mhór | Nigel Armstrong & Peter Blanchette
+-bNGmy6QNk4 13-3:56 Bach: Allemande from French Suite No 3, BWV 814 | Peter Blanchette, Mané Lareggla, archguitars
 i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely
 
 # ClackCo TV

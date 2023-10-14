@@ -18,6 +18,7 @@ npsgOn1QY1M 41:53 Pink Floyd - Dark side of the moon - HD - High Audio Quality (
 _zmeye7-HOE 48:54 Evanescence - Fallen (FULL ALBUM)
 p0D-w-HhB64 47:46 Dire Straits - Brothers In Arms {Reissue} [Full Album]
 Jl1_m1OtkpE 1:01:28 Brian Eno - New Space Music
+_VOk5ubGg9M 29:55 The Bach Variations A Windham Hill Sampler 12 1994
 
 # Singles
 
@@ -29,7 +30,9 @@ apE1n63ZhMQ 3:39 Muzsikás: Repülj madár, repülj (Fly Bird, fly) + pics of Ho
 8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan
 OmUnDAcUddQ 3:43 LEYRIATH | Sen Calar Nen Tardar (CSM 380 - Alfonso X)
 jGacwtlb3gc 5:04 Andrew Cronshaw - Sofia, The Saracen's Daughter (Edit)
-` 
+LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
+dbVLPJvPEmM 10-5:23 Archguitar Duo P Attaingnant La Brosse
+`
 
 export const episodes: Array<string> = [
   `
@@ -737,7 +740,7 @@ export const episodes: Array<string> = [
     IAFZFrDd7E0 3:05 CSM 163: Pode Por Santa Maria O Mao Perdela Fala (The Quest Of Nunium)
     GFvjaK-PRFQ 4:58 CSM 126: De Toda Chaga Ben Pode Guarir (Yearned Encounter)
     pn_NobLCSAc 2:56 CSM 123: De Santa Maria Sinal Qual Xe Quer (Everlasting Promise)
-    VvGqD_m0O34 7:04 The Wizard Of Leyriath (Bonus Track)
+    # VvGqD_m0O34 7:04 The Wizard Of Leyriath (Bonus Track)
   `,
   `
     # Erik Ask-Upmark - Himlens Polska

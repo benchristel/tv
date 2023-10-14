@@ -16,6 +16,68 @@ export const episodes: Array<string> = [
     PB6MYWOao-8 5:24 Johnny Seoighe
     hcOB2m4lBqk 3:01 The Dove's Return
   `,
+  `
+    # Mediaeval Baebes - Salva Nos
+    rDDLxNxzEDI 1:44 Salve Virgo Virginum
+    sOCsdR_6WN0 3:27 Now Springes The Spray
+    tm0M-4CphYg 2:19 Ah Si Mon Moine
+    qOYqtmhoD6I 3:11 Adam Lay Ibounden
+    GT0Tv8lV_cQ 2:09 Foweles In The Frith
+    dksrHBToupo 2:30 So Treiben Wir Den Winter Aus
+    QcvZoaJfZzQ 4:25 The Coventry Carol
+    INAdvWqPsIo 2:18 Gaudete
+    EiZ2beT2e9s 2:45 Adult Lullaby
+    M273d5c5ezY 5:07 Veni, Veni
+    QD_ufu-wUFY 2:46 Salva Nos
+    CXkBk8nK5AM 2:35 Verbum Caro
+    6KjdJq5-6rw 1:42 Lo, Here My Hert
+    s5hVuyRxiD4 2:06 Binnorie O Binnorie
+    mm2GN-48QYg 1:43 This Ay Nicht
+    KRn4T7HViSE 2:34 Miri It Is
+  `,
+  `
+    # Daniel Taylor and the Trinity Choir - Four Thousand Winter
+    Xq1Ri650Mao 1:23 Daniel Taylor - Hodie Christus natus est (Pseudo Video)
+    3qAnYgCpFuY 4:58 The Lamb
+    Yi3av0ct8Ss 3:45 Daniel Taylor - Adam Lay Ybounden (Matthew Martin version) (Pseudo Video)
+    b3IY0kxc4ik 1:34 Daniel Taylor - Adam Lay Ybounden (Boris Ord version) (Pseudo Video)
+    KtNob6DRLvg 14:27 Daniel Taylor - Videte miraculum (Pseudo Video)
+    bnMRau5x42c 2:32 Daniel Taylor - Ave Maria (Pseudo Video)
+    M4v_A54m5_Y 3:14 Daniel Taylor - The Truth from Above (Pseudo Video)
+    Gqxi5ZXY5w0 3:58 Daniel Taylor - A Spotless Rose (Pseudo Video)
+    x3zBllq4hDc 2:59 Daniel Taylor - Es ist ein ros entsprungen (Pseudo Video)
+    L-xzEeALQ-Y 3:18 Daniel Taylor - There Is No Rose of Such Virtue (Pseudo Video)
+    DOl73FRSmdo 5:06 Daniel Taylor - Ther Is No Rose of Swych Vertu (Pseudo Video)
+    ciIOQcUusFo 5:11 Daniel Taylor - In the Bleak Midwinter (Pseudo Video)
+    5k9jNeLVkJU 4:07 Daniel Taylor - Adam Lay Ybounden (Matthew Larkin version) (Pseudo Video)
+    Wjc0mtDW9v4 1:27 Daniel Taylor - O radix Jesse (Pseudo Video)
+  `,
+  `
+    # Anonymous 4 - On Yoolis Night
+    NXFLmXkH7dE 1:05 Antiphon: Hodie Christus natus est (chant)
+    5eh00mRRI7A 0:50 Motet: O nobilis nativitas - O mira dei - O decus virgineum - Apparuit
+    rtT5J1M8nVU 0:30 Antiphon: Lux de luce (chant)
+    1xBk1_nwXnY 5:46 Carol: Alleluya: A nywe werke
+    Hg6OMTvts10 2:24 Hymn: Verbum supernum prodiens (chant)
+    _ujIfrHxzJk 2:35 Motet: Balaam de quo vaticinans - [Ballam]
+    uF6M0IN6IKM 2:43 Carol: Ave Maria
+    j1BKmltUHiI 3:57 Song: Gabriel, fram heven-king
+    dA4MQ-G7o50 2:55 Carol: Lullay: I saw a swete semly syght
+    6YNCo97SWrU 2:29 Motet: Prolis eterne genitor - Psallat mater gracie - [Pes]
+    FzDk3iRs78M 3:11 Hymn: Vox clara, ecce, intonat (chant)
+    cNU06jX1WVE 2:16 Rondellus: De supernis sedibus
+    f2bh5_v0xC8 0:39 Antiphon: Omnes de Saba (chant)
+    lYFkjeczmdw 1:37 Motet: Puellare gremium - Purissima mater - [Pes]
+    OrgpeDMdZ6U 8:06 Carol: Lullay, lullay: Als I lay on Yoolis night
+    O7x--Xi_a7U 3:31 Responsory: Tria sunt munera (chant)
+    HkQFZ7fWCn8 2:08 Motet: Orto sole serene - Origo viri - Virga Iesse - [Tenor]
+    wITBKQsz8Us 4:22 Song: Peperit virgo
+    wxUEUGkCumY 4:17 Carol: Ecce quod natura
+    5UvpM68xG8M 3:50 Hymn: A solis ortus cardine (chant)
+    viDKLF28Rfs 3:39 Carol: Ther is no rose of swych vertu
+    qbR2cvv7G2k 0:32 Antiphon: Videntes stellam (chant)
+    HFe8iYPZ7BI 4:51 Carol: Nowel: Owt of your slepe aryse
+  `,
 ]
 
 export const videos: string = `
@@ -122,6 +184,7 @@ cKMu6b2Ls8s 51:29 Christmas at the Time of Praetorius
 eW79ejQcrDo 51:44 A Baroque Christmas
 r7adETaOYiQ 1:30 The Boar's Head Carol
 2AjFT4Rcp_U 3:41 Cantiga De Santa Maria, No.48
+viDKLF28Rfs 3:38 Carol: Ther is no rose of swych vertu
 
 # Celtic Christmas III
 # pgaiDhAqQ44 3:45 The Wexford Carol
