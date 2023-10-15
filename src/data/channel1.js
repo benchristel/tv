@@ -1532,6 +1532,192 @@ O1--0DLJv-8 25:10 One Day Builds: Customizing Adam's Hero Sword
 # YXzxEqdvuIE 31:11 One Day Builds: Adam Savage Demonstrates Weathering Tricks Mophie Juice Pack Helium for iPhone 5
 # -tUHJnl8qPM 32:11 One Day Builds: Adam Savage Makes Something Wonderful from Scratch Sony NEX-5R Mirrorless Interchangeable Lens Camera
 
+# Technology Connections
+ue-1JoJQaEg 50:09 Old pinball machines are amazingly complex
+vNj75gJVxcE 18:40 Power outlets are topsy turvy - but does it matter?
+Khp3wb0QMpQ 19:20 Photoelectric light controls are weirder than they seem
+ZJOfyMCEzjQ 48:39 Tesla won the plug war - and that's good news!
+zb7Bs98KmnY 33:33 Longer-lasting light bulbs: it was complicated
+8PTjPzw9VhY 1:03:33 This goofy fridge has a really clever design. It's also kinda terrible.
+xSnrQBfBCzY 36:27 Digital audio needed videotape to be possible - and the early days were wild!
+U0YW7x9U5TQ 29:43 Electric cars prove we need to rethink brake lights
+hGVVAQVdEOs 40:44 Sony Betacam: Not the Beta you're thinking of (it's way better)
+VsNHrAzx5_w 25:50 Contactors: how we power the big stuff
+zheQKmAT_a0 40:50 Plug-n-play solutions for home electrification, and options for power outages (Part 2)
+3DdUvoc7tJ4 17:37 How do vinyl records hold stereo sound?
+CVLLNjSLJTQ 31:54 Home Electrification: There's not a lot to do, and it doesn't have to be hard (Part 1)
+Bm7L-2J52GU 22:52 A simple water heater is more clever than it seems
+PnJZSk4JHFM 16:36 Timer switches: literally just a clock and a switch
+tg--L9TKL0I 39:03 Movies made sound with a light bulb: Sound-on-film
+nyYjnV99wfM 17:41 The decorative lamp that's built wrong on purpose
+2DGqVbTHX-k 15:54 In Defense of the Switched Outlet
+imMBwUGjXHs 16:54 The clever camera code on rolls of film
+ZiXg6H_FycI 24:27 This TV gadget censors bad words with 1980's tech
+c2J91UG6Fn8 25:21 Old car headlights were all the same — which was a fairly bright idea
+bwm_Dya0PFQ 25:11 This 1960's camera is powered by light and completely automatic
+Iyp_X3mwE1w 57:50 A Complete Beginner's Guide to Electric Vehicles
+Sp9H0MO-qS8 36:29 Drip Coffee Makers — super simple, super cheap
+YE0U018Copw 20:39 The correcting feature of typewriters is not what I thought
+DuAeaIcAXtg 24:56 There are two types of smoke alarm. One of 'em ain't so good.
+tbvVnOxb1AI 21:27 Is Philips discontinuing their coolest warmest product?
+_yMMTVVJI4c 24:55 Why don't Americans use electric kettles?
+sZOuz_laH9I 29:57 The tech which can charge an electric car in 10 minutes
+hE3KjKg69ZA 26:33 The Autochrome; Color photos? Just add potatoes.
+43XKfuptnik 46:33 Heat Pumps are Not Hard: Here's what it will take to start pumping
+MFEHFsO-XSI 21:03 Why Heat Pumps are Immensely Important Right Now
+fsIFxyOLJXM 30:03 A troubling trend in lighting?
+i_mLxyIXpSY 21:48 Lessons from a Can Opener
+AQC2WsvHdqw 40:28 A Backwards Camera in a Dark Room - Photographic Printing
+cQgcTkXacAc 16:47 Once again I attempt to add polish to LED holiday lights
+JXYMdxwTf8s 17:28 This digital piano has some very clever controls
+WpgsITqoDXQ 27:02 Making Film Reveal its Image: the B&W Development Process (Photography Part 2)
+wbbH77rYaa8 37:16 The Birth of Photography: Drawing With Light (and silver iodide)
+udNXMAflbU8 20:32 Holey Plugs, Batman! But... what are they for?
+klUxwMfu4-8 4:07 Introducing a new series! Connextras: Sights and Sounds
+Ll6-eGDpimU 48:25 I messed up. You're using too much detergent.
+2z5A-COlDPk 37:16 Why it's not possible to synchronize turn signals (but also absolutely is)
+D_qFWoa_HR4 30:48 Pressure lamps: gaslighting on the go
+0f9GpMWdvWI 24:26 Batteries aren't the only way to store energy. Here's another.
+F3rncxf4Or8 29:08 How the gas mantle made lamps 10X brighter
+tURHTuKHBZs 31:46 Why do hurricane lanterns look like that?
+K_q-xnYRugQ 25:48 Perhaps the weakest link in the US electrical system
+t-JN2U4jHgk 25:48 What the Crookes Radiometer can teach us
+jCUHDFYdG44 9:36 Analog Hygrometers - how?
+ZArBfxaPzD8 18:28 These digital clocks aren't digital at all
+7zrx-b2sLUs 28:04 Ground Source / Geothermal Heat Pumps and Other Info
+_AdBcTMHG0Q 23:21 In Defense of the CFL: A Retrospective
+7J52mDjZzto 35:15 Heat Pumps: the Future of Home Heating
+7SZHA3qTc6c 21:12 The GeoSafari Jr. was a cleverly flexible kid's game
+Oj0plwm_NMs 18:25 Reusable handwarmers that get hot by freezing
+plbB42EUIUU 17:49 Exploring the Technology Connections Set (1 million subscribers special)
+oHeehYYgl28 28:34 Humidifiers: Simpler is better?
+_rBO8neWw04 32:35 Detergent packs are kinda wishy-washy (Dishwashers Explained)
+5un4DdKQZvs 8:01 Bubble Lights: The Weirdest Christmas Light?
+16gB2BDXwTo 24:16 What exactly is the goop inside a lava lamp?
+UiS27feX8o0 14:21 The Antique Microwave Oven that's Better than Yours
+r_uBHmAhnfo 28:08 1970's Camera Tech: How they showed you what settings to use
+lBVvnDfW2Xo 22:05 Forced-air Furnaces: The What, Why, and How
+RMxB7zA-e4Y 27:19 Electric car chargers aren't chargers at all – EVSE Explained
+TbHBHhZOglw 17:24 The touch lamp; a neat idea, and older than you'd think!
+Bi_Tp1H9CDs 22:45 Retroreflectors; they're everywhere, and they cheat physics (sort of)
+bxN2JSMpvCo 27:36 A record player that can play CDs: The Fisher DAC-145
+jKi7xGE4BEw 11:12 The Impact Sprinkler - more clever than it seems!
+2horH-IeurA 27:03 Personal "air conditioners" aren't what they seem
+dH4n8fUjtLQ 9:32 Cassette adapters are remarkably simple
+Pc31L3zJiaU 27:55 Laptop Docks! They're pretty neat!
+jMmUoZh3Hq4 24:26 The US electrical system is not 120V
+bLk1cjZ4ll0 11:02 How to design an actually good toaster with lessons from the 1940's
+4pZZ5AEEmek 12:45 Pulse Oximeters; An Amazing Use of Light
+hQ3GW7lVBWY 17:48 Fans; High is next to Off on purpose
+e1mJv9pxm7M 20:27 DVD+R and DVD-R; What was that about?
+E9avjD9ugXc 24:58 Coffee Percolators: An Explanation and Roast
+CGAhWgkKlHI 26:54 Chest Freezers; What they tell us about designing for X
+o1qRzKuskK0 28:53 The Selection Accumulator; a Jukebox's Brain
+NmGaXEmfTIo 23:04 The Computer-free Automation of a Jukebox (Electromechanics)
+YeRu4xYH_W0 10:00 Teleprompters are clever, simple, and also pretty neat
+wh4aWZRtTwU 21:15 Brown; color is weird
+ASuo4DM6MT0 27:33 Race to the finish; RCA's final gamble (CED Part 5)
+RSTNhvDGbYI 11:11 Old-fashioned rice cookers are extremely clever
+P1dDKvuFJ0c 25:52 Holograms, Lasers & Boredom; the CED's march towards eventual invention (CED Part 4)
+rVpABCxiDaU 21:39 Film: the reason some of the past was in HD
+s8khEO7PuDU 8:12 One more thing: the VHS notch
+adD5oC2asXI 9:06 Klaxons; What makes them sound like that?
+ebkD6DzZDlA 13:32 LED color experiments 2019; Beyond the Sharpie
+hWl9Wux7iVY 17:08 The VHS cassette was more clever than Beta
+hpwLDQSadE4 26:37 RCA's CED failed; their history can tell us why (Pt. 3)
+iyaGDLBsmdY 8:06 The VFD that isn't
+z-q8ehzHeQQ 12:16 LCCS: The LCD / CRT Hybrid from JVC
+mSFwyM2L5h4 24:21 The CED: No really, it coulda made sense! (Part 2)
+PnpX8d8zRIA 23:33 The CED: RCA's Very Late, Very Weird Video Gamble (Pt. 1)
+uYbdx4I7STg 22:19 The Weird World in RGB
+jrMiqEkSk48 15:26 Switches are Clicky; Here's Why
+CwZdur1Pi3M 23:10 Fiber vs. Copper; What do we really need?
+ICcEOXVZ3F0 20:47 TOSLINK: That one consumer fiber optic standard
+ZC5Zr3NC2PY 15:39 The Best Easy Way to Capture Analog Video (it's a little weird)
+_-mBeYC2KGc 16:39 Portable Air Conditioners - Why you shouldn't like them
+GuoFW2yAD7g 18:47 Automatic Record Changers: We used to like them
+ZZC0SP02PqY 17:03 Thermostats: Cooler than you think!
+ccneE_gkSAs 19:41 Flexplay: The Disposable DVD that Failed (Thankfully)
+1OfxlSG6q5Y 18:28 The Antique Toaster that's Better than Yours
+ytpRnRke6I0 6:40 E-Ink on Android, and other new things!
+dhRgw0HfrYU 17:52 Exploring the World of E-Ink
+zLFG068HtgM 11:18 The Electromagnet in Your Toaster
+Q2a9Yvo2Yyg 20:47 The Story of Disney's PeopleMover in Texas
+V-jmSjy2ArM 17:43 Space Heater Nonsense
+ZrJmXvxXjD0 17:38 The Time-Lapse VCR
+VeLvdE8lNW4 10:38 The Odd History of the SD Logo
+ecH3OU0R4ls 17:52 DVD-RAM: The Disc that Behaved like a Flash Drive
+hz_mMLhUinw 12:31 The Superheterodyne Radio: No really, that's its name
+6SL6zs2bDks 19:48 Closed Captioning: More Ingenious than You Know
+PBFPJ3_6ZWs 12:16 LED Experiments: Making Holiday Lights Less Garish
+40hJStzsBm8 21:22 LightScribe: HP's Clever Twist on the CD Burner
+48hW-K7fQTM 8:03 The Ubiquitous Sound That You May Have Never Noticed
+TCTWyNstpD0 17:16 CD-ROM, CD-R, CD-RW, Books of Red, Blue, Purple, Beige, Orange, Scarlet...
+1q4dUt1yK0g 17:33 TC Projects: Lead-Acid Battery Backup
+SEFbeXH4tB8 20:32 An Oscilloscope Bonus: 20+ Minutes of Poking Around a CD player
+7olNiMCz9to 21:12 CDs: More to Talk About (Sony vs. Philips)
+_saDCwsB9Ww 9:36 LED Printers: The Common Printing Tech You Haven't Heard Of
+3yJqlD9RxD4 21:22 Dissecting the CD Player: How to Turn Shiny Plastic into Music
+sAbhPeTp51s 17:16 The Compact Disc: An Introduction
+ILBjnZq0n8s 15:59 The GFCI/RCD: A Simple but Life-Saving Protector
+pWjdWCePgvA 17:34 Nyquist-Shannon; The Backbone of Digital Sound
+Gd_mhBf_FJA 14:12 Sound By Numbers: The Rise of Digital Sound
+O1lZ9n2bxWA 13:43 The Senseless Ambiguity of North American Turn Signals
+9uZ13I2zvfM 22:49 Betamovie: Sony's Terrible (But Ingenious) Camcorder
+zBT5aXoJghY 8:21 The Most Common EV Charging Misconception
+f1fgzBE2Ffk 13:59 The Not-So-Secret Secret Elevators of the Haunted Mansion
+wIC-iGDTU40 21:40 The LED's Challenge to High Pressure Sodium
+U1dMlVwUsrA 13:54 The High Pressure Sodium Light: Ubiquitous, effective, but good?
+kO6yPUtvTnM 24:37 Chevy Bolt EV Summer Range Test
+behaBgwnB8M 12:25 MUSE Hi-Vision Laserdisc: The Blu-ray of 1994
+-VqsU1VK3mU 12:30 Macrovision: The Copy Protection in VHS
+GiYO1TObNz8 18:31 The LED Traffic Light and the Danger of "But Sometimes!"
+3-GdTvkLUFA 17:06 The Weird Typewriter-Computer Hybrid: Smith Corona PWP-3200
+Ea6tw-gulnQ 17:04 These Are Not Pixels: Revisited
+L6iyUSnrGk0 13:45 The CD Player with a Robot Inside: Pioneer CLD-M301
+XUwSOfQ1D3c 14:15 Sony's Clever but Flawed PlayStation Copy Protection--And How They Might Have Fixed It
+cvwuAKi1ZB4 26:13 DVD: The Death Knell of Laserdisc
+iTD53t2NhoA 6:33 A Short Project Involving LEDs, a Fish Tank, and some Laziness
+AxXsIQDafog 14:56 Faking It: The Obviously Dubbed Telephone Ring
+UogqTenNrks 22:21 Chevy Bolt EV: Winter Range and Performance (Chicago winter)
+Nbo2QepTZNY 24:14 Laserdisc: Features, Follies, & Evolution
+TClRRMFZ7Sw 18:06 Laserdisc's Failure: What Went Wrong
+ovp4cJUQDI0 6:46 Thrift Store Hi-Fi: Some tips and tricks
+Eg8tK1LpLS8 14:56 Laserdisc: An Introduction
+pz2BXUcYgKc 12:24 Roller Coaster Safety: How to Manage Too Many Trains at Once
+0aFhzGEBQlk 12:41 Trinitron: Sony's Once Unbeatable Product
+3JFt6t6ijLs 12:11 Analog Color TV Wrap-Up--Some extra info
+InrDRGTPqnE 13:11 Compatible Color: The Ultimate Three-For-One Special
+zeOw5MZWq24 11:51 The Twinkling Light Set: An increasingly rare but delightful type of decorative lighting
+dX649lnKAU0 13:14 How Analog Color TV Works: The Beginnings
+E0LVjGp1Wtc 12:07 Digital ICE: The High-Tech Dust Removal Found in Film Scanners
+NUaowcXQtOo 18:30 Philo Farnsworth and the Invention of Electronic Television
+JFJO3emhOyY 5:10 GE's bizarre early attempt at a CFL
+pAqGpoWLLZc 15:13 LED bulbs that flicker, and CFLs that almost never did
+v5OANXk-6-w 12:01 Mechanical Television: Incredibly simple, yet entirely bonkers
+l4UgZBs7ZGo 16:47 Lines of Light: How Analog Television Works
+_oJs8-I9WtA 9:51 Comparing Beta & VHS on Quality: Was Beta Really Better?
+v019trxfcmg 15:56 Why Sony's Beta Videotape System Failed--Part 2
+FyKRubB5N60 16:29 Why Sony's Beta Videotape System Failed--and failed hard (Part 1)
+m0mMF7GaIR0 4:37 Stupid Design--The Needlessly Useless Webcam Activity Light
+56DSH8tKUvo 10:03 Furnaces: Why we still burn fuel to heat our homes
+DhWL7lgnLnE 9:20 What is Dolby Noise Reduction? Dolby's Humble Beginning
+KfuARMCyTvg 18:00 The Impossible Feat inside Your VCR
+IcIpzWeqO1c 11:10 Home Automation: A Beginner's Introduction
+e31g0fcIK6s 8:17 The Dead Man's Switch: How Anton Yelchin's life could have been saved
+H5m6zs1UIVg 16:08 Exploring the good ol' Cassette Tape
+U_L2LvCvVWE 11:51 Electric Vehicle Charging: It's easier than you think
+lQBGFZU3zco 11:56 Transistors: Making sound easier, smaller, and more efficient
+feyFMMkbE-M 12:15 Exploring a Reel to Reel Tape Recorder: Sony TC-366
+b0LWnpzdrW4 13:27 What is High Fidelity? How does Stereo work?
+7QLLYauN7sY 8:15 The Wind-Powered Car: Electric Vehicles and Wind Turbines
+FoO6kzd_Ars 17:32 Tape Recording: Taking the Electromagnet to a Whole New Level
+TXdZIdiX0TA 11:41 From Radio Waves to Electric Grooves: Electrical Sound Recording
+0UKCUMghTrc 10:57 The Vacuum Tube and the Invention of Radio
+w_g4cAXkz80 21:33 Emile Berliner's Fix: Flatten the Cylinder to a Disc
+0vbyoZDQaIY 17:34 Edison's Impression: Laying Sound into a Groove
+NsdHAXTaQc0 13:13 Bell & The Invention of Artificial Sound
+
 # Tasting History
 
 lYZq2ZnwPZA 16:02 Irish Soda Bread from 1836
@@ -3553,6 +3739,31 @@ wEXCPHWyWAI 28:58 A Bit Of Fry And Laurie S01E03
 jxd9MhFXVKM 29:16 A Bit Of Fry And Laurie S01E04
 x0X6E11G_nk 29:30 A Bit Of Fry And Laurie S01E05
 NOuAk7LX5no 28:26 A Bit Of Fry And Laurie S01E06
+
+# Jeeves and Wooster
+Te3SvM-aG04 50:45 [Support Ukraine Now] Jeeves And Wooster — Jeeves Takes Charge (S01E01) [Full HD] [subtitles]
+_uWIGhNPl0g 50:28 [Support Ukraine Now] Jeeves And Wooster — Tuppy and the Terrier (S01E02) [Full HD] [subtitles]
+TwVNIdkrfWo 49:36 [Support Ukraine Now] Jeeves And Wooster — The Purity of the Turf (S01E03) [Full HD] [subtitles]
+53PwqEiTNUM 48:36 [Support Ukraine Now] Jeeves And Wooster — The Hunger Strike (S01E04) [Full HD] [subtitles]
+uAmH0rOFOY0 49:03 [Support Ukraine Now] Jeeves And Wooster — Brinkley Manor (S01E05) [Full HD] [subtitles]
+2mqNlA6ypkM 51:35 [Support Ukraine Now] Jeeves And Wooster — Jeeves Saves the Cow-Creamer (S02E01) [Full HD] [subs]
+24B88Ur9C0g 51:11 [Support Ukraine Now] Jeeves And Wooster — A Plan for Gussie (S02E02) [Full HD] [subtitles]
+ys6ewmHxZSA 49:57 [Support Ukraine Now] Jeeves And Wooster — Pearls Mean Tears (S02E03) [Full HD] [subtitles]
+Iz0Viqrovl4 50:51 [Support Ukraine Now] Jeeves And Wooster — Jeeves in the Country (S02E04) [Full HD] [subtitles]
+Bema4j-6mIE 50:21 [Support Ukraine Now] Jeeves And Wooster — Wooster with a Wife (S02E06) [Full HD] [subtitles]
+dGJF3sV9EFo 49:48 [Support Ukraine Now] Jeeves And Wooster — Kidnapped! (S02E05) [Full HD] [subtitles]
+lZzA7XZyVLY 50:21 Jeeves and Wooster S02E06 Wooster with a Wife
+y9qTnHPmVZ8 50:59 Full Episode Jeeves and Wooster S03 E1:Safety in New York
+ax3f7QELTYU 49:54 [Support Ukraine Now] Jeeves And Wooster — The Full House (S03E02) [Full HD] [subtitles]
+s9-WurU_DKA 50:58 [Support Ukraine Now] Jeeves And Wooster — Introduction on Broadway (S03E03) [Full HD] [subtitles]
+x7GTI52z_mM 51:10 [Support Ukraine Now] Jeeves And Wooster — Right Ho, Jeeves (S03E04) [Full HD] [subtitles]
+uG0cAnSxntI 51:03 [Support Ukraine Now] Jeeves And Wooster — Comrade Bingo (S03E06) [Full HD] [subtitles]
+1ZR8DvqIKuc 51:05 [Support Ukraine Now] Jeeves And Wooster — Return to New York (S04E01) [Full HD] [subtitles]
+12B1v-ZxWKw 50:42 [Support Ukraine Now] Jeeves And Wooster — The Once and Future Ex (S04E02) [Full HD] [subtitles]
+vM7qZ0Gspdw 51:01 [Support Ukraine Now] Jeeves And Wooster — Bridegroom Wanted! (S04E03) [Full HD] [subtitles]
+ETXKu03o7is 51:08 [Support Ukraine Now] Jeeves And Wooster — The Delayed Arrival (S04E04) [Full HD] [subtitles]
+ctsspH-2WFM 50:34 [Support Ukraine Now] Jeeves And Wooster — Trouble at Totleigh Towers (S04E05) [Full HD] [subtitles]
+vmzN-3dSCms 51:10 [Support Ukraine Now] Jeeves And Wooster — The Ties That Bind (S04E06) [Full HD] [subtitles]
 
 # jan Misali's Conlang Critic
 
