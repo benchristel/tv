@@ -2519,6 +2519,9 @@ LmuwIHLlvHA 1:21 Taid ar yr weiarles bictiwrs
 Z3YnTACNLHI 0:21 Mr Picton
 EVjSAn-TFT8 0:30 Syr Wynff a Plwmsan
 
+# Beowulf
+2WcIK_8f7oQ 1:40-1:37:19 Beowulf: The Epic in Performance - Benjamin Bagby, voice and medieval harp
+
 # Simon Roper
 CuXdIBRYJ58 12:30 Is It Possible to Describe Somebody's Entire Language?
 kUcMm-lS2Kk 29:35 Consciousness: Why Can't We Describe It?
