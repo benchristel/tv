@@ -1,6 +1,6 @@
 // @flow
 import * as React from "react"
-import { useState } from "react"
+import { useState, useRef, useCallback } from "react"
 import { State as PlayerState } from "./youtube/player"
 import { useInterval } from "./lib/useInterval"
 import { useLatch } from "./lib/useLatch"
@@ -43,6 +43,14 @@ export function App(): React.Node {
   const playerState = playerStatus.state
   const hideVideo = playerState !== PlayerState.PLAYING
   const playerCommands = reconcile(broadcast, playerStatus)
+  const infoButtonRef = useRef<?HTMLElement>(null)
+  const closeInfoPane = useCallback(() => {
+    setInfoPaneOpen(false);
+    infoButtonRef.current?.focus()
+  }, [])
+  const openInfoPane = useCallback(() => {
+    setInfoPaneOpen(true);
+  }, [])
 
   return (
     <Layout
@@ -66,18 +74,17 @@ export function App(): React.Node {
               <PlayButtonOverlay onClick={setUserRequestedPlayback} />
             )}
           </div>
-          <div className="info-pane">
-            <VideoInfo
-              player={playerStatus}
-              broadcast={broadcast}
-              channels={channels}
-              onClose={() => setInfoPaneOpen(false)}
-            />
-          </div>
+          <VideoInfo
+            isOpen={infoPaneOpen}
+            player={playerStatus}
+            broadcast={broadcast}
+            channels={channels}
+            onClose={closeInfoPane}
+          />
           <div
             className="info-pane-close-overlay"
             aria-hidden={true}
-            onClick={() => setInfoPaneOpen(false)}
+            onClick={closeInfoPane}
           />
         </div>
       }
@@ -97,7 +104,10 @@ export function App(): React.Node {
                 ? "info-button info-button-info-pane-open"
                 : "info-button"
             }
-            onClick={() => setInfoPaneOpen(!infoPaneOpen)}
+            onClick={() => {
+              (infoPaneOpen ? closeInfoPane : openInfoPane)()
+            }}
+            ref={infoButtonRef}
           >
             Info
           </button>

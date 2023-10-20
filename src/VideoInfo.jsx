@@ -62,16 +62,32 @@ function viewModel({ broadcast, player }): VideoInfoViewModel {
 }
 
 export function VideoInfo(props: {|
+  isOpen: boolean,
   channels: Array<Channel>,
   broadcast: Broadcast,
   player: PlayerStatus,
   onClose: () => mixed,
 |}): React.Node {
-  const { broadcast, player, onClose } = props
+  const { isOpen, broadcast, player, onClose } = props
   const vm = viewModel({ broadcast, player })
+  const closeButtonRef = React.useRef<?HTMLElement>(null)
+
+  React.useEffect(() => {
+    if (isOpen) {
+      closeButtonRef.current?.focus()
+      const closeOnEscape = (event: KeyboardEvent) => {
+        if (event.key === "Escape") {
+          onClose()
+        }
+      }
+      document.addEventListener("keydown", closeOnEscape)
+      return () => document.removeEventListener("keydown", closeOnEscape)
+    }
+  }, [isOpen])
+
   return (
-    <>
-      <button className="close-button" onClick={onClose}>
+    <div role="dialog" className="info-pane">
+      <button ref={closeButtonRef} className="close-button" aria-label="close info pane" onClick={onClose}>
         close
       </button>
       <h1>Culture Machine</h1>
@@ -149,7 +165,7 @@ export function VideoInfo(props: {|
         </tbody>
       </table>
       <div style={{height: 60}}/>
-    </>
+    </div>
   )
 }
 
