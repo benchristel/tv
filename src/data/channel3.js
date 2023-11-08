@@ -19,6 +19,7 @@ _zmeye7-HOE 48:54 Evanescence - Fallen (FULL ALBUM)
 p0D-w-HhB64 47:46 Dire Straits - Brothers In Arms {Reissue} [Full Album]
 Jl1_m1OtkpE 1:01:28 Brian Eno - New Space Music
 _VOk5ubGg9M 29:55 The Bach Variations A Windham Hill Sampler 12 1994
+FKuHRdGeYjc 40:18 Tamarugo - Tan lejos del mar (1979) (Full album/ Album completo)
 
 # Singles
 
