@@ -2760,7 +2760,7 @@ jQC4mglx5uE 2:20 Introducing the Baroque Spoons
 XQoE3JyOjqs 12:37 A New Created World
 # fFo-VJ8jUkU 2:15 The Night Shift on hold
 nb-AkHlKgKA 2:41 What Classical Musicians Give Up For Their Careers
-FcM0Jt6Xf-Y 1:31:16 LIVE STREAM: Classical Music, Minus the Rules - The CLF Art Cafe, Peckham
+FcM0Jt6Xf-Y 30:04 LIVE STREAM: Classical Music, Minus the Rules - The CLF Art Cafe, Peckham
 U0KLAQ_iiEM 2:02 A Quick Guide to Thomas Mann's novel, Doctor Faustus
 # ptQJdIv2uUI 9:23 Introducing Beethoven's Flute
 # TBV6U-dUJwY 3:49 Why support us?
