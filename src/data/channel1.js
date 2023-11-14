@@ -1104,7 +1104,7 @@ CVU3EZnjmUg 9:33 Ask Adam Savage: How to Store One-Off Items (Plus Home Organiza
 70TZua1j3Fc 11:27 Ask Adam Savage: When to Discard Scrap Materials
 56NXn-6nqMA 8:58 Ask Adam Savage: Why the Hindenburg Episode Was Huge (and Fun!) for MythBusters
 4m-lTiCmSro 6:45 Ask Adam Savage: Airbrushing Tips and DIY Tools
-QmRXguvO0bs 13:45 Ask Adam Savage: Managing Tools and Materials When You Have Two Shops
+QmRXguvO0bs 0-13:15 Ask Adam Savage: Managing Tools and Materials When You Have Two Shops
 F_YVzJfhC6o 10:47 Ask Adam Savage: Tips for Building Within Tight Budget Constraints
 d4O2wtDW2LA 0-9:45,0 Ask Adam Savage: The Tool That Does Only One Thing, But Does It Well
 H0X9y0iyBmY 0-11:41,0 Ask Adam Savage: Lathe Tips (Plus Adam's Watch!)
@@ -3160,11 +3160,11 @@ vLsE5iy8TyA 3:40 Liam Alastair Crouse, 2017
 WR8jgqj2iic 4:39 An Dr Dòmhnall Uilleam Stiùbhart
 j89COOGz6vQ 5:29 Urdu Documentary: Surfing
 gT_mDHN7GHA 5:09 Urdu Documentary: Restore Project
-IP2xWdottZM 52:25 Dihaoine - Gàidhlig: Saoghal Thormoid
-TlUzd4pKaIg 44:21 Diardaoin - Cruthachalachd: Saoghal Thormoid
-NqUS1wwtCeA 53:48 Diciadain - Coimhearsnachdan: Saoghal Thormoid
-eiIzDMYAI_A 35:13 Dimàirt - Foghlam: Saoghal Thormoid
-nCR2mVnDcX0 38:33 Diluain - Sinnsireachd: Saoghal Thormoid
+# IP2xWdottZM 52:25 Dihaoine - Gàidhlig: Saoghal Thormoid
+# TlUzd4pKaIg 44:21 Diardaoin - Cruthachalachd: Saoghal Thormoid
+# NqUS1wwtCeA 53:48 Diciadain - Coimhearsnachdan: Saoghal Thormoid
+# eiIzDMYAI_A 35:13 Dimàirt - Foghlam: Saoghal Thormoid
+# nCR2mVnDcX0 38:33 Diluain - Sinnsireachd: Saoghal Thormoid
 K_pFGFRTEEI 4:18 Dr Will Lamb
 AxHYpaPA2xg 4:11 An Dr Uilleam Lamb
 NCJXHbbAqqg 10:00 A Gaelic Journey (Basque version): Benbecula to Ranafast
