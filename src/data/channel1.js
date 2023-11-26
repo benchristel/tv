@@ -3604,6 +3604,20 @@ q7bE--NVBGY 3:25 Behind the scenes: Secrets of the Castle with Ruth, Peter and T
 
 # Primitive Technology
 
+Csb-AFD58ww 19:45 Primitive Technology: Volute Shaped Blower
+PjBTKe8Y44c 18:50 Primitive Technology: Brick and Charcoal Production
+wbc443KVWfI 10:15 Primitive Technology: Downdraft Kiln
+XTzMqWaoqYw 15:20 Primitive Technology: Wood Ash Insulated Furnace
+xz6aAI3shDY 16:41 Primitive Technology: Undercover Brick Workshop
+7SH4irC_xMs 13:56 Primitive Technology: New Brick Kiln Design
+0_p91pv6jdI 18:31 Primitive Technology: Roasted Ore and Shell Flux Smelt
+JsObuHO1tMA 15:16 Primitive Technology: Making Charcoal (3 Different Methods)
+9irICRnszOc 5:36 Primitive Technology: Iron Bacteria Cement (no fire/water insoluble)
+pOj4L9yp7Mc 7:40 Primitive Technology: Decarburization of iron and forging experiments
+nG-rNHgFxhs 5:08 Primitive Technology: Cane Water Filter/Siphon
+Gqhxe_pL6Ws 9:22 Primitive Technology: Pottery Wheel
+k2RKtUh6m3Q 10:53 Primitive Technology: Purifying Clay By Sedimentation and Making Pots
+RZGAYzItazw 11:35 Primitive Technology: Smelting Iron In Brick Furnaces
 OPIUMpiV0IY 10:09 Primitive Technology: Making Iron From Sand
 TMzo9zjkuHc 10:03 Primitive Technology: Rock Throwing Catapult (Trebuchet)
 dhW4XFGQB4o 11:35 Primitive Technology: Iron knife made from bacteria
