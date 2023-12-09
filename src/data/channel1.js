@@ -171,6 +171,10 @@ export const episodes: Array<string> = [
     AEMEkNhulsI 45:07 Victor Borge act 1
     RtzMQ4JEcmc 46:08 Victor Borge act 2
   `,
+  `
+    oge5XL_vdPw 1:36:52 Engaged Compassion, Part 1 - Culadasa
+    xWDs1ovmeqo 59:01 Engaged Compassion, Part 2 - Culadasa
+  `,
 ]
 
 export const videos: string = `
@@ -247,7 +251,7 @@ vfXBjv-uMZM 3:18 Speaking Irish Gaelic in New York City | Frances speaking the I
 oY8ihozIYng 1:00 A prayer in the Aramaic language | Jeries speaking Syriac | Wikitongues
 GohjqZQHDlM 2:44 The Sasak language of Indonesia | Raden speaking Sasak and Indonesian | Wikitongues
 vFbZR5shzCk 1:23 The Turkana language of Kenya and Ethiopia | John speaking Turkana | Wikitongues
-6UctiHFsUrE 1:05:21 Radio in Language Diversity | Conversations from Jamaica and Zambia | Wikitongues
+# 6UctiHFsUrE 1:05:21 Radio in Language Diversity | Conversations from Jamaica and Zambia | Wikitongues
 -lVudWbCaik 2:18 Vietnamese language conversation | Loan and Lian speaking Hue Vietnamese | Wikitongues
 I-xiEyYtAwo 5:19 Norman, a Romance language of Britain and France | Jean speaking Cauchois | Wikitongues
 lRujenUdJng 10:34 The Arabic language in Kurdistan, Iraq | Rashad speaking Iraqi Arabic | Wikitongues
@@ -291,9 +295,9 @@ k19I3vyu0WU 1:22 Juan Carlos speaking Santiagueño Quichua and Spanish | Quechua
 Mfd16z-ucWY 0:48 Census 2020 Language Project, in Egyptian Arabic | League of Women Voters
 ld_92xGvyng 2:12 Mireille speaking French | Census 2020 Language Project | League of Women Voters
 XhRzY5ApkBc 2:00 Tarya and Carys speaking Spanish | Census 2020 Language Project | League of Women Voters
-1UutaDfzaqc 1:05:06 How do I save my language? Introducing the Language Sustainability Toolkit
+# 1UutaDfzaqc 1:05:06 How do I save my language? Introducing the Language Sustainability Toolkit
 x7cFUScyj4g 1:10 Census 2020 Language Project in Korean | League of Women Voters
-dm1e9mJ2BJQ 1:36 What's the Census 2020 Language Project? | League of Women Voters
+# dm1e9mJ2BJQ 1:36 What's the Census 2020 Language Project? | League of Women Voters
 pEU_EC7OcdE 1:04:38 Tim Brooks from Endangered Alphabets | FIRST-EVER Wikitongues live-stream!
 xAw_7w-hQwU 23:32 Hangi speaking Kihunde | Central African languages | Wikitongues
 # qiti3HaADlo 43:16 Speaking of Us, Ep. 1: Anna Luisa Daigneault | Languages Podcast by Wikitongues
@@ -1106,20 +1110,20 @@ CVU3EZnjmUg 9:33 Ask Adam Savage: How to Store One-Off Items (Plus Home Organiza
 4m-lTiCmSro 6:45 Ask Adam Savage: Airbrushing Tips and DIY Tools
 QmRXguvO0bs 0-13:15 Ask Adam Savage: Managing Tools and Materials When You Have Two Shops
 F_YVzJfhC6o 10:47 Ask Adam Savage: Tips for Building Within Tight Budget Constraints
-d4O2wtDW2LA 0-9:45,0 Ask Adam Savage: The Tool That Does Only One Thing, But Does It Well
-H0X9y0iyBmY 0-11:41,0 Ask Adam Savage: Lathe Tips (Plus Adam's Watch!)
-qeRcHlwp2AQ 0-9:11,0 Ask Adam Savage: The Tool That Makes Adam Giddy
-q3sCIpFZzfU 0-7:32,0 Ask Adam Savage: The Tool That Didn't Live Up to My Hopes
-Gj0OMUozEKw 0-7:53,0 Ask Adam Savage: Favorite Play/Musical Experience
-7oieelDea5o 0-9:56,0 Ask Adam Savage: Do I Do Projects at Home?
-8zIOfPy7sCg 0-10:16,0 Ask Adam Savage: Myths Adam Wishes Were Taken Further
-V1XbZPafG7M 0-14:24,0 Ask Adam Savage: How to Deal With Creative Block
-aNwZQdUmR7A 0-11:26,0 Ask Adam Savage: Weirdest Things Fans Ask to Be Signed
-AoXNSquNsbY 0-13:30,0 Ask Adam Savage: The Myth That Pushed Adam to His Breaking Point
-uKlQyWwdqXk 0-10:41,0 Ask Adam Savage: Is Mrs. Donttrythis a Maker?
-QuzIlMxLnQM 0-12:10,0 Ask Adam Savage: Collaborating/Competing With Jamie on MythBusters
-r1uxC8RUiKU 0-8:30,0 Ask Adam Savage: Feeling Overwhelmed by STUFF
-D_yHttkfWCA 0-11:10,0 Ask Adam Savage: Origin of "Well, There's Your Problem" on MythBusters
+d4O2wtDW2LA 0-9:45 Ask Adam Savage: The Tool That Does Only One Thing, But Does It Well
+H0X9y0iyBmY 0-11:41 Ask Adam Savage: Lathe Tips (Plus Adam's Watch!)
+qeRcHlwp2AQ 0-9:11 Ask Adam Savage: The Tool That Makes Adam Giddy
+q3sCIpFZzfU 0-7:32 Ask Adam Savage: The Tool That Didn't Live Up to My Hopes
+Gj0OMUozEKw 0-7:53 Ask Adam Savage: Favorite Play/Musical Experience
+7oieelDea5o 0-9:56 Ask Adam Savage: Do I Do Projects at Home?
+8zIOfPy7sCg 0-10:16 Ask Adam Savage: Myths Adam Wishes Were Taken Further
+V1XbZPafG7M 0-14:24 Ask Adam Savage: How to Deal With Creative Block
+aNwZQdUmR7A 0-11:26 Ask Adam Savage: Weirdest Things Fans Ask to Be Signed
+AoXNSquNsbY 0-13:30 Ask Adam Savage: The Myth That Pushed Adam to His Breaking Point
+uKlQyWwdqXk 0-10:41 Ask Adam Savage: Is Mrs. Donttrythis a Maker?
+QuzIlMxLnQM 0-12:10 Ask Adam Savage: Collaborating/Competing With Jamie on MythBusters
+r1uxC8RUiKU 0-8:30 Ask Adam Savage: Feeling Overwhelmed by STUFF
+D_yHttkfWCA 0-11:10 Ask Adam Savage: Origin of "Well, There's Your Problem" on MythBusters
 Ie79jtBfr1M 11:59 Ask Adam Savage: Movie Scene That Had the Biggest Emotional Impact
 REXSV1x18Y8 11:37 Ask Adam Savage: Most Egregious Errors in TV and Movies
 fW8R-WbLQEs 11:14 Ask Adam Savage: Films Where the Props Were Better Than the Film Itself
@@ -1137,7 +1141,7 @@ sN-wQYRDECw 12:15 Ask Adam Savage: How Mandalorian's Digital Effects Are Game-Ch
 NRDWkJbrcrU 11:43 Ask Adam Savage: On Interacting With Fans
 KoEw_A1MfC0 11:40 Ask Adam Savage: Is Hacking Making?
 L-s3jFny6M8 12:19 Ask Adam Savage: Has Celebrity Changed Adam's Con Experience?
-uK-0Yndxmss 11:27 Ask Adam Savage: Managing Anxiety When Delivering Creative Work
+uK-0Yndxmss 0-10:52 Ask Adam Savage: Managing Anxiety When Delivering Creative Work
 kDzhe6Ll1sA 14:50 Ask Adam Savage: On Turning a Hobby Into a (Still Enjoyable) Business
 Gf-7RlvDeaw 12:14 Ask Adam Savage: How Scripted Was Shark Week?
 tiByvxW3-SQ 9:12 Ask Adam Savage: On Being Clever vs. Good in the Workplace
@@ -3453,6 +3457,28 @@ Qi7t_g5QObs 30:38 The Hobbit: The Desolation of Warners (Part 3/2)
 
 # Celtic Source
 
+CPED6Nem0kY 10:53 Danu and Dôn, the Irish and Welsh ancestor goddesses
+R6WAOuu3sMs 32:05 Is Taliesin a god?
+xo4eiZluC7g 1:34 Book Launch Tour
+oAUGwPzPyb8 17:21 Celtic Myth: The Eternally Fruitful Questions
+qe2Fe-ur2ww 35:08 Modern paganism's translation problem?
+v0JqMu9Wqlg 11:27 Thanks, Rest and Next . . .
+kQSt_7dYmaE 10:23 Celtic Gods in Medieval Wales with Dr Gwilym Morus-Baird
+4Y14EkhRx_0 14:33 The Life of Stories
+TpFCKF1HeWw 22:32 Sir Gawain and Men's Mysteries
+ixzq5rb6rXc 1:01 Celtic Mythology - new category on video lectures website.
+ORVkKObUilA 26:02 Sir Gawain and the Pagan Goddess
+2Nbu8SvdaD8 24:36 Sir Gawain, Woman and Wild God
+N8n2fDGKGbs 33:33 Sir Gawain, Desire and Death
+7PNKoy9vyHU 44:30 Sir Gawain and the Mabinogi
+a-zXJovHAs4 41:11 The Story of the Story with Dr Gwilym Morus-Baird
+rjbLieb1ros 29:13 The Goddess' Stolen Child with Dr Gwilym Morus-Baird
+Axru33O3Aaw 26:32 Who is Manawydan? with Dr Gwilym Morus-Baird
+7GQoC5B5zd0 8:09 Ceridwen's Mabinogi? with Dr Gwilym Morus-Baird
+s0kfq4nyVcM 30:06 A Queen Betrayed (Rhiannon's Mabinogi Part 4) with Dr Gwilym Morus-Baird
+gxB7-vWamhg 40:59 The Celtic Wonder-child Myth (Rhiannon's mabinogi Part 3) with Dr Gwilym Morus-Baird
+m-9YUVpg4sc 22:10 How can we understand the Mabinogi? With Dr Gwilym Morus-Baird.
+slx-RH4eD3o 26:37 Rhiannon's Mabinogi Part 1 with Dr Gwilym Morus-Baird
 9L1ugg3YRq0 9:26 Was witchcraft a religion in medieval Wales?
 8REXWqYDILA 45:55 The Mabinogi Challenge: Day 1 with Dr Gwilym Morus-Baird
 X3wlf8s5cUE 20:01 The Dark Side of the Hero Myth pt 2 with Dr Gwilym Morus-Baird
