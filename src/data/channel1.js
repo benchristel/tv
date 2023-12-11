@@ -174,6 +174,8 @@ export const episodes: Array<string> = [
   `
     oge5XL_vdPw 1:36:52 Engaged Compassion, Part 1 - Culadasa
     xWDs1ovmeqo 59:01 Engaged Compassion, Part 2 - Culadasa
+    vLp738BdVCI 1:39:14 Engaged Compassion, Part 3; Gloucester MA, July 2, 2016
+    RKsqA6qFZBc 56:09 Engaged Compassion, Part 4; Gloucester MA, July 2, 2016
   `,
 ]
 
@@ -1902,6 +1904,7 @@ iBwk-WNSBw4 9:23 Jamie Smith's Mabon - Whiskey Burp Reels - Live at Celtic Conne
 
 # Pellwolok an Gernewegva
 
+DaX1jB2ZPqE 30:14 An Mis 065 - Mis Kevardhu/December 2023
 jEHMqhsJmnY 31:22 An Mis 64 - Mis Du / November - Lowender
 krcM2WwM8KA 28:14 Dydh Kemo - Chemo Day - SUBTITLED
 yXNbK1WhpcU 29:24 An Mis 63 - mis Hwevrer 2023 / February 2023
@@ -2645,6 +2648,7 @@ HVHceitbQsw 3:22 Stadstuinieren - Bloemen, kruiden en sla voorzaaien - begin apr
 
 # Alan Watts
 
+KpMGbjvBXSE 53:46 Alan Watts - We As Organism
 hz6dIFkeeto 54:06 Alan Watts | Turning the head (on drugs)
 UC9MJ1HobpU 26:37 Alan Watts | Swallowing a hot ball of iron
 sgDc7s8w-os 15:23 Alan Watts | Ecology and religion
