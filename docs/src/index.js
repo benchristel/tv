@@ -1587,7 +1587,7 @@ Kz-VpoNEWXM 17:38 A History of Tacos
 zN1bzdxZdbg 17:59 The Absinthe Murder
 OnTtA9z3ZeQ 16:52 The Day the Viking Age Began
 FPi0RiAsegQ 13:13 What is Gruel?
-KaTjWWJSei0 15:54 When Potatoes were Illegal
+KaTjWWJSei0 0-1:46,2:45-15:54 When Potatoes were Illegal
 2ZcrScIlaQ4 20:26 The History of the Wine Glass
 o9-rCHqPLj4 17:30 The Ninja Diet of Feudal Japan
 CsjL0wBINnI 17:22 1950's Fish Pudding
@@ -4885,7 +4885,7 @@ dbVLPJvPEmM 10-5:23 Archguitar Duo P Attaingnant La Brosse
     Y9nW0XHhGTc 3:07 The Bonny Lighthorseman
     HLyKF4dvbvE 11:01 Tam Lyn
     Cz9bSMFtrlo 2:23 Sheepshearing
-    7VZlCTU7Wok 4:17 Seven Yellow Gypsies
+    # 7VZlCTU7Wok 4:17 Seven Yellow Gypsies
     QSALP2o0ZlU 3:34 Beggar Man
     m9ec7bk-xcs 4:28 Swansea Town
     XH-QpfZsHJw 3:57 Bellman
@@ -5299,6 +5299,8 @@ viDKLF28Rfs 3:38 Carol: Ther is no rose of swych vertu
 YONvNt43K4I 2:42 Apple Tree Wassail
 h7vyE2ahoMo 3:30 The Watersons - The Good Old Way
 W8rBJPMth_U 4:15 Malpas Wassail
+k5u3hJiXQP0 3:44 King Pharim
+R3dWcf_y62k 2:20 Swinton May Song
 
 LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
 `;var os={};zn(os,{episodes:()=>xg,videos:()=>Yg});var xg=[],Yg=`
