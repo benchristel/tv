@@ -412,6 +412,8 @@ viDKLF28Rfs 3:38 Carol: Ther is no rose of swych vertu
 YONvNt43K4I 2:42 Apple Tree Wassail
 h7vyE2ahoMo 3:30 The Watersons - The Good Old Way
 W8rBJPMth_U 4:15 Malpas Wassail
+k5u3hJiXQP0 3:44 King Pharim
+R3dWcf_y62k 2:20 Swinton May Song
 
 LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
 `
