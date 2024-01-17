@@ -21,13 +21,20 @@ export function hoursMinutesSeconds(
 }
 
 function formatPositiveHoursMinutesSeconds(seconds, decimals) {
-  function pad(n, format = identity) {
-    return (n < 10 ? "0" : "") + format(n)
+  function pad(n, format = toString) {
+    const formatted = format(n)
+    const isSingleDigit = formatted.split(/[^\d]/)[0].length === 1
+    return (isSingleDigit ? "0" : "") + formatted
   }
 
-  const h = Math.floor(seconds / 3600)
-  const m = Math.floor((seconds % 3600) / 60)
-  const s = seconds % 60
+  const quantaPerSecond = Math.pow(10, decimals)
+  const quantaPerMinute = quantaPerSecond * 60
+  const quantaPerHour = quantaPerMinute * 60
+
+  const quanta = Math.round(seconds * quantaPerSecond)
+  const h = Math.floor(quanta / quantaPerHour)
+  const m = Math.floor((quanta % quantaPerHour) / quantaPerMinute)
+  const s = (quanta % quantaPerMinute) / quantaPerSecond
 
   return h > 0
     ? `${h}:${pad(m)}:${pad(s, toFixed(decimals))}`
@@ -105,6 +112,30 @@ test("hoursMinutesSeconds", {
     // results. For this silly toy app it doesn't matter at all, though.
     expect(hoursMinutesSeconds(2.3456, 2), is, "0:02.35")
   },
+
+  "pads fractional seconds correctly"() {
+    expect(hoursMinutesSeconds(9.9, 0), is, "0:10")
+  },
+
+  "rounds up to 1:00 and not 0:60"() {
+    expect(hoursMinutesSeconds(59.9, 0), is, "1:00")
+  },
+
+  "rounds down to 0:59"() {
+    expect(hoursMinutesSeconds(59.4, 0), is, "0:59")
+  },
+
+  "rounds up to 1:00 and not 0:60 when there are decimals"() {
+    expect(hoursMinutesSeconds(59.99, 1), is, "1:00.0")
+  },
+
+  "rounds to 59.5"() {
+    expect(hoursMinutesSeconds(59.45, 1), is, "0:59.5")
+  },
+
+  "rounds up to 1:00:00 and not 0:60:00"() {
+    expect(hoursMinutesSeconds(3599.9, 0), is, "1:00:00")
+  },
 })
 
 test("durationAsWords", {
@@ -137,5 +168,5 @@ test("durationAsWords", {
   },
 })
 
-const identity = (x) => x
+const toString = (x) => String(x)
 const toFixed = (decimals) => (n) => n.toFixed(decimals)
