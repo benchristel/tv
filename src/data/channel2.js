@@ -37,6 +37,13 @@ export const episodes: Array<string> = [
 ]
 
 export const videos: string = `
+# The Return of Sherlock Holmes
+vzFCXmbdmNk 0-57:00 The Return of Sherlock Holmes - The Adventure of the Empty House
+vzFCXmbdmNk 57:10-1:52:48 The Return of Sherlock Holmes - The Adventure of the Norwood Builder
+vzFCXmbdmNk 3:44:22-5:00:35 The Return of Sherlock Holmes - The Adventure of the Priory School
+vzFCXmbdmNk 5:00:37-5:52:35 The Return of Sherlock Holmes - The Adventure of Black Peter
+vzFCXmbdmNk 6:36:35-7:29:00 The Return of Sherlock Holmes - The Adventure of The Six Napoleons
+
 # Slow TV
 
 # 3rDjPLvOShM 9:56:06 [9:56 Hours] Train Journey to the Norwegian Arctic Circle, WINTER [1080HD] SlowTV

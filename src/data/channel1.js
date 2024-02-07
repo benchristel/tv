@@ -341,7 +341,7 @@ k7Earnq8sHw 4:54 WIKITONGUES: Tajaun speaking Jamaican Creole English | Jamaican
 NmmrJbZvWmc 0:40 WIKITONGUES: Nafiseh speaking Turkmen and Turkish
 u0cJXVvo5I4 2:09 WIKITONGUES: Lior Markus speaking Occidental Campidanese Sardinian and Hebrew
 Opv58piY_bs 2:43 WIKITONGUES: Gerard and Yakuma speaking Sekpele
-yIO-F3l4b7w 4:26 WIKITONGUES: Eveliina speaking Finnish
+# yIO-F3l4b7w 4:26 WIKITONGUES: Eveliina speaking Finnish
 C9M-Sep16Dg 1:13 Wikitongues: How are you feeling?
 uRC9W6v4NuU 2:13 WIKITONGUES: Lalita Roshni speaking Kurux and English
 Y76c6UqN0dc 4:25 WIKITONGUES: Adolphus speaking Liberian English
@@ -416,7 +416,7 @@ Gdr_yKrlf4I 6:46 WIKITONGUES: Yorick speaking Oiltjers Dutch
 CproO8ZhtF8 2:09 WIKITONGUES: Gereon speaking German
 LTsoLZtf4Dw 19:25 WIKITONGUES: Kees, Albert, Anja, and Jan speaking West-Veluws
 vkVHspUH9U4 13:10 WIKITONGUES: Donyashel speaking Khoibu
-IX7cRsZD1Ks 2:59 WIKITONGUES: Jacopo speaking Lombard
+# IX7cRsZD1Ks 2:59 WIKITONGUES: Jacopo speaking Lombard
 quGhsKtq88A 1:16 WIKITONGUES: Muktesh speaking Kumaoni and Hindi
 VTCLy0kejbg 2:08 WIKITONGUES: Marta speaking Polish
 GyxYnfM_y5M 1:42 WIKITONGUES: Yenal speaking Circassian
@@ -485,8 +485,8 @@ MODU1yhBb-8 0:15 WIKITONGUES: Alessandro speaking Ligurian
 AYgWSuv00pc 2:34 WIKITONGUES: Twaha speaking Luganda
 HWYnyZEOVeE 4:38 WIKITONGUES: Isso speaking Lemerig
 4ZGmauJA23c 0:51 WIKITONGUES: Reda speaking Algerian Arabic
-7vwcbBfETXA 1:29 WIKITONGUES: Sanda speaking Hakka
-5as9jMrmjpU 2:04 WIKITONGUES: Ricardo speaking Sardinian
+# 7vwcbBfETXA 1:29 WIKITONGUES: Sanda speaking Hakka
+# 5as9jMrmjpU 2:04 WIKITONGUES: Ricardo speaking Sardinian
 03KULxOT31E 1:54 WIKITONGUES: Naw speaking Burmese
 IT7iuHWerbQ 2:08 WIKITONGUES: Carolin speaking Bavarian
 ysQrLUOGhkE 3:53 WIKITONGUES: Jarvis signing Kenyan Sign Language
@@ -499,7 +499,7 @@ DJ0NRqv5r7g 3:49 WIKITONGUES: Haingo speaking Malagasy
 b6eEK15bgAE 2:00 WIKITONGUES: Tarlan speaking Azeri
 v1WsoWZFZZ4 3:12 WIKITONGUES: Piotr speaking Silesian and English
 XSXBcko8wNQ 4:00 WIKITONGUES: Allan speaking Gwich'in
-0KDTO6q3tdM 1:19 WIKITONGUES: Anna speaking Bildts
+# 0KDTO6q3tdM 1:19 WIKITONGUES: Anna speaking Bildts
 kQIy1RLuwNo 1:11 WIKITONGUES: Paison speaking Kiga and English
 b_DtKXDXLFY 5:46 Luzmila speaking Otavalo Kichwa | Wikitongues
 KSkO2sJlMxc 1:47 WIKITONGUES: Finny speaking Musi
@@ -571,7 +571,7 @@ Nop4WnhX-k4 3:30 WIKITONGUES: Xheladin speaking Gheg Albanian
 pUfu40JELyM 0:31 WIKITONGUES: Alex speaking Karankawa and English
 reNXOCf-9z0 1:59 WIKITONGUES: Serah speaking Mwotlap
 uPa84Ro8SrU 1:29 WIKITONGUES: James speaking Nur
-MnghW2JB9j4 4:58 WIKITONGUES: Zubah speaking Loma
+# MnghW2JB9j4 4:58 WIKITONGUES: Zubah speaking Loma
 4sgX-jvskfI 3:49 WIKITONGUES: Priya speaking Sri Lankan Tamil
 tvNW5-lnx0g 4:35 WIKITONGUES: Stefano speaking Abruzzese
 IVFfgzvSLXI 1:40 WIKITONGUES: Jan speaking Brabants
