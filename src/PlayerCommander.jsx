@@ -2,11 +2,13 @@
 import type { Player } from "./youtube/player.jsx"
 import * as React from "react"
 import {test, expect, is} from "@benchristel/taste"
+import {SECONDS_BETWEEN_VIDEOS} from "./playback"
 
 type Props = {|
   player: Player,
   commands: Array<Command>,
   volume: number,
+  now: number,
 |}
 
 export type Command =
@@ -15,8 +17,11 @@ export type Command =
   | {| type: "seek", timestamp: number |}
 
 export class PlayerCommander extends React.Component<Props> {
+  lastSeek: number = -Infinity;
+  lastVideoId: string = "";
+
   componentDidUpdate() {
-    const { player, volume, commands } = this.props
+    const { player, volume, commands, now } = this.props
 
     player.setVolume(fromPerceivedVolume(volume))
 
@@ -26,11 +31,22 @@ export class PlayerCommander extends React.Component<Props> {
           player.playVideo()
           break
         case "cue":
-          player.cueVideoById(cmd.videoId, cmd.timestamp)
+          if (this.lastVideoId !== cmd.videoId) {
+            this.clearSeekCooldown();
+          }
+          if (this.seekCooldownElapsed(now)) {
+            this.lastSeek = now;
+            player.cueVideoById(cmd.videoId, cmd.timestamp)
+          }
           break
-        case "seek":
-          player.seekTo(cmd.timestamp)
+        case "seek": {
+          const millisSinceLastSeek = now - this.lastSeek;
+          if (this.seekCooldownElapsed(now)) {
+            this.lastSeek = now;
+            player.seekTo(cmd.timestamp);
+          }
           break
+        }
         default:
           console.error("unexpected video command type", (cmd.type: empty), cmd)
       }
@@ -39,6 +55,15 @@ export class PlayerCommander extends React.Component<Props> {
 
   render(): React.Node {
     return null
+  }
+
+  clearSeekCooldown() {
+    this.lastSeek = -Infinity
+  }
+
+  seekCooldownElapsed(nowMillis: number): boolean {
+    const millisSinceLastSeek = nowMillis - this.lastSeek;
+    return millisSinceLastSeek > SECONDS_BETWEEN_VIDEOS * 1000
   }
 }
 

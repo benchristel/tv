@@ -59,6 +59,7 @@ export function App(): React.Node {
           player={player}
           commands={playerCommands}
           volume={volume}
+          now={now}
         />
       }
       screen={

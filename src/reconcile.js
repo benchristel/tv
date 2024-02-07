@@ -64,7 +64,7 @@ export function reconcile(
       }
 
       if (currentTime && delta(currentTime, targetTime) >= SECONDS_BETWEEN_VIDEOS) {
-        console.debug("time is off; seeking", currentTime, targetTime)
+        console.debug("time is off; queueing seek command", currentTime, targetTime)
         cmds.push({ type: "seek", timestamp: targetTime })
       }
       return cmds
