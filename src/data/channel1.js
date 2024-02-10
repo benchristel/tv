@@ -1832,6 +1832,36 @@ ZTGLUDEEWko 11:27 Nettle Fibre Processing
 62PvfIR0xDg 4:42 Simple Cordage Instructions
 ebYZidfmn-0 7:55 Making Natural Cordage from Horseradish
 
+# Stuart Forester
+
+XAMyCJP08kg 3:15 Stuart Forester & Carol Anderson Say Goodbye To Your Grimsby Lass Green Note London May 2015
+MWBT6G1u3-0 4:12 Stuart Forester & Carol Anderson Come Where The Willows Are Weeping London Green Note 2015
+09vzLvdUy3E 4:30 Stuart Forester & Carol Anderson The Watershed/Bonny Lass O' Kemnay London Green Note 2015
+Yz_1wr6s09o 6:38 Stuart Forester & Carol Anderson - London Pride
+k2_h0Y8BJkE 3:31 Stuart Forester & Carol Anderson The Factory Girl
+zpFFWPnDE6I 3:53 Stuart Forester & Carol Anderson Dead End Road Signs
+Jv5MZ6HPiG0 3:56 Stuart Forester & Carol Anderson Dead End Road Signs
+qwSld6_RCxA 4:31 Stuart Forester & Carol Anderson Mitcham Fair Green
+Cw9YTOnUMdQ 2:42 Stuart Forester & Carol Anderson Yorkshire Rose
+UkilH0QqYrA 4:07 Carol Anderson & Stuart Forester Culbokie/The Rejected Suitor/The Fourth Floor TwickFolk 2014
+Hum_aB26QM0 5:44 Stuart Forester & Carol Anderson - Star Of The West
+gusUr8bt3Zc 4:20 Stuart Forester & Carol Anderson - Red Brick Ballads
+UxnGlhcdtrk 3:11 Stuart Forester Cold Coast of Iceland
+I7jdmPiWz7Q 4:38 Stuart Forester - Mitcham Fair Green
+onqgu4sSUBw 5:41 Sequence 01
+dYWICqsbr7c 2:50 Peta Webb & Ken Hall
+IMa0C6JTPmo 4:24 Peta Webb
+bf-8_lKvi-s 6:00 Stuart Forester & Carol Anderson - London Pride
+q_ji7t2B03I 4:05 Stuart Forester & Carol Anderson - Dead End Road Sign
+DUxSIkJ8B_I 5:29 Stuart Forester & Carol Anderson - Colorado
+qwmAaDqgEvc 4:49 Stuart Forester & Carol Anderson - Valhalla
+4QCK7t0kSts 4:25 Stuart Forester & Carol Anderson - Duke & Little Renie
+NBKuIopgrBo 2:47 Stuart Forester & Carol Anderson - Yorkshire Rose
+miQ-19iau0k 5:59 Cold Rain Green Note, London, May 2012
+XibkHDKiztU 4:37 Glenlogie Wizz's Sitting Room, London, Jan 2012
+M5KqUClQ4YI 5:17 Stuart Forester - A Letter Home To England live
+Z-IK884rp1I 5:48 Stuart Forester - Swarthfell Rocks
+
 # Alfie and Jon
 
 qa1S2iKrZkk 3:53 Jon Dyer & Alfie Gidley - Key to the Cellar/Rusty Gully
