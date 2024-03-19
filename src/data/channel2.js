@@ -37,6 +37,17 @@ export const episodes: Array<string> = [
 ]
 
 export const videos: string = `
+# The Adventures of Sherlock Holmes
+EQuQF102O6I 0-55:10 The Adventures of Sherlock Holmes - A Scandal in Bohemia
+EQuQF102O6I 55:12-1:53:55 The Adventures of Sherlock Holmes - The Red-Headed League
+# EQuQF102O6I 1:53:57-2:36:54 The Adventures of Sherlock Holmes - A Case of Identity
+EQuQF102O6I 2:36:56-3:37:53 The Adventures of Sherlock Holmes - The Boscombe Valley Mystery
+EQuQF102O6I 4:25:57-5:23:50 The Adventures of Sherlock Holmes - The Man With the Twisted Lip
+EQuQF102O6I 5:23:52-6:13:04 The Adventures of Sherlock Holmes - The Adventure of the Blue Carbuncle
+eYpFjaJMiFY 49:56-1:41:05 The Adventures of Sherlock Holmes - The Adventure of the Noble Bachelor
+eYpFjaJMiFY 1:41:07-2:41:11 The Adventures of Sherlock Holmes - The Adventure of the Beryl Coronet
+eYpFjaJMiFY 2:41:13-3:42:34 The Adventures of Sherlock Holmes - The Adventure of the Copper Beeches
+
 # The Return of Sherlock Holmes
 vzFCXmbdmNk 0-57:00 The Return of Sherlock Holmes - The Adventure of the Empty House
 vzFCXmbdmNk 57:10-1:52:48 The Return of Sherlock Holmes - The Adventure of the Norwood Builder
