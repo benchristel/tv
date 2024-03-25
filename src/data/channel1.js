@@ -2750,7 +2750,7 @@ L3fkz90fND4 9:25 Stadstuinieren - De aardbeien en bieten gaan naar buiten - begi
 HVHceitbQsw 3:22 Stadstuinieren - Bloemen, kruiden en sla voorzaaien - begin april
 
 # Alan Watts
-
+NpHqYnFELLE 52:55 Alan Watts - What Is Reality?
 KpMGbjvBXSE 53:46 Alan Watts - We As Organism
 
 # Orchestra of the Age of Enlightenment
@@ -3807,6 +3807,369 @@ Cl2-pDsMkrw 1:48:52 Watermelon Wednesday 2015 - Peter Blanchette and Friends
 nTUegVgzxag 0-4:50 Heifetz Hootenanny: Sí Bheag, Sí Mhór | Nigel Armstrong & Peter Blanchette
 -bNGmy6QNk4 13-3:56 Bach: Allemande from French Suite No 3, BWV 814 | Peter Blanchette, Mané Lareggla, archguitars
 i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely
+
+# Südtirol in Concert
+vvNd7T4haPg 30:29 Brahms | Quartet no. 2 in A minor op. 51
+6orJQxg6-CI 13:39 Johann Sebastian Bach | The art of the fugue - Contrapunctus 1-4
+6X6vvUFxgkg 25:36 GUSTAV MAHLER | Kindertotenlieder - Münchner Symphoniker | Kartal Karagedik
+I1uX3-q2ryE 26:46 BEETHOVEN | Sonata No.15 in D major, Op.28 - Pastoral
+aoU-56icl4k 11:19 Johann Sebastian Bach | Chromatic Fantasia and Fugue in D-Minor BWV 903
+CqjXi2O_YQ0 14:43 George Frideric Handel | Concerto grosso op. 6/6
+RpS3ZPynlvw 35:34 Johann Michael Haydn | Requiem c-Moll
+1NuAiH0Z9VY 1:12:11 Augustin Grieninger (1638 - 1692) Suspiria Mariana
+hVOfpxE_bIQ 31:59 MOZART | Piano Concerto No. 27 in B-flat K. 595
+wOjrhh1Fcvk 43:08 Beethoven | Mass in C major Op. 86
+M7BPlOirPig 17:18 Nikolai Rimsky-Korsakov | Russian Easter Overture op. 36
+5P-v4HXuz7Q 1:40 Justinus Will - Pater Justinus | Aria Pastorella
+kcq6DlSYwSo 2:16 Robert Führer | Praeludium über das böhmische Weihnachtslied „Geboren ist Christus, der Herr“
+4Wvhn__jwd8 3:58 Anonymus / Kerll | Toccata con il pedali
+2RQc1rVf-9Q 3:55 Domenico Zipoli | Pastorale
+yhp5aGqte5s 8:55 LIGETI | Sonata for cello solo - Narek Hakhnazaryan
+iX0Hf8FP09M 18:22 BACH | Suite No.1 in G-major BWV 1007 - Narek Hakhnazaryan
+ZQ8gGjFQEw4 10:06 MAHLER | Lieder
+TmGzdZGdtvw 11:17 MENDELSSOHN | Hebrides Overture, op. 26
+yVhvEY1dG1E 6:32 Martynas Levickis | Lithuanian folk song: Beauštanti aušrelė
+jaY-xTNXNM4 17:13 RICHARD STRAUSS | Don Juan op. 20
+cGamL9IcLaQ 1:58 Johannes Brahms | Geheimnis
+i_PmPv7Pkv8 19:40 GUSTAV MAHLER | Fünf Lieder nach Friedrich Rückert
+TU91teQAC4A 7:56 ALMA MAHLER | Fünf Lieder
+XhDex_eO7Xk 38:44 SCHUBERT | Piano Quintet in A major D. 667 - Trout quintet
+BEj4t9j--sE 10:31 GUSTAV MAHLER | Piano Quartet in A minor
+rY_rxc2NORQ 29:26 BEETHOVEN | Piano Trio in E flat op. 1 no. 1
+o5v5KOW91B4 59:44 GUSTAV MAHLER | Symphony No. 4 - Asian Youth Orchestra
+IF62rRaQmsM 1:21:19 HÄNDEL | Alexander's Feast HWV 75
+EMulDA9jurU 1:10:10 Pietro Nicolò SOROSINA (1645–1732) Oratorio: Adamo ed Eva
+G3UglCQTIx0 5:01 MOZART | Quartet for Oboe and Strings in F-major K. 370 - 3. Rondeau. Allegro
+0_a1OReKJSU 13:07 Benjamin Britten | Phantasy Quartet for Oboe und String Trio op. 2
+luzzcxwJ2GY 12:29 Jiří Družecký | Oboe Quartet in g minor - Trio Boccherini | Ramón Ortega Quero
+fVrd9xmcJyA 1:51:01 TELEMANN | Das seelige Erwägen des Leidens und Sterbens Jesu Christi
+MwJ_f053pLY 6:20 Johann Rosenmüller (1619-1684) Sonata Prima á 2 in g-minor
+33HYebDZ-Ts 6:45 Johann Rosenmüller | Coelestes Spiritu
+mlsiYWtk24c 8:16 Johann Rosenmüller | Jubilate Deo
+SMdVVGRzXRI 5:48 Jan Pieterszoon Sweelinck | Unter der Linden grüne
+We0UT7xZn0M 22:40 MOZART | Missa brevis K. 192
+McZvQv3U4OI 4:42 Hans Leo Hassler | Credo in unum Deum
+aXJjESS1yGw 26:12 BEETHOVEN | Quintet in E-flat major op. 16 - Azahar Ensemble, Rosalia Gómez Lasheras
+xL-C3OOtFgo 24:52 Franz Ignaz Danzi | Quintet in d-minor op. 42 - Azahar Ensemble, Rosalia Gómez Lasheras
+cwxOnz9TYAA 25:25 Mozart | Quintet in E-flat major K.452 - Azahar Ensemble, Rosalia Gómez Lasheras
+C0Io66i8UHo 35:36 Beethoven | String quartet no. 7 in f-major op.59 no. 1 - Selini Quartet
+TItEWA5tnJY 20:29 Fanny Hensel Mendelssohn - String quartet in E-flat Major (Selini Quartet)
+h95feadQeV4 1:09:13 Mahler | The Song of the Earth
+DfI7auXxTVw 27:38 Haydn | Symphony no. 99 in E flat major
+towckJnuffQ 34:20 GUSTAV MAHLER | Lieder - Kammerchor Stuttgart
+dwIr4kICW1E 42:36 Schubert | String quartet no. 14 in d-minor D.810 - Esmé Quartet
+CZcLkf9vhTA 14:41 Bach | Concerto for two violins in D minor BWV 1043
+6mvu9Zn6_6A 1:01:04 MAHLER | Symphony no 1 - Symphonic poem in 2 parts (1888)
+hGJTSKfe5ec 28:02 Klezmer Reloaded @ GUSTAV MAHLER MUSIKWOCHEN 2022
+9pbuoigbGTg 22:57 Johann Sebastian Bach | Cello Suite No. 5 in c-minor BWV 1011 - Diyang Mei
+TRBdRdp-0E8 1:16:31 MAHLER | Sinfonie No. 5 | SCARTAZZINI "Einklang"
+WVhB0eUMlnM 9:19 Turris Fortissima | Steven Ponsford - Brass Band Überetsch
+nUzDvS845Sc 38:08 HAYDN | Missa in angustiis No. 11 in D minor - Nelson Mass
+kkW_-tUHAl0 10:16 Haydn | Ave regina caelorum
+gi-UEeEl16M 41:13 HAYDN | Mass in B-flat major
+2eooClTAa5g 9:18 Vivaldi | Concerto dall'estro armonico No. 11 d minor RV 565
+EDdIFreWfxo 4:21 Bernardo Storace | Toccata & Canzon
+RzBNw-0fWq0 3:46 Johann Jakob Froberger | Toccata III
+Us_InfVZIxQ 6:11 Baldassare Galuppi | Sonata in C major
+KbZF2bv-RjM 4:27 Johann Speth | Partite diverse sopra la Spagnoletta
+PU1uHf_1Bj0 1:42:12 Monteverdi | Vespers for the Blessed Virgin
+69HI8EPSsdk 3:54 VOCES8 | Heinrich Schütz - Selig sind die Toten
+VSFe-6JvqQE 5:03 VOCES8 | William Byrd - Laudibus in Sanctis
+yPcq-OhutqI 4:33 VOCES8 | Giovanni Pierluigi da Palestrina - Magnificat Primi Toni
+mlCXE2wEe7w 40:38 Schubert | Piano Trio No. 2 in E-flat major, op. 100 D.929
+g6mOBV5QNe4 1:24:20 Verdi | Messa da Requiem
+3B6Hn3uwQ8U 53:26 Bruckner | Symphony No. 6 in A major - BLJO
+HnPPANrbOOg 1:48:17 BACH | St John Passion
+CSdlrvC08lM 40:45 Schubert | String quartet no. 14 in d-minor - Death and the Maiden
+a-hNxyzVgTU 29:07 Mendelssohn | String quartet No. 2 in A minor, Op. 13
+S3OBYE3ubb8 6:44 Johann Michael Bach | Halt was du hast - Tölzer Knabenchor
+6-cWKPiTcCc 20:06 Haydn | String Quartet In F Minor - Hob. III:35 - Op. 20 No. 5
+v5fEAjlswrE 6:19 Johann Christoph Bach | Herr nun lässest du deine Diener - Tölzer Knabenchor
+vPCsZGefMIQ 11:11 Johann Bach | Unser Leben ist ein Schatten - Tölzer Knabenchor
+6xXGNAoew6c 47:11 Rupert Ignaz Mayr | Vespers for the blessed virgin - Regina coeli laetare, alleluia
+l3y4PhvK-4U 5:44 Heinrich Ignaz Franz Biber | Sonata VI - Capella Lanensis
+eip3ZcKcSqc 5:45 Benedikt Anton Aufschnaiter | Quae est ista - Capella Lanensis
+RhBiVLBWi0M 8:10 Rupert Ignaz Mayr | Sancta Maria mater dei - Capella Lanensis
+pRKnT-3ZDU8 4:04 Bach | Erbarme dich mein, o Herre Gott BWV 721
+Wt2c_e2-lsk 7:36 Bach | Prelude and Fugue in G major BWV 541 - Leonhard Tutzer
+oZErclhtsZc 9:51 Bach | From the: Little Organ Book BWV 625-630 - Leonhard Tutzer
+e-vGwht-yCk 11:22 Bach | Prelude and Fugue in d major BWV 532 - Leonhard Tutzer
+HA120-J0_kU 10:22 Vivaldi | Concerto in D major for 2 violins, 2 cellos, strings, continuo RV 564
+kcOiBcjt6Ks 21:38 George Enescu | Violin Sonata No. 2 in F Minor, Op. 6 - Julia Fischer, Yulianna Avdeeva
+2Ec_DnPL578 25:36 Brahms | Violin Sonata No. 1 in G major op. 78 - Julia Fischer, Yulianna Avdeeva
+rRpIlP7to_k 21:53 Mozart | Violin Sonata in E-flat major K.481 - Julia Fischer, Yulianna Avdeeva
+j0EwSS5dOWg 3:11 Eugène Gigout | Toccata
+pFdef4LRXr0 8:44 César Franck | Pièce Heroïque
+loUF03a1VXM 41:24 Schubert | Piano sonata A major D 959 - Inon Barnatan
+T7Io2ANYmX8 1:39:27 Vespro della Beata Vergine | Maurizio Cazzati (1616–1678)
+4RGL--179eU 2:14:08 Messiah | Georg Friedrich Händel
+CM146fyJF6k 5:41 Mozart | Fantasia in D minor K.397
+dqOmwwBUXSo 13:17 Haydn | Piano Sonata No. 23 in F Major
+lSRz3WmE23s 7:15 Fortepiano by Joseph Hipp (built around 1800, recently restored) presented by Christoph Hammer
+AReITrXqo7U 17:57 Vanhal | Concerto for Bassoon and Orchestra in C major
+7-89cEdVFzo 1:47:10 Haydn | The Creation
+gvlj7lQ3cZg 5:30 Czardas - Vittorio Monti
+AI3CAw7RC1o 15:28 Beethoven | Sonata No. 26 E flat major op. 81a - Ronald Brautigam
+48ZG9D5BROU 25:17 Schubert | 4 Impromptus op.90 D 899 - Ronald Brautigam
+tqUICXytEY0 18:45 Haydn | Piano Sonata No. 59 in E flat major, Hob. XVI:49 - Ronald Brautigam
+wrZnK74FkLY 29:46 Mozart | Clarinet concerto in A major K 622
+dJwd4AyVMBs 8:32 Vanni Moretto | "Microsonata" Flowers - La douceur et l'Esprit
+be2bunwqilM 44:11 Haydn | Mass in B flat major no.14 - Harmoniemesse
+cU2F-70W2F0 2:22 Anonymus (17. Jahrhundert) | Capriccio in F-Dur
+oNKfSgPuCoo 2:16 Anonymus (17. Jahrhundert) | Canzona in C-Dur
+2IcG7i-ZHdU 2:54 Bartholomäus Weisthoma | Toccata in C-Dur
+hrf-eCdYD_Y 1:43:07 Bach | Mass in B minor
+R8XOTOODFcs 58:28 Cristina Zavalloni | Tiroler Kammerorchester InnStrumenti Südtirol - French Chansons
+07bj8oKVSeQ 8:27 Arvo Pärt | Spiegel im Spiegel
+GX05R-s6DOY 4:54 Joseph Rheinberger | Elegie
+3eJuOesY19E 7:06 Gabriel Fauré | Elegy
+Yl5YF3PeUeI 45:31 Schubert | Mass No. 5 in A flat major D 678
+41desehmoyU 3:26 Camille Saint-Saens | The Swan
+7T2hDcGNE7Y 6:53 Brahms | Schaffe in mir Gott ein rein Herz - Dresdner Kammerchor
+KSmT4VIjEtI 16:02 Palestrina | Missa Papae Marcelli - Dresdner Kammerchor
+wJ05fSC37dU 3:43 Jacobus Gallus | Ecce quomodo moritur justus - Dresdner Kammerchor
+ZOsm3uTzwgc 8:54 Pierre Prowo | Triosonata in d-minor
+brOhkFtAXKA 3:35 Marco Uccellini | Sonata IV a violino solo "La hortensia virtuosa"
+UE0E5Z49--Y 55:38 Schubert | Octet in F Major D 803 - Camerata RCO
+CXK7Biex9Xc 9:46 Webern | Langsamer Satz für Streichquartett - Camerata RCO
+IJmB3lqfAMs 13:58 Stuppner | Salomes Schleier-Tänze für 2 Klaviere (Herbert Schuch & Gülru Ensari)
+Pmofd2euA-8 19:30 Mozart | Sonata in C major for piano four-hands K. 521
+GL7G-ttPUbQ 7:11 Bach | From the der Cantata BWV 76 Die Himmel erzählen die Ehre Gottes
+oz4kNUrS3Uw 8:15 Zelenka | From the Sonata a 3 for oboe d'amore, viola da gamba and basso continuo in b-major
+scYH3QnMeTs 6:43 Bach | Aria: Meine Seele, auf! Erzähle
+rBjFlO_SNCk 6:15 G.H. Stölzel | Sonata a 4 per Hautbois, Violino, Bassoon e Basso in g-minor
+BZqYhht7FrU 8:41 Telemann | Cantata: Liebe, die vom Himmel stammt
+EMvQ2Q88YZ8 7:30 J. F. Fasch | Sonata for oboe, violin, bassoon and basso continuo
+C8zYRu-S8QE 3:14 Edward Elgar | O Happy Eyes - Vokalensemble AllaBreve
+lPFQ-UaMMVk 4:47 Eriks Esenvalds | Only in sleep - Vokalensemble AllaBreve
+5-rN6k3WuLw 11:37 Bach | Concerto in D minor BWV 974 - Mario Brunello
+myrFn4pxLOo 11:14 Vivaldi | Concerto in C Major RV 508 - Giuliano Carmignola, Mario Brunello
+XIOndQLs1JE 9:07 Vivaldi | Violin Concerto in D major RV 230 - Giuliano Carmignola
+ht-M-dR0jzk 12:22 Händel | Concerto grosso Op. 6, No. 1 in G major
+9One__hAjrI 46:02 Schubert | String Quartet No. 15 in G Major D. 887 - Esmé Quartet
+f3kH1srw9-o 28:24 Gustav Mahler | Der Abschied
+3bqlt1EOlwg 17:54 Schönberg | Five Orchestral Pieces Op. 16
+BErrTd_yteE 9:15 Busoni - Stein | Berceuse élégiaque Op. 42
+20gwYJz_Il0 15:34 Hindemith | Kammermusik Op.24 No.1
+sFMROaVmbTg 10:20 Debussy | Prélude à l'après-midi d'un faune
+bS50Q54ksHY 9:05 Josquin des Préz | De profundis - amarcord Ensemble
+hbMnpY8gr9c 8:37 Josquin des Préz | Illibata Dei Virgo nutrix - amarcord Ensemble
+r7OfGxdTdMU 1:06:06 Joseph Haydn | Johann Hermann Schein | Da Jesus an dem Kreuze stund
+5XijF_2dr3U 8:54 La Venexiana - Amanti io vi so dire - Benedetto Ferrari
+IzMj3-V4eJ0 5:39 La Venexiana | Udite amanti - Barbara Strozzi
+8kFz-tZ6HWQ 6:21 La Venexiana | Lamento della Ninfa - Claudio Monteverdi
+1spiDxJNE2g 4:30 La Venexiana | Quel sguardo sdegnosetto - Claudio Monteverdi
+zqrPCtzoQTU 5:21 La Venexiana | Poppea's tango - Claudio Monteverdi
+1XYDiWY5FuY 9:39 La Venexiana | Usurpator tiranno - Giovanni Felice Sances
+sikJvC62E1k 14:53 Boccherini | Symphony in d minor No. 29
+aYSPlTTM9Gc 11:57 Carl Philipp Emanuel Bach | Symphony in E-flat major Wq179
+weL7QyV301s 31:53 Mozart | Clarinet Quintet in A major K. 581
+IJtypOgWsZk 29:33 Weber | Clarinet Quintet B-flat major Op. 34
+pzYSctUR-Y0 24:23 Beethoven | String Quartet No. 16 in F major, Op. 135 - Kuss Quartet
+SjIBK7A8wl4 25:28 Mozart | String Quartet No. 17 in B-flat major, K. 458 | Kuss Quartet
+gtWOUK8xwpo 2:15:54 Mendelssohn | Elijah Oratorio
+lDqQBQu2DEI 25:06 Ravel | Le tombeau de Couperin - Zoltan Fejérvari
+breY1U3TdGE 39:03 Chopin | 24 Preludes op 28 - Zoltan Fejérvari
+8diDC-twh2c 16:57 Bach | French Suite No.5 in G major, BWV 816 - Zoltan Fejérvari
+8XmM_1fwx7U 10:26 Johann Christian Bach | Symphony in g minor Op. 6 No. 6 W.C12
+_q7X4p6ETvE 5:22 Bach | Busoni - No. 9 Jesus Christus, unser Heiland - Stepan Simonian
+rV0Nbs8FED0 4:05 Bach | Busoni - No. 2 Wachet auf, ruft uns die Stimme - Stepan Simonian
+NDylV0Yau_M 17:03 Beethoven | Piano Sonata No. 31 in A-flat major, Op. 110 - Stepan Simonian
+w-4uuUpwNSc 31:03 Peter Waldner plays the Schwarzenbach - Organ (1599) Parish church of St. Peter, Auer (I)
+9UTe8zQBlT8 8:45 Peter Waldner on the Apfelregal
+Cjg66OdObo4 3:50 Nun sei willkommen, Herre Christ | Windsbacher Knabenchor
+y029Bg-pYSI 2:50 Gottes Sohn ward ein Kindelein | Windsbacher Knabenchor
+9FHjx35yucI 3:09 A Hymn to the virgin | Benjamin Britten
+C9z7vt6RT-w 3:00 Ave maris stella | Windsbacher Knabenchor
+SWw1Q7SSG1o 4:35 Maria durch ein Dornwald ging - Adventskyrie | Windsbacher Knabenchor
+G566KbSujMQ 34:52 Beethoven | String Quartet No.12 Op.127 - Quartetto di Cremona
+mIB7XAph0ng 52:49 Schubert | String Quintet in C major op. post. 163, D.956 - Quartetto di Cremona & Eckart Runge
+53W65rlcmsc 3:04 Macht hoch die Tür, die Tor macht weit | Windsbacher Knabenchor
+3QIEA02J8Ms 39:16 Antoine Brumel | Missa Et ecce terrae motus - amarcord & Calmus Ensemble
+ZVPQtWPf76o 2:16 Domenico Mazzocchi | Dunque ove tu, Signor
+xDgpcfJ-jcc 6:17 Domenico Mazzocchi | Piangete, occhi piangete
+MSVghy9IQ1E 19:20 Graziani | Adae Oratorium
+lh0iS4iL8is 16:22 Graziani | Filii Prodigi Oratorium
+JePfy2KCa1Q 27:47 Beethoven | Piano sonata No. 32 in c minor op. 111 - Evgeni Koroliov
+FUaB1qEwFYA 13:17 Beethoven | Piano Sonata No.27 in E minor Op.90 - Evgeni Koroliov
+KLHiRIyWeSM 4:05 Slovenske dežele | Ingenium Ensemble
+UOs-gvNE6fc 3:28 Kako kratek je ta čas | Ingenium Ensemble
+JrthQJpY5Z8 3:35 Da pacem Domine - Verleih uns Frieden | Ingenium Ensemble
+yBnhZd2V_TI 6:27 Piazzolla | Introducción al Angel - Esmé Quartet
+adKab_1S0ug 42:50 Beethoven | String Quartet No.15 in A minor op. 132 - Esmé Quartet
+dd_2D9Rg_Tk 2:11:01 Vivaldi | Juditha triumphans RV 644
+5kTgI-GFg1s 30:02 Mozart | Quintet for clarinet and string quartet in A major K581
+6KWAyuvG6bs 15:45 Haydn | String quartet in g major op. 33 no. 5
+daMMimVYLaI 36:59 Schubert | Lieder
+bZvsTlk85Xg 28:56 Schumann | Dicherliebe op. 48
+EIaSNc9V3VU 5:51 J.S. Bach | Violin concerto in E-major BWV 1042 - Adagio - Yuki Serino
+TvngjHpSAOk 4:58 J.S. Bach | Aria: Heil und Segen
+LCIpARJEi2M 10:43 Arvo Pärt | Fratres
+i-vtSWEs5aQ 14:11 J.S. Bach | Ciaccona for solo violin and 4 voices BWV 1004 - Morimur
+o7iTlsbVEJQ 8:13 Harmonium improvisation over motifs by Antonín Dvořák
+X9m65sqSMU4 40:44 Dvořák | Mass in D major op. 86 Lužanská
+69XCVps7tls 1:36:13 Mihaela Ursuleasa | in concert @ GUSTAV MAHLER MUSIC WEEKS 2012
+5hOv24NHuXE 1:28:30 Juliane Banse | Ben Kim - GUSTAV MAHLER MUSIC WEEKS 2014
+zqZPLIvmNx4 8:50 Édith Canat de Chizy | Quartet No. 4 "En noir et or"
+WdgJbFbgBmk 32:53 Mozart | String Quintet in c major KV 515
+lzEhYbyscAs 31:32 Mozart | String Quintet in G minor KV 516
+IEhVVlI8EGQ 5:47 Haydn | The Seasons - "Be now gracious, smiling heaven!" (German)
+AqrTsxQgCt0 1:36:07 Monteverdi | Vespers for the Blessed Virgin
+6BycfHlcWTM 8:18 Rossini | La Cenerentola - Overture
+kzpwrSmrpTo 10:58 Rossini | Maometto II - Overture
+nLIWkNt-2C8 7:44 Rossini | Il Barbiere di Siviglia - Overture
+1WST6UspwAM 26:50 Mendelssohn | String Quartet in F minor op. 80
+XehskvXAO88 11:31 Ligeti | Six Bagatelles for Wind Quintet
+NKXOxLW-nRs 5:36 Georg Muffat | Toccata prima
+qXGQjEH3s2g 5:03 Liszt | Grande études de Paganini No. 6
+JDZGH6Y6H9A 6:08 Bartók | Romanian folk dances
+Pb5yC9pNYh4 1:24:22 Mahler | Symphony 2
+6gmYZeIkvBU 20:19 Haydn | String Quartet in B-flat major Op.50, No.1
+fVSRebiSits 1:10:49 George Frideric Handel | L' Allegro, il Penseroso ed il Moderato HWV 55
+PaU0onMYetY 25:17 Tchaikovsky | Pianotrio op.50 - Tema con variazioni
+OIrYERFoir4 29:07 Weinberg | Piano Trio op. 24 - Trio Marvin
+hOJ961_7tpQ 25:05 Mendelssohn | Psalm 42 - Wie der Hirsch schreit
+UxhChL58AZw 4:46 Mendelssohn | Verleih uns Frieden gnädiglich
+YTZZdOM6g5E 12:07 Mendelssohn | Drei geistliche Lieder op. 96
+2kBexWNENgk 14:30 Mendelssohn | O Haupt voll Blut und Wunden
+wbHdZZLLnbw 3:24 Stille Nacht | Windsbacher Knabenchor
+tJYvbPhkoTY 4:09 O du fröhliche | Windsbacher Knabenchor - Modern Slide Quartett
+Rxw1DJVUPQo 2:30:27 George Frideric Handel | Brockes Passion HWV 48
+tG4u_9d0t3c 47:40 Antonio Cesti | Natura e quatuor Menta dolentia ad Sepulcrum Christi
+n3N3HXSZsr8 4:57 Johann Stadlmayr | Aspice á 6
+CLIIvXNV9hE 36:00 Franz Schubert | Piano Sonata No 19 in c-minor D 958
+u2QkSMuBGME 33:41 Strauss | Also sprach Zarathustra, op. 30 - BLJO
+nMVkhjPxeko 16:19 Mahler | Lieder eines fahrenden Gesellen - BLJO
+yvGfnQlV3nc 14:22 Brahms | Tragic Overture, op. 81 - BLJO
+7MvBLr4h0Xw 2:51 Bach | Prelude BWV 1007 on classical guitar
+aguCuZ_YwfU 3:20 Franz Schubert | Grab und Mond - Schnittpunktvokal
+WBqT5WWb0-Q 8:51 Patricia Van Ness | Caritas (Schnittpunktvokal, Marco Tamayo)
+TgFRnzUa0fk 8:17 Variations on the theme of Carnival of Venice on classical guitar - Marco Tamayo
+TKmByTMYFtA 5:56 Schubert | Die Nacht - D.983 op. 17, No 4
+9ANwExJzH24 11:49 Rossini | Sinfonia Semiramide - Ensemble Cordia
+2jxupA7oy3I 4:17 Chiara Margarita Cozzolani | Bone Jesu, fons amoris
+xTNbclgU3h4 30:49 Mozart | Clarinet quintet K581 in A major - Armida Quartet, Sabine Meyer
+3JeYoKYewts 20:41 Mozart | Piano Trio in B flat major KV 502 (Amatis Piano Trio)
+kvkCYKj7kpQ 1:22:10 George Frideric Handel | Alexander's Feast
+VkvFJ9LkrX0 11:56 Rossini | William Tell - Overture
+5M0ctCaIXaE 38:34 Meister Eckhart | Martina Gedeck & Unio Mystica (German)
+V0VKcE0PMes 1:13:38 Schubert | Die Winterreise
+cxBhSvP3JQs 5:20 J. S. Bach | Flößt, mein Heiland, flößt dein Namen
+zymJhlpYcuA 3:51 Franz Liszt | Consolation No. 3 in D-flat major
+QBnFcBT5HrY 3:45 Franz Liszt | Consolation No. 3 in D-flat major (Historical Steinway, 1860)
+GQV_80Bgz4o 2:14 Chopin | Mazurka Op. 6 No. 2 in C-sharp minor (Historical Steinway, 1860)
+6jatrSCp9rc 2:13 Chopin | Mazurka Op. 6 No. 2 in C-sharp minor
+7OZp7DA24eA 8:57 Historical Steinway - Modern Steinway | A comparison by Hardy Rittner
+S3JRSz4KGmk 26:09 Bach | Christmas oratorio BWV 248 - Part 1
+vg4wFFJJaR8 1:10:48 Beethoven | Missa Solemnis D major Op.123
+8F5X9rDDpjQ 28:38 MIAGI Youth Orchestra | Rainbow Beats - Suite for 100 Years Nelson Mandela (Duncan Ward)
+YERVu0YMqSw 10:04 Gustav Mahler | Britten - What the Wild Flowers tell me - MIAGI Youth Orchestra
+_gnLlCFBZGU 10:20 Franz Schubert | Intende Voci D963
+w9ekHA5xLmU 44:49 Franz Schubert | Mass No.5 in A flat major D678
+R7qmshfjfXE 28:17 Bach | Partita No. 2 D-Minor BWV 1004 - Johannes Pramsohler
+k7yVhT6dz34 4:29 Jean Richafort | Veni, electa mea - Singer Pur
+Rw0zjaoWU6Q 8:40 Ludwig Senfl | Tota pulchra es - Singer Pur
+Cs59lc58T0w 6:50 Heinrich Schütz | Ego dormio - Singer Pur
+2FcahniNsbI 5:25 Jean de Latre | Qualis est dilecta mea - Singer Pur
+tzvCaSbrXvg 2:14 John Dunstable | Quam pulchra es - Singer Pur
+dPiInzyBuLU 2:37 Guillaume Dufay | Anima mea liquefacta est - Singer Pur
+iAzsnyN4VOc 3:06 Giovanni P. da Palestrina | Nigra sum sed formosa - Singer Pur
+t50-VZzYDkM 7:52 Dominique Phinot | Surge, propera amica mea - Singer Pur
+9sfuuOkCToA 18:41 Mozart | Flute Concerto D-Major No.2 K314 - Dorothea Seel & Barocksolisten München
+sG_0X4Bgsco 16:23 Mozart | Bassoon concerto B-Flat major K.191
+tbGVRW5_7Ns 12:26 Siegfried Matthus | Phantastische Zauberträume - BLJO, Ebonit-Quartet, Anna Duczmal Mrós
+v3F7CcTvvzY 40:25 Bela Bartók | Concerto for Orchestra - BLJO, Anna Duczmal Mrós
+gVXp7IrxZ8I 24:23 Prokofiev | Sonata No 2 Op. 94
+ek2C0ldIvVA 10:21 Ensemble Chromoson | Caroline Profanter - Neon
+11EfSHf80ns 9:36 Ensemble Chromoson | Daniel Oliver Moser - Geister, über den Wassern
+z8nZ-pu_0do 12:22 Ensemble Chromoson | Eduard Demetz - IPSE
+iPuAoYzkF-E 7:52 Ensemble Chromoson | José Manuel Serrano - Sub rosa
+dVn5wcSdCzM 10:29 Ensemble Chromoson | Hannes Kerschbaumer - llif
+qxfLIpM96fg 7:10 Johann Sebastian Bach – Prelude and Fugue in D major BWV 874 - Dina Ugorskaja
+fNM5PneeKRQ 15:26 J. S. Bach – Prelude and Fugue in B minor BWV 869 - Dina Ugorskaja
+aDtRgWtx7eY 14:27 Galina Ustvolskaja - Sonata no.5 - Dina Ugorskaja
+yI3_-SpgR-s 9:18 Johann Sebastian Bach | Mass in B minor - Kyrie eleison
+80a3VXPGlIk 4:53 Johann Sebastian Bach | Mass in B minor BWV 232 - Christe eleison
+7sLGEkyR8qU 4:11 Johann Sebastian Bach | Mass in B minor BWV 232 - Qui sedes ad dextram Patris
+WsD8CHcZMJY 4:12 Johann Sebastian Bach | Mass in B minor BWV 232 - Et in unum Dominum
+myAnPsTihX0 8:18 Johann Sebastian Bach | Mass in B minor BWV 232 - Agnus dei, Dona nobis pacem
+IoEN4bkTf8E 6:42 Ensemble Conductus | Mazurka d'Doro
+rz3wiov1Fw8 7:29 Ensemble Conductus | Quattro versi in purgatorio
+SgAkFkiExeM 9:12 Ensemble Conductus | Viola del pensiero - Anna Serova
+zYccvhhTmNw 10:29 Kit Armstrong | J. S. Bach - Prelude and Fugue BWV 894
+gGEZWPn2vTQ 10:36 Kit Armstrong | W. A. Mozart - Fantasia and Fugue KV 394
+0tXEhfsxQhQ 8:13 Kit Armstrong | William Byrd - Voluntary, Fancy
+6etYdxC9MSo 19:20 Gustav Mahler | Rückert-Lieder
+p00U0SCcKvw 35:34 Johannes Brahms | String Quartet No 2 in A minor - Op.51
+PI12uo2IC1I 44:19 Johann Zach | Stabat mater - Barocksolisten München & NovoCanto
+DMtJVgJ7CRo 10:51 Johann Zach | Sinfonia in G
+yjBRYe0jLSQ 28:32 Johann Zach | Missa solemnis
+MgQ6EmQ8Oe0 10:02 Jan Dismas Zelenka | In exitu Israel
+eUEuSnu0zi0 3:59 František Xaver Brixi | Pastores - Ensemble Inégal
+jC7sjzYPTaQ 4:40 Jakub Jan Ryba | Rozmilý slavíčku - Ensemble Inégal
+ip2oaCh4anY 8:22 Antonio Vivaldi | Domine ad adiuvandum me festina - Ensemble Inégal
+RFiA4bSEOFs 3:46 Hans Christian Lumbye | Kopenhagener Eisenbahn-Dampf-Galopp
+FxvSQLLatWo 1:07:56 Johannes Brahms | A german requiem
+2dKHu4OuGeI 5:06 Vittorio Monti | Czardas (Violin: Yuki Serino 11 yrs)
+NYzD5WvLj0Y 12:08 Johann Strauss II | Kaiser-Walzer
+J5gZ6h2azc8 37:37 Jakub Jan Ryba | Czech Christmas mass - Česká mše vánoční - Ensemble Inégal
+ZNu_qnicCko 3:03 O mio babbino caro - Gianni Schicchi | Giacomo Puccini
+V6V-2eyP49U 2:53 Quando m'en vo - La Bohème | Giacomo Puccini
+4XZLOJgsYE0 8:54 Gold und Silber Walzer - Franz Lehar
+J4ewS96_qYA 8:23 Johann Strauss II | Overture: The bat - Die Fledermaus
+QiDvv-D6TO0 5:00 Voces8 | Beautiful - Cover by Carly Rae Jepsen, Justin Bieber, Toby Gad
+Yh0byWvrz58 1:00:51 Gustav Mahler | Symphony No 4
+3Pc_LUItWQI 11:55 Franz Schubert | Die Zauberharfe - Overture
+-_bjjSH8coc 5:44 Claudio Monteverdi | Confitebor Secondo - Selva Morale e Spirituale
+MZGLboLe6II 3:54 Claudio Monteverdi | Laudate Dominum omnes gentes
+jv6i3FRtnWo 2:56 Claudio Monteverdi | Iste confessor primo - Selva Morale e Spirituale
+s47K-pxNLDI 3:06 Voces8 | Ain't that a Kick in the Head (Jimmy Van Heusen, arr. Jim Clements)
+wYsqjV5rcUE 2:35 Voces8 | Sing Joyfully - William Byrd
+bhTjE2mpUQg 3:21 Voces8 | It Don't Mean a Thing (Duke Ellington, arr. Ben Parry)
+i-kYfUpIq1Q 3:46 Voces8 | Bogoroditse Devo - Sergei Rachmaninoff
+1hv5sJe-Fr0 23:35 Wolfgang Amadeus Mozart - Krönungsmesse - Coronation mass KV 317
+ux2Sqpg2Jn4 32:32 Yulianna Avdeeva | Franz Liszt - Sonata in B minor
+RK3XvErL8g0 5:51 Yulianna Avdeeva | Franz Liszt - Unstern! Sinistre, disastro
+g0CJHlY70Qs 4:05 Yulianna Avdeeva | Franz Liszt - La lugubre gondola no.1 - Die Trauergondel I
+KeMd1b3cWP4 7:04 Yulianna Avdeeva | Frederic Chopin - Ballade no. 2 in F-major op. 38
+IJg3dirbtIE 12:39 Yulianna Avdeeva | Frederic Chopin - Fantasie in F-minor op. 49
+z3g2G6fnckE 7:06 Yulianna Avdeeva | Frederic Chopin - Polonaise in A-flat major op. 53
+FsFDT24JElU 9:26 Yulianna Avdeeva | Frederic Chopin - 4 Mazurkas op. 7
+lomrNMdT3xE 9:18 Yulianna Avdeeva | F. Chopin - Nocturne in C-sharp minor, Nocturne in E-flat major, op. 55/2
+QrrdWYh9Hwc 2:33:29 Johann Sebastian Bach | Matthäus - Passion / St Matthew Passion (BWV 244)
+iTiiSYIw33M 20:18 Alban Berg: Sieben frühe Lieder, Gustav Mahler: Des Knaben Wunderhorn
+_KczRwDV6L4 13:50 Wolfgang Amadeus Mozart - Exsultate, jubilate KV 165 (KV 158a)
+jj5eleg94DM 15:40 Joseph Haydn | Piano Trio No. 39 in G-major, Hob. XV:25
+PD2wsobDX0k 10:32 Manuela Kerer - "Bestie Infernali!" | Haydn Chamber Ensemble
+59tH0r6eVvU 43:13 Antonin Dvorak | Piano Trio No.3 in F-minor, op. 65
+2xvAy85WfGE 12:35 Cristóbal de Morales - Missa pro Defunctis: Sanctus, Benedictus, Agnus dei, Communio
+umW2GALmY2w 11:49 Cristóbal de Morales - Missa pro Defunctis: Pie Jesu, Offertorium | C. Festa - Contrapunctus 63 à 4
+0uyBh4CBMPw 18:00 Antoine Brumel - Missa pro defunctis à 4: Sequentia Dies irae, Dies illa
+TTtPxltC7_w 16:54 Cristóbal de Morales - Missa pro Defunctis: Introitus, Kyrie | Costanzo Festa - Contrapunctus 76 à 4
+BEVeGQGiKtw 4:27 Josquin Desprez - Christus mortuus est à 6 | Cristóbal de Morales - Circumdederunt me à 5
+Ugn7WpV6nyE 5:25 Antonin Dvorak | Slavonic Dance op. 72 No. 2 e-minor | BLJO, Sebastian Tewinkel
+H1qzS4BUoso 33:59 Igor Strawinsky - Le Sacre du printemps | BLJO, Sebastian Tewinkel
+c8IUSrC4opk 7:10 Pyotr I. Tchaikovsky - Op. 11 II. Andante cantabile | BLJO, Maximilian Hornung, Sebastian Tewinkel
+tcIRIrWmMvc 39:43 Antonin Dvorak - Cello Concerto in B minor, Op. 104 | BLJO, Maximilian Hornung, Sebastian Tewinkel
+hgmf3MVWJjk 5:58 Ensemble airborne extended | Manuela Kerer - kaput II
+KkLs4lkG7Zo 5:56 Ensemble airborne extended | Mathias Schmidhammer - Skeleton dance
+cQ8Aob_I61M 6:13 Ensemble airborne extended | Alexander Kaiser - The difficulty of crossing a field II
+bTCEALQo1r0 9:08 Ensemble airborne extended | Hannes Kerschbaumer - not.to
+_H0gR7uur28 7:30 Ensemble airborne extended | Manuel Zwerger - Condemned
+_9D_5x1ZhmA 7:34 Sonatori de la Gioiosa Marca & Dorothee Oberlinger | Antonio Vivaldi Concerto D-Dur RV 270
+fXm4qSLv5q0 9:45 Sonatori de la Gioiosa Marca & Dorothee Oberlinger | Antonio Vivaldi: Concerto - La Pastorella RV 95
+aKwgWTOo85c 1:51:18 Johann Sebastian Bach | St John Passion (BWV 245)
+0-L5tDCoD0Q 9:43 Anton Brucker | Ave Maria - Christus factus est
+5jUDJL6VSwg 15:37 Ludwig Berger - Gesänge aus einem gesellschaftlichen Liederspiele: Die schöne Müllerin
+Uj75QF0AVXM 1:01:41 Joseph Haydn - Stabat Mater
+TJ0cd15DZWg 8:56 Arvo Pärt - Magnificat
+RM-5cWEpYJM 7:25 Johann Sebastian Bach - Komm, Jesu, komm!
+1eguRLT_Ces 28:51 Johann Sebastian Bach - Magnificat BWV 243
+s2UlHcPnmco 30:51 Johann Sebastian Bach - Herz und Mund und Tat und Leben BWV 147
+JiBmq-gVlNU 18:26 Gustav Mahler - Symphony No. 9 | 2. Im Tempo eines gemächlichen Ländlers
+qRLTWD6aOE4 29:41 Gustav Mahler - Symphony No. 9 | 1. Andante comodo
+cLoT5ZbGHVA 29:08 Gustav Mahler - Symphony No. 9 | 4. Adagio. Sehr langsam und noch zurückhaltend
+-T7aLv12TPQ 14:30 Gustav Mahler - Symphony No. 9 | 3. Rondo - Burleske
 
 # TA Outdoors
 KmweP8s-Rds 25:09 Building a Celtic Roundhouse with Hand Tools: Bushcraft Project (PART 1)
