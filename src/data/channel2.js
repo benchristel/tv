@@ -34,6 +34,30 @@ export const episodes: Array<string> = [
   ksWh7VMVmOI 16:38 Winnie the Pooh - read by Norman Shelley - Chapter 9
   hk3mcTfo7fM 13:55 Winnie the Pooh - read by Norman Shelley - Chapter 10
   `,
+  `
+  Cw6vJPLk6sM 17:25 The House at Pooh Corner - read by Norman Shelley - Chapter 1
+  tKZRHKLrBJc 16:58 The House at Pooh Corner - read by Norman Shelley - Chapter 2
+  vkmRt2HEHeU 16:15 The House at Pooh Corner - read by Norman Shelley - Chapter 3
+  qn5s8nI67RE 19:28 The House at Pooh Corner - read by Norman Shelley - Chapter 4
+  IrETKMx38to 19:44 The House at Pooh Corner - read by Norman Shelley - Chapter 5
+  cRpA3PuH8T0 18:09 The House at Pooh Corner - read by Norman Shelley - Chapter 6
+  1v0s8PTGH7g 19:32 The House at Pooh Corner - read by Norman Shelley - Chapter 7
+  izomS5SgaG8 17:35 The House at Pooh Corner - read by Norman Shelley - Chapter 8
+  K_h6BhkKE-U 16:18 The House at Pooh Corner - read by Norman Shelley - Chapter 9
+  tQhCqByiv-M 16:06 The House at Pooh Corner - read by Norman Shelley - Chapter 10
+  `,
+  `
+  sa3SwVCb25c 14:59 Winnie the Pooh - read by Norman Shelley - Chapter 1
+  9lLTZt8mFu8 10:09 Winnie the Pooh - read by Norman Shelley - Chapter 2
+  OKc2q7DMukk 7:43 Winnie the Pooh - read by Norman Shelley - Chapter 3
+  7yCq3mHhpws 10:14 Winnie the Pooh - read by Norman Shelley - Chapter 4
+  s-xkgum8xIw 17:12 Winnie the Pooh - read by Norman Shelley - Chapter 5
+  iUsGriQMbf0 19:39 Winnie the Pooh - read by Norman Shelley - Chapter 6
+  5vTJUm5FD50 20:27 Winnie the Pooh - read by Norman Shelley - Chapter 7
+  N07qs6vZAhc 21:09 Winnie the Pooh - read by Norman Shelley - Chapter 8
+  ksWh7VMVmOI 16:38 Winnie the Pooh - read by Norman Shelley - Chapter 9
+  hk3mcTfo7fM 13:55 Winnie the Pooh - read by Norman Shelley - Chapter 10
+  `,
 ]
 
 export const videos: string = `
