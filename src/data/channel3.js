@@ -353,9 +353,9 @@ export const episodes: Array<string> = [
     2ZV9Snsk3vU 4:24 Wishmaster
     CwED4C5FJuo 3:55 Nightwish - Over The Hills And Far Away (OFFICIAL VIDEO)
     hIKgj6vHFx8 4:50 Wanderlust
-    E7chnYnI64Q 4:23 End of All Hope (Remastered)
+    JcvDFyJVCyw 4:24 End of All Hope (Remastered)
     n1G5WiMoRjw 4:08 The Phantom Of The Opera
-    SXI9hoyymN8 4:33 Sleeping Sun (Remastered)
+    9QALGuLbh-Q 4:34 Sleeping Sun (Remastered)
     fWm7BLoY9wI 4:36 Nemo (Remastered)
     Dm3k7lXNSa8 6:47 Dead Boy's Poem
     z94ip-1_khY 3:37 Nightwish - Kuolema Tekee Taiteilijan [Lyrics]

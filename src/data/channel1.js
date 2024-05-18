@@ -1033,139 +1033,35 @@ Fb-Y1Tm1r7g 4:26 Jon & Alfie Banish Set
 
 # Pellwolok an Gernewegva
 
+JcEEVcs804w 7:28 Pennseythen Gernewek 2024
+vyrEkU8vLuk 31:29 An Mis 67: mis Meurth hag Ebrel 2024 (March/April 24)
+Ty9XEC8Kkjw 1:41 Coming soon on An Mis / Yma ow tos yn skon
+3PYlBFL5AZQ 4:40 'Gwandryas Iwerdhon' (Irish Rover) in Cornish by Skwardya
+jLb2ImHft8g 4:39 Gool Piran yn Resrudh 2024 / St Piran Festival in Redruth 2024
+RO5P1BPT6Bc 1:46 Headframe Refurb at Crofty
+h1YZUUa2iX0 33:16 An Mis 66 - mis Hwevrer / February 2024
+4glUtVDqmGo 3:39 'Steren a-wartha' - Hwerydh Eledh
+HjD44zOFX1E 2:37 "Kyn fe yeyn" - Te Rewys gans Tallessyn.
 DaX1jB2ZPqE 30:14 An Mis 065 - Mis Kevardhu/December 2023
 jEHMqhsJmnY 31:22 An Mis 64 - Mis Du / November - Lowender
+NqnV7yRqNBk 14:32 Rod ha Jori - rann 2
 krcM2WwM8KA 28:14 Dydh Kemo - Chemo Day - SUBTITLED
+JVgZmckS8_8 15:39 Rod ha Jori - rann 1
+CvSB3oY0PAQ 27:50 Dydh Kemosawment
 yXNbK1WhpcU 29:24 An Mis 63 - mis Hwevrer 2023 / February 2023
 c8_Afdi9cjc 32:54 An Mis 62 - Mis Genver 2023
 7GixR8NZEoA 3:14 "Gava, byrla, kara" - Sarah Tresidder
 nQ5NnrcEgcc 30:38 An Mis 61 - mis Kevardhu 2022 - December 2022
-VT5Y9yHvces 34:28 An Mis 60 - mis Du 2022 - November 2022
-0rPxrmWVOlM 7:14 Daswel Dalva an Yeth - mis Du 2022
-SgPk9oErahw 15:06 Kreft Kernow
-hST4dBO3u8s 31:05 An Mis 59 - mis Gortheren / July 2022
-hST4dBO3u8s 31:05 An Mis 59 - mis Gortheren / July 2022
-NbNKeTKQoh0 31:21 An Mis 58 - The Month - mis Metheven/June 2022
-tX0PGd9OXvI 31:47 An Mis 57 - mis Me 2022 (May 2022)
-kp-H_njhc98 14:50 'Bys Lowartha' (Gardening World) Episode 2 (Gwenton/Spring)
-Lsowfu5IUPw 31:43 An Mis 56 - mis Ebrel 2022 (April)
-sfaaIvV8hyA 3:11 'Gas vy a'm growedh' (Lay me down) - Skwardya
-mQZHscVD_L4 32:58 An Mis 55 - mis Meurth 2022.
-y7NwRVV0P3w 32:45 An Mis 54 - mis Hwevrer 2022
-IK6cAOHSGKw 32:15 An Mis 53 - Mis Genver 2022 / January 2022
-jAQVxCEtxiQ 30:31 An Mis 52 - mis Kevardhu / December 2021
-ekEedaK7Yiw 2:22 Neyj vy bys dhe'n loor / Fly me to the moon (Cornish version)
-jeLvFsFyIhA 8:24 'Like a Buried City' - promo 1
-WvHNt_qOKkU 29:49 An Mis 51 - Mis Du - November 2021
-VLwenMVn5MQ 12:42 Bys Lowartha - Kevres 1 - rann 01
-lM5fme6fhi4 29:22 An Mis 50 / mis Hedra 2021
-tJhGVZakyZs 21:22 An Tonji 4 - Cornish language music show
-xSpFs0pvGhs 32:58 An Mis 49 - mis Gwynngala
-qFx0hr2Ou38 30:44 An Mis - Derivas Arbennek: Pan dheuth an bys dhe Gernow
-wqjy31E3qf0 23:11 Skwardya dhe Wooth Kernow 2021
-bE_Q7gYLzD8 35:19 An Mis 48 - mis Est 2021
-65u_bPtWa7k 1:10 bys lowarthoryon crowdfunder
-MVt6X4OyiM4 30:02 An Mis 47 - mis Gortheren 2021
-nRZQbc9hc10 0:21 GoothKeltek2021 - argemmyn
-A7ni6KGBjug 36:59 An Mis 46 - mis Metheven 2021
-Jk9S7vt4T1s 4:44 Tansys Golowan Sen Stedhyan
-jtsesAy0BSk 0:38 Howard Curnow
-QkIafpJCmHE 32:23 An Mis 45 - mis Me
-PVE5sAUf5kU 19:39 An Tonji 3
-LrRJOxlyRCQ 29:14 An Mis 44 - mis Ebrel 2021
-3huASEi-wFE 32:48 An Mis 43 - mis Meurth 2021
-ES9x_XR0h8s 34:00 An Mis 042 - mis Hwevrer
-2MLxi4qn344 4:57 'Trelawny' - Skwardya
-_xumHvG-iZk 22:55 An Tonji 2
-PTkosdVrgqY 32:55 An Mis 041 - Mis Genver 2021
 TvG5r_d1xeM 30:34 An Mis 040 - mis Kevardhu
-bRUL7MmIcq4 33:31 An Mis 039 - Mis Du 2020
 2tbWSy0SY1M 19:24 Joan Petchey - Elowen
-BkCeQ3Wl3EM 23:10 An Tonji 001 (The Sound house)
-3kJ2UYCSRp4 35:15 An Mis 038 - mis Hedra
-HvMTJI40Bdk 0:19 Remembering Joan Petchey - pioneer of spoken Cornish revival
 tJ3NkvF84jg 0:14 Joan Petchey 100th birthday - Julian German
-rG8whm7dgbo 0:21 Joan Petchey 100th birthday - Grand Bard
-6w4O5OCGIY0 30:50 An Mis 37 - Mis Gwynngala 2020
-KAsk7fUBQdg 30:08 An Mis - Mis Est - AnMis036
-hq_KKbV0kVo 35:22 An Mis 035 - mis Gortheren
-Kz2FhpXZOUI 1:34 My a gar... esedha...
-Tho_CwU6y3g 30:45 An Mis 34 - Mis Metheven
-jSrN64FEYp0 0:10 My a gar an mor - Malcolm Bell
-M2iZQn1JVp4 2:58 Kernewek y'n Chi - An Karrji
-Dq6tFyGG0ho 29:35 An Mis 33 - Mis Me 2020
-1nD6VHPriK8 30:06 An Mis 032 - Mis Ebrel
-RXtjWJp3IqM 3:52 "Omwith" - Graham Sandercock
-17D3tdvpjoo 8:25 Cornish in the House - 'dydh pobas' (baking day)
-A7YwXxxSP_M 2:39 Cornish in the house - Goskeusel an lugarn - The lamp-shade
-a7ThtBY4Ocw 2:39 Cornish in the House - 'Diank am gweli'
-Pv0DJ3WjnfA 3:41 Cornish in the House: Mr Movyer
-af0s5f6pyiU 2:50 Cornish in the house - Tidying records.
-zGKonqZLW8A 3:25 'Gortos Tre' (Staying Home) - gans Matthi ab Dewi
-1E_8o3wIVV0 4:19 Cornish in the house - Gardening - Lowartha
-wKhYRwI39js 1:52 'Ponn' - Dust
--KQerOL4Lfo 4:39 Cornish in the house: Making tea
-CY6ZUuk70ZQ 4:35 Cornish in the house - Washing hands
-hvnIOVEJot4 35:13 An Mis 31 - Mis Meurth 2020
-IxVOIyTlAtQ 32:07 An Mis 30 - mis Hwevrer
-4gKEtfJIHKI 30:25 An Mis 29 - mis Genver
 WYCQlnSewXc 10:19 Kan rag Kernow 2020
-u8AwFZ58CGQ 30:05 An Mis 28 - mis Kevardhu
-pMhx4zKXdO4 31:05 Jerry hag Erel 2
-MgfqJeniYjU 32:31 An Mis 27 - Mis Du
-Uz1a6DJeORg 26:05 Jerry hag Erel - 01
-zIXaFxkUuxc 35:28 An Mis 26 - Mis Du
-TPpy8Q3TNSk 43:37 AnMis025 - Mis Gwynngala
-1rz85vods5M 32:56 AnMis024 - Mis Est
-loNp_fyr6BE 33:10 An Mis 023 - Mis Gortheren
-GMA-F6FKG14 43:40 An Mis 22 - Mis Metheven
-hPTMBGMYAD8 2:22 speakcornish19
-j4hDlYuxcVM 29:19 AnMis 021 - Mis Me / May
-pEsG6tE7MRs 1:06 The Cornish Language Fellowship / Kowethas an Yeth Kernewek
-_RpVpyonWzM 5:00 Cornish Language Plan 2019 is accepted.
-UNwn9KfYmMo 32:09 An Mis 020 - Mis Ebrel
-3Fqz1sEJenA 32:22 AnMis 019 - Mis Meurth
-bH2kWCcBxc0 4:41 Bramm ha Bramm 2
 FefgSevflVM 12:48 Viaj an Delow
 TCy5l4Ok3KE 33:42 An Mis 018 - Mis Hwevrer
-DJn_KZw7WfM 45:32 An Mis 017 - Mis Genver
-xyh0rdu2cRk 0:48 Cornish Language Weekend 2019
-zaEj2oD2rWY 27:27 Jaqi ha Jerry 2
 cxZXIAGey6Y 0:33 Yn Kov Stephen Gainey
-yWCAbXAYzbo 36:22 AnMis016
-sKPoZxjmo6g 30:27 Esedhvos Morganow
-pokwOfUWqz4 30:51 AnMis015 - Mis Du
-p9rfNkL46JY 32:14 An Mis 014 - Mis Hedra
 x_UgtFKQuWo 35:12 AnMis013 - Mis Gwynngala
-mltwoDJLE5Y 31:12 An Mis 012 - Mis Est
-VxJA5lAbg2k 30:08 AnMis011 - Mis Gortheren
-3oikqiJNX2I 28:25 AnMis010 - Mis Metheven
--FckxK3Tc_g 0:11 George Eustice MP
-Q-d-RZhLODE 31:05 An Mis 009 - Mis Me
-wpxenPf6G2w 26:37 Anmis008 - mis Ebrel 2018
-2t2VHovxkkc 23:05 Jaqi ha Jerry 1
-FDA_kP66Af4 28:37 An Mis 7 - Mis Meurth 2018
-F7GV8o-Wqbw 27:11 An Mis 6 - mis Hwevrer 2018
-yfFCrkLGzxQ 34:20 An Mis 005 - mis Genver 2018
-bsVoZaiIYBk 4:10 tresor rowan tree
-wwWSrsuo9UQ 27:12 An Mis 4 - Mis Kevardhu 2017
-m5sSQW1ujyU 23:10 An Mis 3 - mis Du 2017
-oqfJVbG8K4Y 20:47 An Mis 2 - Mis Hedra 2017
-HPmZYBTXUGk 2:39 Kresen Kernow
-fvJYqvKzZQ8 6:27 An Mis 1 - mis Gwynngala 2017
-aQRXRYnUf1Q 14:21 rosya03
 7oipzomINU8 23:28 lorient2017 ENGLISH
 DJG8RU6cHjM 23:54 An Oriant 2017
-t_1EzCsq9Lw 0:44 Dhe'n Arvor / To the coast
-KpjTGpMcnRE 1:40 Gool An ikyon
-6vARZEZKk3Q 1:36 geekfest2
-J1omcf8w470 0:23 Mernans Spock
-DLa6UMrZRs4 8:38 Ni a vynn mos y'n tren
-UKH5sLLwX84 10:18 G&S An Hwedhel
-G5GkypWgxzg 1:21 George ha Samantha rag seythen #SpeakCornish
-lesAwe_zL7M 11:03 solempnyans an gov
-70fwGphbztg 0:18 speak cornish in 'Kowsva'
-4kVjWipsd84 6:15 Dydh Musi 2017 / Mazey Day 2017
 5XYHI-6RcHk 11:42 Rosya: rann 2
 P-Qlv15TM7I 0:14 Business Cornwall speaks Cornish
 akZnCjlQbbo 13:13 Rosya: An Fordh Goth
@@ -1201,12 +1097,6 @@ zIPg_NnldAg 11:59 Skwardya Byw - rann 3
 JFac8af6-R8 19:12 Skwardya Byw - rann 2
 ZA7OdUcv-c4 19:18 Skwardya Byw - rann 1
 O98zydPvQTs 4:26 Benjad a gan dhe Dewyn Bleustri
-FCbto7wD-zU 0:45 Gol KesKeltek an Oriant 2015
-DdKO4QlGDCM 20:33 Graham Sandercock plays at the Cornish Language Weekend
-BAh3gkTcFaA 2:01 keur heb hanow
-MhjICIv0atw 2:51 Hanterhir - "Whatever happened to Whitford"
-txnsyXlyi3g 0:41 Argemmyn Gwydhyo RanG
-s4Jr_sHpCpo 2:41 Peboryon
 31Ks1xEWnNg 2:24 Cornish Language on Great British Railway Journeys
 
 # Cornish Language Office
