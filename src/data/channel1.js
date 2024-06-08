@@ -186,6 +186,103 @@ ukTaodQfYRQ 1:44:41 Meditation and Going Beyond Mindfulness - A Secular Perspect
 kaNO09cPS6c 56:41 Happiest Man on Earth | Mingyur Rinpoche | Talks at Google
 k1tw5sowFyM 47:08 From Panic Attacks to Meditation | Mingyur Rinpoche | Talks at Google
 
+# Engineerguy
+
+E-F2QQuZZGk 10:44 The Engineering of Duct Tape
+HzTJrnsZSWw 1:03 Early color photo with no dyes #shorts #engineerguy #engineering #photography #illinois #invention
+p8IO9u9IuOs 11:40 The Microwave Oven Magnetron: What an Engineer Means by “Best”
+-8lXXg8dWHk 11:25 The Steam Turbine: The Surprising Relationship of Engineering & Science
+9RAMqFg7laE 12:22 Controlling Turbulence and Evolution: How Engineers Overcome Uncertainty
+_ivqWN4L3zU 11:54 Building a Cathedral without Science or Mathematics: The Engineering Method Explained
+moFgp2VWBJ4 2:46 Announcement: New Video Series, new book, and an Event!
+-DckWNwE7R4 5:52 The Engineering of Droplets and their Formation in a Commercial Inkjet Printer
+wI-qAxKJoSU 9:42 Nitinol: The Shape Memory Effect and Superelasticity
+ixxXhZVFXxQ 16:58 Britain's Giant Airship: R.101
+UCKC-QVcVn0 10:28 The Engineering of the Drinking Bird
+97ARLiTHjX0 12:06 DLP Projector Stereolithography 3D Printer
+765mTZAv6QI 30:49 Fatal Flight audiobook: Chapter Two: Airborne at Last (4/14)
+clvrO6A8cDE 1:37 A short announcement about EngineerGuy videos (August 2017)
+mgqZCcccrhU 26:56 Fatal Flight audiobook: Chapter Nine: To Ride the Storm (11/14)
+vANc6538Zqo 24:46 Fatal Flight audiobook: Chapter Eight: Departure for India (10/14)
+8L5TnpiwOzM 19:46 Fatal Flight audiobook: Chapter Seven: Radical Surgery (9/14)
+uUq_qyjzNgA 19:37 Fatal Flight audiobook: Chapter Six: The Airship Flies Again (8/14)
+WzIBKfDVYwc 19:44 Fatal Flight audiobook: Chapter Five: Problems with the Cloth Cover (7/14)
+SOZ9Ujud_g0 33:48 Fatal Flight audiobook: Chapter Four: Inside the Great Airship (6/14)
+0YLi5cAIJvc 22:02 Fatal Flight audiobook: Chapter Three: An Inept Command Takes Charge (5/14)
+rZMlbEYzf6M 25:54 Fatal Flight audiobook: Chapter One: The Debut of the Great British Airship (3/14)
+NhdGbTL-BtE 15:17 Fatal Flight audiobook: Prologue: The Perennial Promise of Airships (2/14)
+97OnTDaLqqk 1:23 Fatal Flight audiobook: Opening credits (1/14)
+kWEdZYLv2Ns 1:00 Fatal Flight audiobook: Closing Credits (14/14)
+BtcVWMxFpvI 10:33 Fatal Flight audiobook: Epilogue: Stories of Survivors and the Fate of British Airship (13/14)
+a3OAnB3ErvA 28:44 Fatal Flight audiobook: Chapter Ten: The Causes of R.101's Crash (12/14)
+tCmZfnT6_M4 21:07 Commentary Lecture Five: The Chemical History of a Candle - Respiration & the Burning of a Candle
+WLgxPKU-JsI 20:00 Commentary Lecture Four: The Chemical History of a Candle - The Nature of the Atmosphere
+0s8anLurWp0 15:43 Commentary Lecture Three: The Chemical History of a Candle - Products of Combustion
+grWNnVB9B-4 13:45 Commentary Lecture Two: The Chemical History of a Candle - Brightness of the Flame
+ce0g0e9NmgQ 11:48 Commentary Lecture One: The Chemical History of a Candle - The Sources of its Flame
+Fb4RoPEtwso 21:07 Lecture Five: The Chemical History of a Candle - Respiration & the Burning of a Candle (6/6)
+v1DWHeouJYM 20:00 Lecture Four: The Chemical History of a Candle - The Nature of the Atmosphere (5/6)
+31pLJyReFXw 15:43 Lecture Three: The Chemical History of a Candle - Products of Combustion (4/6)
+B8vSLgaW9WQ 13:45 Lecture Two: The Chemical History of a Candle - Brightness of the Flame (3/6)
+6W0MHZ4jb4A 11:48 Lecture One: The Chemical History of a Candle - The Sources of its Flame (2/6)
+RrHnLXMTOWM 3:19 Introduction: The Chemical History of a Candle by Michael Faraday (1/6)
+xYNX8y6lQMc 6:34 The Engineering of a Disposable Diaper
+hVCNS2jQQ6g 4:26 Apollo: The Alignment Optical Telescope
+q2GroO9ZI5w 4:18 Upcoming Videos
+COty6_oDEkk 8:03 How a Wind Up Music Box Works
+RMjtmsr3CqA 9:37 Plastic Injection Molding
+qCxco6227xo 2:52 NERF Blaster: Air Restriction Mechanism
+hO09k19IIy4 2:59 Wine Corks: Saving Endangered Birds // An Illustrated Radio Talk
+MhVw-MHGv4s 4:44 How a Retractable Ballpoint Pen Works
+hhNTAJEKnuY 1:02 Suggest topics for future EngineerGuy videos!
+En__V0oEJsU 8:50 How a Film Projector Works
+hUhisi2FBuw 11:39 The Ingenious Design of the Aluminum Beverage Can
+fHmgF4ibmuk 11:28 RMS Titanic: Fascinating Engineering Facts
+4mBuyixt22U 17:29 Bonus: Rocker arms: sinusoids in two different directions
+XPQwKRt4Y2k 2:54 Bonus: Watch the machine spin around over and over...
+rMHw9GCAtE8 19:45 Page-by-Page Guide to the Free PDF
+jfH-NbsmvD4 11:48 (4/4) Operation: The details of setting up the Harmonic Analyzer
+6dW6VYXp9HM 4:05 (3/4) Analysis: Explaining Fourier analysis with a machine
+8KmVDxkia_w 5:42 (2/4) Synthesis: A machine that uses gears, springs and levers to add sines and cosines
+NAsM30MAHLg 3:39 (1/4) Intro/History: Introducing a 100-year-old mechanical computer
+_4zbNJmtbGo 2:41 The Cigarette machine: the invention with the greatest economic impact?
+ZCS0sr29Jiw 2:31 How home air conditioning triumphed over the open air movement
+cv2tOE4ioCI 2:53 Kodak: How George Eastman revolutionized photography
+r-IsBx3sxTo 3:07 How the Donner Party inspired food packaging
+4wQsWL-lMJw 2:15 Theremin: How science fiction got its sound
+StPKfNXK3N0 3:11 Ferris Wheel: How the Eiffel Tower wasn't good enough
+XRCu8v9V8EY 3:27 Coffee makers: How baseball put them in our homes
+ZnUBl90tayI 3:49 Why the Dvorak keyboard didn't take over the world
+ddYZITaxlTQ 3:49 How Sony's Betamax lost to JVC's VHS Cassette Recorder
+WzdCKBZP4Jo 3:59 PicturePhone: How Bell Telephone lost a half billion, but nearly created the internet
+SDSZCaOjECM 2:12 Stories of Technological Failure: PicturePhone, Dvorak keyboard & Betamax
+rhIRD5YVNbs 4:56 How a lead-acid battery works
+kp33ZprO0Ck 5:11 How a Microwave Oven Works
+OcgKDSwINOA 4:39 What Keeps Nuclear Weapons from Proliferating: The hardest step in making a nuclear bomb
+p2BxAu6WZI8 4:33 How an atomic clock works, and its use in the global positioning system (GPS)
+oUEbMjtWc-A 4:53 How a Laser Works
+3ZhVOy-ytJY 4:17 Anodizing (Or the beauty of corrosion)
+KZVgKu6v808 4:25 How a Smartphone Knows Up from Down (accelerometer)
+wsdmt0De8Hw 4:27 CCD: The heart of a digital camera (how a charge-coupled device works)
+NLqsQ-f2v6s 2:14 EngineerGuy's New Book Eight Amazing Engineering Stories
+GOOOsBhCVe4 3:05 Why it takes a while to make engineerguy videos
+0MwMkBET_5I 5:36 Fiber optic cables: How they work
+Wiy_eHdj8kg 5:04 Hard drive teardown
+z7r8sKzt7HM 4:02 Cell Phone Design
+jiejNAUwcQ8 4:53 LCD Monitor Teardown
+oFUUQcpGR3k 3:45 How smoke detectors work
+DIGqBb3iZPo 3:38 Light bulb filament
+XmKzSDOXejI 1:02 Video for soon to be released videos
+F5Ri_HhziI0 3:43 Why the other line is likely to move faster
+1pM6uD8nePo 3:34 How a quartz watch works
+RdYHljZi7ys 4:46 How the first transistor worked
+xlY5W7be5jU 2:15 Black box: Inside a flight data recorder
+4j4Q_YBRJEI 2:40 Coffee Maker: Pumping water with almost no moving parts
+ekv0kprA3AY 2:18 Pop Can Stay-on Tab (slow motion)
+G_SC7oWL78A 2:29 The Whiffletree: A mechanical digital-to-analog converter
+bRCNenhcvpw 3:05 IBM Selectric Typewriter & its digital to analogue converter
+hdqKnHFZRWQ 7:16 Theo Gray demonstrates his Element iPad ap -- and "debuts" the Japanese version of the Elements song
+
 # Adam Savage's Tested
 
 dXdkfaEbeLQ 10:18 Ask Adam Savage: When Did You Know Making Would Be A Sustainable Career?
@@ -3442,7 +3539,7 @@ VMjomS52YlY 31:34 Vintage railway film - The last train to Woodford Halse - MACE
 jksbjTu9678 7:15 Hotham Valley Railway - Last day of Steam Ranger service for the 2023 steam season.
 ROK6fT6UBZE 26:02 Steam on the Settle and Carlisle
 GqUHplnT6rk 28:06 Vintage railway footage - Mildenhall and Scottish Express
-HrBb-SACcZs 42:53 The Ghan is going - 1980
+# HrBb-SACcZs 42:53 The Ghan is going - 1980
 YwYGPicccuc 1:00:14 Vintage railway footage - Decades of steam - 1940s
 DT6k-r5zgkY 1:56 Indian Pacific in the Avon Valley
 WeXr6IpfBLo 1:13:26 Transport film - Crewe works; The inside story - 1996
@@ -3822,6 +3919,16 @@ nWsASJ-CnvI 29:14 How Buildings Learn by Stewart Brand 5 of 6 “The Romance of 
 485R4xst-DU 29:05 How Buildings Learn by Stewart Brand 6 of 6 “Shearing Layers”
 
 NTz2-im7s9k 26:54 JRR Tolkien - All VIDEO interview compilation 2022 - CleanCut
+
+# Helge Fauskanger - "Cenindo"
+LOKkboX_910 12:59 Speak Elf Yourself - Part 7
+evjqeOrzMQ8 10:54 Speak Elf Yourself - Part 6
+GkFG1GdGJx0 13:27 Speak Elf Yourself - Part 5
+1HIaCUd-oFY 11:35 Speak Elf Yourself - Part 4
+vnwlFXerIZQ 12:22 Speak Elf Yourself - Part 3
+IgepeTpRJKo 16:13 Speak Elf Yourself - Part 2
+ClhMTBoDtJQ 18:46 Speak Elf Yourself - Part 1
+yiZH_pnBFDc 5:01 Parmar
 
 # Four Keys Book Arts
 RLN4NVbUT6k 14:46 A New Set of Wheels - Under the Cover: A Bookbinder's vlog no. 2 - Making a Finishing Tool Rack

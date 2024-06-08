@@ -693,4 +693,16 @@ export const episodes: Array<string> = [
     FuO_Fx_H2Tc 3:22 Blomgren
     a0ie1T2YeII 6:13 Norsk Brudmarsch
   `,
+  `
+    # Yes - Fragile
+    cPCLFtxpadE 8:36 Roundabout (2008 Remaster)
+    2lXCa6_VH3s 1:43 Cans and Brahms (Extracts from Brahms' 4th Symphony in E Minor, Third Movement) (2008 Remaster)
+    7Eo3Bw2qLeI 1:40 We Have Heaven (2008 Remaster)
+    hBAauFYod80 7:59 South Side of the Sky (2008 Remaster)
+    1bsFH6t8eFw 0:38 Five per Cent for Nothing (2008 Remaster Versioin)
+    ZS-k02hf-hI 3:31 Long Distance Runaround (2008 Remaster)
+    yxXMJKCI9F0 2:43 The Fish (Schindleria Praematurus) (2008 Remaster)
+    1HqlC8XMeoI 3:03 Mood for a Day (2008 Remaster)
+    T5XWOOOCg-U 11:33 Heart of the Sunrise (2008 Remaster)
+  `,
 ]
