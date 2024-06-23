@@ -1842,6 +1842,50 @@ KpMGbjvBXSE 53:46 Alan Watts - We As Organism
 
 # Orchestra of the Age of Enlightenment
 
+0-N53d5K4W4 6:13 Introducing the Double Action Harp
+yoL43PiifpE 3:35 Introducing the Ophicleide
+mnhy31PNUvU 2:56 Introducing the Serpent
+5twPxqGCtMI 6:55 Introducing the Baroque Clarinet
+OP_gPPxm3Ek 12:21 Introducing the Baroque Violin Bow
+GaAI51EhoNc 5:11 Introducing the Baroque Piccolo Cello
+mn0Gd2Stoog 2:50 Bach's Easter Oratorio with Peter Whelan
+W-eIN18-p2w 6:22 Mozart's Adagio in B flat major, K411 on five period clarinets
+Ey_5GJLzWTw 9:36 Beethoven Piano Concerto No. 3, Largo | Sir András Schiff
+pSKJB5arZwk 5:08 Join our Youtube Membership Channel!
+1KLNKYzFV5g 1:40 Mission to Mars with Sanjeev Gupta | Bach, the Universe and Everything
+CMxCh0AYmy0 9:51 Haydn: Symphony No. 103 'Drumroll' - 1st movement
+Ni5oxGDbCR4 1:00 The Genesis Quest with Michael Marshall
+0J8QpgBEQs0 4:16 JS Bach | Harpsichord Concerto in A Major, BWV 1055, I. Allegro
+UZ8FppOKkkY 5:09 The Birth of the Keyboard Concerto
+hFnKmqAOmBs 10:56 Introducing the Baroque Recorder
+ji6yEWEEpQk 1:10 LIVE AT THE HEX Highlight Reel
+MdAEyQon4c4 1:11 The Story of Gilbert & Sullivan's 'Princess Ida, or Castle Adamant' (in about 60 seconds)
+R1uftELUess 0:36 Our 2023/24 Season - Coming soon
+VB708yceJSs 0:31 LIVE AT THE HEX | COMING 5 MAY 2023
+v3IchXpDidQ 4:11 TELEMANN | Trio Sonata in C Minor TWV 42:c2, Allegro
+xB5znyirrSU 4:54 What is Stile Antico and how did Bach use it? | Illustrated Theory of Music #12
+IyBap2iFMjo 4:52 The Pioneering Women Composers
+XadY69d40JE 10:34 Introducing the French Bassoon
+CFK94eOba6Q 2:08 The Difficult Bits: Clarinet and Basson in Saint-Saëns
+Z9ZHiBGRn5o 1:12 Introducing Handel's Tenor #shorts
+xZc20T4mGfM 6:03 Introducing Handel's Tenor
+lTeHAffuq4w 3:25 What's so great about... Saint-Saëns Cello Concerto No.1
+NJO5_L1c1Zc 5:33 Saint-Saëns: The Man and His Music
+9o-TOg-y_BI 15:22 Introducing the Baroque Guitar
+ocFDXgtOD-4 2:26 Why Support Us?
+Uwv0obLUylo 12:13 Why Timpani Kept Growing (Two Pint Timpani) | Evolution of Timpani Part 2
+rZ2rAGbGTW0 5:58 HANDEL / FINNEAS: Where'er You Walk, starring Hugo Hymas (tenor)
+6XDB9hkX3hk 3:26 Thou Shalt Break Them - Inspired by The Verve | Nick Pritchard - Handel's Messiah
+hWjYD414ydg 5:32 An Introduction to The Moon Hares with James Redwood
+ngpYT2IOiwE 2:31 Behind The Moon Hares
+OEY7h-fTf7M 0:26 OAE - The Orchestra in a School by Drone
+9Zp807tD_Qs 1:00 LIVE AT THE HEX in 60 seconds
+sCZ2lp-YwwI 1:06 OAE Rising Stars: Where're you walk (Behind the Scenes)
+k5duAqWy95M 0:38 Bach, the Universe and Everything
+m6tbN8NHpsU 4:44 The Rime of the Ancient Mariner - Rory Kinnear
+lLQnCNZQCkc 4:56 Sospiri (Sighs) by Edward Elgar
+5cOHoAOSB8M 2:49 Beethoven Without The Van
+EdrEJq4G_6k 9:56 Jürgen Krauss (from The Great British Bake Off) Introduces the Stadtpfeiffer
 t_ERVpRupDQ 10:16 Introducing the Baroque Timpani | Evolution of Timpani Part 1
 oOmDgEOiInI 5:38 Music for Superstar Castrato Senesino: GIOVANNI ANTONIO GIAJ - Fra l’orror d’atra foresta
 viMru6SyyCY 10:26 Exploring Beethoven's Fortepiano
@@ -2012,7 +2056,7 @@ yXxe5wMNE3I 2:50 Steven Isserlis and Haydn's Cello Concerto in C | Orchestra of 
 lQNdEWutiZk 7:05 Vivaldi’s Four Seasons with Kati Debretzeni, pt4: In Depth
 JyYBZmth6zk 4:52 Vivaldi’s Four Seasons with Kati Debretzeni, pt3: In Depth
 OovG_RWEqVE 8:54 Vivaldi’s Four Seasons with Kati Debretzeni, pt2: In Depth
-ozYcv8_CICk 3:32 Visions, Illusions and Delusions: 2017–18 season trailer
+# ozYcv8_CICk 3:32 Visions, Illusions and Delusions: 2017–18 season trailer
 3t_M-fVRnz8 5:07 Vivaldi's Four Seasons with Kati Debretzeni, pt1: In Depth
 7uFz-HkH_r0 3:06 Christmas in the 17th Century | The Geffrye Museum
 soeq9TR5evw 2:19 Noel: A Christmas Celebration, Kings Place
@@ -2536,76 +2580,132 @@ u1IJN-TiEQY 5:29 Gaelic Documentary: Surfing
 
 # Sustasis
 
-Rx8TGi2aXSc 58:07 The Nature of Matter in the Work of Christopher Alexander - Michael Mehaffy
-QzVhCOJVLXE 1:00:46 Nikos Salingaros - Revolution in Architectural Thought
-VumQdtXrNLM 4:35 Excerpt from The Alexander- Eisenman Debate of 1982
-G7gI-nbUtMg 1:03 Future of Places - Key Messages Summary
-wJCw7vSqFDY 42:29 Michael Mehaffy: The Empires New Clothes
-oKO3vYjZbcs 1:22:28 Christopher Alexander - Life in Buildings (Full)
-_RSc1IWFBzQ 23:00 (In)Forming Patterns: An Online Symposium
-PqX6odZkumc 1:22:52 The Empire's New Clothes - Michael Mehaffy, May 12, 2021
-Y4yeqD30vgQ 19:55 Unified Architectural Theory, Lecture 11: “Architecture Itself as a Biological System”.
-inZ2AV2cwjQ 16:57 Unified Architectural Theory, Lecture 12: “Conclusion”.
-cG22CDSFJo4 3:56 Why Pubic Space Matters - Michael Mehaffy
-6NXrOzR1xDc 6:05 A tour of the Vineyard Farmers Market, Fresno
-VsZIJpp6-no 17:11 Unified Architectural Theory, Lecture 10: “Ornament and human intelligence”.
-8gDs89ZRIsc 19:21 Unified Architectural Theory, Lecture 8: “Fractals and ornament generate attachment”
-Bx3XP1wtUZE 19:39 Unified Architectural Theory, Lecture 5: “Connecting to the World Using the Mirror-of-the-Self Test”
-xQv_1qiDAXY 17:05 Unified Architectural Theory, Lect. 9: “Subliminal reality: Eye-tracking maps the field of centers”
-aLX9bqred14 17:12 Unified Architectural Theory, Lecture 7: “Fifteen geometrical properties”
-FT9F13QHj7I 18:16 Nikos Salingaros: The Existence of an “I” (Lecture)
-tg_TmOQLb10 18:35 Unified Architectural Theory, Lecture 6: “Biophilic design influences human health”
-dVGc0eduJac 1:05:06 Nikos Salingaros: “Codes That Generate Life” (Lecture)
-EAzSIdckjUY 1:08:04 Nikos Salingaros: “Architectural Education Influenced by Social Engineering” (Lecture)
-p4snkjKvLFQ 1:07:24 Nikos Salingaros: “Seashells, Hyperspace, and the Sacred” (Lecture)
-ok4vgxQ8H9k 1:06:05 Nikos Salingaros: “A Fractal Distribution is Sustainable” (Lecture)
-Ii3TIHZN6ag 1:10:06 Nikos Salingaros: “Folded or Perforated Fractals” (Lecture)
-ekjzOvTE1NQ 52:19 Nikos Salingaros: “Complexity and the Fibonacci Sequence” (Lecture)
-A7-bAg0SJHY 59:59 Nikos Salingaros: “Centers and Computational Reducibility” (Lecture)
-qbpIqHaKzRA 16:19 Unified Architectural Theory, Lecture 4: Computing the regional adaptivity index of a form language
-Syu8xwDs-AM 1:01:54 Nikos Salingaros: “Symmetries and Symmetry Breaking” (Lecture)
-1KOdxv4oxAY 1:11:08 Nikos Salingaros: Step by step adaptive design (Lecture)
-YWDZcaF_3ek 16:38 Unified Architectural Theory, Lecture 3: Complex versus simplistic form languages
-gGTjJZhnl4A 1:07:44 Nikos Salingaros: "Christopher Alexander's Fifteen Fundamental Properties" (Lecture)
-nIGnm-UiNYw 20:00 Unified Architectural Theory, Lecture 2: Form Languages and Pattern Languages
-vcN5fi3zuxA 14:51 Unified Architectural Theory, Lecture 1: The Structure of Architectural Theories
-82mH5gS_puc 51:50 Lessons After COVID-19: Addressing Social Isolation through the Built Environment
-GEXRQdXXf9I 3:01 Michael Mehaffy Presentation for World Cities Day
-3G5noYSiCu0 15:01 Gamla Stan Walking Tour with INTBAU Sweden
-J8Dxm-OaE3E 40:01 Pattern Languages of Programming (PLoP) 2020 Presentation - Mehaffy
-MB3eFZQtwGY 19:38 New Patterns for a Post-COVID Age
-dm0MIeaZIzw 4:56 Tour of Poundbury, UK
-bDbnNF20eKY 20:32 Christopher Alexander: Life in Buildings (Excerpt)
-XswHZZqO0jk 7:46 Thought Leaders - Jane Jacobs (for FOP Summit - ROUGH EDIT)
-o6q1dDAv6zY 4:55 Thought Leaders Christopher Alexander
-D3v_F1hrBtE 5:01 Mehaffy - The Urban Dimensions of Climate Change
-xaYQK8kTwHg 16:39 Overview of Metro (Oregon) 2009 "Centers and Corridors" Policy Report
-nyAtltoaE0s 13:03 Mehaffy - Pattern Languages and Wikis for a New Urban Agenda - 13min Version
-muuzfQQLFlc 5:01 Mehaffy - Tools and Strategies for Public Private Collaboration
-VCqy00Ahib8 7:37 Mehaffy - Healthy Public Space Networks for a New Urban Agenda
-sbXIk5DtVTg 7:01 Mehaffy - Pattern Languages and Wikis for a New Urban Agenda - EDITED VERSION
-EzS60DaltAU 16:49 A Conversation with Ward Cunningham - Edited Version
-lLy0N0tOVVI 46:24 Discussion with Ward Cunningham Feb 11 19
-FkFh4IW1N_s 33:01 Sustasis Interview with Ward Cunningham Apr 5 18
-qXBKZPaVHi8 4:31 Dr. Joan Clos at launch event for The Quito Papers, World Urban Forum 9
-g9KivwhuCXo 4:20 Ax:son Johnson Address at Habitat III
-Zv2l3_59D4M 4:04 Remarks of Michael Mehaffy at PrepCom 3
-ArAIvl0hk3M 3:02 Sustasis Executive Director Mehaffy's Testimony to the City Council of Portland, Feb 4 2015
-DHBzg0Rd7Yk 2:41 Sustasis Executive Director Mehaffy's Testimony to the City Council of Portland, April 20, 2016
-vvKTPbjGm8A 1:13 ACINAT
-u33YjyQeb_o 24:15 Nikos Salingaros Addresses ICUPD 2015
-RiGlhj-wyYo 32:58 Nikos A. Salingaros on Pattern Language and Form Language
-ZvN5kN5TCdY 8:59 The Selling of Sprawl
-oEkiNgNnIgI 21:08 Nikos A. Salingaros on Urban Design Education
-3UNfYRyGHIQ 18:37 5 Crucial Decades - Michael Mehaffy Presentation and Discussion
-mRuEmDr0fuI 7:55 Joanna Alimanestianu speaking at the Future of Places Forum
-06nYkNi33vA 7:42 Taller Buildings in Portland
-SRwJQXTluLc 7:42 The Impacts of Taller Buildings in Portland
-nGjXgHwFYqc 58:44 Vincent Scully Prize for Christopher Alexander - Mehaffy Presentation and Discussion
-P5Bu9LjfcZE 2:10 Michael Mehaffy shares lessons at Orenco Station
-ts_ArwNEHRk 6:00 Michael Mehaffy at Future of Places II
-o2V_0BvFJuc 2:30 2014 Year-end Message from the Sustasis Executive Director
-d6pX0S34CZk 10:08 Webinar, "Federated Wiki: Potential for a new generation of open-source scenario-modeling tools:
+# Rx8TGi2aXSc 58:07 The Nature of Matter in the Work of Christopher Alexander - Michael Mehaffy
+# QzVhCOJVLXE 1:00:46 Nikos Salingaros - Revolution in Architectural Thought
+# VumQdtXrNLM 4:35 Excerpt from The Alexander- Eisenman Debate of 1982
+# G7gI-nbUtMg 1:03 Future of Places - Key Messages Summary
+# wJCw7vSqFDY 42:29 Michael Mehaffy: The Empires New Clothes
+# oKO3vYjZbcs 1:22:28 Christopher Alexander - Life in Buildings (Full)
+# _RSc1IWFBzQ 23:00 (In)Forming Patterns: An Online Symposium
+# PqX6odZkumc 1:22:52 The Empire's New Clothes - Michael Mehaffy, May 12, 2021
+# Y4yeqD30vgQ 19:55 Unified Architectural Theory, Lecture 11: “Architecture Itself as a Biological System”.
+# inZ2AV2cwjQ 16:57 Unified Architectural Theory, Lecture 12: “Conclusion”.
+# cG22CDSFJo4 3:56 Why Pubic Space Matters - Michael Mehaffy
+# 6NXrOzR1xDc 6:05 A tour of the Vineyard Farmers Market, Fresno
+# VsZIJpp6-no 17:11 Unified Architectural Theory, Lecture 10: “Ornament and human intelligence”.
+# 8gDs89ZRIsc 19:21 Unified Architectural Theory, Lecture 8: “Fractals and ornament generate attachment”
+# Bx3XP1wtUZE 19:39 Unified Architectural Theory, Lecture 5: “Connecting to the World Using the Mirror-of-the-Self Test”
+# xQv_1qiDAXY 17:05 Unified Architectural Theory, Lect. 9: “Subliminal reality: Eye-tracking maps the field of centers”
+# aLX9bqred14 17:12 Unified Architectural Theory, Lecture 7: “Fifteen geometrical properties”
+# FT9F13QHj7I 18:16 Nikos Salingaros: The Existence of an “I” (Lecture)
+# tg_TmOQLb10 18:35 Unified Architectural Theory, Lecture 6: “Biophilic design influences human health”
+# dVGc0eduJac 1:05:06 Nikos Salingaros: “Codes That Generate Life” (Lecture)
+# EAzSIdckjUY 1:08:04 Nikos Salingaros: “Architectural Education Influenced by Social Engineering” (Lecture)
+# p4snkjKvLFQ 1:07:24 Nikos Salingaros: “Seashells, Hyperspace, and the Sacred” (Lecture)
+# ok4vgxQ8H9k 1:06:05 Nikos Salingaros: “A Fractal Distribution is Sustainable” (Lecture)
+# Ii3TIHZN6ag 1:10:06 Nikos Salingaros: “Folded or Perforated Fractals” (Lecture)
+# ekjzOvTE1NQ 52:19 Nikos Salingaros: “Complexity and the Fibonacci Sequence” (Lecture)
+# A7-bAg0SJHY 59:59 Nikos Salingaros: “Centers and Computational Reducibility” (Lecture)
+# qbpIqHaKzRA 16:19 Unified Architectural Theory, Lecture 4: Computing the regional adaptivity index of a form language
+# Syu8xwDs-AM 1:01:54 Nikos Salingaros: “Symmetries and Symmetry Breaking” (Lecture)
+# 1KOdxv4oxAY 1:11:08 Nikos Salingaros: Step by step adaptive design (Lecture)
+# YWDZcaF_3ek 16:38 Unified Architectural Theory, Lecture 3: Complex versus simplistic form languages
+# gGTjJZhnl4A 1:07:44 Nikos Salingaros: "Christopher Alexander's Fifteen Fundamental Properties" (Lecture)
+# nIGnm-UiNYw 20:00 Unified Architectural Theory, Lecture 2: Form Languages and Pattern Languages
+# vcN5fi3zuxA 14:51 Unified Architectural Theory, Lecture 1: The Structure of Architectural Theories
+# 82mH5gS_puc 51:50 Lessons After COVID-19: Addressing Social Isolation through the Built Environment
+# GEXRQdXXf9I 3:01 Michael Mehaffy Presentation for World Cities Day
+# 3G5noYSiCu0 15:01 Gamla Stan Walking Tour with INTBAU Sweden
+# J8Dxm-OaE3E 40:01 Pattern Languages of Programming (PLoP) 2020 Presentation - Mehaffy
+# MB3eFZQtwGY 19:38 New Patterns for a Post-COVID Age
+# dm0MIeaZIzw 4:56 Tour of Poundbury, UK
+# bDbnNF20eKY 20:32 Christopher Alexander: Life in Buildings (Excerpt)
+# XswHZZqO0jk 7:46 Thought Leaders - Jane Jacobs (for FOP Summit - ROUGH EDIT)
+# o6q1dDAv6zY 4:55 Thought Leaders Christopher Alexander
+# D3v_F1hrBtE 5:01 Mehaffy - The Urban Dimensions of Climate Change
+# xaYQK8kTwHg 16:39 Overview of Metro (Oregon) 2009 "Centers and Corridors" Policy Report
+# nyAtltoaE0s 13:03 Mehaffy - Pattern Languages and Wikis for a New Urban Agenda - 13min Version
+# muuzfQQLFlc 5:01 Mehaffy - Tools and Strategies for Public Private Collaboration
+# VCqy00Ahib8 7:37 Mehaffy - Healthy Public Space Networks for a New Urban Agenda
+# sbXIk5DtVTg 7:01 Mehaffy - Pattern Languages and Wikis for a New Urban Agenda - EDITED VERSION
+# EzS60DaltAU 16:49 A Conversation with Ward Cunningham - Edited Version
+# lLy0N0tOVVI 46:24 Discussion with Ward Cunningham Feb 11 19
+# FkFh4IW1N_s 33:01 Sustasis Interview with Ward Cunningham Apr 5 18
+# qXBKZPaVHi8 4:31 Dr. Joan Clos at launch event for The Quito Papers, World Urban Forum 9
+# g9KivwhuCXo 4:20 Ax:son Johnson Address at Habitat III
+# Zv2l3_59D4M 4:04 Remarks of Michael Mehaffy at PrepCom 3
+# ArAIvl0hk3M 3:02 Sustasis Executive Director Mehaffy's Testimony to the City Council of Portland, Feb 4 2015
+# DHBzg0Rd7Yk 2:41 Sustasis Executive Director Mehaffy's Testimony to the City Council of Portland, April 20, 2016
+# vvKTPbjGm8A 1:13 ACINAT
+# u33YjyQeb_o 24:15 Nikos Salingaros Addresses ICUPD 2015
+# RiGlhj-wyYo 32:58 Nikos A. Salingaros on Pattern Language and Form Language
+# ZvN5kN5TCdY 8:59 The Selling of Sprawl
+# oEkiNgNnIgI 21:08 Nikos A. Salingaros on Urban Design Education
+# 3UNfYRyGHIQ 18:37 5 Crucial Decades - Michael Mehaffy Presentation and Discussion
+# mRuEmDr0fuI 7:55 Joanna Alimanestianu speaking at the Future of Places Forum
+# 06nYkNi33vA 7:42 Taller Buildings in Portland
+# SRwJQXTluLc 7:42 The Impacts of Taller Buildings in Portland
+# nGjXgHwFYqc 58:44 Vincent Scully Prize for Christopher Alexander - Mehaffy Presentation and Discussion
+# P5Bu9LjfcZE 2:10 Michael Mehaffy shares lessons at Orenco Station
+# ts_ArwNEHRk 6:00 Michael Mehaffy at Future of Places II
+# o2V_0BvFJuc 2:30 2014 Year-end Message from the Sustasis Executive Director
+# d6pX0S34CZk 10:08 Webinar, "Federated Wiki: Potential for a new generation of open-source scenario-modeling tools:
+
+# Post-Growth Innovation Lab
+6GGWmAeVoTg 5:33 Just2CE Johannesburg Workshop
+mAgkQkMaGXw 2:31 Just2CE - Cape Town Workshop Video
+VB2N4CQZ0Ww 1:36:05 Silvio Funtowicz - Complex political problems: Why Science can’t speak with One Voice
+Z5nf1pNIY8k 1:41:54 Adrián Almazán - “The Political Ecology of Technology: A Non-Neutrality Approach“
+VcuBiaQJ4yk 1:13:11 Marko Monteiro - Speculative Futures in the Amazon and the role of social science
+Cm5ErJHaNbE 1:35:16 Elisa Schramm Seminar - Postgrowth Innovation Lab
+3taxTk0tvH0 2:11:41 STS Special Issue Workshop Day 1 - afternoon session
+UZjhejOWSoc 2:56:39 STS Special Issue Workshop Day 1, morning session
+_0NiKKWuQ9w 1:35:27 Seminar - Yousaf Nishat Botero University of London & Matthew Thompson University College London
+hnLJKTvLWOs 4:16 What is JUST2CE
+AqUGcq5n6Fk 1:26:00 Srinjoy Mitra - ICT innovations as the driver of techno solutionism and neo colonial world order
+wl0dGQwpvGc 1:12:08 Remo Santagata - Environmental Accounting – Life Cycle Assessment, Emergy Accounting
+WoQ2ySvzMiQ 1:24:46 Seminario Blanca Callén (24/01/24) - Pontevedra
+MxZfyrBq-oM 3:36 JUST2CE a just transition to circular economy
+vlwF1Ceer8s 46:34 Questions -“Exploring the energy transitions in India, South Africa and Spain”
+LiuBjLCLAUc 29:16 Aviram Sharma “Exploring the energy transitions in India, South Africa and Spain”
+MsjJZHCIvlk 31:46 Xavier Simón “Exploring the energy transitions in India, South Africa and Spain”
+_nOhWWrqw7Q 31:29 Lucy Baker “Exploring the energy transitions in India, South Africa and Spain”
+qcLiJSAYw14 2:33 Opening “Exploring the energy transitions in India, South Africa and Spain”
+3_MvxVycCBc 40:06 Circular networks - what can we learn from local practices of circularity?
+TQMrB30K-ho 30:42 A capabilitarian analysis of transformative innovation policy: the Living Catchment project
+OXdTMyGozI8 1:07:16 El Taller del Postcrecimiento (#6): Inteligencia artificial y un poquito de Ivan Illich
+UZhatcqlh44 38:01 Circular Degrowth - Federico Savini
+krrJzeMYGdw 1:16 International ESEE-Degrowth Conference 2024 Presentation
+2RuDjq7X1KU 1:16 Presentación Conferencia Internacional ESEE-Decrecemento 2024
+hLEq5TyVIKo 2:16 Workshop on Degrowth / Post-growth Organization
+UHRY0x2gzns 2:59:29 Post-growth Era and Shrinking Cities
+2oj0tt5dQF0 2:03:28 Linguaxe de Linguaxes - PostGrowth Innovation Lab and Abe Rabade
+VYLqdPNlHCo 56:01 El Taller del Postcrecimiento (#5): El cuidado
+Qoai5qlpEoY 5:58 JUST2CE at TARANTO Primo Maggio (May 1st) Celebration 2022
+nNZ7XFisnqg 3:46 A Just Transition to Circular Economy - Intro
+T43Jg9IVHxs 3:21 JUST2CE in Naples
+bDg7BnJngMo 1:19:12 El Taller del Postcrecimiento (#4): Cómo imaginamos el futuro
+XfEAIUTfOXk 1:11:46 El Taller del Postcrecimiento (#3): Analizamos nuestra conversación con Alberto Garzón
+cx0I9EP_l7M 1:03:41 El Taller del Postcrecimiento (#1): ¿Qué es todo esto del postcrecimiento?
+VO2HggT3TLc 1:04:47 Una conversación con Alberto Garzón
+M-uJ5SQVZi8 3:36 Why a just transition to the Circular Economy?
+BM4_J9Pi6mM 1:11:07 Post-growth Seminars - Tomás Ariztia
+xQTu8FUqFpU 1:18:30 Post-growth Seminars - Sonja Avlijaš
+Boj0ypIEH-o 1:21:33 Post-growth Seminars - Zora Kovacic
+hmACijvq5Qg 1:29:24 Post-growth Seminars - Jennifer Hinton
+1IGC0ux2Vjg 1:11:51 Post-growth Seminar - Silvio Funtowicz
+M_uq4nHk5kc 1:20:57 Post-growth Seminars - prof Martin Parker
+nEs95p6m0_Y 1:34 Maddalena Ripa - Just2CE
+_bcjw-f7xnU 1:11 Paul Guillibert - Just2CE
+8bu6E2akuk8 1:08 Mira Yoon - Just2CE
+w8qf-skS7cU 1:01 Javier Lloveras - Just2CE
+vOaGM32axp8 4:32 Irina Velicu - Just2CE
+R5N1wWpE9JY 1:46 Emanuele Leonardi - Just2CE
+vaqoR7zYURc 1:10:28 Post-growth seminars: Lorenzo Fioramonti
+V14R1Vic-2M 1:41:08 Post-growth seminars: Maddalena Ripa - Quantitative storytelling
+Vj6l3aoYh6k 1:18:35 Post-Growth Seminars: Alba Nogueira - The Ence conflict
+8EwRRRn-kbw 35:56 Intro to JUST2CE - a Just Transition to Circular Economy
+4nu8yRV5toU 1:13:55 Intro to PROSPERA
 
 # Lindsay Ellis
 
@@ -3253,10 +3353,10 @@ TJ0cd15DZWg 8:56 Arvo Pärt - Magnificat
 RM-5cWEpYJM 7:25 Johann Sebastian Bach - Komm, Jesu, komm!
 1eguRLT_Ces 28:51 Johann Sebastian Bach - Magnificat BWV 243
 s2UlHcPnmco 30:51 Johann Sebastian Bach - Herz und Mund und Tat und Leben BWV 147
-JiBmq-gVlNU 18:26 Gustav Mahler - Symphony No. 9 | 2. Im Tempo eines gemächlichen Ländlers
-qRLTWD6aOE4 29:41 Gustav Mahler - Symphony No. 9 | 1. Andante comodo
-cLoT5ZbGHVA 29:08 Gustav Mahler - Symphony No. 9 | 4. Adagio. Sehr langsam und noch zurückhaltend
--T7aLv12TPQ 14:30 Gustav Mahler - Symphony No. 9 | 3. Rondo - Burleske
+# JiBmq-gVlNU 18:26 Gustav Mahler - Symphony No. 9 | 2. Im Tempo eines gemächlichen Ländlers
+# qRLTWD6aOE4 29:41 Gustav Mahler - Symphony No. 9 | 1. Andante comodo
+# cLoT5ZbGHVA 29:08 Gustav Mahler - Symphony No. 9 | 4. Adagio. Sehr langsam und noch zurückhaltend
+# -T7aLv12TPQ 14:30 Gustav Mahler - Symphony No. 9 | 3. Rondo - Burleske
 
 # TA Outdoors
 KmweP8s-Rds 25:09 Building a Celtic Roundhouse with Hand Tools: Bushcraft Project (PART 1)
@@ -3747,7 +3847,7 @@ ftEQmoVtR4E 20:58 Vintage British Railways film - 'A place in the team' - 1953
 bTdxq-tRMiU 35:42 Vintage railroad safety film - Why risk your life? - Great Northern Railway Co. - 1947
 nCb0ayRHTCo 19:01 Portrait of an engineer - 1954
 jZLyB-_x8gA 8:23 A Future on Rail - 1957
-zfF4-50_CJY 20:20 Pay Day - The Santa Fe Railroad - 1950s
+# zfF4-50_CJY 20:20 Pay Day - The Santa Fe Railroad - 1950s
 # r7RmeZ7_qj8 24:47 Transperth train drivers view - Joondalup line express train from Clarkson to Perth
 # wZyBbvDwMfI 5:14 Transperth train drivers view - Joondalup line express train from Clarkson to Perth - high speed
 tmWZMRSmDQM 39:33 No. 6207, A Study in Steel - Princess Royal Class - vintage LMS film - 1951
@@ -4082,6 +4182,7 @@ wA3CEeqMCHQ 1:29:14 Matsukaze (松風) Noh with Script & Synopsis
 eqsN6R1PfEA 59:36 能 「土蜘蛛 ササガニ 」 KYOTO de petit能　文化庁委託事業「文化芸術収益力強化事業」林宗一郎
 
 tpzEzMscj0g 1:07:45 Sherlock Holmes - An Venyn Yn Gwyrdh
+qCTCFtZYFyrc 59:38 Sherlock Holmes - Terror By Night (Film-Noir, 1936) Basil Rathbone, Nigel Bruce | Colorized
 
 # Mark Lakeman Permaculture
 VoYZlyBHyQM 16:08 How to turn your Neighborhood into a Village
