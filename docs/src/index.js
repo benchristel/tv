@@ -2131,7 +2131,7 @@ pcEuhEUuTJQ 5:52 Rameau's Zaïs
 GLfXDIbUIjY 1:12 The OAE rehearses Schubert's Symphony No. 9, 'Great'
 XD4kNY34AoE 3:15 Introducing the Violoncello da Spalla
 S5Np9ncOId8 1:13 OAE: The Works (Trailer)
-iiI76msHiiQ 1:28 'French Fancies' audience reactions...
+# iiI76msHiiQ 1:28 'French Fancies' audience reactions...
 SpP8uVR0JX4 6:18 How to make a hosepipe horn
 3fcVU_i0QrI 3:54 An interview with the Labèque sisters
 km__RL6HhC8 0:52 Offenbach's Fantasio: Trailer
@@ -2189,7 +2189,7 @@ Cng6wq1O5Gc 4:54 OAE: Pierre-Laurent Aimard talks about Ravel's piano concerto f
 # 7eTlLMBttZ4 0:50 OAE Season 2012-2013 brochure: Teaser
 # vJIBxM6IDvw 1:07 Introducing the OAE Green Travel Mug
 # feIJma92Dek 2:16 OAE: Audience Reaction voxpops - Berlioz Romeo & Juliet
-O6fRUQyaQAo 3:33 OAE: Beethoven's Missa Solemnis Audience Reaction
+# O6fRUQyaQAo 3:33 OAE: Beethoven's Missa Solemnis Audience Reaction
 KRqCAhxTJpE 26:29 A Royal Invitation
 # _DWb4UOQb4A 0:55 Anthem for a Child 2012
 B-7pxFOuX5c 1:43 The Works is back with Bach
@@ -4115,16 +4115,6 @@ O_7H162D9fI 30:56 Trial by Jury by Gilbert and Sullivan
 # Brandon Acker
 r5K0nxMjFWU 6:03 My Favorite Baroque Piece 🎶
 
-# Leyriath Ensemble
-GraXhAge6co 5:11 LEYRIATH | CSM 340: Virgem Madre Groriosa - Alfonso X (1221-1284)
-JxHeQlqljck 4:22 LEYRIATH | CSM 18: "Por Nos de Dulta Tirar" - Alfonso X (1221-1284)
-5T0pTxiBclk 3:14 LEYRIATH | Je Veulx Laysser Melancolie de Ricaforte - Luys de Narvaez (1490-1547)
-Iw5m2k5pbTA 3:13 LEYRIATH | Pode Por Santa Maria (CSM 163 - Alfonso X)
-OmUnDAcUddQ 3:43 LEYRIATH | Sen Calar Nen Tardar (CSM 380 - Alfonso X)
-0e78OsFbsc8 3:59 CSM 380: Sen Calar Nen Tardar (Time of Sharing) - LEYRIATH Of Music and Legends & TWB, LIVE
--B9pM-L9XBc 5:01 Fantasia que Contrahace la Arpa en la Manera de Luduvico - LEYRIATH Of Music and Legends & TWB, LIVE
-HjIbu-JDsGM 2:37 CSM 37: Milagres Fremosos Faz Por Nos (Chasing a Dream) - LEYRIATH Of Music and Legends & TWB, LIVE
-
 # Carlos Simas
 MvclI-LE46k 9:57 Carlos Simas - minha biografia musical
 KIvlQaXpnrU 3:56 Fest - Noz I (Carlos Simas)
@@ -4176,6 +4166,8 @@ eqsN6R1PfEA 59:36 能 「土蜘蛛 ササガニ 」 KYOTO de petit能　文化�
 
 tpzEzMscj0g 1:07:45 Sherlock Holmes - An Venyn Yn Gwyrdh
 qCTCFtZYFyrc 59:38 Sherlock Holmes - Terror By Night (Film-Noir, 1936) Basil Rathbone, Nigel Bruce | Colorized
+r_r0dFSsiAg 1:08:55 Sherlock Holmes and the House of Fear
+VcgOCGBqnyA 1:08:14 Sherlock Holmes Faces Death 1943 movie classic
 
 # Mark Lakeman Permaculture
 VoYZlyBHyQM 16:08 How to turn your Neighborhood into a Village
