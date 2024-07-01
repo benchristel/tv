@@ -4173,7 +4173,7 @@ eqsN6R1PfEA 59:36 能 「土蜘蛛 ササガニ 」 KYOTO de petit能　文化�
 
 # Old Movies
 tpzEzMscj0g 1:07:45 Sherlock Holmes - An Venyn Yn Gwyrdh
-qCTCFtZYFyrc 59:38 Sherlock Holmes - Terror By Night (Film-Noir, 1936) Basil Rathbone, Nigel Bruce | Colorized
+-B7l7LSxnzU 59:38 SHERLOCK HOLMES: TERROR BY NIGHT | Basil Rathbone as Sherlock Holmes | FULL MOVIE
 r_r0dFSsiAg 1:08:55 Sherlock Holmes and the House of Fear
 VcgOCGBqnyA 1:08:14 Sherlock Holmes Faces Death 1943 movie classic
 AqQJh-kNM9Q 1:17:34 Arsenic & Old Lace 1962
@@ -4181,6 +4181,42 @@ AqQJh-kNM9Q 1:17:34 Arsenic & Old Lace 1962
 # Mark Lakeman Permaculture
 VoYZlyBHyQM 16:08 How to turn your Neighborhood into a Village
 4TCYjw88JSY 14:28 How Pocket Hoods behaving like villages boost wellbeing
+
+# New England Forests
+lVx45KG-DQs 57:06 The Return of Old Growth Forests
+VvmbCc_mdWc 36:03 Plants That Cheat
+qpZNhix-Ddc 49:02 The Salamanders of New England
+cAWn1LZ30hw 59:29 New England's Native Oak Trees
+beytGX2dORI 35:09 The Forgotten Forest Primeval - Rediscovering Mt Sunapee's Old Growth
+WNZ9VUTUHTM 44:46 Beaver Pond Wildlife: Part 5- Fall to Winter
+RJbVxcWRwa8 57:36 Beaver Pond Wildlife: Part 4- Mid-Summer to Fall
+nXUmGIG7aww 56:47 Beaver Pond Wildlife: Part 3- Early to Mid Summer
+UVvDByTRurA 32:27 New England's Roadside Ecology with Tom Wessels
+tSr_RE7PAa8 56:22 Beaver Pond Wildlife: Part 2 - Late Spring
+zGyMLG2wnBE 58:08 Beaver Pond Wildlife: Part 1 - Early Spring
+N8zSxfPxA4U 25:54 The Magic Maples of New England
+PSGAvGZsYVU 14:32 The Cathedral Pines of Cornwall, CT - 2020
+bQs7novlvtA 56:41 Eastern White Pine- the Tree Rooted in American History
+PFHS5mhIX1w 4:02 Lynn Rogers Bear Tree
+qo3UDNAJvcg 2:02 Trailer- "Eastern White Pine: The Tree Rooted in American History"
+hCAvBmY7ZgA 35:11 Tom Wessels: The Ecology of Coevolved Species
+5xvkIDs3zQk 8:14 My Forest Has Worms
+tEAfFq3gb30 24:38 Tom Wessels: Reading the Forested Landscape, Part 3
+zcLQz-oR6sw 35:29 Tom Wessels: Reading the Forested Landscape, Part 1
+L81Ihhqe0gY 19:50 Tom Wessels: Reading the Forested Landscape, Part 2
+XykmZCSfrI4 6:39 The White Pine Weevil's Life Cycle
+Vi12xaJxA5U 56:47 The Lost Forests of New England: Eastern Old Growth
+jZEbs3SNXmU 10:28 New England's Tallest Tree
+MFaXcJNqsfE 21:11 Waterfalls of Western Mass
+qjlsV5bVMcg 7:12 Mt Tom Peregrine Falcons 2016
+5eI7wbIkyrY 1:19:21 Mt Tom Wild: Wildlife on the Mt Tom Range
+578AfZkwi5Y 31:57 Maple Sugaring at Gould's Sugar House
+4Ux4CaKlkv4 26:40 Birch, Sweet Birch: New England's Forest Birches
+MOoxCNK_C1k 10:00 The Thoreau Pine of New England
+b8eyYLxmff0 9:26 Ambush in the Goldenrod
+RNGHTrHul1Q 39:26 Mt Tom Peregrine Falcons
+s91z2zNFGUM 0:41 Eastern Coyote expresses opinion.
+DMA_Mj-yxjw 2:13 Eastern Coyotes, Mt Tom, Mass.
 
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
