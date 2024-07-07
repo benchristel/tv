@@ -128,6 +128,10 @@ export const episodes: Array<string> = [
     Svrd9fRQgsQ 6:58 Jethro Tull - Locomotive Breath (Ian Anderson Plays The Orchestral Jethro Tull)
   `,
   `
+    mn0Gd2Stoog 2:50 Bach's Easter Oratorio with Peter Whelan
+    62fawgUUpg8 41:27 Bach - Easter Oratorio: Kommt, eilet und laufet BWV 249 - Van Veldhoven | Netherlands Bach Society
+  `,
+  `
     pj0jddZiTMk 1:10:28 New London Opera Group Patience, Act I
     -joxknSRsBQ 50:56 New London Opera Group Patience, Act II
   `,
@@ -1848,7 +1852,6 @@ mnhy31PNUvU 2:56 Introducing the Serpent
 5twPxqGCtMI 6:55 Introducing the Baroque Clarinet
 OP_gPPxm3Ek 12:21 Introducing the Baroque Violin Bow
 GaAI51EhoNc 5:11 Introducing the Baroque Piccolo Cello
-mn0Gd2Stoog 2:50 Bach's Easter Oratorio with Peter Whelan
 W-eIN18-p2w 6:22 Mozart's Adagio in B flat major, K411 on five period clarinets
 Ey_5GJLzWTw 9:36 Beethoven Piano Concerto No. 3, Largo | Sir András Schiff
 pSKJB5arZwk 5:08 Join our Youtube Membership Channel!
@@ -2410,7 +2413,7 @@ tTB4sBGzSl8 18:27 Willie MacDonald
 cquuGRtZf10 8:54 Reverend John Smith
 SJeFpt-sbl4 6:06 Enterprise on the Edge
 TCpQaZSm4b0 6:47 Introduction to Virtual St Kilda
-B7OczE1nBog 2:56 A Very Busy Spider - in Balivanich!
+# B7OczE1nBog 2:56 A Very Busy Spider - in Balivanich!
 try9ISkWaY0 3:55 The Story of the Dog
 ThCrio5wX3A 6:36 Sgeul a' Choin
 CXRO6dyYqig 4:09 Blàr Chàirinis
@@ -2580,6 +2583,15 @@ u1IJN-TiEQY 5:29 Gaelic Documentary: Surfing
 
 # Sustasis
 
+# 1P-eyjqiSas 29:59 We all talk about AI, but do we really understand it?
+j4y9oPcMWyg 10:42 Christopher Alexander on the Fifteen Properties of Beautiful Spaces
+# NYaEILxbfhY 1:21:50 Christopher Alexander and Alfred North Whitehead: Nature (and Buildings) Alive - Longer Q&A Version
+gdAELBIVEMI 44:41 Christopher Alexander and Alfred North Whitehead: Nature (and Buildings) Alive
+# Kap87n4L15U 19:48 Confronting the Age of AI: Wider Lessons for Settlement, Technology, and Culture
+NhSCUBrq5fk 19:37 Cities and the Nature of the Future
+# o3ZShlZim84 3:19 Michael Mehaffy Greetings to PLoP 23
+lE_MHZu0Qmk 15:01 Symmetry in Architecture: Toward an Overdue Reassessment
+XfC4ihJvoVg 49:11 The Death and Life of Downtown Portland (Full)
 # Rx8TGi2aXSc 58:07 The Nature of Matter in the Work of Christopher Alexander - Michael Mehaffy
 # QzVhCOJVLXE 1:00:46 Nikos Salingaros - Revolution in Architectural Thought
 # VumQdtXrNLM 4:35 Excerpt from The Alexander- Eisenman Debate of 1982
