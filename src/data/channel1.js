@@ -2664,60 +2664,7 @@ XfC4ihJvoVg 49:11 The Death and Life of Downtown Portland (Full)
 # d6pX0S34CZk 10:08 Webinar, "Federated Wiki: Potential for a new generation of open-source scenario-modeling tools:
 
 # Post-Growth Innovation Lab
-6GGWmAeVoTg 5:33 Just2CE Johannesburg Workshop
-mAgkQkMaGXw 2:31 Just2CE - Cape Town Workshop Video
-VB2N4CQZ0Ww 1:36:05 Silvio Funtowicz - Complex political problems: Why Science can’t speak with One Voice
-Z5nf1pNIY8k 1:41:54 Adrián Almazán - “The Political Ecology of Technology: A Non-Neutrality Approach“
-VcuBiaQJ4yk 1:13:11 Marko Monteiro - Speculative Futures in the Amazon and the role of social science
-Cm5ErJHaNbE 1:35:16 Elisa Schramm Seminar - Postgrowth Innovation Lab
-3taxTk0tvH0 2:11:41 STS Special Issue Workshop Day 1 - afternoon session
-UZjhejOWSoc 2:56:39 STS Special Issue Workshop Day 1, morning session
-_0NiKKWuQ9w 1:35:27 Seminar - Yousaf Nishat Botero University of London & Matthew Thompson University College London
-hnLJKTvLWOs 4:16 What is JUST2CE
-AqUGcq5n6Fk 1:26:00 Srinjoy Mitra - ICT innovations as the driver of techno solutionism and neo colonial world order
-wl0dGQwpvGc 1:12:08 Remo Santagata - Environmental Accounting – Life Cycle Assessment, Emergy Accounting
-WoQ2ySvzMiQ 1:24:46 Seminario Blanca Callén (24/01/24) - Pontevedra
-MxZfyrBq-oM 3:36 JUST2CE a just transition to circular economy
-vlwF1Ceer8s 46:34 Questions -“Exploring the energy transitions in India, South Africa and Spain”
-LiuBjLCLAUc 29:16 Aviram Sharma “Exploring the energy transitions in India, South Africa and Spain”
-MsjJZHCIvlk 31:46 Xavier Simón “Exploring the energy transitions in India, South Africa and Spain”
-_nOhWWrqw7Q 31:29 Lucy Baker “Exploring the energy transitions in India, South Africa and Spain”
-qcLiJSAYw14 2:33 Opening “Exploring the energy transitions in India, South Africa and Spain”
-3_MvxVycCBc 40:06 Circular networks - what can we learn from local practices of circularity?
-TQMrB30K-ho 30:42 A capabilitarian analysis of transformative innovation policy: the Living Catchment project
-OXdTMyGozI8 1:07:16 El Taller del Postcrecimiento (#6): Inteligencia artificial y un poquito de Ivan Illich
 UZhatcqlh44 38:01 Circular Degrowth - Federico Savini
-krrJzeMYGdw 1:16 International ESEE-Degrowth Conference 2024 Presentation
-2RuDjq7X1KU 1:16 Presentación Conferencia Internacional ESEE-Decrecemento 2024
-hLEq5TyVIKo 2:16 Workshop on Degrowth / Post-growth Organization
-UHRY0x2gzns 2:59:29 Post-growth Era and Shrinking Cities
-2oj0tt5dQF0 2:03:28 Linguaxe de Linguaxes - PostGrowth Innovation Lab and Abe Rabade
-VYLqdPNlHCo 56:01 El Taller del Postcrecimiento (#5): El cuidado
-Qoai5qlpEoY 5:58 JUST2CE at TARANTO Primo Maggio (May 1st) Celebration 2022
-nNZ7XFisnqg 3:46 A Just Transition to Circular Economy - Intro
-T43Jg9IVHxs 3:21 JUST2CE in Naples
-bDg7BnJngMo 1:19:12 El Taller del Postcrecimiento (#4): Cómo imaginamos el futuro
-XfEAIUTfOXk 1:11:46 El Taller del Postcrecimiento (#3): Analizamos nuestra conversación con Alberto Garzón
-cx0I9EP_l7M 1:03:41 El Taller del Postcrecimiento (#1): ¿Qué es todo esto del postcrecimiento?
-VO2HggT3TLc 1:04:47 Una conversación con Alberto Garzón
-M-uJ5SQVZi8 3:36 Why a just transition to the Circular Economy?
-BM4_J9Pi6mM 1:11:07 Post-growth Seminars - Tomás Ariztia
-xQTu8FUqFpU 1:18:30 Post-growth Seminars - Sonja Avlijaš
-Boj0ypIEH-o 1:21:33 Post-growth Seminars - Zora Kovacic
-hmACijvq5Qg 1:29:24 Post-growth Seminars - Jennifer Hinton
-1IGC0ux2Vjg 1:11:51 Post-growth Seminar - Silvio Funtowicz
-M_uq4nHk5kc 1:20:57 Post-growth Seminars - prof Martin Parker
-nEs95p6m0_Y 1:34 Maddalena Ripa - Just2CE
-_bcjw-f7xnU 1:11 Paul Guillibert - Just2CE
-8bu6E2akuk8 1:08 Mira Yoon - Just2CE
-w8qf-skS7cU 1:01 Javier Lloveras - Just2CE
-vOaGM32axp8 4:32 Irina Velicu - Just2CE
-R5N1wWpE9JY 1:46 Emanuele Leonardi - Just2CE
-vaqoR7zYURc 1:10:28 Post-growth seminars: Lorenzo Fioramonti
-V14R1Vic-2M 1:41:08 Post-growth seminars: Maddalena Ripa - Quantitative storytelling
-Vj6l3aoYh6k 1:18:35 Post-Growth Seminars: Alba Nogueira - The Ence conflict
-8EwRRRn-kbw 35:56 Intro to JUST2CE - a Just Transition to Circular Economy
-4nu8yRV5toU 1:13:55 Intro to PROSPERA
 
 # Lindsay Ellis
 
