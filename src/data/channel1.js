@@ -196,6 +196,64 @@ export const episodes: Array<string> = [
     6dW6VYXp9HM 4:05 (3/4) Analysis: Explaining Fourier analysis with a machine
     jfH-NbsmvD4 11:48 (4/4) Operation: The details of setting up the Harmonic Analyzer
   `,
+  `
+    Z890lqjBkq4 0:00-1:05
+    ATorS9krpDU 2:31 The Muppet Show - 108: Paul Williams - “All Of Me” (1976)
+    Z890lqjBkq4 1:06-1:21
+    tYeqksmmCAY 1:14 The Muppet Show - 223: John Cleese - Gonzo’s Stunt: Cannonball (1978)
+    Gjz8oE4c8VQ 2:39 The Muppet Show - 223: John Cleese - Backstage #3 (1978)
+    Z890lqjBkq4 1:23-1:50
+    WktUcZVPGho 3:11 The Muppet Show - 118: Phyllis Diller - “Hugga Wugga”/“You Are My Sunshine” (1976)
+    Z890lqjBkq4 1:51-2:07
+    0nCfIA_Yy5U 0:50 The Muppet Show - 118: Phyllis Diller - Muppet Labs: Exploding Clothes (1976)
+    Z890lqjBkq4 2:08-2:15
+    q4BhmKStq1c 1:45 The Muppet Show - 205: Judy Collins - Planet Koozebane: Koozebanian Phoob (1978)
+    Z890lqjBkq4 2:17-2:31
+    mIJdUHY_tlo 1:08 The Muppet Show - 204: Rich Little - “Tea for Two” (1978)
+    Z890lqjBkq4 2:34-2:53
+    wHW-mOvh-Z0 1:16 The Muppet Show - 112: Peter Ustinov - “You Do Something To Me” (1976)
+    Z890lqjBkq4 2:54-3:01
+    H3Cq4Qk_mS8 0:51 The Muppet Show - 207: Edgar Bergen - Gonzo’s Stunt: Brick (1978)
+    Z890lqjBkq4 3:02-3:24
+    ZNdY-cm9l2Y 1:54 The Muppet Show - 206: Nancy Walker - A man listens to the singing of several birds (1978)
+    Z890lqjBkq4 3:25-3:41
+    vi8S0Fab2BI 1:53 The Muppet Show - 306: Jean Stapleton - “I’m Just Wild About Harry” (1978)
+    Z890lqjBkq4 3:42-4:12
+    ZJKF1f9TMO4 2:29 The Muppet Show - 506: Brooke Shields - “Jabberwocky” (1980)
+    Yo2gdnPU2yU 2:01 The Muppet Show - 208: Steve Martin - UK Spot: Gonzo and Yolanda (1977)
+    Z890lqjBkq4 4:13-4:36
+    GEp_7UetpUE 2:03 The Muppet Show - 109: Charles Aznavour - “I Feel Pretty” (1976)
+    Z890lqjBkq4 4:37-4:52
+    H3Yxyjo8WiU 2:01 The Muppet Show - 217: Julie Andrews - At The Dance/“Won’t Somebody Dance With Me” (1978)
+    Z890lqjBkq4 4:55-5:07
+    wz4KphWTVUE 3:30 The Muppet Show - 211: Dom DeLuise - Planet Koosebane: Merdildops (1977)
+    ZeBdhrNvZKM 3:02 The Muppet Show - 119: Vincent Price - “I’ve Got You Under My Skin” (1977)
+    Z890lqjBkq4 5:14-5:38
+    wE6sRJHGY6A 2:26 The Muppet Show - 324: Cheryl Ladd - Gonzo’s Stunt: Hypnotizing (1979)
+    Z890lqjBkq4 5:39-5:49
+    U67_apsJvvg 2:43 The Muppet Show - 119: Vincent Price - “You’ve Got a Friend” (1977)
+    Z890lqjBkq4 5:50-6:00
+    GNhx2udfVNA 1:41 The Muppet Show - 101: Juliet Prowse - Gonzo’s Stunt: Eating a Rubber Tire (1976)
+    4JE6YEjbMkc 0:04-0:41 Gonzo stops taxi - The Great Muppet Caper
+    S3LFe3N8VGc 1:01 The Muppet Show - 301: Kris Kristofferson & Rita Coolidge - Gonzo’s Stunt: Piano (1978)
+    YkuC2-HP8EY 1:14 The Muppet Show - 504: Shirley Bassey - “Liebesträume” (1980)
+    JG0nkfcuULM 0:43 The Muppet Show - 222: Teresa Brewer - Gonzo’s Stunt: Shakespeare (1978)
+    ElKK24cVzLk 1:37 The Muppet Show - 410: Kenny Rogers - Gonzo’s Stunts: Catapult (1979)
+    bGVxW8J_LjI 1:07 The Muppet Show - 217: Julie Andrews - Gonzo’s Stunt: “Eine Kleine Nachtmusik”(1978)
+    xkdVWkAZryc 1:01 The Muppet Show - 217: Julie Andrews - Backstage #2 (1978)
+    x27pFBKEYoI 1:13 The muppets take manhattan
+    Z890lqjBkq4 6:45-6:59
+    iVJhbjJ9Ke4 2:51 The Muppet Show - 209: Madeline Kahn - Backstage #4/“Wishing Song” (1977)
+    Z890lqjBkq4 7:01-7:15
+    jJDFV9o-HKc 1:18 The Muppet Show - 504: Shirley Bassey - “Isn’t This a Lovely Day” (1980)
+    Z890lqjBkq4 7:17-7:51
+    Vo3LHOM5Ed8 1:27 The Muppet Show - 217: Julie Andrews - Talk Spot (1978)
+    Z890lqjBkq4 7:54-8:02
+    IyG3PL5V490 2:37 The Muppet Show - 107: Florence Henderson - Planet Koozebane (1976)
+    Z890lqjBkq4 8:03-8:17
+    gjsetOXNQHQ 2:06 The Muppet Show - 409: Beverly Sills - UK Spot: “Muppera” (1979)
+    Z890lqjBkq4 8:19-9:12
+  `,
 ]
 
 export const videos: string = `
