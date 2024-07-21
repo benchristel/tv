@@ -175,6 +175,27 @@ export const episodes: Array<string> = [
     AEMEkNhulsI 45:07 Victor Borge act 1
     RtzMQ4JEcmc 46:08 Victor Borge act 2
   `,
+  `
+    RrHnLXMTOWM 3:19 Introduction: The Chemical History of a Candle by Michael Faraday (1/6)
+    6W0MHZ4jb4A 11:48 Lecture One: The Chemical History of a Candle - The Sources of its Flame (2/6)
+    B8vSLgaW9WQ 13:45 Lecture Two: The Chemical History of a Candle - Brightness of the Flame (3/6)
+    31pLJyReFXw 15:43 Lecture Three: The Chemical History of a Candle - Products of Combustion (4/6)
+    v1DWHeouJYM 20:00 Lecture Four: The Chemical History of a Candle - The Nature of the Atmosphere (5/6)
+    Fb4RoPEtwso 21:07 Lecture Five: The Chemical History of a Candle - Respiration & the Burning of a Candle (6/6)
+  `,
+  `
+    ce0g0e9NmgQ 11:48 Commentary Lecture One: The Chemical History of a Candle - The Sources of its Flame
+    grWNnVB9B-4 13:45 Commentary Lecture Two: The Chemical History of a Candle - Brightness of the Flame
+    0s8anLurWp0 15:43 Commentary Lecture Three: The Chemical History of a Candle - Products of Combustion
+    WLgxPKU-JsI 20:00 Commentary Lecture Four: The Chemical History of a Candle - The Nature of the Atmosphere
+    tCmZfnT6_M4 21:07 Commentary Lecture Five: The Chemical History of a Candle - Respiration & the Burning of a Candle
+  `,
+  `
+    NAsM30MAHLg 3:39 (1/4) Intro/History: Introducing a 100-year-old mechanical computer
+    8KmVDxkia_w 5:42 (2/4) Synthesis: A machine that uses gears, springs and levers to add sines and cosines
+    6dW6VYXp9HM 4:05 (3/4) Analysis: Explaining Fourier analysis with a machine
+    jfH-NbsmvD4 11:48 (4/4) Operation: The details of setting up the Harmonic Analyzer
+  `,
 ]
 
 export const videos: string = `
@@ -204,51 +225,36 @@ wI-qAxKJoSU 9:42 Nitinol: The Shape Memory Effect and Superelasticity
 ixxXhZVFXxQ 16:58 Britain's Giant Airship: R.101
 UCKC-QVcVn0 10:28 The Engineering of the Drinking Bird
 97ARLiTHjX0 12:06 DLP Projector Stereolithography 3D Printer
-765mTZAv6QI 30:49 Fatal Flight audiobook: Chapter Two: Airborne at Last (4/14)
-clvrO6A8cDE 1:37 A short announcement about EngineerGuy videos (August 2017)
-mgqZCcccrhU 26:56 Fatal Flight audiobook: Chapter Nine: To Ride the Storm (11/14)
-vANc6538Zqo 24:46 Fatal Flight audiobook: Chapter Eight: Departure for India (10/14)
-8L5TnpiwOzM 19:46 Fatal Flight audiobook: Chapter Seven: Radical Surgery (9/14)
-uUq_qyjzNgA 19:37 Fatal Flight audiobook: Chapter Six: The Airship Flies Again (8/14)
-WzIBKfDVYwc 19:44 Fatal Flight audiobook: Chapter Five: Problems with the Cloth Cover (7/14)
-SOZ9Ujud_g0 33:48 Fatal Flight audiobook: Chapter Four: Inside the Great Airship (6/14)
-0YLi5cAIJvc 22:02 Fatal Flight audiobook: Chapter Three: An Inept Command Takes Charge (5/14)
-rZMlbEYzf6M 25:54 Fatal Flight audiobook: Chapter One: The Debut of the Great British Airship (3/14)
-NhdGbTL-BtE 15:17 Fatal Flight audiobook: Prologue: The Perennial Promise of Airships (2/14)
-97OnTDaLqqk 1:23 Fatal Flight audiobook: Opening credits (1/14)
-kWEdZYLv2Ns 1:00 Fatal Flight audiobook: Closing Credits (14/14)
-BtcVWMxFpvI 10:33 Fatal Flight audiobook: Epilogue: Stories of Survivors and the Fate of British Airship (13/14)
-a3OAnB3ErvA 28:44 Fatal Flight audiobook: Chapter Ten: The Causes of R.101's Crash (12/14)
-tCmZfnT6_M4 21:07 Commentary Lecture Five: The Chemical History of a Candle - Respiration & the Burning of a Candle
-WLgxPKU-JsI 20:00 Commentary Lecture Four: The Chemical History of a Candle - The Nature of the Atmosphere
-0s8anLurWp0 15:43 Commentary Lecture Three: The Chemical History of a Candle - Products of Combustion
-grWNnVB9B-4 13:45 Commentary Lecture Two: The Chemical History of a Candle - Brightness of the Flame
-ce0g0e9NmgQ 11:48 Commentary Lecture One: The Chemical History of a Candle - The Sources of its Flame
-Fb4RoPEtwso 21:07 Lecture Five: The Chemical History of a Candle - Respiration & the Burning of a Candle (6/6)
-v1DWHeouJYM 20:00 Lecture Four: The Chemical History of a Candle - The Nature of the Atmosphere (5/6)
-31pLJyReFXw 15:43 Lecture Three: The Chemical History of a Candle - Products of Combustion (4/6)
-B8vSLgaW9WQ 13:45 Lecture Two: The Chemical History of a Candle - Brightness of the Flame (3/6)
-6W0MHZ4jb4A 11:48 Lecture One: The Chemical History of a Candle - The Sources of its Flame (2/6)
-RrHnLXMTOWM 3:19 Introduction: The Chemical History of a Candle by Michael Faraday (1/6)
+# 765mTZAv6QI 30:49 Fatal Flight audiobook: Chapter Two: Airborne at Last (4/14)
+# clvrO6A8cDE 1:37 A short announcement about EngineerGuy videos (August 2017)
+# mgqZCcccrhU 26:56 Fatal Flight audiobook: Chapter Nine: To Ride the Storm (11/14)
+# vANc6538Zqo 24:46 Fatal Flight audiobook: Chapter Eight: Departure for India (10/14)
+# 8L5TnpiwOzM 19:46 Fatal Flight audiobook: Chapter Seven: Radical Surgery (9/14)
+# uUq_qyjzNgA 19:37 Fatal Flight audiobook: Chapter Six: The Airship Flies Again (8/14)
+# WzIBKfDVYwc 19:44 Fatal Flight audiobook: Chapter Five: Problems with the Cloth Cover (7/14)
+# SOZ9Ujud_g0 33:48 Fatal Flight audiobook: Chapter Four: Inside the Great Airship (6/14)
+# 0YLi5cAIJvc 22:02 Fatal Flight audiobook: Chapter Three: An Inept Command Takes Charge (5/14)
+# rZMlbEYzf6M 25:54 Fatal Flight audiobook: Chapter One: The Debut of the Great British Airship (3/14)
+# NhdGbTL-BtE 15:17 Fatal Flight audiobook: Prologue: The Perennial Promise of Airships (2/14)
+# 97OnTDaLqqk 1:23 Fatal Flight audiobook: Opening credits (1/14)
+# kWEdZYLv2Ns 1:00 Fatal Flight audiobook: Closing Credits (14/14)
+# BtcVWMxFpvI 10:33 Fatal Flight audiobook: Epilogue: Stories of Survivors and the Fate of British Airship (13/14)
+# a3OAnB3ErvA 28:44 Fatal Flight audiobook: Chapter Ten: The Causes of R.101's Crash (12/14)
 xYNX8y6lQMc 6:34 The Engineering of a Disposable Diaper
 hVCNS2jQQ6g 4:26 Apollo: The Alignment Optical Telescope
-q2GroO9ZI5w 4:18 Upcoming Videos
+# q2GroO9ZI5w 4:18 Upcoming Videos
 COty6_oDEkk 8:03 How a Wind Up Music Box Works
 RMjtmsr3CqA 9:37 Plastic Injection Molding
 qCxco6227xo 2:52 NERF Blaster: Air Restriction Mechanism
 hO09k19IIy4 2:59 Wine Corks: Saving Endangered Birds // An Illustrated Radio Talk
 MhVw-MHGv4s 4:44 How a Retractable Ballpoint Pen Works
-hhNTAJEKnuY 1:02 Suggest topics for future EngineerGuy videos!
+# hhNTAJEKnuY 1:02 Suggest topics for future EngineerGuy videos!
 En__V0oEJsU 8:50 How a Film Projector Works
 hUhisi2FBuw 11:39 The Ingenious Design of the Aluminum Beverage Can
 fHmgF4ibmuk 11:28 RMS Titanic: Fascinating Engineering Facts
 4mBuyixt22U 17:29 Bonus: Rocker arms: sinusoids in two different directions
 XPQwKRt4Y2k 2:54 Bonus: Watch the machine spin around over and over...
-rMHw9GCAtE8 19:45 Page-by-Page Guide to the Free PDF
-jfH-NbsmvD4 11:48 (4/4) Operation: The details of setting up the Harmonic Analyzer
-6dW6VYXp9HM 4:05 (3/4) Analysis: Explaining Fourier analysis with a machine
-8KmVDxkia_w 5:42 (2/4) Synthesis: A machine that uses gears, springs and levers to add sines and cosines
-NAsM30MAHLg 3:39 (1/4) Intro/History: Introducing a 100-year-old mechanical computer
+# rMHw9GCAtE8 19:45 Page-by-Page Guide to the Free PDF
 _4zbNJmtbGo 2:41 The Cigarette machine: the invention with the greatest economic impact?
 ZCS0sr29Jiw 2:31 How home air conditioning triumphed over the open air movement
 cv2tOE4ioCI 2:53 Kodak: How George Eastman revolutionized photography
@@ -276,7 +282,7 @@ z7r8sKzt7HM 4:02 Cell Phone Design
 jiejNAUwcQ8 4:53 LCD Monitor Teardown
 oFUUQcpGR3k 3:45 How smoke detectors work
 DIGqBb3iZPo 3:38 Light bulb filament
-XmKzSDOXejI 1:02 Video for soon to be released videos
+# XmKzSDOXejI 1:02 Video for soon to be released videos
 F5Ri_HhziI0 3:43 Why the other line is likely to move faster
 1pM6uD8nePo 3:34 How a quartz watch works
 RdYHljZi7ys 4:46 How the first transistor worked
