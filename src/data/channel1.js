@@ -4049,9 +4049,7 @@ QRB_GhLXCds 1:54:08 Eddie Izzard - Dress To Kill Show in1999.
 # Seinfeld
 2GO3X6RXIvs 1:09:32 Jerry Seinfeld on Broadway, I'm Telling You for the Last Time, FULL set, Stand-up Comedy, Live, 1998
 
-CcPLsIy4tys 1:20:36 The Mouse and His Child
-
-OOF3dmmELqU 47:40 Gonzo Presents Muppet Weird Stuff
+# CcPLsIy4tys 1:20:36 The Mouse and His Child
 
 # YXGfCKNa_9E 1:49:40 Wind in the Willows Cosgrove Hall 1983 (extended version with omitted chapters)
 mzL0pY1r5Lg 1:18:21 The Wind in the Willows (1983) - WIDESCREEN 16:9 - Cosgrove Hall
