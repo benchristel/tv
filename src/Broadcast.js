@@ -1,6 +1,10 @@
 // @flow
 export type Broadcast =
-  | {| type: "nothing", nextVideoId: string |}
+  | {|
+      type: "nothing",
+      nextVideoId: string,
+      nextVideoStartTimestamp: number,
+    |}
   | {|
       type: "video",
       videoId: string,
@@ -8,6 +12,10 @@ export type Broadcast =
       currentTime: number,
     |}
 
-export function nothing(nextVideoId: string = ""): Broadcast {
-  return { type: "nothing", nextVideoId }
+export function nothing(nextVideoId: string = "", nextVideoStartTimestamp: number = 0): Broadcast {
+  return {
+    type: "nothing",
+    nextVideoId,
+    nextVideoStartTimestamp
+  }
 }

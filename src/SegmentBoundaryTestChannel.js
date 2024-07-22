@@ -7,6 +7,7 @@ import { SECONDS_BETWEEN_VIDEOS } from "./playback"
 import { test, expect, equals } from "@benchristel/taste"
 import { entireVideo, range } from "./data/parser";
 import { episode } from "./video/types";
+import type { Broadcast } from "./Broadcast";
 
 export function SegmentBoundaryTestChannel(name: string, episodes: Array<Episode>): Channel {
   const schedule: Schedule = createSchedule(
@@ -24,7 +25,7 @@ export function SegmentBoundaryTestChannel(name: string, episodes: Array<Episode
     return name
   }
 
-  function getBroadcast(time: number) {
+  function getBroadcast(time: number): Broadcast {
     const seconds = time / 1000
     const secondOfSchedule = seconds % scheduleDuration
     const segment = binarySearch(schedule, (seg) => seg.startSecondOfSchedule <= secondOfSchedule)
@@ -40,6 +41,7 @@ export function SegmentBoundaryTestChannel(name: string, episodes: Array<Episode
       return {
         type: "nothing",
         nextVideoId: segment?.nextVideoId ?? "",
+        nextVideoStartTimestamp: segment?.nextVideoStartSecondOfVideo ?? 0,
       }
     }
   }
@@ -61,6 +63,7 @@ type Schedule = Array<
   | {|
       type: "nothing",
       nextVideoId: string,
+      nextVideoStartSecondOfVideo: number,
       duration: number,
       startSecondOfSchedule: number,
     |}
@@ -79,6 +82,7 @@ function createSchedule(videos: Array<Video>): Schedule {
     schedule.push({
       type: "nothing",
       nextVideoId: video.videoId,
+      nextVideoStartSecondOfVideo: 3,
       duration: SECONDS_BETWEEN_VIDEOS,
       startSecondOfSchedule: totalDuration,
     })
@@ -143,6 +147,7 @@ test("createSchedule", {
       {
         type: "nothing",
         nextVideoId: "id-1",
+        nextVideoStartSecondOfVideo: 3,
         duration: 2,
         startSecondOfSchedule: 0,
       },

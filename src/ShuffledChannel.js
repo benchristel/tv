@@ -28,7 +28,11 @@ const noEpisodes: Array<Episode> = []
 test("a Channel", {
   "broadcasts nothing given no episodes"() {
     const channel = ShuffledChannel("", noEpisodes)
-    expect(channel.getBroadcast(999), equals, {type: "nothing", nextVideoId: ""})
+    expect(channel.getBroadcast(999), equals, {
+      type: "nothing",
+      nextVideoId: "",
+      nextVideoStartTimestamp: 0,
+    })
   },
 
   "starts a video when it's supposed to start"() {
@@ -81,7 +85,12 @@ test("ScheduleGenerator", {
     const generator = ScheduleGenerator(episodes)
 
     expect(generator(""), equals, [
-      { type: "nothing", startSecondOfDay: 0, nextVideoId: "the-video-id" },
+      {
+        type: "nothing",
+        startSecondOfDay: 0,
+        nextVideoId: "the-video-id",
+        nextVideoStartSecondOfVideo: 0,
+      },
       {
         type: "video",
         videoId: "the-video-id",
@@ -102,7 +111,12 @@ test("ScheduleGenerator", {
     const generator = ScheduleGenerator(episodes)
 
     expect(generator(""), equals, [
-      { type: "nothing", startSecondOfDay: 0, nextVideoId: "the-video-id" },
+      {
+        type: "nothing",
+        startSecondOfDay: 0,
+        nextVideoId: "the-video-id",
+        nextVideoStartSecondOfVideo: 0,
+      },
       {
         type: "video",
         videoId: "the-video-id",
@@ -110,7 +124,12 @@ test("ScheduleGenerator", {
         startSecondOfDay: 2,
         startSecondOfVideo: 0,
       },
-      { type: "nothing", startSecondOfDay: 43202, nextVideoId: "the-video-id" },
+      {
+        type: "nothing",
+        startSecondOfDay: 43202,
+        nextVideoId: "the-video-id",
+        nextVideoStartSecondOfVideo: 0,
+      },
       {
         type: "video",
         videoId: "the-video-id",
@@ -132,7 +151,12 @@ test("ScheduleGenerator", {
     const generator = ScheduleGenerator(episodes)
 
     expect(generator(""), equals, [
-      { type: "nothing", startSecondOfDay: 0, nextVideoId: "the-video-id" },
+      {
+        type: "nothing",
+        startSecondOfDay: 0,
+        nextVideoId: "the-video-id",
+        nextVideoStartSecondOfVideo: 3600,
+      },
       {
         type: "video",
         videoId: "the-video-id",
@@ -140,7 +164,12 @@ test("ScheduleGenerator", {
         startSecondOfDay: 2,
         startSecondOfVideo: 3600,
       },
-      { type: "nothing", startSecondOfDay: 43202, nextVideoId: "the-video-id" },
+      {
+        type: "nothing",
+        startSecondOfDay: 43202,
+        nextVideoId: "the-video-id",
+        nextVideoStartSecondOfVideo: 3600,
+      },
       {
         type: "video",
         videoId: "the-video-id",

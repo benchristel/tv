@@ -44,6 +44,7 @@ export function ShuffledChannel(name: string, episodes: Array<Episode>): Channel
       return {
         type: "nothing",
         nextVideoId: segment?.nextVideoId ?? "",
+        nextVideoStartTimestamp: segment?.nextVideoStartSecondOfVideo ?? 0,
       }
     }
   }
@@ -67,7 +68,12 @@ type Schedule = Array<
       startSecondOfDay: number,
       startSecondOfVideo: number,
     |}
-  | {| type: "nothing", nextVideoId: string, startSecondOfDay: number |}
+  | {|
+      type: "nothing",
+      startSecondOfDay: number,
+      nextVideoId: string,
+      nextVideoStartSecondOfVideo: number
+    |}
 >
 
 type ScheduleGeneratorFn = (Array<Episode>) => (string) => Schedule
@@ -93,6 +99,7 @@ export const ScheduleGenerator: ScheduleGeneratorFn = (episodes: Array<Episode>)
           type: "nothing",
           startSecondOfDay: totalDuration,
           nextVideoId: video.videoId,
+          nextVideoStartSecondOfVideo: video.segments[0]?.start ?? 0,
         },
       )
       totalDuration += SECONDS_BETWEEN_VIDEOS

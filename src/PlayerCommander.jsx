@@ -40,7 +40,6 @@ export class PlayerCommander extends React.Component<Props> {
           }
           break
         case "seek": {
-          const millisSinceLastSeek = now - this.lastSeek;
           if (this.seekCooldownElapsed(now)) {
             this.lastSeek = now;
             player.seekTo(cmd.timestamp);

@@ -25,12 +25,26 @@ export function reconcile(
       case PlayerState.UNSTARTED:
         if (!broadcast.nextVideoId) return []
         if (currentVideoId !== broadcast.nextVideoId) {
-          return [{ type: "cue", videoId: broadcast.nextVideoId, timestamp: 0 }]
-          // Note: no play command here.
-          // Cueing is asynchronous, so if we call play it will actually
-          // play the previous video.
+          return [
+            {
+              type: "cue",
+              videoId: broadcast.nextVideoId,
+              timestamp: broadcast.nextVideoStartTimestamp,
+            },
+            // Note: no play command here.
+            // Cueing is asynchronous, so if we call play it will actually
+            // play the previous video.
+          ]
         } else {
-          return [{ type: "seek", timestamp: 0 }, { type: "play" }]
+          return [
+            {
+              type: "seek",
+              timestamp: broadcast.nextVideoStartTimestamp,
+            },
+            {
+              type: "play"
+            },
+          ]
         }
       default:
         return []
