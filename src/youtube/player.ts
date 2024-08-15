@@ -2,27 +2,31 @@ import { debugTimestamp } from "../lib/time"
 
 import { videoIdFromUrl } from "./videoId"
 
-import * as React from "react"
+declare global {
+  interface Window {
+    YT: any
+    onYouTubeIframeAPIReady: () => unknown
+  }
+}
 
-// FIXME
-// export type PlayerStateCode = -1 | 0 | 1 | 2 | 3 | 5
-//
-// export interface Player {
-//   getPlayerState(): PlayerStateCode;
-//   getCurrentTime(): number;
-//   getVideoUrl(): string;
-//   cueVideoById(string, time: number): void;
-//   playVideo(): void;
-//   seekTo(time: number): void;
-//   getDuration(): number;
-//   addEventListener(string, ({ data: PlayerStateCode }) => mixed): mixed;
-//   removeEventListener(string, () => mixed): mixed;
-//   setVolume(number): void;
-// }
+export type PlayerStateCode = -1 | 0 | 1 | 2 | 3 | 5
 
-export function nullPlayer()/* FIXME : Player */ {
+export interface Player {
+  getPlayerState(): PlayerStateCode;
+  getCurrentTime(): number;
+  getVideoUrl(): string;
+  cueVideoById(id: string, time: number): void;
+  playVideo(): void;
+  seekTo(time: number): void;
+  getDuration(): number;
+  addEventListener(eventName: string, cb: (event: { data: PlayerStateCode }) => unknown): unknown;
+  removeEventListener(eventName: string, cb: () => unknown): unknown;
+  setVolume(volume: number): void;
+}
+
+export function nullPlayer(): Player {
   return {
-    getPlayerState() {
+    getPlayerState(): PlayerStateCode {
       return State.UNSTARTED
     },
     getCurrentTime() {
@@ -43,7 +47,7 @@ export function nullPlayer()/* FIXME : Player */ {
   }
 }
 
-export function debuggingDecorator(wrapped/* FIXME : Player */)/* FIXME : Player */ {
+export function debuggingDecorator(wrapped: Player): Player {
   return {
     getPlayerState() {
       return wrapped.getPlayerState()
@@ -88,11 +92,6 @@ export function debuggingDecorator(wrapped/* FIXME : Player */)/* FIXME : Player
   }
 }
 
-// type Props = {|
-//   id: string,
-//   children: (Player) => React.Node,
-// |}
-
 export const State = {
   UNSTARTED: -1,
   ENDED: 0,
@@ -100,9 +99,9 @@ export const State = {
   PAUSED: 2,
   BUFFERING: 3,
   CUED: 5,
-}
+} as const
 
-export async function createYouTubePlayer(elementId/* FIXME : string */)/* FIXME :: Promise<Player> */ {
+export async function createYouTubePlayer(elementId: string): Promise<Player> {
   const yt = await loadYouTubePlayerAPI()
   return new Promise((resolve) => {
     const player = new yt.Player(elementId, {
@@ -141,7 +140,7 @@ function loadYouTubePlayerAPI() {
 }
 
 let playerApiLoaded = false
-const callbacks = []
+const callbacks: ((yt: typeof window.YT) => unknown)[] = []
 window.onYouTubeIframeAPIReady = () => {
   playerApiLoaded = true
   callbacks.forEach((c) => c(window.YT))

@@ -2,7 +2,7 @@
 // import type { Player } from "./youtube/player.jsx"
 import { stateString } from "./PlayerStateView.jsx"
 import { debugTimestamp } from "./lib/time"
-import { createYouTubePlayer, nullPlayer } from "./youtube/player.jsx"
+import { createYouTubePlayer, nullPlayer } from "./youtube/player"
 import { videoIdFromUrl } from "./youtube/videoId"
 
 import { useEffect, useRef, useState } from "react"

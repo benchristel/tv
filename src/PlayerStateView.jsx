@@ -1,7 +1,7 @@
 // FIXME
 // import type { Channel } from "./Channel"
 // import type { PlayerStateCode } from "./youtube/player.jsx"
-import { State as PlayerState } from "./youtube/player.jsx"
+import { State as PlayerState } from "./youtube/player"
 
 import * as React from "react"
 
