@@ -1,5 +1,4 @@
-// FIXME
-// import type { Player } from "./youtube/player.jsx"
+import type { Player } from "./youtube/player"
 import { stateString } from "./PlayerStateView"
 import { debugTimestamp } from "./lib/time"
 import { createYouTubePlayer, nullPlayer } from "./youtube/player"
@@ -13,9 +12,9 @@ function useRerender() {
   return () => setNonce(++nonce)
 }
 
-export function useYouTubePlayer(id/* FIXME : string */)/* FIXME : Player */ {
+export function useYouTubePlayer(id: string): Player {
   const rerender = useRerender()
-  const playerRef = useRef/* FIXME <Player> */(nullPlayer())
+  const playerRef = useRef<Player>(nullPlayer())
   useEffect(() => {
     createYouTubePlayer(id).then((player) => {
       playerRef.current = player

@@ -10,7 +10,7 @@ import { nothing } from "./Broadcast"
 import { reconcile } from "./reconcile.js"
 import { useYouTubePlayer } from "./useYouTubePlayer"
 import { VideoInfo } from "./VideoInfo.jsx"
-import { debuggingDecorator } from "./youtube/player.js"
+import { debuggingDecorator } from "./youtube/player"
 import { PlayerCommander } from "./PlayerCommander"
 import { status } from "./PlayerStatus.js"
 import { ShuffledChannel } from "./ShuffledChannel";
