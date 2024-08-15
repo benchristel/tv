@@ -10,7 +10,7 @@ import { nothing } from "./Broadcast"
 import { reconcile } from "./reconcile.js"
 import { useYouTubePlayer } from "./useYouTubePlayer"
 import { VideoInfo } from "./VideoInfo.jsx"
-import { debuggingDecorator } from "./youtube/player.jsx"
+import { debuggingDecorator } from "./youtube/player.js"
 import { PlayerCommander } from "./PlayerCommander.jsx"
 import { status } from "./PlayerStatus.js"
 import { ShuffledChannel } from "./ShuffledChannel";
@@ -27,7 +27,7 @@ const channels = channelData
     }
   })
 
-export function App()/* : React.Node FIXME */ {
+export function App(): React.ReactElement {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
   const [infoPaneOpen, setInfoPaneOpen] = useState(false)
   const [channel, setChannel] = useState(channels[0])
@@ -41,7 +41,7 @@ export function App()/* : React.Node FIXME */ {
   const playerState = playerStatus.state
   const hideVideo = playerState !== PlayerState.PLAYING
   const playerCommands = reconcile(broadcast, playerStatus)
-  const infoButtonRef = useRef/* <?HTMLElement > FIXME*/(null)
+  const infoButtonRef = useRef<HTMLButtonElement>(null)
   const closeInfoPane = useCallback(() => {
     setInfoPaneOpen(false);
     infoButtonRef.current?.focus()
@@ -116,11 +116,11 @@ export function App()/* : React.Node FIXME */ {
   )
 }
 
-function Layout(props/* {|
-  screen: React.Node,
-  controlPanel: React.Node,
-  effects: React.Node,
-|} FIXME */) {
+function Layout(props: {
+  screen: React.ReactElement,
+  controlPanel: React.ReactElement,
+  effects: React.ReactElement,
+}) {
   return (
     <div className="App">
       <div className="bezel">
@@ -133,7 +133,7 @@ function Layout(props/* {|
   )
 }
 
-function PlayButtonOverlay(props /* {| onClick: () => mixed |} FIXME */) {
+function PlayButtonOverlay(props: { onClick: () => unknown }) {
   return (
     <button id="start" onClick={props.onClick}>
       ▸ Play
