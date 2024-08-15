@@ -1,6 +1,6 @@
 // FIXME
 // import type { Player } from "./youtube/player.jsx"
-import { stateString } from "./PlayerStateView.jsx"
+import { stateString } from "./PlayerStateView"
 import { debugTimestamp } from "./lib/time"
 import { createYouTubePlayer, nullPlayer } from "./youtube/player"
 import { videoIdFromUrl } from "./youtube/videoId"

@@ -3,7 +3,7 @@
 // import type { Channel } from "./Channel";
 // import type { PlayerStatus } from "./PlayerStatus"
 // import type { Player } from "./youtube/player.jsx"
-import { stateString } from "./PlayerStateView.jsx"
+import { stateString } from "./PlayerStateView"
 import { bookmarklet } from "./scraper/bookmarklet";
 import { durationAsWords, hoursMinutesSeconds } from "./lib/time";
 import * as React from "react"
