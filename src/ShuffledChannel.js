@@ -3,7 +3,7 @@ export { ShuffledChannel } from "./ShuffledChannel.impl";
 import { ShuffledChannel, ScheduleGenerator, TIMEZONE_OFFSET } from "./ShuffledChannel.impl";
 import { range, entireVideo } from "./data/parser";
 import { test, expect, is, equals, which } from "@benchristel/taste"
-import { episode } from "./video/types";
+import { episode } from "./video";
 // FIXME
 // import type { Segment, Video, Episode } from "./video/types"
 // import type { Channel } from "./Channel"

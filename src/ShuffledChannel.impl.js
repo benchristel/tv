@@ -6,8 +6,8 @@ import { binarySearch } from "./lib/binarySearch"
 
 // FIXME
 // import type { Channel } from "./Channel"
-// import type { Episode, Video } from "./video/types";
-import { duration, videoDuration } from "./video/types";
+// import type { Episode, Video } from "./video";
+import { duration, videoDuration } from "./video";
 import { SECONDS_BETWEEN_VIDEOS } from "./playback"
 
 export const TIMEZONE_OFFSET = 8 * 3600

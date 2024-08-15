@@ -1,30 +1,29 @@
 import { test, expect, is } from "@benchristel/taste";
 
-//FIXME 
-// export type Video = {|
-//   videoId: string,
-//   segments: Array<Segment>,
-//   title: string,
-// |}
+export type Video = {
+  videoId: string,
+  segments: Array<Segment>,
+  title: string,
+}
 
-// export type Segment = {|
-//   start: number,
-//   end: number
-// |}
+export type Segment = {
+  start: number,
+  end: number
+}
 
-// export type Episode = {|
-//   videos: Array<Video>,
-// |}
+export type Episode = {
+  videos: Array<Video>,
+}
 
-export function episode(videos/* FIXME : Array<Video> */)/* : Episode */ {
+export function episode(videos: Array<Video>): Episode {
   return {videos}
 }
 
-export function duration({start, end}/* FIXME : Segment */)/* : number */ {
+export function duration({start, end}: Segment): number {
   return end - start
 }
 
-export function videoDuration(video/* FIXME : Video */)/* : number */ {
+export function videoDuration(video: Video): number {
   return video.segments.map(duration).reduce(add, 0)
 }
 
@@ -48,4 +47,4 @@ test("videoDuration", {
   }
 })
 
-const add = (a, b) => a + b
+const add = (a: number, b: number) => a + b

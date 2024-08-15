@@ -5,7 +5,7 @@ import { isEmpty } from "../lib/arrays";
 import { map, pipe } from "../lib/fns";
 import { trim } from "../lib/strings";
 import { not } from "@benchristel/taste";
-import { episode } from "../video/types";
+import { episode } from "../video";
 
 export function allEpisodes({videos, episodes}/* FIXME : ChannelModule */)/* FIXME : Array<Episode> */ {
   return [
