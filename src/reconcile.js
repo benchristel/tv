@@ -1,17 +1,16 @@
-// @flow
-
-import type { Player, PlayerStateCode } from "./youtube/player"
+// FIXME
+// import type { Player, PlayerStateCode } from "./youtube/player"
 import { State as PlayerState } from "./youtube/player"
 import { videoIdFromUrl } from "./youtube/videoId"
-import type { Broadcast } from "./Broadcast"
+// import type { Broadcast } from "./Broadcast"
 import { SECONDS_BETWEEN_VIDEOS } from "./playback"
-import type { Command } from "./PlayerCommander.jsx"
-import type { PlayerStatus } from "./PlayerStatus"
+// import type { Command } from "./PlayerCommander.jsx"
+// import type { PlayerStatus } from "./PlayerStatus"
 
 export function reconcile(
-  broadcast: Broadcast,
-  player: PlayerStatus
-): Array<Command> {
+  broadcast/* : Broadcast */,
+  player/* : PlayerStatus */
+)/* : Array<Command> */ {
   const {
     state: currentState,
     videoId: currentVideoId,
@@ -86,6 +85,6 @@ export function reconcile(
   }
 }
 
-function delta(a: number, b: number) {
+function delta(a/* : number */, b/* : number */) {
   return Math.abs(a - b)
 }

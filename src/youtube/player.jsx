@@ -1,27 +1,26 @@
-// @flow
 import { debugTimestamp } from "../lib/time"
 
 import { videoIdFromUrl } from "./videoId"
 
 import * as React from "react"
-import { useEffect, useRef, useState } from "react"
 
-export type PlayerStateCode = -1 | 0 | 1 | 2 | 3 | 5
+// FIXME
+// export type PlayerStateCode = -1 | 0 | 1 | 2 | 3 | 5
+//
+// export interface Player {
+//   getPlayerState(): PlayerStateCode;
+//   getCurrentTime(): number;
+//   getVideoUrl(): string;
+//   cueVideoById(string, time: number): void;
+//   playVideo(): void;
+//   seekTo(time: number): void;
+//   getDuration(): number;
+//   addEventListener(string, ({ data: PlayerStateCode }) => mixed): mixed;
+//   removeEventListener(string, () => mixed): mixed;
+//   setVolume(number): void;
+// }
 
-export interface Player {
-  getPlayerState(): PlayerStateCode;
-  getCurrentTime(): number;
-  getVideoUrl(): string;
-  cueVideoById(string, time: number): void;
-  playVideo(): void;
-  seekTo(time: number): void;
-  getDuration(): number;
-  addEventListener(string, ({ data: PlayerStateCode }) => mixed): mixed;
-  removeEventListener(string, () => mixed): mixed;
-  setVolume(number): void;
-}
-
-export function nullPlayer(): Player {
+export function nullPlayer()/* FIXME : Player */ {
   return {
     getPlayerState() {
       return State.UNSTARTED
@@ -44,7 +43,7 @@ export function nullPlayer(): Player {
   }
 }
 
-export function debuggingDecorator(wrapped: Player): Player {
+export function debuggingDecorator(wrapped/* FIXME : Player */)/* FIXME : Player */ {
   return {
     getPlayerState() {
       return wrapped.getPlayerState()
@@ -89,10 +88,10 @@ export function debuggingDecorator(wrapped: Player): Player {
   }
 }
 
-type Props = {|
-  id: string,
-  children: (Player) => React.Node,
-|}
+// type Props = {|
+//   id: string,
+//   children: (Player) => React.Node,
+// |}
 
 export const State = {
   UNSTARTED: -1,
@@ -103,7 +102,7 @@ export const State = {
   CUED: 5,
 }
 
-export async function createYouTubePlayer(elementId: string): Promise<Player> {
+export async function createYouTubePlayer(elementId/* FIXME : string */)/* FIXME :: Promise<Player> */ {
   const yt = await loadYouTubePlayerAPI()
   return new Promise((resolve) => {
     const player = new yt.Player(elementId, {

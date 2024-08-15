@@ -1,13 +1,10 @@
-// @flow
-
-import { errorThrownFrom } from "./testing"
-import { equals, expect, is, test } from "@benchristel/taste"
+import { expect, is, test } from "@benchristel/taste"
 
 // Returns the last ("rightmost") element of the array for which isLeftOfTarget is true.
-export function binarySearch<T>(
-  a: Array<T>,
-  isLeftOfTarget: (T) => boolean
-): ?T {
+export function binarySearch/* FIXME <T> */(
+  a/* FIXME : Array<T> */,
+  isLeftOfTarget/* FIXME : (T) => boolean */
+)/* FIXME : ?T */ {
   let firstPossible = -1
   let lastPossible = a.length - 1
   while (firstPossible < lastPossible) {

@@ -1,16 +1,17 @@
-// @flow
-import type { Channel } from "./Channel"
-import type { PlayerStateCode } from "./youtube/player.jsx"
+// FIXME
+// import type { Channel } from "./Channel"
+// import type { PlayerStateCode } from "./youtube/player.jsx"
 import { State as PlayerState } from "./youtube/player.jsx"
 
 import * as React from "react"
 
-type Props = {|
-  code: PlayerStateCode,
-  channel: Channel,
-|}
+// FIXME
+// type Props = {|
+//   code: PlayerStateCode,
+//   channel: Channel,
+// |}
 
-export function stateString(code: PlayerStateCode): string {
+export function stateString(code/* FIXME : PlayerStateCode */)/* FIXME : string */ {
   switch (code) {
     case PlayerState.BUFFERING:
       return "buffering"
@@ -29,6 +30,6 @@ export function stateString(code: PlayerStateCode): string {
   }
 }
 
-export function PlayerStateView(props: Props): React.Node {
+export function PlayerStateView(props/* FIXME : Props */)/* FIXME : React.Node */ {
   return props.channel.getName() + " " + stateString(props.code)
 }

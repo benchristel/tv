@@ -1,6 +1,4 @@
-// @flow
-
-export const videos: string = `
+export const videos/* FIXME : string */ = `
 # Full album videos
 
 BecZdQvjGrY 54:49 In Gowan Ring - Compendium (Full Album)
@@ -35,7 +33,7 @@ dbVLPJvPEmM 10-5:23 Archguitar Duo P Attaingnant La Brosse
 Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
 `
 
-export const episodes: Array<string> = [
+export const episodes/* FIXME : Array<string> */ = [
   `
     # In Gowan Ring - The Glinting Spade
     GCglHYJb2Yk 5:34 Two Wax Dolls

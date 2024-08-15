@@ -1,24 +1,23 @@
-// @flow
-
-import type { Episode, Segment, Video } from "../video/types";
-import type { ChannelModule } from "../data/types";
+// FIXME
+// import type { Episode, Segment, Video } from "../video/types";
+// import type { ChannelModule } from "../data/types";
 import { isEmpty } from "../lib/arrays";
 import { map, pipe } from "../lib/fns";
 import { trim } from "../lib/strings";
 import { not } from "@benchristel/taste";
 import { episode } from "../video/types";
 
-export function allEpisodes({videos, episodes}: ChannelModule): Array<Episode> {
+export function allEpisodes({videos, episodes}/* FIXME : ChannelModule */)/* FIXME : Array<Episode> */ {
   return [
     ...parseEpisodes(episodes),
     ...parseVideos(videos).map(singleVideoEpisode),
   ]
 }
 
-export const parseEpisodes: (Array<string>) => Array<Episode>
+export const parseEpisodes/* FIXME : (Array<string> ) => Array<Episode>*/
   = map(pipe(parseVideos, episode))
 
-export function parseVideos(raw: string): Array<Video> {
+export function parseVideos(raw/* FIXME : string */)/* : Array<Video> */ {
   return raw
     .split(/\n+/)
     .map(trim)
@@ -38,15 +37,15 @@ export function parseVideos(raw: string): Array<Video> {
     )
 }
 
-export function singleVideoEpisode(v: Video): Episode {
+export function singleVideoEpisode(v/* FIXME : Video */)/* : Episode */ {
   return episode([v])
 }
 
-export function entireVideo(duration: number): Segment {
+export function entireVideo(duration/* FIXME : number */)/* FIXME : Segment */ {
   return {start: 0, end: duration}
 }
 
-export function range(start: number, end: number): Segment {
+export function range(start/* FIXME : number */, end/* FIXME : number */)/* FIXME : Segment */ {
   return {start, end}
 }
 
@@ -54,11 +53,11 @@ function isComment(line) {
   return line.startsWith("#")
 }
 
-function parseSegments(raw: string): Array<Segment> {
+function parseSegments(raw/* FIXME : string */)/* FIXME : Array<Segment> */ {
   return raw.split(",").map(parseSegment)
 }
 
-function parseSegment(raw: string): Segment {
+function parseSegment(raw/* FIXME : string */)/* FIXME : Segment */ {
   const parts = raw.split("-")
   if (parts.length === 1) {
     return entireVideo(parseDuration(parts[0]))
@@ -70,7 +69,7 @@ function parseSegment(raw: string): Segment {
   }
 }
 
-export function parseDuration(raw: string): number {
+export function parseDuration(raw/* FIXME : string */)/* FIXME : number */ {
   const multipliers = [1, 60, 3600, 86400]
   const parts = raw
     .split(":")
@@ -81,7 +80,7 @@ export function parseDuration(raw: string): number {
     .reduce(add, 0)
 }
 
-export const split: (string | RegExp, limit?: number) => (string) => Array<string> =
+export const split/* FIXME : (string | RegExp, limit?: number) => (string) => Array<string> */ =
   (delim, limit = Infinity) =>
   (s) => {
     if (typeof delim === "string" && delim.length === 0) {

@@ -1,10 +1,9 @@
-// @flow
 import { expect, is, test } from "@benchristel/taste"
 
-export function cache<T>(
-  maxSize: number,
-  expensiveFallback: (string) => T
-): (string) => T {
+export function cache/* FIXME <T> */(
+  maxSize/* FIXME : number */,
+  expensiveFallback/* FIXME : (string) => T */
+)/* FIXME : (string) => T */ {
   let values = {}
   return (key) => {
     if (!(key in values)) {

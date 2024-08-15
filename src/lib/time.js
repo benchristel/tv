@@ -1,14 +1,13 @@
-// @flow
 import { expect, is, test } from "@benchristel/taste"
 
-export function debugTimestamp(): string {
+export function debugTimestamp()/* FIXME : string */ {
   return ((+new Date() % 1000000) / 1000).toFixed(3)
 }
 
 export function hoursMinutesSeconds(
-  seconds: number,
-  decimals: number = 0
-): string {
+  seconds/* FIXME : number */,
+  decimals/* FIXME : number */ = 0
+)/* FIXME : string */ {
   if (isNaN(seconds) || seconds === Infinity || seconds === -Infinity) {
     return "--:--"
   }
@@ -41,7 +40,7 @@ function formatPositiveHoursMinutesSeconds(seconds, decimals) {
     : `${m}:${pad(s, toFixed(decimals))}`
 }
 
-export function durationAsWords(seconds: number): string {
+export function durationAsWords(seconds/* FIXME : number */)/* FIXME : string */ {
   const [unit, magnitude] = (() => {
     switch (true) {
       case seconds > 86400: return ["days", seconds / 86400]

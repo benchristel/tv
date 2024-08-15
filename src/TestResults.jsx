@@ -1,4 +1,3 @@
-// @flow
 import * as React from "react"
 import { useState, useEffect } from "react"
 import {
@@ -8,13 +7,13 @@ import {
 } from "@benchristel/taste"
 import "./TestResults.css"
 
-export function TestResults(): React.Node {
-  const [message, setMessage] = useState<string>("")
+export function TestResults() {
+  const [message, setMessage] = useState/* FIXME <string> */("")
   useEffect(() => {
     runTests(getAllTests())
       .then(formatTestResultsAsText)
       .then(setMessage)
-      .catch((e: Error) => setMessage(e.message))
+      .catch((e/* FIXME : Error */) => setMessage(e.message))
   }, [])
 
   return /fail/i.test(message) ? (

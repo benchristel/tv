@@ -2,6 +2,6 @@
 
 SRC=src/scraper/script.js
 
->src/scraper/bookmarklet.js echo "// @flow
+>src/scraper/bookmarklet.js echo "
 // This file was generated from $SRC by $0.
 export const bookmarklet = '$(node_modules/.bin/bookmarklet $SRC)'"

@@ -1,24 +1,23 @@
-// @flow
-import type { Player } from "./youtube/player.jsx"
 import * as React from "react"
 import {test, expect, is} from "@benchristel/taste"
 import {SECONDS_BETWEEN_VIDEOS} from "./playback"
 
-type Props = {|
-  player: Player,
-  commands: Array<Command>,
-  volume: number,
-  now: number,
-|}
+// FIXME
+// type Props = {|
+//   player: Player,
+//   commands: Array<Command>,
+//   volume: number,
+//   now: number,
+// |}
 
-export type Command =
-  | {| type: "play" |}
-  | {| type: "cue", videoId: string, timestamp: number |}
-  | {| type: "seek", timestamp: number |}
+// export type Command =
+//   | {| type: "play" |}
+//   | {| type: "cue", videoId: string, timestamp: number |}
+//   | {| type: "seek", timestamp: number |}
 
-export class PlayerCommander extends React.Component<Props> {
-  lastSeek: number = -Infinity;
-  lastVideoId: string = "";
+export class PlayerCommander extends React.Component/* FIXME <Props> */ {
+  lastSeek/* FIXME : number */ = -Infinity;
+  lastVideoId/* FIXME : string */ = "";
 
   componentDidUpdate() {
     const { player, volume, commands, now } = this.props
@@ -47,12 +46,12 @@ export class PlayerCommander extends React.Component<Props> {
           break
         }
         default:
-          console.error("unexpected video command type", (cmd.type: empty), cmd)
+          console.error("unexpected video command type", (cmd.type/* FIXME : empty */), cmd)
       }
     })
   }
 
-  render(): React.Node {
+  render()/* FIXME : React.Node */ {
     return null
   }
 
@@ -60,7 +59,7 @@ export class PlayerCommander extends React.Component<Props> {
     this.lastSeek = -Infinity
   }
 
-  seekCooldownElapsed(nowMillis: number): boolean {
+  seekCooldownElapsed(nowMillis/* FIXME : number */)/* FIXME : boolean */ {
     const millisSinceLastSeek = nowMillis - this.lastSeek;
     return millisSinceLastSeek > SECONDS_BETWEEN_VIDEOS * 1000
   }

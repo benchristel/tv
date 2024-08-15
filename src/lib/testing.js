@@ -1,6 +1,4 @@
-// @flow
-
-export function errorThrownFrom(fn: () => mixed): Error | void {
+export function errorThrownFrom(fn/* FIXME : () => mixed */)/* : Error | void */ {
   try {
     fn()
   } catch (e) {

@@ -1,12 +1,12 @@
-// @flow
 import * as React from "react";
 
-type Props = {|
+/* type Props = {|
   volume: number, // 0-100
   onChange: (number) => mixed,  
 |}
-
-export function VolumeControl(props: Props): React.Node {
+FIXME
+ */
+export function VolumeControl(props/* : Props FIXME */) {
   return <div className="volume">
     <div className="volume-icon" />
     <input

@@ -1,6 +1,6 @@
-// @flow
-export type ChannelModule = {
-  videos: string,
-  episodes: Array<string>,
-  ...
-}
+// FIXME
+// export type ChannelModule = {
+//   videos: string,
+//   episodes: Array<string>,
+//   ...
+// }

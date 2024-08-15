@@ -1,26 +1,15 @@
-// @flow
-import type { Episode, Segment, Video } from "../video/types";
 import { test, expect, is, equals, not } from "@benchristel/taste"
 import {
   parseVideos,
-  range,
-  entireVideo,
   parseDuration,
   split,
-  parseEpisodes,
-  allEpisodes,
 } from "./parser.impl"
 
-import type { ChannelModule } from "../data/types";
 export {
   allEpisodes,
   entireVideo,
   range,
 } from "./parser.impl"
-
-;(allEpisodes: (ChannelModule) => Array<Episode>)
-;(entireVideo: (duration: number) => Segment)
-;(range: (start: number, end: number) => Segment)
 
 test("parseVideos", {
   "handles empty string"() {

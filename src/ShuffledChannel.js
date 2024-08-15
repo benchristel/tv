@@ -1,17 +1,14 @@
-// @flow
-
 export { ShuffledChannel } from "./ShuffledChannel.impl";
-
-;(ShuffledChannel: (name: string, Array<Episode>) => Channel)
 
 import { ShuffledChannel, ScheduleGenerator, TIMEZONE_OFFSET } from "./ShuffledChannel.impl";
 import { range, entireVideo } from "./data/parser";
 import { test, expect, is, equals, which } from "@benchristel/taste"
 import { episode } from "./video/types";
-import type { Segment, Video, Episode } from "./video/types"
-import type { Channel } from "./Channel"
+// FIXME
+// import type { Segment, Video, Episode } from "./video/types"
+// import type { Channel } from "./Channel"
 
-function video(...segments: Array<Segment>): Video {
+function video(...segments/* FIXME : Array<Segment> */)/* : Video */ {
   return {
     videoId: "",
     title: "",
@@ -23,7 +20,7 @@ function isAnything() {
   return true
 }
 
-const noEpisodes: Array<Episode> = []
+const noEpisodes/* FIXME : Array<Episode> */ = []
 
 test("a Channel", {
   "broadcasts nothing given no episodes"() {
@@ -60,7 +57,7 @@ test("a Channel", {
   },
 
   "sums the durations of its videos"() {
-    const episodes: Array<Episode> = [
+    const episodes/* FIXME : Array<Episode> */ = [
       episode([
         video({start: 0, end: 1}),
         video({start: 0, end: 2}),

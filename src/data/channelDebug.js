@@ -1,6 +1,4 @@
-// @flow
-
-export const episodes: Array<string> = [`
+export const episodes/* FIXME : Array<string> */ = [`
   Z890lqjBkq4 0:00-1:02
   ATorS9krpDU 0:26-2:31 The Muppet Show - 108: Paul Williams - “All Of Me” (1976)
   Z890lqjBkq4 1:06-1:20
@@ -59,5 +57,5 @@ export const episodes: Array<string> = [`
   Z890lqjBkq4 8:19-9:11
 `]
 
-export const videos: string = `
+export const videos/* FIXME : string */ = `
 `

@@ -1,5 +1,3 @@
-// @flow
-
 export const episodes: Array<string> = []
 
 export const videos: string = `

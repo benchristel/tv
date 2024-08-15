@@ -1,8 +1,6 @@
-// @flow
 import * as React from "react"
 import { useState, useRef, useCallback } from "react"
 import { State as PlayerState } from "./youtube/player"
-import { useInterval } from "./lib/useInterval"
 import { useLatch } from "./lib/useLatch"
 import { PlayerStateView } from "./PlayerStateView.jsx"
 import { ChannelSwitcher } from "./ChannelSwitcher.jsx"
@@ -29,7 +27,7 @@ const channels = channelData
     }
   })
 
-export function App(): React.Node {
+export function App()/* : React.Node FIXME */ {
   const [userRequestedPlayback, setUserRequestedPlayback] = useLatch()
   const [infoPaneOpen, setInfoPaneOpen] = useState(false)
   const [channel, setChannel] = useState(channels[0])
@@ -43,7 +41,7 @@ export function App(): React.Node {
   const playerState = playerStatus.state
   const hideVideo = playerState !== PlayerState.PLAYING
   const playerCommands = reconcile(broadcast, playerStatus)
-  const infoButtonRef = useRef<?HTMLElement>(null)
+  const infoButtonRef = useRef/* <?HTMLElement > FIXME*/(null)
   const closeInfoPane = useCallback(() => {
     setInfoPaneOpen(false);
     infoButtonRef.current?.focus()
@@ -118,11 +116,11 @@ export function App(): React.Node {
   )
 }
 
-function Layout(props: {|
+function Layout(props/* {|
   screen: React.Node,
   controlPanel: React.Node,
   effects: React.Node,
-|}): React.Node {
+|} FIXME */) {
   return (
     <div className="App">
       <div className="bezel">
@@ -135,7 +133,7 @@ function Layout(props: {|
   )
 }
 
-function PlayButtonOverlay(props: {| onClick: () => mixed |}): React.Node {
+function PlayButtonOverlay(props /* {| onClick: () => mixed |} FIXME */) {
   return (
     <button id="start" onClick={props.onClick}>
       ▸ Play

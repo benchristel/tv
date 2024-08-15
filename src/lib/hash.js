@@ -1,8 +1,6 @@
-// @flow
-
 import { expect, equals, test } from "@benchristel/taste"
 
-export function cyrb128(str: string): [number, number, number, number] {
+export function cyrb128(str/* FIXME : string */)/* FIXME : [number, number, number, number] */ {
   let h1 = 1779033703,
     h2 = 3144134277,
     h3 = 1013904242,

@@ -1,9 +1,8 @@
-// @flow
 import { expect, is, test } from "@benchristel/taste"
 
-export const pipe: $ComposeReverse = ((...fns) => {
+export const pipe/* FIXME : $ComposeReverse */ = ((...fns) => {
   return fns.reduce(rcompose)
-}: any)
+})
 
 test("pipe", {
   "given one function"() {
@@ -17,10 +16,10 @@ test("pipe", {
   },
 })
 
-export function rcompose<T, U, V>(f: (T) => U, g: (U) => V): (T) => V {
+export function rcompose/* FIXME <T, U, V> */(f/* : (T) => U */, g/* : (U) => V */)/* : (T) => V */ {
   return (...args) => g(f(...args))
 }
 
-export function map<T, U>(f: (T) => U): (Array<T>) => Array<U> {
+export function map/* FIXME <T, U> */(f/* : (T) => U*/)/*: (Array<T>) =>  Array<U>*/ {
   return (array) => array.map(f)
 }

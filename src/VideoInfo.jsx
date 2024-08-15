@@ -1,34 +1,34 @@
-// @flow
-import type { Broadcast } from "./Broadcast"
-import type { Channel } from "./Channel";
-import type { PlayerStatus } from "./PlayerStatus"
-import type { Player } from "./youtube/player.jsx"
+// FIXME
+// import type { Broadcast } from "./Broadcast"
+// import type { Channel } from "./Channel";
+// import type { PlayerStatus } from "./PlayerStatus"
+// import type { Player } from "./youtube/player.jsx"
 import { stateString } from "./PlayerStateView.jsx"
 import { bookmarklet } from "./scraper/bookmarklet";
 import { durationAsWords, hoursMinutesSeconds } from "./lib/time";
-import { videoIdFromUrl } from "./youtube/videoId"
 import * as React from "react"
 
-type VideoInfoViewModel = {|
-  videoLink: ?Link,
-  actual: TableColumn,
-  scheduled: TableColumn,
-  secondsBehindSchedule: string,
-  timeRemainingInVideo: string,
-|}
+// FIXME
+// type VideoInfoViewModel = {|
+//   videoLink: ?Link,
+//   actual: TableColumn,
+//   scheduled: TableColumn,
+//   secondsBehindSchedule: string,
+//   timeRemainingInVideo: string,
+// |}
 
-type Link = {|
-  href: string,
-  text: string,
-|}
+// type Link = {|
+//   href: string,
+//   text: string,
+// |}
 
-type TableColumn = {|
-  video: string,
-  playerState: string,
-  currentTime: string,
-|}
+// type TableColumn = {|
+//   video: string,
+//   playerState: string,
+//   currentTime: string,
+// |}
 
-function viewModel({ broadcast, player }): VideoInfoViewModel {
+function viewModel({ broadcast, player })/* FIXME : VideoInfoViewModel */ {
   const hms = (seconds) => hoursMinutesSeconds(seconds, 2)
 
   return {
@@ -61,21 +61,21 @@ function viewModel({ broadcast, player }): VideoInfoViewModel {
   }
 }
 
-export function VideoInfo(props: {|
+export function VideoInfo(props/* FIXME : {|
   isOpen: boolean,
   channels: Array<Channel>,
   broadcast: Broadcast,
   player: PlayerStatus,
   onClose: () => mixed,
-|}): React.Node {
+|} */) {
   const { isOpen, broadcast, player, onClose } = props
   const vm = viewModel({ broadcast, player })
-  const closeButtonRef = React.useRef<?HTMLElement>(null)
+  const closeButtonRef = React.useRef/* FIXME <?HTMLElement> */(null)
 
   React.useEffect(() => {
     if (isOpen) {
       closeButtonRef.current?.focus()
-      const closeOnEscape = (event: KeyboardEvent) => {
+      const closeOnEscape = (event/* FIXME : KeyboardEvent */) => {
         if (event.key === "Escape") {
           onClose()
         }
@@ -169,7 +169,7 @@ export function VideoInfo(props: {|
   )
 }
 
-function ChannelTableRow(props: {|channel: Channel|}): React.Node {
+function ChannelTableRow(props/* FIXME : {|channel: Channel|} */) {
   return <tr>
     <td>{props.channel.getName()}</td>
     <td>{durationAsWords(props.channel.getTotalDuration())}</td>

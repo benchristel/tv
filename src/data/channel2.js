@@ -1,6 +1,4 @@
-// @flow
-
-export const episodes: Array<string> = [
+export const episodes/* FIXME : Array<string> */ = [
   `
   -Ms1an9I-Ok 45:03 The Canterbury Tales General Prologue, complete reading (Middle English)
   lCRi3tB4uSU 2:03:04 The Knight's Tale, from the Canterbury Tales, complete Middle English reading
@@ -60,7 +58,7 @@ export const episodes: Array<string> = [
   `,
 ]
 
-export const videos: string = `
+export const videos/* FIXME : string */ = `
 # The Adventures of Sherlock Holmes
 EQuQF102O6I 0-55:10 The Adventures of Sherlock Holmes - A Scandal in Bohemia
 EQuQF102O6I 55:12-1:53:55 The Adventures of Sherlock Holmes - The Red-Headed League
