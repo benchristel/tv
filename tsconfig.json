@@ -1,0 +1,14 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "noEmit": true,
+    "target": "es2017",
+    "module": "nodenext",
+    "jsx": "preserve",
+    "jsxImportSource": "react",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}

@@ -1,4 +1,4 @@
-export const episodes/* FIXME : Array<string> */ = [
+export const episodes = [
   `# Elif'in Hecesi
 
     SUoqi6C8qkw 7:40 Perija and Friends - Kuzum Belo Edije ( a balkan gathering )
@@ -254,7 +254,7 @@ export const episodes/* FIXME : Array<string> */ = [
   `,
 ]
 
-export const videos/* FIXME : string */ = `
+export const videos = `
 
 # LOTR extras
 
