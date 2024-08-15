@@ -1,12 +1,12 @@
 import * as React from "react"
+import { Channel } from "./Channel"
 
-// FIXME
-// type Props = {|
-//   channels: Array<Channel>,
-//   onChannelSelected: (Channel) => mixed,
-// |}
+type Props = {
+  channels: Array<Channel>,
+  onChannelSelected: (Channel) => unknown,
+}
 
-export function ChannelSwitcher(props/* FIXME : Props */)/* FIXME : React.Node */ {
+export function ChannelSwitcher(props: Props): React.ReactElement {
   return (
     <>
       {props.channels.map((ch) => (
