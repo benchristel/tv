@@ -11,7 +11,7 @@ import { reconcile } from "./reconcile.js"
 import { useYouTubePlayer } from "./useYouTubePlayer"
 import { VideoInfo } from "./VideoInfo.jsx"
 import { debuggingDecorator } from "./youtube/player.js"
-import { PlayerCommander } from "./PlayerCommander.jsx"
+import { PlayerCommander } from "./PlayerCommander"
 import { status } from "./PlayerStatus.js"
 import { ShuffledChannel } from "./ShuffledChannel";
 import { SegmentBoundaryTestChannel } from "./SegmentBoundaryTestChannel";

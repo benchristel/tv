@@ -1,23 +1,23 @@
 import * as React from "react"
 import {test, expect, is} from "@benchristel/taste"
 import {SECONDS_BETWEEN_VIDEOS} from "./playback"
+import { Player } from "./youtube/player";
 
-// FIXME
-// type Props = {|
-//   player: Player,
-//   commands: Array<Command>,
-//   volume: number,
-//   now: number,
-// |}
+type Props = {
+  player: Player,
+  commands: Array<Command>,
+  volume: number,
+  now: number,
+}
 
-// export type Command =
-//   | {| type: "play" |}
-//   | {| type: "cue", videoId: string, timestamp: number |}
-//   | {| type: "seek", timestamp: number |}
+export type Command =
+  | { type: "play" }
+  | { type: "cue", videoId: string, timestamp: number }
+  | { type: "seek", timestamp: number }
 
-export class PlayerCommander extends React.Component/* FIXME <Props> */ {
-  lastSeek/* FIXME : number */ = -Infinity;
-  lastVideoId/* FIXME : string */ = "";
+export class PlayerCommander extends React.Component<Props> {
+  lastSeek: number = -Infinity;
+  lastVideoId: string = "";
 
   componentDidUpdate() {
     const { player, volume, commands, now } = this.props
@@ -46,12 +46,12 @@ export class PlayerCommander extends React.Component/* FIXME <Props> */ {
           break
         }
         default:
-          console.error("unexpected video command type", (cmd.type/* FIXME : empty */), cmd)
+          console.error("unexpected video command type", cmd satisfies never)
       }
     })
   }
 
-  render()/* FIXME : React.Node */ {
+  render() {
     return null
   }
 
@@ -59,13 +59,13 @@ export class PlayerCommander extends React.Component/* FIXME <Props> */ {
     this.lastSeek = -Infinity
   }
 
-  seekCooldownElapsed(nowMillis/* FIXME : number */)/* FIXME : boolean */ {
+  seekCooldownElapsed(nowMillis: number): boolean {
     const millisSinceLastSeek = nowMillis - this.lastSeek;
     return millisSinceLastSeek > SECONDS_BETWEEN_VIDEOS * 1000
   }
 }
 
-function fromPerceivedVolume(perceivedVolume) {
+function fromPerceivedVolume(perceivedVolume: number): number {
   return square(perceivedVolume / 100) * 100
 }
 
