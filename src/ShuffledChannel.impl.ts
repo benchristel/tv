@@ -4,18 +4,18 @@ import { cyrb128 } from "./lib/hash"
 import { randomIntInRange, sfc32 } from "./lib/random";
 import { binarySearch } from "./lib/binarySearch"
 
-// FIXME
-// import type { Channel } from "./Channel"
-// import type { Episode, Video } from "./video";
+import type { Channel } from "./Channel"
+import type { Episode, Video } from "./video";
 import { duration, videoDuration } from "./video";
 import { SECONDS_BETWEEN_VIDEOS } from "./playback"
+import { Broadcast } from "./Broadcast";
 
 export const TIMEZONE_OFFSET = 8 * 3600
 const SCHEDULE_GENERATION_PERIOD = 24 * 3600
 
-export function ShuffledChannel(name/* FIXME : string */, episodes/* : Array<Episode> */)/* : Channel */ {
+export function ShuffledChannel(name: string, episodes: Array<Episode>): Channel {
   const getSchedule = cache(1, ScheduleGenerator(episodes))
-  let totalDurationCache = null
+  let totalDurationCache: number | null = null
 
   return {
     getBroadcast,
@@ -25,7 +25,7 @@ export function ShuffledChannel(name/* FIXME : string */, episodes/* : Array<Epi
     },
   }
 
-  function getBroadcast(time) {
+  function getBroadcast(time: number): Broadcast {
     const seconds = time / 1000
     const secondsOfDay =
       (seconds - TIMEZONE_OFFSET) % SCHEDULE_GENERATION_PERIOD
@@ -49,7 +49,7 @@ export function ShuffledChannel(name/* FIXME : string */, episodes/* : Array<Epi
     }
   }
 
-  function getTotalDuration() {
+  function getTotalDuration(): number {
     if (totalDurationCache == null) {
       totalDurationCache = episodes
         .flatMap(videos)
@@ -60,34 +60,32 @@ export function ShuffledChannel(name/* FIXME : string */, episodes/* : Array<Epi
   }
 }
 
-// FIXME
-// type Schedule = Array<
-//   | {|
-//       type: "video",
-//       videoId: string,
-//       videoTitle: string,
-//       startSecondOfDay: number,
-//       startSecondOfVideo: number,
-//     |}
-//   | {|
-//       type: "nothing",
-//       startSecondOfDay: number,
-//       nextVideoId: string,
-//       nextVideoStartSecondOfVideo: number
-//     |}
-// >
+type Schedule = Array<
+  | {
+      type: "video",
+      videoId: string,
+      videoTitle: string,
+      startSecondOfDay: number,
+      startSecondOfVideo: number,
+    }
+  | {
+      type: "nothing",
+      startSecondOfDay: number,
+      nextVideoId: string,
+      nextVideoStartSecondOfVideo: number
+    }
+>
 
-// FIXME
-// type ScheduleGeneratorFn = (Array<Episode>) => (string) => Schedule
+type ScheduleGeneratorFn = (episodes: Array<Episode>) => (seed: string) => Schedule
 
-export const ScheduleGenerator/* FIXME : ScheduleGeneratorFn */ = (episodes/* : Array<Episode> */) => (seed/* : string */) => {
+export const ScheduleGenerator: ScheduleGeneratorFn = (episodes: Array<Episode>) => (seed: string) => {
   if (isEmpty(episodes)) {
     return []
   }
   episodes = [...episodes]
   const rng = sfc32(...cyrb128(seed))
   let totalDuration = 0
-  let schedule/* FIXME : Schedule */ = []
+  let schedule: Schedule = []
   let i = 0
   while (totalDuration < SCHEDULE_GENERATION_PERIOD) {
     if (i === episodes.length) i = 0
@@ -121,16 +119,16 @@ export const ScheduleGenerator/* FIXME : ScheduleGeneratorFn */ = (episodes/* : 
   return schedule
 }
 
-function swap(array, i, k) {
+function swap<T>(array: T[], i: number, k: number): void {
   const tmp = array[i]
   array[i] = array[k]
   array[k] = tmp
 }
 
-function add(a, b) {
+function add(a: number, b: number): number {
   return a + b
 }
 
-function videos(episode/* FIXME : Episode */)/* : Array<Video> */ {
+function videos(episode: Episode): Array<Video> {
   return episode.videos
 }

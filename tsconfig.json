@@ -2,7 +2,7 @@
   "include": ["src"],
   "compilerOptions": {
     "noEmit": true,
-    "target": "es2017",
+    "target": "es2019",
     "module": "nodenext",
     "jsx": "preserve",
     "jsxImportSource": "react",
