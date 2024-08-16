@@ -1,13 +1,13 @@
 import { expect, is, test } from "@benchristel/taste"
 
-export function debugTimestamp()/* FIXME : string */ {
+export function debugTimestamp(): string {
   return ((+new Date() % 1000000) / 1000).toFixed(3)
 }
 
 export function hoursMinutesSeconds(
-  seconds/* FIXME : number */,
-  decimals/* FIXME : number */ = 0
-)/* FIXME : string */ {
+  seconds: number,
+  decimals: number = 0
+): string {
   if (isNaN(seconds) || seconds === Infinity || seconds === -Infinity) {
     return "--:--"
   }
@@ -19,8 +19,8 @@ export function hoursMinutesSeconds(
   }
 }
 
-function formatPositiveHoursMinutesSeconds(seconds, decimals) {
-  function pad(n, format = toString) {
+function formatPositiveHoursMinutesSeconds(seconds: number, decimals: number) {
+  function pad(n: number, format: (n: number) => string = toString) {
     const formatted = format(n)
     const isSingleDigit = formatted.split(/[^\d]/)[0].length === 1
     return (isSingleDigit ? "0" : "") + formatted
@@ -40,7 +40,7 @@ function formatPositiveHoursMinutesSeconds(seconds, decimals) {
     : `${m}:${pad(s, toFixed(decimals))}`
 }
 
-export function durationAsWords(seconds/* FIXME : number */)/* FIXME : string */ {
+export function durationAsWords(seconds: number): string {
   const [unit, magnitude] = (() => {
     switch (true) {
       case seconds > 86400: return ["days", seconds / 86400]
@@ -167,5 +167,5 @@ test("durationAsWords", {
   },
 })
 
-const toString = (x) => String(x)
-const toFixed = (decimals) => (n) => n.toFixed(decimals)
+const toString = (x: unknown) => String(x)
+const toFixed = (decimals: number) => (n: number) => n.toFixed(decimals)
