@@ -1,0 +1,1 @@
+export const SECONDS_BETWEEN_VIDEOS: number = 2

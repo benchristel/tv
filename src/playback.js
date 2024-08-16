@@ -1,1 +1,0 @@
-export const SECONDS_BETWEEN_VIDEOS = 2
