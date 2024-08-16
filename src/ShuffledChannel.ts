@@ -4,11 +4,9 @@ import { ShuffledChannel, ScheduleGenerator, TIMEZONE_OFFSET } from "./ShuffledC
 import { range, entireVideo } from "./data/parser";
 import { test, expect, is, equals, which } from "@benchristel/taste"
 import { episode } from "./video";
-// FIXME
-// import type { Segment, Video, Episode } from "./video/types"
-// import type { Channel } from "./Channel"
+import type { Segment, Video, Episode } from "./video"
 
-function video(...segments/* FIXME : Array<Segment> */)/* : Video */ {
+function video(...segments: Array<Segment>): Video {
   return {
     videoId: "",
     title: "",
@@ -20,7 +18,7 @@ function isAnything() {
   return true
 }
 
-const noEpisodes/* FIXME : Array<Episode> */ = []
+const noEpisodes: Array<Episode> = []
 
 test("a Channel", {
   "broadcasts nothing given no episodes"() {
@@ -57,7 +55,7 @@ test("a Channel", {
   },
 
   "sums the durations of its videos"() {
-    const episodes/* FIXME : Array<Episode> */ = [
+    const episodes: Array<Episode> = [
       episode([
         video({start: 0, end: 1}),
         video({start: 0, end: 2}),
@@ -185,7 +183,7 @@ test("ScheduleGenerator", {
 
     expect(
       generator("asdfx")
-        .map((v) => v.videoId)
+        .map((v) => v.type === "video" && v.videoId)
         .filter(Boolean),
       equals,
       [
