@@ -1,4 +1,4 @@
-export const episodes/* FIXME : Array<string> */ = [
+export const episodes: Array<string> = [
   `
     # Windham Hill - Celtic Christmas II
     7jOsFtZghxM 3:47 Chanonry Point
@@ -219,7 +219,7 @@ export const episodes/* FIXME : Array<string> */ = [
   `,
 ]
 
-export const videos/* FIXME : string */ = `
+export const videos: string = `
 
 A8eWaR8ONvw 2:05 Nat King Cole - "The Christmas Song"
 
