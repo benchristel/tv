@@ -1,16 +1,13 @@
-// FIXME
-// import type { Player, PlayerStateCode } from "./youtube/player"
 import { State as PlayerState } from "./youtube/player"
-import { videoIdFromUrl } from "./youtube/videoId"
-// import type { Broadcast } from "./Broadcast"
+import type { Broadcast } from "./Broadcast"
 import { SECONDS_BETWEEN_VIDEOS } from "./playback"
-// import type { Command } from "./PlayerCommander.jsx"
-// import type { PlayerStatus } from "./PlayerStatus"
+import type { Command } from "./PlayerCommander.jsx"
+import type { PlayerStatus } from "./PlayerStatus"
 
 export function reconcile(
-  broadcast/* : Broadcast */,
-  player/* : PlayerStatus */
-)/* : Array<Command> */ {
+  broadcast: Broadcast,
+  player: PlayerStatus,
+): Array<Command> {
   const {
     state: currentState,
     videoId: currentVideoId,
@@ -68,7 +65,7 @@ export function reconcile(
       // Only attempt to play/seek if the correct video is loaded.
       // Otherwise, the player may end up replaying the first few frames
       // of the video that just ended before switching to the next one.
-      const cmds = []
+      const cmds: Command[] = []
       switch (currentState) {
         case PlayerState.PAUSED:
         case PlayerState.CUED:
