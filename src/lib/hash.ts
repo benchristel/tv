@@ -1,11 +1,12 @@
 import { expect, equals, test } from "@benchristel/taste"
 
-export function cyrb128(str/* FIXME : string */)/* FIXME : [number, number, number, number] */ {
+export function cyrb128(str: string): [number, number, number, number] {
   let h1 = 1779033703,
     h2 = 3144134277,
     h3 = 1013904242,
     h4 = 2773480762
-  for (let i = 0, k; i < str.length; i++) {
+  let k = 0
+  for (let i = 0; i < str.length; i++) {
     k = str.charCodeAt(i)
     h1 = h2 ^ Math.imul(h1 ^ k, 597399067)
     h2 = h3 ^ Math.imul(h2 ^ k, 2869860233)
