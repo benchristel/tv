@@ -25,8 +25,10 @@ type TableColumn = {
   currentTime: string,
 }
 
-function viewModel({ broadcast, player }): VideoInfoViewModel {
-  const hms = (seconds) => hoursMinutesSeconds(seconds, 2)
+function viewModel(
+  { broadcast, player }: {broadcast: Broadcast, player: PlayerStatus},
+): VideoInfoViewModel {
+  const hms = (seconds: number) => hoursMinutesSeconds(seconds, 2)
 
   return {
     videoLink:

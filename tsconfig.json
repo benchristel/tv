@@ -9,7 +9,6 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "noImplicitAny": false, // FIXME remove this
     "skipLibCheck": true
   }
 }

@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@benchristel/taste@^0.3.1":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@benchristel/taste/-/taste-0.3.1.tgz#9586f0c40549c149f8e35b5853c3eb1b171799b9"
-  integrity sha512-y0nUZhPJH/wcya/jaWOJuh+XVZ2xGwW96NYFV3z1gIJ2UIZRO5wA8/1O896NEXaDrQ70/h1/ycRSpvRlD/tb+g==
+"@benchristel/taste@^0.6.0":
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/@benchristel/taste/-/taste-0.6.0.tgz#c49819b72c1aa12251b93f239b1faf20f01a0303"
+  integrity sha512-+PNsgwYRKgZQLCUGFCGLRbPTIpJYsyhMr5935ZjEdWlAjm6N0aj0jd80uGqNSgLJOhlmGCQhrZyzhPfXHJTBwg==
 
 "@esbuild/aix-ppc64@0.21.5":
   version "0.21.5"

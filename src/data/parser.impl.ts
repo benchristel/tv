@@ -49,7 +49,7 @@ export function range(start: number, end: number): Segment {
   return {start, end}
 }
 
-function isComment(line) {
+function isComment(line: string): boolean {
   return line.startsWith("#")
 }
 
@@ -107,6 +107,6 @@ function zip<T, U>(a: T[], b: U[]): [T, U][] {
   return ret
 }
 
-function add(a, b) {
+function add(a: number, b: number): number {
   return a + b
 }

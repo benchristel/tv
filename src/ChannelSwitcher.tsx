@@ -3,7 +3,7 @@ import { Channel } from "./Channel"
 
 type Props = {
   channels: Array<Channel>,
-  onChannelSelected: (Channel) => unknown,
+  onChannelSelected: (selected: Channel) => unknown,
 }
 
 export function ChannelSwitcher(props: Props): React.ReactElement {

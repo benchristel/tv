@@ -83,6 +83,6 @@ test("fromPerceivedVolume", {
   },
 })
 
-function square(x) {
+function square(x: number): number {
   return x * x
 }

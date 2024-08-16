@@ -4,7 +4,7 @@ export function cache<T>(
   maxSize: number,
   expensiveFallback: (arg: string) => T
 ): (arg: string) => T {
-  let values = {}
+  let values: Record<string, T> = {}
   return (key) => {
     if (!(key in values)) {
       if (Object.keys(values).length === maxSize) {

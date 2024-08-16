@@ -82,6 +82,6 @@ export function reconcile(
   }
 }
 
-function delta(a/* : number */, b/* : number */) {
+function delta(a: number, b: number): number {
   return Math.abs(a - b)
 }
