@@ -137,15 +137,15 @@ test("parseDuration", {
 
 test("split", {
   "empty string"() {
-    expect(split(" ")(""), equals, [""])
+    expect(split(" ", ""), equals, [""])
   },
   "no limit"() {
-    expect(split(" ")("a b c"), equals, ["a", "b", "c"])
+    expect(split(" ", "a b c"), equals, ["a", "b", "c"])
   },
   limit() {
-    expect(split(" ", 2)("a b c"), equals, ["a", "b c"])
+    expect(split(" ", "a b c", 2), equals, ["a", "b c"])
   },
   regex() {
-    expect(split(/ +/)("a b   c"), equals, ["a", "b", "c"])
+    expect(split(/ +/, "a b   c"), equals, ["a", "b", "c"])
   },
 })
