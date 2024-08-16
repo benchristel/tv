@@ -8,12 +8,12 @@ import {
 import "./TestResults.css"
 
 export function TestResults() {
-  const [message, setMessage] = useState/* FIXME <string> */("")
+  const [message, setMessage] = useState<string>("")
   useEffect(() => {
     runTests(getAllTests())
       .then(formatTestResultsAsText)
       .then(setMessage)
-      .catch((e/* FIXME : Error */) => setMessage(e.message))
+      .catch((e: Error) => setMessage(e.message))
   }, [])
 
   return /fail/i.test(message) ? (
