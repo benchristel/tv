@@ -1,7 +1,7 @@
 import { errorThrownFrom } from "./testing"
 import { equals, expect, test, is } from "@benchristel/taste"
 
-export function pick/* FIXME <T> */(array/* FIXME : Array<T> */, fraction/* : number */)/*: T*/ {
+export function pick<T>(array: T[], fraction: number): T {
   if (array.length === 0) {
     throw new Error("can't pick element from an empty array")
   }
@@ -53,6 +53,6 @@ test("pick", {
   },
 })
 
-export function isEmpty(s/* FIXME : string | $ReadOnlyArray<mixed> */)/* : boolean */ {
+export function isEmpty(s: string | unknown[]): boolean {
   return s.length === 0
 }
