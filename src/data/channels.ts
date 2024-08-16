@@ -6,6 +6,7 @@ import * as christmas from "./channelChristmas"
 import * as channelDebug from "./channelDebug";
 import type { Episode } from "../video";
 import { allEpisodes } from "./parser";
+import { ChannelModule } from "./types"
 
 declare global {
   interface Window {
@@ -15,7 +16,7 @@ declare global {
 
 const debug = window.ENVIRONMENT === "development"
 
-const channelData: Array<[string, BroadcastAlgorithm, {videos: string, episodes: string[]}] | null> = [
+const channelData: Array<[string, BroadcastAlgorithm, ChannelModule] | null> = [
   ["Channel 1", "shuffle", channel1],
   ["Channel 2", "shuffle", channel2],
   ["Channel 3", "shuffle", channel3],
