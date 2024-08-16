@@ -1,8 +1,8 @@
 import { useEffect, useRef } from "react"
 
-export function useInterval(cb/* FIXME : () => mixed*/, ms/*: number */) {
-  const intervalRef = useRef()
-  const callbackRef = useRef()
+export function useInterval(cb: () => unknown, ms: number) {
+  const intervalRef = useRef<number>()
+  const callbackRef = useRef<() => unknown>()
   callbackRef.current = cb
   useEffect(() => {
     intervalRef.current = setInterval(() => callbackRef.current?.(), ms)
