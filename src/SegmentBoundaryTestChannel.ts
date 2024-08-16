@@ -1,17 +1,14 @@
 import { binarySearch } from "./lib/binarySearch";
 
-// FIXME
-// import type { Channel } from "./Channel";
-// import type { Episode, Segment, Video } from "./video/types";
+import type { Channel } from "./Channel";
+import type { Episode, Segment, Video } from "./video";
 import { SECONDS_BETWEEN_VIDEOS } from "./playback"
 import { test, expect, equals } from "@benchristel/taste"
 import { entireVideo, range } from "./data/parser";
-// FIXME
-// import { episode } from "./video/types";
-// import type { Broadcast } from "./Broadcast";
+import type { Broadcast } from "./Broadcast";
 
-export function SegmentBoundaryTestChannel(name/* FIXME : string */, episodes/* FIXME : Array<Episode> */)/* FIXME : Channel */ {
-  const schedule/* FIXME : Schedule */ = createSchedule(
+export function SegmentBoundaryTestChannel(name: string, episodes: Array<Episode>): Channel {
+  const schedule: Schedule = createSchedule(
     episodes.flatMap((episode) => episode.videos),
   )
   const scheduleDuration = schedule.map((s) => s.duration).reduce(add, 0)
@@ -26,7 +23,7 @@ export function SegmentBoundaryTestChannel(name/* FIXME : string */, episodes/* 
     return name
   }
 
-  function getBroadcast(time/* FIXME : number */)/* : Broadcast */ {
+  function getBroadcast(time: number): Broadcast {
     const seconds = time / 1000
     const secondOfSchedule = seconds % scheduleDuration
     const segment = binarySearch(schedule, (seg) => seg.startSecondOfSchedule <= secondOfSchedule)
@@ -52,29 +49,28 @@ export function SegmentBoundaryTestChannel(name/* FIXME : string */, episodes/* 
   }
 }
 
-// FIXME
-// type Schedule = Array<
-//   | {|
-//       type: "video",
-//       videoId: string,
-//       videoTitle: string,
-//       duration: number,
-//       startSecondOfVideo: number,
-//       startSecondOfSchedule: number,
-//     |}
-//   | {|
-//       type: "nothing",
-//       nextVideoId: string,
-//       nextVideoStartSecondOfVideo: number,
-//       duration: number,
-//       startSecondOfSchedule: number,
-//     |}
-// >
+type Schedule = Array<
+  | {
+      type: "video",
+      videoId: string,
+      videoTitle: string,
+      duration: number,
+      startSecondOfVideo: number,
+      startSecondOfSchedule: number,
+    }
+  | {
+      type: "nothing",
+      nextVideoId: string,
+      nextVideoStartSecondOfVideo: number,
+      duration: number,
+      startSecondOfSchedule: number,
+    }
+>
 
-function createSchedule(videos/* FIXME : Array<Video> */)/* FIXME : Schedule */ {
+function createSchedule(videos: Array<Video>): Schedule {
   const SECONDS_TO_PLAY = 7
   let totalDuration = 0
-  let schedule/* FIXME : Schedule */ = []
+  let schedule: Schedule = []
   
   for (const video of videos) {
     if (video.segments.length === 1) {
@@ -181,33 +177,32 @@ test("createSchedule", {
   },
 })
 
-function lastIndexOf(a/* FIXME : $ReadOnlyArray<mixed> */)/* FIXME : number */ {
+function lastIndexOf(a: Array<unknown>): number {
   return a.length - 1
 }
 
-// FIXME
-// type Slice = {|
-//   start: number,
-//   duration: number,
-// |}
+type Slice = {
+  start: number,
+  duration: number,
+}
 
-function beginningOf(segment/* FIXME : Segment */, seconds/* FIXME : number */)/* FIXME : Slice */ {
+function beginningOf(segment: Segment, seconds: number): Slice {
   return {
     start: segment.start,
     duration: seconds,
   }
 }
 
-function endOf(segment/* FIXME : Segment */, seconds/* FIXME : number */)/* FIXME : Slice */ {
+function endOf(segment: Segment, seconds: number): Slice {
   return {
     start: segment.end - seconds,
     duration: seconds,
   }
 }
 
-const add = (a, b) => a + b
+const add = (a: number, b: number): number => a + b
 
-function video(id/* FIXME : string */, ...segments)/* FIXME : Video */ {
+function video(id: string, ...segments: Segment[]): Video {
   return {
     videoId: id,
     title: "",
