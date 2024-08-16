@@ -1,9 +1,9 @@
 import { expect, is, test } from "@benchristel/taste"
 
-export function cache/* FIXME <T> */(
-  maxSize/* FIXME : number */,
-  expensiveFallback/* FIXME : (string) => T */
-)/* FIXME : (string) => T */ {
+export function cache<T>(
+  maxSize: number,
+  expensiveFallback: (arg: string) => T
+): (arg: string) => T {
   let values = {}
   return (key) => {
     if (!(key in values)) {
