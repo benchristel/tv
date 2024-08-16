@@ -1,6 +1,6 @@
 import { expect, is, equals, test } from "@benchristel/taste"
 
-export function sfc32(a/* FIXME : number */, b/* FIXME : number */, c/* : number */, d/* : number */)/* : () => number */ {
+export function sfc32(a: number, b: number, c: number, d: number): () => number {
   function rng() {
     a |= 0; b |= 0; c |= 0; d |= 0
     var t = (a + b | 0) + d | 0
@@ -19,7 +19,7 @@ export function sfc32(a/* FIXME : number */, b/* FIXME : number */, c/* : number
   return rng
 }
 
-export function randomIntInRange(low/* FIXME : number */, high/* : number */, rng/* : () => number */)/* : number */ {
+export function randomIntInRange(low: number, high: number, rng: () => number): number {
   return low + Math.floor(rng() * (high + 1 - low))
 }
 
