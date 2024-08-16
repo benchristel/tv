@@ -1,10 +1,10 @@
 import { expect, is, test } from "@benchristel/taste"
 
 // Returns the last ("rightmost") element of the array for which isLeftOfTarget is true.
-export function binarySearch/* FIXME <T> */(
-  a/* FIXME : Array<T> */,
-  isLeftOfTarget/* FIXME : (T) => boolean */
-)/* FIXME : ?T */ {
+export function binarySearch<T>(
+  a: T[],
+  isLeftOfTarget: (elem: T) => boolean,
+): T | undefined {
   let firstPossible = -1
   let lastPossible = a.length - 1
   while (firstPossible < lastPossible) {
@@ -18,7 +18,7 @@ export function binarySearch/* FIXME <T> */(
   return a[firstPossible]
 }
 
-function mid(left, right) {
+function mid(left: number, right: number) {
   return Math.ceil((left + right) / 2)
 }
 
