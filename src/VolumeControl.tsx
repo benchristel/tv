@@ -1,12 +1,11 @@
 import * as React from "react";
 
-/* type Props = {|
+type Props = {
   volume: number, // 0-100
-  onChange: (number) => mixed,  
-|}
-FIXME
- */
-export function VolumeControl(props/* : Props FIXME */) {
+  onChange: (value: number) => unknown,
+}
+
+export function VolumeControl(props: Props) {
   return <div className="volume">
     <div className="volume-icon" />
     <input
@@ -14,7 +13,7 @@ export function VolumeControl(props/* : Props FIXME */) {
       type="range"
       min="0"
       max="100"
-      onChange={(e) => props.onChange(e.target.value)}
+      onChange={(e) => props.onChange(+e.target.value)}
       value={props.volume}
     />
   </div>;
