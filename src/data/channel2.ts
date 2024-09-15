@@ -19,8 +19,6 @@ export const episodes: Array<string> = [
   izomS5SgaG8 17:35 The House at Pooh Corner - read by Norman Shelley - Chapter 8
   K_h6BhkKE-U 16:18 The House at Pooh Corner - read by Norman Shelley - Chapter 9
   tQhCqByiv-M 16:06 The House at Pooh Corner - read by Norman Shelley - Chapter 10
-  `,
-  `
   sa3SwVCb25c 14:59 Winnie the Pooh - read by Norman Shelley - Chapter 1
   9lLTZt8mFu8 10:09 Winnie the Pooh - read by Norman Shelley - Chapter 2
   OKc2q7DMukk 7:43 Winnie the Pooh - read by Norman Shelley - Chapter 3
@@ -78,6 +76,12 @@ vzFCXmbdmNk 5:00:37-5:52:35 The Return of Sherlock Holmes - The Adventure of Bla
 vzFCXmbdmNk 6:36:35-7:29:00 The Return of Sherlock Holmes - The Adventure of The Six Napoleons
 vzFCXmbdmNk 9:56:02-10:50:25 The Return of Sherlock Holmes - The Adventure of The Abbey Grange
 vzFCXmbdmNk 10:50:27-11:51:18 The Return of Sherlock Holmes - The Adventure of The Second Stain
+
+# His Last Bow - Sherlock Holmes
+aV3MnZW-rbA 2:05:15-2:53:53 His Last Bow - The Adventure of the Red Circle
+aV3MnZW-rbA 2:53:54-4:02:15 His Last Bow - The Adventure of the Bruce-Partington Plans
+aV3MnZW-rbA 4:40:40-5:29:04 His Last Bow - The Disappearance of Lady Frances Carfax
+aV3MnZW-rbA 5:29:54-6:30:50 His Last Bow - The Adventure of the Devil's Foot
 
 # Radio Plays
 eUD6jVUxRVs 27:02 Sherlock Holmes - The Three Garridebs with Carleton Hobbs and Norman Shelley
