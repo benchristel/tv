@@ -1,6 +1,7 @@
 {
   "name": "react-flow-snowpack-taste",
   "version": "1.0.0",
+  "type": "module",
   "author": "Ben Christel <bchristel@pivotal.io>",
   "license": "MIT",
   "dependencies": {
