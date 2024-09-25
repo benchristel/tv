@@ -1633,12 +1633,12 @@ haH0bihkzwk 27:04 Evolution of a Northern and Southern English Accent, 1586 - 20
 zl7nYepuCoI 13:52 Why do Some People Pronounce 'Off' as 'Awf'? | The LOT-CLOTH and TRAP-BATH Splits
 hkRxn7tUNIc 53:36 Questions and Answers
 idjxjfS5-zA 19:40 What was a 'Northern Accent' Like in Old English?
-4IJqbMLg4D0 2:59:03 'Beowulf' with Dr Jackson Crawford | Prologue, Fits 1 - 3
+# 4IJqbMLg4D0 2:59:03 'Beowulf' with Dr Jackson Crawford | Prologue, Fits 1 - 3
 n3twHHIdgWI 20:31 'And then I was like...'
 _h4-nIupTDU 9:02 How do you Say 'Ich Heiße' in English?
 jucns7hHAkI 17:20 Faces, Past & Present
 tYN_pkmja-w 13:45 Proto-Germanic Farming Terminology
-VKzZ0_XEtdo 1:48:47 Söl'ring North Frisian with Moritz Lauer
+# VKzZ0_XEtdo 1:48:47 Söl'ring North Frisian with Moritz Lauer
 8d766dMjJjo 16:37 Beginner's Guide to Phonology - Part 3
 eN-4fT3YWnM 1:45 Jack of the Dump - The Day That Laughter Died | Trailer 2023
 1Ntcj97LNyI 1:15:42 Reflections on First Time in the US (California)
@@ -1690,7 +1690,7 @@ Diay7U-hRec 38:49 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer - P
 RERyg5h1IMc 7:32 Ingressive Speech - A Short Overview
 EgK0jvPJlbk 18:47 Thinking About Human Evolution
 fNNrDdNQEgo 15:36 Old English Syntax - Building a Sentence
-DKzJEIUSWtc 58:45 A Conversation in Old English and Old Norse
+# DKzJEIUSWtc 58:45 A Conversation in Old English and Old Norse
 luibV6sh-pQ 12:26 AAVE, Implicit Bias & Prescriptivism with Blayzen BM
 fzeneXX6MBU 13:55 Old Norse Influence on Northern English
 GyRO93tOVHA 49:55 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer
@@ -2618,7 +2618,7 @@ rNuexnaek-Y 7:28 Àiridh na h-aon oidhche
 Rj1pUb8GgQA 8:03 Iain Trumisgarry - A Conversation
 ivU7CZLbm0s 8:48 Grogarry Lodge
 # KkI-MBBPj2Q 4:59 English Interview: Greenspace Manager Donald MacRitchie
-Wjp_LOeTIpU 7:03 Gaelic Interview: Seallam! Director Chris Lawson - Services
+# Wjp_LOeTIpU 7:03 Gaelic Interview: Seallam! Director Chris Lawson - Services
 Kr2Zn6S6d2E 5:55 Gaelic Documentary: Greenspace Research
 # puHYOzsj6fc 6:57 English Interview: Seallam! Director Chris Lawson - Services
 BjcDY0XBKjU 7:21 Gaelic Documentary: Tobar an Dualchais
@@ -2628,9 +2628,9 @@ w_bD2WRw5dE 6:56 Gaelic Interview: Manager Shona MacDonald
 # mMtM3eg3BsE 4:14 English Interview: Digitiser Catriona Scott
 92ZDzl77Zvo 3:31 Gaelic Interview: Digitiser Catriona Scott
 # kfqkYEpaWOw 4:28 English Documentary: Seallam! Visitor Centre
-utbihJPiANY 4:28 Gaelic Documentary: Seallam! Visitor Centre
+# utbihJPiANY 4:28 Gaelic Documentary: Seallam! Visitor Centre
 # 9D625F1rr8g 5:35 English Interview: Seallam! Director Chris Lawson - Plans
-5sIYPeYZEKQ 4:16 Gaelic Interview: Seallam! Director Chris Lawson - Plans
+# 5sIYPeYZEKQ 4:16 Gaelic Interview: Seallam! Director Chris Lawson - Plans
 # mdVwD2LtWRQ 4:38 English Interview: Local Artist Margarita Williams
 SXxgPwXFAt8 4:03 Gaelic Interview: Local Artist Margarita Williams
 # aPRZdXED3RI 5:55 English Documentary: Greenspace Research
@@ -3520,7 +3520,7 @@ fFK6nzwbRf8 13:56 Incredible Stone Age House: Primitive Technology 3,800BC
 D8ba5tt6Sqo 1:00:14 Viking House: Full Bushcraft Shelter Build with Hand Tools | Vikings
 
 # urbanology
-YEsJnMc43pE 7:36 Analogous Unfolding
+# YEsJnMc43pE 7:36 Analogous Unfolding
 m1IZqlnEbmg 7:11 Unfolding Sequences - an introduction
 ZDUlG6E3Lpw 11:53 The Beautiful Software Thesis: feeling as the core of good engineering
 oTflOKPpCy8 9:30 Adaptation - with Christopher Alexander - part one: Adapting to the Environment or "Flint & Brick"
