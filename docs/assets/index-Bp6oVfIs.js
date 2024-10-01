@@ -982,7 +982,7 @@ JLbej0adpKs 14:51 Fried Chicken Face-Off: 1911 vs 2021
 Mbaz5P7kHfg 17:51 Toad in the Hole & the Cows of Scotland
 hZFfs3sJamI 19:43 Adobo: Filipino or Spanish?
 uNwXMvp9sCE 16:46 Ancient Greek Olives - Gifts from A Goddess
-h6XvMKdD2tY 19:05 500 Year-Old Pizza VS Today
+h6XvMKdD2tY 0-3:54,5:13-19:05 500 Year-Old Pizza VS Today
 37O-by0BthQ 14:38 Korean Flower Pancakes - 17th Century Eumsikdimibang
 zk0FUS3Oq8s 17:45 An English Manor for a Bowl of Stew?
 giPXpKy2lQ0 18:52 Baking An Ancient Roman Cheesecake
@@ -1646,12 +1646,12 @@ haH0bihkzwk 27:04 Evolution of a Northern and Southern English Accent, 1586 - 20
 zl7nYepuCoI 13:52 Why do Some People Pronounce 'Off' as 'Awf'? | The LOT-CLOTH and TRAP-BATH Splits
 hkRxn7tUNIc 53:36 Questions and Answers
 idjxjfS5-zA 19:40 What was a 'Northern Accent' Like in Old English?
-4IJqbMLg4D0 2:59:03 'Beowulf' with Dr Jackson Crawford | Prologue, Fits 1 - 3
+# 4IJqbMLg4D0 2:59:03 'Beowulf' with Dr Jackson Crawford | Prologue, Fits 1 - 3
 n3twHHIdgWI 20:31 'And then I was like...'
 _h4-nIupTDU 9:02 How do you Say 'Ich Heiße' in English?
 jucns7hHAkI 17:20 Faces, Past & Present
 tYN_pkmja-w 13:45 Proto-Germanic Farming Terminology
-VKzZ0_XEtdo 1:48:47 Söl'ring North Frisian with Moritz Lauer
+# VKzZ0_XEtdo 1:48:47 Söl'ring North Frisian with Moritz Lauer
 8d766dMjJjo 16:37 Beginner's Guide to Phonology - Part 3
 eN-4fT3YWnM 1:45 Jack of the Dump - The Day That Laughter Died | Trailer 2023
 1Ntcj97LNyI 1:15:42 Reflections on First Time in the US (California)
@@ -1703,7 +1703,7 @@ Diay7U-hRec 38:49 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer - P
 RERyg5h1IMc 7:32 Ingressive Speech - A Short Overview
 EgK0jvPJlbk 18:47 Thinking About Human Evolution
 fNNrDdNQEgo 15:36 Old English Syntax - Building a Sentence
-DKzJEIUSWtc 58:45 A Conversation in Old English and Old Norse
+# DKzJEIUSWtc 58:45 A Conversation in Old English and Old Norse
 luibV6sh-pQ 12:26 AAVE, Implicit Bias & Prescriptivism with Blayzen BM
 fzeneXX6MBU 13:55 Old Norse Influence on Northern English
 GyRO93tOVHA 49:55 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer
@@ -2631,7 +2631,7 @@ rNuexnaek-Y 7:28 Àiridh na h-aon oidhche
 Rj1pUb8GgQA 8:03 Iain Trumisgarry - A Conversation
 ivU7CZLbm0s 8:48 Grogarry Lodge
 # KkI-MBBPj2Q 4:59 English Interview: Greenspace Manager Donald MacRitchie
-Wjp_LOeTIpU 7:03 Gaelic Interview: Seallam! Director Chris Lawson - Services
+# Wjp_LOeTIpU 7:03 Gaelic Interview: Seallam! Director Chris Lawson - Services
 Kr2Zn6S6d2E 5:55 Gaelic Documentary: Greenspace Research
 # puHYOzsj6fc 6:57 English Interview: Seallam! Director Chris Lawson - Services
 BjcDY0XBKjU 7:21 Gaelic Documentary: Tobar an Dualchais
@@ -2641,9 +2641,9 @@ w_bD2WRw5dE 6:56 Gaelic Interview: Manager Shona MacDonald
 # mMtM3eg3BsE 4:14 English Interview: Digitiser Catriona Scott
 92ZDzl77Zvo 3:31 Gaelic Interview: Digitiser Catriona Scott
 # kfqkYEpaWOw 4:28 English Documentary: Seallam! Visitor Centre
-utbihJPiANY 4:28 Gaelic Documentary: Seallam! Visitor Centre
+# utbihJPiANY 4:28 Gaelic Documentary: Seallam! Visitor Centre
 # 9D625F1rr8g 5:35 English Interview: Seallam! Director Chris Lawson - Plans
-5sIYPeYZEKQ 4:16 Gaelic Interview: Seallam! Director Chris Lawson - Plans
+# 5sIYPeYZEKQ 4:16 Gaelic Interview: Seallam! Director Chris Lawson - Plans
 # mdVwD2LtWRQ 4:38 English Interview: Local Artist Margarita Williams
 SXxgPwXFAt8 4:03 Gaelic Interview: Local Artist Margarita Williams
 # aPRZdXED3RI 5:55 English Documentary: Greenspace Research
@@ -3440,7 +3440,7 @@ yI3_-SpgR-s 9:18 Johann Sebastian Bach | Mass in B minor - Kyrie eleison
 WsD8CHcZMJY 4:12 Johann Sebastian Bach | Mass in B minor BWV 232 - Et in unum Dominum
 myAnPsTihX0 8:18 Johann Sebastian Bach | Mass in B minor BWV 232 - Agnus dei, Dona nobis pacem
 IoEN4bkTf8E 6:42 Ensemble Conductus | Mazurka d'Doro
-rz3wiov1Fw8 7:29 Ensemble Conductus | Quattro versi in purgatorio
+# rz3wiov1Fw8 7:29 Ensemble Conductus | Quattro versi in purgatorio
 SgAkFkiExeM 9:12 Ensemble Conductus | Viola del pensiero - Anna Serova
 zYccvhhTmNw 10:29 Kit Armstrong | J. S. Bach - Prelude and Fugue BWV 894
 gGEZWPn2vTQ 10:36 Kit Armstrong | W. A. Mozart - Fantasia and Fugue KV 394
@@ -3533,7 +3533,7 @@ fFK6nzwbRf8 13:56 Incredible Stone Age House: Primitive Technology 3,800BC
 D8ba5tt6Sqo 1:00:14 Viking House: Full Bushcraft Shelter Build with Hand Tools | Vikings
 
 # urbanology
-YEsJnMc43pE 7:36 Analogous Unfolding
+# YEsJnMc43pE 7:36 Analogous Unfolding
 m1IZqlnEbmg 7:11 Unfolding Sequences - an introduction
 ZDUlG6E3Lpw 11:53 The Beautiful Software Thesis: feeling as the core of good engineering
 oTflOKPpCy8 9:30 Adaptation - with Christopher Alexander - part one: Adapting to the Environment or "Flint & Brick"
@@ -4488,7 +4488,6 @@ c8gylOvjVoM 31:59 Moondragon - Moondragon (their first album)
 dfkTPeaVU50 1:09:01 Lordryk (Moondragon) - Combined Chaos (Live)
 bnaTLcFpQnE 45:45 Manu Chao - Clandestino (Full Album)
 08ozElWwpzc 35:28 Nektar - Remember The Future 1973 - Full Album - Digitally Remastered 2002
-npsgOn1QY1M 41:53 Pink Floyd - Dark side of the moon - HD - High Audio Quality (Full Vinyl Album)
 _zmeye7-HOE 48:54 Evanescence - Fallen (FULL ALBUM)
 p0D-w-HhB64 47:46 Dire Straits - Brothers In Arms {Reissue} [Full Album]
 Jl1_m1OtkpE 1:01:28 Brian Eno - New Space Music
@@ -4702,34 +4701,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     HuST5YYgICo 4:02 Grey Goose and Gander
     ArWncy2D4Mk 2:41 The Shepherd's Daughter
     Vwi9RiT1H2k 2:35 King Henry
-  `,`
-    # Baltimore Consort - La Rocque and Roll
-    0Tly_wgC858 2:05 J'ai vu le loup
-    KNFgW6GLo1o 2:21 Has tu point veu
-    dtf_YWfYixM 0:50 Branle double
-    8nslzpv9Z14 0:55 Branle de Montirande
-    ueAwkZncUec 1:31 Branle de la torche
-    5F-YGQiyudI 3:40 Mignonne, allons voir si la rose
-    GPlyhDy2dng 4:06 Frais et gaillard
-    EBC9ldiS2oM 3:24 Une m'avoit promis
-    raQ_x-HTGKU 2:02 Volte
-    fFQx3FsnQUw 5:37 Mes pas semez
-    D15w88oaHd8 0:36 Gaillarde d'escosse
-    wj4Tjcd_LC4 1:17 Laroque Gaillarde
-    I_T8q6SQHPo 1:28 Alemande de Liege
-    f1rqBTVgflU 2:33 Ma bergere, ma lumiere
-    JUg1PlpLofI 4:44 Estans assis aux rives aquatiques
-    qrb6taaO2Ao 1:02 Prelude
-    UU20OsnHbOY 2:27 Tant que vivray
-    b-2_D_e0BTg 3:04 Ung gay bergere
-    OJsz1rh74KM 4:04 O Madame, per-je mon tems
-    vN2WSIo769o 4:16 J'ay le rebours
-    HQZ-mEHw86M 3:56 Branles du village
-    PmaF46f5O_c 4:32 Une jeune fillette
-    LeGJ3C3rzpE 5:48 Une jeune fillette
-    UZqz379ldDE 1:07 Fantasie sur Une jeune fillette: Une jeune fillette
-    w432eO-7G0U 4:46 Une nimphe jolie
-    wRMw1g9CdOM 5:48 Jean de Nivelle
   `,`
     # Calliope - A Renaissance Revel
     j0YJZDPjrdg 1:33 Early 17th Century Dances from Terpsichore: Galliarde (1)
