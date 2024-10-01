@@ -11,7 +11,6 @@ c8gylOvjVoM 31:59 Moondragon - Moondragon (their first album)
 dfkTPeaVU50 1:09:01 Lordryk (Moondragon) - Combined Chaos (Live)
 bnaTLcFpQnE 45:45 Manu Chao - Clandestino (Full Album)
 08ozElWwpzc 35:28 Nektar - Remember The Future 1973 - Full Album - Digitally Remastered 2002
-npsgOn1QY1M 41:53 Pink Floyd - Dark side of the moon - HD - High Audio Quality (Full Vinyl Album)
 _zmeye7-HOE 48:54 Evanescence - Fallen (FULL ALBUM)
 p0D-w-HhB64 47:46 Dire Straits - Brothers In Arms {Reissue} [Full Album]
 Jl1_m1OtkpE 1:01:28 Brian Eno - New Space Music
@@ -242,35 +241,35 @@ export const episodes: Array<string> = [
     ArWncy2D4Mk 2:41 The Shepherd's Daughter
     Vwi9RiT1H2k 2:35 King Henry
   `,
-  `
-    # Baltimore Consort - La Rocque and Roll
-    0Tly_wgC858 2:05 J'ai vu le loup
-    KNFgW6GLo1o 2:21 Has tu point veu
-    dtf_YWfYixM 0:50 Branle double
-    8nslzpv9Z14 0:55 Branle de Montirande
-    ueAwkZncUec 1:31 Branle de la torche
-    5F-YGQiyudI 3:40 Mignonne, allons voir si la rose
-    GPlyhDy2dng 4:06 Frais et gaillard
-    EBC9ldiS2oM 3:24 Une m'avoit promis
-    raQ_x-HTGKU 2:02 Volte
-    fFQx3FsnQUw 5:37 Mes pas semez
-    D15w88oaHd8 0:36 Gaillarde d'escosse
-    wj4Tjcd_LC4 1:17 Laroque Gaillarde
-    I_T8q6SQHPo 1:28 Alemande de Liege
-    f1rqBTVgflU 2:33 Ma bergere, ma lumiere
-    JUg1PlpLofI 4:44 Estans assis aux rives aquatiques
-    qrb6taaO2Ao 1:02 Prelude
-    UU20OsnHbOY 2:27 Tant que vivray
-    b-2_D_e0BTg 3:04 Ung gay bergere
-    OJsz1rh74KM 4:04 O Madame, per-je mon tems
-    vN2WSIo769o 4:16 J'ay le rebours
-    HQZ-mEHw86M 3:56 Branles du village
-    PmaF46f5O_c 4:32 Une jeune fillette
-    LeGJ3C3rzpE 5:48 Une jeune fillette
-    UZqz379ldDE 1:07 Fantasie sur Une jeune fillette: Une jeune fillette
-    w432eO-7G0U 4:46 Une nimphe jolie
-    wRMw1g9CdOM 5:48 Jean de Nivelle
-  `,
+  // `
+  //   # Baltimore Consort - La Rocque and Roll
+  //   0Tly_wgC858 2:05 J'ai vu le loup
+  //   KNFgW6GLo1o 2:21 Has tu point veu
+  //   dtf_YWfYixM 0:50 Branle double
+  //   8nslzpv9Z14 0:55 Branle de Montirande
+  //   ueAwkZncUec 1:31 Branle de la torche
+  //   5F-YGQiyudI 3:40 Mignonne, allons voir si la rose
+  //   GPlyhDy2dng 4:06 Frais et gaillard
+  //   EBC9ldiS2oM 3:24 Une m'avoit promis
+  //   raQ_x-HTGKU 2:02 Volte
+  //   fFQx3FsnQUw 5:37 Mes pas semez
+  //   D15w88oaHd8 0:36 Gaillarde d'escosse
+  //   wj4Tjcd_LC4 1:17 Laroque Gaillarde
+  //   I_T8q6SQHPo 1:28 Alemande de Liege
+  //   f1rqBTVgflU 2:33 Ma bergere, ma lumiere
+  //   JUg1PlpLofI 4:44 Estans assis aux rives aquatiques
+  //   qrb6taaO2Ao 1:02 Prelude
+  //   UU20OsnHbOY 2:27 Tant que vivray
+  //   b-2_D_e0BTg 3:04 Ung gay bergere
+  //   OJsz1rh74KM 4:04 O Madame, per-je mon tems
+  //   vN2WSIo769o 4:16 J'ay le rebours
+  //   HQZ-mEHw86M 3:56 Branles du village
+  //   PmaF46f5O_c 4:32 Une jeune fillette
+  //   LeGJ3C3rzpE 5:48 Une jeune fillette
+  //   UZqz379ldDE 1:07 Fantasie sur Une jeune fillette: Une jeune fillette
+  //   w432eO-7G0U 4:46 Une nimphe jolie
+  //   wRMw1g9CdOM 5:48 Jean de Nivelle
+  // `,
   `
     # Calliope - A Renaissance Revel
     j0YJZDPjrdg 1:33 Early 17th Century Dances from Terpsichore: Galliarde (1)

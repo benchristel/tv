@@ -969,7 +969,7 @@ JLbej0adpKs 14:51 Fried Chicken Face-Off: 1911 vs 2021
 Mbaz5P7kHfg 17:51 Toad in the Hole & the Cows of Scotland
 hZFfs3sJamI 19:43 Adobo: Filipino or Spanish?
 uNwXMvp9sCE 16:46 Ancient Greek Olives - Gifts from A Goddess
-h6XvMKdD2tY 19:05 500 Year-Old Pizza VS Today
+h6XvMKdD2tY 0-3:54,5:13-19:05 500 Year-Old Pizza VS Today
 37O-by0BthQ 14:38 Korean Flower Pancakes - 17th Century Eumsikdimibang
 zk0FUS3Oq8s 17:45 An English Manor for a Bowl of Stew?
 giPXpKy2lQ0 18:52 Baking An Ancient Roman Cheesecake
@@ -3427,7 +3427,7 @@ yI3_-SpgR-s 9:18 Johann Sebastian Bach | Mass in B minor - Kyrie eleison
 WsD8CHcZMJY 4:12 Johann Sebastian Bach | Mass in B minor BWV 232 - Et in unum Dominum
 myAnPsTihX0 8:18 Johann Sebastian Bach | Mass in B minor BWV 232 - Agnus dei, Dona nobis pacem
 IoEN4bkTf8E 6:42 Ensemble Conductus | Mazurka d'Doro
-rz3wiov1Fw8 7:29 Ensemble Conductus | Quattro versi in purgatorio
+# rz3wiov1Fw8 7:29 Ensemble Conductus | Quattro versi in purgatorio
 SgAkFkiExeM 9:12 Ensemble Conductus | Viola del pensiero - Anna Serova
 zYccvhhTmNw 10:29 Kit Armstrong | J. S. Bach - Prelude and Fugue BWV 894
 gGEZWPn2vTQ 10:36 Kit Armstrong | W. A. Mozart - Fantasia and Fugue KV 394
