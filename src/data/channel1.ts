@@ -855,8 +855,8 @@ O1--0DLJv-8 25:10 One Day Builds: Customizing Adam's Hero Sword
 
 # Tasting History
 
-lYZq2ZnwPZA 16:02 Irish Soda Bread from 1836
-IfcQcAPt5vk 18:58 Feeding a Medieval Outlaw
+lYZq2ZnwPZA 0-3:14,4:17-16:02 Irish Soda Bread from 1836
+IfcQcAPt5vk 0-2:00,3:00-18:58 Feeding a Medieval Outlaw
 NjH7ssGctuM 18:21 School Lunch from the Great Depression
 _LRE4dUgbLM 11:25 Moroccan Berber Pizza - Tabadirt / Medfouna
 4DPu-Ve_luU 20:29 The History of Ukrainian Borshch
