@@ -868,8 +868,8 @@ O1--0DLJv-8 25:10 One Day Builds: Customizing Adam's Hero Sword
 
 # Tasting History
 
-lYZq2ZnwPZA 16:02 Irish Soda Bread from 1836
-IfcQcAPt5vk 18:58 Feeding a Medieval Outlaw
+lYZq2ZnwPZA 0-3:14,4:17-16:02 Irish Soda Bread from 1836
+IfcQcAPt5vk 0-2:00,3:00-18:58 Feeding a Medieval Outlaw
 NjH7ssGctuM 18:21 School Lunch from the Great Depression
 _LRE4dUgbLM 11:25 Moroccan Berber Pizza - Tabadirt / Medfouna
 4DPu-Ve_luU 20:29 The History of Ukrainian Borshch
@@ -1679,7 +1679,7 @@ Ggq5BrRvwpU 13:21 A Sentence from Proto-Germanic to Modern English
 JcitAgN7tE4 59:08 Trying to Learn some Polish using Google Translate
 HINRA6vzx6U 13:23 Is There an 'Oldest' English Dialect?
 W3zLKzRhAzg 18:51 Do You Remember 1960s Southeastern England?
-HX2Hbv07yPw 17:57 Formants - Why are Voices and Vowel Qualities Different?
+# HX2Hbv07yPw 17:57 Formants - Why are Voices and Vowel Qualities Different?
 WUY2a-rvXYg 17:09 'Gutteral' Sounds (Back Fricatives) in English
 V29OhkbzwuQ 25:23 19th-Century Cockney and RP
 X82qgBoA-qA 4:26 Patreon
@@ -4130,7 +4130,7 @@ A4c_gkMGSrw 5:06 Ashley Day September 2014, Part 1
 # zojRaOKBw1A 15:40 Transperth train cab view - B series railcar through Perth Underground & Elizabeth Quay stations
 Z08eQaZzdKc 11:55 Bennett Brook Railways Betty Thompson, 2014
 # iDTPwt5qPmI 2:03 Indian Pacific transcontinental passenger train through Herne Hill
-_VgKhlooHLs 43:50 Bennett Brook Railway drivers view full trip
+# _VgKhlooHLs 43:50 Bennett Brook Railway drivers view full trip
 jw0scWJiI5E 19:56 Bennett Brook Railway Mussel Pool line drivers eye view
 315PLUy3Vo0 5:22 Bennett Brook Railway Ashley & Friends day, May 2014, part 2
 xP9KVd3jRo0 15:04 Bennett Brook Railway Ashley & Friends day, May 2014, Part 1.
