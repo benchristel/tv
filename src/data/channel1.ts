@@ -1784,7 +1784,6 @@ ZdEaLtu35Ac 1:00 Stadstuinieren - Het leukste tijdschrift over het kweken van gr
 SRoPUoS0Olo 3:00 Stadstuinieren - Planten in bakken en potten 1 - Dakterras en kruidenbak
 GEizMdFog7Q 3:56 Stadstuinieren - Tomaten buiten en binnen - de oogst van dit jaar
 VMb5ZW8rz7E 7:51 Stadstuinieren - Een rondje door de tuin eind september - en door de kas en kelder
-J5tzvoHgG7k 5:23 Stadstuinieren - zaden verzamelen en verwerken
 0dO_h0Li5d4 3:19 Stadstuinieren - snijboon en pronkboon - allebei anders lekker
 j9ICa-jUO3c 2:05 Stadstuinieren - herfstframbozen en bramen - opbinden met een stok
 M-JHqRzjJIM 4:02 Stadstuinieren - Aardappels telen in potten en zakken
