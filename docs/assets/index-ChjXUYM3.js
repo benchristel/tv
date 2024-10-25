@@ -171,9 +171,6 @@ Remove it before shipping.`}__name(suitePassedWithInstrumentation,"suitePassedWi
     qxZWtjBb4Q8 1:16:22 The Grand Duke, Act I (New London Opera Group, 2014)  
     6AcrJCCVCew 1:04:30 The Grand Duke, Act II (New London Opera Group, 2014)
   `,`
-    pvXgo3Xb1OM 59:25 The Pirates of Penzance Act One - New London Opera Group
-    1KqnohvE3B0 47:49 The Pirates of Penzance Act Two - New London Opera Group
-  `,`
     i6GnUUbK7-Q 15:49 Utopia Limited - part 1
     7lKrvbG0N0g 11:53 Utopia Limited - part 2
     ZkLNbA4oOvA 14:01 Utopia Limited - part 3
@@ -876,7 +873,7 @@ _LRE4dUgbLM 11:25 Moroccan Berber Pizza - Tabadirt / Medfouna
 02V5dqRjNfw 16:46 Medieval French Toast
 THcfqRk4NyI 17:22 The King of Siam's Massaman Curry
 zBurkdTyJhE 17:07 Surviving on Leather
-YfKdaXTwB9A 19:46 Dinner with Attila the Hun
+YfKdaXTwB9A 0-18:44,19:31-19:46 Dinner with Attila the Hun
 KMWrk_94L8Y 0-2:33,3:58-18:44 The Great Molasses Flood | Boston Brown Bread
 JxUSzM29Y3M 15:47 Al Capone's Soup Kitchen
 LlBS-BgqN4E 19:06 The First Fad Diet of Georgian England
@@ -1893,7 +1890,6 @@ icNSctLWZFg 3:10 Stadstuinieren - Planten Afharden
 NlBbRH1KkGU 4:25 Stadstuinieren - Cantaloupe meloen kweken
 P_mM0ATJHSQ 3:14 Stadstuinieren - Avocadopit planten
 xDiUFUCeczM 4:59 Stadstuinieren - Worteltjes kweken + Recept worteltaart
-6PwM_f-kyVE 3:09 Stadstuinieren - Recept Pompoensoep
 hJsSB-D6XbA 3:51 Stadstuinieren - Zo maak je Tandpastapoeder
 ES9NtOExpEo 3:19 Stadstuinieren - Zaden oogsten van radijs
 Tv9dnLsmYvg 3:34 Stadstuinieren - Broccoli kiemen
@@ -2879,14 +2875,14 @@ Qi7t_g5QObs 30:38 The Hobbit: The Desolation of Warners (Part 3/2)
 
 CPED6Nem0kY 10:53 Danu and Dôn, the Irish and Welsh ancestor goddesses
 R6WAOuu3sMs 32:05 Is Taliesin a god?
-xo4eiZluC7g 1:34 Book Launch Tour
+# xo4eiZluC7g 1:34 Book Launch Tour
 oAUGwPzPyb8 17:21 Celtic Myth: The Eternally Fruitful Questions
 qe2Fe-ur2ww 35:08 Modern paganism's translation problem?
 v0JqMu9Wqlg 11:27 Thanks, Rest and Next . . .
 kQSt_7dYmaE 10:23 Celtic Gods in Medieval Wales with Dr Gwilym Morus-Baird
-4Y14EkhRx_0 14:33 The Life of Stories
-TpFCKF1HeWw 22:32 Sir Gawain and Men's Mysteries
-ixzq5rb6rXc 1:01 Celtic Mythology - new category on video lectures website.
+# 4Y14EkhRx_0 14:33 The Life of Stories
+# TpFCKF1HeWw 22:32 Sir Gawain and Men's Mysteries
+# ixzq5rb6rXc 1:01 Celtic Mythology - new category on video lectures website.
 ORVkKObUilA 26:02 Sir Gawain and the Pagan Goddess
 2Nbu8SvdaD8 24:36 Sir Gawain, Woman and Wild God
 N8n2fDGKGbs 33:33 Sir Gawain, Desire and Death
