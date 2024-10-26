@@ -915,7 +915,7 @@ ob-TBojkaxw 10:12 The True Story of Titanic's Baker
 JbmHZbTpoDY 19:24 Dining Third Class on the RMS Titanic
 SGf_0_2Ji5I 21:08 Medieval Irish Food: Peasant to King
 MNIrP_aqwQY 11:18 How to Make Coffee a Better Way
-ux5VjS7o2gA 16:54 How the Doughnut got its Hole
+ux5VjS7o2gA 0-1:25,2:16-16:54 How the Doughnut got its Hole
 KTVPV-15GL0 16:10 Hardtack & Hell Fire Stew
 q3LdGNl2veo 17:55 Medieval Mardi Gras
 2-4SOrYtTS4 15:10 Secret Foods of the Spanish Inquisition
@@ -3471,7 +3471,7 @@ QrrdWYh9Hwc 2:33:29 Johann Sebastian Bach | Matthäus - Passion / St Matthew Pas
 iTiiSYIw33M 20:18 Alban Berg: Sieben frühe Lieder, Gustav Mahler: Des Knaben Wunderhorn
 _KczRwDV6L4 13:50 Wolfgang Amadeus Mozart - Exsultate, jubilate KV 165 (KV 158a)
 jj5eleg94DM 15:40 Joseph Haydn | Piano Trio No. 39 in G-major, Hob. XV:25
-PD2wsobDX0k 10:32 Manuela Kerer - "Bestie Infernali!" | Haydn Chamber Ensemble
+# PD2wsobDX0k 10:32 Manuela Kerer - "Bestie Infernali!" | Haydn Chamber Ensemble
 59tH0r6eVvU 43:13 Antonin Dvorak | Piano Trio No.3 in F-minor, op. 65
 2xvAy85WfGE 12:35 Cristóbal de Morales - Missa pro Defunctis: Sanctus, Benedictus, Agnus dei, Communio
 umW2GALmY2w 11:49 Cristóbal de Morales - Missa pro Defunctis: Pie Jesu, Offertorium | C. Festa - Contrapunctus 63 à 4
