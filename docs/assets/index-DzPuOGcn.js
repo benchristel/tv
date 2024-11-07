@@ -925,7 +925,7 @@ ob-TBojkaxw 10:12 The True Story of Titanic's Baker
 JbmHZbTpoDY 19:24 Dining Third Class on the RMS Titanic
 SGf_0_2Ji5I 21:08 Medieval Irish Food: Peasant to King
 MNIrP_aqwQY 11:18 How to Make Coffee a Better Way
-ux5VjS7o2gA 16:54 How the Doughnut got its Hole
+ux5VjS7o2gA 0-1:25,2:16-16:54 How the Doughnut got its Hole
 KTVPV-15GL0 16:10 Hardtack & Hell Fire Stew
 q3LdGNl2veo 17:55 Medieval Mardi Gras
 2-4SOrYtTS4 15:10 Secret Foods of the Spanish Inquisition
@@ -1696,14 +1696,14 @@ b8X4xKIppS8 11:47 Scouse Phonology and Where it Came From
 7mw7gBOOPS4 29:03 How We View the Past
 K-eWQZw29t4 10:48 What if English Still Had Grammatical Gender?
 0O7H8FYZOkw 20:01 Reconstructing Some Sounds of Early Modern English
-Diay7U-hRec 38:49 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer - Part 2
+# Diay7U-hRec 38:49 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer - Part 2
 RERyg5h1IMc 7:32 Ingressive Speech - A Short Overview
 EgK0jvPJlbk 18:47 Thinking About Human Evolution
 fNNrDdNQEgo 15:36 Old English Syntax - Building a Sentence
 # DKzJEIUSWtc 58:45 A Conversation in Old English and Old Norse
 luibV6sh-pQ 12:26 AAVE, Implicit Bias & Prescriptivism with Blayzen BM
 fzeneXX6MBU 13:55 Old Norse Influence on Northern English
-GyRO93tOVHA 49:55 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer
+# GyRO93tOVHA 49:55 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer
 Ov0OEAF5Fv8 13:40 Cumbria & Yorkshire - An Older Dialect Comparison
 Zf0L5lXpvuQ 24:11 Anglo-Saxon Coins and Sceattas (with Ben Normington)
 -NuZ1FmCewg 6:00 Why 'Mice', not 'Mouses'? I-umlaut in English
@@ -2504,8 +2504,8 @@ NUZZi2JxqNQ 11:17 Seanchas: Coinneach Bàn, Fear-taca Lacasaigh
 # 5S59NCL5n6o 25:40 Calum Alasdair Friseal: Stòras Beò nan Gàidheal (Zoom)
 E5wF5Jyn488 2:20 Criomagan (English subtitles)
 QSSfLqbMi-g 2:20 Criomagan
-r_yHflfgbEU 36:22 Guth nan Siarach agus Staing na Gàidhlig
-hZSCw-PtDy8 25:48 New Insights on the Vernacular Gaelic Communities in the Islands
+# r_yHflfgbEU 36:22 Guth nan Siarach agus Staing na Gàidhlig
+# hZSCw-PtDy8 25:48 New Insights on the Vernacular Gaelic Communities in the Islands
 # eRGf-cO9lNI 33:05 Maggie Smith (3): Stòras Beò nan Gàidheal (Zoom)
 # aiYtcnUrWag 19:18 Maggie Smith (2): Stòras Beò nan Gàidheal (Zoom)
 # C9kvP85bR1k 25:19 Maggie Smith (1): Stòras Beò nan Gàidheal (Zoom)
@@ -2605,7 +2605,7 @@ LAvXmN0kND0 6:50 Isa MacKillop: Companaich m' òige
 e07YWWJ2dJY 6:27 Cathie Laing: Sgìths 's Cruadal
 3lJf1q4gMz4 11:22 Alec Macaulay
 tTB4sBGzSl8 18:27 Willie MacDonald
-cquuGRtZf10 8:54 Reverend John Smith
+# cquuGRtZf10 8:54 Reverend John Smith
 SJeFpt-sbl4 6:06 Enterprise on the Edge
 TCpQaZSm4b0 6:47 Introduction to Virtual St Kilda
 # B7OczE1nBog 2:56 A Very Busy Spider - in Balivanich!
@@ -3481,7 +3481,7 @@ QrrdWYh9Hwc 2:33:29 Johann Sebastian Bach | Matthäus - Passion / St Matthew Pas
 iTiiSYIw33M 20:18 Alban Berg: Sieben frühe Lieder, Gustav Mahler: Des Knaben Wunderhorn
 _KczRwDV6L4 13:50 Wolfgang Amadeus Mozart - Exsultate, jubilate KV 165 (KV 158a)
 jj5eleg94DM 15:40 Joseph Haydn | Piano Trio No. 39 in G-major, Hob. XV:25
-PD2wsobDX0k 10:32 Manuela Kerer - "Bestie Infernali!" | Haydn Chamber Ensemble
+# PD2wsobDX0k 10:32 Manuela Kerer - "Bestie Infernali!" | Haydn Chamber Ensemble
 59tH0r6eVvU 43:13 Antonin Dvorak | Piano Trio No.3 in F-minor, op. 65
 2xvAy85WfGE 12:35 Cristóbal de Morales - Missa pro Defunctis: Sanctus, Benedictus, Agnus dei, Communio
 umW2GALmY2w 11:49 Cristóbal de Morales - Missa pro Defunctis: Pie Jesu, Offertorium | C. Festa - Contrapunctus 63 à 4
