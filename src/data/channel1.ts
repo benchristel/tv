@@ -1686,14 +1686,14 @@ b8X4xKIppS8 11:47 Scouse Phonology and Where it Came From
 7mw7gBOOPS4 29:03 How We View the Past
 K-eWQZw29t4 10:48 What if English Still Had Grammatical Gender?
 0O7H8FYZOkw 20:01 Reconstructing Some Sounds of Early Modern English
-Diay7U-hRec 38:49 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer - Part 2
+# Diay7U-hRec 38:49 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer - Part 2
 RERyg5h1IMc 7:32 Ingressive Speech - A Short Overview
 EgK0jvPJlbk 18:47 Thinking About Human Evolution
 fNNrDdNQEgo 15:36 Old English Syntax - Building a Sentence
 # DKzJEIUSWtc 58:45 A Conversation in Old English and Old Norse
 luibV6sh-pQ 12:26 AAVE, Implicit Bias & Prescriptivism with Blayzen BM
 fzeneXX6MBU 13:55 Old Norse Influence on Northern English
-GyRO93tOVHA 49:55 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer
+# GyRO93tOVHA 49:55 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer
 Ov0OEAF5Fv8 13:40 Cumbria & Yorkshire - An Older Dialect Comparison
 Zf0L5lXpvuQ 24:11 Anglo-Saxon Coins and Sceattas (with Ben Normington)
 -NuZ1FmCewg 6:00 Why 'Mice', not 'Mouses'? I-umlaut in English
@@ -2494,8 +2494,8 @@ NUZZi2JxqNQ 11:17 Seanchas: Coinneach Bàn, Fear-taca Lacasaigh
 # 5S59NCL5n6o 25:40 Calum Alasdair Friseal: Stòras Beò nan Gàidheal (Zoom)
 E5wF5Jyn488 2:20 Criomagan (English subtitles)
 QSSfLqbMi-g 2:20 Criomagan
-r_yHflfgbEU 36:22 Guth nan Siarach agus Staing na Gàidhlig
-hZSCw-PtDy8 25:48 New Insights on the Vernacular Gaelic Communities in the Islands
+# r_yHflfgbEU 36:22 Guth nan Siarach agus Staing na Gàidhlig
+# hZSCw-PtDy8 25:48 New Insights on the Vernacular Gaelic Communities in the Islands
 # eRGf-cO9lNI 33:05 Maggie Smith (3): Stòras Beò nan Gàidheal (Zoom)
 # aiYtcnUrWag 19:18 Maggie Smith (2): Stòras Beò nan Gàidheal (Zoom)
 # C9kvP85bR1k 25:19 Maggie Smith (1): Stòras Beò nan Gàidheal (Zoom)
@@ -2595,7 +2595,7 @@ LAvXmN0kND0 6:50 Isa MacKillop: Companaich m' òige
 e07YWWJ2dJY 6:27 Cathie Laing: Sgìths 's Cruadal
 3lJf1q4gMz4 11:22 Alec Macaulay
 tTB4sBGzSl8 18:27 Willie MacDonald
-cquuGRtZf10 8:54 Reverend John Smith
+# cquuGRtZf10 8:54 Reverend John Smith
 SJeFpt-sbl4 6:06 Enterprise on the Edge
 TCpQaZSm4b0 6:47 Introduction to Virtual St Kilda
 # B7OczE1nBog 2:56 A Very Busy Spider - in Balivanich!
