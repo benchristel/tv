@@ -69,8 +69,8 @@ eYpFjaJMiFY 1:41:07-2:41:11 The Adventures of Sherlock Holmes - The Adventure of
 eYpFjaJMiFY 2:41:13-3:42:34 The Adventures of Sherlock Holmes - The Adventure of the Copper Beeches
 
 # The Return of Sherlock Holmes
-vzFCXmbdmNk 0-57:00 The Return of Sherlock Holmes - The Adventure of the Empty House
-vzFCXmbdmNk 57:10-1:52:48 The Return of Sherlock Holmes - The Adventure of the Norwood Builder
+vzFCXmbdmNk 0-56:01 The Return of Sherlock Holmes - The Adventure of the Empty House
+vzFCXmbdmNk 56:05-1:54:08 The Return of Sherlock Holmes - The Adventure of the Norwood Builder
 vzFCXmbdmNk 3:44:22-5:00:35 The Return of Sherlock Holmes - The Adventure of the Priory School
 vzFCXmbdmNk 5:00:37-5:52:35 The Return of Sherlock Holmes - The Adventure of Black Peter
 vzFCXmbdmNk 6:36:35-7:29:00 The Return of Sherlock Holmes - The Adventure of The Six Napoleons
