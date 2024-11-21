@@ -286,6 +286,27 @@ ukTaodQfYRQ 1:44:41 Meditation and Going Beyond Mindfulness - A Secular Perspect
 kaNO09cPS6c 56:41 Happiest Man on Earth | Mingyur Rinpoche | Talks at Google
 k1tw5sowFyM 47:08 From Panic Attacks to Meditation | Mingyur Rinpoche | Talks at Google
 
+# Wikitongues
+
+jBDZOm0HXO4 1:56 WIKITONGUES: Angelo speaking Portuguese
+nqOtvem2dxs 1:12 WIKITONGUES: Lama speaking English and Palestinian Arabic
+M2xmsclh3UA 3:26 WIKITONGUES: YiShan speaking Mandarin
+fk3Cq0mR6_4 3:28 WIKITONGUES: Emily speaking Norwegian
+WQ4W-UqaaMo 3:24 WIKITONGUES: Javier speaking Nahuatl & Spanish
+w9MvPytHDvk 0:57 WIKITONGUES: Kimberly speaking Lakota
+FxrCNf8utsE 3:12 WIKITONGUES: Jenni speaking Finnish
+# RCZF42aj2Po 3:38 WIKITONGUES: Natasha speaking English
+DbArjSCZvOQ 1:27 WIKITONGUES: Will speaking Mandarin
+iWRrLD7H98s 4:03 WIKITONGUES: Freddie speaking Portuguese
+VgzHAbJjteQ 0:36 WIKITONGUES: Clara speaking French
+# vO87PpdQKV4 3:28 WIKITONGUES: Joel speaking English & Hebrew
+cC50MO--CGQ 3:36 WIKITONGUES: Manuel speaking Totonac
+CouHEysgsPo 2:05 WIKITONGUES: Octavia speaking Hessian
+# P2jdy8NC-JU 5:00 WIKITONGUES: Sofia speaking Russian & English
+7zQSfU5HkUc 1:53 WIKITONGUES: Lorenzo speaking K'iche' Mayan
+4SR39iWfZdk 1:53 WIKITONGUES: Regina speaking Spanish
+# v2jD_SU9KZo 2:59 WIKITONGUES: Mario speaking Aragonese
+
 # Engineerguy
 
 E-F2QQuZZGk 10:44 The Engineering of Duct Tape
@@ -2776,88 +2797,6 @@ v0OQNvT-lAI 6:08 Gaelic Documentary: Peatcutting
 # UXM4jfriBhU 5:29 English Documentary: Surfing
 u1IJN-TiEQY 5:29 Gaelic Documentary: Surfing
 
-# Sustasis
-
-# 1P-eyjqiSas 29:59 We all talk about AI, but do we really understand it?
-j4y9oPcMWyg 10:42 Christopher Alexander on the Fifteen Properties of Beautiful Spaces
-# NYaEILxbfhY 1:21:50 Christopher Alexander and Alfred North Whitehead: Nature (and Buildings) Alive - Longer Q&A Version
-gdAELBIVEMI 44:41 Christopher Alexander and Alfred North Whitehead: Nature (and Buildings) Alive
-# Kap87n4L15U 19:48 Confronting the Age of AI: Wider Lessons for Settlement, Technology, and Culture
-NhSCUBrq5fk 19:37 Cities and the Nature of the Future
-# o3ZShlZim84 3:19 Michael Mehaffy Greetings to PLoP 23
-lE_MHZu0Qmk 15:01 Symmetry in Architecture: Toward an Overdue Reassessment
-XfC4ihJvoVg 49:11 The Death and Life of Downtown Portland (Full)
-# Rx8TGi2aXSc 58:07 The Nature of Matter in the Work of Christopher Alexander - Michael Mehaffy
-# QzVhCOJVLXE 1:00:46 Nikos Salingaros - Revolution in Architectural Thought
-# VumQdtXrNLM 4:35 Excerpt from The Alexander- Eisenman Debate of 1982
-# G7gI-nbUtMg 1:03 Future of Places - Key Messages Summary
-# wJCw7vSqFDY 42:29 Michael Mehaffy: The Empires New Clothes
-# oKO3vYjZbcs 1:22:28 Christopher Alexander - Life in Buildings (Full)
-# _RSc1IWFBzQ 23:00 (In)Forming Patterns: An Online Symposium
-# PqX6odZkumc 1:22:52 The Empire's New Clothes - Michael Mehaffy, May 12, 2021
-# Y4yeqD30vgQ 19:55 Unified Architectural Theory, Lecture 11: “Architecture Itself as a Biological System”.
-# inZ2AV2cwjQ 16:57 Unified Architectural Theory, Lecture 12: “Conclusion”.
-# cG22CDSFJo4 3:56 Why Pubic Space Matters - Michael Mehaffy
-# 6NXrOzR1xDc 6:05 A tour of the Vineyard Farmers Market, Fresno
-# VsZIJpp6-no 17:11 Unified Architectural Theory, Lecture 10: “Ornament and human intelligence”.
-# 8gDs89ZRIsc 19:21 Unified Architectural Theory, Lecture 8: “Fractals and ornament generate attachment”
-# Bx3XP1wtUZE 19:39 Unified Architectural Theory, Lecture 5: “Connecting to the World Using the Mirror-of-the-Self Test”
-# xQv_1qiDAXY 17:05 Unified Architectural Theory, Lect. 9: “Subliminal reality: Eye-tracking maps the field of centers”
-# aLX9bqred14 17:12 Unified Architectural Theory, Lecture 7: “Fifteen geometrical properties”
-# FT9F13QHj7I 18:16 Nikos Salingaros: The Existence of an “I” (Lecture)
-# tg_TmOQLb10 18:35 Unified Architectural Theory, Lecture 6: “Biophilic design influences human health”
-# dVGc0eduJac 1:05:06 Nikos Salingaros: “Codes That Generate Life” (Lecture)
-# EAzSIdckjUY 1:08:04 Nikos Salingaros: “Architectural Education Influenced by Social Engineering” (Lecture)
-# p4snkjKvLFQ 1:07:24 Nikos Salingaros: “Seashells, Hyperspace, and the Sacred” (Lecture)
-# ok4vgxQ8H9k 1:06:05 Nikos Salingaros: “A Fractal Distribution is Sustainable” (Lecture)
-# Ii3TIHZN6ag 1:10:06 Nikos Salingaros: “Folded or Perforated Fractals” (Lecture)
-# ekjzOvTE1NQ 52:19 Nikos Salingaros: “Complexity and the Fibonacci Sequence” (Lecture)
-# A7-bAg0SJHY 59:59 Nikos Salingaros: “Centers and Computational Reducibility” (Lecture)
-# qbpIqHaKzRA 16:19 Unified Architectural Theory, Lecture 4: Computing the regional adaptivity index of a form language
-# Syu8xwDs-AM 1:01:54 Nikos Salingaros: “Symmetries and Symmetry Breaking” (Lecture)
-# 1KOdxv4oxAY 1:11:08 Nikos Salingaros: Step by step adaptive design (Lecture)
-# YWDZcaF_3ek 16:38 Unified Architectural Theory, Lecture 3: Complex versus simplistic form languages
-# gGTjJZhnl4A 1:07:44 Nikos Salingaros: "Christopher Alexander's Fifteen Fundamental Properties" (Lecture)
-# nIGnm-UiNYw 20:00 Unified Architectural Theory, Lecture 2: Form Languages and Pattern Languages
-# vcN5fi3zuxA 14:51 Unified Architectural Theory, Lecture 1: The Structure of Architectural Theories
-# 82mH5gS_puc 51:50 Lessons After COVID-19: Addressing Social Isolation through the Built Environment
-# GEXRQdXXf9I 3:01 Michael Mehaffy Presentation for World Cities Day
-# 3G5noYSiCu0 15:01 Gamla Stan Walking Tour with INTBAU Sweden
-# J8Dxm-OaE3E 40:01 Pattern Languages of Programming (PLoP) 2020 Presentation - Mehaffy
-# MB3eFZQtwGY 19:38 New Patterns for a Post-COVID Age
-# dm0MIeaZIzw 4:56 Tour of Poundbury, UK
-# bDbnNF20eKY 20:32 Christopher Alexander: Life in Buildings (Excerpt)
-# XswHZZqO0jk 7:46 Thought Leaders - Jane Jacobs (for FOP Summit - ROUGH EDIT)
-# o6q1dDAv6zY 4:55 Thought Leaders Christopher Alexander
-# D3v_F1hrBtE 5:01 Mehaffy - The Urban Dimensions of Climate Change
-# xaYQK8kTwHg 16:39 Overview of Metro (Oregon) 2009 "Centers and Corridors" Policy Report
-# nyAtltoaE0s 13:03 Mehaffy - Pattern Languages and Wikis for a New Urban Agenda - 13min Version
-# muuzfQQLFlc 5:01 Mehaffy - Tools and Strategies for Public Private Collaboration
-# VCqy00Ahib8 7:37 Mehaffy - Healthy Public Space Networks for a New Urban Agenda
-# sbXIk5DtVTg 7:01 Mehaffy - Pattern Languages and Wikis for a New Urban Agenda - EDITED VERSION
-# EzS60DaltAU 16:49 A Conversation with Ward Cunningham - Edited Version
-# lLy0N0tOVVI 46:24 Discussion with Ward Cunningham Feb 11 19
-# FkFh4IW1N_s 33:01 Sustasis Interview with Ward Cunningham Apr 5 18
-# qXBKZPaVHi8 4:31 Dr. Joan Clos at launch event for The Quito Papers, World Urban Forum 9
-# g9KivwhuCXo 4:20 Ax:son Johnson Address at Habitat III
-# Zv2l3_59D4M 4:04 Remarks of Michael Mehaffy at PrepCom 3
-# ArAIvl0hk3M 3:02 Sustasis Executive Director Mehaffy's Testimony to the City Council of Portland, Feb 4 2015
-# DHBzg0Rd7Yk 2:41 Sustasis Executive Director Mehaffy's Testimony to the City Council of Portland, April 20, 2016
-# vvKTPbjGm8A 1:13 ACINAT
-# u33YjyQeb_o 24:15 Nikos Salingaros Addresses ICUPD 2015
-# RiGlhj-wyYo 32:58 Nikos A. Salingaros on Pattern Language and Form Language
-# ZvN5kN5TCdY 8:59 The Selling of Sprawl
-# oEkiNgNnIgI 21:08 Nikos A. Salingaros on Urban Design Education
-# 3UNfYRyGHIQ 18:37 5 Crucial Decades - Michael Mehaffy Presentation and Discussion
-# mRuEmDr0fuI 7:55 Joanna Alimanestianu speaking at the Future of Places Forum
-# 06nYkNi33vA 7:42 Taller Buildings in Portland
-# SRwJQXTluLc 7:42 The Impacts of Taller Buildings in Portland
-# nGjXgHwFYqc 58:44 Vincent Scully Prize for Christopher Alexander - Mehaffy Presentation and Discussion
-# P5Bu9LjfcZE 2:10 Michael Mehaffy shares lessons at Orenco Station
-# ts_ArwNEHRk 6:00 Michael Mehaffy at Future of Places II
-# o2V_0BvFJuc 2:30 2014 Year-end Message from the Sustasis Executive Director
-# d6pX0S34CZk 10:08 Webinar, "Federated Wiki: Potential for a new generation of open-source scenario-modeling tools:
-
 # Post-Growth Innovation Lab
 UZhatcqlh44 38:01 Circular Degrowth - Federico Savini
 
@@ -4448,8 +4387,8 @@ eYpFjaJMiFY 1:41:07-2:41:11 The Adventures of Sherlock Holmes - The Adventure of
 eYpFjaJMiFY 2:41:13-3:42:34 The Adventures of Sherlock Holmes - The Adventure of the Copper Beeches
 
 # The Return of Sherlock Holmes
-vzFCXmbdmNk 0-57:00 The Return of Sherlock Holmes - The Adventure of the Empty House
-vzFCXmbdmNk 57:10-1:52:48 The Return of Sherlock Holmes - The Adventure of the Norwood Builder
+vzFCXmbdmNk 0-56:01 The Return of Sherlock Holmes - The Adventure of the Empty House
+vzFCXmbdmNk 56:05-1:54:08 The Return of Sherlock Holmes - The Adventure of the Norwood Builder
 vzFCXmbdmNk 3:44:22-5:00:35 The Return of Sherlock Holmes - The Adventure of the Priory School
 vzFCXmbdmNk 5:00:37-5:52:35 The Return of Sherlock Holmes - The Adventure of Black Peter
 vzFCXmbdmNk 6:36:35-7:29:00 The Return of Sherlock Holmes - The Adventure of The Six Napoleons
