@@ -22,8 +22,8 @@ const channelData: Array<[string, BroadcastAlgorithm, ChannelModule] | null> = [
   ["Channel 3", "shuffle", channel3],
   ["Channel 4", "shuffle", channel4],
   ["🎄", "shuffle", christmas],
-  debug ? ["debug", "shuffle", channelDebug] : null,
-  debug ? ["segments", "test-segment-boundaries", channel1] : null,
+  debug ? ["🐞", "shuffle", channelDebug] : null,
+  debug ? ["✂️", "test-segment-boundaries", channel1] : null,
 ]
 
 export const channels: Array<[string, BroadcastAlgorithm, Episode[]]>
