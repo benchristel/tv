@@ -206,6 +206,19 @@ export const episodes: Array<string> = [
     1A8sOOKianA 3:51 All You Need Is Love (Remastered 2009)
   `,
   `
+    # The Beatles - Abbey Road
+    45cYwDMibGo 4:19 The Beatles - Come Together
+    UelDrZ1aFeY 3:08 The Beatles - Something
+    3HuXFfq79I8 3:28 Maxwell's Silver Hammer (2019 Mix)
+    erMgpfiOMSU 3:29 The Beatles - Oh! Darling (2019 Mix / Audio)
+    x9VzJpl05N0 2:51 Octopus's Garden (2019 Mix)
+    wNL6bd7SpDE 7:48 I Want You (She's So Heavy) (2019 Mix)
+    KQetemT1sWc 3:12 The Beatles - Here Comes The Sun (2019 Mix)
+    2XyuywVao7g 2:46 Because (2019 Mix)
+    6CVsBOjeDzk 16:41 Medley from ABBEY ROAD
+    QhmyhwszSWA 0:26 Her Majesty (2019 Mix)
+  `,
+  `
     # Shira Kammen - The Almanac
     DTAoc_dWJ9A 3:29 The Oar Wheel
     JMIJBSdlIPU 2:50 The Wheel of the Year
