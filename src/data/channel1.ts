@@ -2169,7 +2169,7 @@ nr95NjOL21o 48:06 Schrödinger’s Pandemic | Bach, the Universe & Everything
 s684W1WbXTY 8:02 What are Barlines? | Illustrated Theory of Music #1
 shWTiybxBEE 34:06 Musicians on Call Online 4: Pastime with Good Company
 VrFUHFL34as 32:11 OAE TOTS: interactive sing and play for 2 - 5 year olds
-_KNPIJHcqtA 35:15 Music and Chat for a While - OAE Interview with Ian Bostridge
+# _KNPIJHcqtA 35:15 Music and Chat for a While - OAE Interview with Ian Bostridge
 I4IEF6F5MW4 27:52 Musicians on Call Online 3: Learning New Skills
 8E4-Db2-p7g 29:25 Musicians on Call Online 2: Instruments Galore
 gL_lgsysAiw 30:02 Musicians on Call Online 1: Hello!
@@ -2786,9 +2786,6 @@ u8V6JgxS_BA 3:35 Norman Maclean: Creativity and Values
 v0OQNvT-lAI 6:08 Gaelic Documentary: Peatcutting
 # UXM4jfriBhU 5:29 English Documentary: Surfing
 u1IJN-TiEQY 5:29 Gaelic Documentary: Surfing
-
-# Post-Growth Innovation Lab
-UZhatcqlh44 38:01 Circular Degrowth - Federico Savini
 
 # Lindsay Ellis
 
