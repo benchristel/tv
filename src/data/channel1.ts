@@ -1690,7 +1690,7 @@ W3zLKzRhAzg 18:51 Do You Remember 1960s Southeastern England?
 # HX2Hbv07yPw 17:57 Formants - Why are Voices and Vowel Qualities Different?
 WUY2a-rvXYg 17:09 'Gutteral' Sounds (Back Fricatives) in English
 V29OhkbzwuQ 25:23 19th-Century Cockney and RP
-X82qgBoA-qA 4:26 Patreon
+# X82qgBoA-qA 4:26 Patreon
 vZuO4IjXN2o 23:39 *contains vulgar language*
 vL4p5U5vpuo 13:17 Livestock in Early Medieval England
 njZw_SrMkjA 9:44 Hypotheticals - What if the Great Vowel Shift Happened Today?
@@ -3986,8 +3986,8 @@ l45Lb4oFamI 2:44 Bennett Brook Railway - Freudenstein 0-4-0WT b/n 217 of 1905 un
 ssTFRlq7lo8 7:09 Bennett Brook Railway Ashley and Friends Day, September 2019
 # wtxRQucEid8 22:35 Transperth drivers view - Whitfords to Perth - real time
 # fO_S6Y006ug 2:36 Transperth drivers view - Whitords to Perth - high speed
-0SnQKylEvv0 44:22 Hotham Valley Railway drivers view - Isandra to Dwellingup
-j10-vl8VtZk 4:47 Hotham Valley Railway drivers view - Isandra to Dwellingup - high speed
+# 0SnQKylEvv0 44:22 Hotham Valley Railway drivers view - Isandra to Dwellingup
+# j10-vl8VtZk 4:47 Hotham Valley Railway drivers view - Isandra to Dwellingup - high speed
 wLUJ2E-J3ZY 1:57 Bennett Brook Railway - Seven News Perth promo - 1986
 MPvKZ6Z93-Q 0:42 Level crossing near miss - Bennett Brook Railway - please exercise caution at level crossings!
 # 6yqt2lSp86E 17:53 Drivers view Transperth B series - Nowergup yard departure and arrival - real time
@@ -4235,6 +4235,40 @@ HL_TSZVT3bg 0:50 My Musical Instruments-Carlos Simas
 VjjCDDA6s_w 3:23 Cantigas de Santa Maria - Gaita Galega - Carlos Simas
 zmbqvk1iPg0 6:44 Inisheer/Tribute to Rick Mullin: Carlos Simas (Wire Strung Harp)
 KVqXBuvnVuk 2:59 Si Bheag Si Mhor (T. Carolan 1670-1738 - Ireland) Carlos Simas and Luis FitzPatrick (Brasil)
+
+# Tanya Shpachuk
+bP4wtmFLSpI 19:43 Watch Me Bring This Martin Guitar Back to Life!
+0aUFM_rRLsI 27:05 A Young Girl and a Small Dog Do a Neck Reset on an Old Guitar
+006qLNJ8LMI 23:20 Restoration of The Heritage
+J00NkSkn_oA 16:11 Satisfying Fender (?) Stratocaster Refret and Setup
+_Gc8WJrjqfQ 28:42 Total restoration of a broken guitar | Martin Classical Guitar (Part 2)
+v5Dwh0MTt9g 37:58 Total restoration of a broken guitar | Martin Classical Guitar (Part 1)
+jpdXsuZ93Ng 25:38 Simple Guitar - Simple Repair
+2hpAswMlyX8 23:07 Old Music Man String Ray setup and refret
+sbPfxg-JiCk 31:50 Destroyed old bass restoration
+utYqQQoXODc 32:23 Vintage Japan semihollow guitar transformation
+TOfi56JASzE 16:32 It was nearly fretless, stainless refret on rare Pedulla bass
+qnV5dLGckY4 47:51 You can't buy new neck to this Gibson bass
+RMFIASw2Wvw 16:25 Satisfying fret nibs removal on Gibson Les Paul Traditional
+93mmzFsk8os 16:38 Rare walnut 1983 Fender Precision Elite
+qkDXoCDkoj4 26:27 Old Parlor Guitar, Refinish And Repair
+zVXH9EUJ4vk 11:25 Destroyed frets on Epiphone Les Paul Custom
+B5PK9MXDLJM 34:33 Vintage American guitar restoration
+gXnbIeOgj6s 23:51 Extremely hard and difficult neck repair of Fender Jazz Bass
+kTs41O__7A0 13:14 My struggle with Fender maple neck and stainless frets
+v3Ji9MVyRJs 28:49 New life for a dirty old guitar
+r7d7bpkvF5Y 18:54 Fixing slightly bowed neck on a Spanish classical guitar
+wtvYs5V10w4 8:25 Making leather luthier apron. Handmade
+nrZ8ML_Dmw0 9:29 Martin Acoustic Guitar Headstock Repair
+syJC5SaoJ7g 17:23 Restoration of old Gibson
+AW7_P5fh8jg 13:44 Sometimes You Have To Broke Guitar Even More
+LyHfK7dEyzs 18:19 Refret to stainless steel and restoration of a Gibson Flying V
+UEkZNkOBA08 17:36 How to repair heavily damaged guitar neck | Guitar head broken
+45oWRiBZEis 7:31 Cheap Vintage Guitar Restoration
+iC5esVP89ho 17:18 A bit of care for this Gibson
+Q3QbNPfEmWg 15:32 Fender Acoustic Guitars Are Lame
+uy77lKMv8u0 14:26 Satisfying refret on an acoustic guitar
+IPRYXyQOZ5U 8:00 Worst fretwork on a Gibson Les Paul
 
 # upy9dA5uD-U 5:36:54 The Once And Future King by T.H. White (Radio Drama)
 
