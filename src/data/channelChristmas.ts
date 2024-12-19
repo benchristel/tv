@@ -225,6 +225,8 @@ A8eWaR8ONvw 2:05 Nat King Cole - "The Christmas Song"
 
 N8NcQzMQN_U 3:04 José Feliciano - Feliz Navidad (Official Audio)
 
+bIpzwSAn_NY 1:04:04 Thys Yool - A Medieval Christmas, Martin Best Mediaeval Ensemble ❄︎ Medieval Winter Music, Noël
+
 wJq1XiaIHYQ 2:24 L'amour de moi si est enclose I
 nG2O7b1_FeI 3:51 L'amour de moi si est enclose II
 POxFVsrEZQo 3:11 Hellas il est pic de ma vie
