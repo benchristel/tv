@@ -36,7 +36,7 @@ test("pick", {
     )
   },
 
-  "throws if the fraction is > 0"() {
+  "throws if the fraction is < 0"() {
     expect(
       errorThrownFrom(() => pick([""], -0.25)),
       equals,
