@@ -19,6 +19,7 @@
   },
   "scripts": {
     "dev": "vite --port 8080",
+    "ts": "tsc --watch --noEmit",
     "build": "yarn bookmarklet && yarn vite build && echo -n 'tv.benchristel.com' > docs/CNAME",
     "bookmarklet": "./dev/build-bookmarklet"
   }
