@@ -891,7 +891,7 @@ IfcQcAPt5vk 0-2:00,3:00-18:58 Feeding a Medieval Outlaw
 NjH7ssGctuM 18:21 School Lunch from the Great Depression
 _LRE4dUgbLM 11:25 Moroccan Berber Pizza - Tabadirt / Medfouna
 4DPu-Ve_luU 20:29 The History of Ukrainian Borshch
-02V5dqRjNfw 16:46 Medieval French Toast
+02V5dqRjNfw 0-15:44,16:29-16:46 Medieval French Toast
 THcfqRk4NyI 17:22 The King of Siam's Massaman Curry
 zBurkdTyJhE 17:07 Surviving on Leather
 YfKdaXTwB9A 0-18:44,19:31-19:46 Dinner with Attila the Hun
@@ -5266,6 +5266,8 @@ T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] 
 A8eWaR8ONvw 2:05 Nat King Cole - "The Christmas Song"
 
 N8NcQzMQN_U 3:04 José Feliciano - Feliz Navidad (Official Audio)
+
+bIpzwSAn_NY 1:04:04 Thys Yool - A Medieval Christmas, Martin Best Mediaeval Ensemble ❄︎ Medieval Winter Music, Noël
 
 wJq1XiaIHYQ 2:24 L'amour de moi si est enclose I
 nG2O7b1_FeI 3:51 L'amour de moi si est enclose II
