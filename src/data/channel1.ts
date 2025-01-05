@@ -3998,8 +3998,8 @@ YjZoAyd6Yv8 0:35 Castledare Steam Fest 2019
 # u45BXgXDhb0 1:33:03 Drivers view Transperth B series Butler to Mandurah - real time - re upload - no music
 # _5gASyFffaE 15:25 Transperth cab view - B series through Perth Underground & Elizabeth Quay stations - re upload
 # aoscHVzgvg8 7:29 Transperth drivers cab view A series Armadale shunt move and Australind cross - re upload - no music
-KIHVyTjtMDQ 4:54 Drivers view from footplate of 'Planet' no. 7 diesel locomotive - high speed
-dGs2p2CVPho 42:30 Drivers view from the footplate of Planet no. 7 diesel locomotive
+# KIHVyTjtMDQ 4:54 Drivers view from footplate of 'Planet' no. 7 diesel locomotive - high speed
+# dGs2p2CVPho 42:30 Drivers view from the footplate of Planet no. 7 diesel locomotive
 # TCNlhnnIH1E 1:11:06 Drivers view Transperth A series Perth to Armadale and return - C pattern - real time
 # awBNhDxpOWo 7:21 Drivers view Transperth A series Perth to Armadale and return - C pattern - high speed
 # PeEBHk6Ex78 13:35 WAGR steam locomotive audio - see video description and pinned comment for notes
@@ -4034,7 +4034,7 @@ Y8kEmyAcGlg 3:07 A short feature on the Bennett Brook Railway by Today Tonight.
 8k9rylyO3y8 4:50 Bennett Brook Railway 2014 volunteer tribute
 66VwZN60pAw 11:06 Bennett Brook Railway Ashley & Friends day, May 2018
 YswQaSgMepc 4:05 Bennett Brook Railway End of Steam Season 2016
-kgfBRnecBoo 5:51 Bennett Brook Railway, Dorman #8 from the footplate
+# kgfBRnecBoo 5:51 Bennett Brook Railway, Dorman #8 from the footplate
 NbyYFHgDJ7g 6:14 Optus Stadium lights and stadium tour (re-upload)
 Q0Ao2Ni_xho 9:56 Bennett Brook Railway, Whiteman Park classic car day 2016
 XljbRbWvUrA 9:11 Bennett Brook Railway, Steam season 2014 & 2015
