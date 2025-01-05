@@ -4094,6 +4094,14 @@ WnxK4iYehag 40:54 Kalevala laulettuna - Viidestoista runo
 NTz2-im7s9k 26:54 JRR Tolkien - All VIDEO interview compilation 2022 - CleanCut
 
 # Helge Fauskanger - "Cenindo"
+BSA5jMe8UQ8 10:55 Speak Elf Yourself - Part 15
+uAquq_830kI 11:39 Speak Elf Yourself - Part 14
+cDh8AtlvjiU 20:58 Speak Elf Yourself - Part 13
+kloMJQx0ayc 13:51 Speak Elf Yourself - Part 12
+gcdvkhBKcSg 11:36 Speak Elf Yourself - Part 11
+_NUWn0iO4So 14:29 Speak Elf Yourself - Part 10
+mqSzchgSI7A 12:46 Speak Elf Yourself - Part 9
+A9XR7Wl9X-g 13:17 Speak Elf Yourself - Part 8
 LOKkboX_910 12:59 Speak Elf Yourself - Part 7
 evjqeOrzMQ8 10:54 Speak Elf Yourself - Part 6
 GkFG1GdGJx0 13:27 Speak Elf Yourself - Part 5
