@@ -3075,6 +3075,160 @@ nTUegVgzxag 0-4:50 Heifetz Hootenanny: Sí Bheag, Sí Mhór | Nigel Armstrong & 
 -bNGmy6QNk4 13-3:56 Bach: Allemande from French Suite No 3, BWV 814 | Peter Blanchette, Mané Lareggla, archguitars
 i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely
 
+# MarchVivo
+CzRjZn-VpbQ 52:56 Birth of Jazz: From New Orleans to Chicago | Canal Street Jazz Band · MarchVivo
+QNdlDPbydb8 1:10:29 Iberian Music for Keyboard | Pierre Hantaï · MarchVivo
+l3CLj2lCEQM 22:00 Clementi: Sonata on a Square Piano | Alexander Melnikov · MarchVivo
+1TE6ro7WYVM 28:55 Felix Mendelssohn: Piano Trio No. 1, Op. 49 | Trío VibrArt · MarchVivo
+NeS7g7m2Jto 2:34 Tchaikovsky: Valse sentimentale | Adolfo Gutiérrez & Luis Fernando Pérez · MarchVivo
+NFBdFajEW1c 58:44 Bach, Telemann and Weiss: Baroque Lute Music | Xavier Díaz-Latorre · MarchVivo
+XsDcDGJFKig 14:50 Bach: Sonata for Viola da Gamba No. 1 in G Major, BWV 1027 | Coin & Martin · MarchVivo
+3fbJ0TzgePU 17:56 Frank Martin: Trio sur des mélodies populaires irlandaises | Trio Imàge · MarchVivo
+ktxmNXvP-zM 38:29 Choir music in the darkness | Young ORCAM Singers · MarchVivo
+XQiqqGNPPSY 49:47 From Medieval Cantigas to Popular Songs | Cantaderas · MarchVivo
+6X46tx5Q6pU 50:03 Russian composers sing to Spain | Stánchev & Mariño · MarchVivo
+YiR9Eqa5gGw 1:06:52 Lorca’s Poetry Through Songs | Lojendio & Viribay · MarchVivo
+kzSrBzgeEU4 46:09 Las Huelgas Codex | Psallentes · MarchVivo
+gCo1xJtZlEU 23:51 Crumb, Wolf and Berg from the piano | Rachel Fenlon · MarchVivo
+RyEBAa436c8 36:24 Irish Folk Music | Daoirí Farrell Trio · MarchVivo
+XEchvEWwAtE 56:27 João Guilherme Ripper: Chamber Opera Domitila · MarchVivo
+30TO3NUr3sA 40:18 The Golden Era of Tap Dance | Barcelona Rhythm Tap · MarchVivo
+XgexdX3vjDI 13:08 Renaissance Music on a Recorder Ensemble | Seldom Sene · MarchVivo
+qjvFGTUp69Y 5:21 Habaneras & Tangos | Ricardo Gallén (#MarchVivoCD) · MarchVivo
+rKhuwGinhus 28:25 Sacred Music and Mystic Poetry | La Ritirata & Manuela Velasco · MarchVivo
+JHn88YtXtzY 1:00:01 Baroque Music for Violin Solo | Rachel Podger · MarchVivo
+pQDxvBlEs9M 16:24 Bach: Partita for Violin Solo No. 3, BWV 1006 | Midori Seiler · MarchVivo
+ggYJMVVB2Uk 23:58 Lorca, in memoriam: Falla & Poulenc's Violin Sonata | Valderrama & Kadouch · MarchVivo
+0kBfNiHjwyo 34:15 Marcello, Rameau and Purcell on Early Instruments | Dunedin Consort · MarchVivo
+_FO9punMyJw 22:30 From Renaissance to Pop music | Die Singphoniker · MarchVivo
+LtAguX6owWU 46:55 Handel, Vivaldi and Corelli join Caravaggio | Teatri 35 & Tiento Nuovo · MarchVivo
+pIMMfID9sN8 39:25 Hildegard von Bingen: Songs for St. Ursula | Psallentes · MarchVivo
+sBlCYm4Qr7w 31:23 A Renaissance Mass for Eight Trumpets: Du Fay in Darkness | The Monochrome Project · MarchVivo
+VTvjJHk13Kk 26:48 Rameau: Suite in G Major | Mahan Esfahani · MarchVivo
+sH0pQH4E_GE 1:04:18 Harmonica & Broadway | Antonio Serrano & Ignasi Terraza · MarchVivo
+epP9xUyl2CI 1:08:14 Schoenberg: Pierrot lunaire · MarchVivo
+JIRGvvc6zP0 1:07:27 Love in Spanish Baroque Theatre | Águeda, Martín-Cartón, Álvarez & Del Valle · MarchVivo
+CKJYPt8naUQ 1:03:19 Venice Baroque Music on The Harpsichord | Fabio Bonizzoni · MarchVivo
+pGd0rmD8CN4 37:39 Irish Folk Music | Karan Casey · MarchVivo
+tSjJ3hqia7s 1:07:24 Love songs in Renaissance Music: Adonis and Venus | Phaedrus · MarchVivo
+q6jyeEwvnV4 3:51 Domitila, an Opera About Hopeless Love · MarchVivo
+gR2hT5_hDF0 1:14:31 Weinberg: String Quartets Nos. 15, 16 & 17 (Complete Quartets V) | Danel Quartet · MarchVivo
+Qc5z_wPaFjw 57:33 Baroque Harpsichord from Naples | Enrico Baiano · MarchVivo
+t_XXmJc_PLA 1:00:04 Georg Anton Benda: Melodrama Medea · MarchVivo
+PMHwmR92vBc 17:29 J. S. Bach: French Suite No. 5, BWV 816 | Olga Pashchenko · MarchVivo
+wyNIXJbfjMU 1:32:38 Weinberg: String Quartets Nos. 11, 12, 13 & 14 (Complete Quartets IV) | Danel Quartet · MarchVivo
+lBlHgNMt6pA 22:53 Renaissance Music for Harp Duo: Milán, Mudarra, Cabezón | Las Arpas Sonorosas · MarchVivo
+bE3HLeP3saI 1:05:51 Weinberg: String Quartets Nos. 8, 9 & 10 (Complete Quartets III) | Danel Quartet · MarchVivo
+ukMm05XTnfI 1:03:24 Musicals on The Piano: From Gershwin to Porter | Baptiste Trotignon · MarchVivo
+oF70XhHvsFM 42:30 Boleros, Love Sorrows | Zenet, Ángela Cervantes & Pepe Rivero · MarchVivo
+YsTly09vULg 55:10 Viktor Ullmann: Melodrama The Love and Death of Cornet Christoph Rilke · MarchVivo
+kMtFhIX3cLc 1:18:27 Weinberg: String Quartets Nos. 5, 6 & 7 (Complete Quartets II) | Danel Quartet · MarchVivo
+KfmWJ7e5FzY 47:57 Early Music and Songs of The Mediterranean | Devecioğlu, Heumann & Díaz-Latorre · MarchVivo
+bCMkWM-srm0 55:36 Musicals in Big Band | AP Big Band · MarchVivo
+_AVvb2BlMpo 48:51 "The Spagna": Renaissance Dance | La Danserye, Campóo & Vicedo · MarchVivo
+W1DZap9bYSU 1:35:04 Weinberg: String Quartets Nos. 1, 2, 3 & 4 (Complete Quartets I) | Danel Quartet · MarchVivo
+ocMtbH9YEp4 52:02 Troubadours and Medieval Courtly Love | Ensemble Leones · MarchVivo
+68wz6cCi8HM 15:55 Sabicas & Sanlúcar: Flamenco Guitar and Dance | Conde · MarchVivo
+0sKu57Fh5LM 31:01 José de Nebra: Works for Keyboard | Irene Roldán · MarchVivo
+IJ6NxIvzF1U 21:18 French Cabaret: from Club to Concert | Sandra Ferrández · MarchVivo
+J1lZeHNDOro 50:03 The Bach-Abel Concerts in London | Anacronía · MarchVivo
+2XWX6sxImx8 31:53 Galician Concert Songs | Borja Quiza · MarchVivo
+RtWvS1nlt38 23:46 Boccherini & Brunetti: the Birth of the String Trio | Concerto 1700 · MarchVivo
+-1of6F7a8oY 25:52 Monteverdi and Ariadne's harp | Invernizzi & Koell · MarchVivo
+JnSscthU_Sk 20:57 Baroque Court Dances | La Floreta & Delirivm Musica · MarchVivo
+qTAYkjp0iOY 4:35 Conrado del Campo: Quartets No. 3 & 5 | Diotima Quartet (#MarchVivoCD) · MarchVivo
+tREQR2TfPYI 49:37 Harpsichord Music from Spain to Latin America | Diego Ares · MarchVivo
+PBr-HJqEl5Y 6:55 Nocturnes on The Margins | Josu de Solaun (#MarchVivoCD) · MarchVivo
+zNQdXRwkp2o 25:58 Incerti: Anonymous Baroque Composers | Ministers of Pastime · MarchVivo
+dfhUm6G2drk 4:59 Jazz Standard “All of Me” (on A Prepared Piano) | Marco Mezquida· MarchVivo
+p9olLPOR9n4 4:14 Flamencos: Falla, Granados, Albéniz | Márquez & Torres-Pardo (#MarchVivoCD) · MarchVivo
+H5km5QII8Ew 29:09 Gesualdo and the Flourishing of Chromaticism | La Camerata Chromatica · MarchVivo
+sgNbtLGfycY 36:22 Sibelius and Nordic Polyphonies | Barcelona Ars Nova · MarchVivo
+QghC8wvEPlM 34:24 A Fado Anthology | Rita Barber · MarchVivo
+M6kqDHrLDx8 10:59 Conrado del Campo: Lento, from Quartet No. 8 | Diotima Quartet (#MarchVivoCD) · MarchVivo
+O-eVmwVGZvI 56:06 The Viola da Gamba: An Overview | Miguel Bonal · MarchVivo
+UOdliLZDaKg 1:14:02 Mozart and the Triumph of Counterpoint | Bezuidenhout · MarchVivo
+ZCEKzHTO-6Q 1:22:36 The Spanish Real Book: Sambeat, Sanz & Rossy · MarchVivo
+1a5-7RWIcg0 1:29:43 Cuban Trova on Piano | Pepe Rivero · MarchVivo
+EmCqXgPivLY 1:18:44 Manuel García: Chamber Opera I tre gobbi · MarchVivo
+7wPOxiapDFY 56:53 An Anthology of Flamenco | El Granaíno · MarchVivo
+mNaMIE7UNX8 44:37 Penderecki: Polish Requiem and Sonata No. 2 | Moreno, Bohorquez & Krupiński · MarchVivo
+Ol5Sako3UiA 5:54 Tchaikovsky: October for Piano | Blackshaw · MarchVivo
+D-RhV_3kWfw 1:13:43 The Ballets Espagnols in Paris: Ballets by Óscar Esplá and Ernesto Halffter · MarchVivo
+P98GEgDiYkA 57:23 Schubert, The Arpeggione and The Guitarromanie | Riquelme & González · MarchVivo
+yvhl4QWMdog 22:27 Choral Encores | Choir of the Comunidad de Madrid · MarchVivo
+WJcNKEFQma8 22:29 The Nostalgic Guitar: Falla, Piazzolla, Ellington and Barrios | Dukić · MarchVivo
+XV6H5fSH77k 37:12 The Scarlatti Effect on Harpsichord and Piano | Ituarte · MarchVivo
+P785ebtFI2A 49:47 Schubert & Brahms: Dream Lands | Appl & Baillieu · MarchVivo
+lvlfer5VIlo 7:04 Classic & Jazz: Two Views on Bach's Invention BWV 773 | Ituarte & M. Sánchez Trio · MarchVivo
+vkc5k_EoOwI 5:41 Classic & Jazz: Two Views on Bach's Prelude in C Major BWV 846 | Colom & Trotignon · MarchVivo
+zA792An8oC8 53:17 John Dowland: Lachrimae for Viol Consort | Phantasm · MarchVivo
+u-Bygdq2KCs 51:18 Beethoven & Giuliani for Two Guitars | SoloDuo · MarchVivo
+2MUyHqCc5WM 24:23 Duarte Lobo and Renaissance Portuguese Polyphony | Officium Ensemble · MarchVivo
+_joim_LY7QA 22:03 Mendelssohn and his Spanish Counterparts | Noelia Rodiles · MarchVivo
+a_7fKl-chsM 1:06:44 Viennese Piano Variations: Haydn, Mozart and Beethoven | Blackshaw · MarchVivo
+r2GIHkZ0NEQ 7:00 Liszt: Paraphrase on Verdi's Rigoletto S 434 | Filipec · MarchVivo
+5HnIH2RNKUM 1:04:24 Stravinsky’s Ballets on Violin | Gingolts & Laul · MarchVivo
+-2mcqIWOIko 26:18 Bartók, Peasant Melodies as Inspiration | Gulyás, Sipos & Szabadi · MarchVivo
+uvjdunLOP5c 13:44 Webern and Schoenberg Paint for Mondrian and Kandinsky | Leonskaja · MarchVivo
+69ErGDqRrNM 49:24 17th-century Italian Instrumental Music (Merula, Rossi and others) | La Vaghezza · MarchVivo
+v44FEToJgbE 46:06 Bartók's Piano Music | Péter Nagy · MarchVivo
+3tXrxbmMkIY 15:18 Scarlatti in Ligeti: Harpsichord & Piano | Pashchenko · MarchVivo
+ne7lD0Hr9vw 1:00:14 Rossini: Mi lagnerò tacendo | Faus & Domené · MarchVivo
+n3pW0fxaWJo 9:49 Conrado del Campo: Elegy, from String Quartet No. 9 | Diotima Quartet · MarchVivo
+rSH3PbHrlv0 8:50 Children Choir: Bartók, Kodály & Ligeti · MarchVivo
+BqPeYG0IMsk 36:12 Chanson & Fado: From Edith Piaf to Amália Rodrigues | María Berasarte · MarchVivo
+ksTfd_5gGR0 1:03:42 The Art of Portuguese Songs | Quintans & Raposo · MarchVivo
+msuIAFKiH_E 13:55 Bach: Concerto for Two Harpischords BWV 1060 | Melnikov & Pashchenko · MarchVivo
+xMGfrxtow4I 1:16:38 Boccherini & Brunetti: Oboe Quintets and Sextets | Il Maniaco Ensemble · MarchVivo
+BXPyj2PYS-k 1:17:02 Frescobaldi & Froberger in Rome | Christophe Rousset · MarchVivo
+Ue70z9yjPQU 27:22 Rossini on a Historical Harp | Cermeño · MarchVivo
+iF4NQHTTIzk 53:47 Roslavets, Mosolov & Lourié: String Quartets | Leipzig Quartet · MarchVivo
+MZco1Ohwnc0 39:18 Cortázar, Piazzolla and the Tango · MarchVivo
+C3t84x8pkbM 7:36 Schubert: Andantino from the Sonata D959 | Leonskaja · MarchVivo
+0PsQkkfh_ag 32:41 From Opera to Spanish Song | Sabina Puértolas · MarchVivo
+xsPj5vCu1-Q 25:02 Singing Dowland, Purcell & Handel | Iestyn Davies & Dunford · MarchVivo
+pPEJlvGc1zI 12:45 Bach: English Suite No. 5 | Tristano · MarchVivo
+KkD_wf3EuiI 2:43 Knut Nystedt: Prayers of Kierkegaard | Voces8 · MarchVivo
+oYekHPDF_r8 1:29:00 Shostakóvich & Weinberg: Under the Soviet Yoke | Varvara · MarchVivo
+TBd3so2AgSQ 1:05:28 A Barbershop Quartet | Ringmasters · MarchVivo
+BVLZ-HDaDSk 5:04 Cole Porter: C'est Magnifique | Serrano & Terraza (#MarchVivoCD) · MarchVivo
+rKDqua7UqBU 15:15 Bach and Vivaldi on Violone, an Extinct Instrument | Campanero · MarchVivo
+IUa_NSQ_ngk 35:53 Dowland and the English Lute | Hopkinson Smith · MarchVivo
+gwBdRfeC9kg 1:41:13 Polyphonies from Georgia | Basiani Ensemble · MarchVivo
+d90a3Qkc5gM 57:10 Hábitat, a Dance Show | Daniel Doña · MarchVivo
+Lz8K5SzLVAM 1:14:13 Chopin and Schubert through Adès and Widmann | Imogen Cooper · MarchVivo
+-QfTxTlmqBI 1:09:31 The Cuban-Spanish Real Book | Rivero, Brínguez, El Negrón, Olivera · MarchVivo
+fMrp5MwJ7o4 1:12:47 Cole Porter’s Classics | Andrea Motis & Ignasi Terraza · MarchVivo
+w8UGrjVo6BU 25:47 Florence Price and the African American Quartet | Ulysses Quartet · MarchVivo
+hMMFVfS5Qcw 34:22 Leonardo da Vinci in Music | I Fagiolini · MarchVivo
+dlX6LXmpkBs 1:24:35 Johann Adolph Hasse: Intermezzo Grilletta e Porsugnacco · MarchVivo
+yKiSrlM784s 56:24 Scarlatti Meets Handel, Rameau and Bach | Benjamin Alard · MarchVivo
+P2Zt-OFZzmc 23:22 Latin American Lullabies | Betty Garcés · MarchVivo
+qb6pnSkY20g 1:12:20 Beethoven: Piano Sonatas "Pathetique" and "Moonlight" in Images | Moisés P. Sánchez · MarchVivo
+VLKo-dE-fDU 21:29 Albéniz: Flamenco on Guitars | Gallardo & Cortés · MarchVivo
+oJrw0JPEr74 55:51 Liszt, Wild and the Pianists Virtuosi | Vittorio Forte · MarchVivo
+uFGr9y_y9kc 53:39 Instrumental Rarities: Virginal & Clavichord | Bruno Forst · MarchVivo
+AlNcmRU5vhw 1:23:43 Goya and the "Spanish" Haydn | Casals Quartet · MarchVivo
+c4IfG83L-Cc 7:08 Aria from the Goldberg Variations, with an Improvised Prelude | Jean Rondeau · MarchVivo
+dWEVgKF6UfE 1:06:49 Bossa Nova Classics | Fred Martins & Sergio Menem · MarchVivo
+8PhQv_8pVV8 1:16:21 Baroque on the Piano: from Purcell to Handel | Varvara · MarchVivo
+kPs3Dux34uA 4:35 Conrado del Campo: String Quartets Nos. 3 & 5 (#MarchVivoCD) | Quatuor Diotima · MarchVivo
+hAfPdBrK-A4 1:23:33 Improvising on Three Keyboards | Anthony Romaniuk · MarchVivo
+fvQLUBtv-xc 1:08:19 Mozart in London through His Letters | Egarr & Nepomnyashchaya · MarchVivo
+FT7cxm0Bodo 3:25 Moments Musicaux | Josep Colom (#MarchVivoCD) · MarchVivo
+t0MhU-q7oFM 1:14:21 Pauline Viardot: An Autobiographical Soirée · MarchVivo
+2px-qIrAJGc 14:37 Nordic Polyphonies | Svanholm Singers · MarchVivo
+BO2zfh6Ntlw 5:09 The Couperin Family | Benjamin Alard (#MarchVivoCD) · MarchVivo
+bZnQHRX5gOc 1:20:31 Buenos Aires piano: Tristes and Tangos | Horacio Lavandera · MarchVivo
+4x5skN__vK0 11:16 Improvising on Violin in Baroque Style | Saladin & Keller · MarchVivo
+Ae0rs24CktY 3:16 Conrado del Campo: String Quartets Nos. 6 & 7bis | Gerhard Quartet (#MarchVivoCD) · MarchVivo
+Yk9enETAVXs 1:14:48 Sergei Rachmaninoff: Opera The Miserly Knight · MarchVivo
+gRXzti68eyE 47:02 Variations with Tabea Zimmermann · MarchVivo
+Xo5p5gzIgSM 31:51 Beethoven: Violin Sonata No. 5 Op. 24 "Spring" | Ibragimova & Tiberghien · MarchVivo
+ICpkE4rPIIk 16:10 Medieval Motet: Ars Antiqua et Ars Nova | La Reverdie · MarchVivo
+DjqIn1Sqfpo 22:34 Les voix humaines | Jordi Savall · MarchVivo
+
 # Südtirol in Concert
 vvNd7T4haPg 30:29 Brahms | Quartet no. 2 in A minor op. 51
 6orJQxg6-CI 13:39 Johann Sebastian Bach | The art of the fugue - Contrapunctus 1-4
