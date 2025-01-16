@@ -32,6 +32,10 @@ export const episodes: Array<string> = [
   ksWh7VMVmOI 16:38 Winnie the Pooh - read by Norman Shelley - Chapter 9
   hk3mcTfo7fM 13:55 Winnie the Pooh - read by Norman Shelley - Chapter 10
   `,
+  `
+  OD-lTjKMzrQ 6:50:54-7:30:39 The Memoirs of Sherlock Holmes - The Naval Treaty, Part 1
+  nsvyDd5eISc 0-36:42 The Memoirs of Sherlock Holmes - The Naval Treaty, Part 2
+  `,
 ]
 
 export const videos: string = `
@@ -45,6 +49,14 @@ EQuQF102O6I 4:25:57-5:23:50 The Adventures of Sherlock Holmes - The Man With the
 eYpFjaJMiFY 49:56-1:41:05 The Adventures of Sherlock Holmes - The Adventure of the Noble Bachelor
 eYpFjaJMiFY 1:41:07-2:41:11 The Adventures of Sherlock Holmes - The Adventure of the Beryl Coronet
 eYpFjaJMiFY 2:41:13-3:42:34 The Adventures of Sherlock Holmes - The Adventure of the Copper Beeches
+
+# The Memoirs of Sherlock Holmes
+OD-lTjKMzrQ 0:00:00-0:59:45 The Memoirs of Sherlock Holmes - Silver Blaze
+OD-lTjKMzrQ 3:10:08-3:55:36 The Memoirs of Sherlock Holmes - The Musgrave Ritual
+OD-lTjKMzrQ 3:55:41-4:39:00 The Memoirs of Sherlock Holmes - The Reigate Puzzle
+OD-lTjKMzrQ 4:39:00-5:21:38 The Memoirs of Sherlock Holmes - The Crooked Man
+OD-lTjKMzrQ 5:21:41-6:07:24 The Memoirs of Sherlock Holmes - The Resident Patient
+nsvyDd5eISc 0:36:45-1:22:42 The Memoirs of Sherlock Holmes - The Final Problem
 
 # The Return of Sherlock Holmes
 vzFCXmbdmNk 0-56:01 The Return of Sherlock Holmes - The Adventure of the Empty House
