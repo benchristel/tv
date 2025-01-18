@@ -79,9 +79,12 @@ eUD6jVUxRVs 27:02 Sherlock Holmes - The Three Garridebs with Carleton Hobbs and 
 # Audiobooks
 
 k5onUh_4qv8 6:55:28 The Wind in the Willows [Full Audiobook] by Kenneth Grahame
-mVXZg6_JdmE 4:40 The Hobbit Chapter I in Cornish (An Hobys Chaptra I in Kernowek)
 POSkU5goGXE 2:20:56 Winnie-the-Pooh (Version 2) by A. A. Milne read by Matthew Soanes | Full Audio Book
 OqbX_Qs6n_8 1:54:49 Swallows and Amazons by Arthur Ransome full audiobook read by Bernard Cribbins.
 zqNnA8tqULw 0:04-6:30 Portrait of King William III by Mark Twain | Audiobooks Youtube Free | Mark Twain Short Stories
 sV_upQm8ZIg 2:20:50 Three Men in a Boat (1994) by Jerome K. Jerome, read by Hugh Laurie
+
+# Cornish
+5LYCa0Jktkg 28:33 Ray Chubb - The Story of John of Chy-an-Hur (Cassette, Unknown Year)
+mVXZg6_JdmE 4:40 The Hobbit Chapter I in Cornish (An Hobys Chaptra I in Kernowek)
 `

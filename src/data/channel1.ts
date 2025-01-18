@@ -1293,6 +1293,10 @@ bmgc9EnO5xs 8:32 Kegin Esther mis Me 2020
 rdyd0j8mYnA 6:57 Kegin Esther mis Ebrel 2020
 # RZqqxoS8RBI 2:04 music fest 2013 002
 
+# Tom Vincent
+piK6ieBiX7k 51:04 Once in a lifetime - The last place in England
+pMMcl-gi0JM 32:55 A Brief History of the Welsh Language
+
 # Association for Cornish Heritage
 NuEoRnfHlBY 4:19 Before the Poppies
 uQYJM_JXyfQ 4:31 St Piran's Day in Newquay 2024
