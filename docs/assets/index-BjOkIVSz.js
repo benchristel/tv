@@ -1348,7 +1348,7 @@ Rq7xVYb0Cn8 6:36 Tamar Stamp Dance with Rosie Fierek
 Jx0hocUqpeo 7:21 Newquay Library - I brushed my teeth with hair gel
 gwBLGZIMWQ8 3:52 Tales From Porth - 'Goraswonnek' by Will Coleman, Read by Elizabeth Carne
 lI-8ZxNKF-Q 51:51 Tide & Time by Blystra Arts in collaboration with Newquay Heritage Archive & Museum
-N6GwYa58eXI 58:41 Past St Piran Processions
+N6GwYa58eXI 0-4:18,11:07-58:41 Past St Piran Processions
 OTKOzWj7L3k 9:50 Chris Blount Archives - Gigs, Boating Lake & Cathedral Concerts
 s5CRkNxv8I8 8:05 Grand Bard Elizabeth Carne - St Piran Message 2021
 aN8_xVjemj0 39:39 Urban Kelt Session - Thursday 4th March
@@ -2104,7 +2104,7 @@ ngpYT2IOiwE 2:31 Behind The Moon Hares
 OEY7h-fTf7M 0:26 OAE - The Orchestra in a School by Drone
 9Zp807tD_Qs 1:00 LIVE AT THE HEX in 60 seconds
 sCZ2lp-YwwI 1:06 OAE Rising Stars: Where're you walk (Behind the Scenes)
-k5duAqWy95M 0:38 Bach, the Universe and Everything
+# k5duAqWy95M 0:38 Bach, the Universe and Everything
 m6tbN8NHpsU 4:44 The Rime of the Ancient Mariner - Rory Kinnear
 lLQnCNZQCkc 4:56 Sospiri (Sighs) by Edward Elgar
 5cOHoAOSB8M 2:49 Beethoven Without The Van
@@ -3873,27 +3873,18 @@ SS7n-l7a7xk 8:16 The North Coast of Ireland
 # Bennett Brook Railway
 RovfLuEgZus 17:28 Vintage transport film - Look at Life - High, Wide and Faster - 1963
 f0h75MBhRTw 6:34 Bennett Brook Railway - 'Thomas Day' - 1996
-# Fxq0aqDanQY 8:54 Vintage railway film - Look at Life - Draw the Fires - 1963
-# FVjakVLMngQ 2:18 Bennett Brook Railway - Steam and diesel powered top and tail train
 SjUidv4IkNI 18:02 Bennett Brook Railway - Enthusiasts Day - 1996
-# RlMZt19J5Tc 5:09 Vintage railway film - Scrapping the old iron horses - British Pathe - 1961
 xtB_03QUFs0 9:00 Vintage Transport film - Look at Life - Over and Under - 1960
 8JppUlvDIWg 21:35 Bennett Brook Railway - Enthusiasts Day - 1995
-# KwG_PdAmDqY 11:27 Transperth train cab view - Butler & Clarkson, Joondalup line - Then & now split screen - 2018/'23
 9fxVjryvRN0 9:57 Vintage railway film - Look at life - Letting off steam - 1959
 z9Iy9kiapPc 16:45 Bennett Brook Railway - Enthusiasts day - October 1994
 VMjomS52YlY 31:34 Vintage railway film - The last train to Woodford Halse - MACE (Media Archive for Central England)
-# Du8bdw0Jkkw 1:23 Transperth Trains cab view - Express thru Murdoch station & crossing Mt Henry bridge - Winter 2019
 jksbjTu9678 7:15 Hotham Valley Railway - Last day of Steam Ranger service for the 2023 steam season.
 ROK6fT6UBZE 26:02 Steam on the Settle and Carlisle
 GqUHplnT6rk 28:06 Vintage railway footage - Mildenhall and Scottish Express
-# HrBb-SACcZs 42:53 The Ghan is going - 1980
 YwYGPicccuc 1:00:14 Vintage railway footage - Decades of steam - 1940s
-# DT6k-r5zgkY 1:56 Indian Pacific in the Avon Valley
 WeXr6IpfBLo 1:13:26 Transport film - Crewe works; The inside story - 1996
-# vi6C10BEVpw 2:53 Bennett Brook Railway - Steam and diesel operations
 GBamHmEzQfI 1:00:16 Vintage railway footage - Decades of steam - 1930s
-# IDh8JVSnqtg 0:31 Vintage railway film clip - The Wrecker (silent film) - 1929
 pfZKGPSH0Ac 12:21 Vintage railway film - The way we live; A railwaymens film Darlington - Tyne Tees TV - 1960
 20VEUn6D_w0 5:07 Bennett Brook Railway - Ashley and Friends day - May 2015 compilation
 Y1nqCPJ6FsQ 6:49 Bennett Brook Railway - Ashley and Friends day, September 10th 2023
@@ -3906,45 +3897,25 @@ AtJtO8TYTtQ 3:04 Avon valley trains - Standard and narrow gauge - See video desc
 EwaV5W0gDHg 51:03 Transport Film - Running to Time - Equinox - 1988
 h3jY6AjX-SQ 10:04 Vintage railway footage - Banking the Lickey - 1958
 8VcubT02PYk 20:54 Vintage railway footage - The Age of Steam - Bromsgrove
-# 1FH8SvgM7NY 12:27 Sunday Night - Stopped in their tracks - 2012
 FpNd-X_ct7Y 9:42 Vintage railway film - Power to order - 1941
 uHjgn5g5_d8 6:15 Bennett Brook Railway - May 2015
-# _McVL2STZi8 14:14 Vintage railway film - Emergency Coupling (Class 253/4) - British Transport Films - 1980
 022xeVsjmnk 13:24 The Derwent Line - Australian Broadcasting Corporation - 1989
 rNdBmV7uFs8 45:20 The Flying Scotsman down under - 1989
 bK9DEyWCZyQ 1:05 Bennett Brook Railway - Mussel Pool station departure - Winter 2023
-# 32DAbocXvnY 33:16 Transperth train drivers view - Perth to Claremont and return - Real time
-# R41fv6ZEPgU 6:51 Transperth train drivers cab view - Perth to Claremont and return - high speed
-# z6gNlNFjVzM 8:04 Transperth train drivers view - New Bayswater trackwork and platform
 KzGo3DJJUys 3:05 Bennett Brook Railway - Ashley and Friends Day - 21st May 2023
-# c4Bx4LAhL74 0:46 Bennett Brook Railway - First train service over new concrete level crossing - Planet 7 - 20/5/23
-# Un8hBrJHrYg 58:31 Great Australian Railway Journeys - Newcastle to Brisbane - 2019
-# OenqJI9rlfg 58:42 Great Australian Railway Journeys - Kuranda to Townsville - 2019
-# U7RW72WeSmc 58:51 Great Australian Railway Journeys - Canberra to Melbourne - 2019
-# YvZfEV59L1A 59:19 Great Australian Railway Journeys - Adelaide to Perth - 2019
-# lqRZYeOsMVE 58:56 Great Australian Railway Journeys - Sydney to Broken Hill - 2019
-# yRl4lwvVfg4 58:53 Great Australian Railway Journeys - Port Augusta to Darwin - 2019
 JIKesg5OHN8 52:03 Rail adventures across Australia - Tasmania - 1999
 F1exmPs1g5A 52:17 Rail adventures across Australia - Victoria - 1999
 my1zXcZJfV4 52:08 Rail adventures across Australia - Western Australia - 1999
 p6xNmpCskLs 52:26 Rail adventures across Australia - South Australia - 1999
 8iMns6sF-eo 52:02 Rail adventures across Australia - New South Wales - 1999
-# le14k2nUuC0 9:00 Transperth train drivers cab view - B series - Perth to High Wycombe and return - High speed
 z0ppLLO62-s 52:03 Rail adventures across Australia - Queensland - 1999
 BTFkPi9BtvQ 1:00:49 Pure Steam Locomotion - Featuring 3801, R761 and Flying Scotsman
 iOPCmf4nzlA 58:20 The longest thousand miles - Flying Scotsman and Pendennis Castle in Western Australia - 1992
 V9XasDqILTk 50:53 Ted Egans railways of yesteryear - 1991
-# 7zFLQCIPgak 45:01 Transperth train drivers cab view - B series - Perth to High Wycombe and return
 y5CnbQCEhyI 28:03 Track record - Tethered to the world - 1991
 DVSGm2rshh4 28:02 Track record - Missing links - 1991
-# vck8QFcY_mE 28:05 Track record - In a spirit of progress - 1991
 tgWD-5wn_eg 28:23 Track record - Broken journey - 1991
-# DB1gPPc_WxI 43:55 Rails around Australia - Episode 5 - 1987
-# dnQZvsYiRZk 43:53 Rails around Australia - Episode 4 - The desert trains - 1987
 Ecm2h8f-Q-I 29:02 Flying Scotsman - The return of Flying Scotsman - BBC Four - 2016
-# gSQIU1PnXjQ 41:46 Rails around Australia - Episode 3 - The trains that take it easy - 1987
-# DMkpWL4qc8Q 43:32 Rails around Australia - Episode 2 - Last of a line - 1987
-# 55ohZdkHGJI 43:24 Rails around Australia - Episode 1 - Destination Alice - 1987
 p_czvQgxAFc 1:28:28 Steam trains of Australia - 1985
 yOjhF_KV2Wc 1:18 Bennett Brook Railway - Ashley & Rosalie departing Whiteman Village Junction - Ashley Day, Sept '22
 XFaFWhL2lNk 3:07 Bennett Brook Railway - Steam and diesel hauled services near Zamia station
@@ -3964,10 +3935,6 @@ Y3HAAiKvfOI 20:25 Vintage railway film - Decontamination and repairs - Southern 
 XuP6zsrqVZ0 14:26 Vintage railway film - Can we help you? - LNER
 praXvXxf1dM 13:57 British transport film - Robbie - 1986 version
 Kf-XqNbiqQQ 53:16 British Rail - Signalling - 1989
-# NlcAKUChyII 35:44 Vintage railway film - Railway bridge across the Thames - 1968
-# EXFmxgpAsbs 20:17 Vintage transport film - All that mighty heart - 1963
-# ezRP1h6x2GE 9:57 Vintage training film - Manhandling - 1962
-# WkxRw4dbVR8 2:45 Bennett Brook Railway - Perry 0-4-2 tank engine 'Betty Thompson' drone footage with train audio
 TI0HD1Tdpv4 10:58 Vintage railway film - The elephant will never forget - 1953
 AA9BmsHhlM8 16:46 Vintage railway film - The stone carriers - 1982
 NS06ECJQN88 4:34 Bennett Brook Railway - First steam train service of the 2022 steam season
@@ -3976,38 +3943,14 @@ l152EmsCg80 4:31 Vintage railway film - InterCity 1250 - 1982
 F-F8sl9PP9M 12:15 Vintage railway film - On track for the eighties; Rail report 13 - 1980
 8rnho6Uz_3E 6:18 Vintage railway film - Centenary express - 1980
 l3Zs3sWxjWw 16:58 Vintage railway film - Current events on the Midland - 1980
-# Ms1ftBcaMKQ 12:36 Vintage railway safety film - Robbie - 1979
-# LAv2fAm8qeI 11:04 Vintage railway film - Power to stop - 1979
-# DpvIFBmHzKE 24:44 Vintage railway film - A new age for railways - 1979
-# xWI0wtLgxWE 6:40 Vintage railway film - Overture one two five - 1978
-# jGbPz-gQHyg 6:14 Vintage railway film - Discover Britain by train - 1978
-# AF-dbb1IkjQ 11:40 Vintage railway film - Discovering railways - 1977
-# Ddb9YgKz5FA 23:26 Vintage railway film - Inter City 125 - 1976
-# LVgDgcM9euk 12:49 Vintage railway film - Rail 150 - 1975
 8V80znOYlW4 16:03 Vintage railway film - Operation London Bridge - 1975
-# y2IknG4Cbxg 14:31 Bennett Brook Railway from the air - Check description for video notes
 K3U90tuSXX8 13:42 Vintage transport film - Golden Arrow - 1949
 UvoKTj_PGxk 18:49 Vintage LMS railway film - On the shed - 1930s
 ZSn7ptQvDLQ 39:34 Vintage railway film - Giants of steam - 1963
-# WSpMpPfDo5g 1:42 Transperth cab view - New Cockburn Central permanent way alignment
-# TKWuRd74uxk 42:36 Transperth train drivers view - Perth to Cockburn Central return
-# WgYtnQjVXEE 9:23 Transperth train drivers view - Perth to Cockburn Central return - high speed
 gWKTKeglnPg 28:53 Vintage railway film - Points and aspects - 1974
 __7pRliRQ9I 17:55 Vintage BTF film - Britannia; A bridge - 1973
 VkeCLQOOIyQ 11:54 Vintage railway film - LMS London to Manchester Express - The Engine Driver - 1948
-# DXLN1gJD4QI 18:10 Vintage railway film - Rail Report 12; This year by rail - 1972
-# RA8LQHF6Gv0 9:48 Vintage railway film - Journey InterCity - 1972
 npcDeNp7d-8 14:02 Vintage railway and travel film - North to Wales - 1956
-# CLPwjAuc96I 16:38 Vintage transport and tourism film - Down to Sussex - 1965
-# 8sOr0-DOPSs 9:28 Vintage railway film - Plumb Loco - 1971
-# RfbUWZsE2S8 16:42 Vintage railway film - Report on modernisation no. 11: Railways conserve the environment - 1970
-# cvDaysV6FnE 2:47 Vintage railway film - Rush Hour - 1970
-# V9BdMcXXqmA 58:05 Vintage railway film - First of the Thirteen - 1970
-# UyHMKNFnqEo 15:15 Vintage railway film - Rail report nine - Top levels of transport - 1969
-# 4Ee7nK41P00 7:49 Vintage railway film - Motorsport tries Motorail - 1969
-# 5AbK_zqauzU 23:29 Vintage railway film - The Pain Train - 1969
-# FKkQ1XjSYA4 21:42 Vintage railway film - Second Nature - 1967
-# fIm3iYZuxHo 10:05 Vintage railway film - Speedrail to the south - 1967
 PxFcWT7oNiU 1:39:38 Vintage railway films - The Victoria line reports - 1960s
 UmrqkXEycTo 21:06 Vintage railway film - The driving force - 1966
 TtBml4y2Ccs 28:59 Vintage railroad film - This is my railroad - 1954
@@ -4095,9 +4038,6 @@ ftEQmoVtR4E 20:58 Vintage British Railways film - 'A place in the team' - 1953
 bTdxq-tRMiU 35:42 Vintage railroad safety film - Why risk your life? - Great Northern Railway Co. - 1947
 nCb0ayRHTCo 19:01 Portrait of an engineer - 1954
 jZLyB-_x8gA 8:23 A Future on Rail - 1957
-# zfF4-50_CJY 20:20 Pay Day - The Santa Fe Railroad - 1950s
-# r7RmeZ7_qj8 24:47 Transperth train drivers view - Joondalup line express train from Clarkson to Perth
-# wZyBbvDwMfI 5:14 Transperth train drivers view - Joondalup line express train from Clarkson to Perth - high speed
 tmWZMRSmDQM 39:33 No. 6207, A Study in Steel - Princess Royal Class - vintage LMS film - 1951
 hmgliO-bCi4 53:09 Transperth train driver cab view - B series - Perth/Midland/Perth - peak hour lockdown service.
 XM4U7SWtU1k 10:39 Transperth train driver cab view - B series - peak hour lockdown Midland service - high speed
@@ -4105,8 +4045,6 @@ LzoYrD8EejQ 1:12:50 Flying Scotsman and Pendennis Castle - Rail tours in Western
 nZ3AN-kd66g 16:56 LMS - General Repair - 1938 - LMS Railway film
 WDb9tVeE3W0 31:00 Bennett Brook Railway train drivers view - action cam
 Irn2mVjZjro 18:46 New York Central - The Steam Locomotive
-# yexKawonq70 17:25 Transperth train drivers view - Perth Stadium to the Joondalup line - Express
-# F7F2UEGbhKI 4:02 Transperth train drivers view - Perth Stadium to the Joondalup line, express - high speed
 Uia2jH9nRb8 13:16 Safety On The Track - A London Transport safety film - 1950
 T_0LzMzCnBs 1:42 Bennett Brook Railway termite train
 Gcs7Wx6P9XA 20:24 Bennett Brook Railway termite train - 360 video - Bushland Loop - Volume warning!
@@ -4118,140 +4056,145 @@ D8Ee5nflbec 9:32 Vintage rail film - Engine Shed - LMS 1938
 e8jBbkOvPfw 11:54 A trip on the Vale of Rheidol railway
 UH-a_fU5C7E 23:50 Bennett Brook Railway promotional video 2
 nd9j79c5S2k 1:53 Trans Australian/Westland trip, 1961 - watch until the end for rare footage of Swan View tunnel
-# 1BE0h-ul3xM 1:31:18 Transperth B series drivers view - Mandurah to Butler
-# d4qK6wsfyYw 18:26 Transperth B series train drivers view - Mandurah to Butler - high speed
 v1P6DzIJM_0 8:46 Trains in southwest WA and Perth - early 1970s - See video description for timestamps
 FzP0vO7giJk 0:39 Transwa Prospector through Herne Hill
 hexXG5FwlfQ 0:43 Bennett Brook Railway - Ashley & Friends Day, Sep 2019 - Ruston & Betty Thompson double heading
 acRZB-tNUZg 1:36 Bennett Brook Railway - Ashley & Friends Day, Sep 2019 - Betty Thompson and Ruston diesel shunter
-# qqdre4MQ8WA 22:54 Transperth train driver cab view - Nowergup depot north departure and arrival
-# oSy4FEs-6pE 4:48 Transperth train driver cab view - Nowergup depot north departure and arrival - high speed
 pPCjkJYEKFM 13:56 Mail Rail - The London Post Office Railway - Londons underground mail delivery railway
-# SU5A-3j1m0A 17:19 Transperth train drivers view - Leederville shunt to Claisebrook depot
-# cAcNcFnE_4g 3:52 Transperth train drivers view - Leederville shunt to Claisebrook depot - high speed
 53-x1ypuDH8 5:12 Bennett Brook Railway NG15 123 footage - 1991
 -Emzn0pqLso 10:09 Bennett Brook Railway promotional video - 1999
 5qIhSmZ4RAY 2:22 ADG railcar cabride - Perth to Midland - 1975 - Check description & pinned comment for timestamps
 OE0eJfC2YGs 3:53 Albany Progress - 1976 - Check description and pinned comment for video notes and timestamps
 BA5bV8fx5Zw 3:42 Bennett Brook Railway 'Getaway' travel program segment - 1995
 V_Kl1C8MkFA 3:28 Fremantle to Guildford line centenary vintage train-for notes see video description & pinned comment
-# YjJKrEcYuV0 5:03 Transperth train drivers view - Claisebrook depot departure.
-# KGbMJb57AcI 1:15 Transperth train drivers view - Claisebrook depot departure - high speed
 54co4TxGGc8 1:43 Welsh Highland Railway garratts arriving at Rhyd Ddu.
 fz0kYIQgL-g 2:19 Hotham Valley Railway double header excursion train to Newdegate - 1994
 FdD82St8pn8 44:21 Last train to Pemberton - 1993
-# kEdGaIIlelI 30:20 Transperth drivers view - Perth to Fremantle all stops, including showgrounds
-# F_m3hcqrusk 6:14 Transperth drivers view - Perth to Fremantle all stops including Showgrounds - high speed
 v2URE8He4i4 8:40 Hotham Valley Railway Forest Train - G 123 - 1994
 l45Lb4oFamI 2:44 Bennett Brook Railway - Freudenstein 0-4-0WT b/n 217 of 1905 undergoing tests, 1989.
-# _8CEfIGtMto 16:48 Transperth drivers view - Joondalup line to Perth Stadium
-# BylTgmtTgtI 2:03 Transperth drivers view - Joondalup line to Perth Stadium - high speed
-# AkT6LBfj7Uo 21:49 Transperth drivers view - Cockburn Central to Perth Underground
-# HpqWexy4gco 2:32 Transperth drivers view - Cockburn Central to Perth Underground - high speed
-ssTFRlq7lo8 7:09 Bennett Brook Railway Ashley and Friends Day, September 2019
-# wtxRQucEid8 22:35 Transperth drivers view - Whitfords to Perth - real time
-# fO_S6Y006ug 2:36 Transperth drivers view - Whitords to Perth - high speed
-# 0SnQKylEvv0 44:22 Hotham Valley Railway drivers view - Isandra to Dwellingup
-# j10-vl8VtZk 4:47 Hotham Valley Railway drivers view - Isandra to Dwellingup - high speed
-wLUJ2E-J3ZY 1:57 Bennett Brook Railway - Seven News Perth promo - 1986
-MPvKZ6Z93-Q 0:42 Level crossing near miss - Bennett Brook Railway - please exercise caution at level crossings!
-# 6yqt2lSp86E 17:53 Drivers view Transperth B series - Nowergup yard departure and arrival - real time
-# kFmnXyXcqpQ 2:33 Drivers view Transperth B series - Nowergup yard departure and arrival - high speed
 8F4rzNTsJGI 1:12 Bennett Brook Railway - Mallet loco feature, Channel 7, 1985 - See vid description for notes
 89WOMeWRxTw 2:36 Rock Island Line - Bennett Brook Railway - featuring Fat Cat!
-Rso9GMEmlOY 6:27 Bennett Brook Railway Ashley & Friends Day, May 2019
 YjZoAyd6Yv8 0:35 Castledare Steam Fest 2019
-2Z0kQ9TezrE 5:11 Bennett Brook Railway featured on Driving Force program, 1990. Driving Force Down Under!
-# FdXpa1mtKso 10:33 Transperth drivers view - express train on the Mandurah line to Perth Underground - re upload
-# u45BXgXDhb0 1:33:03 Drivers view Transperth B series Butler to Mandurah - real time - re upload - no music
-# _5gASyFffaE 15:25 Transperth cab view - B series through Perth Underground & Elizabeth Quay stations - re upload
-# aoscHVzgvg8 7:29 Transperth drivers cab view A series Armadale shunt move and Australind cross - re upload - no music
-# KIHVyTjtMDQ 4:54 Drivers view from footplate of 'Planet' no. 7 diesel locomotive - high speed
-# dGs2p2CVPho 42:30 Drivers view from the footplate of Planet no. 7 diesel locomotive
-# TCNlhnnIH1E 1:11:06 Drivers view Transperth A series Perth to Armadale and return - C pattern - real time
-# awBNhDxpOWo 7:21 Drivers view Transperth A series Perth to Armadale and return - C pattern - high speed
-# PeEBHk6Ex78 13:35 WAGR steam locomotive audio - see video description and pinned comment for notes
-JISCs_b4d48 3:43 Whiteman Park Transport Heritage groups featured on Destination WA tourism TV show
-Ln2qKbggjEU 3:03 The Bennett Brook Railway on the Perth edition of the Today morning show
-# c9YaKc0rMys 46:31 Drivers view Transperth A series railcar - Fremantle to Midland A and B patterns - real time
-# KNoItsmml7U 5:02 Drivers view Transperth A series railcar - Fremantle to Midland A and B patterns - high speed
-# v4IICDtXWAg 2:25 Perth Electric Tramway Society (PETS) - High speed motorman view - Car W7 1017
-# kIhHIk7OWMo 22:01 Perth Electric Tramway Society (PETS) - Motorman view - Car W7 1017
-# Dg3T_A_bwjg 46:00 Transperth A series drivers view Perth to Thornlie & return - real time
-# wXEDmUhNCP4 4:55 Transperth A series trip to Thornlie & return - high speed
-# VpWz5Ln2ews 24:38 Transperth A series cab view Perth to Showgrounds - Perth Royal Show week - Real time
-# hMnlcS-xHV4 2:53 Transperth A series cab view Perth to Showgrounds - Perth Royal Show week - High speed
-# otnqTBM0pac 55:04 Transperth train A series railcar cab view Midland to Fremantle - Real time
-# pgxkonSanks 5:51 Transperth train A series railcar cab view Midland to Fremantle - High speed
-7Nbl2IZUhV8 12:04 Bennett Brook Railway Ashley & Friends Day, September 2018
 tWhNs3vR4t0 5:45 Coaling and oiling a steam loco - excerpt from from 'The Railwaymen' - 1946
-# NPM7b-lgT5w 1:32:46 Transperth B series cab view Butler to Mandurah - real time
-# 3y6_dBjlrOM 9:36 Transperth cab view Butler to Mandurah - High speed
 ZUeNN932V88 1:54 Bennett Brook Railway track gang
 f69JLrv5Wjo 5:44 Bennett Brook Railway track maintenance
-EXVRtLVfOWg 0:40 Train vs kangaroos
-# 2__dAMm7pVs 3:26 Bennett Brook Railway full trip in under 3 1/2 minutes!
 KdGgQgxu0qA 11:39 Southern Pacific Railroad 1950's - Dangerous Playground - Educational Safety Film
-# L3coBk57LtE 0:21 Transperth B series departing Cockburn Central
 iZC_fweTGdQ 17:16 LMS training video - Sentinels of Safety
 jdGE3a31uJQ 26:35 LMS Men Of The Footplate 1939, full version.
 F4J2wcDP3YA 13:00 LMS training video - Little & Often
-Y8kEmyAcGlg 3:07 A short feature on the Bennett Brook Railway by Today Tonight.
-# cNao3iyX4SY 1:30 Indian Pacific transcontinental passenger train approaching the Avon Valley.
-9PrUn3SrYc8 0:22 Quenda at Whiteman Park.
-8k9rylyO3y8 4:50 Bennett Brook Railway 2014 volunteer tribute
-66VwZN60pAw 11:06 Bennett Brook Railway Ashley & Friends day, May 2018
-YswQaSgMepc 4:05 Bennett Brook Railway End of Steam Season 2016
-# kgfBRnecBoo 5:51 Bennett Brook Railway, Dorman #8 from the footplate
-NbyYFHgDJ7g 6:14 Optus Stadium lights and stadium tour (re-upload)
-Q0Ao2Ni_xho 9:56 Bennett Brook Railway, Whiteman Park classic car day 2016
-XljbRbWvUrA 9:11 Bennett Brook Railway, Steam season 2014 & 2015
-tWsqdZ5IWSw 15:30 Bennett Brook Railway Friends of Ashley day September 2015
-hC_273wBwIM 10:37 Bennett Brook Railway Ashley day May 2015
-# wTe1HQOYxLI 9:29 Transperth cab view from an express train on the Mandurah line to Perth Underground station
-iA3ac6FMcug 4:20 Railfest 2014
-n56xeZYxjjk 5:47 Bennett Brook Railway, Dorman Planet officially in service, 2014 part 2
-# escYDilfoWw 7:42 Transperth drivers cab view A series Armadale shunt move and Australind cross
-UGjOcaUlf9E 8:27 Bennett Brook Railway, Dorman Planet officially in service, 2014
-CBZ96S2jgY0 4:34 Bennett Brook Railway Ashley day September 2014, part 3
-oQsylnZqKRA 7:48 Bennett Brook Railway Ashley day September 2014, part 2
-A4c_gkMGSrw 5:06 Ashley Day September 2014, Part 1
-# zojRaOKBw1A 15:40 Transperth train cab view - B series railcar through Perth Underground & Elizabeth Quay stations
-Z08eQaZzdKc 11:55 Bennett Brook Railways Betty Thompson, 2014
-# iDTPwt5qPmI 2:03 Indian Pacific transcontinental passenger train through Herne Hill
-# _VgKhlooHLs 43:50 Bennett Brook Railway drivers view full trip
-jw0scWJiI5E 19:56 Bennett Brook Railway Mussel Pool line drivers eye view
-315PLUy3Vo0 5:22 Bennett Brook Railway Ashley & Friends day, May 2014, part 2
-xP9KVd3jRo0 15:04 Bennett Brook Railway Ashley & Friends day, May 2014, Part 1.
-HiSUd1cmF3A 4:30 BBR adventures from 2011 to 2014
-F_tD4t1HZfk 19:24 Bennett Brook Railway loco view of a bushland loop trip
-NrGPHuvh02E 8:24 A Bennett Brook Railway morning steam train run
-ZE6JLx4x0kU 15:14 Bennett Brook Railway Ashley Day 2017, video compilation
-nz6z9rv5GcA 3:56 Old channel trailer
-# KOPZ05YhcT8 14:22 Transperth B series express at night, from Mandurah to Perth Underground
-# wMtK_JyAF5M 0:46 Transperth B series EMU cab view approaching Perth city across Mt Henry bridge.
-# vGBbUAuJ2NU 1:03 Indian Pacific transcontinental passenger train at Millendon Junction, Perth.
-# NNFxabrkRG4 0:47 Transperth B series EMU express through Murdoch train station at 130kph (80mph)
-1Z5NpyBK9Kw 3:55 Bennett Brook Railway, Ashley & Friends Day Pt 2
-6ff8VAGIkTw 10:41 Bennett Brook Railways Ashley & Friends day, September 10th, 2017
-O6d2YF-Z-S4 1:13 Bennett Brook Railway steam and diesel departure
-sZ1apmh4dFI 1:02 Bennett Brook Railway steam passenger train
-oo_lcwUBAfw 0:31 Bennett Brook Railway brook crossing
-inq6UrXDCJ0 0:31 Bennett Brook Railway creek crossing
-9s-f4VZ1hUw 0:34 Bennett Brook Railway diesel and steam motive power
-08QjlLsKiOU 0:30 Bennett Brook Railway, a bush crossing.
-kA1CmGS5lDU 0:54 Bennett Brook Railway steam power climbing Christmas Tree Hill
-_LfUI-okK_Y 0:49 Bennett Brook Railway, the view from the cab
--LzikZDmyy8 1:01 'Betty' & 'Planet' on Ashley day, 13th Sept, 2015
-ZLRd1eeaqPY 0:47 Bennett Brook Railway wig wag signal
-uIZ0DYRUdbg 0:59 Bennett Brook Railway, Ashley Day, May 2015
-FNOOJBw6Hhk 0:45 Bennett Brook Railway Ashley Day, May 2015. 'Planet' and 'Betty'.
-5mCtZ6gvRqk 1:02 Bennett Brook Railway Ashley Day, May 2015.
-6P_gBGLk5s8 0:52 Bennett Brook Railway Ashley Day 2015, 'Rosalie'.
-YsBayEzCH9Q 0:55 Bennett Brook Railway Ashley Day, May 2015
-Lo8AUaBdNMk 1:22 Bennett Brook Railway Ashley Day, May 2015, 'Rosalie' the diesel and train.
-4kSxnxRdPx8 0:38 Bennett Brook Railway diesel passenger train
-P9Soxyg1l2s 0:46 Bennett Brook Railway steam train
+
+# Burr Stewart
+e44rMO7MvIk 13:31 Part 111 - BN switching Argo, Brian's diesel sounds, and ripping up track #hoscale #train #track
+Z5VF1lob9Fo 14:48 Part 110 - British 2-10-0 steam, SD60M's & BN SW1500 switching action #modelrailroad #hoscale #art
+Sz2HwSa_gSA 15:50 Part 109 - Bob Roegge's surprisingly low-cost Gn15 "Geneseo Rwy" layout #modelrailroad #train #art
+hnN7_CgfiyU 16:39 Part 108 - 4-6-6-4 steam, BN diesels, British steam turbine, GE 44T #modelrailroad #hoscale #train
+V8u4QVQeeYo 9:30 Part 107 - Trio of HO BN Alco's, work train and construction update #modelrailroad #alcolocomotive
+9IxyEUmpXlU 13:10 Part 106 - BN's "Fern Turn" - a hotshot local - runs again! #hoscale #modelrailroad #aluminum #train
+64o6RDt4ooM 1:31:52 Part 105 - How to be a yardmaster on a model railroad! #hoscale #operations #train #yards #art
+mbgSEetMaZI 5:10 Part 104 - BN unit grain train heads east empty #hoscale #modelrailroad #grain #train #art #bn #bnsf
+JdZ5WPQyuIU 4:59 Part 103 - Three views of a BN unit coal train near Seattle #hoscale #modelrailroad #coaltrain #art
+cg6QEzgr9tk 6:55 Part 102 - MILW coast route train on the HO BN #hoscale #modelrailroad #train #milwaukee #road #art
+7rHPfNlWlA8 22:03 Part 101 Steam engines, EL RS3's, drag freights & a long DRGW passenger train #hoscale #modeltrain
+DkPXOEeymjc 30:38 Part 100 (!) - Burr celebrates with a complete and calm HO BN train layout walkaround #modelrailroad
+88lxfjVxwYA 10:21 Part 99 - BN switching with Brian's Alco T6 switcher & Rapido's GE 44 tonner #modelrailroad #train
+cw-ofg7Bv7g 18:12 Part 98 - BN fun with a furnace access hatch #hoscale #modelrailroad #train #traintracks #rapido
+QiNR1wkiJxE 18:06 Part 97 - CSX pusher operation, coupler mishaps & Monster Rd. #modelrailroad #hoscale #train #csx
+jdoM7fGXBMA 12:16 Part 96 - Running a "Rat", "Brainerd" boxcars & track testing w locos #modelrailroad #hoscale #train
+rEcwr9vRoPE 2:31 Part 95 - HOn3 DRGW Alco 6-axle diesel delivery train behind BN GP38-2 #modelrailroad #narrowgauge
+UsDcbVsb2as 9:37 Part 94 - N scale BN unit train of "short" barrel ore cars #train #nscale #bnsf #modelrailroad
+9dFON4KkJzg 4:49 Part 93 - BN forest products train w/ 4 engines #train #hoscale #modelrailroad #alcolocomotive
+TiWTh3pNI28 8:58 Part 92 - Update and 1895-era train run on Eric Vannice's scenic HO layout #train #modelrailroad
+c0KR49MyhIk 13:28 Part 91- MILW Coast train & narrow gauge diesel test #train #hoscale #modelrailroad #blackstone
+L1KVOkCMf40 11:10 Part 90 - visiting engines and switching vacuum cleaners #train #hoscale #modelrail #vacuumcleaner
+nZ8caeZhHVo 18:44 Part 89 - BN rail yard operations highlights and mistakes #train #hoscale #modelrailroad #athearn
+rcjATEXXVq0 17:39 Part 88 - BN, MILW and UP switching, mainline and break-in running fun #train #hoscale #modelrail
+0spLYlvcTgM 8:07 Part 87 - "Green machines" in a 4-unit consist on the HO BN near Seattle #train #modelrailroad
+lIIr1CAHddI 6:22 Part 86 - the "Titfield Thunderbolt" in the Pacific Northwest #modelrailway #rapido #train #movie
+BUN7sG5Ln48 45:13 Part 85 - BN Train action highlights from Soundrails 2024
+FDV4CAsOXDQ 6:20 Part 84 - HOn3 K-27 runs downgrade Opportunity to Everett #train #hoscale #narrowgauge #modeltrains
+qx6Pga4hfyw 12:36 Part 83 - BN four axle diesel "green machines", GN ore cars & a caboose hop tiedown #hoscale #train
+KjnqC3QKm_4 19:38 Part 82 - BN yard overviews & Rapido Alco PA-1 with Burr's birthday train #train #hoscale #layout
+hqptcVOp0uU 28:44 Part 81 - HO BN train roll-by's, a coal train, a transfer and Seattle yard switching #modeltrains
+wU8QqDqS1O8 1:11:50 Part 80 - Switchers, locals & hotshots - highlights of three HO BN op sessions - #hoscale #train
+_k2hVRhgMAc 8:06 Part 79 - The "Pacific Zip" rides again, with other train action #modelrailroad #intermodaltrain
+6XAiyI_jDrw 11:09 Part 78 - New track in West Seattle!...and more HO railfanning #train #modelrailroad
+QYqhuu5Ytc4 12:42 Part 77 - Big Boy and Shay steam engines run on the 1973 BN #hoscale #steam #modeltrains #train
+dWs4ci5eC_8 4:58 Part 76 - Testing a narrow gauge diesel & watching a BN train roll-by #hon3 #hoscale #train
+FX4RnFuV6FA 15:04 Part 75 - MILW SD9 extra & BN yard transfer operation #hoscale #train #alcolocomotive #modeltrain
+jxhIefTSXc4 16:15 Part 74 - BN Alco C-415's and rainbow-era train run-by's and switching moves in Interbay in HO scale
+dVwp6ByY98w 15:49 Part 73 - BNSF AC4400CW's chased by ancient "Titfield Thunderbolt", HOn3 diesel test, and switching
+coO6pS-TXm0 11:39 Part 72 - Freight, passenger, steam and diesel, old and new - what's not to like?!
+eWs3Ts_7wJQ 31:55 Part 71 - Handling grain trains on the BNSF up to 52 cars long with N scale Fox Valley wheels!
+tkKxJR3XO_U 10:08 Part 70 - BN's Renton Rocket, RS11's and BNSF "Pumpkins"
+dNbb0Qv6A3Q 15:40 Part 69 - Old and new BN "International's" run alongside, then Seattle Interbay yard w/ GN SW1200
+jQPTs8BbQS8 24:25 Part 68 - BN Empire Builder, U-boat and Seattle switching
+3xof4IiqXiI 7:24 Part 67 - UP "Big Boy" conquers the Burrlington Northern in HO scale!
+ZohnN4w564Y 11:52 Part 66 - N scale GE C44-9W spots two CP red boxcars at Scott Paper in Everett, WA
+GAtS7Smr7jM 43:30 Part 65 - MILW F-unit action between Argo & Black River Jct. yards in Seattle
+XJRgEjiKwT8 11:37 Part 64 - BN Alco C415, more Big Sky Blue and a GN SW1200 test #hoscale #alcolocomotive #train
+Mfrffej8Z0U 20:24 Part 63 - GN Big Sky Blue GPs, dead rail demo, scale test car switching & int'l passenger services
+GQjUOVERkO4 4:50 Part 62: Horse(power)ing around with BN locos and canopy glue
+Auh7mMiKSXo 27:36 Part 61 - ops and scenic tour of Eric Vannice's 1895-era Western USA HO scale train layout #artist
+_wTjWcTiGM0 2:33 Part 60 - BN Alco C-415 caboose hop running into Seattle
+thj2mK52w7I 4:03 Part 59 - BN Alco C636 climbs towards Stevens Pass
+IFNcAeYK-Ig 34:32 Part 58 - Yardmaster and train highlights from op session #34 on the HO BN in 1973
+d4bAzI6V5l0 12:39 Part 57 - Six-axle BN HO railfanning while repositioning trains for an op session
+W8RR4gMv_Pc 12:44 Part 56 - Planes on Trains - BN's "Jet Job" onboard camera view during op session #32
+fzfK2yz5ndA 11:49 Part 55 - Crossing bell ruckus adds realism to a weathered BN C636 in HO scale
+jjDQn7VZprk 27:47 Part 54 - an all-green BNSF modern train, and MILW & BN switching action
+TSmrE5WmXi0 13:05 Part 53 - Horn-honking tribute to beloved GN E-units retiring from a train layout
+eWuWWcmhqBE 4:31 Part 52 - Brian Elchlepp's BN diesels in Seattle's Interbay yard
+61tWc5pxKkY 42:40 Part 51 - Unzipping the "Pacific Zip" in Seattle - BN's 1st transcon intermodal train - in HO scale!
+naOXc_DObGY 26:25 Part 50 - Chasing HO trains chasing each other, with a Sony FDR-AX53
+R9svQIR6QtU 27:31 Part 49 - Finishing and loading the new "Black River Jct. Yard"
+554qNebkGWk 15:45 Part 48 - "Filling out" a BN eastbound hotshot freight in Seattle & Everett
+-oC9dEEQQCc 14:04 Part 47 - BN switching & staging yard construction progress
+X95Amf0Y6zg 12:37 Part 46 - Building a staging yard, two crashes, and running HO trains on the BN
+1oUEnGS1hKA 15:02 Part 45 - BN F45's and GP's with switching, mainline and wire nut jobs in the rainbow era of 1973
+Nc_lVu6vA8Y 27:52 Part 44 - Trainwatching on the HO Burrlington Northern just for fun
+fpEIiIQAmIU 4:16 Part 43 - Imitating a noteworthy BNSF locomotive consist in HO scale
+vIy4q67yhNI 9:44 Part 42 - HOn3 Camera Car captures continuous run on Burr's narrow gauge HO scale train loop
+tz0CksMsh4s 19:52 Part 41 - HO double-stack container train running gone awry
+vyFjoY5CXeo 34:56 Part 40 - Burr's complete HO layout tour from a modern BNSF double-stack train cam
+mVBjMUyrDlM 16:33 Part 39 - Switching Everett from the brakeman's viewpoint
+YkYt-M0bGco 50:45 Part 38 - BN trains and layout overview maps from op session #31 June 21 2022
+vRKd4WCdF-w 13:31 Part 37 - Highlights of an HO op session with "Friends of the Burlington Northern Railroad" (FOBNR)
+hsBDKT2MlC4 5:01 Part 36 - A Five-Minute Meet at Burlington Yard on the HO scale BN model railroad
+skXD1RgLxj8 17:07 Part 35 - Highlights of O scale 4-8-0 steam locomotive action on the US west coast
+A4e0ieSjCQA 12:00 Part 34 - HO diesel lashup soundscapes in stereo! - SDL39's, RS3's and SD45's
+Gn1UI5jBOlk 18:40 Part 33 - BN HO train repositioning moves after Soundrails - Pacific Zip, MILW, Weed sprayer, etc.
+0wuYsFE9RqU 6:49 Part 32 - Brian Elchlepp's super-detailed diesels haul new "barrel" ore cars to Seattle's Interbay
+Cq07M-3HuAI 17:04 Part 31 - BN industrial switching in Interbay using an HO Rapido SW-1200 loco and eight tank cars
+q5oZRLd5Jls 31:10 Part 30 - Day three highlights from SoundRails 2022 - 14 people in 7 hours run BN & MILW trains
+eto9AemNp8Y 33:43 Part 29 - Day two highlights from SoundRails 2022 - 17 people in 7 hours run BN, UP & MILW trains
+M4TDZDQ-5OE 5:52 Part 28 - Day one highlights from SoundRails 2022 - dispatching and yard switching on the 1973 HO BN
+kmBuB33266M 19:09 Part 27 - MILW SDL39 onboarding and first train run through Seattle in HO scale
+Wv3jwLeGBZU 17:32 Part 26 - HOn3 K-27 Tests Delta yard after intense track painting & rail cleaning
+k9o7pFvnRe8 4:41 Part 25 - HOn3 Gramps and CONOCO oil cars race up hill to escape spray painting
+jSPS8hBOxSM 17:54 Part 24 - British steam & diesel OO scale locomotives run wild on the HO BN Seattle Region in 1973
+oOXu74zZdYw 4:08 Part 23 - Blackstone HOn3 K-27 negotiates reverse loop at Opportunity on Burr Stewart's BN layout
+yU5B8Rjdic0 15:22 Part 22 - HOn3 K-27 hauls the first mixed train to Burr's new upper deck
+wDLfu6Ka5kM 8:20 Part 21 - A BN (ex NP) Switcher works in Everett's Bayside Yard to clear a brace of (ex-NP) F-units.
+WX4RgGKqQ4E 21:39 Part 20 - Sounder Commuter Passenger Train Surprises the 1973 BN in HO scale
+U5rI1THhZmc 15:57 Part 19 - The "Fern Turn" makes its first run on the HO BN Model Railroad
+piWWfkTar88 9:44 Part 18 - Canadian Pacific RR action on the HO Kettle Valley Subdivision of the "Southern Mainline"
+mZqQhQVLbPg 14:01 Part 17 - Running a Bayside to Delta Yard transfer job on the HO BN in Everett WA in 1973
+zcL28Gq4dHE 13:51 Part 16 - Handling new CONOCO tank cars on the HOn3 DRGW Everett Division
+spEkwy1FmK8 26:50 Part 15 - 2nd Annual Virtual operations on Burr Stewart's HO Model Railroad - Highlights and Setup
+0S_iG0x-v_0 22:29 Part 14 -BN's "Jet Job" for Boeing's 747 Factory near Everett WA
+CPB-XcLW-2I 14:13 Part 13 - HO BN "Skybox special" works Interbay and Everett
+fAx5gGbTQUc 8:40 Part 12 - A Tribute to Paul Scoles' Pelican Bay Sn3 Model Railroad
+4gb8HxecAxU 14:43 Part 11 - Burrlington Northern HO trains run again - op session #25
+2Zrlns_EykA 13:34 Part 10 - a steam 2-6-6-2T logger invades the HO Burrlington Northern
+rz4aHXuyKbk 48:11 Part 9 - MILW Coast Train on BN trackage rights on the HO Burrlington Northern
+ajw6zOElCAM 25:06 Part 8 - BN SD45 Westbound Manifest runs Skykomish to Interbay
+nm63SNf9wEY 2:10 Part 7 - GN steam run-by
+QR47jNJ-YZI 33:03 Part 6 - Delta Yard HO switching & clean up
+cWNtUgQRFKk 27:47 Part 5 - Handling Unit Grain Trains on the HO BN in 1973 #modelrailroad #hoscale #graintrain #train
+OEkAc_eaFak 55:51 Part 4 - Switching a Narrow Gage Mine Run on the HO BN in 1973
+MKDNzH9SvNg 30:55 Part 3 - Heading East from Interbay on the HO BN in 1973
+VAkH-x7IunU 31:35 Part 2 - Switching Interbay Departures on the HO BN in 1973
+2sAdTHq6HmI 27:09 Part 1 - Switching Interbay Arrivals on the HO BN in 1973
 
 0SASZaT7lI4 1:21:37 Dünyayı Kurtaran Adam - Turkish Star Wars
 
@@ -5702,4 +5645,4 @@ LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
           <a href="${bookmarklet}">
             Bookmarklet to scrape videos from YouTube
           </a>
-        `}})," ","(",reactExports.createElement("a",{href:"https://github.com/benchristel/tv#what-is-a-bookmarklet"},"What's this?"),")"),reactExports.createElement("hr",null),reactExports.createElement("h2",null,"Video Info"),reactExports.createElement("p",{style:{whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis"}},"Now playing:"," ",vm.videoLink?reactExports.createElement("a",{href:vm.videoLink.href},vm.videoLink.text):"-"),reactExports.createElement("table",null,reactExports.createElement("thead",null,reactExports.createElement("tr",null,reactExports.createElement("td",null),reactExports.createElement("th",{scope:"col"},"actual"),reactExports.createElement("th",{scope:"col"},"scheduled"))),reactExports.createElement("tbody",null,reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"row"},"video"),reactExports.createElement("td",null,vm.actual.video),reactExports.createElement("td",null,vm.scheduled.video)),reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"row"},"player state"),reactExports.createElement("td",null,vm.actual.playerState),reactExports.createElement("td",null,vm.scheduled.playerState)),reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"row"},"current time"),reactExports.createElement("td",null,vm.actual.currentTime),reactExports.createElement("td",null,vm.scheduled.currentTime)))),reactExports.createElement("p",null,"Seconds behind schedule: ",vm.secondsBehindSchedule),reactExports.createElement("p",null,"Time remaining in video: ",vm.timeRemainingInVideo),reactExports.createElement("h2",null,"Channel Stats"),reactExports.createElement("table",null,reactExports.createElement("thead",null,reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"col"},"name"),reactExports.createElement("th",{scope:"col"},"duration"))),reactExports.createElement("tbody",null,props.channels.map(channel=>reactExports.createElement(ChannelTableRow,{channel})))),reactExports.createElement("div",{style:{height:60}}))}__name(VideoInfo,"VideoInfo");function ChannelTableRow(props){return reactExports.createElement("tr",null,reactExports.createElement("td",null,props.channel.getName()),reactExports.createElement("td",null,durationAsWords(props.channel.getTotalDuration())))}__name(ChannelTableRow,"ChannelTableRow");class PlayerCommander extends reactExports.Component{static{__name(this,"PlayerCommander")}constructor(){super(...arguments),this.lastSeek=-1/0,this.lastVideoId=""}componentDidUpdate(){const{player,volume,commands,now}=this.props;player.setVolume(fromPerceivedVolume(volume)),commands.forEach(cmd=>{switch(cmd.type){case"play":player.playVideo();break;case"cue":this.lastVideoId!==cmd.videoId&&this.clearSeekCooldown(),this.seekCooldownElapsed(now)&&(this.lastSeek=now,player.cueVideoById(cmd.videoId,cmd.timestamp));break;case"seek":{this.seekCooldownElapsed(now)&&(this.lastSeek=now,player.seekTo(cmd.timestamp));break}default:console.error("unexpected video command type",cmd)}})}render(){return null}clearSeekCooldown(){this.lastSeek=-1/0}seekCooldownElapsed(nowMillis){return nowMillis-this.lastSeek>SECONDS_BETWEEN_VIDEOS*1e3}}function fromPerceivedVolume(perceivedVolume){return square(perceivedVolume/100)*100}__name(fromPerceivedVolume,"fromPerceivedVolume");function square(x2){return x2*x2}__name(square,"square");function status(player){return{state:player.getPlayerState(),videoId:videoIdFromUrl(player.getVideoUrl()),time:player.getCurrentTime(),duration:player.getDuration()}}__name(status,"status");function cache(maxSize,expensiveFallback){let values={};return key=>(key in values||(Object.keys(values).length===maxSize&&(values={}),values[key]=expensiveFallback(key)),values[key])}__name(cache,"cache");function cyrb128(str){let h1=1779033703,h2=3144134277,h3=1013904242,h4=2773480762,k=0;for(let i=0;i<str.length;i++)k=str.charCodeAt(i),h1=h2^Math.imul(h1^k,597399067),h2=h3^Math.imul(h2^k,2869860233),h3=h4^Math.imul(h3^k,951274213),h4=h1^Math.imul(h4^k,2716044179);return h1=Math.imul(h3^h1>>>18,597399067),h2=Math.imul(h4^h2>>>22,2869860233),h3=Math.imul(h1^h3>>>17,951274213),h4=Math.imul(h2^h4>>>19,2716044179),[(h1^h2^h3^h4)>>>0,(h2^h1)>>>0,(h3^h1)>>>0,(h4^h1)>>>0]}__name(cyrb128,"cyrb128");function sfc32(a,b,c,d){function rng(){a|=0,b|=0,c|=0,d|=0;var t2=(a+b|0)+d|0;return d=d+1|0,a=b^b>>>9,b=c+(c<<3)|0,c=c<<21|c>>>11,c=c+t2|0,(t2>>>0)/4294967296}__name(rng,"rng");for(let i=0;i<20;i++)rng();return rng}__name(sfc32,"sfc32");function randomIntInRange(low,high,rng){return low+Math.floor(rng()*(high+1-low))}__name(randomIntInRange,"randomIntInRange");function binarySearch(a,isLeftOfTarget){let firstPossible=-1,lastPossible=a.length-1;for(;firstPossible<lastPossible;){const testee=mid(firstPossible,lastPossible);isLeftOfTarget(a[testee])?firstPossible=testee:lastPossible=testee-1}return a[firstPossible]}__name(binarySearch,"binarySearch");function mid(left,right){return Math.ceil((left+right)/2)}__name(mid,"mid");const TIMEZONE_OFFSET=8*3600,SCHEDULE_GENERATION_PERIOD=24*3600;function ShuffledChannel(name,episodes2){const getSchedule=cache(1,ScheduleGenerator(episodes2));let totalDurationCache=null;return{getBroadcast,getTotalDuration,getName(){return name}};function getBroadcast(time){const seconds=time/1e3,secondsOfDay=(seconds-TIMEZONE_OFFSET)%SCHEDULE_GENERATION_PERIOD,dayBoundary=seconds-secondsOfDay,schedule=getSchedule(String(dayBoundary)),segment=binarySearch(schedule,seg=>seg.startSecondOfDay<=secondsOfDay);return segment?.type==="video"?{type:"video",videoId:segment.videoId,videoTitle:segment.videoTitle,currentTime:secondsOfDay-segment.startSecondOfDay+segment.startSecondOfVideo}:{type:"nothing",nextVideoId:segment?.nextVideoId??"",nextVideoStartTimestamp:segment?.nextVideoStartSecondOfVideo??0}}function getTotalDuration(){return totalDurationCache==null&&(totalDurationCache=episodes2.flatMap(videos).map(videoDuration).reduce(add$1,0)),totalDurationCache}}__name(ShuffledChannel,"ShuffledChannel");const ScheduleGenerator=__name(episodes2=>seed=>{if(isEmpty(episodes2))return[];episodes2=[...episodes2];const rng=sfc32(...cyrb128(seed));let totalDuration=0,schedule=[],i=0;for(;totalDuration<SCHEDULE_GENERATION_PERIOD;){i===episodes2.length&&(i=0),swap(episodes2,i,randomIntInRange(i,episodes2.length-1,rng));const episode2=episodes2[i++];for(const video of episode2.videos){schedule.push({type:"nothing",startSecondOfDay:totalDuration,nextVideoId:video.videoId,nextVideoStartSecondOfVideo:video.segments[0]?.start??0}),totalDuration+=SECONDS_BETWEEN_VIDEOS;for(const segment of video.segments)schedule.push({type:"video",videoId:video.videoId,videoTitle:video.title,startSecondOfDay:totalDuration,startSecondOfVideo:segment.start}),totalDuration+=duration(segment)}}return schedule},"ScheduleGenerator");function swap(array,i,k){const tmp=array[i];array[i]=array[k],array[k]=tmp}__name(swap,"swap");function add$1(a,b){return a+b}__name(add$1,"add$1");function videos(episode2){return episode2.videos}__name(videos,"videos");function SegmentBoundaryTestChannel(name,episodes2){const schedule=createSchedule(episodes2.flatMap(episode2=>episode2.videos)),scheduleDuration=schedule.map(s=>s.duration).reduce(add,0);return{getName,getBroadcast,getTotalDuration};function getName(){return name}function getBroadcast(time){const secondOfSchedule=time/1e3%scheduleDuration,segment=binarySearch(schedule,seg=>seg.startSecondOfSchedule<=secondOfSchedule);return segment?.type==="video"?{type:"video",videoId:segment.videoId,videoTitle:segment.videoTitle,currentTime:secondOfSchedule-segment.startSecondOfSchedule+segment.startSecondOfVideo}:{type:"nothing",nextVideoId:segment?.nextVideoId??"",nextVideoStartTimestamp:segment?.nextVideoStartSecondOfVideo??0}}function getTotalDuration(){return 0}}__name(SegmentBoundaryTestChannel,"SegmentBoundaryTestChannel");function createSchedule(videos2){let totalDuration=0,schedule=[];for(const video2 of videos2)if(video2.segments.length!==1){schedule.push({type:"nothing",nextVideoId:video2.videoId,nextVideoStartSecondOfVideo:3,duration:SECONDS_BETWEEN_VIDEOS,startSecondOfSchedule:totalDuration}),totalDuration+=SECONDS_BETWEEN_VIDEOS,schedule.push({type:"video",videoId:"TxJtoBAa2w0",videoTitle:"",duration:3,startSecondOfVideo:3,startSecondOfSchedule:totalDuration}),totalDuration+=3;for(let i=0;i<video2.segments.length;i++){const segment=video2.segments[i];if(i!==0){const slice=beginningOf(segment,7);schedule.push({type:"video",videoId:video2.videoId,videoTitle:video2.title,duration:slice.duration,startSecondOfVideo:slice.start,startSecondOfSchedule:totalDuration}),totalDuration+=slice.duration}if(i!==lastIndexOf(video2.segments)){const slice=endOf(segment,7);schedule.push({type:"video",videoId:video2.videoId,videoTitle:video2.title,duration:slice.duration,startSecondOfVideo:slice.start,startSecondOfSchedule:totalDuration}),totalDuration+=slice.duration}}}return schedule}__name(createSchedule,"createSchedule");function lastIndexOf(a){return a.length-1}__name(lastIndexOf,"lastIndexOf");function beginningOf(segment,seconds){return{start:segment.start,duration:seconds}}__name(beginningOf,"beginningOf");function endOf(segment,seconds){return{start:segment.end-seconds,duration:seconds}}__name(endOf,"endOf");const add=__name((a,b)=>a+b,"add");function VolumeControl(props){return reactExports.createElement("div",{className:"volume"},reactExports.createElement("div",{className:"volume-icon"}),reactExports.createElement("input",{"aria-label":"volume",type:"range",min:"0",max:"100",onChange:__name(e=>props.onChange(+e.target.value),"onChange"),value:props.volume}))}__name(VolumeControl,"VolumeControl");const channels=channels$1.map(([name,algorithm,episodes2])=>{switch(algorithm){case"shuffle":return ShuffledChannel(name,episodes2);case"test-segment-boundaries":return SegmentBoundaryTestChannel(name,episodes2)}});function App(){const[userRequestedPlayback,setUserRequestedPlayback]=useLatch(),[infoPaneOpen,setInfoPaneOpen]=reactExports.useState(!1),[channel,setChannel]=reactExports.useState(channels[0]),[volume,setVolume]=reactExports.useState(100),now=useNow(),broadcast=userRequestedPlayback?channel.getBroadcast(now):nothing(),player=debuggingDecorator(useYouTubePlayer("player-container")),playerStatus=status(player),playerState=playerStatus.state,hideVideo=playerState!==State.PLAYING,playerCommands=reconcile(broadcast,playerStatus),infoButtonRef=reactExports.useRef(null),closeInfoPane=reactExports.useCallback(()=>{setInfoPaneOpen(!1),infoButtonRef.current?.focus()},[]),openInfoPane=reactExports.useCallback(()=>{setInfoPaneOpen(!0)},[]);return reactExports.createElement(Layout,{effects:reactExports.createElement(PlayerCommander,{player,commands:playerCommands,volume,now}),screen:reactExports.createElement("div",{className:infoPaneOpen?"info-pane-open":""},reactExports.createElement("div",{className:"player-assembly"},reactExports.createElement("div",{id:"player-container"}),hideVideo&&reactExports.createElement("div",{className:"black-screen"},reactExports.createElement(PlayerStateView,{code:playerState,channel})),!userRequestedPlayback&&reactExports.createElement(PlayButtonOverlay,{onClick:setUserRequestedPlayback})),reactExports.createElement(VideoInfo,{isOpen:infoPaneOpen,player:playerStatus,broadcast,channels,onClose:closeInfoPane}),reactExports.createElement("div",{className:"info-pane-close-overlay","aria-hidden":!0,onClick:closeInfoPane})),controlPanel:reactExports.createElement(reactExports.Fragment,null,reactExports.createElement(ChannelSwitcher,{channels,onChannelSelected:__name(ch2=>{setChannel(ch2),setUserRequestedPlayback()},"onChannelSelected")}),reactExports.createElement(VolumeControl,{volume,onChange:setVolume}),reactExports.createElement("button",{className:infoPaneOpen?"info-button info-button-info-pane-open":"info-button",onClick:__name(()=>{(infoPaneOpen?closeInfoPane:openInfoPane)()},"onClick"),ref:infoButtonRef},"Info"))})}__name(App,"App");function Layout(props){return reactExports.createElement("div",{className:"App"},reactExports.createElement("div",{className:"bezel"},reactExports.createElement("div",{className:"screen"},props.screen),reactExports.createElement("div",{style:{height:"12px"}}),reactExports.createElement("div",{className:"controls"},props.controlPanel),props.effects))}__name(Layout,"Layout");function PlayButtonOverlay(props){return reactExports.createElement("button",{id:"start",onClick:props.onClick},"▸ Play")}__name(PlayButtonOverlay,"PlayButtonOverlay");function TestResults(){const[message,setMessage]=reactExports.useState("");return reactExports.useEffect(()=>{runTests(getAllTests()).then(formatTestResultsAsText).then(setMessage).catch(e=>setMessage(e.message))},[]),/fail/i.test(message)?reactExports.createElement("div",{className:"TestResults"},reactExports.createElement("code",null,reactExports.createElement("pre",null,message))):null}__name(TestResults,"TestResults");reactDomExports.render(reactExports.createElement(App,null),document.getElementById("app"));reactDomExports.render(reactExports.createElement(TestResults,null),document.getElementById("test-results"));
+        `}})," ","(",reactExports.createElement("a",{href:"https://github.com/benchristel/tv#what-is-a-bookmarklet"},"What's this?"),")"),reactExports.createElement("hr",null),reactExports.createElement("h2",null,"Video Info"),reactExports.createElement("p",{style:{whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis"}},"Now playing:"," ",vm.videoLink?reactExports.createElement("a",{href:vm.videoLink.href,title:vm.videoLink.text},vm.videoLink.text):"-"),reactExports.createElement("table",null,reactExports.createElement("thead",null,reactExports.createElement("tr",null,reactExports.createElement("td",null),reactExports.createElement("th",{scope:"col"},"actual"),reactExports.createElement("th",{scope:"col"},"scheduled"))),reactExports.createElement("tbody",null,reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"row"},"video"),reactExports.createElement("td",null,vm.actual.video),reactExports.createElement("td",null,vm.scheduled.video)),reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"row"},"player state"),reactExports.createElement("td",null,vm.actual.playerState),reactExports.createElement("td",null,vm.scheduled.playerState)),reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"row"},"current time"),reactExports.createElement("td",null,vm.actual.currentTime),reactExports.createElement("td",null,vm.scheduled.currentTime)))),reactExports.createElement("p",null,"Seconds behind schedule: ",vm.secondsBehindSchedule),reactExports.createElement("p",null,"Time remaining in video: ",vm.timeRemainingInVideo),reactExports.createElement("h2",null,"Channel Stats"),reactExports.createElement("table",null,reactExports.createElement("thead",null,reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"col"},"name"),reactExports.createElement("th",{scope:"col"},"duration"))),reactExports.createElement("tbody",null,props.channels.map(channel=>reactExports.createElement(ChannelTableRow,{channel})))),reactExports.createElement("div",{style:{height:60}}))}__name(VideoInfo,"VideoInfo");function ChannelTableRow(props){return reactExports.createElement("tr",null,reactExports.createElement("td",null,props.channel.getName()),reactExports.createElement("td",null,durationAsWords(props.channel.getTotalDuration())))}__name(ChannelTableRow,"ChannelTableRow");class PlayerCommander extends reactExports.Component{static{__name(this,"PlayerCommander")}constructor(){super(...arguments),this.lastSeek=-1/0,this.lastVideoId=""}componentDidUpdate(){const{player,volume,commands,now}=this.props;player.setVolume(fromPerceivedVolume(volume)),commands.forEach(cmd=>{switch(cmd.type){case"play":player.playVideo();break;case"cue":this.lastVideoId!==cmd.videoId&&this.clearSeekCooldown(),this.seekCooldownElapsed(now)&&(this.lastSeek=now,player.cueVideoById(cmd.videoId,cmd.timestamp));break;case"seek":{this.seekCooldownElapsed(now)&&(this.lastSeek=now,player.seekTo(cmd.timestamp));break}default:console.error("unexpected video command type",cmd)}})}render(){return null}clearSeekCooldown(){this.lastSeek=-1/0}seekCooldownElapsed(nowMillis){return nowMillis-this.lastSeek>SECONDS_BETWEEN_VIDEOS*1e3}}function fromPerceivedVolume(perceivedVolume){return square(perceivedVolume/100)*100}__name(fromPerceivedVolume,"fromPerceivedVolume");function square(x2){return x2*x2}__name(square,"square");function status(player){return{state:player.getPlayerState(),videoId:videoIdFromUrl(player.getVideoUrl()),time:player.getCurrentTime(),duration:player.getDuration()}}__name(status,"status");function cache(maxSize,expensiveFallback){let values={};return key=>(key in values||(Object.keys(values).length===maxSize&&(values={}),values[key]=expensiveFallback(key)),values[key])}__name(cache,"cache");function cyrb128(str){let h1=1779033703,h2=3144134277,h3=1013904242,h4=2773480762,k=0;for(let i=0;i<str.length;i++)k=str.charCodeAt(i),h1=h2^Math.imul(h1^k,597399067),h2=h3^Math.imul(h2^k,2869860233),h3=h4^Math.imul(h3^k,951274213),h4=h1^Math.imul(h4^k,2716044179);return h1=Math.imul(h3^h1>>>18,597399067),h2=Math.imul(h4^h2>>>22,2869860233),h3=Math.imul(h1^h3>>>17,951274213),h4=Math.imul(h2^h4>>>19,2716044179),[(h1^h2^h3^h4)>>>0,(h2^h1)>>>0,(h3^h1)>>>0,(h4^h1)>>>0]}__name(cyrb128,"cyrb128");function sfc32(a,b,c,d){function rng(){a|=0,b|=0,c|=0,d|=0;var t2=(a+b|0)+d|0;return d=d+1|0,a=b^b>>>9,b=c+(c<<3)|0,c=c<<21|c>>>11,c=c+t2|0,(t2>>>0)/4294967296}__name(rng,"rng");for(let i=0;i<20;i++)rng();return rng}__name(sfc32,"sfc32");function randomIntInRange(low,high,rng){return low+Math.floor(rng()*(high+1-low))}__name(randomIntInRange,"randomIntInRange");function binarySearch(a,isLeftOfTarget){let firstPossible=-1,lastPossible=a.length-1;for(;firstPossible<lastPossible;){const testee=mid(firstPossible,lastPossible);isLeftOfTarget(a[testee])?firstPossible=testee:lastPossible=testee-1}return a[firstPossible]}__name(binarySearch,"binarySearch");function mid(left,right){return Math.ceil((left+right)/2)}__name(mid,"mid");const TIMEZONE_OFFSET=8*3600,SCHEDULE_GENERATION_PERIOD=24*3600;function ShuffledChannel(name,episodes2){const getSchedule=cache(1,ScheduleGenerator(episodes2));let totalDurationCache=null;return{getBroadcast,getTotalDuration,getName(){return name}};function getBroadcast(time){const seconds=time/1e3,secondsOfDay=(seconds-TIMEZONE_OFFSET)%SCHEDULE_GENERATION_PERIOD,dayBoundary=seconds-secondsOfDay,schedule=getSchedule(String(dayBoundary)),segment=binarySearch(schedule,seg=>seg.startSecondOfDay<=secondsOfDay);return segment?.type==="video"?{type:"video",videoId:segment.videoId,videoTitle:segment.videoTitle,currentTime:secondsOfDay-segment.startSecondOfDay+segment.startSecondOfVideo}:{type:"nothing",nextVideoId:segment?.nextVideoId??"",nextVideoStartTimestamp:segment?.nextVideoStartSecondOfVideo??0}}function getTotalDuration(){return totalDurationCache==null&&(totalDurationCache=episodes2.flatMap(videos).map(videoDuration).reduce(add$1,0)),totalDurationCache}}__name(ShuffledChannel,"ShuffledChannel");const ScheduleGenerator=__name(episodes2=>seed=>{if(isEmpty(episodes2))return[];episodes2=[...episodes2];const rng=sfc32(...cyrb128(seed));let totalDuration=0,schedule=[],i=0;for(;totalDuration<SCHEDULE_GENERATION_PERIOD;){i===episodes2.length&&(i=0),swap(episodes2,i,randomIntInRange(i,episodes2.length-1,rng));const episode2=episodes2[i++];for(const video of episode2.videos){schedule.push({type:"nothing",startSecondOfDay:totalDuration,nextVideoId:video.videoId,nextVideoStartSecondOfVideo:video.segments[0]?.start??0}),totalDuration+=SECONDS_BETWEEN_VIDEOS;for(const segment of video.segments)schedule.push({type:"video",videoId:video.videoId,videoTitle:video.title,startSecondOfDay:totalDuration,startSecondOfVideo:segment.start}),totalDuration+=duration(segment)}}return schedule},"ScheduleGenerator");function swap(array,i,k){const tmp=array[i];array[i]=array[k],array[k]=tmp}__name(swap,"swap");function add$1(a,b){return a+b}__name(add$1,"add$1");function videos(episode2){return episode2.videos}__name(videos,"videos");function SegmentBoundaryTestChannel(name,episodes2){const schedule=createSchedule(episodes2.flatMap(episode2=>episode2.videos)),scheduleDuration=schedule.map(s=>s.duration).reduce(add,0);return{getName,getBroadcast,getTotalDuration};function getName(){return name}function getBroadcast(time){const secondOfSchedule=time/1e3%scheduleDuration,segment=binarySearch(schedule,seg=>seg.startSecondOfSchedule<=secondOfSchedule);return segment?.type==="video"?{type:"video",videoId:segment.videoId,videoTitle:segment.videoTitle,currentTime:secondOfSchedule-segment.startSecondOfSchedule+segment.startSecondOfVideo}:{type:"nothing",nextVideoId:segment?.nextVideoId??"",nextVideoStartTimestamp:segment?.nextVideoStartSecondOfVideo??0}}function getTotalDuration(){return 0}}__name(SegmentBoundaryTestChannel,"SegmentBoundaryTestChannel");function createSchedule(videos2){let totalDuration=0,schedule=[];for(const video2 of videos2)if(video2.segments.length!==1){schedule.push({type:"nothing",nextVideoId:video2.videoId,nextVideoStartSecondOfVideo:3,duration:SECONDS_BETWEEN_VIDEOS,startSecondOfSchedule:totalDuration}),totalDuration+=SECONDS_BETWEEN_VIDEOS,schedule.push({type:"video",videoId:"TxJtoBAa2w0",videoTitle:"",duration:3,startSecondOfVideo:3,startSecondOfSchedule:totalDuration}),totalDuration+=3;for(let i=0;i<video2.segments.length;i++){const segment=video2.segments[i];if(i!==0){const slice=beginningOf(segment,7);schedule.push({type:"video",videoId:video2.videoId,videoTitle:video2.title,duration:slice.duration,startSecondOfVideo:slice.start,startSecondOfSchedule:totalDuration}),totalDuration+=slice.duration}if(i!==lastIndexOf(video2.segments)){const slice=endOf(segment,7);schedule.push({type:"video",videoId:video2.videoId,videoTitle:video2.title,duration:slice.duration,startSecondOfVideo:slice.start,startSecondOfSchedule:totalDuration}),totalDuration+=slice.duration}}}return schedule}__name(createSchedule,"createSchedule");function lastIndexOf(a){return a.length-1}__name(lastIndexOf,"lastIndexOf");function beginningOf(segment,seconds){return{start:segment.start,duration:seconds}}__name(beginningOf,"beginningOf");function endOf(segment,seconds){return{start:segment.end-seconds,duration:seconds}}__name(endOf,"endOf");const add=__name((a,b)=>a+b,"add");function VolumeControl(props){return reactExports.createElement("div",{className:"volume"},reactExports.createElement("div",{className:"volume-icon"}),reactExports.createElement("input",{"aria-label":"volume",type:"range",min:"0",max:"100",onChange:__name(e=>props.onChange(+e.target.value),"onChange"),value:props.volume}))}__name(VolumeControl,"VolumeControl");const channels=channels$1.map(([name,algorithm,episodes2])=>{switch(algorithm){case"shuffle":return ShuffledChannel(name,episodes2);case"test-segment-boundaries":return SegmentBoundaryTestChannel(name,episodes2)}});function App(){const[userRequestedPlayback,setUserRequestedPlayback]=useLatch(),[infoPaneOpen,setInfoPaneOpen]=reactExports.useState(!1),[channel,setChannel]=reactExports.useState(channels[0]),[volume,setVolume]=reactExports.useState(100),now=useNow(),broadcast=userRequestedPlayback?channel.getBroadcast(now):nothing(),player=debuggingDecorator(useYouTubePlayer("player-container")),playerStatus=status(player),playerState=playerStatus.state,hideVideo=playerState!==State.PLAYING,playerCommands=reconcile(broadcast,playerStatus),infoButtonRef=reactExports.useRef(null),closeInfoPane=reactExports.useCallback(()=>{setInfoPaneOpen(!1),infoButtonRef.current?.focus()},[]),openInfoPane=reactExports.useCallback(()=>{setInfoPaneOpen(!0)},[]);return reactExports.createElement(Layout,{effects:reactExports.createElement(PlayerCommander,{player,commands:playerCommands,volume,now}),screen:reactExports.createElement("div",{className:infoPaneOpen?"info-pane-open":""},reactExports.createElement("div",{className:"player-assembly"},reactExports.createElement("div",{id:"player-container"}),hideVideo&&reactExports.createElement("div",{className:"black-screen"},reactExports.createElement(PlayerStateView,{code:playerState,channel})),!userRequestedPlayback&&reactExports.createElement(PlayButtonOverlay,{onClick:setUserRequestedPlayback})),reactExports.createElement(VideoInfo,{isOpen:infoPaneOpen,player:playerStatus,broadcast,channels,onClose:closeInfoPane}),reactExports.createElement("div",{className:"info-pane-close-overlay","aria-hidden":!0,onClick:closeInfoPane})),controlPanel:reactExports.createElement(reactExports.Fragment,null,reactExports.createElement(ChannelSwitcher,{channels,onChannelSelected:__name(ch2=>{setChannel(ch2),setUserRequestedPlayback()},"onChannelSelected")}),reactExports.createElement(VolumeControl,{volume,onChange:setVolume}),reactExports.createElement("button",{className:infoPaneOpen?"info-button info-button-info-pane-open":"info-button",onClick:__name(()=>{(infoPaneOpen?closeInfoPane:openInfoPane)()},"onClick"),ref:infoButtonRef},"Info"))})}__name(App,"App");function Layout(props){return reactExports.createElement("div",{className:"App"},reactExports.createElement("div",{className:"bezel"},reactExports.createElement("div",{className:"screen"},props.screen),reactExports.createElement("div",{style:{height:"12px"}}),reactExports.createElement("div",{className:"controls"},props.controlPanel),props.effects))}__name(Layout,"Layout");function PlayButtonOverlay(props){return reactExports.createElement("button",{id:"start",onClick:props.onClick},"▸ Play")}__name(PlayButtonOverlay,"PlayButtonOverlay");function TestResults(){const[message,setMessage]=reactExports.useState("");return reactExports.useEffect(()=>{runTests(getAllTests()).then(formatTestResultsAsText).then(setMessage).catch(e=>setMessage(e.message))},[]),/fail/i.test(message)?reactExports.createElement("div",{className:"TestResults"},reactExports.createElement("code",null,reactExports.createElement("pre",null,message))):null}__name(TestResults,"TestResults");reactDomExports.render(reactExports.createElement(App,null),document.getElementById("app"));reactDomExports.render(reactExports.createElement(TestResults,null),document.getElementById("test-results"));
