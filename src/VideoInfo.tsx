@@ -116,7 +116,9 @@ export function VideoInfo(props: {
       >
         Now playing:{" "}
         {vm.videoLink ? (
-          <a href={vm.videoLink.href}>{vm.videoLink.text}</a>
+          <a href={vm.videoLink.href} title={vm.videoLink.text}>
+            {vm.videoLink.text}
+          </a>
         ) : (
           "-"
         )}
