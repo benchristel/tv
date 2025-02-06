@@ -68,7 +68,7 @@ vzFCXmbdmNk 9:56:02-10:50:25 The Return of Sherlock Holmes - The Adventure of Th
 vzFCXmbdmNk 10:50:27-11:51:18 The Return of Sherlock Holmes - The Adventure of The Second Stain
 
 # His Last Bow - Sherlock Holmes
-aV3MnZW-rbA 2:05:15-2:53:53 His Last Bow - The Adventure of the Red Circle
+# aV3MnZW-rbA 2:05:15-2:53:53 His Last Bow - The Adventure of the Red Circle
 aV3MnZW-rbA 2:53:54-4:02:15 His Last Bow - The Adventure of the Bruce-Partington Plans
 aV3MnZW-rbA 4:40:40-5:29:04 His Last Bow - The Disappearance of Lady Frances Carfax
 aV3MnZW-rbA 5:29:54-6:30:50 His Last Bow - The Adventure of the Devil's Foot
