@@ -998,7 +998,7 @@ NvQkpdFjqJY 16:29 Ancient Roman Honeyed Pork
 k6VBdGAEJyc 17:12 How To Feed A Roman Emperor: Vitellius & the Year of 4 Emperors
 jHpkqBFKmvA 3:27 I Quit
 qj5vg2fjOtk 0-38,1:00-13:57,14:29-18:52 Feeding a Roman Legion | Posca & Laridum
-DvBNqLUuHLI 19:08 Dragon Heart for a Viking King
+DvBNqLUuHLI 0-3:24,4:21-19:08 Dragon Heart for a Viking King
 FVIng1x_6BU 17:51 Fabulous French Feasts of the 1700s
 n7T5abyBiUg 15:48 Queen Victoria's Easter Cake
 S8KpFs1CHgw 19:28 Irish Stew From 1900 & The Irish Potato Famine
