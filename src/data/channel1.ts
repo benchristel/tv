@@ -171,8 +171,7 @@ export const episodes = [
     4ydWQ8PSAzs 17:22 The Sorcerer - New London Opera Group (part 7)
   `,
   `
-    AEMEkNhulsI 45:07 Victor Borge act 1
-    RtzMQ4JEcmc 46:08 Victor Borge act 2
+    3NtMbQGn31c 1:30:49 Victor Borge (1990)
   `,
   `
     RrHnLXMTOWM 3:19 Introduction: The Chemical History of a Candle by Michael Faraday (1/6)
