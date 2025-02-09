@@ -189,8 +189,7 @@ Remove it before shipping.`}__name(suitePassedWithInstrumentation,"suitePassedWi
     b_wiOXerTFg 19:11 The Sorcerer - New London Opera Group (part 6)
     4ydWQ8PSAzs 17:22 The Sorcerer - New London Opera Group (part 7)
   `,`
-    AEMEkNhulsI 45:07 Victor Borge act 1
-    RtzMQ4JEcmc 46:08 Victor Borge act 2
+    3NtMbQGn31c 1:30:49 Victor Borge (1990)
   `,`
     RrHnLXMTOWM 3:19 Introduction: The Chemical History of a Candle by Michael Faraday (1/6)
     6W0MHZ4jb4A 11:48 Lecture One: The Chemical History of a Candle - The Sources of its Flame (2/6)
@@ -1008,7 +1007,7 @@ NvQkpdFjqJY 16:29 Ancient Roman Honeyed Pork
 k6VBdGAEJyc 17:12 How To Feed A Roman Emperor: Vitellius & the Year of 4 Emperors
 jHpkqBFKmvA 3:27 I Quit
 qj5vg2fjOtk 0-38,1:00-13:57,14:29-18:52 Feeding a Roman Legion | Posca & Laridum
-DvBNqLUuHLI 19:08 Dragon Heart for a Viking King
+DvBNqLUuHLI 0-3:24,4:21-19:08 Dragon Heart for a Viking King
 FVIng1x_6BU 17:51 Fabulous French Feasts of the 1700s
 n7T5abyBiUg 15:48 Queen Victoria's Easter Cake
 S8KpFs1CHgw 19:28 Irish Stew From 1900 & The Irish Potato Famine
@@ -1315,7 +1314,6 @@ Kyejfdf-gvU 19:48 Harry & Carrie by Merv & Alison Davey
 # xvVqx6A0YLE 1:23 Collapse of Cornish Stone Hedges A3075
 XPX34Tfw7aA 6:27 Douglas Pinder Life & Work
 sbnN3vX8NW4 4:07 The Fields of Athenry
-WQ_Nj8uFcw8 2:08 St Piran's 2022 Newquay BID
 X-OghGpvYv4 15:50 St Piran's 2022 - Oll an Gwella
 m98q1MhPYPY 41:52 St Piran's 2022 Urban Kelt & Celtic Congress Cornwall Music
 FH_64RIzCQg 10:59 St Piran's 2022 Newquay Lifeboat with Reg Morris & Chris Blount
@@ -2486,18 +2484,16 @@ YWfSmZectL8 3:20 The Night Shift - 28 April 2008
 # IfPxG5Rc1R8 6:03 Gaelic documentary: Craigard, with Donald MacKinnon
 # fOGTKqNe_90 24:38 Aodán Ó Cearbhaill: Taisce bheo na nGael (2)
 # 5qL7jDY3sUI 31:32 Aodán Ó Cearbhaill: Taisce Bheo na nGael (1)
--QmoxtlXntc 36:01 Aire air Sunnd: Staing na Gàidhlig
-cnNvrkkmmJU 5:07 Jane NicLeòid: Talking Points Extract
-VSK03u0YeKg 11:24 Doctor Joseph Farquharson: Talking Points Extract
-4xZmzCN2qRg 7:55 Professor Udaya Narayana Singh: Talking Points Extract
-YRiQBOc37Pw 6:56 Audrey West: Talking Points Extract
-mHuQEPKW5hw 5:58 Kalyan Das Gupta: Talking Points Extract
-krLY9ATKT5w 12:46 Professor Conchúr Ó Giollagáin: Talking Points Extract
-1D5dOwSOV0E 15:54 Aire Air Sunnd: Launching the Island Voices workshops
-10BUSDrdr6Y 49:36 Dr Will Lamb: Progress Towards Accurate Automatic Speech Recognition for Scottish Gaelic
-ObJ-c1MT0Xs 1:16:06 Language Contact - Bilingual Balance? Talking Points Discussion 3
-nnZOZD-l-fM 1:18:20 Language Hierarchies - English Ascendancy? Talking Points Discussion 2
-xHWdO6mPl68 1:11:58 Language Endangerment - Gaelic Trajectory? Talking Points Discussion 1
+# cnNvrkkmmJU 5:07 Jane NicLeòid: Talking Points Extract
+# VSK03u0YeKg 11:24 Doctor Joseph Farquharson: Talking Points Extract
+# 4xZmzCN2qRg 7:55 Professor Udaya Narayana Singh: Talking Points Extract
+# YRiQBOc37Pw 6:56 Audrey West: Talking Points Extract
+# mHuQEPKW5hw 5:58 Kalyan Das Gupta: Talking Points Extract
+# krLY9ATKT5w 12:46 Professor Conchúr Ó Giollagáin: Talking Points Extract
+# 10BUSDrdr6Y 49:36 Dr Will Lamb: Progress Towards Accurate Automatic Speech Recognition for Scottish Gaelic
+# ObJ-c1MT0Xs 1:16:06 Language Contact - Bilingual Balance? Talking Points Discussion 3
+# nnZOZD-l-fM 1:18:20 Language Hierarchies - English Ascendancy? Talking Points Discussion 2
+# xHWdO6mPl68 1:11:58 Language Endangerment - Gaelic Trajectory? Talking Points Discussion 1
 JnwtBGuvb0g 7:10 Norman Maclean Talking Points, Part 3. Language Contact - Bilingual Balance?
 CvcjkU-1Ybs 7:41 Norman Maclean Talking Points, Part 2. Language Hierarchies - English Ascendancy?
 vUvu8ueMecA 7:34 Norman Maclean Talking Points, Part 1. Language Endangerment - Gaelic Trajectory?
@@ -2521,19 +2517,10 @@ NUZZi2JxqNQ 11:17 Seanchas: Coinneach Bàn, Fear-taca Lacasaigh
 # 9ULYjB49MK0 33:39 Pàdruig Moireasdan (2): Stòras Beò nan Gàidheal
 # 41HK5rfgqkQ 33:49 Pàdruig Moireasdan (1): Stòras Beò nan Gàidheal
 # 605mlP1idmY 31:15 Curstaidh NicDhòmhnaill: Stòras Beò nan Gàidheal
-# HvFkuWeNIFI 36:15 Christine NicLeòid: Stòras Beò nan Gàidheal (Zoom)
-# co-6effRTxI 24:07 Clíona Ní Ghallachóir (2): Taisce Bheo na nGael (Zoom)
-# DHPdzMdKaM4 24:25 Clíona Ní Ghallachóir (1): Taisce Bheo na nGael (Zoom)
-# VlrLXiVl4FI 19:35 Anna NicAonghais (2): Stòras Beò nan Gàidheal (Zoom)
-# 3bOakOFmte8 20:45 Anna NicAonghais (1): Stòras Beò nan Gàidheal (Zoom)
-# 5S59NCL5n6o 25:40 Calum Alasdair Friseal: Stòras Beò nan Gàidheal (Zoom)
 E5wF5Jyn488 2:20 Criomagan (English subtitles)
 QSSfLqbMi-g 2:20 Criomagan
 # r_yHflfgbEU 36:22 Guth nan Siarach agus Staing na Gàidhlig
 # hZSCw-PtDy8 25:48 New Insights on the Vernacular Gaelic Communities in the Islands
-# eRGf-cO9lNI 33:05 Maggie Smith (3): Stòras Beò nan Gàidheal (Zoom)
-# aiYtcnUrWag 19:18 Maggie Smith (2): Stòras Beò nan Gàidheal (Zoom)
-# C9kvP85bR1k 25:19 Maggie Smith (1): Stòras Beò nan Gàidheal (Zoom)
 JD8pBRRx748 6:54 Ceòlas nyári iskola
 # FiZ0GkauTqo 6:03 Tο Κέντρο ημέρας Craigard
 RFScg-VAQB8 3:27 Mi piace questo binario! (Gaelico)
@@ -4533,7 +4520,7 @@ vzFCXmbdmNk 9:56:02-10:50:25 The Return of Sherlock Holmes - The Adventure of Th
 vzFCXmbdmNk 10:50:27-11:51:18 The Return of Sherlock Holmes - The Adventure of The Second Stain
 
 # His Last Bow - Sherlock Holmes
-aV3MnZW-rbA 2:05:15-2:53:53 His Last Bow - The Adventure of the Red Circle
+# aV3MnZW-rbA 2:05:15-2:53:53 His Last Bow - The Adventure of the Red Circle
 aV3MnZW-rbA 2:53:54-4:02:15 His Last Bow - The Adventure of the Bruce-Partington Plans
 aV3MnZW-rbA 4:40:40-5:29:04 His Last Bow - The Disappearance of Lady Frances Carfax
 aV3MnZW-rbA 5:29:54-6:30:50 His Last Bow - The Adventure of the Devil's Foot
