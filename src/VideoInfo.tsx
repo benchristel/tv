@@ -98,9 +98,7 @@ export function VideoInfo(props: {
       </p>
       <p>
         <span dangerouslySetInnerHTML={{__html: `
-          <a href="${bookmarklet}">
-            Bookmarklet to scrape videos from YouTube
-          </a>
+          <a href="${bookmarklet}">Bookmarklet to scrape videos from YouTube</a>
         `}}/>
         {" "}
         (<a href="https://github.com/benchristel/tv#what-is-a-bookmarklet">What's this?</a>)
