@@ -103,6 +103,12 @@ export function VideoInfo(props: {
         {" "}
         (<a href="https://github.com/benchristel/tv#what-is-a-bookmarklet">What's this?</a>)
       </p>
+      <p>
+        Part of <a href="https://waywardweb.org">The Wayward Webring</a>!{" "}
+        <a href="https://waywardweb.org/sites/tv.benchristel.com/previous">Previous site</a>
+        {" "}&middot;{" "}
+        <a href="https://waywardweb.org/sites/tv.benchristel.com/next">Next site</a>
+      </p>
       <hr />
       <h2>Video Info</h2>
       <p
