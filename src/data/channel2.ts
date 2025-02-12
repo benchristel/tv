@@ -36,6 +36,29 @@ export const episodes: Array<string> = [
   OD-lTjKMzrQ 6:50:54-7:30:39 The Memoirs of Sherlock Holmes - The Naval Treaty, Part 1
   nsvyDd5eISc 0-36:42 The Memoirs of Sherlock Holmes - The Naval Treaty, Part 2
   `,
+  // `
+  // 1dP0AZA96K0 31:12 Moomins Audiobook: Comet In Moominland - Chapter 1/12
+  // Musj3bD3nns 15:00 Moomins Audiobook: Comet In Moominland - Chapter 2/12
+  // dEPcMaw2Fw0 7:13 Moomins Audiobook: Comet In Moominland - Chapter 3/12
+  // 4PR1fwA-9tI 14:29 Moomins Audiobook: Comet In Moominland - Chapter 4/12
+  // UwwXGnjjAQw 15:20 Moomins Audiobook: Comet In Moominland - Chapter 5/12
+  // JXJDP_nJ8J8 19:46 Moomins Audiobook: Comet In Moominland - Chapter 6/12
+  // PcQdsNfW_hM 23:58 Moomins Audiobook: Comet In Moominland - Chapter 7/12
+  // vKZcley3tc0 25:04 Moomins Audiobook: Comet In Moominland - Chapter 8/12
+  // dfdH-sjNNdk 23:21 Moomins Audiobook: Comet In Moominland - Chapter 9/12
+  // CLlOypAgnaI 19:48 Moomins Audiobook: Comet In Moominland - Chapter 10/12
+  // 27P97roGQ_Y 28:06 Moomins Audiobook: Comet In Moominland - Chapter 11/12
+  // fWnbJQX4-2Y 4:04 Moomins Audiobook: Comet In Moominland - Chapter 12/12
+  // `,
+  `
+  mf7wrcTimdY 0:00-24:07 1 - Finn Family Moomintroll by Tove Jansson: Prologue and Chapter One
+  KqygaOWq8TY 0:12-23:52 2: Finn Family Moomintroll by Tove Jansson: Chapter Two
+  2I8PLy2gXcQ 30:20 3: Finn Family Moomintroll by Tove Jansson: Chapter Three
+  xPZLN1oHcsc 21:14 4 Finn Family Moomintroll by Tove Jannson: Chapter Four
+  bMpf6l-kdX8 30:44 5 - Finn Family Moomintroll by Tove Jansson: Chapter Five
+  qwIHt6WWzgk 18:47 6 - Finn Family Moomintroll by Tove Jansson: Chapter Six
+  zMsQdKMo7E0 36:16 7 - Finn Family Moomintroll by Tove Jansson: Chapter Seven
+  `,
 ]
 
 export const videos: string = `

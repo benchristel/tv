@@ -3598,6 +3598,9 @@ tBiu1Emv31Q 29:23 Building a Medieval House | 10 Day Bushcraft Shelter Build
 fFK6nzwbRf8 13:56 Incredible Stone Age House: Primitive Technology 3,800BC
 D8ba5tt6Sqo 1:00:14 Viking House: Full Bushcraft Shelter Build with Hand Tools | Vikings
 
+# Vildmarksgymnasiet
+NZD5sDJduCE 3:47 Göra upp eld med bågdrill
+
 # urbanology
 # YEsJnMc43pE 7:36 Analogous Unfolding
 m1IZqlnEbmg 7:11 Unfolding Sequences - an introduction
