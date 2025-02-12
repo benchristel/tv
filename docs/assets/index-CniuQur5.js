@@ -3608,6 +3608,9 @@ tBiu1Emv31Q 29:23 Building a Medieval House | 10 Day Bushcraft Shelter Build
 fFK6nzwbRf8 13:56 Incredible Stone Age House: Primitive Technology 3,800BC
 D8ba5tt6Sqo 1:00:14 Viking House: Full Bushcraft Shelter Build with Hand Tools | Vikings
 
+# Vildmarksgymnasiet
+NZD5sDJduCE 3:47 Göra upp eld med bågdrill
+
 # urbanology
 # YEsJnMc43pE 7:36 Analogous Unfolding
 m1IZqlnEbmg 7:11 Unfolding Sequences - an introduction
@@ -4490,6 +4493,14 @@ g8twezOz2h4 0:03 WGBH Boston | Title Card | 2003 | PBS Kids
   `,`
   OD-lTjKMzrQ 6:50:54-7:30:39 The Memoirs of Sherlock Holmes - The Naval Treaty, Part 1
   nsvyDd5eISc 0-36:42 The Memoirs of Sherlock Holmes - The Naval Treaty, Part 2
+  `,`
+  mf7wrcTimdY 0:00-24:07 1 - Finn Family Moomintroll by Tove Jansson: Prologue and Chapter One
+  KqygaOWq8TY 0:12-23:52 2: Finn Family Moomintroll by Tove Jansson: Chapter Two
+  2I8PLy2gXcQ 30:20 3: Finn Family Moomintroll by Tove Jansson: Chapter Three
+  xPZLN1oHcsc 21:14 4 Finn Family Moomintroll by Tove Jannson: Chapter Four
+  bMpf6l-kdX8 30:44 5 - Finn Family Moomintroll by Tove Jansson: Chapter Five
+  qwIHt6WWzgk 18:47 6 - Finn Family Moomintroll by Tove Jansson: Chapter Six
+  zMsQdKMo7E0 36:16 7 - Finn Family Moomintroll by Tove Jansson: Chapter Seven
   `],videos$5=`
 # The Adventures of Sherlock Holmes
 EQuQF102O6I 0-55:10 The Adventures of Sherlock Holmes - A Scandal in Bohemia
@@ -4498,7 +4509,7 @@ EQuQF102O6I 55:12-1:53:55 The Adventures of Sherlock Holmes - The Red-Headed Lea
 EQuQF102O6I 2:36:56-3:37:53 The Adventures of Sherlock Holmes - The Boscombe Valley Mystery
 EQuQF102O6I 4:25:57-5:23:50 The Adventures of Sherlock Holmes - The Man With the Twisted Lip
 # EQuQF102O6I 5:23:52-6:13:04 The Adventures of Sherlock Holmes - The Adventure of the Blue Carbuncle
-eYpFjaJMiFY 49:56-1:41:05 The Adventures of Sherlock Holmes - The Adventure of the Noble Bachelor
+# eYpFjaJMiFY 49:56-1:41:05 The Adventures of Sherlock Holmes - The Adventure of the Noble Bachelor
 eYpFjaJMiFY 1:41:07-2:41:11 The Adventures of Sherlock Holmes - The Adventure of the Beryl Coronet
 eYpFjaJMiFY 2:41:13-3:42:34 The Adventures of Sherlock Holmes - The Adventure of the Copper Beeches
 
