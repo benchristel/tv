@@ -390,277 +390,6 @@ hdqKnHFZRWQ 7:16 Theo Gray demonstrates his Element iPad ap -- and "debuts" the 
 
 # Adam Savage's Tested
 
-dXdkfaEbeLQ 10:18 Ask Adam Savage: When Did You Know Making Would Be A Sustainable Career?
-PbnDO_IMMoY 7:39 Ask Adam Savage: What IS It About The Matrix?
-kBoNZjWsrOY 15:21 Ask Adam Savage: All About Clamps
-6HOWrW4p-Xg 11:29 Ask Adam Savage: Adam's Top 5 Movie Soundtracks
-Wz-iPCiim9U 5:01 Ask Adam Savage: “Did You Have Work/Life Balance During MythBusters?”
-UUNBBNLCqmU 7:39 Ask Adam Savage: Best Glue for Foam
-eGRfEvMEoSM 6:16 Ask Adam Savage: "Do You Have Lucid Dreams?"
-qQlF7upgTlA 10:03 Ask Adam Savage: "What Do You Think Will Be Your Legacy?"
-7KllsOwtHK0 7:39 Ask Adam Savage: Ark of the Covenant Replicas and Duct Tape Bullwhips
-5CRSXcoasQQ 12:00 Ask Adam Savage: Creating With ADHD
-W7XvCLDzY10 7:51 Ask Adam Savage: How to Set Up a New Shop
-KZWWL3Kdhhk 9:04 Ask Adam Savage: On Sharing Space With Mrs Donttrythis
-vyCrHLYiGNo 10:09 Ask Adam Savage: Efficiency and First Order of Retrievability in Shops
-6LqBJzLB5jg 5:57 Ask Adam Savage: Best Tools and Projects for First-Time Makers
-L3D8BhJIfL0 11:12 Ask Adam Savage: Avoiding Accidents and "The Hands"
-eS8aLmXEmQQ 11:20 Ask Adam Savage: When to Ask for Help on a Job
-TpqUG6iFEBE 7:38 Ask Adam Savage: What's the One Thing Visitors Flock to in The Cave?
-IVE3G_uCW1Y 9:05 Ask Adam Savage: Building vs. Modifying Tools
-WBbxrHO8zq8 7:28 Ask Adam Savage: Favorite Miniature and Jumbo Versions of Tools
-8Q_7nkvjl-g 8:58 Ask Adam Savage: The Origin of Adam and Jamie's "MythBusters Look"
-usB6jqa4Yt4 7:56 Ask Adam Savage: When to Buy and How to Mark Your Tools
-riyvh8zOG_A 5:58 Ask Adam Savage: On Reading Critical Viewer Comments
-G9TJQEJJZKI 6:58 Ask Adam Savage: Current TV Series Adam Would Want to Address on MythBusters
-fWZ8rUEdhUc 7:58 Ask Adam Savage: What's on Adam's Personal Bucket List?
-WrGW5oGnILo 7:58 Ask Adam Savage: Setting Up a Shop in Your Garage
-2tZ0EGJIgD8 15:16 Ask Adam Savage: Adjusting to Life Post-Mythbusters
-jIAbRPW0jXg 5:41 Ask Adam Savage: On Making "In Universe" Prop Build Decisions
-E1tuc-levnI 6:14 Ask Adam Savage: Do I Want to Go to Space?
-a6E0FMtdJpM 10:51 Ask Adam Savage: Who Modified the Cars on MythBusters?
-aRln8atkNaY 13:43 Ask Adam Savage: Behind the MythBusters Cement Truck Explosion
-mqXtr7C5VCg 11:45 Ask Adam Savage: Job Interview Advice, Jamie's Flamethrower and More
-lbnGzrLWlBw 5:25 Ask Adam Savage: The Origin of M5, M6 and M7 (Plus, Their Neighbors)
-DNhbUQhiVf8 7:51 Ask Adam Savage: Will I Ever Retire, Plus Combatting Negative Feedback
-Bh6VLA7uUvM 11:21 Ask Adam Savage: The Challenge of Using Explosives and Firearms in San Francisco
-I1XVHq3sTdk 7:59 Ask Adam Savage: When to Keep/Store a Project, Plus Favorite Puppet in Film History
-MztikUm9T1c 15:34 Ask Adam Savage: My Favorite Build of Jamie's
-c6TopwNu7Ok 8:22 Ask Adam Savage: How Useful Is My Tattoo?
-6HV37guAllc 6:23 Ask Adam Savage: Makers in the Film Industry
-l1RemggFxwA 8:16 Ask Adam Savage: How to Weather Leather
-jP4DGyMUbMA 6:50 Ask Adam Savage: My "Why Didn't I Think of That" Moments
-Z10JnKiu4Tg 6:49 Ask Adam Savage: Post-Build Depression, Custom Lightsabers and Unfinished Blasters
-AlcLyaOw-ls 8:22 Ask Adam Savage: The "One Day Build" Concept
-8fgfi7Kc1hg 13:30 Ask Adam Savage: How I Jump Back Into a Set-Aside Project
-DXyc91HL7Y8 7:47 Ask Adam Savage: Does Self-Filming Make Builds Longer?
-LprSB3_rles 11:12 Ask Adam Savage: When to Make vs. Buy Something
-8mXv0_N_NHg 8:17 Ask Adam Savage: The Myth Jamie Suggested That I LOVED (But We Didn't Do)
-qkz19jFh7x0 8:06 Ask Adam Savage: Bailing on Boring Projects
-FIDJ2XMTb_s 10:06 Ask Adam Savage: Land Cruiser Pros and Cons Plus Drywall Screws
-stMPdtH3S9E 11:10 Ask Adam Savage: Metric Blocks, Biscuit Bazooka and Barrel of Bricks
-L5De68zSf14 11:55 Ask Adam Savage: Should You Take Jobs at a Loss to "Get Your Name Out"?
-_Xt-YHdRlQI 12:00 Ask Adam Savage: Stewart/Colbert Rally to Restore Sanity and/or Fear Invite
-IuF1tWlV6nE 9:33 Ask Adam Savage: Blade Runner 2099, Workbench Tops and Custom Lightsabers
-psgf9pqjkPs 8:37 Ask Adam Savage: Is Failure Still an Option?
-qPlWUFxXFGs 10:24 Ask Adam Savage: Tips for Organizing Reference Materials (Both Digital and Physical)
-5Oe2S_xvL5o 9:01 Ask Adam Savage: The MythBusters Pilot Episodes
-WfyZuedOsF4 9:12 Ask Adam Savage: On Finding Organizational Inspiration and Discarding Things You Need Later
-9mxGo7QglRU 12:36 Ask Adam Savage: Transitioning From Jamie's Employee to Equal
-CVU3EZnjmUg 9:33 Ask Adam Savage: How to Store One-Off Items (Plus Home Organization Issues With Mrs. Donttrythis)
-70TZua1j3Fc 11:27 Ask Adam Savage: When to Discard Scrap Materials
-56NXn-6nqMA 8:58 Ask Adam Savage: Why the Hindenburg Episode Was Huge (and Fun!) for MythBusters
-4m-lTiCmSro 6:45 Ask Adam Savage: Airbrushing Tips and DIY Tools
-QmRXguvO0bs 0-13:15 Ask Adam Savage: Managing Tools and Materials When You Have Two Shops
-F_YVzJfhC6o 10:47 Ask Adam Savage: Tips for Building Within Tight Budget Constraints
-d4O2wtDW2LA 0-9:45 Ask Adam Savage: The Tool That Does Only One Thing, But Does It Well
-H0X9y0iyBmY 0-11:41 Ask Adam Savage: Lathe Tips (Plus Adam's Watch!)
-qeRcHlwp2AQ 0-9:11 Ask Adam Savage: The Tool That Makes Adam Giddy
-q3sCIpFZzfU 0-7:32 Ask Adam Savage: The Tool That Didn't Live Up to My Hopes
-Gj0OMUozEKw 0-7:53 Ask Adam Savage: Favorite Play/Musical Experience
-7oieelDea5o 0-9:56 Ask Adam Savage: Do I Do Projects at Home?
-8zIOfPy7sCg 0-10:16 Ask Adam Savage: Myths Adam Wishes Were Taken Further
-V1XbZPafG7M 0-14:24 Ask Adam Savage: How to Deal With Creative Block
-aNwZQdUmR7A 0-11:26 Ask Adam Savage: Weirdest Things Fans Ask to Be Signed
-AoXNSquNsbY 0-13:30 Ask Adam Savage: The Myth That Pushed Adam to His Breaking Point
-uKlQyWwdqXk 0-10:41 Ask Adam Savage: Is Mrs. Donttrythis a Maker?
-QuzIlMxLnQM 0-12:10 Ask Adam Savage: Collaborating/Competing With Jamie on MythBusters
-r1uxC8RUiKU 0-8:30 Ask Adam Savage: Feeling Overwhelmed by STUFF
-D_yHttkfWCA 0-11:10 Ask Adam Savage: Origin of "Well, There's Your Problem" on MythBusters
-Ie79jtBfr1M 11:59 Ask Adam Savage: Movie Scene That Had the Biggest Emotional Impact
-REXSV1x18Y8 11:37 Ask Adam Savage: Most Egregious Errors in TV and Movies
-fW8R-WbLQEs 11:14 Ask Adam Savage: Films Where the Props Were Better Than the Film Itself
-EtdAto9ymA8 9:22 Ask Adam Savage: Coming Out of Prop-Making "Retirement"
-BW2l9UE05No 8:47 Ask Adam Savage: Criteria for Removing Items From Shop
-KvnWuo_vTFU 9:58 Ask Adam Savage: Origin Story of the Cave
-8-1NoqJXX-c 6:32 Ask Adam Savage: If I Could Rebuild My Shop From Scratch
-UBIoaI_zqxU 6:33 Ask Adam Savage: Pegboard and Other Storage Solutions
-rpBxyXYzJnU 8:13 Ask Adam Savage: Inspiration from Cosplays Seen in Recent Conventions
-25eZ17IoRK4 11:34 Ask Adam Savage: On Storage, Compressed Air and Expendables
-04uc8uEE36k 10:13 Ask Adam Savage: Making a "Renter Friendly" Home Workshop
-dNry9KLISYo 5:30 Ask Adam Savage: 3D Printer vs Vacuum Former for Cosplay
-sHz3zZu3Z0o 8:54 Ask Adam Savage: Managing Distraction While Working
-sN-wQYRDECw 12:15 Ask Adam Savage: How Mandalorian's Digital Effects Are Game-Changing
-NRDWkJbrcrU 11:43 Ask Adam Savage: On Interacting With Fans
-KoEw_A1MfC0 11:40 Ask Adam Savage: Is Hacking Making?
-L-s3jFny6M8 12:19 Ask Adam Savage: Has Celebrity Changed Adam's Con Experience?
-uK-0Yndxmss 0-10:52 Ask Adam Savage: Managing Anxiety When Delivering Creative Work
-kDzhe6Ll1sA 14:50 Ask Adam Savage: On Turning a Hobby Into a (Still Enjoyable) Business
-Gf-7RlvDeaw 12:14 Ask Adam Savage: How Scripted Was Shark Week?
-tiByvxW3-SQ 9:12 Ask Adam Savage: On Being Clever vs. Good in the Workplace
--GzHr2MYS0w 16:47 Ask Adam Savage: On Being a Freelancer (and Setting Prices)
-NSPHIP9BM8I 12:01 Ask Adam Savage: My Past in Theatre
-1wR9i5BLjeU 10:49 Ask Adam Savage: My Worst and Most Tedious Jobs
-YpEHNIADWiA 10:22 Ask Adam Savage: First Job Ever Plus That Charmin Commercial
-uiS1iR9uWQU 10:24 Ask Adam Savage: How Much Is Cosplay Physical vs. Mental?
-rnfbjySCtCU 5:43 Ask Adam Savage: Machining vs 3D Printing
-x0N2A8lNUXo 9:47 Ask Adam Savage: Transforming Toys into Realistic-Looking Props
-D4ZYMUc8vng 12:58 Ask Adam Savage: "How I Broke My Neck"
-V4PrNE8HsuI 12:18 Ask Adam Savage: "Which Star Wars Scenes Bring You Joy?"
-mzC97eXYrDI 4:35 Ask Adam Savage: MythBusters Celebrity Guests That (Sadly) Never Happened
-5A6ZGOmV0CM 7:16 Ask Adam Savage: Favorite Object Built on MythBusters
-ZuW7_-rbvJc 5:24 Ask Adam Savage: Which Previous Job Adam Would Do Again (and Again)?
-Nr81hpP5wK4 6:55 Ask Adam Savage: The Day I Saw Unparalleled Joy on Jamie's Face
-RTa_oneCUPg 11:51 Ask Adam Savage: When to Intervene and When to Let Mistakes Happen
-uXL8zhR17ts 15:37 Ask Adam Savage: Thoughts About Galaxy's Edge
-x6c32uqznyQ 15:18 Ask Adam Savage: When Good Lightsaber Battles Go Bad
-HNzigDaI5u8 12:15 Ask Adam Savage: Why Waterslide Wipeout Was Less Fun Than It Looked
-xjHGCalVf6U 8:16 Ask Adam Savage: Managing Failure as a Maker
-ELauebvLb1M 15:17 Ask Adam Savage: Coping With (and Learning From) Failure
-y-0bBTuLAR8 11:09 Ask Adam Savage: Favorite Life Experience as a Result of MythBusters
-tgx0bPAi8Q8 6:56 Ask Adam Savage: Learning to Stunt Drive on MythBusters
-thRFK-MSZAw 6:26 Ask Adam Savage: MythBusters' Contribution to Science
-jHwM-nnG-vI 9:45 Ask Adam Savage: Collecting Failures
-LihTFh63wpM 14:01 Ask Adam Savage: Managing Negative Emotions During a Build
-jEfQAo-BuB0 7:19 Ask Adam Savage: "Why I Actually Hate Duct Tape"
-2T7lh1HzZjw 9:14 Ask Adam Savage: How to Approach Building an Accurate Costume
-8FBNmf9H-_4 10:01 Ask Adam Savage: Performing for an Audience vs. a Camera
-T6BlB3l-F4U 7:14 Ask Adam Savage: Proportion vs. Measurement in Cosplay
-9a1eQAge2sg 11:06 Ask Adam Savage: Choosing Which Version of a Character to Cosplay
-T5fjMnfSSbQ 7:23 Ask Adam Savage: A Caution Against the "Comparing Mind"
-hSAuQETf79M 6:35 Ask Adam Savage: Which Myth Didn't Get the Love It Deserved?
-16ctTeUJvSU 13:03 Ask Adam Savage: How Adam Chooses His Cosplays (Plus a Nathan Fillion Story!)
-HU--YQtD-xk 6:59 Ask Adam Savage: Training a New Shop Employee With "All the PPE"
-v3TYRKECRNA 7:13 Ask Adam Savage: Predicting Results on MythBusters
-_iu7u0SQCUk 13:37 Ask Adam Savage: How MythBusters' Crew Size Changed Over Time
-8UXDae5czgs 7:08 Ask Adam Savage: On Sharing Your Workshop
-sosCBJv2tV8 6:59 Ask Adam Savage: Shop Anchor Points
-XorzjtqIDWM 6:53 Ask Adam Savage: Testing the Bulletproof Water Myth
-QCcIdfIdfD0 6:58 Ask Adam Savage: Designing Mobility in a Small Shop
-g7nz1yCPFk0 4:59 Ask Adam Savage: How to Keep Track of Rarely Used Items
-ZMIetBwWKoI 5:36 Ask Adam Savage: How Dangerous Was Duct Tape Canyon?
-Sn6_TE9i5r8 9:00 Ask Adam Savage: About M5's Wall of Labeled Storage Bins
-dsN__voQd8o 10:32 Ask Adam Savage: Tips for Setting Up a Workshop
-beVj_xinOHY 12:33 Ask Adam Savage: When Good Materials Go Bad
-v6JPhkWg_ok 8:44 Ask Adam Savage: Testing Myths With "No Basis in Science"
-xUjcHW7SHaI 11:05 Ask Adam Savage: Plane on a Conveyor Belt Controversy
-oFrjTAa7N4M 7:22 Ask Adam Savage: The Importance of Practical Effects
-am5MLfCk8dc 10:37 Ask Adam Savage: "Which film most impacted modern cinema: Blade Runner or Alien?"
-Z4dG9DYGSdA 11:56 Ask Adam Savage: The Myth More Dangerous Than It Seemed
-vpAb8YkKKWg 10:50 Ask Adam Savage: Favorite Actor from Alien
-Z9UIbpuppkM 9:19 Ask Adam Savage: About MythBusters' Narrator
-Lcf0IOb0VY0 7:31 Ask Adam Savage: Working on R2D2 at ILM
-h70kbIzPgig 13:09 Ask Adam Savage: How Lead Balloon Changed MythBusters
-mFwzgXnxG30 7:09 Ask Adam Savage: Why M7 Spun Off from M5
-bUAa1TgSY1c 9:30 Ask Adam Savage: Testing Fiction-Based Myths on MythBusters
-EAlX_NOFYDI 12:04 Ask Adam Savage: High Speed and MythBusters
-ztE3xoVDtG0 6:30 Ask Adam Savage: Voight-Kampf Machines and Electric Sheep
-2FyfZeAgv54 4:06 Ask Adam Savage: Myth Adam Would Like to Test Today
-rdNPws3pyHw 10:14 Ask Adam Savage: Why I Still Like Blade Runner
-uw4csWqepkA 10:41 Ask Adam Savage: How MythBusters' Stunt Training Later Saved Adam's Life
-Uxx4Y1lOM00 12:43 Ask Adam Savage: Favorite Blade Runner Cut (Plus: Is Deckard a Replicant?)
-zdkqBWtVNSA 14:04 Ask Adam Savage: Savage Builds' Complex Builds, Plus Those Rocket Gloves
-DXWzAcWj6b0 13:40 Ask Adam Savage: Remembering the U2 and Blue Angels Flights from MythBusters
-H6yVtuPG1lc 13:58 Ask Adam Savage: Working With Tory on Savage Builds
-ei2jLKORXn4 14:19 Ask Adam Savage: Savage Builds Wheel of Death Re-Do and Unrealized Ideas
-2WFFhicVeXI 12:00 Ask Adam Savage: Origin of "I Reject Your Reality ..."
-zyNdK6iXcyM 8:57 Ask Adam Savage: Most Important Myth
-4OnOyyTyvcc 11:29 Ask Adam Savage: "Is ADHD a Positive or Negative for Makers?"
-XkRHl8v5vrU 4:35 Ask Adam Savage: "Would You Go Back to ILM?"
-COh6jTqWZmU 15:46 Ask Adam Savage: "What's Your End-of-Life Plan for Your Shop?"
-yqmPea6d8ec 8:30 Ask Adam Savage: From Messy to (More) Organized
-mwdHPG_heV0 8:44 Ask Adam Savage: Public Education, Doctor Who and Scissors
-ebDc1uWiJD4 11:04 Ask Adam Savage: The Importance of Portfolio
-4CHlcNqB20Q 8:42 Ask Adam Savage: Props from Literature and Favorite Animation as a Youth
-YBILSR7Hu5o 9:36 Ask Adam Savage: Best Age to Introduce the Creative Process
-7vRG0QpAT24 7:57 Ask Adam Savage: When Grant Met NSYNC
-8aOzfsbex8U 3:50 Ask Adam Savage: Favorite Recent ILM CG or Artwork
-qvU5PZgSowk 9:06 Ask Adam Savage: "Was ILM Your Dream Job or a Stepping Stone?"
-ZN-9DiI4jr0 10:11 Ask Adam Savage: Digital vs. Practical Effects, Boredom and Never-Seen Props
-qvBAoxuf9zE 11:36 Ask Adam Savage: ILM Hiring Practices and Prop Policies
-j26Xc4ngIaM 8:33 Ask Adam Savage: Most Valuable Skill Acquired at ILM
-PhkZQeTQ6oM 5:31 Ask Adam Savage: How Ridiculous Was Filming the MythBusters Herding Cats Episode?
-2GGkWdLm7PI 10:19 Ask Adam Savage: My First Day and Movies at ILM
-IkawOT_Cg-s 8:41 Ask Adam Savage: Would You Have Changed Anything About MythBusters?
-mxPQBIu_Hro 8:43 Ask Adam Savage: Were Any Myths Deemed Too Simple to Test on MythBusters?
-AkBxe0DXzZs 7:07 Ask Adam Savage: Most Obscure Skill Acquired During MythBusters
-4u7I-6AcA00 6:38 Ask Adam Savage: "Which MythBusters' Result Impacted Your Everyday Life?"
-kaI-Ri7Ias4 7:23 Ask Adam Savage: What Projects Are Best to Attract New Makers?
-HMzg0bVY2Ds 11:09 Ask Adam Savage: Key Quality in a MythBusters Reboot
-8wG-gr_IRHQ 9:34 Ask Adam Savage: Most Surprising MythBusters Result
-rDnGHwqnfyM 10:33 Ask Adam Savage: M5 vs. M7 Myths
-GC4oa5YKN-M 6:35 Ask Adam Savage: "Are You a Ghostbusters II Fan?"
-VEgqBVdsJZg 9:34 Ask Adam Savage: "Do You Own a Screen-Used Prop from Ghostbusters?"
-DUsBoLT1Yv8 5:25 Ask Adam Savage: What Is a "Maker"?
--AvhYMPvPR4 5:45 Ask Adam Savage: Is Adam an Adrenaline Junkie?
-gGzGX8YfSaw 6:53 Ask Adam Savage: Prototyping on MythBusters
-N-XpBXr7YHQ 12:00 Ask Adam Savage: Ghostbusters' All-Female Reboot, Abandoned Props and FX
-MOsOlF0-Gas 7:01 Ask Adam Savage: The Myth That "Got Away"
-MhPrj-32Y88 9:05 Ask Adam Savage: "Do You Have a Bill Murray Story?"
-StQcRsCkIjw 8:13 Ask Adam Savage: Those Scripted MythBusters Blueprint Segments
-_9bfOcx4h-4 8:35 Ask Adam Savage: Favorite Wood for Building Storage
-qSDzoOQxG-I 9:08 Ask Adam Savage: Exciting Maker Tour Discoveries
-I5ol3lM2HDo 9:56 Ask Adam Savage: Pros and Cons of "Worldwide Fame"
-iUNnmuMkGxs 7:44 Ask Adam Savage: "Is There Anything Too Dangerous to Repair Yourself?"
-fsb8NxzNozo 4:31 Ask Adam Savage: LEGO MOCs
--8JUTYj7Q30 16:02 Ask Adam Savage: What MythBusters DIDN'T film, the Bomb Range and Simultaneous Myths
-wSoCA0bO1_M 11:19 Ask Adam Savage: "Did MythBusters Influence Your Current Creative Problem-Solving?"
-cgFmFqh90PU 13:02 Ask Adam Savage: MythBusters' Unsung Heroes
-zyFAlep9CA4 8:48 Ask Adam Savage: Grossest MythBusters Myth
-OSMLCySKMWo 8:23 Ask Adam Savage: First Thought When Jamie Asked Me on Board
-U0QqMQ2Makg 12:12 Ask Adam Savage: "Was MythBusters Intended to Be Educational?"
-mlBnrx5Z3Ww 9:55 Ask Adam Savage: "Do You Lament Being a Generalist?"
-EDLU4k9R81c 9:00 Ask Adam Savage: "Why Do You Refuse to Acknowledge Some Indiana Jones Films?"
-jp2wZ4q68FQ 5:45 Ask Adam Savage: Tips for Projects in a Limited Work Space
-a6voK4rDiUM 13:43 Ask Adam Savage: Stolen Indiana Jones Whip Update
-HypnuwjJUgY 5:37 Ask Adam Savage: Ideal Qualities in a Collaborator
-h-5hIMkLxRs 12:23 Ask Adam Savage: Essential Pieces for Indiana Jones Cosplay
-hjINCIPY4Wo 4:58 Ask Adam Savage: Organizing Tupperware
-nTmpDF3VtwQ 11:33 Ask Adam Savage: Favorite Scene from Raiders of the Lost Ark
-pZ2qSzZPyPw 11:40 Ask Adam Savage: Fondest Berkeley Repertory Memories
-DQnS5SdZ9BE 3:39 Ask Adam Savage: Preferred Sketchbook
-hjx2vezyhj4 3:43 Ask Adam Savage: Most Underappreciated TV Series
-B9aa__BK8Zk 16:30 Ask Adam Savage: What Books Changed Your Way of Thinking?
-wldwf-9B-Us 13:17 Ask Adam Savage: Researching and Recommending Tools
-# Af-jExEh4SU 3:39 Ask Adam Savage: Best Pen for Writing Labels
-nIP3AI8DsG0 4:47 Ask Adam Savage: How to Find Garage Kits
-AEHsxb_rSAk 4:56 Ask Adam Savage: Destigmatizing Hearing Loss
-4BJAKHv-NLE 13:56 Ask Adam Savage: "Funny Stories about Grant Imahara"
-XGFSn2Xm8ks 1:00:23 Ask Adam Savage: "Did you ever meet George Lucas?"
-H4-jGNoMlWU 49:07 Ask Adam Savage: "Do you ever just chill out in your shop?"
-7COvFaFTAy4 40:33 Ask Adam Savage: "Do you ever feel imposter syndrome?"
-Ki0g7I3mASA 28:52 Ask Adam Savage: "Are You an Educator or Entertainer?"
-Zt3649jao68 2:49 Ask Adam Savage: What Full-Size Working Prop Would You Want to Make?
-nZZlEbttaO0 5:37 Ask Adam Savage: Career Paths for Makers and Polymaths
-HMsKjzt7Gpk 3:01 Ask Adam Savage: What's the One Thing You'd Save in a Fire?
-aWFHIfmzTYE 2:59 Ask Adam Savage: Preferred Shop Stools
-XHHp3dW-TCw 3:46 Ask Adam Savage: Costume Storage
-cHEq3HkZf-8 4:49 Ask Adam Savage: Working With Other Makers
-1jx_O0no0pY 1:12 Ask Adam Savage: What is Savage Builds?
-o_xUJfX-Hy0 4:17 Ask Adam Savage: A Movie You Wish You'd Worked On
-tZ4Uyo3oIg4 4:48 Ask Adam Savage: Least-Used but Most Important Tool
-5i1zcFjjYAE 3:49 Ask Adam Savage: The Role of Cardboard in Making
-qD528UrBNLA 3:53 Ask Adam Savage: How to Interact With Famous People
-IDcnw167dN0 2:06 Ask Adam Savage: Connecting to Crafting
-qjJwbi8yADM 1:34 Ask Adam Savage: Most Difficult Myth
-R9Qm5DQAuag 2:02 Ask Adam Savage: Failed Explosions on MythBusters
-exCrXc8hAAA 2:32 Ask Adam Savage: How Does Adam Savage Decide Next Projects?
-MwsLhlVlaZc 2:32 Ask Adam Savage: Adam's Favorite Cosplay
-1XFhm8nry-Y 2:29 Ask Adam Savage: How to Deal With Success
-yw8gFo2DJvM 3:37 Ask Adam Savage: The Role of Social Media
-OO8xF-kgMJU 1:55 Ask Adam Savage: Nourishing Kids' Interest in Science and Art
-8VDiTgL0qL4 2:15 Ask Adam Savage: Cosplaying as a Celebrity
-GRSq75EdzmE 3:11 Ask Adam Savage: Ah-Ha Moments
-e3YB3z0YIh8 1:18 Ask Adam Savage: Small, Extra Arms vs. Prehensile Tail
-Nx73IDlgSF4 2:34 Ask Adam Savage: Favorite Guest on MythBusters
-CaFR4vGKrvc 1:50 Ask Adam Savage: Which Tools Don't Work?
-Xwpufxg__6A 1:28 Ask Adam Savage: Best Adaption of a Book
--BM_ghu0qq8 4:03 Ask Adam Savage: Worst Injury While Making?
-kmHgfmkEwDE 3:25 Ask Adam Savage: Getting Over Maker's Block
-8Cu9Zxr-fjg 3:43 Ask Adam Savage: Favorite Shop Tools!
-jY3O8Kt2IVg 3:09 Ask Adam Savage: Favorite Things to Take Apart
-X-UWkbx3ppU 2:24 Ask Adam Savage: State of Mind for Making
-lgQ2N-dFgQc 2:01 Ask Adam Savage: Overcoming Large Learning Curves
-LImkIx2wasw 2:12 Ask Adam Savage: Old vs New Technology
-4t1B0iH4jb4 2:20 Ask Adam Savage: Tips for Kids to Become Makers
-GVnoTrJNAtc 3:07 Ask Adam Savage: Who Cleans Up the Mess after Builds?
-yzYS9yEcJAY 2:48 Ask Adam Savage: Giving Ourselves More Credit
-9okIF3RZRcc 2:36 Ask Adam Savage: Recovering from a Mistake
-J-9dGGKAQPE 2:15 Ask Adam Savage: Biggest Explosion?
-0PQul0uH_oc 2:43 Ask Adam Savage: Most Satisfying Recent Project?
-iCl8ek0gLPA 3:44 Ask Adam Savage: Being Dropped in Bubble Wrap?
-40dx0L5t8-s 2:31 Ask Adam Savage: What Do You Do After Work?
-
 NM9Hxpk_tPo 18:32 Adam Savage's One Day Builds: Annular Cutter Storage!
 SGUtT2Lo944 1:16:13 Adam Savage's One Day Builds: AT-AT Walker Garage Kit!
 RfNIlmKXOWg 32:40 Adam Savage's One Day Builds: Custom Poker Chip Carrier!
@@ -1258,7 +987,7 @@ FefgSevflVM 12:48 Viaj an Delow
 cxZXIAGey6Y 0:33 Yn Kov Stephen Gainey
 # 7oipzomINU8 23:28 lorient2017 ENGLISH
 DJG8RU6cHjM 23:54 An Oriant 2017
--hHLi1Kk5ok 27:38 dasserghyans klappya
+# -hHLi1Kk5ok 27:38 dasserghyans klappya
 m67g3_B4a_w 25:11 Kernowpalooza
 2m-Teyq7HbI 25:04 Cornish language weekend - rann 1
 _-EK5GI3VTo 29:15 An Bennseythun Gernewek 1996
@@ -1922,23 +1651,22 @@ Lf4YxNnUzow 3:41 Stadstuinieren - Recept Broccolitaartjes
 PYA9HiNCQhs 3:33 Stadstuinieren - Recept chilivlokken
 zHq66Av6ucM 3:24 Stadstuinieren - Vogelvoerhanger
 RjDRlj_B1vU 3:55 Stadstuinieren - Groot Kaasjeskruid kweken en oogsten
-VB0pKyGFsAI 3:46 Stadstuinieren -Tuingereedschap schoonmaken
-d1V0KQKBdWk 4:44 Stadstuinieren - Composteren
+# VB0pKyGFsAI 3:46 Stadstuinieren -Tuingereedschap schoonmaken
+# d1V0KQKBdWk 4:44 Stadstuinieren - Composteren
 # N23wua8Fa8U 5:38 Stadstuinieren - Italiaans moestuinplan
-OQOgSc8ZAtU 3:49 Stadstuinieren - Prei oogsten recept
-sRTQL4N9nKI 3:12 Stadstuinieren - Olijfkomkommer kweken
-OqW1M1qgRi0 3:15 Stadstuinieren - Muismeloen kweken
-wZ116aJL-Ik 3:28 Stadstuinieren - Uien telen
-QOB7nNP5wCk 4:01 Stadstuinieren - Tuinkers zaaien - kiemen kweken
+# OQOgSc8ZAtU 3:49 Stadstuinieren - Prei oogsten recept
+# sRTQL4N9nKI 3:12 Stadstuinieren - Olijfkomkommer kweken
+# OqW1M1qgRi0 3:15 Stadstuinieren - Muismeloen kweken
+# wZ116aJL-Ik 3:28 Stadstuinieren - Uien telen
+# QOB7nNP5wCk 4:01 Stadstuinieren - Tuinkers zaaien - kiemen kweken
 # CsUiyp9z74s 5:11 Stadstuinieren - Zo maak je een bijenhotel
-fUvxDmhr-64 3:28 Stadstuinieren - Tomatenketchup maken
-DC6wrGkFRmk 3:48 Stadstuinieren - Kruidenolie maken
-auODFWiObCg 6:18 Stadstuinieren - Watermeloen kweken
-jmwVp8e0q-I 6:36 Stadstuinieren - Kiwano kweken
-yJIKC-7LHgo 4:27 Stadstuinieren - Bosui laten hergroeien
-nxWdx40wP8A 3:53 Stadstuinieren - Kruiden uit de winkel. Hoe houd je ze goed?
-HLqfG3GdAOg 3:37 Stadstuinieren -Kruiden uit de winkel. Hoe houd je ze goed? 2
-TaL6eLq1CO8 3:43 Stadstuinieren - Kiemen uit Chiazaad kweken
+# fUvxDmhr-64 3:28 Stadstuinieren - Tomatenketchup maken
+# auODFWiObCg 6:18 Stadstuinieren - Watermeloen kweken
+# jmwVp8e0q-I 6:36 Stadstuinieren - Kiwano kweken
+# yJIKC-7LHgo 4:27 Stadstuinieren - Bosui laten hergroeien
+# nxWdx40wP8A 3:53 Stadstuinieren - Kruiden uit de winkel. Hoe houd je ze goed?
+# HLqfG3GdAOg 3:37 Stadstuinieren -Kruiden uit de winkel. Hoe houd je ze goed? 2
+# TaL6eLq1CO8 3:43 Stadstuinieren - Kiemen uit Chiazaad kweken
 01lxSFW3Uwk 3:36 Stadstuinieren - Maiskiemen
 G61Dxxp_RQE 3:08 Stadstuinieren - Bietjes kweken
 dYdL9cp_KfQ 5:44 Stadstuinieren - De planning van zaaien, planten en voorbereiden
@@ -2451,7 +2179,7 @@ wbQYGLTWRA4 2:05 Handel: What's the appeal?
 0qhJO0DN5P4 1:05 OAE players on Handel
 BBmCi3csiTg 2:46 The Night Shift: Conductor Roy Goodman on Schubert's Symphony No.4, 'Tragic'
 tC6SPGuOOHQ 3:42 OAE: Baroque Contrasted Vox Pops
-1tj4xLMNIGg 7:48 OAE tour diary: Sheffield
+# 1tj4xLMNIGg 7:48 OAE tour diary: Sheffield
 # mOPLCChomj8 3:06 The Night Shift Vox Pops
 vuCtJFWrXb0 5:44 OAE: Matthew Truscott (violin) on 'Baroque. Contrasted.' at Kings Place
 T4otceedkh0 6:49 OAE staff on 'Baroque. Contrasted.' at Kings Place
@@ -2921,47 +2649,6 @@ ETXKu03o7is 51:08 [Support Ukraine Now] Jeeves And Wooster — The Delayed Arriv
 ctsspH-2WFM 50:34 [Support Ukraine Now] Jeeves And Wooster — Trouble at Totleigh Towers (S04E05) [Full HD] [subtitles]
 vmzN-3dSCms 51:10 [Support Ukraine Now] Jeeves And Wooster — The Ties That Bind (S04E06) [Full HD] [subtitles]
 
-# jan Misali's Conlang Critic
-
-l-unefmAo9k 5:32 Conlang Critic Episode One: Lojban
-k_z41hk_lUM 5:33 Conlang Critic Episode Two: aUI
-12bT6wGXESc 10:41 Conlang Critic Episode Three: Vötgil
-ZkVF6MsVgmE 5:36 Conlang Critic Episode Four: Láadan
-j-dmJtboDCk 5:35 Conlang Critic Episode Five: Ygyde
-e_n3loSfejg 6:27 Conlang Critic Episode Six: Ithkuil
-qnv8PVvbd-8 4:19 Conlang Critic Episode Seven: Wolflandic
-XhxjI3t6Ht4 4:48 Conlang Critic Episode Eight: Kay(f)bop(t)
-o2mzKGGrNi8 4:31 Conlang Critic Episode Nine: Klingon
-tOf91VkVvz8 3:54 Conlang Critic Episode Ten: Na'vi
-6w7y_9XrNpA 5:20 Conlang Critic Episode Eleven: FluidLang
-c2G7TFybqOQ 3:22 The Perfect Language [Epic]
-eLn6LC1RpAo 8:02 Conlang Critic Episode Twelve: Toki Pona
-Sao9mCLy3Xo 10:17 Conlang Critic Episode Thirteen: Esperanto
-TOWcRvYq9Fs 5:14 Conlang Critic Episode Fourteen: Ido
-TpHqHuXvUek 6:12 Conlang Critic Episode Fifteen: Volapük / Volapꞟk
-JLuKnsIqXOQ 6:21 Conlang Critic Episode Sixteen: Dovahzul
-U_Bz3bt8_4w 4:42 Conlang Critic Episode Seventeen: Interlingua
-tZDUVJKo5nY 4:22 Conlang Critic Episode Eighteen: Solresol
-sF1R2ZUSbeo 8:56 Conlang Critic Episode Nineteen: Loglan
-QkaYGEwZSrU 7:03 Conlang Critic Episode Twenty: Zese
-GX4V1M9qWVc 8:30 Conlang Critic Episode Twenty One: Futurese
-X2GN1mBUOFc 3:45 Conlang Critic Episode Twenty Two: Lingua Franca Nova
-kpFHH57smjo 4:50 Conlang Critic Episode Twenty Three: Interslavic
-KegIeZwXUDk 9:31 Conlang Critic Episode Twenty Four: Folkspraak
-8nAcVA88H5M 15:06 Conlang Critic: Dothraki
-GpPRiwNriys 20:48 Conlang Critic: Novial
-rtomHrUihco 15:51 Conlang Critic: The IS Language
-QZ_8hnT9YYo 14:50 Conlang Critic: Drsk
-tdTQ7Scli0I 17:35 Conlang Critic: Sambahsa
-TY7EEBUgg6Y 17:47 Conlang Critic: Sindarin (featuring Artifexian)
-C9KdW66dfOk 16:00 Conlang Critic: Poliespo
-97RsfY2ODw0 14:12 Conlang Critic: Kēlen
-gi1-ZWiqjD8 38:53 Conlang Critic: Lingwa de Planeta
-F1LBCMWDNwo 33:16 Conlang Critic: Viossa
-mJYrc6oya7c 14:38 Conlang Critic: Iqglic
-JICvHFl7W6o 15:35 Conlang Critic: Quenya
-ZiN-1Z5O9Hc 15:56 Conlang Critic: High Valyrian
-
 # Building a Medieval Castle
 
 ydoRAbpWfCU 58:51 Can We Build A Castle With Medieval Tools? | Secrets Of The Castle | Timeline
@@ -3046,30 +2733,6 @@ z9n9rqb-lvY 4:28 Primitive Technology: Firesticks
 Uwtu_DARM9I 4:24 Primitive Technology: Thatched Dome Hut
 nCKkHqlx9dE 11:14 Primitive Technology: Wattle and Daub Hut
 
-# The Future of Places
-
-7daz8EqKQJI 1:48 Future of Places Conference Attendee Interviews 2013 - Introduction
-uPx-zyE3d2w 7:14 Mohamed Aleh - Future of Places Interview 2013
-v8Gu7GJe0fE 3:40 Raimond Blasi - Future of Places Interview 2013
-fSXdHvO0gc0 4:39 Rich Bradley - Future of Places Interview 2013
-krHq8COtvwE 7:49 Celine d'Cruz - Future of Places Interview 2013
-CxOlmr7zecw 17:37 Andres Duany - Future of Places Conference Interview 2013
-iQjJv14exlE 1:42 Ricardo Fernandez Future of Places Interview 2013
-FCrI1IzTfNg 4:18 Harrison Fraker - Future of Places Interview 2013
-9pJJ9zB7NLw 5:25 Tigran Haas - Future of Places Conference Interview 2013
-Icde1E5FGbo 6:24 Elahe Karimnia Future of Places Interview 2013
--xL8ZJ5f72s 1:41 Ethan Kent - Future of Places Interview 2013
-cxVu3KTFBJw 9:29 Fred Kent - Future of Places Interview 2013
-m7irhrAIcRM 7:21 Christopher Leinberger - Future of Places Interview 2013
-chtQ5N3dK2I 10:57 Iury Lima - Future of Places Interview 2013
-uH2PfFvKHJM 5:34 Helene Littke Future of Places Interview 2013
-3Eyc3alCIkQ 2:04 Ryan Locke - Future Of Places Interview 2013
-lR4CpKCwhlg 15:48 Ali Madanipour - Future of Places Conference Interview 2013
-KGyPOt57rVY 6:00 Thomas Melin - Future of Places Interview 2013
-EeO9BtmawTI 6:43 Paul Murrain - The Future of Places Interview 2013
-RyYR9bLBxdY 7:23 Patrice Todisco - Future of Places Interview 2013
-v8Dti6dGHFs 5:15 Urban Think Tank - Future of Places Interview 2013
-
 # Concerts
 Cl2-pDsMkrw 1:48:52 Watermelon Wednesday 2015 - Peter Blanchette and Friends
 nTUegVgzxag 0-4:50 Heifetz Hootenanny: Sí Bheag, Sí Mhór | Nigel Armstrong & Peter Blanchette
@@ -3151,11 +2814,11 @@ O-eVmwVGZvI 56:06 The Viola da Gamba: An Overview | Miguel Bonal · MarchVivo
 UOdliLZDaKg 1:14:02 Mozart and the Triumph of Counterpoint | Bezuidenhout · MarchVivo
 ZCEKzHTO-6Q 1:22:36 The Spanish Real Book: Sambeat, Sanz & Rossy · MarchVivo
 1a5-7RWIcg0 1:29:43 Cuban Trova on Piano | Pepe Rivero · MarchVivo
-EmCqXgPivLY 1:18:44 Manuel García: Chamber Opera I tre gobbi · MarchVivo
+# EmCqXgPivLY 1:18:44 Manuel García: Chamber Opera I tre gobbi · MarchVivo
 7wPOxiapDFY 56:53 An Anthology of Flamenco | El Granaíno · MarchVivo
 mNaMIE7UNX8 44:37 Penderecki: Polish Requiem and Sonata No. 2 | Moreno, Bohorquez & Krupiński · MarchVivo
 Ol5Sako3UiA 5:54 Tchaikovsky: October for Piano | Blackshaw · MarchVivo
-D-RhV_3kWfw 1:13:43 The Ballets Espagnols in Paris: Ballets by Óscar Esplá and Ernesto Halffter · MarchVivo
+# D-RhV_3kWfw 1:13:43 The Ballets Espagnols in Paris: Ballets by Óscar Esplá and Ernesto Halffter · MarchVivo
 P98GEgDiYkA 57:23 Schubert, The Arpeggione and The Guitarromanie | Riquelme & González · MarchVivo
 yvhl4QWMdog 22:27 Choral Encores | Choir of the Comunidad de Madrid · MarchVivo
 WJcNKEFQma8 22:29 The Nostalgic Guitar: Falla, Piazzolla, Ellington and Barrios | Dukić · MarchVivo
@@ -3175,7 +2838,7 @@ uvjdunLOP5c 13:44 Webern and Schoenberg Paint for Mondrian and Kandinsky | Leons
 69ErGDqRrNM 49:24 17th-century Italian Instrumental Music (Merula, Rossi and others) | La Vaghezza · MarchVivo
 v44FEToJgbE 46:06 Bartók's Piano Music | Péter Nagy · MarchVivo
 3tXrxbmMkIY 15:18 Scarlatti in Ligeti: Harpsichord & Piano | Pashchenko · MarchVivo
-ne7lD0Hr9vw 1:00:14 Rossini: Mi lagnerò tacendo | Faus & Domené · MarchVivo
+# ne7lD0Hr9vw 1:00:14 Rossini: Mi lagnerò tacendo | Faus & Domené · MarchVivo
 n3pW0fxaWJo 9:49 Conrado del Campo: Elegy, from String Quartet No. 9 | Diotima Quartet · MarchVivo
 rSH3PbHrlv0 8:50 Children Choir: Bartók, Kodály & Ligeti · MarchVivo
 BqPeYG0IMsk 36:12 Chanson & Fado: From Edith Piaf to Amália Rodrigues | María Berasarte · MarchVivo
@@ -3198,7 +2861,7 @@ rKDqua7UqBU 15:15 Bach and Vivaldi on Violone, an Extinct Instrument | Campanero
 IUa_NSQ_ngk 35:53 Dowland and the English Lute | Hopkinson Smith · MarchVivo
 gwBdRfeC9kg 1:41:13 Polyphonies from Georgia | Basiani Ensemble · MarchVivo
 d90a3Qkc5gM 57:10 Hábitat, a Dance Show | Daniel Doña · MarchVivo
-Lz8K5SzLVAM 1:14:13 Chopin and Schubert through Adès and Widmann | Imogen Cooper · MarchVivo
+# Lz8K5SzLVAM 1:14:13 Chopin and Schubert through Adès and Widmann | Imogen Cooper · MarchVivo
 -QfTxTlmqBI 1:09:31 The Cuban-Spanish Real Book | Rivero, Brínguez, El Negrón, Olivera · MarchVivo
 fMrp5MwJ7o4 1:12:47 Cole Porter’s Classics | Andrea Motis & Ignasi Terraza · MarchVivo
 w8UGrjVo6BU 25:47 Florence Price and the African American Quartet | Ulysses Quartet · MarchVivo
@@ -3611,21 +3274,6 @@ D8ba5tt6Sqo 1:00:14 Viking House: Full Bushcraft Shelter Build with Hand Tools |
 # Vildmarksgymnasiet
 NZD5sDJduCE 3:47 Göra upp eld med bågdrill
 
-# urbanology
-# YEsJnMc43pE 7:36 Analogous Unfolding
-m1IZqlnEbmg 7:11 Unfolding Sequences - an introduction
-ZDUlG6E3Lpw 11:53 The Beautiful Software Thesis: feeling as the core of good engineering
-oTflOKPpCy8 9:30 Adaptation - with Christopher Alexander - part one: Adapting to the Environment or "Flint & Brick"
-xmlo0Lva5AU 10:33 Nature, life, and self: Christopher Alexander after a pattern language
-VZHb9-Y9r_E 8:25 Christopher Alexander: pattern languages are for communities
-tiOzvEUoLeU 26:14 The Beautiful Software seminar at Building Beauty
-dnTpXwgO6Qg 2:20 Gatemaker: a silent explanation
-o8b7ZBWGmu4 8:35 Gatemaker
-2V4QYC-PRIw 8:29 The Application of Feeling -- Christopher Alexander
-lxxlLqwCPDc 3:55 urbanology.com - an overview
-xdKFPA8SrKM 3:55 the scope of urbanology
-5uxAp1piXMY 7:17 urbanology: neighborhood collaboration
-
 # Feynmann Lectures
 # https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2
 EYPapE-3FRw 9:59 Feynman on Scientific Method.
@@ -3908,7 +3556,7 @@ tgWD-5wn_eg 28:23 Track record - Broken journey - 1991
 Ecm2h8f-Q-I 29:02 Flying Scotsman - The return of Flying Scotsman - BBC Four - 2016
 p_czvQgxAFc 1:28:28 Steam trains of Australia - 1985
 yOjhF_KV2Wc 1:18 Bennett Brook Railway - Ashley & Rosalie departing Whiteman Village Junction - Ashley Day, Sept '22
-XFaFWhL2lNk 3:07 Bennett Brook Railway - Steam and diesel hauled services near Zamia station
+# XFaFWhL2lNk 3:07 Bennett Brook Railway - Steam and diesel hauled services near Zamia station
 YuFGaSa3_K8 1:27 Bennett Brook Railway - Ashley, Planet 7 & BT1 - Ashley & Friends Day, September 2022
 PZpRuTQ4ick 29:31 Requiem for a railway - Off the rails - 1986
 1W9MNjoZAIk 9:58 Bennett Brook Railway - Ashley & Friends Day - September 11, 2022
