@@ -614,6 +614,34 @@ export const episodes: Array<string> = [
     RFx03DCICPM 1:24 Ma fin est mon commencement (Instrumental)
   `,
   `
+    # Trouvères et Troubadours: Aux origines de la chanson - Ensemble Obsidienne
+    hR9QucmK5uA 5:35 Lo rossinholet salvatge
+    vocQ3JPTO28 1:40 Ah ! Lemozin
+    eOAqFoAO2Zg 1:29 A l'entrant dou temps novel
+    do9SWjK1jRQ 0:58 Guilleurs me font mout souvent
+    hHzaKms-2mY 1:24 Ne m'oubliez mie
+    Hsp0ik5sPQQ 1:19 D'amourous cuer
+    RkXMZRJzBvk 6:03 Can vei la lauzeta mover
+    umRk6D3SROQ 1:59 Li nouviauz tanz
+    2TFOS7B-jdQ 1:56 Si ai perdut mon saber
+    VaC9R58MROA 2:13 Calenda maia
+    AGDp5zSxruk 3:24 Des oge mais
+    KhNszHVsoA0 1:28 Veine pleine de duçur
+    i2JSstAi4yI 5:18 Jesu Crists, filh de Dieu viu
+    sejNDDI3C1k 2:22 Quand ai lo mond consirat
+    WdhgQN_N3n4 3:51 Mui grandes noit'e dia
+    9qTqKz31MVY 4:30 Ja nus hons pris
+    evpBRANJBy0 3:22 Fortz chauza es que tot lo major dan
+    Lp9j0__JdKU 3:28 Chanterai por mon corage
+    AyIFuUJggWo 2:24 Seignor sachiés
+    Og1qP-xDp38 2:02 Onkes nus hom ne fu pris
+    wLKUCZq4L4I 1:42 Qui a droit veut amours servir
+    4q6xygC1k0w 1:25 Fi maris de vostre amour
+    kjwnkIhJ9FU 1:53 Tant com je vivrai
+    f3xSFeqsNMw 2:27 Under der Linden
+    gkJkhp00wqo 3:04 Que sont mes amis devenus
+  `,
+  `
     gaHpnjhVGvI 5:17 Sen calar (arr. C.A. Fulton)
     In7PYhfQ3Kk 2:38 Alborada Gallega
     QjYy6fBWSBs 4:15 Sen meu amigo
