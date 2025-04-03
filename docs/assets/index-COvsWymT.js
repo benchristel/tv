@@ -1071,7 +1071,7 @@ HU7U56pmO8E 11:54 Cornish Pipes - Gool Perran 2021
 5b0YxxfvFLU 20:00 Cornish Diaspora
 5EYESIV_5uY 17:21 Cornish Storytellers - Mike O' Connor & Yvonne White - Friday St Piran's Day
 W_DUDLQx3zc 9:23 Kegin Esther - Cornish cooking - Cornish Pasties
-Rq7xVYb0Cn8 6:36 Tamar Stamp Dance with Rosie Fierek
+# Rq7xVYb0Cn8 6:36 Tamar Stamp Dance with Rosie Fierek
 Jx0hocUqpeo 7:21 Newquay Library - I brushed my teeth with hair gel
 gwBLGZIMWQ8 3:52 Tales From Porth - 'Goraswonnek' by Will Coleman, Read by Elizabeth Carne
 lI-8ZxNKF-Q 51:51 Tide & Time by Blystra Arts in collaboration with Newquay Heritage Archive & Museum
@@ -1086,7 +1086,7 @@ XLILDtTIfHQ 14:58 Newquay Rowing Club Singers
 nWi_X30bSus 14:19 Cornish Dancing Mix
 FiG99dWc1tc 16:15 Cornish Storytellers - Barbara Griggs & Moe Keast
 k01e9XkiB60 9:42 Kegin Esther - Cornish cooking - Hevva Cake
-M0JaubC0fxo 6:21 Tamar Broom Dance with Rosie Fierek
+# M0JaubC0fxo 6:21 Tamar Broom Dance with Rosie Fierek
 rhs53YYKk9k 16:42 Newquay Library - There's something nasty in my pasty
 nH3BwItdiB8 5:01 Tales From Porth - 'Kanker' by Will Coleman, Read by Elizabeth Carne
 jZrgnnkpUxQ 40:52 Urban Kelt Session Wednesday 3rd March
@@ -1110,7 +1110,7 @@ eTg5ms2CEHo 8:24 The Cornish Stone Hedge St Piran's Edition
 C1v15hZK-uI 6:02 Kegin Esther - Cornish Cooking - Elderflower Wine
 iBgQXOn8drg 3:52 Tales From Porth - 'Dyskadores' by Will Coleman, Read by Elizabeth Carne
 NqRkFLQehXI 40:31 Urban Kelt Session - Cornish Celtic & Indie Music
-_7NryzJbxDA 19:39 Canoryon Lowen
+# _7NryzJbxDA 19:39 Canoryon Lowen
 6atGTLhz6Xg 8:24 Cornish Wrestling - St Mawgan in Pydar, Cornish Wrestling Tournament
 dUjGNofEkOE 8:06 The Tournament by Mark Jenkin - Cornish Wrestling
 i1rmhEqe0JA 9:55 Newquay Community Orchard - Cornish Wildflowers Part I
@@ -1970,7 +1970,7 @@ nhLcMFgPoBY 1:42 What is it like to be a mezzo-soprano?
 wOkIZ9TjvYE 1:34 Nicola Benedetti: Beethoven on period instruments
 # PbCEybm0by4 1:02 Life, Liberty and the Pursuit of Happiness : 2018/19 season teaser
 eLpAaIqJPck 2:51 What are period instruments?
-X8XdmhIUzJs 16:39 Particle physicist Tara Shears on Antimatter | Bach, the Universe, and Everything
+# X8XdmhIUzJs 16:39 Particle physicist Tara Shears on Antimatter | Bach, the Universe, and Everything
 # PMwszGtyfTk 1:28 The Big Give Christmas Challenge - Rising Stars
 f4ZU4PlXqu4 3:31 What is a Cantata?
 UDMCWta1dns 2:35 Trad Klezmer, Die goldene chasene
@@ -2778,7 +2778,7 @@ tSjJ3hqia7s 1:07:24 Love songs in Renaissance Music: Adonis and Venus | Phaedrus
 q6jyeEwvnV4 3:51 Domitila, an Opera About Hopeless Love · MarchVivo
 gR2hT5_hDF0 1:14:31 Weinberg: String Quartets Nos. 15, 16 & 17 (Complete Quartets V) | Danel Quartet · MarchVivo
 Qc5z_wPaFjw 57:33 Baroque Harpsichord from Naples | Enrico Baiano · MarchVivo
-t_XXmJc_PLA 1:00:04 Georg Anton Benda: Melodrama Medea · MarchVivo
+# t_XXmJc_PLA 1:00:04 Georg Anton Benda: Melodrama Medea · MarchVivo
 PMHwmR92vBc 17:29 J. S. Bach: French Suite No. 5, BWV 816 | Olga Pashchenko · MarchVivo
 wyNIXJbfjMU 1:32:38 Weinberg: String Quartets Nos. 11, 12, 13 & 14 (Complete Quartets IV) | Danel Quartet · MarchVivo
 lBlHgNMt6pA 22:53 Renaissance Music for Harp Duo: Milán, Mudarra, Cabezón | Las Arpas Sonorosas · MarchVivo
@@ -2887,7 +2887,7 @@ BO2zfh6Ntlw 5:09 The Couperin Family | Benjamin Alard (#MarchVivoCD) · MarchViv
 bZnQHRX5gOc 1:20:31 Buenos Aires piano: Tristes and Tangos | Horacio Lavandera · MarchVivo
 4x5skN__vK0 11:16 Improvising on Violin in Baroque Style | Saladin & Keller · MarchVivo
 Ae0rs24CktY 3:16 Conrado del Campo: String Quartets Nos. 6 & 7bis | Gerhard Quartet (#MarchVivoCD) · MarchVivo
-Yk9enETAVXs 1:14:48 Sergei Rachmaninoff: Opera The Miserly Knight · MarchVivo
+# Yk9enETAVXs 1:14:48 Sergei Rachmaninoff: Opera The Miserly Knight · MarchVivo
 gRXzti68eyE 47:02 Variations with Tabea Zimmermann · MarchVivo
 Xo5p5gzIgSM 31:51 Beethoven: Violin Sonata No. 5 Op. 24 "Spring" | Ibragimova & Tiberghien · MarchVivo
 ICpkE4rPIIk 16:10 Medieval Motet: Ars Antiqua et Ars Nova | La Reverdie · MarchVivo
@@ -3390,7 +3390,7 @@ Iea9i21c5Ok 0:58 Traditional Potato planting from a seed bag in Ireland
 VYuWtpkWppM 1:26 A Threshing Mill arrives on a farm @ Muckross Farms Killarney
 rWQcbbNq4GI 1:13 A pair of horses pulling a binder cutting Oats
 BDLr_xAisD4 1:50 The history of the Green Glens of Antrim plus scenery of the coast
-6zo-UzbRN_0 5:24 The Ferguson Vintage Tractor World Record at Cooley Co. Louth
+# 6zo-UzbRN_0 5:24 The Ferguson Vintage Tractor World Record at Cooley Co. Louth
 YJVNjCjPsqo 1:10 Farming with Donkeys - Pulling a brake/ harrow
 4ee83nL2qL8 3:37 Rathlin Island Northern Ireland in the 1990s
 NRk8RPMjdzU 2:48 Restoration of a Fordson vintage tractor
@@ -4436,6 +4436,34 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     ArWncy2D4Mk 2:41 The Shepherd's Daughter
     Vwi9RiT1H2k 2:35 King Henry
   `,`
+    # Baltimore Consort - La Rocque and Roll
+    0Tly_wgC858 2:05 J'ai vu le loup
+    KNFgW6GLo1o 2:21 Has tu point veu
+    dtf_YWfYixM 0:50 Branle double
+    8nslzpv9Z14 0:55 Branle de Montirande
+    ueAwkZncUec 1:31 Branle de la torche
+    5F-YGQiyudI 3:40 Mignonne, allons voir si la rose
+    GPlyhDy2dng 4:06 Frais et gaillard
+    EBC9ldiS2oM 3:24 Une m'avoit promis
+    raQ_x-HTGKU 2:02 Volte
+    fFQx3FsnQUw 5:37 Mes pas semez
+    D15w88oaHd8 0:36 Gaillarde d'escosse
+    wj4Tjcd_LC4 1:17 Laroque Gaillarde
+    I_T8q6SQHPo 1:28 Alemande de Liege
+    f1rqBTVgflU 2:33 Ma bergere, ma lumiere
+    JUg1PlpLofI 4:44 Estans assis aux rives aquatiques
+    qrb6taaO2Ao 1:02 Prelude
+    UU20OsnHbOY 2:27 Tant que vivray
+    b-2_D_e0BTg 3:04 Ung gay bergere
+    OJsz1rh74KM 4:04 O Madame, per-je mon tems
+    vN2WSIo769o 4:16 J'ay le rebours
+    HQZ-mEHw86M 3:56 Branles du village
+    PmaF46f5O_c 4:32 Une jeune fillette
+    LeGJ3C3rzpE 5:48 Une jeune fillette
+    UZqz379ldDE 1:07 Fantasie sur Une jeune fillette: Une jeune fillette
+    w432eO-7G0U 4:46 Une nimphe jolie
+    wRMw1g9CdOM 5:48 Jean de Nivelle
+  `,`
     # Calliope - A Renaissance Revel
     j0YJZDPjrdg 1:33 Early 17th Century Dances from Terpsichore: Galliarde (1)
     gorgo1rIQXo 2:11 Early 17th Century Dances from Terpsichore: Three Voltas
@@ -4745,6 +4773,33 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     g_qpcyNnxno 4:22 David
     UUODYF0G-1s 3:04 Nes que on porroit les estoiles nombrer
     RFx03DCICPM 1:24 Ma fin est mon commencement (Instrumental)
+  `,`
+    # Trouvères et Troubadours: Aux origines de la chanson - Ensemble Obsidienne
+    hR9QucmK5uA 5:35 Lo rossinholet salvatge
+    vocQ3JPTO28 1:40 Ah ! Lemozin
+    eOAqFoAO2Zg 1:29 A l'entrant dou temps novel
+    do9SWjK1jRQ 0:58 Guilleurs me font mout souvent
+    hHzaKms-2mY 1:24 Ne m'oubliez mie
+    Hsp0ik5sPQQ 1:19 D'amourous cuer
+    RkXMZRJzBvk 6:03 Can vei la lauzeta mover
+    umRk6D3SROQ 1:59 Li nouviauz tanz
+    2TFOS7B-jdQ 1:56 Si ai perdut mon saber
+    VaC9R58MROA 2:13 Calenda maia
+    AGDp5zSxruk 3:24 Des oge mais
+    KhNszHVsoA0 1:28 Veine pleine de duçur
+    i2JSstAi4yI 5:18 Jesu Crists, filh de Dieu viu
+    sejNDDI3C1k 2:22 Quand ai lo mond consirat
+    WdhgQN_N3n4 3:51 Mui grandes noit'e dia
+    9qTqKz31MVY 4:30 Ja nus hons pris
+    evpBRANJBy0 3:22 Fortz chauza es que tot lo major dan
+    Lp9j0__JdKU 3:28 Chanterai por mon corage
+    AyIFuUJggWo 2:24 Seignor sachiés
+    Og1qP-xDp38 2:02 Onkes nus hom ne fu pris
+    wLKUCZq4L4I 1:42 Qui a droit veut amours servir
+    4q6xygC1k0w 1:25 Fi maris de vostre amour
+    kjwnkIhJ9FU 1:53 Tant com je vivrai
+    f3xSFeqsNMw 2:27 Under der Linden
+    gkJkhp00wqo 3:04 Que sont mes amis devenus
   `,`
     gaHpnjhVGvI 5:17 Sen calar (arr. C.A. Fulton)
     In7PYhfQ3Kk 2:38 Alborada Gallega
