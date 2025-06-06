@@ -277,6 +277,8 @@ k1tw5sowFyM 47:08 From Panic Attacks to Meditation | Mingyur Rinpoche | Talks at
 
 # Wikitongues
 
+rUE1bzIx3u8 3:16 The Manx language, casually spoken | Owen speaking Manx | Wikitongues
+
 jBDZOm0HXO4 1:56 WIKITONGUES: Angelo speaking Portuguese
 nqOtvem2dxs 1:12 WIKITONGUES: Lama speaking English and Palestinian Arabic
 M2xmsclh3UA 3:26 WIKITONGUES: YiShan speaking Mandarin
@@ -295,6 +297,8 @@ CouHEysgsPo 2:05 WIKITONGUES: Octavia speaking Hessian
 7zQSfU5HkUc 1:53 WIKITONGUES: Lorenzo speaking K'iche' Mayan
 4SR39iWfZdk 1:53 WIKITONGUES: Regina speaking Spanish
 # v2jD_SU9KZo 2:59 WIKITONGUES: Mario speaking Aragonese
+
+SHv3-U9VPAs 5:39 Spoken Pirahã with transcription
 
 # Engineerguy
 
