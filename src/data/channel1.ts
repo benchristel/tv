@@ -952,75 +952,6 @@ N7w4TWtE3zw 0:43 Jon and Alfie at 'Gidley Studios' Day 1
 ZTZYwZlezz8 5:05 Jon & Alfie: "Banish Set" Live
 Fb-Y1Tm1r7g 4:26 Jon & Alfie Banish Set
 
-# Pellwolok an Gernewegva
-yPoc_Y4yWTE 2:01 Tro dhe Vawgan
-JcEEVcs804w 7:28 Pennseythen Gernewek 2024
-vyrEkU8vLuk 31:29 An Mis 67: mis Meurth hag Ebrel 2024 (March/April 24)
-# Ty9XEC8Kkjw 1:41 Coming soon on An Mis / Yma ow tos yn skon
-# 3PYlBFL5AZQ 4:40 'Gwandryas Iwerdhon' (Irish Rover) in Cornish by Skwardya
-jLb2ImHft8g 4:39 Gool Piran yn Resrudh 2024 / St Piran Festival in Redruth 2024
-RO5P1BPT6Bc 1:46 Headframe Refurb at Crofty
-h1YZUUa2iX0 33:16 An Mis 66 - mis Hwevrer / February 2024
-# 4glUtVDqmGo 3:39 'Steren a-wartha' - Hwerydh Eledh
-# HjD44zOFX1E 2:37 "Kyn fe yeyn" - Te Rewys gans Tallessyn.
-DaX1jB2ZPqE 30:14 An Mis 065 - Mis Kevardhu/December 2023
-jEHMqhsJmnY 31:22 An Mis 64 - Mis Du / November - Lowender
-NqnV7yRqNBk 14:32 Rod ha Jori - rann 2
-# krcM2WwM8KA 28:14 Dydh Kemo - Chemo Day - SUBTITLED
-JVgZmckS8_8 15:39 Rod ha Jori - rann 1
-CvSB3oY0PAQ 27:50 Dydh Kemosawment
-7GixR8NZEoA 3:14 "Gava, byrla, kara" - Sarah Tresidder
-2tbWSy0SY1M 19:24 Joan Petchey - Elowen
-tJ3NkvF84jg 0:14 Joan Petchey 100th birthday - Julian German
-WYCQlnSewXc 10:19 Kan rag Kernow 2020
-FefgSevflVM 12:48 Viaj an Delow
-cxZXIAGey6Y 0:33 Yn Kov Stephen Gainey
-# 7oipzomINU8 23:28 lorient2017 ENGLISH
-DJG8RU6cHjM 23:54 An Oriant 2017
-# -hHLi1Kk5ok 27:38 dasserghyans klappya
-m67g3_B4a_w 25:11 Kernowpalooza
-2m-Teyq7HbI 25:04 Cornish language weekend - rann 1
-_-EK5GI3VTo 29:15 An Bennseythun Gernewek 1996
-6q71U85p7Ow 22:42 An Bennseythun Gernewek 1991 Rann dhiw
-4qzowCnMn5c 25:05 An Bennseythun Gernewek 1991 rann onan
-31Ks1xEWnNg 2:24 Cornish Language on Great British Railway Journeys
-
-# Kegin Esther
-vWq_-dCgKjE 12:06 Kegin Esther mis Hwevrer 2024
-pPVKYUBZIaM 13:02 Kegin Esther mis Du 2023
-Osh49ZpN9V8 8:28 Kegin Esther mis Hwevrer 2023
-Wqj6KX2qW14 9:58 Kegin Esther mis Genver 2023
-XjfTMQxG89I 9:37 Kegin Esther mis Kevardhu 2022
---TPSFIhx9g 8:51 Kegin Esther mis Du 2022
-M_ihevh2x50 7:22 Kegin Esther mis Metheven 2022
-NP6jOcbdjDw 10:34 Kegin Esther mis Me 2022
-CSxaZD1qeYM 10:07 Kegin Esther mis Ebrel 2022
-kJDZ76nJZnc 7:19 Kegin Esther mis Meurth 2022
-DdUo0iDPEJA 9:12 Kegin Esther mis Me 2021
-WbYZtBR4EAM 7:13 Kegin Esther mis Metheven 2021
-yiapuyJTyMI 4:31 Kegin Esther mis Meurth 2020
-5BLi4L2AJbY 9:47 Kegin Esther mis Hwevrer 2022
-TCPOctC3PWk 7:12 Kegin Esther mis Genver 2022
-Q9K8T7t8p7I 11:33 Kegin Esther mis Du 2021
-UWaKvTZNRCk 8:07 Kegin Esther mis Hedra 2021
-Y9UiS7ffxM4 9:28 Kegin Esther mis Gwynngala 2021
-OCPOK8ooJk4 7:41 Kegin Esther mis Est 2021
-qroP0uXtA7o 8:51 Kegin Esther mis Gortheren 2021
-auezB5b7aFY 6:15 Kegin Esther mis Ebrel 2021
-nfMpjUnCucU 5:46 Kegin Esther mis Meurth 2021
-Wcbs9XRqz3E 6:09 Kegin Esther mis Hwevrer 2021
-r_k-P7GTkHw 3:46 Kegin Esther mis Genver 2021
-Da6PxaD7PBk 3:57 Kegin Esther mis Kevardhu 2020
-M42AxerBod0 6:57 Kegin Esther mis Du 2020
-N2S1bhueB2s 5:13 Kegin Esther mis Hedra 2020
-lS11lFWsBy4 5:08 Kegin Esther mis Gwynngala 2020
-ZFy4hBCBARk 3:46 Kegin Esther mis Est 2020
-O1ZFi-K9KYE 8:52 Kegin Esther mis Gortheren 2020
-ADs1yW5YVQ0 5:09 Kegin Esther mis Metheven 2020
-bmgc9EnO5xs 8:32 Kegin Esther mis Me 2020
-rdyd0j8mYnA 6:57 Kegin Esther mis Ebrel 2020
-# RZqqxoS8RBI 2:04 music fest 2013 002
-
 # Tom Vincent
 piK6ieBiX7k 51:04 Once in a lifetime - The last place in England
 pMMcl-gi0JM 32:55 A Brief History of the Welsh Language
@@ -1063,7 +994,7 @@ HU7U56pmO8E 11:54 Cornish Pipes - Gool Perran 2021
 W_DUDLQx3zc 9:23 Kegin Esther - Cornish cooking - Cornish Pasties
 # Rq7xVYb0Cn8 6:36 Tamar Stamp Dance with Rosie Fierek
 Jx0hocUqpeo 7:21 Newquay Library - I brushed my teeth with hair gel
-gwBLGZIMWQ8 3:52 Tales From Porth - 'Goraswonnek' by Will Coleman, Read by Elizabeth Carne
+# gwBLGZIMWQ8 3:52 Tales From Porth - 'Goraswonnek' by Will Coleman, Read by Elizabeth Carne
 lI-8ZxNKF-Q 51:51 Tide & Time by Blystra Arts in collaboration with Newquay Heritage Archive & Museum
 N6GwYa58eXI 0-4:18,11:07-58:41 Past St Piran Processions
 OTKOzWj7L3k 9:50 Chris Blount Archives - Gigs, Boating Lake & Cathedral Concerts
@@ -1078,7 +1009,7 @@ FiG99dWc1tc 16:15 Cornish Storytellers - Barbara Griggs & Moe Keast
 k01e9XkiB60 9:42 Kegin Esther - Cornish cooking - Hevva Cake
 # M0JaubC0fxo 6:21 Tamar Broom Dance with Rosie Fierek
 rhs53YYKk9k 16:42 Newquay Library - There's something nasty in my pasty
-nH3BwItdiB8 5:01 Tales From Porth - 'Kanker' by Will Coleman, Read by Elizabeth Carne
+# nH3BwItdiB8 5:01 Tales From Porth - 'Kanker' by Will Coleman, Read by Elizabeth Carne
 jZrgnnkpUxQ 40:52 Urban Kelt Session Wednesday 3rd March
 67NGoFsiWbk 4:02 Newquay Heritage Archive & Museum - Introduction to 'Together Against Plastics'
 # I9ICCnuAN4w 18:54 Newquay Male Voice Choir with contribution from Cornish Federation of Male Voice Choirs
@@ -1089,7 +1020,7 @@ kqCKtiHiFcM 8:37 Newquay Community Orchard - Pruning Apple Tree's
 Ic1ixEb3VkE 15:53 Cornish Storytellers - Mike O'Connor & Moe Keast
 BYosn_PD-yc 5:55 Kegin Esther - Cornish cooking - Blackberry & Apple Jelly
 pObC7e-GgHA 10:14 Newquay Library - The Little Sea Dragon's Wild Adventure
-q9riqyMFQxw 3:56 Tales From Porth - 'Lester' by Will Coleman, Read by Elizabeth Carne
+# q9riqyMFQxw 3:56 Tales From Porth - 'Lester' by Will Coleman, Read by Elizabeth Carne
 TGo8M09j1fw 42:48 Urban Kelt plus An Tonji St Piran Special
 xVxAcEVQNNs 7:20 Newquay and the Sea by Peter Hicks (St Piran's)
 34GZWN0DM4A 13:56 Newquay Cornish Language Class
@@ -1098,7 +1029,7 @@ zyGZI7aR3Ac 10:06 Newquay Community Orchard - Cornish Wildflowers Part II
 eTg5ms2CEHo 8:24 The Cornish Stone Hedge St Piran's Edition
 2qkiu0JKY-I 15:59 Cornish Storytellers - Tuesday
 C1v15hZK-uI 6:02 Kegin Esther - Cornish Cooking - Elderflower Wine
-iBgQXOn8drg 3:52 Tales From Porth - 'Dyskadores' by Will Coleman, Read by Elizabeth Carne
+# iBgQXOn8drg 3:52 Tales From Porth - 'Dyskadores' by Will Coleman, Read by Elizabeth Carne
 NqRkFLQehXI 40:31 Urban Kelt Session - Cornish Celtic & Indie Music
 # _7NryzJbxDA 19:39 Canoryon Lowen
 6atGTLhz6Xg 8:24 Cornish Wrestling - St Mawgan in Pydar, Cornish Wrestling Tournament
@@ -1110,7 +1041,7 @@ S3cLfLtGaW4 8:36 Cornish Story - Cornwall's Story Online
 CHJK72Jptew 14:41 Cornish Storytellers - King of the Fishes by Mike O' Connor
 Fvdmg1PDrZ8 7:47 Kegin Esther Cornish Cooking - Saffron Buns
 -hJnXuCxNd4 7:59 Newquay Library - Mousehole Mice and the Theatre by the Sea
-XcPQLrzXpeo 3:56 Tales From Porth 'Goolan' by Will Coleman, Read by Elizabeth Carne
+# XcPQLrzXpeo 3:56 Tales From Porth 'Goolan' by Will Coleman, Read by Elizabeth Carne
 11MPh_lweJU 4:03 Welcome to Newquay St Piran's Festival 2021
 3HoTaFbLxbc 9:26 Radio Cornwall 'Jim Christophers' Newquay St Pirans Festival 2021
 mWYLL0JhOGk 2:12 Newquay BID supporting Newquay St Piran's Festival V2
@@ -1626,19 +1557,19 @@ a5RE1H_5tJc 11:47 Stadstuinieren - Zaaien en voorzaaien in februari - het seizoe
 aELlmAvkmoY 7:12 Stadstuinieren - Eenjarige, tweejarige of meerjarige gewassen? - Zo zit dat
 g0AFu5x4IUE 6:18 Stadstuinieren - Wortelonkruiden bestrijden - Zo doe je dat
 MB3St12AoSs 3:08 Stadstuinieren - Bietjes kweken
-XE1qiaT5-NQ 4:08 Stadstuinieren - Radijsjes oogsten + recept Tzatziki van radijsjes
+# XE1qiaT5-NQ 4:08 Stadstuinieren - Radijsjes oogsten + recept Tzatziki van radijsjes
 fCJUYM2z--s 3:03 Stadstuinieren - Aardappelen oogsten
 icNSctLWZFg 3:10 Stadstuinieren - Planten Afharden
 NlBbRH1KkGU 4:25 Stadstuinieren - Cantaloupe meloen kweken
 P_mM0ATJHSQ 3:14 Stadstuinieren - Avocadopit planten
-xDiUFUCeczM 4:59 Stadstuinieren - Worteltjes kweken + Recept worteltaart
+# xDiUFUCeczM 4:59 Stadstuinieren - Worteltjes kweken + Recept worteltaart
 hJsSB-D6XbA 3:51 Stadstuinieren - Zo maak je Tandpastapoeder
 ES9NtOExpEo 3:19 Stadstuinieren - Zaden oogsten van radijs
 Tv9dnLsmYvg 3:34 Stadstuinieren - Broccoli kiemen
-Lf4YxNnUzow 3:41 Stadstuinieren - Recept Broccolitaartjes
+# Lf4YxNnUzow 3:41 Stadstuinieren - Recept Broccolitaartjes
 5ydtkro30lA 3:56 Stadstuinieren - Peultjes kweken
 3in7UL3g8gc 4:42 Stadstuinieren - De kip en het eierkoeken
-PYA9HiNCQhs 3:33 Stadstuinieren - Recept chilivlokken
+# PYA9HiNCQhs 3:33 Stadstuinieren - Recept chilivlokken
 zHq66Av6ucM 3:24 Stadstuinieren - Vogelvoerhanger
 RjDRlj_B1vU 3:55 Stadstuinieren - Groot Kaasjeskruid kweken en oogsten
 # VB0pKyGFsAI 3:46 Stadstuinieren -Tuingereedschap schoonmaken
