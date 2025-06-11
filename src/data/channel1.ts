@@ -3849,6 +3849,9 @@ mzL0pY1r5Lg 1:18:21 The Wind in the Willows (1983) - WIDESCREEN 16:9 - Cosgrove 
 # yW1ymeB85WU 2:10:55 The Wind in the Willows - The Feature Length Specials (Cosgrove Hall)
 msM29o87uTs 34:41 The Wind in the Willows (1949) 50s reissue
 
+# Shakespeare
+Vd4h16DWpdU 1:28:03 The Reduced Shakespeare Company The Complete Works of William Shakespeare Abridged Comedy
+
 # Gilbert and Sullivan
 IGzv4vufN-k 1:51:53 The Pirates Of Penzance (1983) full movie watch on YouTube HD
 # 1982 G&S productions by George Walker
