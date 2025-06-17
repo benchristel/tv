@@ -3646,6 +3646,33 @@ jdGE3a31uJQ 26:35 LMS Men Of The Footplate 1939, full version.
 F4J2wcDP3YA 13:00 LMS training video - Little & Often
 
 # Burr Stewart
+z93PVCqgSDE 14:12 Part 125 - BN Alco C-636 "dog's breakfast" meets PRR hammerhead slo-mo #hoscale #modelrailroad #art
+sCjhZPGnXrc 26:52 Part 124 - BN F-units meet PC "Hammerhead" RS-3 w close-up "Bang!'s" #hoscale #modelrailroad #train
+T69QurcCG8k 11:19 Part 123 - BN F-units, dynamic brakes & engine servicing setups #hoscale #modelrailroad #train #art
+9Mbt13rUnBM 4:32 Snowy river train drone meditation by Nate Guadagni #railroad #train #meditation #music #drone #art
+XlYY5Bx0Moo 4:59 Part 122 - Western town and spectacular scenery on Eric Vannice's HO layout #modelrailroad #artist
+OKvBL5tAzhI 7:12 BC lumber train & International passenger train at Carkeek Park @ Seattle #bnsf #train #freighttrain
+X62BeXt9ppg 33:07 Part 121 - Icing platform scenery construction & testing #hoscale #modelrailroad #scenery #trains
+PGeC3fFK-4M 26:26 Part 120 - BN F-units, an Alco C-424 and a BR "rat" #hoscale #modelrailroad #emdlocomotive #train
+gO4cFe6Al-Q 23:31 Part 119 - BNSF, CPKC, SN & Titfield engines, bangs & ice dock trackage #hoscale #modelrailroad
+MuHvZhffGV8 2:23 Amtrak "Amfleet" cars on the Cascades "International?!" #amtrak #passengertrain #cascades #olympics
+xeF1DoYg06s 7:59 Part 118 - Cabeese of the Burrlington Northern Seattle Region #hoscale #modelrailroad #caboose #art
+LjGQeCuJXNQ 5:04 Part 117 - ProtoThrottle demo w GN GP9 and ore jennies #hoscale #modelrailroad #protothrottle #train
+5sy15cvynBg 14:43 Part 116 - Running trains on Jim Radkey's BNSF Pink Lady Sub #hoscale #modelrailroad #opsig #slinky
+trb-oFa4QbE 6:14 BNSF Unit Coal Train at Carkeek Park near Seattle #bnsfrailroad #bnsf #coaltrain #export #train
+kRbZZFjejkc 1:20:53 Remembering Kirk Reddie - a tribute to his N scale dream model railroad - March 2025 #nscale #art
+ebShL2hJgf4 3:30 CPKC's new paint job! First run ES44AH ScaleTrains models #modelrailroad #hoscale #cpkcrailway #art
+Hod6vkThusw 4:39 BNSF "Z" train at Carkeek Park near Seattle on March 17, 2025 #intermodaltrain #seattle #railfan
+5_cqrLhpcnM 10:39 Part 115 - March train fun with diesel lash-ups, steam and lotsa laughs #hoscale #modelrailroad #art
+lKLznLpmPe4 21:44 Part 114 - February fun with steam & diesel engines & trains #hoscale #modelrailroad #britishrail
+GvJFU3avxHM 4:33 Part 113 - MILW SD9 ore train backup with imagined brakemen #modelrailroad #hoscale #milwaukee #road
+VEmOKeaxzQw 3:07 The difference between a good bang and a bad bang! #modelrailroad #hoscale #ooscale #britishrail
+rRGnYUrJJIQ 17:17 PNW On30 modular group layout tour at Great Train Show '25 #modelrailroad #on3 #oscale #narrowgauge
+1WdCEi_UBDc 5:24 Real steam chuff from an OO steam engine?! Amazing! #modelrailroad #train #hornby #ooscale #hoscale
+npKeWjkTohA 21:41 Part 112 - Bill Sornsin's Great Northern HO layout tour & construction update #modelrailroad #train
+# iwBVgt28diQ 7:06 European Train Enthusiasts' trains and modules at Great Train Show 2025 in Puyallup, WA, USA #trains
+# 269jys9NQKU 5:54 Fast O-gauge 3-rail layouts at Great Train Show run round & round! #modeltrains #oscale #tinplate
+# LPT-2I9zhp4 5:00 Burr tours a "T-trak" N scale modular layout #train #modelrailroad #nscale #modular #art #trainshow
 e44rMO7MvIk 13:31 Part 111 - BN switching Argo, Brian's diesel sounds, and ripping up track #hoscale #train #track
 Z5VF1lob9Fo 14:48 Part 110 - British 2-10-0 steam, SD60M's & BN SW1500 switching action #modelrailroad #hoscale #art
 Sz2HwSa_gSA 15:50 Part 109 - Bob Roegge's surprisingly low-cost Gn15 "Geneseo Rwy" layout #modelrailroad #train #art
