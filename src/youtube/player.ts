@@ -107,7 +107,7 @@ export async function createYouTubePlayer(elementId: string): Promise<Player> {
     const player = new yt.Player(elementId, {
       height: 450,
       width: 800,
-      videoId: null,
+      videoId: "AofJfWEhesg",
       playerVars: {
         controls: 0,
         disablekb: 1,
