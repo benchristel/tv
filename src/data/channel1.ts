@@ -3226,7 +3226,6 @@ zQ6o1cDxV7o 57:03 Richard Feynman - The Character of Physical Law - Part4 Symmet
 36GT2zI8lVA 7:33 Richard Feynman. Why.
 b9F8Wn4vf5Y 5:30 How did we find the speed of light?
 GNhlNSLQAFE 36:42 Richard Feynman - The World from another point of view
-euGp9quNqLU 9:11 Richard Feynman - Law of Gravitation - An Example of Physical Law part1
 LPDP_8X5Hug 9:46 Richard Feynman Lecture on Quantum Electrodynamics: QED. 1/8
 ZbFM3rn4ldo 1:44 Richard Feynman: The Beauty of the Flower
 lytxafTXg6c 0:44 Richard Feynman explains the feeling of confusion
