@@ -1360,7 +1360,7 @@ AXaXnQv6knQ 7:49 A Northern US Accent from the 18th to the 21st Centuries
 dESrl58Phso 25:17 Proto-Germanic Reconstruction: Some Examples
 ChoZRnLs7K0 9:28 A Medieval Medicinal Recipe with Modern Applications
 Ggq5BrRvwpU 13:21 A Sentence from Proto-Germanic to Modern English
-JcitAgN7tE4 59:08 Trying to Learn some Polish using Google Translate
+# JcitAgN7tE4 59:08 Trying to Learn some Polish using Google Translate
 HINRA6vzx6U 13:23 Is There an 'Oldest' English Dialect?
 W3zLKzRhAzg 18:51 Do You Remember 1960s Southeastern England?
 # HX2Hbv07yPw 17:57 Formants - Why are Voices and Vowel Qualities Different?
@@ -1466,6 +1466,63 @@ VMXlvr5Kf4s 10:28 Team Gent(le)sir Exposed | Episode 1 | Starring GEORGE KEMP
 7y_Acv-0jo8 2:06 The Saxon House
 RuFHXJ350k4 2:26 Burne, Roper & Sons Whisky Advertisement 2016
 q69tb_H94ao 3:17 La Ferrassie 1 - A Painted Reconstruction
+
+# Norsk Folkemuseum
+
+# 9spBm08Ga6g 39:09 Samtale med Erik Ulfsby, ny kunsterisk leder for Kulturfestivalen Peer Gynt på Gålå
+hkuM2y4oXB8 8:42 Spinning
+pOuT2ZEubLw 1:24 Spinning og klesvask
+# ERkdRlHVDo4 2:15:58 Lanseringsseminar for boken "Opphøyd og oversett – norske herregårdsmuseer", 25.01.2023
+kV9XXXzl534 0:45 Historisk ferieskole på tegnspråk
+# i1reTrhW7c0 5:21 TIDSROM 1600-1914
+FkasAfGrZtY 1:05 Tjæring av Gol Stavkirke
+x5xJGfkDPMo 33:59 Høvling og legging av gulv anno 1879 - en film av Norsk Folkemuseum
+UZAqb7fLvvs 1:22 Norsk Folkemuseums Dansegruppe
+# 3z_Ik8CIg9k 11:50 Reinslakting - Øksfjordbotn 1954 (stumfilm)
+75bQhxhycm4 3:17 Nytt lys på Norsk Folkemuseum
+qXuVZUikSUU 0:56 Falskmyntnerens tak : «TidsRom 1600-1914» - på vei mot ny utstilling!
+TTObMzX_AL0 1:34 Julemarked på Norsk Folkmuseum: En god førjulstradisjon!
+3UQlqRxH0o4 0:47 Julemarked på Norsk Folkemuseum: Pynte til jul
+e7NzXBl5X6U 0:37 Julemarked på Norsk Folkemuseum: Tradisjonsrik julemat
+OCv8CPUvNUk 3:06 Gjenoppføring av Heimtveiten (kort teaser)
+6pHQUZbTdUM 19:26 Gjenoppføring av Heimtveiten
+# ixwBlojwd2w 3:05 Demontering av tak i bysamlingen på Norsk Folkemuseum
+JD9in7bFvEw 1:03 Lauving og bæring av korn (stumfilm)
+-wq_5t52Z8s 8:57 Ljåsmiing Hornindal 1937 (stumfilm)
+HZITaHFCMcI 4:00 Flat-teljing av tømmer : Vefsn 1933 (stumfilm)
+a19lGJGOZWY 26:51 Åkleveving på oppstadgogn (stumfilm)
+2qNazpZRmdE 10:54 Glimpses of Norway - A Hardanger Rural Wedding
+yE-9xnIlt94 1:20 Lessing av høy fra stakk (stumfilm)
+j3Gh9VUt1gU 16:26 Spelstemne på Voss 1947 (stumfilm)
+ykjambrS9Gw 5:06 Sauehold og spinning (stumfilm)
+vLsylYmpEUM 1:41 Firfletting (stumfilm)
+tG7j_CzoJvM 3:47 Spinning og veving av bast (stumfilm)
+HAfQ9LcCvbk 7:40 6 korte filmer av Anna Grostøl (stumfilm)
+DkAbJQcMM94 11:18 Norsk bygde-tekstil (stumfilm)
+w9NUT7s0qDU 12:54 Hos gullsmeden : skjemaker i arbeid (stumfilm)
+6PD-FASC6ZQ 10:12 Grenevev del 3 av 3 - Olderdalen og Manndalen 1947 (stumfilm)
+qxA1bpj6lB0 8:33 Grenevev del 2 av 3 - Olderdalen og Manndalen 1947 (stumfilm)
+VEcKR7ctIBg 2:22 Veving på oppstadvev (stumfilm)
+ZL7tYOT8KpU 10:42 Bandvev (stumfilm)
+lsPoacDwSDE 21:43 Lin : fra frø til tråd (stumfilm)
+XUm2JvsLzx8 6:57 Grenevev del 1 av 3 - Kautokeino 1955 (stumfilm)
+V7P9BXxfYfo 3:46 Spinnekrok (stumfilm)
+zXyaj16AmLg 4:20 Glimt fra greneveving - Manndalen, Troms 1955 (stumfilm)
+SA0fBBI9_Qc 12:26 Brurebunad, syrgjebunat, skaut og kristnadsbarn. Frå Voss, Kvam og Sunnmøre. (stumfilm)
+2VUrkwWV9MA 7:21 Fana : Skaut, hårpynt, brudepar (stumfilm)
+AQr6V9aDTY8 11:35 Håroppsetting og skautpåbinding (stumfilm)
+# gsCqwthryzQ 3:22 Fiskeren til Tiedemann
+EuQ54Uwk57E 7:42 Norsk Folkemuseums Dansegruppe : Japan 2008
+Bfrd03tD1ts 7:13 Norsk Folkemuseums Dansegruppe 2010
+d4746vgMS-w 46:12 Sagastua
+# Q-Su0zFs80I 5:58 En sidste viking : fembøringen "Opreisningen"s sidste færd (stumfilm)
+# IA1Vh1oEPwY 1:15 Et fint stup (stumfilm)
+# vmNhzjsGycM 4:22 Kromspring paa stranden (stumfilm)
+# I9AyWObUTHI 2:07 To om en pipelil' : et ørkendrama (stumfilm)
+# 0RD_5me6kRs 28:48 Tiedemann 200 år : 1778-1978
+# jm41KpSx4Ls 2:37 En glad gut : reklame for Teddy sigaretter (stumfilm)
+# YBmyuzxDySk 5:36 Repslaging på Kampen (stumfilm)
+w9bObBzjbAg 9:15 Fra Norsk Folkemuseums historie (stumfilm)
 
 # Stadstuinieren
 
@@ -3236,7 +3293,6 @@ zQ6o1cDxV7o 57:03 Richard Feynman - The Character of Physical Law - Part4 Symmet
 36GT2zI8lVA 7:33 Richard Feynman. Why.
 b9F8Wn4vf5Y 5:30 How did we find the speed of light?
 GNhlNSLQAFE 36:42 Richard Feynman - The World from another point of view
-euGp9quNqLU 9:11 Richard Feynman - Law of Gravitation - An Example of Physical Law part1
 LPDP_8X5Hug 9:46 Richard Feynman Lecture on Quantum Electrodynamics: QED. 1/8
 ZbFM3rn4ldo 1:44 Richard Feynman: The Beauty of the Flower
 lytxafTXg6c 0:44 Richard Feynman explains the feeling of confusion
@@ -3671,7 +3727,7 @@ LjGQeCuJXNQ 5:04 Part 117 - ProtoThrottle demo w GN GP9 and ore jennies #hoscale
 5sy15cvynBg 14:43 Part 116 - Running trains on Jim Radkey's BNSF Pink Lady Sub #hoscale #modelrailroad #opsig #slinky
 trb-oFa4QbE 6:14 BNSF Unit Coal Train at Carkeek Park near Seattle #bnsfrailroad #bnsf #coaltrain #export #train
 kRbZZFjejkc 1:20:53 Remembering Kirk Reddie - a tribute to his N scale dream model railroad - March 2025 #nscale #art
-ebShL2hJgf4 3:30 CPKC's new paint job! First run ES44AH ScaleTrains models #modelrailroad #hoscale #cpkcrailway #art
+# ebShL2hJgf4 3:30 CPKC's new paint job! First run ES44AH ScaleTrains models #modelrailroad #hoscale #cpkcrailway #art
 Hod6vkThusw 4:39 BNSF "Z" train at Carkeek Park near Seattle on March 17, 2025 #intermodaltrain #seattle #railfan
 5_cqrLhpcnM 10:39 Part 115 - March train fun with diesel lash-ups, steam and lotsa laughs #hoscale #modelrailroad #art
 lKLznLpmPe4 21:44 Part 114 - February fun with steam & diesel engines & trains #hoscale #modelrailroad #britishrail
