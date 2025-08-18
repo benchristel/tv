@@ -1271,7 +1271,6 @@ NmfAz2eVoyY 3:35 Radio Myfanwy
 CsC-KpeViWA 2:37 Sidan - 1973
 nNBlU_h6XVw 3:16 Ghost Village 1962
 B10yc-Y4lq0 3:46 Andrew Vicari - The Artist At Work
-VFrOhV_lR_8 26:16 Return to Maerdy Colliery, 4/3/1985
 0yPuL3XWV2I 3:06 Anarchy In Caerphilly - The Sex Pistols Perform
 18jFrg8ewX8 4:09 It's In Wales - Friend or Foe (1988)
 m-seM5LWow8 0:50 Last Service At St. Teilo's Church - Now Standing At St. Fagan's National History Museum
@@ -2758,7 +2757,7 @@ CKJYPt8naUQ 1:03:19 Venice Baroque Music on The Harpsichord | Fabio Bonizzoni ·
 pGd0rmD8CN4 37:39 Irish Folk Music | Karan Casey · MarchVivo
 tSjJ3hqia7s 1:07:24 Love songs in Renaissance Music: Adonis and Venus | Phaedrus · MarchVivo
 q6jyeEwvnV4 3:51 Domitila, an Opera About Hopeless Love · MarchVivo
-gR2hT5_hDF0 1:14:31 Weinberg: String Quartets Nos. 15, 16 & 17 (Complete Quartets V) | Danel Quartet · MarchVivo
+# gR2hT5_hDF0 1:14:31 Weinberg: String Quartets Nos. 15, 16 & 17 (Complete Quartets V) | Danel Quartet · MarchVivo
 Qc5z_wPaFjw 57:33 Baroque Harpsichord from Naples | Enrico Baiano · MarchVivo
 # t_XXmJc_PLA 1:00:04 Georg Anton Benda: Melodrama Medea · MarchVivo
 PMHwmR92vBc 17:29 J. S. Bach: French Suite No. 5, BWV 816 | Olga Pashchenko · MarchVivo

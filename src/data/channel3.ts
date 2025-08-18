@@ -439,15 +439,17 @@ export const episodes: Array<string> = [
     PZ9yL-Eo9wQ 3:48 Manssa Cise
   `,
   `
-    dFS0Dmb3FCk 3:25 The John Renbourn Group - Black Waterside
-    pb2pJAronc4 3:27 The John Renbourn Group - Nacht Tanz /Shaeffertanz
-    eejS-nVrmks 3:58 The John Renbourn Group - A Maid In Bedlam
-    2oZ9N6Ux2cY 3:28 The John Renbourn Group - Gypsy Dance/Jews Dance
-    OH8CXSF7Brw 3:24 The John Renbourn Group - Reynardine
-    2yRAi4miyvQ 2:47 The John Renbourn Group - My Johnny Was A Shoemaker
-    8f3GW0Ztrcs 3:22 The John Renbourn Group - Death And The Lady
-    vp_ucWI_DUo 5:50 The John Renbourn Group - The Battle Of Augrham/5 In A Line
-    EE61vOWt9wo 3:30 The John Renbourn Group - Talk About Suffering
+    # A Maid in Bedlam - John Renbourn Group
+    uZjC_cbWLq8 3:22 Black Waterside
+    _8yLYWZuqWI 3:24 Nacht Tanz / Shaeffertanz
+    guknInoA-Sw 3:56 A Maid In Bedlam
+    Zk1gTHhlZYs 3:26 Neuseidler Medley: Gypsy Dance / Jews Dance
+    7Hnd9BOAI0Q 3:38 John Barleycorn
+    YfiXv9ZI4Jo 3:21 Reynardine
+    DSZj-y-NszE 2:44 My Johnny Was a Shoemaker
+    T4ZvnflxEbQ 3:19 Death & the Lady
+    kpG3uxdJ_Tc 5:46 Medley: The Battle of Augrham / 5 In a Line
+    DH0a0L5sPvM 3:27 Talk About Suffering
   `,
   `
     # lN8Ii1gGqZI 2:10 Tîr Im by The Fellowship
