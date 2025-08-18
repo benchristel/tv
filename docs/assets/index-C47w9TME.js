@@ -1281,7 +1281,6 @@ NmfAz2eVoyY 3:35 Radio Myfanwy
 CsC-KpeViWA 2:37 Sidan - 1973
 nNBlU_h6XVw 3:16 Ghost Village 1962
 B10yc-Y4lq0 3:46 Andrew Vicari - The Artist At Work
-VFrOhV_lR_8 26:16 Return to Maerdy Colliery, 4/3/1985
 0yPuL3XWV2I 3:06 Anarchy In Caerphilly - The Sex Pistols Perform
 18jFrg8ewX8 4:09 It's In Wales - Friend or Foe (1988)
 m-seM5LWow8 0:50 Last Service At St. Teilo's Church - Now Standing At St. Fagan's National History Museum
@@ -2768,7 +2767,7 @@ CKJYPt8naUQ 1:03:19 Venice Baroque Music on The Harpsichord | Fabio Bonizzoni ·
 pGd0rmD8CN4 37:39 Irish Folk Music | Karan Casey · MarchVivo
 tSjJ3hqia7s 1:07:24 Love songs in Renaissance Music: Adonis and Venus | Phaedrus · MarchVivo
 q6jyeEwvnV4 3:51 Domitila, an Opera About Hopeless Love · MarchVivo
-gR2hT5_hDF0 1:14:31 Weinberg: String Quartets Nos. 15, 16 & 17 (Complete Quartets V) | Danel Quartet · MarchVivo
+# gR2hT5_hDF0 1:14:31 Weinberg: String Quartets Nos. 15, 16 & 17 (Complete Quartets V) | Danel Quartet · MarchVivo
 Qc5z_wPaFjw 57:33 Baroque Harpsichord from Naples | Enrico Baiano · MarchVivo
 # t_XXmJc_PLA 1:00:04 Georg Anton Benda: Melodrama Medea · MarchVivo
 PMHwmR92vBc 17:29 J. S. Bach: French Suite No. 5, BWV 816 | Olga Pashchenko · MarchVivo
@@ -4638,15 +4637,17 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     7yAAk8469q0 5:01 Komine
     PZ9yL-Eo9wQ 3:48 Manssa Cise
   `,`
-    dFS0Dmb3FCk 3:25 The John Renbourn Group - Black Waterside
-    pb2pJAronc4 3:27 The John Renbourn Group - Nacht Tanz /Shaeffertanz
-    eejS-nVrmks 3:58 The John Renbourn Group - A Maid In Bedlam
-    2oZ9N6Ux2cY 3:28 The John Renbourn Group - Gypsy Dance/Jews Dance
-    OH8CXSF7Brw 3:24 The John Renbourn Group - Reynardine
-    2yRAi4miyvQ 2:47 The John Renbourn Group - My Johnny Was A Shoemaker
-    8f3GW0Ztrcs 3:22 The John Renbourn Group - Death And The Lady
-    vp_ucWI_DUo 5:50 The John Renbourn Group - The Battle Of Augrham/5 In A Line
-    EE61vOWt9wo 3:30 The John Renbourn Group - Talk About Suffering
+    # A Maid in Bedlam - John Renbourn Group
+    uZjC_cbWLq8 3:22 Black Waterside
+    _8yLYWZuqWI 3:24 Nacht Tanz / Shaeffertanz
+    guknInoA-Sw 3:56 A Maid In Bedlam
+    Zk1gTHhlZYs 3:26 Neuseidler Medley: Gypsy Dance / Jews Dance
+    7Hnd9BOAI0Q 3:38 John Barleycorn
+    YfiXv9ZI4Jo 3:21 Reynardine
+    DSZj-y-NszE 2:44 My Johnny Was a Shoemaker
+    T4ZvnflxEbQ 3:19 Death & the Lady
+    kpG3uxdJ_Tc 5:46 Medley: The Battle of Augrham / 5 In a Line
+    DH0a0L5sPvM 3:27 Talk About Suffering
   `,`
     # lN8Ii1gGqZI 2:10 Tîr Im by The Fellowship
     # XFOzTds_3Qk 2:51 The Longbottom Leaf by The Fellowship
