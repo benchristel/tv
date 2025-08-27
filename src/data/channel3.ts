@@ -216,7 +216,6 @@ export const episodes: Array<string> = [
     KQetemT1sWc 3:12 The Beatles - Here Comes The Sun (2019 Mix)
     2XyuywVao7g 2:46 Because (2019 Mix)
     6CVsBOjeDzk 16:41 Medley from ABBEY ROAD
-    QhmyhwszSWA 0:26 Her Majesty (2019 Mix)
   `,
   `
     # Shira Kammen - The Almanac
