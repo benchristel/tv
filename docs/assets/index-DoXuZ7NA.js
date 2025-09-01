@@ -3657,7 +3657,6 @@ T41BHRQmHZo 10:18 Vintage railway film - Diesel trainride - 1959
 npZ6Y7v8CyY 9:50 Vintage railway film - Service for Southend - 1957
 ygl1yZE_bBM 19:33 Vintage railway film - Elizabethan express - 1954
 QquUikuHf9M 25:32 Vintage railway film - Work in progress - 1951
-Da5IuL9gBGc 20:12 A steam train passes - 1974
 EttvbfxIY8Y 20:31 Vintage railway film - Day to day track maintenance, part 2 - Switches and crossings - 1952
 RjpYcYgaOCI 29:28 Vintage railway film - Day to day track maintenance, part 1 - Plain line - 1952
 -XQhSTg3iM4 6:02 Vintage railway film - 'Newspaper Train' - 1942
@@ -4065,7 +4064,7 @@ eqsN6R1PfEA 59:36 能 「土蜘蛛 ササガニ 」 KYOTO de petit能　文化�
 
 # Old Movies
 tpzEzMscj0g 1:07:45 Sherlock Holmes - An Venyn Yn Gwyrdh
--B7l7LSxnzU 59:38 SHERLOCK HOLMES: TERROR BY NIGHT | Basil Rathbone as Sherlock Holmes | FULL MOVIE
+# -B7l7LSxnzU 59:38 SHERLOCK HOLMES: TERROR BY NIGHT | Basil Rathbone as Sherlock Holmes | FULL MOVIE
 r_r0dFSsiAg 1:08:55 Sherlock Holmes and the House of Fear
 VcgOCGBqnyA 1:08:14 Sherlock Holmes Faces Death 1943 movie classic
 AqQJh-kNM9Q 1:17:34 Arsenic & Old Lace 1962
@@ -4885,15 +4884,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     QSALP2o0ZlU 3:34 Beggar Man
     m9ec7bk-xcs 4:28 Swansea Town
     XH-QpfZsHJw 3:57 Bellman
-  `,`
-    # Music from the Reign of Henry VIII
-    891PFtgdW2w 2:31 En vray amour
-    7AgesfSWxJY 1:40 If love now reigned
-    L2SlgDpi6Bs 1:22 Laissies Parler
-    9rRKYeZJXJg 0:53 The Emperor's Pavyn
-    cKCLZSQM1VY 1:22 Helas Madame
-    XsVOJWi-XDU 1:34 Gentil prince
-    SV-12mVuDqQ 1:19 The King's Pavyn
   `,`
     # Dallas Simpson
     M_-7FjNBZIY 8:57 Webster's Raft (Excerpt)
