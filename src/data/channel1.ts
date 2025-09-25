@@ -2787,10 +2787,10 @@ kQSt_7dYmaE 10:23 Celtic Gods in Medieval Wales with Dr Gwilym Morus-Baird
 # 4Y14EkhRx_0 14:33 The Life of Stories
 # TpFCKF1HeWw 22:32 Sir Gawain and Men's Mysteries
 # ixzq5rb6rXc 1:01 Celtic Mythology - new category on video lectures website.
-ORVkKObUilA 26:02 Sir Gawain and the Pagan Goddess
-2Nbu8SvdaD8 24:36 Sir Gawain, Woman and Wild God
-N8n2fDGKGbs 33:33 Sir Gawain, Desire and Death
-7PNKoy9vyHU 44:30 Sir Gawain and the Mabinogi
+# ORVkKObUilA 26:02 Sir Gawain and the Pagan Goddess
+# 2Nbu8SvdaD8 24:36 Sir Gawain, Woman and Wild God
+# N8n2fDGKGbs 33:33 Sir Gawain, Desire and Death
+# 7PNKoy9vyHU 44:30 Sir Gawain and the Mabinogi
 a-zXJovHAs4 41:11 The Story of the Story with Dr Gwilym Morus-Baird
 rjbLieb1ros 29:13 The Goddess' Stolen Child with Dr Gwilym Morus-Baird
 Axru33O3Aaw 26:32 Who is Manawydan? with Dr Gwilym Morus-Baird
@@ -3623,11 +3623,11 @@ Ugn7WpV6nyE 5:25 Antonin Dvorak | Slavonic Dance op. 72 No. 2 e-minor | BLJO, Se
 # H1qzS4BUoso 33:59 Igor Strawinsky - Le Sacre du printemps | BLJO, Sebastian Tewinkel
 c8IUSrC4opk 7:10 Pyotr I. Tchaikovsky - Op. 11 II. Andante cantabile | BLJO, Maximilian Hornung, Sebastian Tewinkel
 tcIRIrWmMvc 39:43 Antonin Dvorak - Cello Concerto in B minor, Op. 104 | BLJO, Maximilian Hornung, Sebastian Tewinkel
-hgmf3MVWJjk 5:58 Ensemble airborne extended | Manuela Kerer - kaput II
-KkLs4lkG7Zo 5:56 Ensemble airborne extended | Mathias Schmidhammer - Skeleton dance
-cQ8Aob_I61M 6:13 Ensemble airborne extended | Alexander Kaiser - The difficulty of crossing a field II
-bTCEALQo1r0 9:08 Ensemble airborne extended | Hannes Kerschbaumer - not.to
-_H0gR7uur28 7:30 Ensemble airborne extended | Manuel Zwerger - Condemned
+# hgmf3MVWJjk 5:58 Ensemble airborne extended | Manuela Kerer - kaput II
+# KkLs4lkG7Zo 5:56 Ensemble airborne extended | Mathias Schmidhammer - Skeleton dance
+# cQ8Aob_I61M 6:13 Ensemble airborne extended | Alexander Kaiser - The difficulty of crossing a field II
+# bTCEALQo1r0 9:08 Ensemble airborne extended | Hannes Kerschbaumer - not.to
+# _H0gR7uur28 7:30 Ensemble airborne extended | Manuel Zwerger - Condemned
 _9D_5x1ZhmA 7:34 Sonatori de la Gioiosa Marca & Dorothee Oberlinger | Antonio Vivaldi Concerto D-Dur RV 270
 fXm4qSLv5q0 9:45 Sonatori de la Gioiosa Marca & Dorothee Oberlinger | Antonio Vivaldi: Concerto - La Pastorella RV 95
 aKwgWTOo85c 1:51:18 Johann Sebastian Bach | St John Passion (BWV 245)
@@ -4495,10 +4495,6 @@ r_r0dFSsiAg 1:08:55 Sherlock Holmes and the House of Fear
 VcgOCGBqnyA 1:08:14 Sherlock Holmes Faces Death 1943 movie classic
 AqQJh-kNM9Q 1:17:34 Arsenic & Old Lace 1962
 _46MGGVlIms 1:05:10 Three Men in a Boat - starring Michael Palin, Tim Curry & Stephen Moore (1975)
-
-# Mark Lakeman Permaculture
-VoYZlyBHyQM 16:08 How to turn your Neighborhood into a Village
-4TCYjw88JSY 14:28 How Pocket Hoods behaving like villages boost wellbeing
 
 # New England Forests
 lVx45KG-DQs 57:06 The Return of Old Growth Forests
