@@ -812,6 +812,41 @@ vlQZ3NPnoLk 6:49 How to Make Medieval Cheese
 
 # Sally Pointer
 
+kShEdlqLLdM 6:48 Hedgebotherer on Tour: part two. Yellowstone and Rabbitstick
+s-m8Ng3Qg6g 9:15 Visiting the Fourteenth Century knitted cap at St Denis, Paris
+JVYY8ra00BM 40:05 Making An Iron Age Style Leather Purse (inspired by the Jersey Hoard)
+nIw-OZ4dHcg 5:16 Marrakech: Traditional Crafts and Trades
+NW-xHJKgI2U 16:09 Making a Stone Age Style Needle Case
+Gr43b95n3n0 36:07 Loop-and-Twist: an Ancient Form of Nalbinding
+t7NHJ7GNw14 58:53 Exploring the Making of a Bronze Age Piled Hat
+E1TRd9A0o9U 17:03 A Slashed Knit Hat for a Landsknecht
+H0LxelKyn5I 3:25 Making Simple Bark Baskets (short video)
+z2uB7wZnlTE 8:52 Making a Stone-age Style Wooden Comb
+vnAXYrcKVEE 19:53 Making an Iron Age Outfit Inspired by Huldremose Woman
+0oE-7vN65As 14:09 Nettle Fibre Experiment: Cold Woodash Lye
+4dTcQccWiKQ 1:26 Stone Age education handling collection order (Short video)
+GyqKlEYU7Gw 9:12 Making Kimmeridge Shale Beads
+fxYFGU4J7Pk 31:20 Soapmaking from Scratch part two: Soft-soap and Bar Soap
+0dwZfhleOJM 12:37 Making Soap Washballs, 16th-18th century style at the Weald and Downland Museum
+nQWDEPKvzCw 8:50 Making Cordage from Red Deer Sinew
+6wve3KMhxcw 5:58 Palaeolithic Rope-making Experiment
+gker-Um1AD0 24:03 Making a Neolithic Netting Shuttle from Antler, and using it with Nettle Cordage.
+I3TGmv5YC3k 7:56 Making a Rectangular Net
+QBnPuzY1GUQ 22:09 Making a Neolithic Thorn Flax Hackle
+YAKGNNS_tYM 35:20 Making Neolithic Bone Textile Tools
+evO5OpepD4U 2:14 Nettles for Textiles Challenge 2023
+5vGWoza1omo 19:23 Making a Neolithic Textile Tool From Thorns!
+YO13pWECJyA 12:55 Overwintered Alder Cone Dye
+JaWaTgrKb3I 1:00 Wild Swim Joined by Cows
+cFVEVIn1xNw 35:24 Make a Sprang Bag with Handles: all over holes/ Haraldskaer pattern
+B5KLWPSMot8 23:05 Soapmaking from Scratch: Woodash Lye
+TwVXwH_w2ng 10:39 Four Strand Braids, flat and round versions
+zSHX63HlrCA 9:34 Making 4-ply Cordage: Laid Cord vs Cabled Cord
+WL0WOiBY0l8 13:29 Making 3-Ply Cordage
+yDpnRUPg4iE 9:25 Making Acorn Coffee
+xldE2UX5vjc 11:59 Making Acorn Flour Pasta
+nU2_5Ue0YcA 2:13 How to put on a Medieval Wimple
+WRLKNv6WDg0 9:48 Making Medieval Cloth Buttons
 sXYo0t_W-hs 4:34 Harvesting Lime Bast: part two
 38F2rsfXtMM 22:44 Making a Tasselled Belt for a Bronze Age outfit
 4VSocZCxl8M 4:06 Stinging Nettle Friendship Bracelet Challenge
@@ -5534,6 +5569,8 @@ jtITD1l2GCY 2:59 Venite a laudare, laude
 voy1pYCw9v8 3:01 Dal ciel venne messo novello, laude instrumental
 VdO-7_NRa-g 42:36 Christmas Music of the 15th and 16th Centuries
 cKMu6b2Ls8s 51:29 Christmas at the Time of Praetorius
+S3JRSz4KGmk 26:09 Bach | Christmas oratorio BWV 248 - Part 1
+J5gZ6h2azc8 37:37 Jakub Jan Ryba | Czech Christmas mass - Česká mše vánoční - Ensemble Inégal
 eW79ejQcrDo 51:44 A Baroque Christmas
 r7adETaOYiQ 1:30 The Boar's Head Carol
 2AjFT4Rcp_U 3:41 Cantiga De Santa Maria, No.48
