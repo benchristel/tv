@@ -217,6 +217,8 @@ jtITD1l2GCY 2:59 Venite a laudare, laude
 voy1pYCw9v8 3:01 Dal ciel venne messo novello, laude instrumental
 VdO-7_NRa-g 42:36 Christmas Music of the 15th and 16th Centuries
 cKMu6b2Ls8s 51:29 Christmas at the Time of Praetorius
+S3JRSz4KGmk 26:09 Bach | Christmas oratorio BWV 248 - Part 1
+J5gZ6h2azc8 37:37 Jakub Jan Ryba | Czech Christmas mass - Česká mše vánoční - Ensemble Inégal
 eW79ejQcrDo 51:44 A Baroque Christmas
 r7adETaOYiQ 1:30 The Boar's Head Carol
 2AjFT4Rcp_U 3:41 Cantiga De Santa Maria, No.48
