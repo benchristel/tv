@@ -621,6 +621,200 @@ U46Yo_6z_F4 21:30 Adam Savage's One Day Builds: LEGO Sisyphus Automata!
 # YXzxEqdvuIE 31:11 One Day Builds: Adam Savage Demonstrates Weathering Tricks Mophie Juice Pack Helium for iPhone 5
 # -tUHJnl8qPM 32:11 One Day Builds: Adam Savage Makes Something Wonderful from Scratch Sony NEX-5R Mirrorless Interchangeable Lens Camera
 
+# Tasting History
+
+lYZq2ZnwPZA 0-3:14,4:17-16:02 Irish Soda Bread from 1836
+IfcQcAPt5vk 0-2:00,3:00-18:58 Feeding a Medieval Outlaw
+NjH7ssGctuM 18:21 School Lunch from the Great Depression
+_LRE4dUgbLM 11:25 Moroccan Berber Pizza - Tabadirt / Medfouna
+4DPu-Ve_luU 20:29 The History of Ukrainian Borshch
+02V5dqRjNfw 0-15:44,16:29-16:46 Medieval French Toast
+THcfqRk4NyI 17:22 The King of Siam's Massaman Curry
+zBurkdTyJhE 17:07 Surviving on Leather
+YfKdaXTwB9A 0-18:44,19:31-19:46 Dinner with Attila the Hun
+KMWrk_94L8Y 0-2:33,3:58-18:44 The Great Molasses Flood | Boston Brown Bread
+JxUSzM29Y3M 15:47 Al Capone's Soup Kitchen
+LlBS-BgqN4E 19:06 The First Fad Diet of Georgian England
+gK4DMt8ARyU 21:34 Brewing Mesopotamian Beer - 4,000 Years Old
+jQTPJ1WrBBo 17:55 History of Latkes
+aEbO80_4uyM 15:05 What the heck is Wassail?
+CPs0WHtqZgQ 18:09 Christmas in the WWI Trenches - Xmas Rations
+Tw98kP3xrfk 19:49 The Marie Antoinette Diet
+qvOTev_r4-8 12:55 When Coffee was Illegal
+B7A8GOgAm54 16:45 Making Medieval Haggis
+UpBv8H0G6ZY 0-2:15,3:20-18:34 Japan & the Portuguese Barbarians
+ixTkzBuD-cw 19:08 The true story of the First Thanksgiving
+ry5Du60WPGU 16:18 What did WWII Soldiers Eat?
+MrKafmzGNJc 20:18 Macaroni & Cheese from 1845
+1QRNJB29p6o 0-4:05,5:09-18:29 Feeding King Tut
+fkJPqxelmkY 19:50 Sin Eaters & Funeral Biscuits
+Qud0SI5ZgC0 18:51 1000 Year Old Jalebi (Zalabia)
+I4ZTRjA7NhU 16:49 History's Real Macbeth
+APeVpwejxWQ 20:50 Ancient Roman Jellyfish for the Black Banquet
+DUAayg3D0XA 0-3:31,4:39-20:39 Pemmican: History's Power Bar
+jBRVvMm3xv0 19:41 The Medieval Saint Diet
+AjuGvTBPoy0 19:47 Whisky - Scotland's Water of Life
+XQJkasR3Iak 16:28 The Original Caesar Salad from Mexico
+lABWCEfeEyw 20:11 Feijoada - Brazil's National Dish
+IVpiIa_Txws 17:30 Growing an Ancient Roman Garden
+h_xqJtGWvhg 21:19 Catherine the Great & the Volga Germans
+exTSP163sRg 21:16 Debunking the Myths of Leonardo da Vinci
+R-dPIBUvVC8 0:00-1:48,2:53-17:24 Byzantine Honey Fritters
+hIKx0G4ghpA 18:44 The Noble Origins of Afternoon Tea
+SoFxrwuMuQs 20:42 Medieval Table Manners
+iWlqxGQXZx8 20:24 A History of Ketchup
+Kz-VpoNEWXM 17:38 A History of Tacos
+zN1bzdxZdbg 17:59 The Absinthe Murder
+OnTtA9z3ZeQ 16:52 The Day the Viking Age Began
+FPi0RiAsegQ 13:13 What is Gruel?
+KaTjWWJSei0 0-1:46,2:45-15:54 When Potatoes were Illegal
+2ZcrScIlaQ4 20:26 The History of the Wine Glass
+o9-rCHqPLj4 17:30 The Ninja Diet of Feudal Japan
+CsjL0wBINnI 17:22 1950's Fish Pudding
+S5bHN6UYiTA 13:32 Ancient Greek Breakfast - Teganites
+0Uot4uVKrVk 16:56 Victorian Ice Cream & The Queen of Ices
+MjjEjf3TI0U 16:24 A Tudor Salad for May Day
+9NEyzsxjc2w 18:28 Anzac Biscuits from World War One
+7hYBesohRK0 24:31 Dining First Class on the RMS Titanic
+bbCD6zRHfbg 10:07 Punch Romaine from The RMS Titanic
+qJ3gqoAaHG8 21:20 The Titanic's Crew Member Experience
+GanHDpGstZI 20:18 Titanic's Second Class Experience
+ob-TBojkaxw 10:12 The True Story of Titanic's Baker
+JbmHZbTpoDY 19:24 Dining Third Class on the RMS Titanic
+SGf_0_2Ji5I 21:08 Medieval Irish Food: Peasant to King
+MNIrP_aqwQY 11:18 How to Make Coffee a Better Way
+ux5VjS7o2gA 0-1:25,2:16-16:54 How the Doughnut got its Hole
+KTVPV-15GL0 16:10 Hardtack & Hell Fire Stew
+q3LdGNl2veo 17:55 Medieval Mardi Gras
+2-4SOrYtTS4 15:10 Secret Foods of the Spanish Inquisition
+AuzIBemYVaQ 9:29 Victorian Vinegar Valentines
+x3ku4JFvPx8 16:33 Ancient Rome's Naked Fertility Festival
+UolBvOIodEg 18:35 Icelandic Volcano Bread - Rúgbrauð
+16Ityys4dx4 17:14 Feeding a Templar Knight
+Pl55tJHadZc 20:19 Samosas of Mughal India
+GSGNiDjILiU 13:19 Ancient Rome's Wonder Medicine: Cabbage
+B0-TCPUNdbI 22:00 1600s Chicken & Cherries with Ken Albala
+Mda8Jetfnx8 0-2:55,4:03-16:34 Hogmanay Shortbread from 1779
+Oy17ef4cEL4 14:26 Quick Panettone: A controversial recipe
+JJnOtxBQEgo 16:09 A Bakewell Tart from World War One
+CRH5DODIgE0 15:12 Victorian Mincemeat With Actual Meat
+9pNb7iQXhdU 10:34 Smoking Bishop from A Christmas Carol
+xtOhZEkyY2I 14:33 Aztec Sacrifice & Pozole
+40uw6VkWpaI 15:41 The Incredible Spiced Wine of Ancient Rome
+h2tY_qqTk-E 18:08 What did Genghis Khan eat?
+htARnZjxQGs 14:58 Ancient Babylonian Lamb Stew
+sIFlPc-TW94 14:24 The History of Pecan Pie
+-__hMt0lKPc 10:03 Tasting Forbidden Flavors
+EajBNo-rBJY 13:55 Ancient Roman Steak Sauce
+oQVCBWZSdnY 14:39 1915 Yorkshire Parkin for Bonfire Night
+4QGq4XpavQ8 17:17 450 Year Old Pumpkin Cheesecake
+-ghf587Nihw 9:27 Johnny Appleseed: American Weirdo
+Y3R_ljOuptM 16:19 Why Vampires Hate Garlic - A Transylvanian Recipe from 1580
+tCD_eMscy0g 0-2:41,3:41-16:21 Apple & Cheese Pie from 1553
+4Glo4KM5Q_M 11:35 Weird Wedding Traditions & the Wedding Sip
+WdWcPvZg6Wc 17:57 Making A Wedding Cake From 1769
+mdOPg-4_R60 9:21 Gladiator Gatorade
+H3KANWtAHDc 16:45 Feeding a Roman Gladiator
+dR846JS3zbA 18:22 Viking Blood Bread
+QiTLyQjHtSw 11:25 Captain Kidd's Punch from 1688
+jlhkXj4miZI 17:14 Feeding A Medieval Knight
+fH25yRShofE 14:25 The Lost Episode of Tasting History: Prince Biskets
+_cFCvZL-JGA 11:04 The London Beer Flood of 1814
+D_FabMorrMU 17:31 Ancient Egyptian Tiger Nut Cake
+-tmAAlfTOGY 14:59 Fannie Farmer & the Modern Recipe
+LcnZAAoq5mg 11:28 The Sweet History of Lemonade
+de93oyukEyY 15:59 Escoffier's Kitchen Revolution
+TQmA7RyFr_g 14:35 The Cookbook of Nostradamus: Prophecies in the Kitchen
+BhrmGARFEVc 6:46 Drinking History: The Man in the Green Hat
+IZLYPbJaefA 17:59 Egypt's 28 Ingredient Hummus
+FNg71yR7b-E 15:24 Pirate Guacamole & Bumbo
+PIxN-pr3g7c 19:11 History's Most Expensive Spice: Saffron
+h9xX78pauXQ 0-5:35,6:45-19:21 Japan's Edo Era Noodles (1643)
+4eFHcfnWc70 19:26 The Talking Cows of Ancient Rome
+BR7fywQ-vUE 21:28 A History of Ice Cream | A Recipe from 1789
+qqAk9-00Z6o 16:19 Coca de Sant Joan & the Fires of Saint John's Eve
+JLbej0adpKs 14:51 Fried Chicken Face-Off: 1911 vs 2021
+Mbaz5P7kHfg 17:51 Toad in the Hole & the Cows of Scotland
+hZFfs3sJamI 19:43 Adobo: Filipino or Spanish?
+uNwXMvp9sCE 16:46 Ancient Greek Olives - Gifts from A Goddess
+h6XvMKdD2tY 0-3:54,5:13-19:05 500 Year-Old Pizza VS Today
+37O-by0BthQ 14:38 Korean Flower Pancakes - 17th Century Eumsikdimibang
+zk0FUS3Oq8s 17:45 An English Manor for a Bowl of Stew?
+giPXpKy2lQ0 18:52 Baking An Ancient Roman Cheesecake
+NvQkpdFjqJY 16:29 Ancient Roman Honeyed Pork
+k6VBdGAEJyc 17:12 How To Feed A Roman Emperor: Vitellius & the Year of 4 Emperors
+jHpkqBFKmvA 3:27 I Quit
+qj5vg2fjOtk 0-38,1:00-13:57,14:29-18:52 Feeding a Roman Legion | Posca & Laridum
+DvBNqLUuHLI 0-3:24,4:21-19:08 Dragon Heart for a Viking King
+FVIng1x_6BU 17:51 Fabulous French Feasts of the 1700s
+n7T5abyBiUg 15:48 Queen Victoria's Easter Cake
+S8KpFs1CHgw 19:28 Irish Stew From 1900 & The Irish Potato Famine
+MaYPEvDuo1I 17:21 Aztec Chocolate - Blood & Spice
+biE0ifWNfU4 16:49 Making Ancient Egyptian Bread
+X-L2fVjnHFE 16:21 The Legendary Medieval Cockentrice | 1st Anniversary Episode!
+# RJsjHSyWlPE 1:17:50 Tasting History 1st Anniversary Q&A
+0Ljm5i5N6WQ 17:38 Semlor: The Dessert That Killed A King
+An6myivFE8A 17:10 Ancient Nian Gao | Lunar New Year Cake
+oPTdSMOQRnY 18:31 How to Eat Like a Pirate: Hardtack & Grog
+r38ZpdaAX8c 16:52 The London Gin Craze and Beyond
+PhbkD0CuVtc 17:33 Béchamel & the Death of Monsieur Vatel
+qtmOdxEVytA 14:42 Ancient Roman Fast Food Restaurants
+zz0y1d6IIpY 18:21 Skinny Monk vs Fat Monk: Medieval Rule Breakers
+7IYYhoO-hiY 18:04 A 4000 Year Old Recipe for the Babylonian New Year
+7bsHOxQtBW4 15:47 Eggnog: A Christmas History
+hNIvtkADcCA 14:08 Making Medieval Gingerbread
+mvURMFzcIqc 16:26 Celebrating Saturnalia with Cato's Globi
+s2JyN7JF8bs 19:35 Unwrapping Aztec Tamales | The Tamale Wars
+2qauMSeqWpU 18:57 Figgy Pudding | A Victorian Christmas Tradition
+zKa5GRu4LwE 16:16 What Did Medieval Peasants Eat?
+FF0HnhuzGak 16:03 Pumpion Pie from 1670
+1MAB-VVqjOE 18:47 Making Medieval Mead like a Viking
+D-QHd4_1geE 18:42 Silphium: The Lost Aphrodisiac of Ancient Rome
+# 1hHYk2evUZQ 1:00:31 Election Cake with Q&A
+tpWdzXJObZ0 12:24 Soul Cakes & Trick-or-Treating
+M2bh80b40D4 18:47 The History of Sugar Part 2 | Victoria Punch
+ehVesZ0JS8Q 17:32 The History of Sugar Part 1 | Medieval Arabian Pistachio and Rose Candy
+o4YmvQt29ko 17:46 Scappi's Renaissance Herb Torte
+oqQzWg9pXmg 15:57 Spartan BLACK BROTH | Melas Zomos
+uA98IonYvb4 15:40 Precedella | 1500's Pretzels made with Wine
+# eXWYmTf93Ms 1:02:28 Making Baked Pumpkin "Doughnuts" & Live Q&A
+2FpEEb44suM 16:55 Yuanxiao from the Ming Dynasty
+NPxjQetKPoo 15:26 Quesadillas Cernidas & Aztec Maize
+luz_AqzDkKI 11:10 FARTS OF PORTINGALE | A Shakespearean Treat
+6LynenQ5h2Y 16:56 The Strange Flavor of Parthian Chicken from Ancient Rome
+CilkAVJLBUY 16:47 Loseyns - Medieval English Lasagna!
+spjaUo2J4Nc 44:01 Tasting Canned Haggis & Q&A
+SD3WKbXhm6M 15:13 The Wonderful History of Pancakes
+3xZ0QJQpn1g 13:20 Payasam | Medieval India & Dessert for the King
+XtkAU4juIZU 13:56 KYKEON | The Drink of Greek Heroes
+IB1C0BL0ZlA 13:28 Civil War Bread Pudding
+# 9apP8NYt9LA 1:06:29 Tasting History Q&A #1
+LYBccRqsv6M 17:31 Making Hippocras at Home | Medieval Spiced Wine
+Sw2qrt6tOKw 12:18 The Bread of ANCIENT ROME | Pompeii's Panis Quadratus
+beBQgxdu2eY 10:50 The Poisonous History of Tomatoes | Pomodori Farciti all’Erbette (1773)
+DOMlXRxuwlM 13:59 A Dish for the First 4th of July... and why it should be on the 2nd.
+upos2b7-O7s 15:31 A Tart to Topple a King - Lombardy Custard
+paHt8qHMo7o 1:18 THANK YOU!
+A--e0axoGxc 13:21 Oldest Cookbook in the West | APICIUS | Ancient Roman Mussels
+5S7Bb0Qg-oE 16:02 I finally made GARUM | Ancient Rome's favorite condiment
+2OFUZ_hd8_k 13:15 Cooking from THE FORME OF CURY: England's First Cookbook | Galyntyne Sauce
+CQksGGtDB2w 13:12 History's Fluffiest Dessert! - Everlasting Syllabub
+TdvRfPCrR3A 16:46 How to Bake Medieval Rastons | The Life of a Miller
+w36CYveyCxU 14:42 The Softest Bread In England | How To Make 18th Century Sally Lunn Buns
+NhSj_VMjmUA 12:13 Anglo-Saxon Oatcakes - How Not To Burn King Alfred's Cakes
+J4sgFGcU9Bs 12:58 Making a Medieval TART DE BRY (Brie Tart) | Brie: The King of Cheese
+yYo5QdWMXcE 0:36 Tasting History with Max Miller
+_o7Oq-OjKu8 8:45 Making Medieval Fig Spread - Rapé | History of the Fig
+bN4Ai2AqNCc 5:46 Cooking A CAPON Dish For A Medieval King - Sweet Measure
+rQT-aY9sTCI 7:49 How to Make a MEDIEVAL TRENCHER - Torte Bread
+ENJbVgjFwF0 10:12 What does a 1920s BIRTHDAY CAKE taste like?
+eKH7pP102c8 9:00 Weird Cures for the Black Plague - Candied Horseradish
+jtCKA_NeEQ0 7:37 Apple Muse for the Plague | The Four Humors
+ugk4AW8V6_c 9:09 Cooking Medieval Dessert for Lent: Bruet of Almaynne in lente
+ZlMhZvOX2ps 8:18 Making 400 Year Old Buttered Beere
+GCCJ2Qpr1nM 11:29 Baking A Medieval Cheesecake - The History of the Sambocade
+vlQZ3NPnoLk 6:49 How to Make Medieval Cheese
+
 # Sally Pointer
 
 kShEdlqLLdM 6:48 Hedgebotherer on Tour: part two. Yellowstone and Rabbitstick
@@ -1326,8 +1520,6 @@ FGI_ZaZY5e0 4:33 Sianel Deledu i Gymru - 'Y Dydd' 17/09/1980
 jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 2MWNLYa_bqM 3:16 Electricity Comes To Ystradfellte
 CPLWbeUq8Z0 2:32 Harold Macmillan
-
-Y5WkbmDDzwk 42:16 HTV Cymru Wales Interval Junction into Miri-Mawr (c. 1975)
 
 # Beowulf
 2WcIK_8f7oQ 1:40-1:37:19 Beowulf: The Epic in Performance - Benjamin Bagby, voice and medieval harp
@@ -2633,7 +2825,6 @@ Qi7t_g5QObs 30:38 The Hobbit: The Desolation of Warners (Part 3/2)
 # Celtic Source
 
 CPED6Nem0kY 10:53 Danu and Dôn, the Irish and Welsh ancestor goddesses
-R6WAOuu3sMs 32:05 Is Taliesin a god?
 # xo4eiZluC7g 1:34 Book Launch Tour
 oAUGwPzPyb8 17:21 Celtic Myth: The Eternally Fruitful Questions
 qe2Fe-ur2ww 35:08 Modern paganism's translation problem?
@@ -4348,7 +4539,7 @@ tpzEzMscj0g 1:07:45 Sherlock Holmes - An Venyn Yn Gwyrdh
 r_r0dFSsiAg 1:08:55 Sherlock Holmes and the House of Fear
 VcgOCGBqnyA 1:08:14 Sherlock Holmes Faces Death 1943 movie classic
 AqQJh-kNM9Q 1:17:34 Arsenic & Old Lace 1962
-_46MGGVlIms 1:05:10 Three Men in a Boat - starring Michael Palin, Tim Curry & Stephen Moore (1975)
+wMIcIZCivC0 1:05:09 Three Men in a Boat (1975)
 
 # New England Forests
 lVx45KG-DQs 57:06 The Return of Old Growth Forests
