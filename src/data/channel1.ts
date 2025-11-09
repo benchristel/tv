@@ -1512,8 +1512,6 @@ jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 2MWNLYa_bqM 3:16 Electricity Comes To Ystradfellte
 CPLWbeUq8Z0 2:32 Harold Macmillan
 
-Y5WkbmDDzwk 42:16 HTV Cymru Wales Interval Junction into Miri-Mawr (c. 1975)
-
 # Beowulf
 2WcIK_8f7oQ 1:40-1:37:19 Beowulf: The Epic in Performance - Benjamin Bagby, voice and medieval harp
 
@@ -2818,7 +2816,6 @@ Qi7t_g5QObs 30:38 The Hobbit: The Desolation of Warners (Part 3/2)
 # Celtic Source
 
 CPED6Nem0kY 10:53 Danu and Dôn, the Irish and Welsh ancestor goddesses
-R6WAOuu3sMs 32:05 Is Taliesin a god?
 # xo4eiZluC7g 1:34 Book Launch Tour
 oAUGwPzPyb8 17:21 Celtic Myth: The Eternally Fruitful Questions
 qe2Fe-ur2ww 35:08 Modern paganism's translation problem?
@@ -4533,7 +4530,7 @@ tpzEzMscj0g 1:07:45 Sherlock Holmes - An Venyn Yn Gwyrdh
 r_r0dFSsiAg 1:08:55 Sherlock Holmes and the House of Fear
 VcgOCGBqnyA 1:08:14 Sherlock Holmes Faces Death 1943 movie classic
 AqQJh-kNM9Q 1:17:34 Arsenic & Old Lace 1962
-_46MGGVlIms 1:05:10 Three Men in a Boat - starring Michael Palin, Tim Curry & Stephen Moore (1975)
+wMIcIZCivC0 1:05:09 Three Men in a Boat (1975)
 
 # New England Forests
 lVx45KG-DQs 57:06 The Return of Old Growth Forests
