@@ -2058,6 +2058,553 @@ HVHceitbQsw 3:22 Stadstuinieren - Bloemen, kruiden en sla voorzaaien - begin apr
 NpHqYnFELLE 52:55 Alan Watts - What Is Reality?
 KpMGbjvBXSE 53:46 Alan Watts - We As Organism
 
+# Voices of Music
+
+YOoJThgSbgc 9:57 Haydn: Cello Concerto No. 1 in C Major, I. Moderato. Eva Lymenstull, cello, Voices of Music 8K
+yU9EgtHoMqg 4:31 Dowland: Come heavy sleep, Amanda Forsythe, soprano & The Voice of the Viol consort 8K
+oX75cuNBT9c 3:00 J.C. Bach: Symphony in G Minor Op. 6 No. 6, Voices of Music. 3. Allegro molto. Original version 8K
+Ai10LRlfh-E 11:01 Vivaldi: Violin Concerto in G Minor RV 317, complete, YuEun Kim, baroque violin Voices of Music 8K
+rdTbww1LmtU 4:19 Vivaldi: Violin Concerto in E Minor RV 278. II. Largo. Augusta McKay Lodge, baroque violin 8K
+OFCxvoqVXIY 3:51 Vivaldi: Violin Concerto in E Minor RV 278. III. Allegro. Augusta McKay Lodge, baroque violin 8K
+2AGk3ABb-oY 4:56 Palestrina: Lamentations of Jeremiah. Danielle Reutter-Harrah with The Voice of the Viol. 8K video.
+pEy1m3MqSMQ 8:58 Hanneke van Proosdij, Music Director and Conductor
+x96Bibs1BsQ 17:41 Bach: Violin Concerto in E Major BWV 1042, complete. Elizabeth Blumenstock, baroque violin 8K
+qdhtg2GO1Bo 4:58 Maddalena Sirmen: Violin Concerto in B Flat Major, II. Andante. Shelby Yamin & Voices of Music 8K
+Wgy4uUjuyD8 4:33 SFCV Audience Choice 2025 Finals: Please Vote for Voices of Music
+jWxId_l9c9k 4:33 SFCV Audience Choice Awards 2024-2025 Nominations, Voices of Music
+8dF3qcn3o4Y 3:42 Arcangelo Corelli: Ciaccona (Op. 2 No. 12) Voices of Music, Blumenstock & McKay Lodge, 8K video
+7tJ-h1W5LR0 3:50 J.C. Bach: Symphony in G Minor Op. 6 No. 6, Voices of Music. I. Allegro. Original version 8K
+0wvGDOQBrXo 3:05 Telemann: Recorder Concerto in F Major TWV 51:F1 Menuets I & II. Hanneke van Proosdij, recorder 8K
+aHxPGOXJ5IY 4:04 Dowland: Go crystal tears, Amanda Forsythe, soprano & The Voice of the Viol consort 8K
+KMP3vplZ800 3:55 Falconieri: La Folia (Folías de España); Voices of Music
+kwe07XU0Re0 5:52 Maddalena Sirmen: Violin Concerto in B Flat Major, 3rd mvt: Rondo. Shelby Yamin & Voices of Music 8K
+dWcHeS-wsa8 5:55 Biber: The Annunciation (Mystery Sonatas), Cynthia Miller Freivogel, baroque violin, Voices of Music
+fTaICG3g_-M 8:38 Vivaldi: Concerto in C Major for Recorder, Violins, Oboes, Mandolin & Harpsichord, full. RV 557/R 8K
+F6CfJ91dtxw 4:14 Telemann: Recorder Concerto in F Major TWV 51:F1 II. Allegro. Hanneke van Proosdij & Voices of Music
+_8e91SSXs-8 3:20 Matteis: Ground in D la sol re, Allegro. Ayres for the Violin Book IV. Voices of Music 8K
+WmxGE9-KtTE 4:14 Vivaldi: Violin Concerto in G Minor RV 317, 2. Largo, YuEun Kim, baroque violin, Voices of Music 8K
+IbaiuptDqLI 2:39 Vivaldi: Concerto for Oboe and Bassoon in G Major RV 545. II. Largo. Voices of Music 8K
+QAmdVS5E8tc 4:01 Vivaldi Concerto in G Major "Alla Rustica" RV 151 complete. Voices of Music, original instruments 8K
+H4JKX3_uOzE 4:01 John Dowland: Flow my tears (Lachrimae). Molly Netter, soprano & The Voice of the Viol consort. 8K
+n4-VvB3om0M 9:46 Vivaldi - Concerto for Two Violins in A Minor RV 522, Complete. Lodge & Lee, Voices of Music 8K
+5rqfFcifI6M 2:42 Praetorius: Es ist ein Ros Entsprungen. The Voice of the Viol, Molly Netter, soprano.
+YH2jNDnt4KA 3:27 Vivaldi: Concerto in C Major for Recorder, Violins and Oboes. III. Allegro non molto. RV 557 8K
+GvgYpWbwEvA 2:17 Vivaldi: Concerto in C Major for harpsichord & baroque mandolin. II. Largo RV 557/R 8K
+0qL-g5Fje6c 3:14 Vivaldi - Concerto for Two Violins in A Minor RV 522, III. Allegro. Lodge & Lee, Voices of Music 8K
+GoOL1eB8qYg 8:22 Bach - Cello Suite No. 6 in D Major BWV 1012, Allemande. William Skeen, baroque cello 4K UHD
+X2w2au-7EMU 3:25 Vivaldi - Concerto for Two Violins in A Minor RV 522, II. Larghetto. Lodge & Lee, Voices of Music 8K
+l4Qta17OrD8 3:19 Vivaldi: Concerto in C Major for recorder, violins, oboes, harpsichord & mandolin RV 557 8K
+5ln51ICg2gM 4:16 Vivaldi: Concerto for Oboe and Bassoon in G Major RV 545. I. Andante Molto. Voices of Music 8K
+6aB5Q1jfRWw 6:24 Bach: Violin Concerto in E Major BWV 1042, II. Adagio. Elizabeth Blumenstock, baroque violin 8K
+6lZulpXp1mw 3:24 Vivaldi: Violin Concerto in G Minor RV 317, 3. Allegro, YuEun Kim, baroque violin Voices of Music 8K
+ogBz3cwx8kI 8:19 Bach: Violin Concerto in E Major BWV 1042, I. Allegro. Elizabeth Blumenstock, baroque violin 8K
+oUfkgQx5Noc 20:15 Van Proosdij: Wu Song and the Tiger (world premiere complete). Voices of Music & Balam Dance Theatre
+wm3_0QwzDrg 3:18 Vivaldi - Concerto for Two Violins in A Minor RV 522, I. Allegro. Lodge & Lee, Voices of Music 8K
+bG6f2-NKJeY 5:36 Vivaldi: Violin Concerto in E Minor RV 278. Augusta McKay Lodge, baroque violin, Voices of Music 8K
+MODjP6ZxwwQ 5:01 Virgiliano: Ricercar Quarta (Il Dolcimelo), Hanneke van Proosdij, renaissance recorder 8K UHD video
+vkwyPyKEJCc 6:26 Handel: Il volo così fido (Riccardo Primo), Amanda Forsythe, soprano; Hanneke van Proosdij, recorder
+1FeRGitmY30 4:18 C.P.E. Bach: Symphony in G Major, Presto. Voices of Music, period instruments Wq182/1 (8K video).
+ODqoVr5L5B0 2:29 When Daphne from fair Phoebus did fly - Amanda Forsythe, soprano, with the Voice of the Viol 8K
+A4qBONsUgL8 4:01 Handel: Convey me to some peaceful shore (Alexander Balus). Amanda Forsythe & Voices of Music 8K
+pG1-9Lj_UcM 2:42 M. Cazzati: Ciaccona in D Major, Voices of Music 8K UHD video
+YC7Plo5Eme0 2:28 Josquin: De tous biens plaine | Voices of Music, renaissance recorders
+fT-etUiQAvg 1:39 Leonardo da Vinci: A Musical Odyssey - Helas que pourra devenir (Caron) Petrucci Odhecaton (1501)
+kZheKF4wnMg 16:10 Mozart: Divertimento in D Major K. 136, complete. Voices of Music original version 8K video
+DV5hkE_D_q4 14:54 Corelli: Christmas Concerto complete, Opus 6 No. 8. Voices of Music, original instruments, 8K video
+F9-0fjdCrzE 2:14 Orlando Gibbons: The Silver Swan. Molly Netter, soprano, The Voice of the Viol consort 8K video
+kolanw80elw 4:15 John Dowland: Lachrimae Antiquae Pavan, The Voice of the Viol consort, Elizabethan viols. 8K video.
+zuzaP96tJ5g 2:30 Leonardo da Vinci: A Musical Odyssey - Alla Caccia (Pixérécourt Chansonnier)
+HcC6TKwzp-k 7:54 Mozart: Violin Concerto No. 1 in B Flat Major K.207 II. Adagio | McKay Lodge & Voices of Music 8K
+9sX1A9lbl74 2:23 Gibbons: Fantasia à2, Saskia Coolen & Hanneke van Proosdij, renaissance recorders, Voices of Music
+Ty2U65aCVmc 7:39 Maddalena Sirmen: Violin Concerto in B Flat Major, Shelby Yamin, classical violin, Voices of Music
+hqE1SN2_RIg 5:04 Joy to the person of my love, Molly Netter, soprano; the Voice of the Viol viola da gamba consort 8K
+WgYBwn9VlSI 4:26 Mozart: Divertimento in D Major K. 136 III. Presto. Voices of Music original version 8K video
+yW_mrkpsTcA 4:34 Schubert - Litanei auf das Fest Aller Seelen D343, Thomas Cooley, tenor & Eric Zivian, fortepiano 8K
+vtuG2ufaez4 14:01 Vivaldi: Violin Concerto in E Minor "Il Favorito" RV 277 complete; Chloe Kim & Voices of Music 8K
+OqCk-_lr4dk 3:52 Vivaldi: Violin Concerto in G Minor RV 317, I. Allegro, YuEun Kim, baroque violin Voices of Music 8K
+DRwHGHrnrHc 16:25 Mozart: Exsultate Jubilate, complete. Nola Richardson & Voices of Music, original instruments 8K
+VVowIKOmSU0 6:05 Buonamente: Sonata for 3 violins in D Minor, Voices of Music; Lodge, Blumenstock & Freivogel 8K
+RWRnd5IRFv8 3:30 Bach: Violin Concerto in E Major BWV 1042, III. Allegro assai. Elizabeth Blumenstock, baroque violin
+sndz5RRZ90s 7:40 Mozart: Violin Concerto No. 1 in B Flat Major K.207 Augusta McKay Lodge & Voices of Music 8K
+sbiwfpINgkY 6:16 Matteis - Aria Amorosa. Voices of Music, original instruments 8K
+KCkATWUNc4I 7:29 Mozart: Tu Virginum Corona (Exsultate K165). Nola Richardson, soprano, Voices of Music. Original 8K
+3ceM6jrl-5o 4:00 Dowland: His golden locks, Molly Netter, voice; The Voice of the Viol consort
+_LeuXVyz2rg 5:18 Mozart: Exsultate Jubilate, Nola Richardson & Voices of Music. I. Exsultate. Original, K. 165 8K
+HIX-i6n3Ahs 5:01 Vivaldi: Violin Concerto in E Minor "Il Favorito" RV 277 III. Allegro. Chloe Kim, Voices of Music 8K
+Hybi-fO-Mic 2:11 If ye love me - Tallis - Molly Netter, soprano. The Voice of the Viol gamba consort 8K video
+xfh7xPYQVk8 4:01 Bach: Violin Sonata No. 1 in G Minor BWV 1001 (Adagio). YuEun Gemma Kim, baroque violin 8K video.
+yHPhF1X51yI 5:07 Vivaldi: Violin Concerto in E Minor "Il Favorito" RV 277 Chloe Kim & Voices of Music II. Andante 8K
+pLQ2hRkVbXQ 3:37 SFCV Audience Choice Awards 2024 Voices of Music
+vrCHpV-ucYw 2:06 Schubert: Die Forelle (The Trout) D.550. Thomas Cooley, tenor; Eric Zivian, fortepiano (original) 8K
+PZagbelHUww 3:27 SFCV Audience Choice Awards Nominations: Voices of Music 2023-2024
+84b1Gj4Af5Q 3:20 Telemann: Oboe Concerto in E Minor 2. Allegro molto. Marc Schachman, baroque oboe, Voices of Music
+EbnWGKjJwuA 2:31 Matteis: Ground after the Scotch Humour. Voices of Music, original instruments, filmed in 8K
+U5AO5G4VwNA 4:55 Pachelbel Canon in D Major. Voices of Music, original version, filmed in 8K video
+OoMBeucBSeU 5:45 Handel: Rompo i lacci (Flavio), Christopher Lowrey, countertenor, Voices of Music (HWV 16) 8K
+pLlP9rxr6qo 5:59 Mozart: Divertimento in D Major K. 136, 2. Andante. Voices of Music original version 8K video
+iJiA0lhNc4k 2:53 Holborne: Pavan Posthuma. The Voice of the Viol viola da gamba consort, 8K UHD video.
+HxeehvRHJaQ 1:36 Holborne: Galliard "Nec Invidio." The Voice of the Viol, Hanneke van Proosdij, recorder. 8K video.
+hE6Yep_CN3o 5:41 BFX 2024: Voices of Music & Amanda Forsythe, Handel & Vivaldi, Lee, McKay Lodge, Skeen, van Proosdij
+nOnIQPlQ6es 6:26 Mozart: Divertimento in D Major K. 136. I. Allegro. Voices of Music original version 8K video
+c3sRWG5TCF8 4:32 Vivaldi: Violin Concerto in E Minor "Il Favorito" RV 277 Chloe Kim & Voices of Music I. Allegro 8K
+sRKy0nAXDsY 12:48 Corelli: La Follia (arr. Geminiani), complete. Voices of Music, original instruments | 8K UHD video
+jeX8l3cZa94 1:48 Holborne: Almaine "The Night Watch." The Voice of the Viol viola da gamba consort. 8K UHD video
+i5AaaslmgHA 3:20 Telemann: Oboe Concerto in E Minor TWV 51:e1 Voices of Music, Marc Schachman, baroque oboe 8K
+YAXR9emlxac 3:15 Ravenscroft: The Three Ravens | Molly Netter, soprano, the Voice of the Viol 8K
+c8Hh-8AzA5I 13:50 Bach - Violin Concerto in A minor BWV 1041 - full. Rachell Ellen Wong | Voices of Music 8K original
+NPU0w0W2rHM 3:13 Mozart: Alleluia from Exsultate Jubilate, Nola Richardson & Voices of Music. Original, K. 165 8K
+sZh-NN-T1uY 2:59 William Byrd: Fantasia a 4 No. 1, The Voice of the Viol renaissance viola da gamba consort 8K
+OXkL31aarhw 3:43 Greensleeves, Molly Netter, soprano, & the Voice of the Viol consort. Original version, 8K
+0h2-swtucz8 2:22 Telemann Don Quixote Suite (Burlesque de Quixotte) "Windmill Battle" Voices of Music TWV 55:G10 8K
+MIZo0zXksIE 10:18 Biber Passacaglia - Augusta McKay Lodge, baroque violin "The Guardian Angel" (Mystery Sonatas) 8K
+gs8s_6Ex04Y 16:00 Vivaldi: Violin Concerto in D Major (Grosso Mogul), complete | Augusta McKay Lodge RV 208 8K
+Ewrrgz0cL4A 2:41 Voices of Music: Please vote in the SFCV Audience Choice Awards 2023
+IZovibvtoYg 3:48 Debussy: Syrinx for solo flute, Emi Ferguson, historical flute 8K
+lXFZnId4oGw 4:04 Corelli Christmas Concerto: Pastorale | Voices of Music (original instruments) 8K
+yHIBfRUnZeA 3:56 Bach: Violin Concerto in A Minor BWV 1041, 3. Allegro assai. Rachell Ellen Wong & Voices of Music 8K
+gPweCv6FVrc 4:26 Wu Song and the Tiger: Tiger Dance and Tiger Battle Voices of Music & BALAM Dance Theatre 8K
+u-FtHLQZ4pI 2:34 Die Katzenpfote (The Cat's Paw, Glogauer Liederbuch), renaissance recorders Voices of Music
+I1Su2bLqe7A 1:46 Thomas Morley: Joyne hands (See mine own sweet jewel) Voices of Music 8K video
+gjNtDobzgLY 6:30 Bach - Violin Concerto in A Minor BWV 1041, Andante – Rachell Ellen Wong & Voices of Music 8K
+s0mS4VAuW0Q 2:08 Wu Song and the Tiger: Tavern scene (Hanneke van Proosdij) Voices of Music & BALAM Dance Theatre 8K
+7RnhkI0jNqk 8:19 Vivaldi: Violin Concerto in D Major (Grosso Mogul), 3. Allegro | Augusta McKay Lodge RV 208 8K
+7rdu25GnKVQ 4:00 Playford: John come kiss me now (Mell & Baltzar), Augusta McKay Lodge, baroque violin 8K
+GQW_BxwamYQ 3:57 Bach - Violin Concerto in A minor BWV 1041 - 1st mvt Allegro Rachell Ellen Wong | Voices of Music 8K
+zcGRgz70nKw 2:55 Vivaldi: Violin Concerto in D Major (Grosso Mogul) Grave Recitativo, Augusta McKay Lodge, RV 208 8K
+EXAV623fem4 5:48 Vivaldi: Violin Concerto in D Major (Grosso Mogul), Augusta McKay Lodge, Voices of Music RV 208 8K
+p346kZrbSkA 3:53 Vivaldi: Concerto for two violins and two cellos in D Major RV 564 , 3rd mvt. Voices of Music, 8K
+2C1kqb8zc0I 3:29 Bach: Cello Suite in C Major BWV 1009, Courante. Rachel Podger, baroque violin BFX 2022 (SFEMS) 8K
+uQNJDowTuvk 7:15 Vivaldi: Violin Concerto in A Minor RV 356 Op. 3 No 6, full. Augusta McKay Lodge, Voices of Music 8K
+7gv848uIuNc 23:21 Bach - Violin Sonata No. 3 in C Major BWV 1005, Rachell Ellen Wong, baroque violin. Voices of Music
+4iWekk-0g3U 2:20 Vivaldi: Violin Concerto in A Minor RV 356 Presto. Augusta McKay Lodge, Voices of Music Op 3 No 6 8K
+yJ8UunI4YCE 1:05:37 Handel's year in opera: Voices of Music webinar with Nicholas McGegan
+_aFxkzErVuI 2:30 Vivaldi: Violin Concerto in A Minor RV 356, Largo. Augusta McKay Lodge, Voices of Music Op 3 No 6 8K
+qLX6lqUppH8 3:02 Vivaldi - Violin Concerto in A Minor RV 356, Augusta McKay Lodge & Voices of Music Opus 3 No 6 8K
+TOU8WNZRi_g 3:24 Bach: Cello Suite No. 1 in G major BWV 1007, Prelude. Phoebe Carrai, baroque cello, Voices of Music
+b7QIq44hiMI 1:49 California Poppies 8K video. Bach Goldberg Variations, Aria. Hanneke van Proosdij, harpsichord
+aryDMAP6oug 42:04 Vivaldi Four Seasons: complete, original version. Voices of Music, Freivogel, Moore, Youssefian. 4K
+9NslVMi7liE 2:13 Josquin des Prez: In te Domine speravi, Voices of Music.
+XEvsYkTSekY 9:21 Vivaldi: Concerto in D Minor for two violins & cello RV 565, Voices of Music. Moore, Wong & Skeen.
+UIdwCrfDNjU 11:55 Vivaldi Four Seasons: Autumn (Autunno) Full, original version. Carla Moore & Voices of Music RV 293
+_QdvHZhbK6c 2:33 Vivaldi Four Seasons: Autumn (L'Autunno) II. Adagio molto; van Proosdij & Voices of Music RV 293 4K
+uw3GaQZmsyc 4:13 Vivaldi Four Seasons: Autumn (L'Autunno) 3rd mvt. Allegro. Carla Moore & Voices of Music RV 293 4K
+1iosQ6bBiNk 7:46 Classical music video basics, Augusta McKay Lodge
+Vdw85KESaY8 5:54 Vivaldi Four Seasons: Autumn (L'Autunno) I. Allegro. Carla Moore & Voices of Music RV 293 4K
+51g464g16AE 4:23 Luzzasco Luzzaschi: I' mi son giovinetta, Sophie Junker and Sherezade Panthaki, Concerto delle Donne
+FxfdQj6z4bM 3:15 Couperin: Le Rossignol en Amour | Hanneke van Proosdij, sixth flute (recorder); D. Tam, harpsichord
+sX6aoJ6SPZA 14:17 Tartini: Violin Sonata in G Minor "The Devil's Trill" Rachell Ellen Wong, baroque violin.
+fELQPjRmio4 56:52 Nicholas McGegan: Bach and the dance Voices of Music Webinar 2020
+Lb9yi0lyrLA 22:25 J.S. Bach: Motet BWV 227 "Jesu, meine Freude" | Vox Luminis, Lionel Meunier, live *4K* concert video
+f0bt2xgv6k8 9:51 Vivaldi: Cello Concerto in D Minor RV 407 (Full); William Skeen, baroque cello, Voices of Music 4K
+hN8w-V22sZs 4:30 Nicola Matteis Jr: Fantasia in A Minor; Chloe Kim, baroque violin. Voices of Music 4K UHD video
+mAJ9Ifcfqew 13:33 Beethoven - Moonlight Sonata (Full) No. 14 in C Sharp Minor, Eric Zivian fortepiano (original) 4K
+0c3xIzMk-8k 4:56 Claudio Monteverdi: Laudate Dominum in Sanctis Eius; Sherezade Panthaki & Voices of Music (SV 287)
+ECPF_u9AQQY 8:45 Handel Julius Caesar: Aure, deh, per pietà (Giulio Cesare),Christopher Lowrey & Voices of Music 4K
+N7S7EgY73vE 12:19 Ornamentation in the violin sonatas of Arcangelo Corelli; Augusta McKay Lodge | Voices of Music
+6jVAoeaZAF4 5:36 Bach - Cello Suite No. 6 in D Major BWV 1012, Prelude. William Skeen, baroque cello 4K UHD
+BWZoYpDLDX0 8:18 Barbara Strozzi: O Maria (Sacri Musicali Affetti, Op. 5) Sophie Junker, soprano & Voices of Music 4K
+Fap-jNhXxNc 53:07 Robert Mealy, director of Historical Performance at Juilliard, interview with Voices of Music 2021
+vEJzaMf4PG4 2:56 Corelli: Sonata in C Major, adagio (Op. 5 No. 3) Augusta McKay Lodge, baroque violin & Paolo Zanzu
+5zEKwJiuqfw 12:02 Heinrich Biber: Violin Sonata in F Major, Augusta McKay Lodge, Voices of Music (C 140)
+HOstLd2p7J4 2:56 François Couperin: Musette from Concerts Royaux, 3ème Livre, Voices of Music 4K
+Rbq-2C6KHqs 3:33 Carnival song: Canto Delle Parete (song of the net), Voices of Music, Leonardo da Vinci project
+cIHzxgJAC-I 6:44 Torelli: Trumpet Concerto in D Major, complete (Roger 188). Voices of Music & Dominic Favia 4K UHD
+nBLdDOqMQj0 6:34 Beethoven: Moonlight Sonata, 3rd mvt. "Presto agitato." Original version, Eric Zivian, fortepiano 4K
+qQ33_1OSve0 3:05 Telemann: Flute Concerto in D Major, Hanneke van Proosdij, 6th flute, Pastorale "Napolitano" TWV 51
+PHfTJL5YBwI 3:26 Vivaldi: Cello Concerto in D minor, RV 407. William Skeen, baroque cello, Voices of Music 4K
+YoUpaXovceY 1:19:46 Women music directors: Chloe Kim, Rachel Podger, Valérie Sainte-Agathe and Hanneke van Proosdij
+frQlELN_Mw4 1:54 Purcell: The Triumphing Dance (Dido and Aeneas) Voices of Music & SF Girls Chorus 4K UHD Video
+4ukUtDj1vYM 8:29 Vivaldi: Abbia respiro il cor | Christopher Lowrey, countertenor (La Silvia RV 734) Voices of Music
+gY32c2Bi36I 2:22 Passereau: Il est bel et bon by - Vidita Kanniks, voice. 4K video; sargam & French. Voices of Music.
+4w0KroHzokA 5:50 Handel: Dove sei, amato bene (Rodelinda); Christopher Lowrey, countertenor, Voices of Music (HWV 19)
+nn4ggZX_1ZU 1:53 Domenico da Piacenza: Rostiboli gioioso, Voices of Music: Leonardo da Vinci program (Rostibuli) 4K
+7k7Lj3FxCzc 7:49 Dario Castello: Sonata Quarta - Voices of Music; Elizabeth Blumenstock & Alana Youssefian 4K
+mK3C4ekbM8U 4:40 Scottish fiddle tunes: Languor of Love, Reels & Ruffian's Rant | Augusta McKay Lodge, baroque violin
+M0BIhXci3fA 6:36 SFCV Audience Choice Awards, 2019–2020: Vote for Voices of Music :)
+LswAinw7JUU 11:03 Vivaldi: Gelido in ogni vena (Winter) from Farnace Christopher Lowrey, countertenor, Voices of Music
+QyUc-fVs0_0 3:02 Vivaldi: Per lacerarlo (Teuzzone), Christopher Lowrey, countertenor, with Voices of Music 4K
+2oxBdJSGBaU 4:40 Hymn to Time, by Ursula K. Le Guin; Bach violin sonata No. 3, Adagio, Augusta & Georgina McKay Lodge
+PAkX86NFlVU 3:53 Vivaldi Recorder Concerto in C Major RV 443 ("flautino") animation, Hanneke van Proosdij, sopranino
+EGMT7Tyg-bg 2:49 Beethoven: Moonlight Sonata, 2nd mvt. "Allegretto." Original version, Eric Zivian, fortepiano 4K UHD
+D4sR2Sm4HUE 2:16 Torelli: Trumpet Concerto in D Major, final allegro (Roger 188). Voices of Music & Dominic Favia 4K
+GGR0QJBeDNg 13:45 J.S. Bach - Chaconne in D Minor BWV 1004 (Partita No. 2) | Augusta McKay Lodge, baroque violin 4K
+BIf6vL9LDuw 3:56 Handel: Air from the Water Music; FestspielOrchester Göttingen, Laurence Cummings, director HWV 349
+3L5Dut4T1TU 6:19 Johann Schop: Pavan in F Major, Voices of Music. Cornetto, sackbuts and strings. 4K UHD video.
+hb1_GaI-1yI 55:04 Purcell: Dido and Aeneas (complete opera). San Francisco Girls Chorus & Voices of Music | 4K video
+EpSqucjcJ6A 2:11 Purcell: Fear no danger (Dido & Aeneas) SFGC & Voices of Music, Emma Powell & Nia Spaulding 4K UHD
+ovVcjkjqiwc 35:37 Bach Chaconne, Telemann, Paganini & Fiddle tunes, Augusta McKay Lodge, baroque violin 4K UHD video.
+fQ7KzGNmgbU 7:58 Antonio Vivaldi: Mentre dormi (L'Olimpiade), Christopher Lowrey, countertenor; Voices of Music 4K
+UeDJBsyY6T8 5:52 Guillemain: Capriccio 12 (Opus 18), Augusta McKay Lodge, baroque violin
+Pj76yJPBEj4 3:34 How to play Vivaldi's Spring from the Four Seasons - Alana Youssefian, baroque violin
+LSmqY1RIxPY 17:01 Bach: Brandenburg Concerto No. 6 in B Flat Major BWV 1051, Voices of Music 4K UHD
+3MuQDBcAJ7Q 1:51 Bach: Violin Partita No. 3 in E Major BWV 1006, Gigue. Augusta McKay Lodge, baroque violin 4K UHD
+Opisez5uQKY 4:21 Telemann: Fantasia No. 7 in F Major TWV 40:8, Hanneke van Proosdij, recorder 4K
+W-Qo7nYuKgg 3:29 Henry Purcell: Dido & Aeneas - Overture. Voices of Music and the San Francisco Girls Chorus 4K
+IMzKY1rsJ6c 3:06 Purcell: Come away, fellow sailors & Sailors' dance (Dido), Allegra Kelly, SFGC, Voices of Music 4K
+Ir1ZTkTRfqI 2:39 Monteverdi: Damigella tutta bella (Scherzi Musicali); Sophie Junker & Sherezade Panthaki, sopranos
+2kkpqJkYmms 7:06 Giovanni Battista Fontana: Sonata Seconda. Alana Youssefian, baroque violin & Voices of Music 4K UHD
+sTLslDG_T8E 1:01:46 Leonardo da Vinci: A Musical Odyssey. Music and poetry from the time of Leonardo. Voices of Music 4K
+4r8MrbD3iH0 1:07 Balancing act: How to shift on the baroque violin. Alana Youssefian and Voices of Music 4K UHD.
+_M4rS8v_3lk 4:34 Handel: Waft her, Angels, through the skies; Thomas Cooley, tenor, Voices of Music (Jephtha) 4K UHD
+NkopCJmS4-4 4:10 Marco Uccellini: La Bergamasca; Voices of Music with Elizabeth Blumenstock & Alana Youssefian 4K UHD
+3LiztfE1X7E 11:10 Vivaldi Four Seasons: Spring (La Primavera) compleet, Alana Youssefian & Voices of Music RV 269 4K
+dMVI7z5GYRU 10:33 Heinrich Biber - Battalia à 10 (1673) Voices of Music 4K
+11H6jo8BEw8 4:45 Vivaldi Four Seasons: Spring (La Primavera), III. Allegro, Alana Youssefian & Voices of Music RV 269
+hmMTYfxe-do 4:49 Handel - Partenope "Furibondo spira il vento" Christopher Lowrey, countertenor, Voices of Music 4K
+xOLQd_pUbxs 3:18 Handel Sarabande in D Minor HWV 437 (La Folia), Voices of Music, 4K Ultra High Definition video
+DpHVJRiMx44 1:00 Heinrich Biber: Cello Battle (die Schlacht) from La Battalia, Voices of Music
+2S7GdJtGJn4 3:02 Vivaldi Four Seasons: Spring (La Primavera), Largo, Alana Youssefian & Voices of Music RV 269 4K
+89CCiOAnUb4 3:04 Vincenzo Capirola: Ricercar alla Spagnola; David Tayler, renaissance lute 4K
+t1ewWKDuSfk 2:31 Jacob Obrecht: Tandernaken | performed on renaissance recorders | Voices of Music 4K
+PVCtCxnJyKY 7:09 Handel: As steals the morn (L'Allegro, HWV 55) Amanda Forsythe & Thomas Cooley, Voices of Music 4K
+UwrKzMJ60bM 5:25 An Introduction to the baroque flute | Kate Clark & Voices of Music 4K
+jxitvIvkgRg 4:34 Salamone Rossi: Sonata quarta sopra l'aria di Ruggiero Voices of Music 4K
+OMtPbul-LV0 3:57 Bach: Flute Sonata in E Minor BWV 1034, Andante. Voices of Music: Kate Clark & Hanneke van Proosdij
+lJ9VwxwwyFo 2:29 Heinrich Isaac: Palle Palle, Voices of Music (Leonardo da Vinci: a Musical Odyssey) 4K
+WAQoml_OUjY 8:44 Handel: Tu del Ciel ministro eletto (Trionfo del Tempo); Amanda Forsythe & Voices of Music 4K
+4LPu08ZI4uM 2:44 O Virgo Splendens (Llibre Vermell de Montserrat) Andrew, Hanneke & Saskia, tenor recorders
+6s5zRT8hqVs 3:57 San Francisco Classical Voice (SFCV) Best of the Bay Awards 2018-2019, Voices of Music 4K
+ui1zvqV4FqM 10:55 Schmelzer: Sonata Quarta; Elizabeth Blumenstock, baroque violin; Voices of Music
+bQujhuIst5E 3:55 Vivaldi Four Seasons: Spring (La Primavera), Allegro, Alana Youssefian & Voices of Music RV 269 4K
+t38KhMXo7zc 4:54 Handel: Un pensiero nemico di pace, from Trionfo del Tempo. Amanda Forsythe & Voices of Music 4K
+Xmy6yKRYb2U 1:55 YouTube Creator Awards Unboxing Video | Voices of Music
+irco0KyYLBk 12:54 Handel: Sweet Bird (L'Allegro). Amanda Forsythe, Emi Ferguson & Voices of Music 4K
+Mg3nVSe--f4 19:52 Bach - Cello Suite No. 2 in D Minor BWV 1008, complete; Eva Lymenstull | Voices of Music 4K
+iaU3ubReGU0 4:19 Handel: Tune your harps (Esther); Voices of Music, Thomas Cooley, tenor 4K
+dEFceMhcyns 2:39 Music from Azerbaijan: Bakhcha Kurd | Voices of Music; Imamyar Hasanov, kamancha.
+yIQ6V38MkEw 8:39 Antonio Bertali: Ciaccona - Voices of Music; Alana Youssefian, baroque violin. 4K UHD video
+v9FiIdTJVjU 5:33 Crooked tunes from Québec; Laura Risk & Voices of Music
+tod_rbkXAHI 2:52 J.S.Bach - Arioso from Cantata 156 (Sinfonia); Marc Schachman, baroque oboe, Voices of Music 4K
+x04g3gzH7HA 1:51 Bach - Badinerie Suite No. 2 (BWV 1067) Emi Ferguson, flute. Voices of Music, original version 8K
+LslVTah2iUw 3:10 Purcell Dido & Aeneas: To the Hills & the Vales | Triumphing Dance SFGC & Voices of Music
+8fX8qqotwqk 5:48 Niel Gow's Lament - Laura Risk with Voices of Music | Scottish fiddle tune
+btDtiSUk7Kc 11:45 Musical Crossroads: composed by Hanneke van Proosdij; kamancha, lute, harp, recorder (premiere)
+lI0S-qUS5pw 5:31 La Folia (Folías de España, based on Vivaldi), improvisation by Voices of Music; 4K video
+zWCkLkWV2Jk 5:10 Bach: Partita No. 3 in E Major BWV 1006; Alana Youssefian, baroque violin 4K
+x1E-slCi3jQ 2:26 Torelli: Trumpet Concerto in D Major "Estienne Roger 188" Voices of Music with Dominic Favia 4K
+q2bDnQ5pJCs 4:35 Czardas (Csárdás) - Vittorio Monti - Voices of Music, Alana Youssefian, baroque violin 4K
+5C7GtE1WCUs 5:02 Leonardo da Vinci: L'Amoroso and La Gelosia (Domenico da Piacenza), Voices of Music 4K
+EafnOMpVm2k 3:36 Save the Arts: Giving Tuesday; Giving Everyday
+xxHkPm4TP5c 4:44 Claudin de Sermisy: Tant que vivray; Voices of Music (Leonardo da Vinci: a Musical Odyssey) 4K
+_V6HpGCmId0 7:24 Vivaldi: Concerto in D Major RV 212 "St. Antonio," Alana Youssefian & Voices of Music, with cadenza!
+2piuzrNdmYo 5:01 Philippe Verdelot: Italia mia (Petrarch), Voices of Music 4K UHD video.
+3Df14eGXzPk 5:22 Beethoven: Moonlight Sonata, original version, Eric Zivian, fortepiano 4K UHD
+ZdDjAITa4xc 2:26 Josquin des Prez El Grillo (the cricket); Voices of Music (Leonardo da Vinci program) 4K UHD
+UOzRND7DtTA 4:07 Leonardo da Vinci: Canto di lanzi sonatori di rubechine, Voices of Music (Carnival song)
+W4bjXIedYm0 5:48 Tielman Susato: Dance Suite (Danserye); renaissance bagpipes & cornamuses
+wwyS_pZ3s1o 4:56 Nicola Porpora: Nunc Dimittis; San Francisco Girls Chorus and Voices of Music 4K UHD
+J-Eex4ZvOAc 3:32 Jacob van Eyck: Courant, of Harte diefje waerom zoo stil; Hanneke van Proosdij, recorder
+mbwAYB939gA 3:35 Tango Malena: Alfia Bakieva, baroque violin; Leonhard Bartussek, baroque cello 4K UHD
+vmBln2jXRGU 3:55 Vivaldi: Laetatus sum RV 607. San Francisco Girls Chorus and Voices of Music 4K
+0h1CKYQX7q8 3:52 Cabezón: Diferencias sobre El Canto del Caballero; Hanneke van Proosdij, harpsichord. 4K UHD
+cNV6TBASkoQ 3:17 Schubert: An die Musik; Nicholas Phan, tenor, Eric Zivian, fortepiano 4K UHD
+Y2H4ncdS0hE 6:17 Leonardo da Vinci program: Busnois - Seule à par moy; Voices of Music, Stefanie True, soprano 4K UHD
+fRKRYyIraUk 2:30 Bach - Cello Suite No. 2 in D Minor BWV 1008, Courante; Eva Lymenstull 4K UHD
+Sw7VpJbSuJc 3:47 Bach - Cello Suite No. 2 in D Minor BWV 1008, Allemande; Eva Lymenstull 4K UHD
+VEV_25Zad8U 2:06 Jacob van Eyck: Boffons; Hanneke van Proosdij, recorder 4K UHD
+LOI9KK2eRWY 9:30 Beethoven: Violin Sonata No. 1 in D Major (Op. 12); Rachell Wong, violin; Jennifer Lee, fortepiano
+nsfYMSI3cuA 5:11 Baroque violin and modern violin: What's the difference? An introduction. 4K UHD
+fhgR4Azc-mA 1:23 Biber Battalia, Die liederliche Gesellschaft von allerley Humor; Voices of Music (quodlibet) 4K
+HGNV57xZcDI 7:45 Domenico Sarro | Recorder Concerto in D Minor, complete; van Proosdij & Voices of Music 4K UHD
+RvDt_KtOzbc 11:37 Vivaldi Four Seasons: Summer (L'Estate), complete; Freivogel & Voices of Music, RV 315, original 4K
+ic8WFqApNP8 1:14:14 Alessandro Grandi: Venetian Christmas Vespers, complete. Voices of Music
+YlfgtCfbOfE 4:29 Bach - Cello Suite No. 2 in D Minor BWV 1008, Prelude; Eva Lymenstull, original baroque cello 4K
+vTz4fybXBR4 9:10 Schubert: Trio Op. 100 - Andante con moto. Freivogel, Tomkins & Zivian 4K UHD (D. 929)
+wwaSSQnceu8 4:00 Vivaldi Four Seasons: Summer (L'Estate), Presto; Cynthia Freivogel, Voices of Music, RV 315 4K UHD
+4JWYIY3icUg 10:02 Michael Praetorius: Dances from Terpsichore; Voices of Music 4K UHD
+ycoyLYl_2-o 2:49 Vivaldi Four Seasons: Summer (L'Estate), Adagio; Cynthia Freivogel, Voices of Music, RV 315 4K UHD
+FaSEO4-5mLU 4:36 Handel aria: Angels ever bright and fair (Theodora); Stefanie True & Voices of Music 4K UHD
+5MWRUtxa0rg 6:01 Bach: Agnus Dei from the Mass in B Minor; Meg Bragle & Voices of Music BWV 232 4K UHD
+eNpZ0RzE1eE 5:50 Vivaldi Four Seasons: Summer (L'Estate), Allegro; Cynthia Freivogel, Voices of Music, RV 315 4K UHD
+L0iGJl8Z0c4 5:19 Jacob van Eyck: Pavane Lachrymae (Lachrimae, Flow my tears); Kate Clark, renaissance flute
+K5CfqcN3wmY 4:43 Hildebrandslied, Es taget, Zart liep; SFEMS Recorder Faculty concert video (4K)
+3Re46bR1cjc 8:55 Vivaldi, Winter (The Four Seasons concertos) animation; Voices of Music with Cynthia Freivogel
+nRGFeOG_yig 1:59 Praetorius: Dances from Terpsichore, Ballet; Voices of Music 4K UHD
+LXFKtjSbDOM 4:44 J.S. Bach: The Italian Concerto BWV 971, Michael Peterson, harpsichord 4K UHD
+FN1jSNWD-ic 2:14 Praetorius: Dances from Terpsichore, Spagnoletta; Voices of Music 4K UHD
+U7y6rZ3y1Vc 1:56 Bach Competition 2017: The Bach Cello Suites
+yoGvKFSvs0o 1:35 Michael Praetorius: Dances from Terpsichore, Courante; Voices of Music 4K UHD
+AGuF2jX2kac 2:14 Pergolesi Stabat Mater: Quae moerebat et dolebat; Meg Bragle with Voices of Music
+MwLz43-oPf0 2:38 William Byrd: In Nomine à 4 (No. 1), The Voice of the Viol 4K UHD
+np0CY1AqtkQ 1:41 Michael Praetorius: Es ist ein Ros entsprungen, Voices of Music 4K UHD video
+4zfu0ZA_8_k 3:20 Handel's Air from the Water music; FestspielOrchester Göttingen, Laurence Cummings, director HWV 349
+vcBZABa-CvQ 1:07 Michael Praetorius: Dances from Terpsichore, Volte (La volta); Voices of Music 4K UHD
+UrgSm52X1tE 7:11 C.P.E. Bach: Cello Concerto in A Minor Wq. 170; William Skeen with Voices of Music, Andante 4K UHD
+QJtmNmh01gg 2:08 Michael Praetorius: Dances from Terpsichore, La Bourée; Voices of Music 4K UHD
+S5wXKVeY7Nc 1:52 Diego Ortiz: Recercada segunda; Elisabeth Reed & The Voice of the Viol 4K UHD
+roc5G_eWWEs 1:35 G.P. Telemann: Ouverture a la Pastorelle~Viste; Voices of Music 4K UHD
+KK3XRsCBhs0 2:48 Juan Bermudo: Pange Lingua Gloriosi; The Voice of the Viol, 4K UHD
+-_E877TUqfU 3:16 Tomás Luis de Victoria: O magnum mysterium; Voices of Music: The Voice of the Viol
+n7gyXNuLQ8Y 5:55 Handel Coronation Anthems: Zadok the Priest HWV 258; NDR Chor & FestspielOrchester Göttingen
+xVvEEmLYPnw 5:33 J.S. Bach: Violin Concerto in E Major BWV 1042, adagio; Rachel Podger & Voices of Music 4K
+G3V-AYG9JYM 5:56 Mozart: Eine kleine Nachtmusik; Valley of the Moon Music Festival, original instruments 4K
+uczsnta4Hcg 4:41 J.S. Bach: Fantasia in A Minor BWV 904; Yuko Tanaka, harpsichord 4K UHD
+f9LKFQQnLeA 6:08 Giovanni Battista Somis: Recorder Sonata in F Major; Hanneke van Proosdij, recorder 4K UHD
+1h4mAceHmrI 3:09 Handel Water Music: Hornpipe; the FestspielOrchester Göttingen, Laurence Cummings, director 4K
+7LIJMVH9WXA 6:41 Matthias Maute: variations for recorder on Handel's Lascia ch'io pianga & The Harmonious Blacksmith
+eePvx9LPXYU 3:03 Shakespeare songs: It was a lover and his lass; Jennifer Kampani with Voices of Music
+cFMb_g6aWNY 6:42 Handel: Sento Brillar (Il Pastor Fido); Christopher Lowrey, countertenor, Voices of Music 4K
+1ZmHCRUT8QY 1:55 Music from Shakespeare's Plays: The Witches Dance, Lisa Grodin & Voices of Music 4K
+USUnFayR1vY 3:45 Vivaldi: Recorder Concerto in C Major RV 443 (flautino); Hanneke van Proosdij & Voices of Music 4K
+fzUdwPqB3hs 6:29 Bach Double: Rachel Podger & Elizabeth Blumenstock BWV 1043 (Violin Concerto in D Minor) 4K
+IvgxENh7GSM 5:43 Tarquinio Merula: Folle è ben che si crede; Jennifer Kampani & Voices of Music 4K UHD
+gPMr9dbTnJk 11:32 Biber: Violin Sonata No. 5 in E Minor, Elizabeth Blumenstock & Voices of Music, 4K UHD video
+JS2_2ZE3M98 9:59 Bach: Brandenburg Concerto 5 in D Major BWV 1050 Laurence Cummings, FestspielOrchester Göttingen
+0VhGlbMjm8Q 2:49 Bach: Sonata from Cantata 182, "Himmelskönig, sei willkommen;" Rachel Podger & Voices of Music
+yIPJSSxJLjE 1:31 Rachel Podger & Voices of Music ~ Berkeley Early Music Festival 2016
+ZPdk5GaIDjo 9:27 Vivaldi Four Seasons: Winter (L'Inverno), original version. Freivogel & Voices of Music RV 297 4K
+bZGZRzk-E3U 8:55 J.C. Bach ~ Lamento: Ach, dass ich Wassers gnug hätte; Christopher Lowrey, countertenor 4K UHD
+EAP7j3B_yIY 3:48 Handel: Ombra mai fu (Serse); Christopher Lowrey, countertenor, Voices of Music 4K UHD
+AXP_RYh0feU 5:36 Pergolesi Stabat Mater: Quando Corpus Morietur & Amen, Voices of Music; original instruments
+WVYvt_hu2pI 7:40 Haydn: Quartet in D Major, Presto Scherzando; Opus 20 No. 4, the New Esterházy Quartet
+MQ6qSLikpzc 2:48 Shakespeare's plays: Holborne's Hearts-Ease (the Honie-Suckle), Voices of Music
+xqQRX0ptw3w 10:24 Biber Passacaglia in G Minor "Guardian Angel": Gabrielle Wunsch, baroque violin
+drSIZhV_sz0 5:44 Pieter Hellendaal: Concerto in E Flat Major Op. 3 No. 4, Pastorale; Voices of Music, 4K UHD
+PouEqAHeBtY 3:52 Vivaldi: Cello Concerto in D Minor RV 407, Largo; Tanya Tomkins & Voices of Music 4K UHD
+ScYPvYM2OUk 4:00 Vivaldi: Winter (Four Seasons), 3rd movement (Storm) Cynthia Freivogel & Voices of Music 4K RV 297
+hXD_wdM-agQ 3:21 Tarquinio Merula: Ballo detto Pollicio, Voices of Music 4K UHD
+25d6PFr272M 3:44 Nicholas Lanier: No more shall meads (Love's Constancy); Anna Dennis & Voices of Music 4K UHD
+OLAhNU3zrXQ 4:15 Bach: The Italian Concerto; Hanneke van Proosdij, harpsichord, with musical animation
+4cqhC_paryE 2:21 Vivaldi: Winter (the Four Seasons), Largo; Cynthia Freivogel & Voices of Music RV 297 4K UHD
+UWg5ugyMjIc 3:45 Vivaldi: Winter (the Four Seasons), 1st mvt. Cynthia Freivogel & Voices of Music 4K UHD RV 297
+-RQqdumu7SI 10:26 Corelli: Concerto Grosso in F Major Opus 6 No. 2, the original and best. Voices of Music 4K UHD
+VPLUSJsl56s 3:21 Voices of Music 2015-2016 Concert Season, Hanneke van Proosdi & David Tayler, directors
+7Ss37I_4mMo 3:12 Telemann: Sonata in G Major TWV 41:G4; Kate Clark, baroque flute, Voices of Music 4K UHD
+iBvI4_7WPbU 4:11 J.S. Bach: The Art of Fugue (BWV 1080), Contrapunctus I; Davitt Moroney, harpsichord 4K UHD
+pjIv4Jx3BjQ 7:57 J.S. Bach: The Art of Fugue (BWV 1080), Contrapunctus VIII; Davitt Moroney, harpsichord 4K UHD
+ryQ2WjmcYWI 2:57 J.S. Bach: Prelude in E Flat Major BWV 998, JungHae Kim, harpsichord
+ZvDb5EmhfZI 3:55 Jacob van Eyck: Engels Nachtegaeltje (English Nightingale, Den Nachtegael); Saskia Coolen, recorder
+X0T6KysSejQ 5:18 J.S. Bach: Partita in A Minor for flute, Allemande BWV 1013; Kate Clark, baroque flute 4K UHD
+VK8WuxD6b2g 5:08 Anne Boleyn's lament: O death, rock me asleep; Anna Dennis & Voices of Music 4K UHD
+mZ3hZpP8VBI 5:17 Bach: The Italian Concerto BWV 971, Andante; Michael Peterson, harpsichord
+Ari2APQFlhM 40:08 Alessandro Grandi 1630 Vespers: Lecture and musical examples, Jeffrey Kurtzman (Voices of Music)
+MmauT8eZcM8 4:13 Arcangelo Corelli: Concerto Grosso in F Major Opus 6 No. 2; 1st part, Voices of Music 4K UHD
+z0Fr5mZe1z8 7:20 J. S. Bach: Toccata in E Minor BWV 914; Hanneke van Proosdij, harpsichord
+-zkPaGnKb5M 5:43 J.S. Bach: Partita in A Minor, Allemande BWV 1013; David Tayler, archlute
+Po6qbbjFJwA 4:54 Henry Purcell: Fairest Isle (King Arthur), Anna Dennis with Voices of Music 4K UHD
+XI9sFlMXeiM 3:03 String crossings on the viola da gamba; Cassandra Luckhardt
+JXJzZ-SOErc 3:33 How to make a beautiful sound on the baroque flute; Kate Clark & Voices of Music
+xdEEmJEcALM 2:58 Girolamo Frescobaldi: Ave maris stella; Hanneke van Proosdij, baroque organ
+yNmxS46YAgg 3:02 Telemann: Fantasia for Flute in D Minor, Dolce TWV 40:7 Kate Clark, baroque flute
+734m1Ln1fcE 2:25 Shakespeare: Take, O take those lips away, Anna Dennis, soprano
+-H--Z9UzQYE 4:28 Henry Purcell: Dido's Lament (Dido and Aeneas); Anna Dennis, soprano, with Voices of Music 4K UHD
+sj-koumxE94 4:34 Francesco Rognoni: Variations on Palestrina's Vestiva I Colli; Rotem Gilbert, recorder
+JTj3ZMmjAiE 12:19 Marin Marais: Le Labyrinthe (the Labyrinth); Cassandra Luckhardt, viola da gamba
+H_He9_zHk8I 4:26 Jean-François Dandrieu: l'Harmonieuse (Pièces de clavecin); Hanneke van Proosdij, harpsichord
+syB9mxe8CHk 3:20 Couperin: Les Barricades Mystérieuses, Hanneke van Proosdij, harpsichord (Baricades Mistérieuses)
+unu_rruvcyw 2:07 Agostino Steffani: Stabat Mater IV; Pro peccatis suae gentis, Voices of Music
+L-boPkQJKDA 2:01 March of the Men of Harlech, performed by the Red Dragon Harp Ensemble
+l563XnqEdJk 7:36 Alessandro Grandi: Venetian Christmas Vespers, Magnificat; Voices of Music
+GE0PtXaDNJ0 0:56 Antonio Vivaldi: Spring (La Primavera) from the Four Seasons RV 269, Voices of Music 4K
+b1jw-5D_rG4 2:35 William Lawes & Robert Herrick: Gather ye rosebuds while ye may; Anna Dennis with Voices of Music
+p9JX1HWyLJA 0:27 Voices of Music: The Great Works Project, a worldwide digital library
+PyMw-QX6c74 7:16 Biagio Marini: Passacaglia in G Minor (Op. 22), Voices of Music (original instruments)
+YDD5GdxZemw 3:16 Alessandro Grandi: Venetian Christmas Vespers, Laudate Dominum; Voices of Music
+fZFmpaP9RCo 4:22 Vivaldi Four Seasons Kickstarter Project; Voices of Music
+-nbVGoGv6ds 3:04 Handel: Music for the Royal Fireworks, Laurence Cummings and Hanneke van Proosdij, harpsichords
+Fb-RFlFiWJM 4:30 Alessandro Grandi: Venetian Christmas Vespers, Laudate Pueri; Voices of Music
+xjPB4GzcKf4 4:52 Agostino Steffani: Stabat Mater XII; Quando corpus morietur, Voices of Music
+RiSdFGjCOuQ 3:48 J. S. Bach, St. John Passion: Ich folge dir gleichfalls; Voices of Music with Susanne Rydén
+2Pf6LNQUcqU 2:31 Agostino Steffani: Stabat Mater; Voices of Music, Jennifer Ellis Kampani, soprano
+H811lltfDCc 5:59 Monteverdi: Con che soavità; Voices of Music, Jennifer Ellis Kampani, soprano
+zOkyftgW4RE 6:59 Monteverdi: Ab aeterno ordinata sum; John Taylor Ward, baritone, with Voices of Music
+TzWYjZOxVT8 3:44 Voices of Music March 2015 Concert: The Stabat Mater of Agostino Steffani
+k5jljflRDIk 4:42 G.F. Handel: Concerto in B Flat Major HWV 325, Largo & Allegro; Voices of Music
+HJuR9WJ1iRY 3:20 Marin Marais: Chaconne in A Major (Book 5); Elisabeth Reed, viola da gamba
+kzH7s_6vMj4 3:09 Shakespeare's plays: Holborne's The Fairie Round (Fairy-round, Voyager Record), Voices of Music
+3smZkpqXYHs 9:36 Arcangelo Corelli: Concerto in D Major Op. 6 No. 4, complete. Voices of Music; original instruments
+3G7vJXYlNbE 5:20 Dario Castello: Sonata Prima (Venice, 1629); Elizabeth Blumenstock with Voices of Music
+HXuhrOAWjyY 8:10 C.P.E. Bach: Cello Concerto in A Major Wq. 172; Tanya Tomkins, Voices of Music, Largo, 4K UHD
+WKyNAel0XPg 7:25 Alessandro Grandi: Venetian Christmas Vespers, Beatus Vir; Voices of Music
+j3YdRHocF4w 9:42 C.P.E. Bach: Cello Concerto in A Minor Wq 170; William Skeen & Voices of Music, original instruments
+ISIk7N9JkwE 7:04 Alessandro Grandi: Venetian Christmas Vespers, Confitebor tibi Domine; Voices of Music
+xrSKXgTks_w 16:17 Bach: Brandenburg Concerto No. 4 in G Major BWV 1049, original with echo flutes; Voices of Music 4K
+6CScQh8jG-s 3:57 Vivaldi: Concerto in C Major for Sopranino Recorder RV 443; Voices of Music, Hanneke van Proosdij
+Bdecvi_--C0 5:12 Bach - Brandenburg Concerto No. 4 in G Major BWV 1049, 3rd mvt., Presto; Voices of Music, 4K UHD
+dIMTR5svTyQ 0:59 Voices of Music: Bach, Handel & Corelli 4K UHD
+Hjy5rfUuLQw 2:59 Voices of Music: Virtuoso Concerto Concert November, 2014
+liOZdjYmPo4 3:46 Music of Scotland: Lord Aboyne's Welcome or Cumbernauld House; Voices of Music
+xJvFb_QwWj0 7:31 Georg Muffat: the rules of violin bowing, David Wilson and Voices of Music
+DgidlVo18BA 7:16 Bach: Brandenburg Concerto No. 4 in G Major BWV 1049, first mvt 4K UHD, Voices of Music
+FnpaMm_2QYc 2:22 J.S. Bach: Prelude in C Minor "pour le luth" BWV 999; David Tayler, archlute UHD video
+3YxXw9jQ1V8 4:45 Voices of Music Concert Season 2014-2015, world-class Early Music performance
+1vgfPdeQmuc 4:16 J.S. Bach: Violin Concerto in A Minor BWV 1041; Carla Moore & Voices of Music , Allegro 4K UHD
+pdsyNwUoON0 11:43 Bach: Brandenburg Concerto No. 3 in G Major BWV 1048, complete, Voices of Music 4K UHD video
+NREThUmVQpA 3:51 D'Anglebert: Prelude in D Minor; Hanneke van Proosdij, harpsichord
+-41BPUDoSRM 3:06 D'Anglebert: Sarabande Grave in D Minor; Hanneke van Proosdij, harpsichord
+Wwqo6RCkubM 5:30 Bach to the Future: Air on the G String (BWV 1068); J. S. Bach, Live video and Animation
+6TX_g1rbAkc 5:17 Bach: Brandenburg Concerto No. 3 BWV 1048, Third movement: Allegro, Voices of Music
+-6N73y822dU 1:00 Voices of Music: Bach, Handel & Corelli
+VVivtti-n-w 2:31 Henry Purcell: Rondeau from Abdelazer (Z570), Voices of Music; performed on original instruments 4K
+RFUFWOx6760 3:49 Arcangelo Corelli: Concerto Grosso Opus 6 No. 4 in D Major; Adagio & Allegro : Voices of Music
+bd9nsOoTCsM 6:16 Lai de Aelis and La Quinte Estampie: Cheryl Ann Fulton, medieval harp; Peter Maund, riq
+bw6YOYBffhg 3:28 Arcangelo Corelli: Concerto Grosso Opus 6 No. 4 in D Major; Allegro & Coda : Voices of Music
+WAhGpzzKjSo 5:16 Giovanni Paolo Cima: Sonata for violin and cello; Voices of Music, Blumenstock and Reed, soloists
+m5WXIfL_ZXg 7:40 Interview with Laurence Cummings and Tobias Wolff, Göttingen Handel Festival 2014
+X1HCWeBEnyM 4:47 Alessandro Grandi: O Intemerata; Voices of Music, Laura Heimes, soprano
+EKo_EmfEPWs 5:34 Lascia ch'io pianga (Händel's opera Rinaldo); Voices of Music with Kirsten Blaise, soprano
+DYfU8DS2C_U 2:01 Voices of Music: Bučimiš; Peter Maund, riq & Hanneke van Proosdij, recorder (Бучeниш)
+tCQgRMjNlrM 7:35 Hanneke van Proosdij: Zephyrus (World Premiere, 2014); composition for recorder and rain drum
+awskf1sk858 4:37 Francesco Barsanti: To danton me; Voices of Music
+BvCxov9qu0Q 4:30 Music of Scotland: Lochaber, performed by Voices of Music (Francesco Barsanti)
+Pe7nP4tBRxE 4:08 Falconieri: La Folia (Folías de España); Voices of Music (La Follia)
+XcrYuDP_eG8 2:21 The Duke of Norfolk, or Paul's Steeple; Hanneke van Proosdij, recorder, with Voices of Music
+u3clX2CJqzs 4:38 John Dowland: Flow my tears (Lachrimae); Phoebe Jevtovic Rosquist, soprano & David Tayler, lute
+g21hYxQvgMs 2:58 Caccini: Amarilli mia bella; Phoebe Jevtovic Rosquist, soprano; David Tayler, archlute
+ixHrZ_dyqXI 2:38 Venetian Christmas Vespers: Deus in Adiutorium & Alleluia, Voices of Music
+UPlE0ibIt0s 4:12 Claudio Monteverdi: Puer Natus (Chiome d'oro); Voices of Music
+34FZsJysehY 5:37 Alessandro Grandi: Dixit Dominus; Venetian Christmas Vespers, Voices of Music
+AlAmO-YMhws 3:00 Monteverdi: Cantate Domino; Voices of Music SV 293
+OKgLEWv9imE 6:02 Bach - Brandenburg Concerto No. 3: First Movement, Allegro; Original Instruments; Voices of Music
+oC7MAlkOTYM 9:01 Tarquinio Merula: Hor ch'è tempo di dormire; Voices of Music with Jennifer Ellis Kampani
+sY_KLDOVLos 4:09 Bach: Brandenburg Concerto No. 4; Andante BWV 1049. Voices of Music; original instruments
+45qt3QPHSdI 6:29 Origami Turtle: Bach French Suite No. 5 BWV 816
+s0a16GUBNVM 6:10 Voices of Music 2013-2014 Concert Season; Hanneke van Proosdij & David Tayler, directors
+5iVdqWYv2tY 0:51 Looking for an agent
+qFt13Op1Z1A 5:36 Johann Heinrich Schmelzer: Sonata IV a Sei; Voices of Music
+VBQPcmmUkkg 11:22 G.P. Telemann Sonata in F major, complete; Gonzalo X. Ruiz, baroque oboe with Voices of Music
+44wLBp4HVw0 3:41 G.P. Telemann Sonata in F major, Allegro; Gonzalo X. Ruiz, baroque oboe with Voices of Music
+26TdDD9LudI 2:20 G.P. Telemann Sonata in F major, Andante; Gonzalo X. Ruiz, baroque oboe with Voices of Music
+ReCaKcGDddM 1:59 G.P. Telemann Sonata in F major, Grave; Gonzalo X. Ruiz, baroque oboe with Voices of Music
+SjLKIUROSOY 7:05 Jean-Philippe Rameau: Cinquième Concert, La Cupis (Concerts en Sextuor); Voices of Music
+bMW-IScRcSw 2:31 Nouvele Amor and Cantiga 139 (Maravillosos e pïadosos)
+dOzL5QABviU 4:23 G.P. Telemann Sonata in F major, Vivace; Gonzalo X. Ruiz, baroque oboe with Voices of Music
+uQRU3NV7ERE 3:55 Handel: Minuetto from the Sonata in E minor HWV 375; Hanneke van Proosdij, voice flute
+nTDvuhz-JC0 4:39 François Couperin: Sixième Concert Siciliéne, Gonzalo X. Ruiz, baroque oboe
+QyJtYOIUBnI 2:29 La Franchoise Nouvelle; Rotem Gilbert, bagpipes; Shira Kammen, vielle & Saskia Coolen, recorder
+hcYFv4r4Gok 2:36 Johannes de Stokem: Hor oires une chanzon (Odhecaton)
+WPDqAriSv6E 13:36 Life of Reed
+zG6ewYxS4Pw 8:41 La Septime Estampie Real and Istampitta In Pro: Hanneke van Proosdij & Peter Maund
+tW7TcX8Lx_s 6:35 Baroque, classical and modern violin bows—an introduction. Lisa Grodin, baroque violin.
+Y6-KkFzVIS8 3:21 Tobias Hume: Loves Farewell; Shirley Edith Hunt, viola da gamba
+pzlw6fUux4o 5:20 Air on the G String (Suite No. 3, BWV 1068) J. S. Bach, original instruments
+Lb5ys8HNbZI 9:31 Tigerlily and the Dragonfly: Voices of Music and BALAM Dance Theatre; Rameau & Telemann
+soIQ52hkMXw 4:31 Pachelbel Canon in D | Original Version Voices of Music 1080p Full HD
+RH_dal6Ux6o 4:22 Voices of Music Great Works Project: Brandenburg Concertos
+52RSxWwSqQA 17:15 Antonio Vivaldi: In turbato mare RV 627, complete. Dominique Labelle and Voices of Music
+BUF8lf9fHaM 4:48 J.S. Bach: Jauchzet Gott in allen Landen BWV 51; Voices of Music with Laura Heimes & John Thiessen
+kPpaeW3DObU 11:15 Antonio Vivaldi: La Follia (La Folia); Voices of Music, Robin Gilbert and Carlos Fittante, dancers
+XFHig0Lgfm8 4:57 Buxtehude: Herr, wenn Ich nur Dich Hab', Cantata BuxWV 38 | Voices of Music, Laura Heimes, soprano
+HxdjPCWpRl8 5:38 Biber: Concerto in C Major for Trumpet and Strings; Voices of Music
+EVM0lpxANEg 6:06 Lully: Chaconne from Phaeton; Carlos Fittante and Voices of Music
+b1IDsPIi6MY 2:25 John Dowland: Tarleton's Resurrection; David Tayler, archlute
+qFVNdp4XiQY 6:45 Palestrina: Nigra Sum; Bruce Dickey, cornetto; Voices of Music
+J4z8W_qO3bQ 2:21 Music of Scotland: Canaries II; David Tayler, archlute
+bRGR4MugweE 3:06 Jean-François Dandrieu: La musète et double de la musète; Hanneke van Proosdij, harpsichord
+NYLlQxFP_HM 5:35 Early Music Mayan Apocalypse
+WvweJ1lLcZc 4:20 Wachet auf, ruft uns die Stimme (Sleepers Awake, BWV 645); Rodney Gehrke, organ 4K HD Video
+tzSnVSs5z94 2:21 Music of Scotland: Canaries I; David Tayler, archlute
+ZjAooY2vj0I 7:10 Antonio Vivaldi: In turbato mare RV 627; Dominique Labelle and Voices of Music
+0A8RNOduf9M 2:27 "Why ask me?" For solo recorder. Composed and performed Hanneke van Proosdij (voice flute).
+x7usCqGy168 2:24 Heyduck Dance; David Tayler, archlute
+QYruB57dJ60 7:02 Josquin des Prez: Mille Regretz; Bruce Dickey, Cornetto and Hanneke van Proosdij, organ
+yEqycVCU8bg 4:25 J. S. Bach Sonata in C Minor, Largo. Carla Moore and Hanneke van Proosdij BWV 1017
+J8A5R8zaLKg 27:36 Millicent and Tanya Tomkins: Music and Art; Voices of Music Great Artists Series
+fTkhAC_Sz6A 3:16 Voices of Music 2012-2013 Season Preview
+KEnCKa_If8o 5:24 Jacob van Eyck: Wat zal men op den Avondt doen; Hanneke van Proosdij, recorder
+OI8SN_Rl518 10:01 Bach: Toccata and Fugue in D Minor BWV 565; Rodney Gehrke, organ 4K UHD
+EmenDXsg3Yw 7:06 Carl Friedrich Abel: Allegro in D Minor WKO 208; Shirley Edith Hunt, viola da gamba
+QrEpRJR4pFc 3:25 Alessandro Scarlatti: Non Mannae Dulcedo from the cantata Totus amore; Meg Bragle & Voices of Music
+Rc44Ra-_1Ms 2:47 G.B. Pergolesi - Inflammatus et Accensus from the Stabat Mater; Voices of Music
+j69IL3QAVdg 3:51 Bach Sonata in E Minor, Gigue; Natalie Carducci, baroque violin
+BC4qpStHW-o 2:09 Arcangelo Corelli: Concerto Grosso Op. 6 No. 4; adagio, Voices of Music
+Y3ESFqpgTs4 4:35 Voices of Music BFX 2012 BerkeleyFestival and Exhibition
+0x-pNd1FFHc 5:38 Henry Purcell: The Golden Sonata; Voices of Music (WKCR Tape)
+SlO_VhEo6-E 2:06 Henry Purcell: Prelude for solo violin in G Minor; Lisa Grodin, baroque violin
+4ZIIIfERnw8 4:29 Henry Purcell: An Evening Hymn; Thomas Cooley, tenor, with Voices of Music
+soTjO9WlsAs 3:39 Luis Milan: Pavana 6 David Tayler, lute (Luys Milán, Pavana VI)
+S-FKk_J91LU 42:16 Pergolesi: Stabat Mater (complete performance); Voices of Music, original version, Labelle & Bragle
+1xmUHZlHTlM 0:38 Happy Birthday J.S. Bach: Toccata and Fugue in D Minor
+GL2B-gRMwys 4:55 Henry Purcell: Pavan in B Flat Major Z. 750, Voices of Music
+SqcPTSNU-sk 3:00 Purcell: If Music be the food of love; Thomas Cooley, tenor, Voices of Music
+Uq05aSREoXc 5:32 Henry Purcell: Oh! Fair Cedaria; Thomas Cooley with Voices of Music
+BoMPSS8_ZFI 3:20 J.S. Bach: Suite in G Major BWV 1007, Sarabande; Adaiha MacAdam-Somer, baroque cello.
+UEgx8La8BNY 4:57 J.S. Bach Partita BWV 1013: Jan Van Hoecke, recorder; Voices of Music Bach Competition 2012
+1XB1CWuJW1U 3:28 Tarquinio Merula: Ciaconna; Hanneke van Proosdij & Elizabeth Blumenstock, Voices of Music
+CpQw0UH-YV4 6:08 Johann Kapsberger: Toccata Arpeggiata; David Tayler, theorbo
+_pfoPVO4BsM 10:57 Johann Heinrich Schmelzer: Sonata Quarta; Elizabeth Blumenstock, baroque violin; Voices of Music
+vEf2ZnkwZPQ 3:25 Henry Purcell: Ground in C Minor; Hanneke van Proosdij, harpsichord
+ZUcI5NyTWiU 0:21 Happy New Year!
+8BpX3Gx8Aig 3:59 Henry Purcell: Music for a while; Thomas Cooley with Voices of Music
+Q3YDL2VrkZE 2:52 Purcell: Strike the Viol (Come ye sons of art); Thomas Cooley, tenor, Voices of Music
+K6PQq8unDZ0 4:25 Bach Competition 2012: Voices of Music
+3hbYoIs-euU 4:59 Bach Cello Suite No. 6 BWV 1012: Gavotte; William Skeen, baroque cello
+ymi-C3JVkZc 2:38 Purcell Project on IndieGoGo
+akvSHGd5RpU 6:25 Domenico Gabrielli: Ricercare (Ricercar) No. 6; Elisabeth Reed, baroque cello
+VS36O5gFZQc 4:11 Vivaldi Recorder Concerto: La Tempesta di Mare RV 433
+BeyYsz3W9tc 3:47 Handel: O care parolette (Orlando), Anne-Kathryn Olsen, soprano & Voices of Music
+LO4n219LoEY 5:51 Handel: Ritorna Oh Caro (Rodelinda), Tess Mattingly, soprano & Voices of Music
+yF1AfeWwWQA 3:33 Vivaldi: Concerto for Two Cellos in G Minor RV 531; Voices of Music, William Skeen & Tanya Tomkins
+rX_uB1EBy_A 5:57 Istampitta Tre Fontane: Peter Maund & Hanneke van Proosdij
+GzTwO0zWrqU 7:13 Bach Double Violin Concerto in D Minor 2nd mvt. Largo; Voices of Music BWV 1043
+qLz3WBsoPFI 2:32 Handel Gloria: Laudamus Te, Laura Heimes with Voices of Music
+zuvk8TSl2qI 2:12 Corelli: Sonata in F Major Op.5 No.4 Hanneke van Proosdij, recorder
+2gRnQ0iNoCU 3:09 Handel Gloria: Et in Terra Pax. Voices of Music, Laura Heimes, soprano
+BWDFshDDJ3I 5:10 Vivaldi: Concerto for Two Cellos in G Minor RV 531, Voices of Music, Skeen & Tomkins
+9FlNheF6Wfo 5:22 Biagio Marini: Sonata in ecco con tre violini (Echo Sonata), Op. 8 No. 44. Voices of Music
+fOqgyS_Vz9g 3:33 Scottish Lute - It is a wonder to see: David Tayler, archlute (Straloch lute book)
+uEBr2fGOZx8 2:59 Jacob van Eyck: L'Amie Cillae; Hanneke van Proosdij, recorder
+7o6gRHY9wx4 3:23 Arcangelo Corelli: Christmas Concerto, Adagio Op. 6 No. 8 Voices of Music
+J2RhT50KtdU 3:56 Vivaldi: Recorder Concerto in C Major RV 444; Allegro, Andrew Levy & Voices of Music
+eIBANPFjK1g 2:42 Antonio Vivaldi: Recorder Concerto in C Major RV 444 Largo, Voices of Music
+z32OjC4cQwI 4:13 J.S. Bach Cello Suite in D Minor Allemande BWV 1008
+aRLrqIjy9qA 2:17 Telemann Fantasia for Violin Solo, Allegro: Cynthia Miller Freivogel
+uCWzv5Ss-B0 4:56 J.S. Bach: Sonata in A Major for Violin and Harpsichord BWV 1015, Presto
+B1qU5wUKGf0 3:15 Marin Marais: Chaconne for Viola da Gamba, William Skeen
+fBSYUfXn0PI 2:21 Pierre Danican Philidor: Air en Musette for oboe and continuo, Gonzalo X. Ruiz & Voices of Music
+9HBIw8-eXds 2:57 François Couperin: Sixième Concert, Gonzalo X. Ruiz, baroque oboe
+jBHrYgOJkOE 4:04 Monteverdi: Nigra Sum, Vespers 1610. Thomas Cooley, Tenor (HD 1080p)
+6IyeRwMs_44 5:12 Monteverdi: Sí dolce è'l tormento (Si dolce), Voices of Music, Thomas Cooley (1080p)
+x9Egrj1eJRY 5:44 Monteverdi: Zefiro Torna, Voices of Music; Thomas Cooley & Christopher LeCluyse, tenors.
+j-hGUwFoM6U 6:24 Vivaldi: Recorder Concerto in F Major "Tempesta di Mare"
+dxxqrxoSqQc 3:37 Antonio Vivaldi: Concerto for Two Cellos in G Minor RV 531 Voices of Music (original instruments)
+lAboao_peJQ 8:08 Corelli Christmas Concerto (original instruments); Voices of Music
+XUqdpFYTatI 4:04 Monteverdi Vespers 1610: Nigra Sum
+pqgO-J_zjY0 5:44 Monteverdi: Zefiro Torna; Thomas Cooley & Christopher LeCluyse with Voices of Music
+HF_zjLVCgT4 2:59 Monteverdi: Damigella tutta bella; Voices of Music
+piwmYsJB9to 3:54 Marco Uccellini: Sonata "La Prosperina"
+s1UsSkgsWy8 5:11 Monteverdi: Sí dolce è'l tormento
+2F8aQB-HY6k 3:07 F. Couperin: Les Baricades Mistérieuses, Hanneke van Proosdij, harpsichord
+i5jen6t78sM 2:49 John Dowland: Can She Excuse
+VzaCZH1zGvw 4:27 J.S.Bach: "Sheep may safely graze" Cantata 208; Susanne Rydén & Voices of Music
+vi_9qH79yas 6:20 J.S. Bach: Concerto for Two Violins in D Minor, Largo BWV 1043
+RRNIryTpK_8 2:49 Rosa das Rosas: Cantiga X de Santa Maria
+ba7qSSwDjNw 3:13 Dehors Loncpre
+p93CYcClfjA 3:36 Saltarello (Medieval Istanpitta) Add. 29987, Voices of Music
+13XV-wiHACg 3:24 J. S. Bach Prelude in E Flat Major BWV 1010
+PXwNO1RDb3c 3:21 J.S. Bach: Sarabande BWV 1007 Tanya Tomkins, baroque cello
+eNEu_VKYlDc 5:27 J. S. Bach Allemande BWV 1007
+R-R0Kscznqg 3:07 Bach Prelude in G Major BWV 1007
+0EexY3IvWhA 7:01 Buonamente: Il Ballo del Gran Duca
+Gk2dhcbHk7I 4:40 Pachelbel Canon in D: High Definition Video (HD)
+3OA8NyImXhM 3:08 Have you seen but a bright lily grow? HD
+VFypQbPUhCU 5:35 J.S. Bach: Air on the G String High Definition Video Voices of Music
+sPgrmEh3rjs 3:54 John Dowland: The Frog Galliard (lute), "Now, Oh Now;" David Tayler, archlute
+TIjaD4Mw5IA 3:10 Telemann Allegro in D Minor
+xSQgvuxlvzc 4:29 Bach Prelude for Lute in D Minor BWV 1008
+qBmmgogKDuY 3:57 Bach Violin Sonata BWV 1021 Largo & Presto; Carla Moore
+4I6K0qS4npc 4:08 Andrea Falconieri: La Follia variations for Violins and Continuo
+A0dsjgloJpY 3:28 Tarquinio Merula: Ciaccona. Voices of Music
+EYZ79HjPh2M 4:32 Marco Uccellini: La Bergamasca Voices of Music
+J-f7-aOa3qA 9:02 J.S. Bach: Aria Schlafe mein Liebster BWV 213
+aNYNJ85GgGc 4:57 J.S. Bach Sonata for Violin BWV 1021 Original Instruments
+FWnEUzUizkI 3:10 Bist du bei mir from the Anna Magdalena Bach Book (attr. Stölzel), Voices of Music
+JvNQLJ1_HQ0 4:41 Pachelbel Canon in D Major - the original and best version.
+yTxUcOVWShU 4:42 Bruce Dickey: Ancor che col Partire (Angelus ad Pastores), with Margriet Tindemans
+dcRhaf1i59k 4:24 Joy to the Person | Skene lute book, David Tayler, lute
+pPdMwoBki-A 3:54 John Dowland: The Frog Galliard. David Tayler, archlute
+pJLWU4VomHw 3:23 In A Garden So Green: David Tayler, lute. Lute music of Scotland
+48B2pdprIDA 3:26 Have you seen but a bright lily grow?
+w-1ck_smC9k 5:15 Bach Prelude for Lute in D Minor BWV 1008
+WZXM2eq46_s 5:24 Bach Under The Stars: Air on the G String BWV 1068 Voices of Music
+wOXCJgLi53Y 2:03 J.S. Bach: Badinerie; Orchestra Suite No. 2 in B Minor BWV 1067
+JDzwDE3xf3k 3:03 Telemann: Trio Sonata in D Minor, Allegro. Voices of Music
+VgqrKFT7u0U 3:47 J.S. Bach: Sonata for Viola da Gamba and Harpsichord BWV 1027, Adagio
+anM6UObZLLg 2:37 Telemann: Fantasie No. 7 in E Flat Major, Largo, for Baroque Violin: Carla Moore TWV 40:20
+cK0HAeF1Ae0 6:05 Bach: Cello Suite in C minor: Prelude; Tanya Tomkins, cello BWV 1011
+CCtZH9l2yzk 6:28 Tanya Tomkins: Sarabande and Minuet from Bach's cello suite in G Major BWV 1007
+3PaZlxCwdFs 6:27 Tanya Tomkins: Rachmaninoff Sonata for cello and piano
+
 # Orchestra of the Age of Enlightenment
 
 # mdBUHbZjhEY 0:35 The Orchestra in a School
