@@ -1209,7 +1209,7 @@ HU7U56pmO8E 11:54 Cornish Pipes - Gool Perran 2021
 5EYESIV_5uY 17:21 Cornish Storytellers - Mike O' Connor & Yvonne White - Friday St Piran's Day
 W_DUDLQx3zc 9:23 Kegin Esther - Cornish cooking - Cornish Pasties
 # Rq7xVYb0Cn8 6:36 Tamar Stamp Dance with Rosie Fierek
-Jx0hocUqpeo 7:21 Newquay Library - I brushed my teeth with hair gel
+# Jx0hocUqpeo 7:21 Newquay Library - I brushed my teeth with hair gel
 # gwBLGZIMWQ8 3:52 Tales From Porth - 'Goraswonnek' by Will Coleman, Read by Elizabeth Carne
 lI-8ZxNKF-Q 51:51 Tide & Time by Blystra Arts in collaboration with Newquay Heritage Archive & Museum
 N6GwYa58eXI 0-4:18,11:07-58:41 Past St Piran Processions
@@ -1224,7 +1224,7 @@ nWi_X30bSus 14:19 Cornish Dancing Mix
 FiG99dWc1tc 16:15 Cornish Storytellers - Barbara Griggs & Moe Keast
 k01e9XkiB60 9:42 Kegin Esther - Cornish cooking - Hevva Cake
 # M0JaubC0fxo 6:21 Tamar Broom Dance with Rosie Fierek
-rhs53YYKk9k 16:42 Newquay Library - There's something nasty in my pasty
+# rhs53YYKk9k 16:42 Newquay Library - There's something nasty in my pasty
 # nH3BwItdiB8 5:01 Tales From Porth - 'Kanker' by Will Coleman, Read by Elizabeth Carne
 jZrgnnkpUxQ 40:52 Urban Kelt Session Wednesday 3rd March
 67NGoFsiWbk 4:02 Newquay Heritage Archive & Museum - Introduction to 'Together Against Plastics'
@@ -1235,7 +1235,7 @@ kqCKtiHiFcM 8:37 Newquay Community Orchard - Pruning Apple Tree's
 8bHknZsRG88 9:48 Wassel Kernow 2021 (Newquay St Piran's Festival)
 Ic1ixEb3VkE 15:53 Cornish Storytellers - Mike O'Connor & Moe Keast
 BYosn_PD-yc 5:55 Kegin Esther - Cornish cooking - Blackberry & Apple Jelly
-pObC7e-GgHA 10:14 Newquay Library - The Little Sea Dragon's Wild Adventure
+# pObC7e-GgHA 10:14 Newquay Library - The Little Sea Dragon's Wild Adventure
 # q9riqyMFQxw 3:56 Tales From Porth - 'Lester' by Will Coleman, Read by Elizabeth Carne
 TGo8M09j1fw 42:48 Urban Kelt plus An Tonji St Piran Special
 xVxAcEVQNNs 7:20 Newquay and the Sea by Peter Hicks (St Piran's)
@@ -1256,7 +1256,7 @@ UAM_UMw19fo 10:21 Chris Blount Archive - Muriel Lyon talks about Newquay in the 
 S3cLfLtGaW4 8:36 Cornish Story - Cornwall's Story Online
 CHJK72Jptew 14:41 Cornish Storytellers - King of the Fishes by Mike O' Connor
 Fvdmg1PDrZ8 7:47 Kegin Esther Cornish Cooking - Saffron Buns
--hJnXuCxNd4 7:59 Newquay Library - Mousehole Mice and the Theatre by the Sea
+# -hJnXuCxNd4 7:59 Newquay Library - Mousehole Mice and the Theatre by the Sea
 # XcPQLrzXpeo 3:56 Tales From Porth 'Goolan' by Will Coleman, Read by Elizabeth Carne
 11MPh_lweJU 4:03 Welcome to Newquay St Piran's Festival 2021
 3HoTaFbLxbc 9:26 Radio Cornwall 'Jim Christophers' Newquay St Pirans Festival 2021
@@ -4958,7 +4958,8 @@ IGzv4vufN-k 1:51:53 The Pirates Of Penzance (1983) full movie watch on YouTube H
 # 27HwREzYQVQ 1:34:21 Gilbert & Sullivan：The Pirates Of Penzance TV Movie 1982
 # G8rDGdA9EF0 1:51:18 Gilbert & Sullivan：Patience TV Movie1982
 # DJK8SVrl3x0 1:52:43 Gilbert & Sullivan：The Mikado TV Movie 1982
-# _-7q-5FYlK4 1:50:44 Gilbert & Sullivan：iolanthe TV Movie 1982
+_-7q-5FYlK4 1:50:44 Gilbert & Sullivan：iolanthe TV Movie 1982
+ca1tNwX5x-8 1:38:15 H.M.S Pinafore Danish 1970 TV Movie Gilbert and Sullivan
 # D1LuwO01gi8 1:51:49 Gilbert & Sullivan：The Gondoliers TV Movie1982
 1P6ybQcD7fQ 2:27:27 Pirates of Penzance
 OVczrZAWc_4 2:10:03 Patience - Opera Australia

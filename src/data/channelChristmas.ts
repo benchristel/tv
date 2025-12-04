@@ -223,6 +223,7 @@ eW79ejQcrDo 51:44 A Baroque Christmas
 r7adETaOYiQ 1:30 The Boar's Head Carol
 2AjFT4Rcp_U 3:41 Cantiga De Santa Maria, No.48
 viDKLF28Rfs 3:38 Carol: Ther is no rose of swych vertu
+VSFe-6JvqQE 5:03 VOCES8 | William Byrd - Laudibus in Sanctis
 
 # Celtic Christmas III
 # pgaiDhAqQ44 3:45 The Wexford Carol
