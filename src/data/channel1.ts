@@ -2598,6 +2598,13 @@ CCtZH9l2yzk 6:28 Tanya Tomkins: Sarabande and Minuet from Bach's cello suite in 
 
 # Orchestra of the Age of Enlightenment
 
+# 4iQnkUSGj4g 29:46 Composer James Redwood talks dream commissions, perfect moments and climbing | Take a Beat S2 E2
+# nxbXAro_BAY 1:24 Steven Devine introduces BWV 132 Bereitet die Wege, bereitet die Bahn!
+# JEFCvnLJEh8 1:11 Steven Devine introduces BWV 163 Nur jedem das Seine | Bach, the Universe and Everything
+u8nPb96_3uY 15:03 Inside flute player Neil McLaren's jewellery workshop
+# lfSc26npEkk 1:38 Steven Devine introduces BWV 5 Wo soll ich fliehen hin | Bach, the Universe and Everything
+WXC7z-Qxya8 24:18 Flute player Neil McLaren talks castles, music lessons and jewellery making | Take a Beat S2 E1
+# 23etn46DUOA 1:52 $100 vs $1,000,000 Violin!
 # mdBUHbZjhEY 0:35 The Orchestra in a School
 pV664zw7F1o 5:39 A Tribute to Sir Roger Norrington (1934-2025)
 a3p3cna7J6Q 2:59 Edvard Grieg: The Holberg Suite, Op.40, I. Prelude - on period instruments
@@ -4648,11 +4655,11 @@ tmWZMRSmDQM 39:33 No. 6207, A Study in Steel - Princess Royal Class - vintage LM
 # XM4U7SWtU1k 10:39 Transperth train driver cab view - B series - peak hour lockdown Midland service - high speed
 LzoYrD8EejQ 1:12:50 Flying Scotsman and Pendennis Castle - Rail tours in Western Australia, 1989
 nZ3AN-kd66g 16:56 LMS - General Repair - 1938 - LMS Railway film
-WDb9tVeE3W0 31:00 Bennett Brook Railway train drivers view - action cam
+# WDb9tVeE3W0 31:00 Bennett Brook Railway train drivers view - action cam
 Irn2mVjZjro 18:46 New York Central - The Steam Locomotive
 Uia2jH9nRb8 13:16 Safety On The Track - A London Transport safety film - 1950
-T_0LzMzCnBs 1:42 Bennett Brook Railway termite train
-Gcs7Wx6P9XA 20:24 Bennett Brook Railway termite train - 360 video - Bushland Loop - Volume warning!
+# T_0LzMzCnBs 1:42 Bennett Brook Railway termite train
+# Gcs7Wx6P9XA 20:24 Bennett Brook Railway termite train - 360 video - Bushland Loop - Volume warning!
 LC1BEc04i-0 25:20 Wash and brush up - British Transport Films - British Rail steam loco maintenance - 1950s
 o2IsS1ZNSJU 4:53 Bennett Brook Railway - 360 video - Mussel Pool to Whiteman Village Junction - Volume warning!
 uyUkKbw3tKk 21:43 Vintage railway film - The Railwaymen - 1946

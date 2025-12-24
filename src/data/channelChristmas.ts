@@ -93,11 +93,11 @@ export const episodes: Array<string> = [
   `,
   `
     aO2YE_VAGTg 2:46 The Holly Bears a Berry
-    IVf3HHMyDkk 2:13 The Wren in the Hurze
+    # IVf3HHMyDkk 2:13 The Wren in the Hurze
     _D8X1JvzTOg 1:46 Christmas Day in the Morning
     Np1NdyIq9os 2:57 Apple Tree Wassail
     QTOQ9htcDi0 4:54 Rafe's Waltz
-    sF9sOKwueBs 3:16 Cutty Wren
+    # sF9sOKwueBs 3:16 Cutty Wren
     ZSR_XKKRyzs 3:01 The Brandevin
     PjlK0xZb3h0 1:41 Arranne Ny Sheeaghyn Troailtagh
     lgBl-DUjISc 2:38 An Dro Nevez
@@ -191,7 +191,7 @@ export const episodes: Array<string> = [
     WXERRcpXRiA 1:56 I Wish You A Merry Christmas (Remastered 2006)
     FhTnDaEmA5k 2:46 Do You Hear What I Hear? (Remastered 2006)
     sLBDE8VJeHo 2:53 Pat-A-Pan/While Shepherds Watched Their Flocks By Night (Medley / Remastered 2006)
-    rkN6O2piD8s 2:30 Christmas Dinner, Country Style (Remastered 2006)
+    # rkN6O2piD8s 2:30 Christmas Dinner, Country Style (Remastered 2006)
   `,
   `
     # Ensemble Alcatraz with Kitka - Cantigas de Amigo
@@ -199,6 +199,22 @@ export const episodes: Array<string> = [
     tuoVTRWJtxQ 2:38 Por Deus
     CNo0CYAWmnM 8:35 Cantiga de Santa Maria 11, "Macar ome per folia" (arr. C.A. Fulton, K. Higginson, S. Kammen and...
     MelUCr7TVXs 4:16 Bailemos nos ja todas
+  `,
+  `
+    # Ancient Noëls
+    2AjFT4Rcp_U 3:41 Cantiga De Santa Maria, No.48
+    xPh8zlMr7xg 3:21 Gloucestershire Wassail / Tomorrow Will Be My Dancing Day / The Sussex Carol
+    LR0GktoJFcw 6:01 Hoboekentanz / Schafertanz
+    kBFnig1ODOs 5:08 O Bethlehem / Bethlehem's Stall / A Maiden Was Adoring God, The Lord / Great Gentlefolk, Hold...
+    d-Pm9hmJDv4 3:51 The Bellman's Song
+    wEknsuQ_eAU 4:24 The Truth Sent from Above
+    -x8J4Uveb9k 3:36 Nowell, Nowell: Tidings True / Riu, Riu, Chiu
+    bIRpzizyvgg 6:09 I Must Go Gather Comfort / There Was a Maiden so Lovely / When Judah's Loyal Soul Alone
+    FiSv_JAS3ec 3:38 Cantiga, A Madre Do Que Livrou
+    7oiIHE5Qgs0 3:27 Whenas the Rose of Jericho / A Year Begins of Joy and Grace / To Us Alittle Child Is Born
+    sZHdnJL8tNo 3:25 The Donkey's Carol / The Friendly Beasts
+    4N32QhbN24Q 2:45 Here Betwixt Ass and Oxen Mild / The Golden Carol
+    rvjuhvbs66o 2:35 In the Bleak Midwinter
   `,
 ]
 
@@ -226,6 +242,7 @@ r7adETaOYiQ 1:30 The Boar's Head Carol
 2AjFT4Rcp_U 3:41 Cantiga De Santa Maria, No.48
 viDKLF28Rfs 3:38 Carol: Ther is no rose of swych vertu
 VSFe-6JvqQE 5:03 VOCES8 | William Byrd - Laudibus in Sanctis
+yPcq-OhutqI 4:33 VOCES8 | Giovanni Pierluigi da Palestrina - Magnificat Primi Toni
 
 # Celtic Christmas III
 # pgaiDhAqQ44 3:45 The Wexford Carol
