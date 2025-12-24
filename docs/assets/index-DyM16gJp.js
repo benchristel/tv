@@ -656,7 +656,7 @@ jBRVvMm3xv0 19:41 The Medieval Saint Diet
 AjuGvTBPoy0 19:47 Whisky - Scotland's Water of Life
 XQJkasR3Iak 16:28 The Original Caesar Salad from Mexico
 lABWCEfeEyw 20:11 Feijoada - Brazil's National Dish
-IVpiIa_Txws 17:30 Growing an Ancient Roman Garden
+IVpiIa_Txws 0-3:58,5:07-17:30 Growing an Ancient Roman Garden
 h_xqJtGWvhg 21:19 Catherine the Great & the Volga Germans
 exTSP163sRg 21:16 Debunking the Myths of Leonardo da Vinci
 R-dPIBUvVC8 0:00-1:48,2:53-17:24 Byzantine Honey Fritters
@@ -2607,6 +2607,13 @@ CCtZH9l2yzk 6:28 Tanya Tomkins: Sarabande and Minuet from Bach's cello suite in 
 
 # Orchestra of the Age of Enlightenment
 
+# 4iQnkUSGj4g 29:46 Composer James Redwood talks dream commissions, perfect moments and climbing | Take a Beat S2 E2
+# nxbXAro_BAY 1:24 Steven Devine introduces BWV 132 Bereitet die Wege, bereitet die Bahn!
+# JEFCvnLJEh8 1:11 Steven Devine introduces BWV 163 Nur jedem das Seine | Bach, the Universe and Everything
+u8nPb96_3uY 15:03 Inside flute player Neil McLaren's jewellery workshop
+# lfSc26npEkk 1:38 Steven Devine introduces BWV 5 Wo soll ich fliehen hin | Bach, the Universe and Everything
+WXC7z-Qxya8 24:18 Flute player Neil McLaren talks castles, music lessons and jewellery making | Take a Beat S2 E1
+# 23etn46DUOA 1:52 $100 vs $1,000,000 Violin!
 # mdBUHbZjhEY 0:35 The Orchestra in a School
 pV664zw7F1o 5:39 A Tribute to Sir Roger Norrington (1934-2025)
 a3p3cna7J6Q 2:59 Edvard Grieg: The Holberg Suite, Op.40, I. Prelude - on period instruments
@@ -4488,7 +4495,7 @@ SS7n-l7a7xk 8:16 The North Coast of Ireland
 # YY6e3yc9rHw 10:00 Fox Hunting Rabbit Shooting and wildfowling
 
 # Bennett Brook Railway
-RovfLuEgZus 17:28 Vintage transport film - Look at Life - High, Wide and Faster - 1963
+# RovfLuEgZus 17:28 Vintage transport film - Look at Life - High, Wide and Faster - 1963
 f0h75MBhRTw 6:34 Bennett Brook Railway - 'Thomas Day' - 1996
 SjUidv4IkNI 18:02 Bennett Brook Railway - Enthusiasts Day - 1996
 xtB_03QUFs0 9:00 Vintage Transport film - Look at Life - Over and Under - 1960
@@ -4587,7 +4594,7 @@ K5SFegTVoNo 8:58 Vintage railway film - The third Sam - 1962
 fHHluaETDaw 2:39 Vintage railroad film - The end of the 'El' - 1950's
 P11wYc51SbA 10:35 Vintage railroad film - 3rd Ave El - 1950s
 koT6JY_rDi0 22:56 Vintage railway film - Reshaping Britains railways - 1963
-l-sfeHhjpdc 23:06 Vintage railroad film - Loaded for war - AT&SF - 1940s
+# l-sfeHhjpdc 23:06 Vintage railroad film - Loaded for war - AT&SF - 1940s
 nklClrz6wHI 19:34 Vintage railway film - The North Eastern goes forward - 1962
 pByEcGQ-ntM 12:57 Vintage railroad film - Opening a new frontier - 1955
 DF8ETt70CCQ 18:45 Vintage railway film - Spick and Span - 1962
@@ -4657,11 +4664,11 @@ tmWZMRSmDQM 39:33 No. 6207, A Study in Steel - Princess Royal Class - vintage LM
 # XM4U7SWtU1k 10:39 Transperth train driver cab view - B series - peak hour lockdown Midland service - high speed
 LzoYrD8EejQ 1:12:50 Flying Scotsman and Pendennis Castle - Rail tours in Western Australia, 1989
 nZ3AN-kd66g 16:56 LMS - General Repair - 1938 - LMS Railway film
-WDb9tVeE3W0 31:00 Bennett Brook Railway train drivers view - action cam
+# WDb9tVeE3W0 31:00 Bennett Brook Railway train drivers view - action cam
 Irn2mVjZjro 18:46 New York Central - The Steam Locomotive
 Uia2jH9nRb8 13:16 Safety On The Track - A London Transport safety film - 1950
-T_0LzMzCnBs 1:42 Bennett Brook Railway termite train
-Gcs7Wx6P9XA 20:24 Bennett Brook Railway termite train - 360 video - Bushland Loop - Volume warning!
+# T_0LzMzCnBs 1:42 Bennett Brook Railway termite train
+# Gcs7Wx6P9XA 20:24 Bennett Brook Railway termite train - 360 video - Bushland Loop - Volume warning!
 LC1BEc04i-0 25:20 Wash and brush up - British Transport Films - British Rail steam loco maintenance - 1950s
 o2IsS1ZNSJU 4:53 Bennett Brook Railway - 360 video - Mussel Pool to Whiteman Village Junction - Volume warning!
 uyUkKbw3tKk 21:43 Vintage railway film - The Railwaymen - 1946
@@ -5235,6 +5242,12 @@ sV_upQm8ZIg 2:20:50 Three Men in a Boat (1994) by Jerome K. Jerome, read by Hugh
 
 zqNnA8tqULw 0:04-6:30 Portrait of King William III by Mark Twain | Audiobooks Youtube Free | Mark Twain Short Stories
 hgvqdpwJwrI 33:25 Fenimore Cooper's Literary Offenses, by Mark Twain, read by John Greenman
+Qe0eRG-uUQk 2:10:04-2:33:10 Gerhardt and the Grant Bust
+Qe0eRG-uUQk 4:30:50-5:12:44 Playing Bear - Herrings - Jim Wolf and the Cats
+# Qe0eRG-uUQk 7:00:19 Mark Twain's Autobiography: With An Introduction by Albert Bigelow Paine - Volume I Part 1/2
+# T1fGwc3d6s4 6:08:19 Mark Twain's Autobiography: With An Introduction by Albert Bigelow Paine - Volume I Part 2/2
+# L36c9pfRF4k 7:13:50 Mark Twain's Autobiography: With An Introduction by Albert Bigelow Paine - Volume II Part 1/2
+# bziy7Wh2ERM 6:52:50 Mark Twain's Autobiography: With An Introduction by Albert Bigelow Paine - Volume II Part 2/2
 
 # Cornish
 5LYCa0Jktkg 28:33 Ray Chubb - The Story of John of Chy-an-Hur (Cassette, Unknown Year)
@@ -5539,38 +5552,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     36B1W-JIX-A 3:52 Markahuasi - Vientos Del Sur (Winds of the South)
     zmB2ulRI_4c 6:26 Markahuasi - El Condor Pasa (Flight of the Condor)
     ZzEjGlRkdFQ 4:55 Markahuasi - Tinku
-  `,`
-    # Die Irrlichter - Elfenhain
-    DUqUNQFws5M 3:54 Aelinesse na megil
-    uk4Sa6lblvk 3:13 Der Fischer
-    n0UbhpSlTqE 2:55 Roter Mond
-    ClXoQyBzCoE 3:14 Der Weg
-    9PkfmZ4p_8c 3:07 Der rechte Mann
-    J_qb8g5xRAM 2:28 Schenk voll ein
-    qLUbzbLbGDQ 4:02 Branle des souris
-    IJ7EebHnCnk 5:24 Elfenhain
-    rq-tl23hTpQ 2:18 Sigurd Store
-    qb_Fe_JzQMY 2:23 Les filles des forges
-    FPqzHYi3b3c 3:24 Das Spiel mit den Leuten
-    jS6w2Zc5smE 3:15 Ronde mon ami
-    41rLvBf3Cbk 4:47 Wildgänse
-    kgx8yMM3RpM 2:55 Cantum Corvi
-    ci1s7CM869A 3:06 Ravens March
-  `,`
-    # Solanaceae - Solanaceae
-    LDB9Hnx1OnA 6:36 I Saw Them Through The Pines / They Only Walk On Moss
-    HHsv3xwcYxs 4:04 Through The Trees Spears The Sun
-    VnSYhm0-wHo 3:18 Fenella
-    a6FPaO7a8Us 3:43 The Blood Of My Lady
-    WsUYTrCAaFU 5:24 O Deep Woods
-    3RckNyhaLIo 3:52 Nakkiel II
-    nHComn8D1mM 3:57 Midnight Garden
-    md_qcimQEio 3:03 Samorost
-    NJT2B7Bc178 3:38 The Blood Of My Lady II
-    2BgyJLEGS2E 4:06 Hemlock and Mandrake Fields
-    U1JbAItSLH0 5:09 The Swallows Spiral Through Them
-    bTSQO7jOb54 2:44 Nihil Sum
-    7rPaczMY1KI 4:59 I Saw Her Through The Pines
   `,`
     # Nightwish
     NzWizk3e4MM 4:28 1.Nightwish - Dark Chest Of Wonders
@@ -6005,11 +5986,11 @@ T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] 
     75sRYWFW_Ds 1:19 Un Flambeau, Jeanette, Isabella
   `,`
     aO2YE_VAGTg 2:46 The Holly Bears a Berry
-    IVf3HHMyDkk 2:13 The Wren in the Hurze
+    # IVf3HHMyDkk 2:13 The Wren in the Hurze
     _D8X1JvzTOg 1:46 Christmas Day in the Morning
     Np1NdyIq9os 2:57 Apple Tree Wassail
     QTOQ9htcDi0 4:54 Rafe's Waltz
-    sF9sOKwueBs 3:16 Cutty Wren
+    # sF9sOKwueBs 3:16 Cutty Wren
     ZSR_XKKRyzs 3:01 The Brandevin
     PjlK0xZb3h0 1:41 Arranne Ny Sheeaghyn Troailtagh
     lgBl-DUjISc 2:38 An Dro Nevez
@@ -6098,13 +6079,28 @@ T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] 
     WXERRcpXRiA 1:56 I Wish You A Merry Christmas (Remastered 2006)
     FhTnDaEmA5k 2:46 Do You Hear What I Hear? (Remastered 2006)
     sLBDE8VJeHo 2:53 Pat-A-Pan/While Shepherds Watched Their Flocks By Night (Medley / Remastered 2006)
-    rkN6O2piD8s 2:30 Christmas Dinner, Country Style (Remastered 2006)
+    # rkN6O2piD8s 2:30 Christmas Dinner, Country Style (Remastered 2006)
   `,`
     # Ensemble Alcatraz with Kitka - Cantigas de Amigo
     gaHpnjhVGvI 5:17 Sen calar (arr. C.A. Fulton)
     tuoVTRWJtxQ 2:38 Por Deus
     CNo0CYAWmnM 8:35 Cantiga de Santa Maria 11, "Macar ome per folia" (arr. C.A. Fulton, K. Higginson, S. Kammen and...
     MelUCr7TVXs 4:16 Bailemos nos ja todas
+  `,`
+    # Ancient Noëls
+    2AjFT4Rcp_U 3:41 Cantiga De Santa Maria, No.48
+    xPh8zlMr7xg 3:21 Gloucestershire Wassail / Tomorrow Will Be My Dancing Day / The Sussex Carol
+    LR0GktoJFcw 6:01 Hoboekentanz / Schafertanz
+    kBFnig1ODOs 5:08 O Bethlehem / Bethlehem's Stall / A Maiden Was Adoring God, The Lord / Great Gentlefolk, Hold...
+    d-Pm9hmJDv4 3:51 The Bellman's Song
+    wEknsuQ_eAU 4:24 The Truth Sent from Above
+    -x8J4Uveb9k 3:36 Nowell, Nowell: Tidings True / Riu, Riu, Chiu
+    bIRpzizyvgg 6:09 I Must Go Gather Comfort / There Was a Maiden so Lovely / When Judah's Loyal Soul Alone
+    FiSv_JAS3ec 3:38 Cantiga, A Madre Do Que Livrou
+    7oiIHE5Qgs0 3:27 Whenas the Rose of Jericho / A Year Begins of Joy and Grace / To Us Alittle Child Is Born
+    sZHdnJL8tNo 3:25 The Donkey's Carol / The Friendly Beasts
+    4N32QhbN24Q 2:45 Here Betwixt Ass and Oxen Mild / The Golden Carol
+    rvjuhvbs66o 2:35 In the Bleak Midwinter
   `],videos$2=`
 
 uXxenFqIRlQ 1:02:50 Jethro Tull - Christmas Album - CD 1
@@ -6129,6 +6125,7 @@ r7adETaOYiQ 1:30 The Boar's Head Carol
 2AjFT4Rcp_U 3:41 Cantiga De Santa Maria, No.48
 viDKLF28Rfs 3:38 Carol: Ther is no rose of swych vertu
 VSFe-6JvqQE 5:03 VOCES8 | William Byrd - Laudibus in Sanctis
+yPcq-OhutqI 4:33 VOCES8 | Giovanni Pierluigi da Palestrina - Magnificat Primi Toni
 
 # Celtic Christmas III
 # pgaiDhAqQ44 3:45 The Wexford Carol
