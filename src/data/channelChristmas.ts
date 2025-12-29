@@ -243,6 +243,9 @@ r7adETaOYiQ 1:30 The Boar's Head Carol
 viDKLF28Rfs 3:38 Carol: Ther is no rose of swych vertu
 VSFe-6JvqQE 5:03 VOCES8 | William Byrd - Laudibus in Sanctis
 yPcq-OhutqI 4:33 VOCES8 | Giovanni Pierluigi da Palestrina - Magnificat Primi Toni
+KKTqN894UCc 3:49 MICHAEL PRAETORIUS: Es ist ein Ros’ entsprungen
+zG6ewYxS4Pw 8:41 La Septime Estampie Real and Istampitta in Pro - Hanneke van Proosdij and Peter Maund
+LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
 
 # Celtic Christmas III
 # pgaiDhAqQ44 3:45 The Wexford Carol
@@ -319,13 +322,4 @@ yPcq-OhutqI 4:33 VOCES8 | Giovanni Pierluigi da Palestrina - Magnificat Primi To
 # JjIkeO7Pe3g 2:49 December Rain
 # rmyRBNcQAmM 3:02 Kitty Magennis
 # 0z0_ZsNZmos 2:43 Christmas Time's A Comin'
-
-# The Watersons
-YONvNt43K4I 2:42 Apple Tree Wassail
-h7vyE2ahoMo 3:30 The Watersons - The Good Old Way
-W8rBJPMth_U 4:15 Malpas Wassail
-k5u3hJiXQP0 3:44 King Pharim
-R3dWcf_y62k 2:20 Swinton May Song
-
-LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
 `
