@@ -669,7 +669,7 @@ OnTtA9z3ZeQ 16:52 The Day the Viking Age Began
 FPi0RiAsegQ 13:13 What is Gruel?
 KaTjWWJSei0 0-1:46,2:45-15:54 When Potatoes were Illegal
 2ZcrScIlaQ4 20:26 The History of the Wine Glass
-o9-rCHqPLj4 17:30 The Ninja Diet of Feudal Japan
+o9-rCHqPLj4 0-3:15,4:13-17:30 The Ninja Diet of Feudal Japan
 CsjL0wBINnI 17:22 1950's Fish Pudding
 S5bHN6UYiTA 13:32 Ancient Greek Breakfast - Teganites
 0Uot4uVKrVk 16:56 Victorian Ice Cream & The Queen of Ices
@@ -769,7 +769,7 @@ s2JyN7JF8bs 19:35 Unwrapping Aztec Tamales | The Tamale Wars
 zKa5GRu4LwE 16:16 What Did Medieval Peasants Eat?
 FF0HnhuzGak 16:03 Pumpion Pie from 1670
 1MAB-VVqjOE 18:47 Making Medieval Mead like a Viking
-D-QHd4_1geE 18:42 Silphium: The Lost Aphrodisiac of Ancient Rome
+D-QHd4_1geE 0-4:40,5:35-18:42 Silphium: The Lost Aphrodisiac of Ancient Rome
 # 1hHYk2evUZQ 1:00:31 Election Cake with Q&A
 tpWdzXJObZ0 12:24 Soul Cakes & Trick-or-Treating
 M2bh80b40D4 18:47 The History of Sugar Part 2 | Victoria Punch
@@ -2400,7 +2400,7 @@ b1jw-5D_rG4 2:35 William Lawes & Robert Herrick: Gather ye rosebuds while ye may
 p9JX1HWyLJA 0:27 Voices of Music: The Great Works Project, a worldwide digital library
 PyMw-QX6c74 7:16 Biagio Marini: Passacaglia in G Minor (Op. 22), Voices of Music (original instruments)
 YDD5GdxZemw 3:16 Alessandro Grandi: Venetian Christmas Vespers, Laudate Dominum; Voices of Music
-fZFmpaP9RCo 4:22 Vivaldi Four Seasons Kickstarter Project; Voices of Music
+# fZFmpaP9RCo 4:22 Vivaldi Four Seasons Kickstarter Project; Voices of Music
 -nbVGoGv6ds 3:04 Handel: Music for the Royal Fireworks, Laurence Cummings and Hanneke van Proosdij, harpsichords
 Fb-RFlFiWJM 4:30 Alessandro Grandi: Venetian Christmas Vespers, Laudate Pueri; Voices of Music
 xjPB4GzcKf4 4:52 Agostino Steffani: Stabat Mater XII; Quando corpus morietur, Voices of Music
@@ -3209,7 +3209,7 @@ Unx1xpaWyVU 10:00 A Gaelic Journey (English Version): Benbecula to Ranafast
 Y43I66Bxi6c 4:12 Eairdsidh agus Nìall Caimbeul: Extended Conversation
 7bizb_Y_mU8 10:00 A Gaelic Journey (Scottish Version): Benbecula to Ranafast
 AP4V-QoxVtw 3:45 Aodh Mac Ruairí: Extended Interview
-K5Rp4WyMTpY 1:45 Darragh Ó Dochartaigh: Full Recitation
+# K5Rp4WyMTpY 1:45 Darragh Ó Dochartaigh: Full Recitation
 sv3tdC8jbXo 5:29 Bridanna Ni Bhaoill: Extended Interview
 RHZS4f1xagA 10:00 A Gaelic Journey (Irish version): Benbecula to Ranafast
 rNuexnaek-Y 7:28 Àiridh na h-aon oidhche
@@ -3601,7 +3601,7 @@ nQBUWpHXmS4 1:04:19 C.P.E. Bach & the Viola da Gamba | Pandolfo, Chemin & Buccar
 curKMRes4lQ 14:56 Singing through Color | Barron & Drake · MarchVivo
 Uvcp3pNv-HY 34:54 Folias and Chaconnes in Baroque Keyboard Music | Francesco Corti · MarchVivo
 yevcurq59iw 42:03 Latin America Sings to Nature | Artaza & Fernández Aguirre · MarchVivo
-bmc1ogcoJEI 57:15 Jorge Fernández Guerra: Chamber Opera Death and the Industrialist · MarchVivo
+# bmc1ogcoJEI 57:15 Jorge Fernández Guerra: Chamber Opera Death and the Industrialist · MarchVivo
 RiuFOLilOuw 30:25 Rachmaninoff: Variations on a Theme of Chopin, Op. 22 | Donohoe · MarchVivo
 fktkqT3z3Zs 44:25 Jazz Classics Reimagined: from Joplin to Ellington | Marco Mezquida · MarchVivo
 oNdq-lx7ea8 44:21 Songs from 19th-century Russia and Ukraine | Bondarenko & Martineau · MarchVivo
@@ -4563,7 +4563,7 @@ TI0HD1Tdpv4 10:58 Vintage railway film - The elephant will never forget - 1953
 AA9BmsHhlM8 16:46 Vintage railway film - The stone carriers - 1982
 NS06ECJQN88 4:34 Bennett Brook Railway - First steam train service of the 2022 steam season
 PPJdldNc5AY 7:14 Vintage railway safety film - Old Sam the signalman - 1982
-l152EmsCg80 4:31 Vintage railway film - InterCity 1250 - 1982
+# l152EmsCg80 4:31 Vintage railway film - InterCity 1250 - 1982
 F-F8sl9PP9M 12:15 Vintage railway film - On track for the eighties; Rail report 13 - 1980
 8rnho6Uz_3E 6:18 Vintage railway film - Centenary express - 1980
 l3Zs3sWxjWw 16:58 Vintage railway film - Current events on the Midland - 1980
@@ -5096,6 +5096,12 @@ VcgOCGBqnyA 1:08:14 Sherlock Holmes Faces Death 1943 movie classic
 AqQJh-kNM9Q 1:17:34 Arsenic & Old Lace 1962
 wMIcIZCivC0 1:05:09 Three Men in a Boat (1975)
 
+# Public Domain 2026
+gQ9b76eQchs 1:33:02 The Cocoanuts, The Marx Brothers - Full Feature Film (1929)
+RL2d015M8s4 1:32:56 Marx Brothers Animal Crackers (1930) Full Movie!
+pMSiUv6HdiI 26:57 Laurel and Hardy - Another Fine Mess (1930)
+CLTjFMp4DbM 1:11:33 Soup to Nuts 1930 Full Movie - The Three Stooges First Film
+
 # New England Forests
 lVx45KG-DQs 57:06 The Return of Old Growth Forests
 VvmbCc_mdWc 36:03 Plants That Cheat
@@ -5244,6 +5250,7 @@ zqNnA8tqULw 0:04-6:30 Portrait of King William III by Mark Twain | Audiobooks Yo
 hgvqdpwJwrI 33:25 Fenimore Cooper's Literary Offenses, by Mark Twain, read by John Greenman
 Qe0eRG-uUQk 2:10:04-2:33:10 Gerhardt and the Grant Bust
 Qe0eRG-uUQk 4:30:50-5:12:44 Playing Bear - Herrings - Jim Wolf and the Cats
+T1fGwc3d6s4 1:46-1:25:20 Villa Quarto
 # Qe0eRG-uUQk 7:00:19 Mark Twain's Autobiography: With An Introduction by Albert Bigelow Paine - Volume I Part 1/2
 # T1fGwc3d6s4 6:08:19 Mark Twain's Autobiography: With An Introduction by Albert Bigelow Paine - Volume I Part 2/2
 # L36c9pfRF4k 7:13:50 Mark Twain's Autobiography: With An Introduction by Albert Bigelow Paine - Volume II Part 1/2
@@ -6126,6 +6133,9 @@ r7adETaOYiQ 1:30 The Boar's Head Carol
 viDKLF28Rfs 3:38 Carol: Ther is no rose of swych vertu
 VSFe-6JvqQE 5:03 VOCES8 | William Byrd - Laudibus in Sanctis
 yPcq-OhutqI 4:33 VOCES8 | Giovanni Pierluigi da Palestrina - Magnificat Primi Toni
+KKTqN894UCc 3:49 MICHAEL PRAETORIUS: Es ist ein Ros’ entsprungen
+zG6ewYxS4Pw 8:41 La Septime Estampie Real and Istampitta in Pro - Hanneke van Proosdij and Peter Maund
+LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
 
 # Celtic Christmas III
 # pgaiDhAqQ44 3:45 The Wexford Carol
@@ -6202,15 +6212,6 @@ yPcq-OhutqI 4:33 VOCES8 | Giovanni Pierluigi da Palestrina - Magnificat Primi To
 # JjIkeO7Pe3g 2:49 December Rain
 # rmyRBNcQAmM 3:02 Kitty Magennis
 # 0z0_ZsNZmos 2:43 Christmas Time's A Comin'
-
-# The Watersons
-YONvNt43K4I 2:42 Apple Tree Wassail
-h7vyE2ahoMo 3:30 The Watersons - The Good Old Way
-W8rBJPMth_U 4:15 Malpas Wassail
-k5u3hJiXQP0 3:44 King Pharim
-R3dWcf_y62k 2:20 Swinton May Song
-
-LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
 `,christmas=Object.freeze(Object.defineProperty({__proto__:null,episodes:episodes$1,videos:videos$2},Symbol.toStringTag,{value:"Module"})),episodes=[`
   Z890lqjBkq4 0:00-1:02
   ATorS9krpDU 0:26-2:31 The Muppet Show - 108: Paul Williams - “All Of Me” (1976)
