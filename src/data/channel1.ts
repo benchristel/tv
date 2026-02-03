@@ -587,7 +587,7 @@ H9L3pX8zTPE 10:27 Adam Savage's One Day Builds: Cave Bathroom Upgrade
 # 9xpPXpnnCNI 39:25 Adam Savage's One Day Builds: Chewbacca and C-3PO!
 # 1gJ4_Hc17cM 35:38 Adam Savage's One Day Builds: Chewbacca's Bandolier!
 cwOXSXkW-uE 31:49 Adam Savage's One Day Builds: Custom NERF Rifle
--HfaLqmRO1k 21:52 Adam Savage's One Day Builds: Ping Pong Machine Gun!
+# -HfaLqmRO1k 21:52 Adam Savage's One Day Builds: Ping Pong Machine Gun!
 # M4M3I0nXEMI 23:41 Adam Savage's One Day Builds: Vsauce Glasses Hack!
 # G96YQQ7vW8w 20:26 Adam Savage's One Day Builds: Pedal-Powered Strandbeest!
 # 7JrCejRYGAM 56:27 Adam Savage's One Day Builds: NASA Spacesuit Parts!
@@ -3655,7 +3655,7 @@ GvAw3KiHyqc 54:31 Medieval Music inspired by Buddha and Christians | Ensemble Di
 CzRjZn-VpbQ 52:56 Birth of Jazz: From New Orleans to Chicago | Canal Street Jazz Band · MarchVivo
 QNdlDPbydb8 1:10:29 Iberian Music for Keyboard | Pierre Hantaï · MarchVivo
 l3CLj2lCEQM 22:00 Clementi: Sonata on a Square Piano | Alexander Melnikov · MarchVivo
-1TE6ro7WYVM 28:55 Felix Mendelssohn: Piano Trio No. 1, Op. 49 | Trío VibrArt · MarchVivo
+# 1TE6ro7WYVM 28:55 Felix Mendelssohn: Piano Trio No. 1, Op. 49 | Trío VibrArt · MarchVivo
 NeS7g7m2Jto 2:34 Tchaikovsky: Valse sentimentale | Adolfo Gutiérrez & Luis Fernando Pérez · MarchVivo
 NFBdFajEW1c 58:44 Bach, Telemann and Weiss: Baroque Lute Music | Xavier Díaz-Latorre · MarchVivo
 XsDcDGJFKig 14:50 Bach: Sonata for Viola da Gamba No. 1 in G Major, BWV 1027 | Coin & Martin · MarchVivo
@@ -4326,7 +4326,7 @@ kxkbbDWnjmk 7:51 Cutting Oats with a Scythe & Threshing the Corn -- Harvest Old 
 -D5GPBYQnZ8 46:24 The Story of Turf Cutting in Ireland *Those Days are Gone* Irish History Documentary
 -hbcHGDUH-Y 2:46 Forty Shades of Green - Scenery from around Ireland & music by John Watt
 9TbQLcaA_Xc 5:30 Haymaking in Old Ireland
-_1nfT5R6WBY 3:16 Old Farming Scenes of Ireland -- The Singing Farmer performs "21 Acres Of Land"
+# _1nfT5R6WBY 3:16 Old Farming Scenes of Ireland -- The Singing Farmer performs "21 Acres Of Land"
 TW9JcU8T6Qg 4:46 Pedigree Sheep Farming in Ireland -- Rare Breeds Part 2
 wzNHvl4P6aY 9:11 Vintage Haymaking in Ireland
 # W2PBpGoa_tE 9:26 Phillip McCallen win at the 1991 NW200 + Interview with McCallen
