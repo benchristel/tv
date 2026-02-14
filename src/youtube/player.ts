@@ -111,6 +111,8 @@ export async function createYouTubePlayer(elementId: string): Promise<Player> {
       playerVars: {
         controls: 0,
         disablekb: 1,
+        iv_load_policy: 3,
+        fs: 0,
       },
       events: {
         onReady() {
