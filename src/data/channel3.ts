@@ -68,7 +68,7 @@ export const episodes: Array<string> = [
     PrZvWzbj3ek 3:24 Necropolis - Heroes of Might and Magic IV
     pOZRUREX6xo 2:20 Heroes of Might and Magic 4 - Snow Lands Theme
     skGuDAhrkJ4 3:11 Castle Stronghold - Heroes of Might and Magic IV
-    29WmTMIbLOI 2:33 Heroes of Might and Magic 4 ~ Wandering ~ OST
+    WePJVH2b_ZQ 2:33 Heroes of Might and Magic 4 ~ Wandering ~ OST
   `,
   `
     # Jethro Tull - Thick As A Brick
