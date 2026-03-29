@@ -4977,7 +4977,7 @@ QRB_GhLXCds 1:54:09 Eddie Izzard - Dress To Kill Show in1999.
 mDCGkasqgxQ 1:48:27 Eddie Izzard-Definite Article 1996.
 
 # Seinfeld
-2GO3X6RXIvs 1:09:32 Jerry Seinfeld on Broadway, I'm Telling You for the Last Time, FULL set, Stand-up Comedy, Live, 1998
+2GO3X6RXIvs 0-1:09:20 Jerry Seinfeld on Broadway, I'm Telling You for the Last Time, FULL set, Stand-up Comedy, Live, 1998
 
 # CcPLsIy4tys 1:20:36 The Mouse and His Child
 
