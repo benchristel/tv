@@ -36,6 +36,9 @@ export function App(): React.ReactElement {
   const broadcast = userRequestedPlayback
     ? channel.getBroadcast(now)
     : nothing()
+  const hoverTitle = broadcast.type === "video"
+    ? broadcast.videoTitle
+    : ""
   const player = debuggingDecorator(useYouTubePlayer("player-container"))
   const playerStatus = status(player)
   const playerState = playerStatus.state
@@ -62,7 +65,7 @@ export function App(): React.ReactElement {
       }
       screen={
         <div className={infoPaneOpen ? "info-pane-open" : ""}>
-          <div className="player-assembly">
+          <div className="player-assembly" title={hoverTitle}>
             <div id="player-container" />
             {hideVideo && (
               <div className="black-screen">
