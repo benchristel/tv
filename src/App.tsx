@@ -45,12 +45,16 @@ export function App(): React.ReactElement {
   const hideVideo = playerState !== PlayerState.PLAYING
   const playerCommands = reconcile(broadcast, playerStatus)
   const infoButtonRef = useRef<HTMLButtonElement>(null)
+  const playerRef = useRef<HTMLDivElement>(null)
   const closeInfoPane = useCallback(() => {
     setInfoPaneOpen(false);
     infoButtonRef.current?.focus()
   }, [])
   const openInfoPane = useCallback(() => {
     setInfoPaneOpen(true);
+  }, [])
+  const fullscreen = useCallback(() => {
+    playerRef.current?.querySelector("iframe")?.requestFullscreen()
   }, [])
 
   return (
@@ -65,7 +69,8 @@ export function App(): React.ReactElement {
       }
       screen={
         <div className={infoPaneOpen ? "info-pane-open" : ""}>
-          <div className="player-assembly" title={hoverTitle}>
+          <div className="player-assembly" title={hoverTitle} onDoubleClick={fullscreen} ref={playerRef}>
+            {/* The video player gets inserted into the #player-container */}
             <div id="player-container" />
             {hideVideo && (
               <div className="black-screen">
