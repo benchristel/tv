@@ -626,7 +626,7 @@ YfKdaXTwB9A 0-18:44,19:31-19:46 Dinner with Attila the Hun
 KMWrk_94L8Y 0-2:33,3:58-18:44 The Great Molasses Flood | Boston Brown Bread
 JxUSzM29Y3M 15:47 Al Capone's Soup Kitchen
 LlBS-BgqN4E 19:06 The First Fad Diet of Georgian England
-gK4DMt8ARyU 21:34 Brewing Mesopotamian Beer - 4,000 Years Old
+gK4DMt8ARyU 0-2:56,4:06-21:34 Brewing Mesopotamian Beer - 4,000 Years Old
 jQTPJ1WrBBo 17:55 History of Latkes
 aEbO80_4uyM 15:05 What the heck is Wassail?
 CPs0WHtqZgQ 18:09 Christmas in the WWI Trenches - Xmas Rations
@@ -636,7 +636,7 @@ B7A8GOgAm54 16:45 Making Medieval Haggis
 UpBv8H0G6ZY 0-2:15,3:20-18:34 Japan & the Portuguese Barbarians
 ixTkzBuD-cw 19:08 The true story of the First Thanksgiving
 ry5Du60WPGU 16:18 What did WWII Soldiers Eat?
-MrKafmzGNJc 20:18 Macaroni & Cheese from 1845
+MrKafmzGNJc 0-3:40,4:49-20:18 Macaroni & Cheese from 1845
 1QRNJB29p6o 0-4:05,5:09-18:29 Feeding King Tut
 fkJPqxelmkY 19:50 Sin Eaters & Funeral Biscuits
 Qud0SI5ZgC0 18:51 1000 Year Old Jalebi (Zalabia)
