@@ -11,6 +11,21 @@ Hosted at https://benchristel.github.io/tv
 
 The solution? Curate a set of videos that have some chance of being delightful or informative, and that have rewatch potential, and then just shuffle them.
 
+## Hiding the annoying youtube player UI
+
+To hide the pause button and other nonsense that appears each time a new video
+starts, install [uBlock Origin] and add the following filter:
+
+```
+youtube.com/embed##:not(:is(video, :has(video)))
+```
+
+This might also work in other ad blockers.
+
+Note that this will hide the player controls from *all* embedded YouTube
+players, on other websites as well as mine. Unfortunately, I don't have a
+solution to this at the moment.
+
 ## How can I change the library of videos?
 
 - Fork this repo.
@@ -55,3 +70,5 @@ runs the program in the context of whatever page you're currently looking at.
 
 To bookmark the bookmarklet, right-click the link and select "Bookmark Link" (or the equivalent in your browser). To
 learn how to use the bookmarklet, see the section ["How can I change the library of videos?"](#how-can-i-change-the-library-of-videos) above.
+
+[uBlock Origin]: https://ublockorigin.com/

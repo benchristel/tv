@@ -103,6 +103,7 @@ export function VideoInfo(props: {
         {" "}
         (<a href="https://github.com/benchristel/tv#what-is-a-bookmarklet">What's this?</a>)
       </p>
+      <p><a href="https://github.com/benchristel/tv#hiding-the-annoying-youtube-player-ui">How to hide the annoying YouTube player UI</a></p>
       <p>
         Part of <a href="https://waywardweb.org">The Wayward Webring</a>!{" "}
         <a href="https://waywardweb.org/sites/tv.benchristel.com/previous">Previous site</a>
