@@ -653,7 +653,7 @@ exTSP163sRg 21:16 Debunking the Myths of Leonardo da Vinci
 R-dPIBUvVC8 0:00-1:48,2:53-17:24 Byzantine Honey Fritters
 hIKx0G4ghpA 18:44 The Noble Origins of Afternoon Tea
 SoFxrwuMuQs 20:42 Medieval Table Manners
-iWlqxGQXZx8 20:24 A History of Ketchup
+iWlqxGQXZx8 0-2:22,3:20-20:24 A History of Ketchup
 Kz-VpoNEWXM 17:38 A History of Tacos
 zN1bzdxZdbg 17:59 The Absinthe Murder
 OnTtA9z3ZeQ 16:52 The Day the Viking Age Began
