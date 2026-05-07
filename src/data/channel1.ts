@@ -1,7 +1,6 @@
 export const episodes = [
   `# Elif'in Hecesi
 
-    SUoqi6C8qkw 7:40 Perija and Friends - Kuzum Belo Edije ( a balkan gathering )
     p_avIhRC5aI 4:48 Maddi - Come and Go ( The ballad of the butterfly )
     Sq_kTDO97ao 3:06 Muharrem & Halil - Seni Şah'a Gider Derler
     ICdF6F3Qg_c 7:29 Mohammad Oktay - Ruhani Aşık Havası
@@ -48,7 +47,6 @@ export const episodes = [
   `
     w-GJOnbpHRM 7:51 Burhan Alkhatib - Rumi I
     lenZMY8ESQ0 3:51 Doğa Can Yaman - Meandering
-    pH-ElLzMY_E 5:04 Macithan Terzioğlu - Can Ellerinden Gelmişem
     Di8qHpVJjeI 4:54 Amin Parvin - Shoghe Rahaee
     d7pDgGR2dhY 8:11 Pouriya Raisi - Bi Zamani
     mJ8S8qxG9xk 7:33 Memduh Özdemir - Bugün Seyre Çıkmış Hublar Sultanı
@@ -59,7 +57,6 @@ export const episodes = [
     Udf1V3prIzU 7:14 Işık Işık - Kim Dervişlik İster İse
     JYEXS7lflYI 4:16 Seda Seyrek Houbakht - Rodos Semahı
     MECioY_N-94 4:24 Ali Naki Gündoğdu - Harabat Ehliyiz
-    gTCBu37MfaI 7:17 Macithan Terzioğlu - Pınarın Başında Destin Var İmiş
     26vLRhm6bXc 3:21 Ertuğrul Küçükbayraktar - Çayın Öte Yüzünde
     lzRCuT1dUH0 3:20 Nebî - Dem-i Nesimi
   `,
@@ -4539,7 +4536,7 @@ yLwq44moaYY 3:18 Vintage railway film - Britain can make it - 1946
 sEQBnQGGzXc 1:29 Bennett Brook Railway - 'Betty Thompson' - New whistle - August 2023
 UwQSx6RmHXE 50:41 Transport film - Trouble on the line - Equinox - 1990
 AtJtO8TYTtQ 3:04 Avon valley trains - Standard and narrow gauge - See video description for details - August 2023
-EwaV5W0gDHg 51:03 Transport Film - Running to Time - Equinox - 1988
+# EwaV5W0gDHg 51:03 Transport Film - Running to Time - Equinox - 1988
 h3jY6AjX-SQ 10:04 Vintage railway footage - Banking the Lickey - 1958
 8VcubT02PYk 20:54 Vintage railway footage - The Age of Steam - Bromsgrove
 FpNd-X_ct7Y 9:42 Vintage railway film - Power to order - 1941
@@ -4637,7 +4634,7 @@ Fki0XzgSct4 14:02 Vintage Southern Railway film - Ladies only - 1943
 0hV0obFTcN8 4:23 Bennett Brook Railway - Whiteman Park Sunday Times Show Day - 1991
 # FL9DxHPXzSw 19:45 Vintage railway film - Second report on modernisation - 1961
 plDBlQLt0EA 15:14 Vintage LMS railway film - St Pancras Junction Relaying - 1947
-rUg2fC9Iz88 20:20 Vintage railway film - Report on modernisation - 1959
+# rUg2fC9Iz88 20:20 Vintage railway film - Report on modernisation - 1959
 p7-2_WeceAA 25:46 Vintage railroad film - A railroad at work - 1946
 P4nqWE26yqk 12:28 Vintage transport film - Measured for transport - 1962
 # nvc9XgFV3Go 10:53 Vintage railroad film - Troop Train - 1943

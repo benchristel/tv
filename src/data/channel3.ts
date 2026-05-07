@@ -197,7 +197,7 @@ export const episodes: Array<string> = [
     l8WMGBuNaus 2:51 Magical Mystery Tour (Remastered 2009)
     wsRatIMUSu8 3:00 The Fool On The Hill (Remastered 2009)
     Z1ONJQLdZrk 2:16 Flying (Remastered 2009)
-    Coz0TmK2ZIg 4:00 The Beatles - Blue Jay Way
+    ixmOAb6qzvY 3:55 Blue Jay Way (Remastered 2009)
     tCXsFjzMKdc 2:29 Your Mother Should Know (Remastered 2009)
     t1Jm5epJr10 4:36 I Am The Walrus (Remastered 2009)
     rblYSKz_VnI 3:29 The Beatles - Hello, Goodbye
