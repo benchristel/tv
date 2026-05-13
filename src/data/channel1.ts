@@ -22,7 +22,6 @@ export const episodes = [
     HLe-oRtYAEM 8:33 Pouriya Raisi - Huzûr
     VXbGyJ6NQDI 10:23 Demircan & Macithan - Sığmazam
     syCrQp1OVO8 6:55 Memduh Özdemir - Canânı İster Canımız
-    6Lys2SXUA5Q 10:53 A Gathering | Bir Buluşma: Doğruya Nazar Eyleriz
   `,
   `
     iLZQuO_e3Hs 11:25 Demircan Demir - Bir Yol Senden Açık
@@ -4614,7 +4613,7 @@ P11wYc51SbA 10:35 Vintage railroad film - 3rd Ave El - 1950s
 koT6JY_rDi0 22:56 Vintage railway film - Reshaping Britains railways - 1963
 # l-sfeHhjpdc 23:06 Vintage railroad film - Loaded for war - AT&SF - 1940s
 nklClrz6wHI 19:34 Vintage railway film - The North Eastern goes forward - 1962
-pByEcGQ-ntM 12:57 Vintage railroad film - Opening a new frontier - 1955
+# pByEcGQ-ntM 12:57 Vintage railroad film - Opening a new frontier - 1955
 DF8ETt70CCQ 18:45 Vintage railway film - Spick and Span - 1962
 K_IH9I9JRJU 2:36 Avon Valley trains
 Ql6gXTUqYWE 13:56 Vintage railroad film - Wheels of steel - 1953
