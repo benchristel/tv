@@ -24,16 +24,14 @@ function scrapeVideos() {
       })
       .join("\n")
   } else {
-    return [...document.querySelectorAll("ytd-rich-grid-media")]
+    return [...document.querySelectorAll("ytd-rich-item-renderer")]
       .map((v) => {
-        const link = v.querySelector("a#thumbnail")?.href ?? "";
+        const link = v.querySelector("a.ytLockupViewModelContentImage")?.href ?? "";
         const id = /v=(.{11})/.exec(link)?.[1];
         const time = v
-          .querySelector(
-            "span#text.ytd-thumbnail-overlay-time-status-renderer"
-          )
+          .querySelector(".ytBadgeShapeText")
           ?.innerText.trim();
-        const title = v.querySelector("#video-title")?.innerText;
+        const title = v.querySelector(".ytLockupMetadataViewModelTitle")?.innerText;
         return `${id} ${time} ${title}`;
       })
       .join("\n");
