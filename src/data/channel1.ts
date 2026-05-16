@@ -1268,7 +1268,7 @@ H5yQP5nfL4s 10:43 Margaret Stevens Hevva Cake & Crying the Neck
 # mAoyWs8-aG4 2:31 A View from Castle an Dinas Video & Music
 iGem368pcBw 0:37 Early Newquay Film B&W
 BvepLP2ksdU 0:37 Early Newquay Film Colourised
-86t-RfRgfMU 14:13 Trowelling In Archaeology [Covid Version]
+# 86t-RfRgfMU 14:13 Trowelling In Archaeology [Covid Version]
 IVI-Kb9rLuI 3:42 The Alternative Mermaid of Zennor Story by Paul Phillips
 56PvZ4YLJBI 4:04 Trelawny - Rowing Club Singers & Oll an Gwella - Morgannow [Tir ha Tavas & Matt Blewett]
 32VhaCBcNrQ 2:51 Morgannow - Tir ha Tavas & Matt Blewett
@@ -1284,6 +1284,69 @@ kGYkMTopHIs 6:20 Together Against Plastic
 
 # Cornish Language Office
 -ZWfPD1fJrQ 12:30 Hwedhel Henry Jenner | Story of Henry Jenner (with subtitles)
+
+# Bamburgh Castle
+L604gcp0iHs 2:27 BRP 2020: The Roundhouse Appeal
+4q1u1T1OCfA 2:44 Bamburgh Castle - Trench 3 Cobbled Surface in the Southeast Corner
+iJLmL-govHU 2:03 Pottery Making at Bradford Kaims - Student Reactions
+yaF5PUTMNZM 3:26 Pottery Making at Bradford Kaims - Rachel Brewer
+X5_miWJUe2k 3:57 Beer Brewing at the Bradford Kaims - Interview
+tUz5EOzOIY4 1:05 Beer Brewing at Bradford Kaims - Student Reactions
+3zlG_gYxRqo 1:09 Bamburgh Castle - Trench 3 Linear Feature
+XkB_mIIOj-w 1:11 Bamburgh Castle - Trench 3 Wall Feature
+k4_lvxcHgoI 2:05 Bamburgh Castle - Trench 3 NE Corner
+uhSIPnL7oPc 2:42 Bamburgh Castle - Trench 3 Pit Feature
+cfF3ve2Dl9M 5:18 Bamburgh Castle - Trench 3 Week 3 Interview
+S91l6KvqRgg 2:57 Trench 1 Kiln Feature
+uL3-GrrtURM 2:24 Environmental Week 1 Interview
+ARJ_UOn62do 2:46 Bamburgh Castle, Trench 1 - Week 1 Interview
+gFshGzCz1nY 3:27 Bamburgh Castle, Trench 3 - Week 1 Interview
+adoSVvNhWWc 6:17 The Joy of Sedge
+zZzdzXbiuyk 0:39 Kaims Lake System
+LryeBVYc4j8 3:16 Modern Kaims People
+lrUAwX3g5Qs 0:34 A funny modern find
+d7uxVW6JJcA 1:09 Media at Bamburgh
+VUt1wfv_WeY 2:30 Why is Bamburgh Important?
+THrU1kZ7QGw 2:54 How did you get involved with Archaeology?
+Nyqa6iLa5_U 3:13 Bamburgh and Young Archaeologists
+0qyAr0g0SB8 3:02 Bamburgh Castle Finds
+ppM-yiGfFOI 2:20 Archaeology Basics - Test Pits
+FQ-1bhaJdWA 1:59 Archaeology Basics - The Kettle
+1F5S_mj4WOY 3:15 Archaeology Basics - The Mattock
+JZEUzOux7RA 6:18 Archaeology Basics - The Trowel
+wzZgw15MCHE 39:05 The Bamburgh Blade- Bamburgh Research Project Lecture
+sef_pYbq9yo 1:55 Archaeological Illustration
+eRzYXag1nxU 2:32 The story of the Bamburgh Village Coin
+7P2Dh3I9_2o 4:03 Story of a Find
+zuaTb4wyDnk 1:03 Unexpected trench three development- 2014- Bamburgh Research Project
+biuUM98UcTc 57:12 BRP End of Season Lecture 2014
+kUvwTUV8jkE 0:52 Bradford Kaims- Trench 9 investigating a burned post feature - 2014
+7yY2mzquwX0 1:18 Trench One's Giant Post Pit- 2014 - Bamburgh Research Project
+cy0nx5T3f7I 2:59 Unusual Find from Trench 1 - 2012 - Bamburgh Research Project
+9UFwCaqHCLE 0:31 Archaeological Time Lapse
+ducKAa-0sNI 2:24 Discovering the Bradford Kaims - Neolithic Landscapes & Burntmounds
+PgAdSv2gL3A 1:58 Welcome to the Bradford Kaims
+XJgPV0teWzA 1:46 Bradford Kaims - The Importance of Community Archaeology
+lMqNt7292W8 2:57 Working at BRP
+kv228XD8nYk 18:41 In the Pollen Lab...
+2iQ9toa3WcE 15:41 Burnt Mounds - Recent archaeological discoveries at Bradford Kaims, Northumberland UK
+_zCqfWCSXV8 16:33 Environmental Coring - Investigating a prehistoric wetland with Richard Tipping
+pMzeiMpU-3Q 49:44 Bamburgh Archaeology - features of the site - A lecture by Graeme Young of Bamburgh Research Project
+1KDr13aixXU 39:37 Bamburgh Research Project Summer Lecture 2010
+27TD-F2O4BM 31:19 Dig For a Day - Wetlands
+bOf6oKPp8vA 9:55 BRP 2010 Season Video Update - Part 2
+uZ-9r7vktd4 9:11 BRP 2010 Season Video Update - Part 1
+shftahpwGsE 5:41 Media & Archaeology: BRP Media Promo 2009
+VqdJlcp9JWE 7:30 Archaeology dig: My Bamburgh Diary 2009
+O4WuT9DJh9A 5:34 Archaeology: The Life Of A Find
+codH6AnwYLc 9:42 Archaeology: Trench 9 Horse burial
+VLXKMbVAe9s 7:37 Trench 1 part 2 Bamburgh archaeology
+BqkgbBrcMRc 6:38 Trench 1 Bamburgh Archaeology
+T2Y4tbbkCx4 1:48 Archaeology: Bamburgh Research Project trailer
+Ktz-nrJNjR0 3:03 Archaeology: Bamburgh Video diaries 2006
+JEQNC8uLAQY 2:25 Archaeology: Bowl Hole Cemetery
+uXhjRalJkk4 2:32 Archaeology: Human remains: The Bowl Hole cemetery
+06bD3EkCuY0 8:05 Archaeology: Bamburgh Research Project Medieval Castle and Saxon Palace dig
 
 # Archif Teledu Cymru
 leb645Xu6uo 9:54 Captain Murderer - Emlyn Williams
