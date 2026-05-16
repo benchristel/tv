@@ -688,7 +688,7 @@ CRH5DODIgE0 15:12 Victorian Mincemeat With Actual Meat
 9pNb7iQXhdU 10:34 Smoking Bishop from A Christmas Carol
 xtOhZEkyY2I 14:33 Aztec Sacrifice & Pozole
 40uw6VkWpaI 15:41 The Incredible Spiced Wine of Ancient Rome
-h2tY_qqTk-E 18:08 What did Genghis Khan eat?
+h2tY_qqTk-E 0-3:33,4:39-18:08 What did Genghis Khan eat?
 htARnZjxQGs 14:58 Ancient Babylonian Lamb Stew
 sIFlPc-TW94 14:24 The History of Pecan Pie
 -__hMt0lKPc 10:03 Tasting Forbidden Flavors
