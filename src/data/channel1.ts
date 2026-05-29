@@ -718,7 +718,7 @@ FNg71yR7b-E 15:24 Pirate Guacamole & Bumbo
 PIxN-pr3g7c 19:11 History's Most Expensive Spice: Saffron
 h9xX78pauXQ 0-5:35,6:45-19:21 Japan's Edo Era Noodles (1643)
 4eFHcfnWc70 19:26 The Talking Cows of Ancient Rome
-BR7fywQ-vUE 21:28 A History of Ice Cream | A Recipe from 1789
+BR7fywQ-vUE 0-3:05,4:09-21:28 A History of Ice Cream | A Recipe from 1789
 qqAk9-00Z6o 16:19 Coca de Sant Joan & the Fires of Saint John's Eve
 JLbej0adpKs 14:51 Fried Chicken Face-Off: 1911 vs 2021
 Mbaz5P7kHfg 17:51 Toad in the Hole & the Cows of Scotland
