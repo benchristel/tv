@@ -646,7 +646,7 @@ MrKafmzGNJc 0-3:40,4:49-20:18 Macaroni & Cheese from 1845
 fkJPqxelmkY 19:50 Sin Eaters & Funeral Biscuits
 Qud0SI5ZgC0 18:51 1000 Year Old Jalebi (Zalabia)
 I4ZTRjA7NhU 16:49 History's Real Macbeth
-APeVpwejxWQ 20:50 Ancient Roman Jellyfish for the Black Banquet
+APeVpwejxWQ 0-2:10,3:21-20:50 Ancient Roman Jellyfish for the Black Banquet
 DUAayg3D0XA 0-3:31,4:39-20:39 Pemmican: History's Power Bar
 jBRVvMm3xv0 19:41 The Medieval Saint Diet
 AjuGvTBPoy0 19:47 Whisky - Scotland's Water of Life
@@ -727,7 +727,7 @@ FNg71yR7b-E 15:24 Pirate Guacamole & Bumbo
 PIxN-pr3g7c 19:11 History's Most Expensive Spice: Saffron
 h9xX78pauXQ 0-5:35,6:45-19:21 Japan's Edo Era Noodles (1643)
 4eFHcfnWc70 19:26 The Talking Cows of Ancient Rome
-BR7fywQ-vUE 21:28 A History of Ice Cream | A Recipe from 1789
+BR7fywQ-vUE 0-3:05,4:09-21:28 A History of Ice Cream | A Recipe from 1789
 qqAk9-00Z6o 16:19 Coca de Sant Joan & the Fires of Saint John's Eve
 JLbej0adpKs 14:51 Fried Chicken Face-Off: 1911 vs 2021
 Mbaz5P7kHfg 17:51 Toad in the Hole & the Cows of Scotland
@@ -3465,7 +3465,6 @@ f9x1ZglXZIA 18:26 Barclodiad y Gawres ('The Giantess' Apronful') with Dr Gwilym 
 bZetJZWKckI 39:32 Who wrote The Book of Taliesin? with Dr Gwilym Morus-Baird
 wwIBemDZmWc 31:27 Was Taliesin a druid? With Dr Gwilym Morus-Baird
 M4_EmTUxIx0 29:01 What is The Book of Taliesin? with Dr Gwilym Morus-Baird
-lhDBCXYUVYU 23:17 The Roots of Celtic Myth with Dr Gwilym Morus-Baird
 zccp11Oquac 29:31 Brigid and her Many Incarnations, with Dr Gwilym Morus-Baird
 OQAMt_-rvh0 37:50 Celtic Spirituality and Cultural Appropriation with Dr Gwilym Morus-Baird
 YU5pk-Hc758 45:30 Mari Lwyd - The Welsh Sources and Meaning
