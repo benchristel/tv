@@ -17,14 +17,10 @@ To hide the pause button and other nonsense that appears each time a new video
 starts, install [uBlock Origin] and add the following filter:
 
 ```
-youtube.com/embed##:not(:is(video, :has(video)))
+/^www.youtube.com\/embed.*tv\.benchristel\.com/##:not(:is(video, :has(video)))
 ```
 
 This might also work in other ad blockers.
-
-Note that this will hide the player controls from *all* embedded YouTube
-players, on other websites as well as mine. Unfortunately, I don't have a
-solution to this at the moment.
 
 ## How can I change the library of videos?
 
