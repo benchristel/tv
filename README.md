@@ -14,13 +14,16 @@ The solution? Curate a set of videos that have some chance of being delightful o
 ## Hiding the annoying youtube player UI
 
 To hide the pause button and other nonsense that appears each time a new video
-starts, install [uBlock Origin] and add the following filter:
+starts, add the filter below to your ad blocker.
 
-```
-/^www.youtube.com\/embed.*tv\.benchristel\.com/##:not(:is(video, :has(video)))
-```
-
-This might also work in other ad blockers.
+- In **[uBlock Origin]** for Firefox, you can add the filter directly in the "My Filters" tab of the settings page:
+  ```
+  /^www.youtube.com\/embed.*tv\.benchristel\.com/##:not(:is(video, :has(video)))
+  ```
+- In **[AdGuard]** for Chrome, you can add this URL as a custom filter list:
+  ```
+  https://raw.githubusercontent.com/benchristel/tv/85977a5ded6441a2aed1b7b536b078a55807757d/filter.txt
+  ```
 
 ## How can I change the library of videos?
 
@@ -68,3 +71,4 @@ To bookmark the bookmarklet, right-click the link and select "Bookmark Link" (or
 learn how to use the bookmarklet, see the section ["How can I change the library of videos?"](#how-can-i-change-the-library-of-videos) above.
 
 [uBlock Origin]: https://ublockorigin.com/
+[AdGuard]: https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
