@@ -70,5 +70,5 @@ runs the program in the context of whatever page you're currently looking at.
 To bookmark the bookmarklet, right-click the link and select "Bookmark Link" (or the equivalent in your browser). To
 learn how to use the bookmarklet, see the section ["How can I change the library of videos?"](#how-can-i-change-the-library-of-videos) above.
 
-[uBlock Origin]: https://ublockorigin.com/
+[uBlock Origin]: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 [AdGuard]: https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
