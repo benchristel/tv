@@ -1,0 +1,4 @@
+! An Adguard- and uBlock Origin-compatible filter to hide the YouTube player controls on https://tv.benchristel.com
+! Learn more at https://github.com/benchristel/tv
+
+/^www.youtube.com\/embed.*tv\.benchristel\.com/##:not(:is(video, :has(video)))
