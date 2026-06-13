@@ -138,7 +138,6 @@ Remove it before shipping.`}__name(suitePassedWithInstrumentation,"suitePassedWi
     LUZ29kEJLdE 3:02 LOTR The Fellowship of the Ring - Parth Galen
     9skYkQfAwus 2:43 LOTR The Fellowship of the Ring - Extended Edition - The Departure of Boromir
   `,`
-    # Ian Anderson Plays The Orchestral Jethro Tull
     cyb41bVtJ90 3:20 Ian Anderson - Eurology (Ian Anderson Plays The Orchestral Jethro Tull)
     k_J-49MOe_8 5:23 Ian Anderson - Calliandra Shade (Ian Anderson Plays The Orchestral Jethro Tull)
     WL2dpMj0GUw 3:46 Ian Anderson - Skating Away On The Thin Ice Of The New Day (Plays The Orchestral Jethro Tull)
@@ -275,7 +274,6 @@ Remove it before shipping.`}__name(suitePassedWithInstrumentation,"suitePassedWi
     L51NhQLXREU 1:08:39 Vedantic Meditation: Retreat (Part 4) | Swami Sarvapriyananda
   `],videos$6=`
 
-# LOTR extras
 
 xJNKs4InzUc 1:24:54 Lord of the Rings Fellowship of the Ring Extras (Part 4)
 8sZMTUIegE0 1:37:27 Lord of the Rings Fellowship of the Ring Extras (Part 3)
@@ -286,7 +284,6 @@ ukTaodQfYRQ 1:44:41 Meditation and Going Beyond Mindfulness - A Secular Perspect
 kaNO09cPS6c 56:41 Happiest Man on Earth | Mingyur Rinpoche | Talks at Google
 k1tw5sowFyM 47:08 From Panic Attacks to Meditation | Mingyur Rinpoche | Talks at Google
 
-# Wikitongues
 
 rUE1bzIx3u8 3:16 The Manx language, casually spoken | Owen speaking Manx | Wikitongues
 
@@ -297,21 +294,16 @@ fk3Cq0mR6_4 3:28 WIKITONGUES: Emily speaking Norwegian
 WQ4W-UqaaMo 3:24 WIKITONGUES: Javier speaking Nahuatl & Spanish
 w9MvPytHDvk 0:57 WIKITONGUES: Kimberly speaking Lakota
 FxrCNf8utsE 3:12 WIKITONGUES: Jenni speaking Finnish
-# RCZF42aj2Po 3:38 WIKITONGUES: Natasha speaking English
 DbArjSCZvOQ 1:27 WIKITONGUES: Will speaking Mandarin
 iWRrLD7H98s 4:03 WIKITONGUES: Freddie speaking Portuguese
 VgzHAbJjteQ 0:36 WIKITONGUES: Clara speaking French
-# vO87PpdQKV4 3:28 WIKITONGUES: Joel speaking English & Hebrew
 cC50MO--CGQ 3:36 WIKITONGUES: Manuel speaking Totonac
 CouHEysgsPo 2:05 WIKITONGUES: Octavia speaking Hessian
-# P2jdy8NC-JU 5:00 WIKITONGUES: Sofia speaking Russian & English
 7zQSfU5HkUc 1:53 WIKITONGUES: Lorenzo speaking K'iche' Mayan
 4SR39iWfZdk 1:53 WIKITONGUES: Regina speaking Spanish
-# v2jD_SU9KZo 2:59 WIKITONGUES: Mario speaking Aragonese
 
 SHv3-U9VPAs 5:39 Spoken Pirahã with transcription
 
-# Engineerguy
 
 E-F2QQuZZGk 10:44 The Engineering of Duct Tape
 HzTJrnsZSWw 1:03 Early color photo with no dyes #shorts #engineerguy #engineering #photography #illinois #invention
@@ -325,36 +317,18 @@ wI-qAxKJoSU 9:42 Nitinol: The Shape Memory Effect and Superelasticity
 ixxXhZVFXxQ 16:58 Britain's Giant Airship: R.101
 UCKC-QVcVn0 10:28 The Engineering of the Drinking Bird
 97ARLiTHjX0 12:06 DLP Projector Stereolithography 3D Printer
-# 765mTZAv6QI 30:49 Fatal Flight audiobook: Chapter Two: Airborne at Last (4/14)
-# clvrO6A8cDE 1:37 A short announcement about EngineerGuy videos (August 2017)
-# mgqZCcccrhU 26:56 Fatal Flight audiobook: Chapter Nine: To Ride the Storm (11/14)
-# vANc6538Zqo 24:46 Fatal Flight audiobook: Chapter Eight: Departure for India (10/14)
-# 8L5TnpiwOzM 19:46 Fatal Flight audiobook: Chapter Seven: Radical Surgery (9/14)
-# uUq_qyjzNgA 19:37 Fatal Flight audiobook: Chapter Six: The Airship Flies Again (8/14)
-# WzIBKfDVYwc 19:44 Fatal Flight audiobook: Chapter Five: Problems with the Cloth Cover (7/14)
-# SOZ9Ujud_g0 33:48 Fatal Flight audiobook: Chapter Four: Inside the Great Airship (6/14)
-# 0YLi5cAIJvc 22:02 Fatal Flight audiobook: Chapter Three: An Inept Command Takes Charge (5/14)
-# rZMlbEYzf6M 25:54 Fatal Flight audiobook: Chapter One: The Debut of the Great British Airship (3/14)
-# NhdGbTL-BtE 15:17 Fatal Flight audiobook: Prologue: The Perennial Promise of Airships (2/14)
-# 97OnTDaLqqk 1:23 Fatal Flight audiobook: Opening credits (1/14)
-# kWEdZYLv2Ns 1:00 Fatal Flight audiobook: Closing Credits (14/14)
-# BtcVWMxFpvI 10:33 Fatal Flight audiobook: Epilogue: Stories of Survivors and the Fate of British Airship (13/14)
-# a3OAnB3ErvA 28:44 Fatal Flight audiobook: Chapter Ten: The Causes of R.101's Crash (12/14)
 xYNX8y6lQMc 6:34 The Engineering of a Disposable Diaper
 hVCNS2jQQ6g 4:26 Apollo: The Alignment Optical Telescope
-# q2GroO9ZI5w 4:18 Upcoming Videos
 COty6_oDEkk 8:03 How a Wind Up Music Box Works
 RMjtmsr3CqA 9:37 Plastic Injection Molding
 qCxco6227xo 2:52 NERF Blaster: Air Restriction Mechanism
 hO09k19IIy4 2:59 Wine Corks: Saving Endangered Birds // An Illustrated Radio Talk
 MhVw-MHGv4s 4:44 How a Retractable Ballpoint Pen Works
-# hhNTAJEKnuY 1:02 Suggest topics for future EngineerGuy videos!
 En__V0oEJsU 8:50 How a Film Projector Works
 hUhisi2FBuw 11:39 The Ingenious Design of the Aluminum Beverage Can
 fHmgF4ibmuk 11:28 RMS Titanic: Fascinating Engineering Facts
 4mBuyixt22U 17:29 Bonus: Rocker arms: sinusoids in two different directions
 XPQwKRt4Y2k 2:54 Bonus: Watch the machine spin around over and over...
-# rMHw9GCAtE8 19:45 Page-by-Page Guide to the Free PDF
 _4zbNJmtbGo 2:41 The Cigarette machine: the invention with the greatest economic impact?
 ZCS0sr29Jiw 2:31 How home air conditioning triumphed over the open air movement
 cv2tOE4ioCI 2:53 Kodak: How George Eastman revolutionized photography
@@ -382,7 +356,6 @@ z7r8sKzt7HM 4:02 Cell Phone Design
 jiejNAUwcQ8 4:53 LCD Monitor Teardown
 oFUUQcpGR3k 3:45 How smoke detectors work
 DIGqBb3iZPo 3:38 Light bulb filament
-# XmKzSDOXejI 1:02 Video for soon to be released videos
 F5Ri_HhziI0 3:43 Why the other line is likely to move faster
 1pM6uD8nePo 3:34 How a quartz watch works
 RdYHljZi7ys 4:46 How the first transistor worked
@@ -393,33 +366,17 @@ G_SC7oWL78A 2:29 The Whiffletree: A mechanical digital-to-analog converter
 bRCNenhcvpw 3:05 IBM Selectric Typewriter & its digital to analogue converter
 hdqKnHFZRWQ 7:16 Theo Gray demonstrates his Element iPad ap -- and "debuts" the Japanese version of the Elements song
 
-# Adam Savage's Tested
 
-# NM9Hxpk_tPo 18:32 Adam Savage's One Day Builds: Annular Cutter Storage!
-# SGUtT2Lo944 1:16:13 Adam Savage's One Day Builds: AT-AT Walker Garage Kit!
 RfNIlmKXOWg 32:40 Adam Savage's One Day Builds: Custom Poker Chip Carrier!
 DPTu47FBkpg 46:04 Adam Savage's One Day Builds: Chinatown Stunt Knife (Corridor Crew FX Challenge!)
-# bJp3B3jZkhE 36:16 Adam Savage's One Day Builds: Aliens Motion Tracker Prop!
-# Arm0Mvx45Us 12:28 Adam Savage's One Day Builds: Adding Casters to Costume Cases!
-# A4v97zfHzcU 28:44 Adam Savage's One Day Builds: Aliens Welding Torch!
-# SSvcKIa1Uws 1:02:37 Adam Savage's One Day Builds: Moby Dick Diorama Maquette!
-# K0FcUntHyKw 58:02 Adam Savage's One Day Builds: Razor Crest Mods, Part 1!
-# GtLCJ2b6XEc 21:46 Adam Savage's One Day Builds: Mandalorian Vibroblade Kit!
 5RL7EYSbc_g 55:52 Adam Savage's One Day Builds: The Matrix EMP Switch! Blitzway's 1/4 Scale Apollo 11 Astronaut!
 wmjZL8nm3MM 46:58 Adam Savage's One Day Builds: Inglourious Basterds Knife Replica!
 zR4X775Y-9E 34:51 Adam Savage Reacts To His First One Day Build!
 S5o9NORnF1o 57:32 Adam Savage's One Day Builds: Papier-Mâché Mask!
 FuMf6-9ZsJo 40:29 Adam Savage's One Day Builds: Vintage Bicycle Restoration!
 rL7k8kjIdow 1:03:48 Adam Savage's One Day Builds: James Bond's Spectre Cane!
-# NMEkK9cdEqg 30:44 Adam Savage's One Day Builds: RoboCop 2's Cain Stop-Motion Puppet!
-# jOXidWIB-gY 20:13 Adam Savage's One Day Builds: Drill Press Modifications!
-# 4GcuGnjv2Aw 29:01 Adam Savage's One Day Builds: Special Effects Syringe!
 9LVFVTMleio 46:32 Adam Savage’s One Day Builds: Head-Mounted Dart Blaster!
-# YIbb-Bck8wc 46:43 Adam Savage's One Day Builds: Blade Runner 2049 Helmet Parts!
-# uzF351VecZA 40:38 Adam Savage's One Day Builds: Painting The HasLab Razor Crest!
 xHS83PFsek4 24:20 Adam Savage's One Day Builds: Weathering the Blaster Vault!
-# NYkF5EwaDBU 19:29 Adam Savage's One Day Builds: RoboCop 2's Cain Robot!
-# hX5Qsrpj9Ao 31:26 Adam Savage's One Day Builds: Surface Plate Cover
 V0kQDCVU_48 36:38 Adam Savage's One Day Builds: Mini Apple Box!
 IeFIhKaJEFo 31:34 Adam Savage's One Day Builds: Dune Sand Compactor Replica!
 uEcx6yb5yXQ 41:33 Adam Savage's One Day Builds: Magnetic Lathe Chuck!
@@ -429,195 +386,48 @@ jQSTJSniXKM 32:25 Adam Savage's One Day Builds: Fixing the Mill's Motor Fan
 gaJgfS_2LZ4 32:36 Adam Savage's One Day Builds: Gauge Block Storage Rack!
 _2kmXLP_uXg 33:13 Adam Savage's One Day Builds: Machining Mystery Prop!
 m6VYpHdBG84 15:48 Adam Savage's One Day Builds: Weathering a Sword Blank!
-# yzy_8tT4TO0 24:35 Adam Savage's One Day Builds: Miniature Astronaut Display!
-# 9TZ5yflpmq4 42:15 Adam Savage's One Day Builds: Ghostbusters Ecto Goggles!
-# 9yzg3a91F5o 45:20 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 4)
-# 2O92DT4x0tg 1:04:21 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 3)
-# HAirnq80dcQ 1:28:50 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 2)
-# OshKZcTFEZY 32:21 Adam Savage's One Day Builds: Ghostbusters: Afterlife Hand Prop!
-# 0FKxM-zNZBk 1:10:32 Adam Savage's One Day Builds: EPIC Spacesuit! (Part 1)
-# dloSR3a57IA 43:24 Adam Savage's One Day Builds: Ghostbusters Proton Pack!
-# NxL4SLzAkao 1:27:29 Adam Savage's One Day Builds: Aliens Colonial Marines Armor!
-# iEaf3t3KUyg 27:25 Adam Savage's One Day Builds: Hasbro Mandalorian Helmet Repaint!
-# zginChewoKU 31:35 Adam Savage's One Day Builds: 2001 Spacesuit Helmet Repair!
 -imr0Cy7NQY 39:42 Adam Savage's One Day Build: Acrylic Display Box!
 xePxGWc_mH0 34:00 Adam Savage's One Day Build: Fake Beard Wiring!
-# # ijosoNfEBP4 37:21 Adam Savage's One Day Builds: Aliens Colonial Marines Shoulder Lamp!
-# iiZ5rh3Uo1o 1:14:52 Adam Savage's One Day Builds: Excalibur Henchmen Armor!
-# dlCiIAS6fsA 26:51 Adam Savage's One Day Builds: MacReady's Hat from The Thing!
 NNNcGCZHvxE 53:53 Adam Savage's One Day Builds: Foamcore Architectural Model!
 ajHmyFX9zvk 24:47 Adam Savage's One Day Builds: Workbench Vise Upgrade!
 OUHShx43JVU 1:01:48 Adam Savage's One Day Builds: Miniature Piano!
 WAxxrBF5V3M 1:16:33 Adam Savage's One Day Builds: Famous Gemstones Collection!
 7D8sXR0ozeE 1:24:21 Adam Savage's One Day Builds: Animatronic Bear Head!
-# 0znjWy-Tr4Q 55:55 Adam Savage's One Day Builds: OneWheel Electric Skateboard Mods!
-# TjvX8GiYA5w 44:30 Adam Savage's One Day Builds: Monster Puppet Kit!
-# QWBFHoJrosY 35:49 Adam Savage's One Day Builds: Star Wars Acrylic Paints Rack!
 l4Uew4czJ1o 41:51 Adam Savage's One Day Builds: Queen Elizabeth's Buzzer Bell!
 cLrqogSndWs 1:09:07 Adam Savage's One Day Builds: Epoxy Headcast Helmet Skullcap!
-# DcNPYycz4nU 57:13 Adam Savage's One Day Builds: Mandalorian Blaster Paint and Weathering!
-# Cj0uLKibPW4 1:37:37 Adam Savage's One Day Builds: Mandalorian Amban Blaster Replica!
-# 4ufQUvxpuAo 36:53 Adam Savage's One Day Builds: Car Engine Model Kit!
 r0aae4df3Aw 37:18 Adam Savage's One Day Builds: LEGO Blade Runner Spinner Model!
-# W1DrW_f_vNo 32:11 Adam Savage's One Day Builds: Hyperdodecahedron Model Kit!
 drLGYpPbrZg 53:36 Adam Savage's One Day Builds: Painting Iron Man Armor, Part 2!
-# 2tQf7cruUMA 37:37 Adam Savage's One Day Builds: Galloping Horse Animation Machine!
 CtGMBOqs0us 1:06:18 Adam Savage's One Day Builds: Painting Iron Man Armor!
-# HqUlPoxrzjM 40:02 Adam Savage's One Day Builds: Hellboy Samaritan Replica Finale!
 ND4Y0gx4aTI 1:05:27 Adam Savage's One Day Builds: Iron Man Armor Boots!
-# zWaQNVGhuyU 30:56 Adam Savage's One Day Builds: 3D Print UV Curing Oven!
 eJUbdNhdhkk 1:46:32 Adam Savage's One Day Builds: Remaking The Crown!
-# I5dH96JunrQ 55:55 Adam Savage's One Day Builds: Resin 3D Printer Station!
 jmYBQSqXnQ4 47:57 Adam Savage's One Day Builds: Shop Dust Collection System!
 of9qY62tWKo 40:53 Adam Savage's One Day Builds: Tabletop Maker's Vise!
-# ATfL9JQ--JE 1:03:05 Adam Savage's One Day Builds: Hellboy Samaritan Prop Barrel Rifling!
-# 5NH1-3NBcOk 1:28:31 Adam Savage's One Day Builds: Micrometer Gauge Box Set!
-# jfUL73pRYq4 1:02:53 Adam Savage's One Day Builds: Studio Ghibli Diorama!
 lUwMEjh2-78 1:12:07 Adam Savage's One Day Builds: St. Edward's Crown
-# 9MLQEC2Hv28 24:51 Adam Savage's One Day Builds: Wire Storage Solution!
-# r93bWMzGo60 1:14:57 Adam Savage's One Day Builds: Custom End Tables!
-# Ic2S9ySxO0I 11:26 Adam Savage's One Day Builds: Lathe Collet Storage!
 apeZO6C0ZeA 51:52 Adam Savage's One Day Builds: God of War's Leviathan Axe!
-# sbqytCVtQb4 21:09 Adam Savage's One Day Builds: New Drill Press Table!
-# 4iIBa0TLe9E 33:32 Adam Savage's One Day Builds: Mercury Spacesuit Wrist Rings, Part 2
-# fM9FtG01wMg 45:11 Adam Savage's One Day Builds: Spacesuit Glove Wrist Rings!
 80YLonnG-Lo 28:24 Adam Savage's One Day Builds: Knight Lighter!
 WQA-x2eYn5E 19:06 Adam Savage's One Day Builds: Custom Painting Shop Tools!
 8Sqo8njgt_0 36:20 Adam Savage's One Day Builds: New Lathe Chuck!
 2UeghPJrUxE 29:12 Adam Savage's One Day Builds: New Workbench Lights!
 gCva75a8ATQ 18:30 Adam Savage's One Day Builds: Electronics Tool Cart!
-# uY7zpvjLx4Q 1:17:58 Adam Savage's One Day Builds: Iron Man Mark I Helmet!
 beGXa1TO6vo 1:47:53 Adam Savage's One Day Builds: Wookiee Feet!
-# Vt0RxHzEhws 1:16:24 Adam Savage's One Day Builds: Iron Man Mark I Armor!
-# WBWUxWoNI5o 1:23:25 Adam Savage's One Day Builds: Hellboy Samaritan Storage Display!
-# eBAWHbi4THs 39:39 Adam Savage's One Day Builds: Hellboy Samaritan Full Teardown!
-# N_tKi14mFrk 23:16 Adam Savage's One Day Build: Sticky Storage!
-# JYWfikf-3DI 24:31 Adam Savage's One Day Builds: Chewbacca's Bowcaster!
-# iuNjDzT6PWo 55:53 Adam Savage's One Day Builds: Luke's Lightsaber!
-# Ww7Ts37eN2g 42:55 Adam Savage's One Day Builds: Hellboy Samaritan Bandolier!
-# SutetC6n9so 42:04 Adam Savage's One Day Builds: Hellboy Samaritan Carrying Case!
-# 4GehjvyAsZs 48:48 Adam Savage's One Day Builds: Baby Yoda Mod and Repaint!
 wnMH1s36WXo 41:14 Adam Savage's One Day Builds: How to Make an Apple Box!
 4JQ4O1SPHSY 56:14 Adam Savage's One Day Builds: How to Build a $5 Sword!
-# aLI-6SmkJLU 1:02:15 Adam Savage's One Day Builds: Han Solo's Holster Belt!
-# ziIKLeacBDo 18:52 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 4!
 WfJtqnSexss 29:01 Adam Savage's One Day Builds: Restoring a Fabric Chair!
 AumnIehXwyI 35:57 Adam Savage's One Day Builds: Staple Sorter and Organizer!
-# csu4jQNFfzA 32:44 Adam Savage's One Day Builds: Drafting Tools Sorting Drawer!
-# 1NWAxkDZ9xs 34:13 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 3!
-# gygyNt2AnKA 26:24 Adam Savage's One Day Builds: Giant Swiss Army Knife Repair!
-# inQ16HamIWk 52:25 Adam Savage's One Day Builds: Hellboy's Samaritan Prop, Part 2!
-# lsXLGT5N2uo 1:17:55 Adam Savage's One Day Builds: Ghostbusters Ecto Goggles + Vacuum Former Rebuild!
-# Pb1BpA7QN3U 47:41 Adam Savage's One Day Builds: Hellboy's Samaritan Prop!
-# HWnDC6KzLg8 28:19 Adam Savage's One Day Builds: LEGO Mandalorian Razor Crest!
-# chbZJAJ9y68 25:33 Adam Savage's One Day Builds: Miniature Shipping Container!
-# 7aGfiNy9Oos 28:23 Adam Savage's One Day Builds: Table Saw Fence Upgrade!
-# BEVEYvAO3rI 21:32 Adam Savage's One Day Builds: Car Seat Dog Bed!
-# 8PEc5blz_fY 21:20 Adam Savage's One Day Builds: Planer and Spindle Sander Station!
-# BbrQ4OX-1-E 32:29 Adam Savage's One Day Builds: New Cut and Sew Station!
-# XVEww6Ylw5c 41:23 Adam Savage's One Day Builds: Thread Tapping Guide Block!
 EXaDxl60rTQ 54:24 Adam Savage's One Day Builds: Brass Watering Can!
-# OxkszitNWN8 17:46 Adam Savage's One Day Builds: Upgrading Captain America Shield!
-# lp85yyPSP10 43:29 Adam Savage's One Day Builds: Custom Workshop Apron!
-# ivaxOv25RaI 16:13 Adam Savage's One Day Builds: Letter Stamp Holder!
 J170jeH0yXU 34:59 Adam Savage's One Day Builds: Foam Prop Safe!
-# BTGN5QNyA-8 42:41 Adam Savage's One Day Builds: Machinist Tool Drawers!
-# 4MVxJNawefM 23:26 Adam Savage's One Day Builds: Tintype Photo Clamp for Gary Oldman!
-# m-ayU2GCQ_Q 34:50 Adam Savage's One Day Builds: Drill Press Modification!
-# _KfaSiD-7iY 38:35 Adam Savage's One Day Builds: Lathe Chuck Rolling Rack!
-# fru2G4bGL14 40:30 Adam Savage's One Day Builds: Lathe Tailstock Repair!
 98MCz9gQaiE 32:41 Adam Savage's One Day Builds: Giant Nut and Bolt!
-# R-De84JfQBU 24:26 Adam Savage's One Day Builds: Spacesuit Display Stand!
-# eiQuBonhGiw 31:00 Adam Savage's One Day Builds: Workshop Filming Slate!
-# EWXcnVTY3pk 46:48 Adam Savage's One Day Builds: Air Tools Sorting Boxes!
-# ieDYlkJTNYI 20:38 Adam Savage's One Day Builds: Custom Pistol Whip Controller!
-# hIs3lioHoAo 21:44 Adam Savage's One Day Builds: Headphone Rack!
-# qE68mYkpZvQ 31:02 Adam Savage's One Day Builds: Portable Audio Recorder Rig!
-# oSHoo_thI2Y 37:24 Adam Savage's One Day Builds: Front Porch Table!
-# TsWG4nSi-Hs 42:45 Adam Savage's One Day Builds: Stitching Pony Clamp!
-# frwLir1A_qg 42:55 Adam Savage's One Day Builds: Making a Stable Workbench!
-# ritwf-_iOlg 1:08:55 Adam Savage's One Day Builds: Mini Chop Saw!
-# -xWGRVL-ExA 18:38 Adam Savage's One Day Builds: Mini Machine Vise!
-# 65r_1TzJXaQ 50:07 Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!
-# vOROGorDG6s 33:34 Adam Savage's One Day Builds: Fiber Optic Microscope Ring Light!
-# A3-9Vk_2be4 32:31 Adam Savage's One Day Builds: NASA Retro-Reflector Replica!
-# TT8PzFaZ0Zw 36:54 Adam Savage's One Day Builds: Lithium Ion Battery Charging Station!
-# I7U-QCTS9Os 39:29 Adam Savage's One Day Builds: Repairing Vintage Aviators!
 nCrB0FnW__s 28:19 Adam Savage's One Day Builds: Movie Sword Rack!
-# 0nLlCmZspVM 20:57 Adam Savage's One Day Builds: Tweaking the Table Saw!
-# yWRLz_r_d3A 33:32 Adam Savage's One Day Builds: Little Thwacker Hammer!
-# ZNwvjaIW-pU 1:00:10 Adam Savage's One Day Builds: Making a Die Filer Machine!
-# eVnWyEvT-KY 27:09 Adam Savage's One Day Builds: Lathe Infrastructure Upgrades!
-# PLHUcP8LfkM 1:28:25 Adam Savage's One Day Builds: LEGO International Space Station!
-# jPAGZpNZrwU 54:21 Adam Savage's One Day Builds: How To Build a Box!
-# z_Ti4GP0ntE 1:07:08 Adam Savage's One Day Builds: Refrigerated Cooling Suit!
-# ZjpPgv9XtJA 19:46 Adam Savage's One Day Builds: Thermal Detonator Kit!
-# SgCJeoDNmYU 41:21 Adam Savage's One Day Builds: Poker Table!
-# x8YTMPuvTGw 33:49 Adam Savage's One Day Builds: Dinosaur Skull Lamp!
-# Bw-ttd_EELA 13:54 Adam Savage's One Day Builds: Rickshaw Carriage!
-# TqWhLPsEJE8 23:21 Adam Savage's One Day Builds: A Fake Can of Beans!
-# 8uGS11yuVyo 34:37 Adam Savage's One Day Builds: Portable Soldering Station!
-# JMv0PlMKkbs 20:54 Adam Savage's One Day Builds: Gaslamp Lantern Prop!
-# 6ps4vbQ6Tk0 28:02 Adam Savage's One Day Builds: Workshop Hardware Storage!
-# 3JRbGcyPUnk 26:11 Adam Savage's One Day Builds: Custom Beat Saber Hilts!
-# MP5pbJ6Ajjc 24:32 Adam Savage's One Day Builds: Space Camera Shroud!
-# kjxdWnUBmpU 37:16 Adam Savage's One Day Builds: No-Face Animatronic Mouth!
-# Dt6BQPNGGTw 41:52 Adam Savage's One Day Builds: Star-Lord Cosplay!
-# vqqEFEgx-ZI 35:00 Adam Savage's One Day Builds: Star-Lord's Walkman!
 3jdF1yVBWdc 20:09 Adam Savage’s One Day Builds: Project Egress Apollo Hatch!
 Srg47mr4X5A 14:01 Adam Savage's One Day Builds: LEGO Lunar Lander
-# Bh6C2O77EpI 14:39 Adam Savage's One Day Builds: Cave Museum Display!
-# YZV4A4Kl0yM 28:20 Adam Savage's One Day Builds: Hero Prop for TV Show!
-# 2NYtPWhdhhQ 15:54 Adam Savage's One Day Builds: Iron Man Armor Stand!
-# 7uS7A4x31PY 34:16 Adam Savage's One Day Builds: Scratch-Built Spaceship!
-# vCi5usulDIo 1:20:48 Adam Savage's One Day Builds: Swordmaking at Weta Workshop!
-# 7oGslDjTnHI 29:33 Adam Savage's One Day Builds: Mortal Engines Hand Cannon!
-# 6iIZ9rnS6HU 1:02:24 Adam Savage's One Day Builds: Eric Idle's Guitar Case!
-# ZfvtGrhYk0I 26:44 Adam Savage's One Day Builds: Kit-Bashing and Scratch-Building!
-# MxLOoriXkMc 46:22 Adam Savage's One Day Builds: Overengineered Bottle Opener!
-# GEhBPI2QVBI 0:34 Last Call for Adam's One Day Builds T-Shirt!
-# QCBcWm85gWo 15:33 Adam Savage's One Day Builds: Kit-Bashing a Robot!
-# BpaYqFd5S5c 0:48 Adam Savage's New "One Day Builds" T-Shirt!
-# WnJDYjbWCwI 1:10:53 Adam Savage's One Day Builds: The First Spacesuit!
-# AXzurpmc8SE 39:15 Adam Savage's One Day Builds: Everyday Carry Bag!
 G7MDrUG4cws 36:59 Adam Savage's One Day Builds: 1000 Shot NERF Blaster!
-# 9XB4Be6TjHU 55:21 Adam Savage's One Day Builds: Snub-Nosed Blade Runner Blasters!
-# JL3uZ88vA_0 19:54 Adam Savage's One Day Builds: Custom Workbench LED Lamp!
 F48rk7h-GDo 35:33 Adam Savage's One Day Builds: Foam Ringwraith Gauntlet!
-# wl558EoTuEQ 30:19 Adam Savage's One Day Builds: Blade Runner 2049 Binoculars!
 H9L3pX8zTPE 10:27 Adam Savage's One Day Builds: Cave Bathroom Upgrade
-# 8qvlpRBeMNY 25:19 Adam Savage's One Day Builds: Foam Cosplay Sword!
-# BGlcF4Bpg78 37:01 Adam Savage's One Day Builds: Excalibur Sword!
-# dqmF2_h8icM 38:35 Adam Savage's One Day Builds: A Better Tape Dispenser!
-# 9xpPXpnnCNI 39:25 Adam Savage's One Day Builds: Chewbacca and C-3PO!
-# 1gJ4_Hc17cM 35:38 Adam Savage's One Day Builds: Chewbacca's Bandolier!
 cwOXSXkW-uE 31:49 Adam Savage's One Day Builds: Custom NERF Rifle
-# -HfaLqmRO1k 21:52 Adam Savage's One Day Builds: Ping Pong Machine Gun!
-# M4M3I0nXEMI 23:41 Adam Savage's One Day Builds: Vsauce Glasses Hack!
-# G96YQQ7vW8w 20:26 Adam Savage's One Day Builds: Pedal-Powered Strandbeest!
-# 7JrCejRYGAM 56:27 Adam Savage's One Day Builds: NASA Spacesuit Parts!
-# L9O3KWrvxKA 42:47 Adam Savage's One Day Builds: Totoro Costume!
 0cQ91lO4pH0 30:03 Adam Savage's One Day Builds: Bear Costume!
-# qSr_qLkVqDw 19:08 Adam Savage's One Day Builds: Kylo Ren's Costume Gorget!
-# 3KpdjGlHB30 12:44 Adam Savage's One Day Builds: Iron Giant Bolt!
 ssxCQuv3KzE 13:45 Adam Savage's One Day Builds: Foamcore House!
 U46Yo_6z_F4 21:30 Adam Savage's One Day Builds: LEGO Sisyphus Automata!
-# gcDCZ2TmTck 29:20 Adam Savage's One Day Builds: Hellboy Sword!
-# 8UmBKWQ52oQ 27:53 Adam Savage's One Day Builds: Puppy Car Seat!
-# JYwNuP7cwJs 35:37 Adam Savage's One Day Builds: Making a Puppet!
-# jaVi06DaTk0 37:21 Adam Savage's One Day Builds: Star Trek Captain's Chair
-# LHITcrnGn1U 1:08:35 Adam Savage's One Day Builds: Cylon Models with Battlestar Galactica's Aaron Douglas!
-# CBHQ7lQGOf0 1:00:04 Adam Savage's One Day Builds: Cosmonaut Model Kit
-# QWiqr-lwYA0 1:07:23 Adam Savage's One Day Builds: Barbarella's Space Rifle
-# Et-JvYrQ84o 30:39 Adam Savage's One Day Builds: Custom Multi-Tool Belt Holster
-# O1--0DLJv-8 25:10 One Day Builds: Customizing Adam's Hero Sword
-# lPLvkrtqkJ8 33:00 Adam Savage's One Day Builds: Traveling Beaver Box
-# 4sCReGjfZ_A 16:37 Adam Savage's One Day Builds: Han Solo's DL-44 Blaster
-# 0JnTThZMJAg 13:12 Adam Savage's One Day Builds: Strandbeest Model Kit Fitbit Zip Wireless Activity Tracker
-# YXzxEqdvuIE 31:11 One Day Builds: Adam Savage Demonstrates Weathering Tricks Mophie Juice Pack Helium for iPhone 5
-# -tUHJnl8qPM 32:11 One Day Builds: Adam Savage Makes Something Wonderful from Scratch Sony NEX-5R Mirrorless Interchangeable Lens Camera
 
-# Tasting History
 
 lYZq2ZnwPZA 0-3:14,4:17-16:02 Irish Soda Bread from 1836
 IfcQcAPt5vk 0-2:00,3:00-18:58 Feeding a Medieval Outlaw
@@ -748,7 +558,6 @@ S8KpFs1CHgw 19:28 Irish Stew From 1900 & The Irish Potato Famine
 MaYPEvDuo1I 17:21 Aztec Chocolate - Blood & Spice
 biE0ifWNfU4 16:49 Making Ancient Egyptian Bread
 X-L2fVjnHFE 16:21 The Legendary Medieval Cockentrice | 1st Anniversary Episode!
-# RJsjHSyWlPE 1:17:50 Tasting History 1st Anniversary Q&A
 0Ljm5i5N6WQ 17:38 Semlor: The Dessert That Killed A King
 An6myivFE8A 17:10 Ancient Nian Gao | Lunar New Year Cake
 oPTdSMOQRnY 18:31 How to Eat Like a Pirate: Hardtack & Grog
@@ -766,14 +575,12 @@ zKa5GRu4LwE 16:16 What Did Medieval Peasants Eat?
 FF0HnhuzGak 16:03 Pumpion Pie from 1670
 1MAB-VVqjOE 18:47 Making Medieval Mead like a Viking
 D-QHd4_1geE 0-4:40,5:35-18:42 Silphium: The Lost Aphrodisiac of Ancient Rome
-# 1hHYk2evUZQ 1:00:31 Election Cake with Q&A
 tpWdzXJObZ0 12:24 Soul Cakes & Trick-or-Treating
 M2bh80b40D4 18:47 The History of Sugar Part 2 | Victoria Punch
 ehVesZ0JS8Q 17:32 The History of Sugar Part 1 | Medieval Arabian Pistachio and Rose Candy
 o4YmvQt29ko 17:46 Scappi's Renaissance Herb Torte
 oqQzWg9pXmg 15:57 Spartan BLACK BROTH | Melas Zomos
 uA98IonYvb4 15:40 Precedella | 1500's Pretzels made with Wine
-# eXWYmTf93Ms 1:02:28 Making Baked Pumpkin "Doughnuts" & Live Q&A
 2FpEEb44suM 16:55 Yuanxiao from the Ming Dynasty
 NPxjQetKPoo 15:26 Quesadillas Cernidas & Aztec Maize
 luz_AqzDkKI 11:10 FARTS OF PORTINGALE | A Shakespearean Treat
@@ -784,7 +591,6 @@ SD3WKbXhm6M 15:13 The Wonderful History of Pancakes
 3xZ0QJQpn1g 13:20 Payasam | Medieval India & Dessert for the King
 XtkAU4juIZU 13:56 KYKEON | The Drink of Greek Heroes
 IB1C0BL0ZlA 13:28 Civil War Bread Pudding
-# 9apP8NYt9LA 1:06:29 Tasting History Q&A #1
 LYBccRqsv6M 17:31 Making Hippocras at Home | Medieval Spiced Wine
 Sw2qrt6tOKw 12:18 The Bread of ANCIENT ROME | Pompeii's Panis Quadratus
 beBQgxdu2eY 10:50 The Poisonous History of Tomatoes | Pomodori Farciti all’Erbette (1773)
@@ -811,7 +617,6 @@ ZlMhZvOX2ps 8:18 Making 400 Year Old Buttered Beere
 GCCJ2Qpr1nM 11:29 Baking A Medieval Cheesecake - The History of the Sambocade
 vlQZ3NPnoLk 6:49 How to Make Medieval Cheese
 
-# Sally Pointer
 
 kShEdlqLLdM 6:48 Hedgebotherer on Tour: part two. Yellowstone and Rabbitstick
 s-m8Ng3Qg6g 9:15 Visiting the Fourteenth Century knitted cap at St Denis, Paris
@@ -942,7 +747,6 @@ ZTGLUDEEWko 11:27 Nettle Fibre Processing
 62PvfIR0xDg 4:42 Simple Cordage Instructions
 ebYZidfmn-0 7:55 Making Natural Cordage from Horseradish
 
-# Stuart Forester
 
 XAMyCJP08kg 3:15 Stuart Forester & Carol Anderson Say Goodbye To Your Grimsby Lass Green Note London May 2015
 MWBT6G1u3-0 4:12 Stuart Forester & Carol Anderson Come Where The Willows Are Weeping London Green Note 2015
@@ -972,7 +776,6 @@ XibkHDKiztU 4:37 Glenlogie Wizz's Sitting Room, London, Jan 2012
 M5KqUClQ4YI 5:17 Stuart Forester - A Letter Home To England live
 Z-IK884rp1I 5:48 Stuart Forester - Swarthfell Rocks
 
-# Alfie and Jon
 
 qa1S2iKrZkk 3:53 Jon Dyer & Alfie Gidley - Key to the Cellar/Rusty Gully
 4o54hkBoRGU 4:52 Jon Dyer & Alfie Gidley - Mount Hills/Princess Royal
@@ -1002,87 +805,13 @@ N7w4TWtE3zw 0:43 Jon and Alfie at 'Gidley Studios' Day 1
 ZTZYwZlezz8 5:05 Jon & Alfie: "Banish Set" Live
 Fb-Y1Tm1r7g 4:26 Jon & Alfie Banish Set
 
-# Tom Vincent
 piK6ieBiX7k 51:04 Once in a lifetime - The last place in England
 pMMcl-gi0JM 32:55 A Brief History of the Welsh Language
 
-# Pellwolok an Gernewegva
-# VGSmdv5JRE0 0:41 Kegin Esther - rann 2 - PROMO
-# Slw2d9n1FTw 13:31 Kegin Esther - Kregyn Prierin - KES02EP01
-# JgrgDAL3n4I 4:31 "Nearly Home Trees" (Cookworthy Knapp) by Skwardya
-# 2FcZI254y94 8:26 Kegin Esther - Gool Piran 2025
-# yaH7_d-paq4 1:00 Lowender 2024 - Dy' Sadorn y'n jedh
-# N3HJANNm4dI 5:42 lamorna FINAL
-# ZWauh0lYi08 3:10 Skogynn Pryv
-# yPoc_Y4yWTE 2:01 Tro dhe Vawgan
-# JcEEVcs804w 7:28 Pennseythen Gernewek 2024
-# vyrEkU8vLuk 31:29 An Mis 67: mis Meurth hag Ebrel 2024 (March/April 24)
-# Ty9XEC8Kkjw 1:41 Coming soon on An Mis / Yma ow tos yn skon
-# 3PYlBFL5AZQ 4:40 'Gwandryas Iwerdhon' (Irish Rover) in Cornish by Skwardya
-# jLb2ImHft8g 4:39 Gool Piran yn Resrudh 2024 / St Piran Festival in Redruth 2024
 RO5P1BPT6Bc 1:46 Headframe Refurb at Crofty
-# h1YZUUa2iX0 33:16 An Mis 66 - mis Hwevrer / February 2024
-# 4glUtVDqmGo 3:39 'Steren a-wartha' - Hwerydh Eledh
-# HjD44zOFX1E 2:38 "Kyn fe yeyn" - Te Rewys gans Tallessyn.
-# DaX1jB2ZPqE 30:14 An Mis 065 - Mis Kevardhu/December 2023
-# jEHMqhsJmnY 31:22 An Mis 64 - Mis Du / November - Lowender
-# NqnV7yRqNBk 14:32 Rod ha Jori - rann 2
-# krcM2WwM8KA 28:14 Dydh Kemo - Chemo Day - SUBTITLED
-# JVgZmckS8_8 15:39 Rod ha Jori - rann 1
-# CvSB3oY0PAQ 27:50 Dydh Kemosawment
-# yXNbK1WhpcU 29:24 An Mis 63 - mis Hwevrer 2023 / February 2023
-# c8_Afdi9cjc 32:54 An Mis 62 - Mis Genver 2023
-# 7GixR8NZEoA 3:14 "Gava, byrla, kara" - Sarah Tresidder
-# nQ5NnrcEgcc 30:38 An Mis 61 - mis Kevardhu 2022 - December 2022
-# VT5Y9yHvces 34:28 An Mis 60 - mis Du 2022 - November 2022
-# SgPk9oErahw 15:06 Kreft Kernow
-# hST4dBO3u8s 31:05 An Mis 59 - mis Gortheren / July 2022
-# NbNKeTKQoh0 31:21 An Mis 58 - The Month - mis Metheven/June 2022
-# tX0PGd9OXvI 31:47 An Mis 57 - mis Me 2022 (May 2022)
-# kp-H_njhc98 14:50 'Bys Lowartha' (Gardening World) Episode 2 (Gwenton/Spring)
-# Lsowfu5IUPw 31:43 An Mis 56 - mis Ebrel 2022 (April)
-# sfaaIvV8hyA 3:11 'Gas vy a'm growedh' (Lay me down) - Skwardya
-# mQZHscVD_L4 32:58 An Mis 55 - mis Meurth 2022.
-# y7NwRVV0P3w 32:45 An Mis 54 - mis Hwevrer 2022
-# IK6cAOHSGKw 32:15 An Mis 53 - Mis Genver 2022 / January 2022
-# jAQVxCEtxiQ 30:31 An Mis 52 - mis Kevardhu / December 2021
-# ekEedaK7Yiw 2:22 Neyj vy bys dhe'n loor / Fly me to the moon (Cornish version)
-# WvHNt_qOKkU 29:49 An Mis 51 - Mis Du - November 2021
-# VLwenMVn5MQ 12:42 Bys Lowartha - Kevres 1 - rann 01
-# lM5fme6fhi4 29:22 An Mis 50 / mis Hedra 2021
-# tJhGVZakyZs 21:22 An Tonji 4 - Cornish language music show
-# xSpFs0pvGhs 32:58 An Mis 49 - mis Gwynngala
-# qFx0hr2Ou38 30:44 An Mis - Derivas Arbennek: Pan dheuth an bys dhe Gernow
-# wqjy31E3qf0 23:11 Skwardya dhe Wooth Kernow 2021
-# bE_Q7gYLzD8 35:19 An Mis 48 - mis Est 2021
-# MVt6X4OyiM4 30:02 An Mis 47 - mis Gortheren 2021
-# A7ni6KGBjug 36:59 An Mis 46 - mis Metheven 2021
-# Jk9S7vt4T1s 4:44 Tansys Golowan Sen Stedhyan
-# jtsesAy0BSk 0:38 Howard Curnow
-# QkIafpJCmHE 32:23 An Mis 45 - mis Me
-# PVE5sAUf5kU 19:39 An Tonji 3
-# LrRJOxlyRCQ 29:14 An Mis 44 - mis Ebrel 2021
-# 3huASEi-wFE 32:48 An Mis 43 - mis Meurth 2021
-# ES9x_XR0h8s 34:00 An Mis 042 - mis Hwevrer
-# 2MLxi4qn344 4:57 'Trelawny' - Skwardya
-# _xumHvG-iZk 22:55 An Tonji 2
-# PTkosdVrgqY 32:55 An Mis 041 - Mis Genver 2021
-# TvG5r_d1xeM 30:34 An Mis 040 - mis Kevardhu
 2tbWSy0SY1M 19:24 Joan Petchey - Elowen
-# BkCeQ3Wl3EM 23:10 An Tonji 001 (The Sound house)
-# HvMTJI40Bdk 0:19 Remembering Joan Petchey - pioneer of spoken Cornish revival
-# tJ3NkvF84jg 0:14 Joan Petchey 100th birthday - Julian German
-# rG8whm7dgbo 0:21 Joan Petchey 100th birthday - Grand Bard
-# 6w4O5OCGIY0 30:50 An Mis 37 - Mis Gwynngala 2020
-# KAsk7fUBQdg 30:08 An Mis - Mis Est - AnMis036
-# hq_KKbV0kVo 35:22 An Mis 035 - mis Gortheren
 Kz2FhpXZOUI 1:34 My a gar... esedha...
-# Tho_CwU6y3g 30:45 An Mis 34 - Mis Metheven
-# jSrN64FEYp0 0:10 My a gar an mor - Malcolm Bell
 M2iZQn1JVp4 2:58 Kernewek y'n Chi - An Karrji
-# Dq6tFyGG0ho 29:35 An Mis 33 - Mis Me 2020
-# 1nD6VHPriK8 30:06 An Mis 032 - Mis Ebrel
-# RXtjWJp3IqM 3:52 "Omwith" - Graham Sandercock
 17D3tdvpjoo 8:25 Cornish in the House - 'dydh pobas' (baking day)
 A7YwXxxSP_M 2:39 Cornish in the house - Goskeusel an lugarn - The lamp-shade
 a7ThtBY4Ocw 2:40 Cornish in the House - 'Diank am gweli'
@@ -1093,62 +822,18 @@ zGKonqZLW8A 3:25 'Gortos Tre' (Staying Home) - gans Matthi ab Dewi
 wKhYRwI39js 1:52 'Ponn' - Dust
 -KQerOL4Lfo 4:39 Cornish in the house: Making tea
 CY6ZUuk70ZQ 4:35 Cornish in the house - Washing hands
-# hvnIOVEJot4 32:33 An Mis 31 - Mis Meurth 2020
-# IxVOIyTlAtQ 32:07 An Mis 30 - mis Hwevrer
-# 4gKEtfJIHKI 30:25 An Mis 29 - mis Genver
-# WYCQlnSewXc 10:19 Kan rag Kernow 2020
-# u8AwFZ58CGQ 30:05 An Mis 28 - mis Kevardhu
 pMhx4zKXdO4 31:05 Jerry hag Erel 2
-# MgfqJeniYjU 32:31 An Mis 27 - Mis Du
-# Uz1a6DJeORg 26:05 Jerry hag Erel - 01
 4VrR7ZXLVcw 26:05 Jerry hag Erel - 01
-# zIXaFxkUuxc 35:28 An Mis 26 - Mis Du
-# TPpy8Q3TNSk 43:37 AnMis025 - Mis Gwynngala
-# 1rz85vods5M 32:56 AnMis024 - Mis Est
-# loNp_fyr6BE 33:10 An Mis 023 - Mis Gortheren
-# GMA-F6FKG14 43:40 An Mis 22 - Mis Metheven
-# j4hDlYuxcVM 29:19 AnMis 021 - Mis Me / May
-# pEsG6tE7MRs 1:06 The Cornish Language Fellowship / Kowethas an Yeth Kernewek
-# _RpVpyonWzM 5:00 Cornish Language Plan 2019 is accepted.
-# UNwn9KfYmMo 32:09 An Mis 020 - Mis Ebrel
-# 3Fqz1sEJenA 32:22 AnMis 019 - Mis Meurth
 bH2kWCcBxc0 4:41 Bramm ha Bramm 2
 FefgSevflVM 12:48 Viaj an Delow
-# TCy5l4Ok3KE 33:42 An Mis 018 - Mis Hwevrer
-# DJn_KZw7WfM 45:32 An Mis 017 - Mis Genver
-# xyh0rdu2cRk 0:48 Cornish Language Weekend 2019
 zaEj2oD2rWY 27:27 Jaqi ha Jerry 2
 cxZXIAGey6Y 0:33 Yn Kov Stephen Gainey
-# yWCAbXAYzbo 36:22 AnMis016
 sKPoZxjmo6g 30:27 Esedhvos Morganow
-# pokwOfUWqz4 30:51 AnMis015 - Mis Du
-# p9rfNkL46JY 32:14 An Mis 014 - Mis Hedra
-# x_UgtFKQuWo 35:12 AnMis013 - Mis Gwynngala
-# mltwoDJLE5Y 31:12 An Mis 012 - Mis Est
-# VxJA5lAbg2k 30:08 AnMis011 - Mis Gortheren
-# 3oikqiJNX2I 28:25 AnMis010 - Mis Metheven
-# Q-d-RZhLODE 31:05 An Mis 009 - Mis Me
-# wpxenPf6G2w 26:37 Anmis008 - mis Ebrel 2018
 2t2VHovxkkc 23:05 Jaqi ha Jerry 1
-# FDA_kP66Af4 28:37 An Mis 7 - Mis Meurth 2018
-# F7GV8o-Wqbw 27:11 An Mis 6 - mis Hwevrer 2018
-# yfFCrkLGzxQ 34:20 An Mis 005 - mis Genver 2018
 bsVoZaiIYBk 4:10 tresor rowan tree
-# wwWSrsuo9UQ 27:12 An Mis 4 - Mis Kevardhu 2017
-# m5sSQW1ujyU 23:10 An Mis 3 - mis Du 2017
-# oqfJVbG8K4Y 20:47 An Mis 2 - Mis Hedra 2017
 HPmZYBTXUGk 2:39 Kresen Kernow
-# fvJYqvKzZQ8 6:27 An Mis 1 - mis Gwynngala 2017
 aQRXRYnUf1Q 14:21 rosya03
-# 7oipzomINU8 23:28 lorient2017 ENGLISH
-# DJG8RU6cHjM 23:54 An Oriant 2017
-# -pboPHyRb9k 2:59 maggi me FINAL
-# t_1EzCsq9Lw 0:44 Dhe'n Arvor / To the coast
-# KpjTGpMcnRE 1:40 Gool An ikyon
-# 6vARZEZKk3Q 1:36 geekfest2
-# DLa6UMrZRs4 8:38 Ni a vynn mos y'n tren
 UKH5sLLwX84 10:18 G&S An Hwedhel
-# G5GkypWgxzg 1:21 George ha Samantha rag seythen #SpeakCornish
 lesAwe_zL7M 11:03 solempnyans an gov
 70fwGphbztg 0:18 speak cornish in 'Kowsva'
 4kVjWipsd84 6:15 Dydh Musi 2017 / Mazey Day 2017
@@ -1177,12 +862,9 @@ _-EK5GI3VTo 29:15 An Bennseythun Gernewek 1996
 4qzowCnMn5c 25:05 An Bennseythun Gernewek 1991 rann onan
 31Ks1xEWnNg 2:24 Cornish Language on Great British Railway Journeys
 
-# Association for Cornish Heritage
 NuEoRnfHlBY 4:19 Before the Poppies
 uQYJM_JXyfQ 4:31 St Piran's Day in Newquay 2024
-# -ZQ-1R-KhBo 56:55 St Piran's at St Michael's Church Newquay 2023
 Kyejfdf-gvU 19:48 Harry & Carrie by Merv & Alison Davey
-# xvVqx6A0YLE 1:23 Collapse of Cornish Stone Hedges A3075
 XPX34Tfw7aA 6:27 Douglas Pinder Life & Work
 sbnN3vX8NW4 4:07 The Fields of Athenry
 X-OghGpvYv4 15:50 St Piran's 2022 - Oll an Gwella
@@ -1213,9 +895,6 @@ HU7U56pmO8E 11:54 Cornish Pipes - Gool Perran 2021
 5b0YxxfvFLU 20:00 Cornish Diaspora
 5EYESIV_5uY 17:21 Cornish Storytellers - Mike O' Connor & Yvonne White - Friday St Piran's Day
 W_DUDLQx3zc 9:23 Kegin Esther - Cornish cooking - Cornish Pasties
-# Rq7xVYb0Cn8 6:36 Tamar Stamp Dance with Rosie Fierek
-# Jx0hocUqpeo 7:21 Newquay Library - I brushed my teeth with hair gel
-# gwBLGZIMWQ8 3:52 Tales From Porth - 'Goraswonnek' by Will Coleman, Read by Elizabeth Carne
 lI-8ZxNKF-Q 51:51 Tide & Time by Blystra Arts in collaboration with Newquay Heritage Archive & Museum
 N6GwYa58eXI 0-4:18,11:07-58:41 Past St Piran Processions
 OTKOzWj7L3k 9:50 Chris Blount Archives - Gigs, Boating Lake & Cathedral Concerts
@@ -1228,20 +907,14 @@ XLILDtTIfHQ 14:58 Newquay Rowing Club Singers
 nWi_X30bSus 14:19 Cornish Dancing Mix
 FiG99dWc1tc 16:15 Cornish Storytellers - Barbara Griggs & Moe Keast
 k01e9XkiB60 9:42 Kegin Esther - Cornish cooking - Hevva Cake
-# M0JaubC0fxo 6:21 Tamar Broom Dance with Rosie Fierek
-# rhs53YYKk9k 16:42 Newquay Library - There's something nasty in my pasty
-# nH3BwItdiB8 5:01 Tales From Porth - 'Kanker' by Will Coleman, Read by Elizabeth Carne
 jZrgnnkpUxQ 40:52 Urban Kelt Session Wednesday 3rd March
 67NGoFsiWbk 4:02 Newquay Heritage Archive & Museum - Introduction to 'Together Against Plastics'
-# I9ICCnuAN4w 18:54 Newquay Male Voice Choir with contribution from Cornish Federation of Male Voice Choirs
 A1aw6KRKjMI 10:18 Cornish Story - Cornwall's Smaller Villages
 FxIeUw161bs 14:28 Kernewek Sing along (Lowender Peran)
 kqCKtiHiFcM 8:37 Newquay Community Orchard - Pruning Apple Tree's
 8bHknZsRG88 9:48 Wassel Kernow 2021 (Newquay St Piran's Festival)
 Ic1ixEb3VkE 15:53 Cornish Storytellers - Mike O'Connor & Moe Keast
 BYosn_PD-yc 5:55 Kegin Esther - Cornish cooking - Blackberry & Apple Jelly
-# pObC7e-GgHA 10:14 Newquay Library - The Little Sea Dragon's Wild Adventure
-# q9riqyMFQxw 3:56 Tales From Porth - 'Lester' by Will Coleman, Read by Elizabeth Carne
 TGo8M09j1fw 42:48 Urban Kelt plus An Tonji St Piran Special
 xVxAcEVQNNs 7:20 Newquay and the Sea by Peter Hicks (St Piran's)
 34GZWN0DM4A 13:56 Newquay Cornish Language Class
@@ -1250,9 +923,7 @@ zyGZI7aR3Ac 10:06 Newquay Community Orchard - Cornish Wildflowers Part II
 eTg5ms2CEHo 8:24 The Cornish Stone Hedge St Piran's Edition
 2qkiu0JKY-I 15:59 Cornish Storytellers - Tuesday
 C1v15hZK-uI 6:02 Kegin Esther - Cornish Cooking - Elderflower Wine
-# iBgQXOn8drg 3:52 Tales From Porth - 'Dyskadores' by Will Coleman, Read by Elizabeth Carne
 NqRkFLQehXI 40:31 Urban Kelt Session - Cornish Celtic & Indie Music
-# _7NryzJbxDA 19:39 Canoryon Lowen
 6atGTLhz6Xg 8:24 Cornish Wrestling - St Mawgan in Pydar, Cornish Wrestling Tournament
 dUjGNofEkOE 8:06 The Tournament by Mark Jenkin - Cornish Wrestling
 i1rmhEqe0JA 9:55 Newquay Community Orchard - Cornish Wildflowers Part I
@@ -1261,8 +932,6 @@ UAM_UMw19fo 10:21 Chris Blount Archive - Muriel Lyon talks about Newquay in the 
 S3cLfLtGaW4 8:36 Cornish Story - Cornwall's Story Online
 CHJK72Jptew 14:41 Cornish Storytellers - King of the Fishes by Mike O' Connor
 Fvdmg1PDrZ8 7:47 Kegin Esther Cornish Cooking - Saffron Buns
-# -hJnXuCxNd4 7:59 Newquay Library - Mousehole Mice and the Theatre by the Sea
-# XcPQLrzXpeo 3:56 Tales From Porth 'Goolan' by Will Coleman, Read by Elizabeth Carne
 11MPh_lweJU 4:03 Welcome to Newquay St Piran's Festival 2021
 3HoTaFbLxbc 9:26 Radio Cornwall 'Jim Christophers' Newquay St Pirans Festival 2021
 mWYLL0JhOGk 2:12 Newquay BID supporting Newquay St Piran's Festival V2
@@ -1274,10 +943,8 @@ nTSXhI9oGCI 8:06 Introducing the Kernow Goth Website
 0kFynQ0aZRg 7:16 The Early Development of Newquay to c1900
 9_Zbu3giLJ4 7:21 History, Heritage & Archaeology - Studying in Cornwall
 H5yQP5nfL4s 10:43 Margaret Stevens Hevva Cake & Crying the Neck
-# mAoyWs8-aG4 2:31 A View from Castle an Dinas Video & Music
 iGem368pcBw 0:37 Early Newquay Film B&W
 BvepLP2ksdU 0:37 Early Newquay Film Colourised
-# 86t-RfRgfMU 14:13 Trowelling In Archaeology [Covid Version]
 IVI-Kb9rLuI 3:42 The Alternative Mermaid of Zennor Story by Paul Phillips
 56PvZ4YLJBI 4:04 Trelawny - Rowing Club Singers & Oll an Gwella - Morgannow [Tir ha Tavas & Matt Blewett]
 32VhaCBcNrQ 2:51 Morgannow - Tir ha Tavas & Matt Blewett
@@ -1291,10 +958,8 @@ Z_lgDYPa0Vc 2:49 Tales of Newquay & The Sea - Peter Hicks [Part I]
 OIJozYdjpVM 1:17 Association for Cornish Heritage - Introduction
 kGYkMTopHIs 6:20 Together Against Plastic
 
-# Cornish Language Office
 -ZWfPD1fJrQ 12:30 Hwedhel Henry Jenner | Story of Henry Jenner (with subtitles)
 
-# Bamburgh Castle
 L604gcp0iHs 2:27 BRP 2020: The Roundhouse Appeal
 4q1u1T1OCfA 2:44 Bamburgh Castle - Trench 3 Cobbled Surface in the Southeast Corner
 iJLmL-govHU 2:03 Pottery Making at Bradford Kaims - Student Reactions
@@ -1357,7 +1022,6 @@ JEQNC8uLAQY 2:25 Archaeology: Bowl Hole Cemetery
 uXhjRalJkk4 2:32 Archaeology: Human remains: The Bowl Hole cemetery
 06bD3EkCuY0 8:05 Archaeology: Bamburgh Research Project Medieval Castle and Saxon Palace dig
 
-# Archif Teledu Cymru
 leb645Xu6uo 9:54 Captain Murderer - Emlyn Williams
 Ga8tNxnHjt4 3:39 Sut Wnaethoch Chi Sillafu Caernarfon? Y Dydd 1971
 F7G9Un6NXeY 2:45 Seatbelts To Become Compulsory - 1982
@@ -1580,10 +1244,8 @@ jh6Q1N-iwzU 1:51 Greenham Common Peace Camp, 1982
 2MWNLYa_bqM 3:16 Electricity Comes To Ystradfellte
 CPLWbeUq8Z0 2:32 Harold Macmillan
 
-# Beowulf
 2WcIK_8f7oQ 1:40-1:37:19 Beowulf: The Epic in Performance - Benjamin Bagby, voice and medieval harp
 
-# Simon Roper
 CuXdIBRYJ58 12:30 Is It Possible to Describe Somebody's Entire Language?
 kUcMm-lS2Kk 29:35 Consciousness: Why Can't We Describe It?
 oJE3Ium5Q7Q 22:42 Did Proto-Indo-European Really Only Have 2 Vowels?
@@ -1597,12 +1259,10 @@ haH0bihkzwk 27:04 Evolution of a Northern and Southern English Accent, 1586 - 20
 zl7nYepuCoI 13:52 Why do Some People Pronounce 'Off' as 'Awf'? | The LOT-CLOTH and TRAP-BATH Splits
 hkRxn7tUNIc 53:36 Questions and Answers
 idjxjfS5-zA 19:40 What was a 'Northern Accent' Like in Old English?
-# 4IJqbMLg4D0 2:59:03 'Beowulf' with Dr Jackson Crawford | Prologue, Fits 1 - 3
 n3twHHIdgWI 20:31 'And then I was like...'
 _h4-nIupTDU 9:02 How do you Say 'Ich Heiße' in English?
 jucns7hHAkI 17:20 Faces, Past & Present
 tYN_pkmja-w 13:45 Proto-Germanic Farming Terminology
-# VKzZ0_XEtdo 1:48:47 Söl'ring North Frisian with Moritz Lauer
 8d766dMjJjo 16:37 Beginner's Guide to Phonology - Part 3
 eN-4fT3YWnM 1:45 Jack of the Dump - The Day That Laughter Died | Trailer 2023
 1Ntcj97LNyI 1:15:42 Reflections on First Time in the US (California)
@@ -1627,13 +1287,10 @@ AXaXnQv6knQ 7:49 A Northern US Accent from the 18th to the 21st Centuries
 dESrl58Phso 25:17 Proto-Germanic Reconstruction: Some Examples
 ChoZRnLs7K0 9:28 A Medieval Medicinal Recipe with Modern Applications
 Ggq5BrRvwpU 13:21 A Sentence from Proto-Germanic to Modern English
-# JcitAgN7tE4 59:08 Trying to Learn some Polish using Google Translate
 HINRA6vzx6U 13:23 Is There an 'Oldest' English Dialect?
 W3zLKzRhAzg 18:51 Do You Remember 1960s Southeastern England?
-# HX2Hbv07yPw 17:57 Formants - Why are Voices and Vowel Qualities Different?
 WUY2a-rvXYg 17:09 'Gutteral' Sounds (Back Fricatives) in English
 V29OhkbzwuQ 25:23 19th-Century Cockney and RP
-# X82qgBoA-qA 4:26 Patreon
 vZuO4IjXN2o 23:39 *contains vulgar language*
 vL4p5U5vpuo 13:17 Livestock in Early Medieval England
 njZw_SrMkjA 9:44 Hypotheticals - What if the Great Vowel Shift Happened Today?
@@ -1650,14 +1307,11 @@ b8X4xKIppS8 11:47 Scouse Phonology and Where it Came From
 7mw7gBOOPS4 29:03 How We View the Past
 K-eWQZw29t4 10:48 What if English Still Had Grammatical Gender?
 0O7H8FYZOkw 20:01 Reconstructing Some Sounds of Early Modern English
-# Diay7U-hRec 38:49 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer - Part 2
 RERyg5h1IMc 7:32 Ingressive Speech - A Short Overview
 EgK0jvPJlbk 18:47 Thinking About Human Evolution
 fNNrDdNQEgo 15:36 Old English Syntax - Building a Sentence
-# DKzJEIUSWtc 58:45 A Conversation in Old English and Old Norse
 luibV6sh-pQ 12:26 AAVE, Implicit Bias & Prescriptivism with Blayzen BM
 fzeneXX6MBU 13:55 Old Norse Influence on Northern English
-# GyRO93tOVHA 49:55 'Early Anglo-Saxon Cemeteries' with Professor Duncan Sayer
 Ov0OEAF5Fv8 13:40 Cumbria & Yorkshire - An Older Dialect Comparison
 Zf0L5lXpvuQ 24:11 Anglo-Saxon Coins and Sceattas (with Ben Normington)
 -NuZ1FmCewg 6:00 Why 'Mice', not 'Mouses'? I-umlaut in English
@@ -1673,7 +1327,6 @@ _5edmlyJ67w 12:08 Hærfest - Autumn & Celebration in Anglo Saxon England
 TGjZ75UzsKE 14:30 Older English - The West Country Connection
 pPUqjK71llE 14:36 How did Language Start? - Part 3: Universal Grammar
 eQPbSAvtVjY 12:51 New Orleans English - The Speech of Louis Armstrong & Dr. John
-# Yp7MHcyJkGM 19:09 A Little Q&A
 y5cgb1nDCMg 13:25 Wild Animals in the Anglo Saxon Mind
 fuh6f_y5ycc 4:37 Two Readings in Old English
 mheR9cIFuQ8 11:21 T'northern English Definite Article
@@ -1702,14 +1355,10 @@ tBwdRs-D8lU 8:46 The Difference Between 'Thou', 'Thee', 'You' and 'Ye'
 ieWm9T_GgSA 0:08 I'm lost
 o5kjQONRAyU 13:15 The Migration Period
 eBLvnK57lqM 9:16 Interview with an Anglo-Saxon in Old English | 2 [PLEASE READ DESCRIPTION]
-# FtcAbzO19Kg 17:20 Development of Cumbrian | 2 of 2 | 1400-2020
 63zAgbh5RFE 9:02 Mindfulness
 48GSUUW5VH0 9:27 The Earliest Germanic People
-# B9aILOeTYas 14:14 Development of Cumbrian | 1 of 2 | 800-1400
 Nrs6U5vYstw 10:11 Proto Indo-European: Some Unexpected Cognates
 H61_y6jH330 17:55 How we Know what Old English Sounded Like
-# ABmxoMWWChc 8:34 Q&A Part 2 of 2
-# KnBc8RnmKSw 13:02 Q&A Part 1 of 2
 qS-l3PqToJo 2:17 A Little Update
 lm9MUUQN3VY 12:58 The Pronunciation of Later Cumbrian
 69eEJMYz3OY 21:32 What They Say | Starring GAMEY HEMP
@@ -1725,7 +1374,6 @@ QWI_dFxbzyg 6:23 Old English and Middle English; why are they so different?
 oqvpg0md4xY 2:04 Misconceptions | American was the Original Accent
 _CSAmA_VYuk 8:29 Corresponding Cognates
 ZHmUYlyzQZg 4:26 Notes on Pronunciation - Part 1
-# JiwTuM8R0ak 1:45 I'm Back-ish
 2Om-FGi4fTk 6:23 These Riddles Three
 ohxIKbf6cbg 2:36 The Plight of the Goat
 EsOefKbGh4k 9:56 Team Gent(le)sir Exposed | Episode 2 | Starring KEORGE GEMP
@@ -1734,18 +1382,13 @@ VMXlvr5Kf4s 10:28 Team Gent(le)sir Exposed | Episode 1 | Starring GEORGE KEMP
 RuFHXJ350k4 2:26 Burne, Roper & Sons Whisky Advertisement 2016
 q69tb_H94ao 3:17 La Ferrassie 1 - A Painted Reconstruction
 
-# Norsk Folkemuseum
 
-# 9spBm08Ga6g 39:09 Samtale med Erik Ulfsby, ny kunsterisk leder for Kulturfestivalen Peer Gynt på Gålå
 hkuM2y4oXB8 8:42 Spinning
 pOuT2ZEubLw 1:24 Spinning og klesvask
-# ERkdRlHVDo4 2:15:58 Lanseringsseminar for boken "Opphøyd og oversett – norske herregårdsmuseer", 25.01.2023
 kV9XXXzl534 0:45 Historisk ferieskole på tegnspråk
-# i1reTrhW7c0 5:21 TIDSROM 1600-1914
 FkasAfGrZtY 1:05 Tjæring av Gol Stavkirke
 x5xJGfkDPMo 33:59 Høvling og legging av gulv anno 1879 - en film av Norsk Folkemuseum
 UZAqb7fLvvs 1:22 Norsk Folkemuseums Dansegruppe
-# 3z_Ik8CIg9k 11:50 Reinslakting - Øksfjordbotn 1954 (stumfilm)
 75bQhxhycm4 3:17 Nytt lys på Norsk Folkemuseum
 qXuVZUikSUU 0:56 Falskmyntnerens tak : «TidsRom 1600-1914» - på vei mot ny utstilling!
 TTObMzX_AL0 1:34 Julemarked på Norsk Folkmuseum: En god førjulstradisjon!
@@ -1753,7 +1396,6 @@ TTObMzX_AL0 1:34 Julemarked på Norsk Folkmuseum: En god førjulstradisjon!
 e7NzXBl5X6U 0:37 Julemarked på Norsk Folkemuseum: Tradisjonsrik julemat
 OCv8CPUvNUk 3:06 Gjenoppføring av Heimtveiten (kort teaser)
 6pHQUZbTdUM 19:26 Gjenoppføring av Heimtveiten
-# ixwBlojwd2w 3:05 Demontering av tak i bysamlingen på Norsk Folkemuseum
 JD9in7bFvEw 1:03 Lauving og bæring av korn (stumfilm)
 -wq_5t52Z8s 8:57 Ljåsmiing Hornindal 1937 (stumfilm)
 HZITaHFCMcI 4:00 Flat-teljing av tømmer : Vefsn 1933 (stumfilm)
@@ -1778,20 +1420,11 @@ zXyaj16AmLg 4:20 Glimt fra greneveving - Manndalen, Troms 1955 (stumfilm)
 SA0fBBI9_Qc 12:26 Brurebunad, syrgjebunat, skaut og kristnadsbarn. Frå Voss, Kvam og Sunnmøre. (stumfilm)
 2VUrkwWV9MA 7:21 Fana : Skaut, hårpynt, brudepar (stumfilm)
 AQr6V9aDTY8 11:35 Håroppsetting og skautpåbinding (stumfilm)
-# gsCqwthryzQ 3:22 Fiskeren til Tiedemann
 EuQ54Uwk57E 7:42 Norsk Folkemuseums Dansegruppe : Japan 2008
 Bfrd03tD1ts 7:13 Norsk Folkemuseums Dansegruppe 2010
 d4746vgMS-w 46:12 Sagastua
-# Q-Su0zFs80I 5:58 En sidste viking : fembøringen "Opreisningen"s sidste færd (stumfilm)
-# IA1Vh1oEPwY 1:15 Et fint stup (stumfilm)
-# vmNhzjsGycM 4:22 Kromspring paa stranden (stumfilm)
-# I9AyWObUTHI 2:07 To om en pipelil' : et ørkendrama (stumfilm)
-# 0RD_5me6kRs 28:48 Tiedemann 200 år : 1778-1978
-# jm41KpSx4Ls 2:37 En glad gut : reklame for Teddy sigaretter (stumfilm)
-# YBmyuzxDySk 5:36 Repslaging på Kampen (stumfilm)
 w9bObBzjbAg 9:15 Fra Norsk Folkemuseums historie (stumfilm)
 
-# Stadstuinieren
 
 rLDvnn0ACPs 3:04 Stadstuinieren - Oogst beschermen met netten
 JYm2mQS3C2c 2:17 Stadstuinieren - Kiwi & kiwibes bestuiving
@@ -1804,9 +1437,7 @@ huvgQ8jZTfQ 3:34 Stadstuinieren - Tomatenplanten selecteren & oppotten
 DoBLcpB2tGw 4:20 Stadstuinieren - Rondje moestuin: begin mei
 mgewQif4f2M 3:25 Stadstuinieren - Zelf Geplukt: Slow Flower kwekerij
 4GziW0NsBo4 4:39 Stadstuinieren - Zaaikalender: Planning per maand
-# qKMxBMTYN-0 1:00 Eerste editie DUFF
 W69VsIdDRqo 2:02 Stadstuinieren - Kruisbes snoeien - beter laat dan niet
-# vQpMd8Wl2pM 1:01 Stadstuinieren | Het leukste tijdschrift voor moestuin, balkon en dakterras #moestuin #magazine
 1mU5UqPdH3g 3:51 Stadstuinieren - Het begin van het bloesemseizoen
 9qrwwy5OwCs 3:03 Stadstuinieren - Rondje moestuin eind maart
 TWuSCnO2YQo 3:49 Stadstuinieren - Afharden & beschermen
@@ -1816,7 +1447,6 @@ edJPhxr0fFQ 3:34 Stadstuinieren - Vergeten groenten in het vroege voorjaar
 hqLgUvISusc 2:59 Stadstuinieren - Februari in de moestuin
 v8T7019rxKM 7:49 Stadstuinieren - Oogst plannen: deel 2
 kJ86h3Sof7c 5:14 Stadstuinieren - Oogst plannen: deel 1
-# UJFwvtPmNus 1:01 Stadstuinieren | Het leukste tijdschrift voor moestuin, balkon en dakterras #moestuin #magazine
 2cg3rX_2sN0 3:22 Stadstuinieren - Half januari, wachten óf uien zaaien
 VmQJ_zalkyo 5:10 Stadstuinieren - Daglengte en tuinieren
 InDz41FStFo 2:32 Stadstuinieren - Vorst vriend of vijand
@@ -1824,7 +1454,6 @@ InDz41FStFo 2:32 Stadstuinieren - Vorst vriend of vijand
 a1YlG3EX4Xw 3:35 Stadstuinieren - Terugschakelen naar het winterhalfjaar
 GXyRk2a2uoE 3:22 Stadstuinieren - Bokashi deel 1 - wie weet meer?
 AABzdf5geqY 4:22 Stadstuinieren - Rondje moestuin - half oktober
-# bP3tCuMEv3Q 1:01 Stadstuinieren | Het leukste tijdschrift voor balkon, moestuin en dakterras. #moestuin
 9WUGgpT2xro 4:45 Stadstuinieren - Bonen doppen, drogen & bewaren
 GU3DyfdyiV8 4:24 Stadstuinieren - Moestuin bezoek
 u5rGH6wWvCE 3:30 Stadstuinieren - Pompoenen oogsten: hoe weet je wanneer?
@@ -1837,7 +1466,6 @@ _s5sqEI3zA4 2:51 Stadstuinieren - Druiven in een oude kas: warmte & water
 lvlKbYrZufQ 3:46 Stadstuinieren - Lavendel plukken - zo doe je dat! #moestuin
 ShKPMZiE8og 2:40 Stadstuinieren - Verveine oogsten en snoeien - zo doe je dat #moestuin
 ZI7PwDuZvU4 1:58 Stadstuinieren - Een ode aan de Japanse Wijnbes
-# 6ip0-hEiT6w 1:01 Stadstuinieren | Het leukste tijdschrift over het kweken van groenten, fruit en kruiden. #moestuin
 YZYAmnS206A 4:54 Stadstuinieren - Met een moestuin op vakantie
 fhXoDo9-Cw8 2:39 Stadstuinieren - Groenten en kruiden kweken in bakken: begin direct goed #moestuin
 X2xZaWwk2zE 5:19 Stadstuinieren - Zomersnoei van de kiwi #moestuin
@@ -1852,7 +1480,6 @@ IOYbKEKuYx4 2:32 Stadstuinieren - Naaktslakken bestrijden #moestuin
 KwW9wn_x42g 9:28 Stadstuinieren - Voorzaaien van warmteminnaars
 wDlcsFGKnfM 2:05 Stadstuinieren - Sla en stengeluitjes uitplanten - en nog even vorst...
 eMSso4PkcOA 5:12 Stadstuinieren - Kolen (diep) uitplanten
-# NethnEHw4vk 1:01 Stadstuinieren - Het leukste tijdschrift over het kweken van groenten, fruit en kruiden. #moestuin
 2HlTJCXZHlM 2:30 Stadstuinieren - Bevruchting, bloesem en bestuivers #moestuin #fruitbomen
 cg2WGjHMC9I 2:56 Stadstuinieren - stand van zaken - begin april
 5H-hgM2gxC4 3:24 Stadstuinieren - van knoflook naar daslook, nieuw geurig groen!
@@ -1862,7 +1489,6 @@ oPcVMOwVjNQ 2:47 Stadstuinieren - Alles begint weer te stromen en te groeien
 iJb9gxhMKCk 2:42 Stadstuinieren - Groene voornemens - waar ga jij groen doen?
 4lLxeRvt3os 2:57 Stadstuinieren - Een nieuw tuinseizoen - Aan de Slag! (wanneer, wat en waar)
 jZeQGz6g05g 7:12 Stadstuinieren - Gewasrotatie of vruchtwisseling - Waarom zou je? - de basis
-# HvJ7RFsIC5M 1:01 Stadstuinieren - Het leukste tijdschrift over het kweken van groenten, fruit en kruiden. #Moestuin
 z-u-puG3oWY 6:22 Stadstuinieren - oogsten voordat de vorst komt
 rnSPloQ3XQE 2:02 Stadstuinieren - Plantenschalen & natte voeten
 9BCy6Q8Rzyw 8:01 Stadstuinieren - de moestuin begin december - onkruiden en onderkruipsels
@@ -1870,7 +1496,6 @@ kRNO5tmQSLU 2:53 Stadstuinieren - planten in potten en bakken 3 - als je de ruim
 H2YuwBfu6N0 1:39 Stadstuinieren - Tamme kastanjes bereiden - zo doe je dat eenvoudig
 WGxZozvFRs0 2:24 Stadstuinieren - planten in potten en bakken - 2
 0fmzkZjGmis 6:22 Stadstuinieren - Knoflook planten en winterui - mèt een roodborstje
-# ZdEaLtu35Ac 1:00 Stadstuinieren - Het leukste tijdschrift over het kweken van groenten, fruit en kruiden. #Moestuin
 SRoPUoS0Olo 3:00 Stadstuinieren - Planten in bakken en potten 1 - Dakterras en kruidenbak
 GEizMdFog7Q 3:56 Stadstuinieren - Tomaten buiten en binnen - de oogst van dit jaar
 VMb5ZW8rz7E 7:51 Stadstuinieren - Een rondje door de tuin eind september - en door de kas en kelder
@@ -1912,7 +1537,6 @@ KG4vHqndXco 7:09 Stadstuinieren - Moestuinbak maken #Moestuin
 WhG7yYM4taU 6:54 Stadstuinieren - Rondje moestuin - januari #Moestuin
 HfLilInjMnM 9:42 Stadstuinieren - Druiven snoeien - Wintersnoei #Moestuin
 psT9AmXWeBs 7:01 Stadstuinieren - De bodem in de kas vervangen - nieuwe structuur en voeding #Moestuin
-# HS_kw-GA628 1:03 Stadstuinieren - Het leukste tijdschrift over het kweken van groenten, fruit en kruiden. 🌱 #Moestuin
 V_GfSecAdnY 6:01 Stadstuinieren - Mest, compost en blad - in laagjes #Moestuin
 W-WjAHVbv5g 2:04 Stadstuinieren wenst jou een groen, gezond en gelukkig 2023!
 wgyStB-J2qI 4:43 Stadstuinieren - Vorst in de moestuin - winterharde bladgewassen. #Moestuin
@@ -1924,9 +1548,7 @@ TrT-o-HYQAM 2:14 Stadstuinieren - Witlof telen - Zo doe je dat #Moestuin
 97azw6QEtfo 3:07 Stadstuinieren - Oogsten in november #Moestuin
 Kj8_smwMJow 8:01 Stadstuinieren - Kruiden in pot op het terras #Moestuin
 gIvJZMtUZdE 6:24 Stadstuinieren - Verveine, citroenverbena - snoeien en drogen #Moestuin
-# i6i4tpTrcDM 1:01 Stadstuinieren - Het leukste tijdschrift voor de moestuinier 🌱 #moestuin
 BmIg7iVr6to 13:16 Stadstuinieren - Compost maken deel 2 - Een beetje theorie #moestuin
-# sRRJqmDsPao 3:13 Stadstuinieren - Kruiden invriezen in olijfolie #moestuin #oogst
 Xc2a3m4QAJ4 2:20 Stadstuinieren - Een schuilplaats voor oorwormen maken - Zo doe je dat #moestuin
 sfKh-tEGd_E 5:54 Stadstuinieren - Knoflook poten - Zo doe je dat #moestuin
 bz2ZiEHRn0o 6:24 Stadstuinieren - Droge boontjes telen, oogsten en doppen - zo doe je dat #moestuin
@@ -1963,39 +1585,6 @@ abMdcAUTSpA 3:02 Stadstuinieren - Weefkunst met natuurlijke materialen
 a5RE1H_5tJc 11:47 Stadstuinieren - Zaaien en voorzaaien in februari - het seizoen is begonnen!
 aELlmAvkmoY 7:12 Stadstuinieren - Eenjarige, tweejarige of meerjarige gewassen? - Zo zit dat
 g0AFu5x4IUE 6:18 Stadstuinieren - Wortelonkruiden bestrijden - Zo doe je dat
-# MB3St12AoSs 3:08 Stadstuinieren - Bietjes kweken
-# XE1qiaT5-NQ 4:08 Stadstuinieren - Radijsjes oogsten + recept Tzatziki van radijsjes
-# fCJUYM2z--s 3:03 Stadstuinieren - Aardappelen oogsten
-# NlBbRH1KkGU 4:25 Stadstuinieren - Cantaloupe meloen kweken
-# P_mM0ATJHSQ 3:14 Stadstuinieren - Avocadopit planten
-# xDiUFUCeczM 4:59 Stadstuinieren - Worteltjes kweken + Recept worteltaart
-# hJsSB-D6XbA 3:51 Stadstuinieren - Zo maak je Tandpastapoeder
-# ES9NtOExpEo 3:19 Stadstuinieren - Zaden oogsten van radijs
-# Tv9dnLsmYvg 3:34 Stadstuinieren - Broccoli kiemen
-# Lf4YxNnUzow 3:41 Stadstuinieren - Recept Broccolitaartjes
-# 5ydtkro30lA 3:56 Stadstuinieren - Peultjes kweken
-# 3in7UL3g8gc 4:42 Stadstuinieren - De kip en het eierkoeken
-# PYA9HiNCQhs 3:33 Stadstuinieren - Recept chilivlokken
-# zHq66Av6ucM 3:24 Stadstuinieren - Vogelvoerhanger
-# RjDRlj_B1vU 3:55 Stadstuinieren - Groot Kaasjeskruid kweken en oogsten
-# VB0pKyGFsAI 3:46 Stadstuinieren -Tuingereedschap schoonmaken
-# d1V0KQKBdWk 4:44 Stadstuinieren - Composteren
-# N23wua8Fa8U 5:38 Stadstuinieren - Italiaans moestuinplan
-# OQOgSc8ZAtU 3:49 Stadstuinieren - Prei oogsten recept
-# sRTQL4N9nKI 3:12 Stadstuinieren - Olijfkomkommer kweken
-# OqW1M1qgRi0 3:15 Stadstuinieren - Muismeloen kweken
-# wZ116aJL-Ik 3:28 Stadstuinieren - Uien telen
-# QOB7nNP5wCk 4:01 Stadstuinieren - Tuinkers zaaien - kiemen kweken
-# CsUiyp9z74s 5:11 Stadstuinieren - Zo maak je een bijenhotel
-# fUvxDmhr-64 3:28 Stadstuinieren - Tomatenketchup maken
-# auODFWiObCg 6:18 Stadstuinieren - Watermeloen kweken
-# jmwVp8e0q-I 6:36 Stadstuinieren - Kiwano kweken
-# yJIKC-7LHgo 4:27 Stadstuinieren - Bosui laten hergroeien
-# nxWdx40wP8A 3:53 Stadstuinieren - Kruiden uit de winkel. Hoe houd je ze goed?
-# HLqfG3GdAOg 3:37 Stadstuinieren -Kruiden uit de winkel. Hoe houd je ze goed? 2
-# TaL6eLq1CO8 3:43 Stadstuinieren - Kiemen uit Chiazaad kweken
-# 01lxSFW3Uwk 3:36 Stadstuinieren - Maiskiemen
-# G61Dxxp_RQE 3:08 Stadstuinieren - Bietjes kweken
 dYdL9cp_KfQ 5:44 Stadstuinieren - De planning van zaaien, planten en voorbereiden
 2tZPw8P3hTA 6:45 Stadstuinieren - het einde van een jaar én het begin van een nieuw teeltjaar
 -iIOepJdj3s 3:01 Stadstuinieren - een snoephaag kado - voor basisschool de Nettelhorst
@@ -2113,11 +1702,9 @@ sYQiViie-78 3:36 Stadstuinieren - Tomaten en Pepers verspenen / oppotten - begin
 L3fkz90fND4 9:25 Stadstuinieren - De aardbeien en bieten gaan naar buiten - begin april
 HVHceitbQsw 3:22 Stadstuinieren - Bloemen, kruiden en sla voorzaaien - begin april
 
-# Alan Watts
 NpHqYnFELLE 52:55 Alan Watts - What Is Reality?
 KpMGbjvBXSE 53:46 Alan Watts - We As Organism
 
-# Voices of Music
 
 YOoJThgSbgc 9:57 Haydn: Cello Concerto No. 1 in C Major, I. Moderato. Eva Lymenstull, cello, Voices of Music 8K
 yU9EgtHoMqg 4:31 Dowland: Come heavy sleep, Amanda Forsythe, soprano & The Voice of the Viol consort 8K
@@ -2272,7 +1859,6 @@ nBLdDOqMQj0 6:34 Beethoven: Moonlight Sonata, 3rd mvt. "Presto agitato." Origina
 qQ33_1OSve0 3:05 Telemann: Flute Concerto in D Major, Hanneke van Proosdij, 6th flute, Pastorale "Napolitano" TWV 51
 PHfTJL5YBwI 3:26 Vivaldi: Cello Concerto in D minor, RV 407. William Skeen, baroque cello, Voices of Music 4K
 YoUpaXovceY 1:19:46 Women music directors: Chloe Kim, Rachel Podger, Valérie Sainte-Agathe and Hanneke van Proosdij
-# frQlELN_Mw4 1:54 Purcell: The Triumphing Dance (Dido and Aeneas) Voices of Music & SF Girls Chorus 4K UHD Video
 4ukUtDj1vYM 8:29 Vivaldi: Abbia respiro il cor | Christopher Lowrey, countertenor (La Silvia RV 734) Voices of Music
 gY32c2Bi36I 2:22 Passereau: Il est bel et bon by - Vidita Kanniks, voice. 4K video; sargam & French. Voices of Music.
 4w0KroHzokA 5:50 Handel: Dove sei, amato bene (Rodelinda); Christopher Lowrey, countertenor, Voices of Music (HWV 19)
@@ -2289,7 +1875,6 @@ D4sR2Sm4HUE 2:16 Torelli: Trumpet Concerto in D Major, final allegro (Roger 188)
 GGR0QJBeDNg 13:45 J.S. Bach - Chaconne in D Minor BWV 1004 (Partita No. 2) | Augusta McKay Lodge, baroque violin 4K
 BIf6vL9LDuw 3:56 Handel: Air from the Water Music; FestspielOrchester Göttingen, Laurence Cummings, director HWV 349
 3L5Dut4T1TU 6:19 Johann Schop: Pavan in F Major, Voices of Music. Cornetto, sackbuts and strings. 4K UHD video.
-# hb1_GaI-1yI 55:04 Purcell: Dido and Aeneas (complete opera). San Francisco Girls Chorus & Voices of Music | 4K video
 EpSqucjcJ6A 2:11 Purcell: Fear no danger (Dido & Aeneas) SFGC & Voices of Music, Emma Powell & Nia Spaulding 4K UHD
 ovVcjkjqiwc 35:37 Bach Chaconne, Telemann, Paganini & Fiddle tunes, Augusta McKay Lodge, baroque violin 4K UHD video.
 fQ7KzGNmgbU 7:58 Antonio Vivaldi: Mentre dormi (L'Olimpiade), Christopher Lowrey, countertenor; Voices of Music 4K
@@ -2459,7 +2044,6 @@ b1jw-5D_rG4 2:35 William Lawes & Robert Herrick: Gather ye rosebuds while ye may
 p9JX1HWyLJA 0:27 Voices of Music: The Great Works Project, a worldwide digital library
 PyMw-QX6c74 7:16 Biagio Marini: Passacaglia in G Minor (Op. 22), Voices of Music (original instruments)
 YDD5GdxZemw 3:16 Alessandro Grandi: Venetian Christmas Vespers, Laudate Dominum; Voices of Music
-# fZFmpaP9RCo 4:22 Vivaldi Four Seasons Kickstarter Project; Voices of Music
 -nbVGoGv6ds 3:04 Handel: Music for the Royal Fireworks, Laurence Cummings and Hanneke van Proosdij, harpsichords
 Fb-RFlFiWJM 4:30 Alessandro Grandi: Venetian Christmas Vespers, Laudate Pueri; Voices of Music
 xjPB4GzcKf4 4:52 Agostino Steffani: Stabat Mater XII; Quando corpus morietur, Voices of Music
@@ -2512,7 +2096,6 @@ u3clX2CJqzs 4:38 John Dowland: Flow my tears (Lachrimae); Phoebe Jevtovic Rosqui
 g21hYxQvgMs 2:58 Caccini: Amarilli mia bella; Phoebe Jevtovic Rosquist, soprano; David Tayler, archlute
 ixHrZ_dyqXI 2:38 Venetian Christmas Vespers: Deus in Adiutorium & Alleluia, Voices of Music
 UPlE0ibIt0s 4:12 Claudio Monteverdi: Puer Natus (Chiome d'oro); Voices of Music
-# 34FZsJysehY 5:37 Alessandro Grandi: Dixit Dominus; Venetian Christmas Vespers, Voices of Music
 AlAmO-YMhws 3:00 Monteverdi: Cantate Domino; Voices of Music SV 293
 OKgLEWv9imE 6:02 Bach - Brandenburg Concerto No. 3: First Movement, Allegro; Original Instruments; Voices of Music
 oC7MAlkOTYM 9:01 Tarquinio Merula: Hor ch'è tempo di dormire; Voices of Music with Jennifer Ellis Kampani
@@ -2664,16 +2247,9 @@ cK0HAeF1Ae0 6:05 Bach: Cello Suite in C minor: Prelude; Tanya Tomkins, cello BWV
 CCtZH9l2yzk 6:28 Tanya Tomkins: Sarabande and Minuet from Bach's cello suite in G Major BWV 1007
 3PaZlxCwdFs 6:27 Tanya Tomkins: Rachmaninoff Sonata for cello and piano
 
-# Orchestra of the Age of Enlightenment
 
-# 4iQnkUSGj4g 29:46 Composer James Redwood talks dream commissions, perfect moments and climbing | Take a Beat S2 E2
-# nxbXAro_BAY 1:24 Steven Devine introduces BWV 132 Bereitet die Wege, bereitet die Bahn!
-# JEFCvnLJEh8 1:11 Steven Devine introduces BWV 163 Nur jedem das Seine | Bach, the Universe and Everything
 u8nPb96_3uY 15:03 Inside flute player Neil McLaren's jewellery workshop
-# lfSc26npEkk 1:38 Steven Devine introduces BWV 5 Wo soll ich fliehen hin | Bach, the Universe and Everything
 WXC7z-Qxya8 24:18 Flute player Neil McLaren talks castles, music lessons and jewellery making | Take a Beat S2 E1
-# 23etn46DUOA 1:52 $100 vs $1,000,000 Violin!
-# mdBUHbZjhEY 0:35 The Orchestra in a School
 pV664zw7F1o 5:39 A Tribute to Sir Roger Norrington (1934-2025)
 a3p3cna7J6Q 2:59 Edvard Grieg: The Holberg Suite, Op.40, I. Prelude - on period instruments
 bxc3Zfq3uik 21:24 Edvard Grieg: Holberg Suite in Olden Style, Op.40 on period instruments
@@ -2716,30 +2292,22 @@ Ni5oxGDbCR4 1:00 The Genesis Quest with Michael Marshall
 0J8QpgBEQs0 4:16 JS Bach | Harpsichord Concerto in A Major, BWV 1055, I. Allegro
 UZ8FppOKkkY 5:09 The Birth of the Keyboard Concerto
 hFnKmqAOmBs 10:56 Introducing the Baroque Recorder
-# ji6yEWEEpQk 1:10 LIVE AT THE HEX Highlight Reel
 MdAEyQon4c4 1:11 The Story of Gilbert & Sullivan's 'Princess Ida, or Castle Adamant' (in about 60 seconds)
-# R1uftELUess 0:36 Our 2023/24 Season - Coming soon
-# VB708yceJSs 0:31 LIVE AT THE HEX | COMING 5 MAY 2023
 v3IchXpDidQ 4:11 TELEMANN | Trio Sonata in C Minor TWV 42:c2, Allegro
 xB5znyirrSU 4:54 What is Stile Antico and how did Bach use it? | Illustrated Theory of Music #12
 IyBap2iFMjo 4:52 The Pioneering Women Composers
 XadY69d40JE 10:34 Introducing the French Bassoon
 CFK94eOba6Q 2:08 The Difficult Bits: Clarinet and Basson in Saint-Saëns
-# Z9ZHiBGRn5o 1:12 Introducing Handel's Tenor #shorts
 xZc20T4mGfM 6:03 Introducing Handel's Tenor
 lTeHAffuq4w 3:25 What's so great about... Saint-Saëns Cello Concerto No.1
 NJO5_L1c1Zc 5:33 Saint-Saëns: The Man and His Music
 9o-TOg-y_BI 15:22 Introducing the Baroque Guitar
-# ocFDXgtOD-4 2:26 Why Support Us?
 Uwv0obLUylo 12:13 Why Timpani Kept Growing (Two Pint Timpani) | Evolution of Timpani Part 2
 rZ2rAGbGTW0 5:58 HANDEL / FINNEAS: Where'er You Walk, starring Hugo Hymas (tenor)
 6XDB9hkX3hk 3:26 Thou Shalt Break Them - Inspired by The Verve | Nick Pritchard - Handel's Messiah
 hWjYD414ydg 5:32 An Introduction to The Moon Hares with James Redwood
 ngpYT2IOiwE 2:31 Behind The Moon Hares
-# OEY7h-fTf7M 0:26 OAE - The Orchestra in a School by Drone
-# 9Zp807tD_Qs 1:00 LIVE AT THE HEX in 60 seconds
 sCZ2lp-YwwI 1:06 OAE Rising Stars: Where're you walk (Behind the Scenes)
-# k5duAqWy95M 0:38 Bach, the Universe and Everything
 m6tbN8NHpsU 4:44 The Rime of the Ancient Mariner - Rory Kinnear
 lLQnCNZQCkc 4:56 Sospiri (Sighs) by Edward Elgar
 5cOHoAOSB8M 2:49 Beethoven Without The Van
@@ -2769,8 +2337,6 @@ anf22WLxMR0 3:26 How can you spell BACH in music?
 MK79MKfNG5U 1:17 Kristian Bezuidenhout plays Schubert's Trout
 UtGYDyfPlCg 4:58 What is Chamber music? | Illustrated Theory of Music #11
 4GKO8MaXxr8 10:31 Introducing the Cornett
-# WDLIVYoSVJU 0:30 Announcing 'The Wilderness Pleases'
-# 1zOMzjIniVs 12:56 An Inside Scoop On The History Of Gut Strings | Illustrated Theory Of Music #10
 oFZyFkXMu5k 1:52 Sea Voyages and Salvation with Roderick Williams
 0mXCQZOYMcU 10:08 MOZART: Piano Concerto No.23, K488, Last Movement (Steven Devine: Fortepiano)
 66g6i5FVLfw 4:01 What Power Art Thou (Purcell) film inspired by Gotye | Dingle Yandell
@@ -2780,7 +2346,6 @@ Gccx824NVVo 8:23 Making sense of the suffering in Bach's St John Passion | Mark 
 M5gPcBqtDt4 2:51 Why does the Oboe Da Caccia move us to tears in St John Passion?
 hRMA9q5n9bc 3:17 What is the secret to St John Passion's enduring relevance?
 oAJnQ3tdNYk 7:42 Continuo in St John Passion | A closer look at the Viola da Gamba
-# RxEbYxjVoNw 2:04 OAE Regeneration Appeal
 tCj3D2iXq_A 1:36 Bach | St John Passion
 VgOBxnmdTf8 6:32 Rameau's Les Indes Galantes | modern interpretation by Acland Burghley students
 vA281KN8f_I 4:06 Mezzo-Soprano Helen Charlston reacts to her Coldplay inspired music video
@@ -2796,11 +2361,7 @@ MqKmNjAc-xs 5:07 Introducing the Evolution of the Bow
 EB3EEJX5ejw 0:31 Mozart's Minor Miracles in the Age of Reason Trailer
 KK0vyTsc2NE 6:33 Baritone James Newby reacts to the making of his music video
 CF5bOdRpNh4 6:16 Handel ‘Cara pianta’ from Apollo e Dafne | inspired by Radiohead 'No Surprises' with James Newby
-# zmVjpiMEHYo 0:33 'Seeing Double' with Nicola Benedetti and the Orchestra of the Age of Enlightenment
 Qzvp4_igvyw 12:34 The Harmonic Series | Illustrated Theory of Music #8
-# Gj7j0PXOLeo 0:53 Introducing OAE PLAYER
-# 0rgM3PVukb0 59:16 'What is the Value of Digital Art?' Panel Q&A
-# PV9Jut4Iu6A 19:43 The Voice: Anatomy, Function and Covid | Dr Declan Costello
 siHMpS8TStM 8:01 What is the Canon? | Illustrated Theory of Music #7
 xOsZ10z-iMc 5:35 What is the Secret to the Chorale? Part 2 | Illustrated Theory of Music #6
 4OLDcvOpXKw 7:41 What is the Secret to the Chorale? Part 1 | Illustrated Theory of Music #5
@@ -2814,11 +2375,9 @@ o59bjj3WUUo 29:02 Musicians on Call Online 6: All About the Bass
 hJVoN_JQPT4 12:22 Appoggiatura | Illustrated Theory of Music #2
 NdlANO97RiU 33:59 Musicians on Call Online 5: A Folk Journey
 nr95NjOL21o 48:06 Schrödinger’s Pandemic | Bach, the Universe & Everything
-# -7xlZARdd28 2:12 Introducing the Illustrated Theory of Music
 s684W1WbXTY 8:02 What are Barlines? | Illustrated Theory of Music #1
 shWTiybxBEE 34:06 Musicians on Call Online 4: Pastime with Good Company
 VrFUHFL34as 32:11 OAE TOTS: interactive sing and play for 2 - 5 year olds
-# _KNPIJHcqtA 35:15 Music and Chat for a While - OAE Interview with Ian Bostridge
 I4IEF6F5MW4 27:52 Musicians on Call Online 3: Learning New Skills
 8E4-Db2-p7g 29:25 Musicians on Call Online 2: Instruments Galore
 gL_lgsysAiw 30:02 Musicians on Call Online 1: Hello!
@@ -2826,12 +2385,9 @@ eumxlVBlG5k 3:57 Quarantine Sessions: Bach's Air on a G string
 EptO4p-ynQk 34:07 Can Bacterium Compute? | Bach, the Universe & Everything
 jQC4mglx5uE 2:20 Introducing the Baroque Spoons
 XQoE3JyOjqs 12:37 A New Created World
-# fFo-VJ8jUkU 2:15 The Night Shift on hold
 nb-AkHlKgKA 2:41 What Classical Musicians Give Up For Their Careers
 FcM0Jt6Xf-Y 30:04 LIVE STREAM: Classical Music, Minus the Rules - The CLF Art Cafe, Peckham
 U0KLAQ_iiEM 2:02 A Quick Guide to Thomas Mann's novel, Doctor Faustus
-# ptQJdIv2uUI 9:23 Introducing Beethoven's Flute
-# TBV6U-dUJwY 3:49 Why support us?
 lv9W7qrYhbk 7:15 Bach vs AI: spot the difference
 BO2JeKiwbvQ 10:38 Introducing the Viola da Gamba
 rLYRfHjZIy8 6:47 Introducing the Baroque Contrabassoon
@@ -2840,20 +2396,14 @@ FAnjAVtuck8 2:54 Quiz: Organ in the office
 Y7k7pX6x8g4 2:10 What is Enlightenment?
 G1rrUCTUOKU 12:41 Our Band | Orchestra of the Age of Enlightenment
 HMgD6ezml7U 4:27 Introducing Goossens' Oboe
-# wPNWrcYQujE 1:27 Sibelius Symphony no.2 (rehearsal)
 HNt6-q3suo8 6:29 Max explains... where we play
-# I7QAqZkuV5s 0:48 Toutes Suites NOT Toot Sweets
-# I5l7yNxX6ps 1:09 Gilbert and Sullivan - Once More Gondolieri
-# ocvATSndzFA 7:09 The Birth of the Symphony
 cPvpyI-bmEM 5:16 Introducing the Oboe da Caccia
 iRO4yreLSmw 3:46 Introducing the 19th Century Horn
-# ifBHEcsWMHg 1:45 Love and Duty, with Magdalena Kožená
 eVabz8LneI4 9:59 Introducing the Baroque Theorbo
 1z2xtmkqaAs 4:31 Lagrime Mie - Barbara Strozzi
 D3NCGSvKHCQ 8:41 Introducing Mozart's Clarinet
 v-J3YkRKn7c 6:45 Introducing Handel's Organ
 9owI4Mnym0w 3:36 Fantasia on a Theme by Thomas Tallis | Vaughan Williams
-# pfLPYKw5h38 3:35 Life, Liberty and the Pursuit of Happiness: 2018-19 season trailer
 sBD6OhkyW-Y 3:54 Why are we so obsessed with sending music into space? | Dallas Campbell
 MgwE22lg9cA 4:01 Mozart Horn Concerto No.4, Rondo - on natural horn
 h9g1c2bZSq8 4:23 What is Chamber Music?
@@ -2863,24 +2413,16 @@ KfBoVGIoobY 10:29 Introducing the Baroque Double Bass
 2ef95BZfYcw 4:52 Introducing Mozart's Fortepiano
 fAGsmq2gZ5c 3:07 Why is it called the Surprise Symphony? The secret of Haydn's success
 eFn992wz-ss 3:43 The Science of Attraction
-# zXAWa_rnyus 0:33 The Best of Dance 1692
-# YRBuoup80UY 2:27 VIERDANCK | THE NIGHT SHIFT
-# VhMzEiLqlrY 0:54 Dangerous Liaisons | The Greatest Hits of French Baroque
 4LoqTzrFl7c 2:37 Our Rosenkavalier Film Orchestra
 es4wecjHXCg 4:35 A lost art: music in silent film
 6oAjCirkZjc 5:43 Introducing Haydn's Oboe
-# oVXL-OTgjuo 0:44 Der Rosenkavalier
 7vuq9Ls2OVs 4:13 Mozart's Naughty Notes | Rondo from Horn Concerto No.1
 PLHC8I8RwMg 4:24 Introducing Mozart's Horn
 -Kl71jEniLA 4:18 Mark Padmore explains Bach's St Matthew Passion
-# MHmZYZPCb_4 0:34 The Night Shift trailer 2019
 ZO88Ydj-S9k 5:49 Introducing the Baroque Cello
 nhLcMFgPoBY 1:42 What is it like to be a mezzo-soprano?
 wOkIZ9TjvYE 1:34 Nicola Benedetti: Beethoven on period instruments
-# PbCEybm0by4 1:02 Life, Liberty and the Pursuit of Happiness : 2018/19 season teaser
 eLpAaIqJPck 2:51 What are period instruments?
-# X8XdmhIUzJs 16:39 Particle physicist Tara Shears on Antimatter | Bach, the Universe, and Everything
-# PMwszGtyfTk 1:28 The Big Give Christmas Challenge - Rising Stars
 f4ZU4PlXqu4 3:31 What is a Cantata?
 UDMCWta1dns 2:35 Trad Klezmer, Die goldene chasene
 Z4o14vNIOIw 2:57 Double bass bow: French or German?
@@ -2906,30 +2448,23 @@ n6Ts2z9tXg8 4:56 Introducing the Baroque Flute
 UT5OqjubfiI 5:07 Mozart's Horn Quintet, 1st Movement (on a hosepipe horn) at The Night Shift, Islington.
 6XN_qgbM6Dc 6:51 Introducing the Baroque Trumpet
 HEMeybr5Rdo 2:21 Introducing the Baroque Horn
-# BRNhNR8EbKU 0:33 Come and hear the musical landscapes of Lowestoft
 yXxe5wMNE3I 2:50 Steven Isserlis and Haydn's Cello Concerto in C | Orchestra of the Age of Enlightenment
-# T0i3AOzLICg 0:35 Musical Landscapes - Durham | Orchestra of the Age of Enlightenment
 7qagu9sTU5o 3:47 Sarah Connolly on Berlioz's Les nuits d'été | Orchestra of the Age of Enlightenment
-# bwnfAe3PAso 0:55 OAE in 60 seconds
 lQNdEWutiZk 7:05 Vivaldi’s Four Seasons with Kati Debretzeni, pt4: In Depth
 JyYBZmth6zk 4:52 Vivaldi’s Four Seasons with Kati Debretzeni, pt3: In Depth
 OovG_RWEqVE 8:54 Vivaldi’s Four Seasons with Kati Debretzeni, pt2: In Depth
-# ozYcv8_CICk 3:32 Visions, Illusions and Delusions: 2017–18 season trailer
 3t_M-fVRnz8 5:07 Vivaldi's Four Seasons with Kati Debretzeni, pt1: In Depth
 7uFz-HkH_r0 3:06 Christmas in the 17th Century | The Geffrye Museum
 soeq9TR5evw 2:19 Noel: A Christmas Celebration, Kings Place
 Z7jWYiQz1cA 2:56 Introducing the Harpsichord
 egL0z-lBMBQ 5:33 Passacaglia in D minor by Fischer | The Night Shift
-# 03z6sTP2jRQ 0:30 Mad skillz from footballer turned harpsichordist Ottavio Dantone
 gnz4CgYS_oM 2:33 BBC 'Embedded' composer Matthew Kaner chats about his new piece for The Night Shift
 kqV1ye-AMWk 2:04 The Choir of the Age of Enlightenment 'Faire is the Heaven - Sacred Songs of Love'
 Mtq2aB_F27I 4:58 Polacca By Punto | The Night Shift, The George Tavern
 WSlvLS1t0XU 2:55 Vibrato with violinist Julia Kuhn | Orchestra of the Age of Enlightenment
-# XXVMQS8wScI 0:09 The Night Shift live from Old Queen's Head, 26th July
 DLuM8cbc1dM 6:06 Explaining Pitch | Orchestra of the Age of Enlightenment
 3g_PCnAGnfg 2:26 Introducing the Schnellar Timpani
 nBC7zSACN6U 1:31 "Play as if from the depths of the forest"
-# bNyfOQgCjY0 0:38 New Night Shift venue: The Bussey Building, Peckham
 lTHP_RKMO8k 2:36 Max Mandel on Mozart and Michael Gordon.
 TSqBYccihhU 9:55 In Depth: Sarah Connolly on Mahler and more
 4NWoXEgs0HU 2:30 Lisa Beznosiuk on the flute in Bruckner
@@ -2943,63 +2478,40 @@ aEag95NcMfA 2:30 Madness and genius - an overstated connection?
 1MqId5hqql0 4:14 Schumann’s Violin Concerto
 oEQ01yS4J6U 1:20 OAE musicans reveal their New Years Eve plans
 R0uEobFss5k 2:27 The Piano Tuner: Sjoerd Heijda
-# m9zEjAzUes0 0:49 DJ plays Bach at the Boiler Room!
 MaKnfDddgLI 4:46 OAE Archive #1: Bach's Double Violin Concerto (1st movement)
-# HJyut2PIXN0 0:07 The Night Shift: 30 November 2015, St John's Smith Square.
 eC-0V4kV5XI 3:06 OAE at West London Synagogue
 DZy6qJykJsU 1:48 30 Years of Breaking the Rules
-# SpmrBUGSpk0 0:16 The Night Shift: What the audience thought
 dPVXATS21Hk 2:11 Watercycle in Brighton: Part 2
 ZJghuZ6kHuQ 1:54 Watercycle in Brighton: Part 1
-# dpG1b0VHHZ4 0:55 Behind the scenes at our Birthday Photoshoot
 0sZHfw6Fn5g 21:17 Violinist Catherine Mackintosh on her career and her instrument
 xh7GLNG8pRw 6:55 Violinist Alison Bury: Her Instrument
 zIUH_XlP_bs 3:29 New Music for Old Instruments: Stevie Wishart on her new composition
-# 6-h-j55SELE 0:06 The Night Shift: 12 May, Southbank Centre
 6YjMZ3WIvw4 1:33 The Night Shift: ask the musicians #01
 sVkE6TtRYHM 31:36 Post-concert discussion with Steven Isserlis, Isabelle Faust and Robert Levin.
-# DcVqcIpel_Y 1:08 Best of Both
 u3yvfFz42d4 3:07 Adam Fischer talks about working with the OAE and Dvorak.
-# Gm9539tpXKg 1:52 The Night Shift NY - 1 March 2015
-# uhQjCsoTNw0 0:41 Rules? What rules? The Night Shift at the George Tavern
 HZIW70PQ5cg 2:17 Vladimir Jurowski on Mussorgsky's Boris Godunov on period instruments
 iPcqkfs0QvU 2:05 Flying the Flag: The Bohemians - Myslivecek
 V50kq9aJapg 2:31 The Tempest at the Sam Wanamaker Playhouse
 MGTacLQ_r1k 1:35 Vladimir Jurowski on Tchaikovsky
 k0RydjhU908 3:16 Andrew Mellor on Handel's Messiah
 3FFur8rHqds 2:41 What happened when the OAE took The Night Shift to Duckie?
-# 4MDm_2rNrt4 0:28 H Factor teaser Kings Cross has got the H Factor. Have you?
 mHuYJjdUyiw 2:41 "It should make you smile" - OAE musicians talk about our 'Lord of the Strings' concert
 EwixYN2WZ1g 3:12 Richard Tognetti on the 'Lord of the strings' programme
-# rYolBRiNsGw 1:29 The Works: Your guided tour of the classics
-# OxafORb8LCE 1:13 What the audience thought - Le Malade Imaginaire at Sam Wanamaker Playhouse
-# vnIuFrxlB_s 2:34 Preview: Le Malade Imaginaire at the Sam Wanamaker Playhouse
 RZO3rWanwoA 2:54 David Kempster talks about Donizetti's Les Martyrs
-# lrBDq-ra9Bw 0:39 They've been. Have you? Join our A-list audiences* and get 15% off tickets
-# nxEGDaELCVU 1:46 2014-2015 concerts trailer: True Sound, True Music
 6LZCVQsQk38 4:12 Rameau's Zaïs
-# pdsfU510IZ0 0:41 Introducing...the 'other' Beethoven
 Qt0W1Keaqtk 2:08 Two minutes on...the Ophicleide
 84LH1alXfQc 3:20 In rehearsal: Sir Roger Norrington conducts Berlioz
-# YqiCl8KDg6o 1:03 OAE in rehearsal: Rameau's Anacréon
-# O_m0lKpzRdI 2:52 OAE Education: Watercycle
 XUkTkfdc6vE 4:04 'Fairest Isle' by Purcell | The Night Shift
 azcdjEia7xI 3:03 Sir Mark Elder and Joyce El-Khoury talk about Donizetti's Les Martyrs
 bOaXH6oAZIU 1:08 Boyce's Solomon - in rehearsal
-# yAld19m8P6o 0:35 Mildly Rude
-# QyrPkxvFVuo 0:54 The Night Shift - Burning up the rule book
 FrZvTWT5M_A 1:23 Sir Simon Rattle rehearses Haydn's Creation with the OAE
 pcEuhEUuTJQ 5:52 Rameau's Zaïs
-# UkCNJtLMGVk 1:19 Gamechangers: Symphonic Greats - audience reaction
 -qTxxQbwJN0 2:19 Spinal Chords by Sally Beamish | Orchestra of the Age of Enlightenment
-# xxkryCD6xuc 1:38 Introducing... The Night Shift
 GLfXDIbUIjY 1:12 The OAE rehearses Schubert's Symphony No. 9, 'Great'
 XD4kNY34AoE 3:15 Introducing the Violoncello da Spalla
 S5Np9ncOId8 1:13 OAE: The Works (Trailer)
-# iiI76msHiiQ 1:28 'French Fancies' audience reactions...
 SpP8uVR0JX4 6:18 How to make a hosepipe horn
 3fcVU_i0QrI 3:54 An interview with the Labèque sisters
-# km__RL6HhC8 0:52 Offenbach's Fantasio: Trailer
 j_cxE7dZhrA 4:00 Sarah Connolly and Sir Mark Elder on Offenbach's Fantasio
 HDQLdXXKbEE 2:20 Fantasio by Offenbach: The Story
 2-Z5BnAnEBs 1:18 The Night Shift: Beethoven at the movies
@@ -3009,93 +2521,50 @@ KliIwPMqU1A 3:28 Composer Clare Connors
 fHfhs85kgm4 3:31 Kim B Ashton interview
 8_zZLhix4wg 2:39 The Night Shift Pub Tour: The story so far
 FRqJryj97rQ 2:52 William Christie on Rameau
-# CZjy10dK5TU 1:13 Add fireworks to your Monday. (and get 10% off)
-# UIKHiVEu63w 1:05 MONDAY
 mKevUFEljS8 2:23 OAE New Season Trailer 2013-2014
 h6onNwsjd68 4:01 Laurence Cummings chats about The Night Shift at Wilton's Music Hall, 31st July
-# 8-R4qvKTHNk 5:50 3 June 'A Tribute to Lorraine Hunt Lieberson' Audience Reactions
-# AZ6R9nfYUdg 2:14 OAE Photoshoot Audience Interviews
-# k84Dv_DGSf8 1:12 OAE Season Brochure 2013-2014, hot off the press!
-# iZqvZINQtBM 2:18 The Night Shift: The Amersham Arms, New Cross, 23 April 2013, Audience Reaction
-# zcxWFoEUmWI 1:16 OAE: Music for Everyone
-# _HRWZcdpLeU 1:58 Bach Unwrapped Audience Reaction: April 2013
 lKZh25_HBn0 2:44 John Butt on Bach
 mR_tZ1FZFD4 1:52 The Night Shift: The Amersham Arms, New Cross, 23 April 2013
-# aHJpWirnEjI 1:00 Mozart - Making Ennui Epic
-# uKBFjR6mZlM 2:16 OAE: By Jupiter, January 2013: Audience reaction
 8CuC4UMLdU8 4:40 V4: The Seasons - In Depth
-# -ful9sG6FZM 1:50 OAE: Creation, January 2013: Audience reaction
-# wMG4E6GZZs4 1:51 The Night Shift: 22 November, Queen Elizabeth Hall: Audience feedback
 gwFOEhhs0Ec 1:10 V4: The Seasons: OAE & Vivaldi & Henri Oguike
 Gb1-N1JTCX4 2:27 OAE Education: Shine a Light
-# h0S0uHMkvLg 1:50 The Night Shift: Audience feedback, 25 October 2012 Queen Elizabeth Hall
 Xcl_dv4BfPM 2:09 Art, Music and Other Visible Things: OAE@Whitechapel Gallery
-# dBQ5U-PrTNw 1:53 OAE: Handel's Messiah 2012 - Audience reaction
 cqBuOss-ysM 3:19 Messiah: the best bits
 EKk8pDwgeKo 3:46 Rob Howarth and Handel's Messiah
 TQSL7dg6zpA 2:46 The Night Shift: Old Queen's Head, 25 September 2012
 V1WYwJphMyg 1:37 Queens, Heroines & Ladykillers: 30 September 2012, Royal Festival Hall
-# XWGKNdB48wo 1:55 Queens, Heroines & Ladykillers: 8 November 2012, Queen Elizabeth Hall - Audience feedback
-# dyWWOPoTNCU 1:54 The Works: Audience feedback from March 2012
-# v1f5fLoXTEs 0:57 OAE Big Give Christmas Challenge
 po3K92bMwxI 3:08 Mozart's Horn Concerto No.4 on the Natural Horn
 Mal53MsgQk8 1:40 'Dubussy' Remix Contest Judge Chapelier Fou gives advice on how to approach your remix
 -Mj6RvyZw1Q 2:45 Beethoven Symphony No.9 CD and Sir Charles Mackerras
 GFE4YB2qKhQ 2:19 OAE: 'Queens, Heroines & Ladykillers' Competition
 AqlM961J3Fo 2:42 French Impressionists tour with Sir Simon Rattle. Part 2
-# 55MYnHqGvY4 1:03 The Night Shift at the Little Top, Greenwich
-# a7wA4KZywQw 2:21 The Night Shift comes to Blackheath...in a tent
 J1RnQjm5v3s 4:10 The making of the OAE 2012-2013 brochure - behind the scenes at the photoshoot
 jU7C20gWs9Y 27:41 Steven Isserlis, Isabelle Faust and Robert Levin chat post-concert
 zFHThUVYwLQ 9:19 The OAE on tour - with Sir Simon Rattle and the Labèque Sisters
 Cng6wq1O5Gc 4:54 OAE: Pierre-Laurent Aimard talks about Ravel's piano concerto for the left hand
-# _mqhtwX4oNI 1:51 Look! No conductor! Audience Feedback
-# fsoDc9Tkn2M 1:59 Bostridge sings Bach: Audience feedback
-# 7eTlLMBttZ4 0:50 OAE Season 2012-2013 brochure: Teaser
-# vJIBxM6IDvw 1:07 Introducing the OAE Green Travel Mug
-# feIJma92Dek 2:16 OAE: Audience Reaction voxpops - Berlioz Romeo & Juliet
-# O6fRUQyaQAo 3:33 OAE: Beethoven's Missa Solemnis Audience Reaction
 KRqCAhxTJpE 26:29 A Royal Invitation
-# _DWb4UOQb4A 0:55 Anthem for a Child 2012
 B-7pxFOuX5c 1:43 The Works is back with Bach
 fMD_NnncFZU 1:57 The Night Shift in rehearsal, with Jon Jacob
 A1FoKqEtFBs 2:46 A musical stalker...
-# RynJicZQacA 0:47 The Night Shift at the Roundhouse / Reverb 2012: Trailer
 Zy38DobmhBw 3:06 The Night Shift Pub Tour: The George & The Amersham
 gPy6y65nFc4 4:47 Ceri and Will talk about The Night Shift pub tour
-# qnW78hnbHl8 2:34 The Glory of Venice: Audience reaction
-# q2V18CnEX9M 1:38 The Night Shift Pub Tour Trailer
-# Z6XgSc5RQHU 0:33 The OAE and me
 DEDAPTCyi5M 3:14 OAE: Laurence Cummings on Handel's Messiah
 OYFIhlp4HZ0 3:25 Orchestra of the Age of Enlightenment: Beethoven's Missa Solemnis
 RuJz3oCWEGA 5:30 Pianist Robert Levin on taking risks in performance.
-# vyIE-S8Ez1Q 1:02 OAE: The Works Trailer
-# W5hQDjRDmQ8 2:24 The Night Shift: Pub Tour Appeal
-# dK1oACCIsq8 1:09 OAE: Edinburgh in 60 seconds
-# _JdZm7_17NA 2:50 OAE at the Edinburgh International Festival
-# vy_j50dpKHE 2:39 OAE: The 'mini' Night Shift
-# 1fq3SJlXoq8 2:10 OAE: Audience Reaction - Sir Simon Rattle & the Labèque Sisters
-# 8_N1tyGsgzU 1:33 OAE: 'May the fours be with you' - 4 May Voxpops
 -KSPHtbew_E 4:50 The Night Shift: Behind the Scenes at Village Underground
 38xSPP53g5I 4:36 The Night Shift at Village Underground, Shoreditch
 vlHgLS62lhQ 4:54 OAE: The story of Mr John
-# 6yrAxCB9VFk 2:34 The Night Shift: 4 May Audience Vox Pops
-# 4hsJHaEWWwo 0:53 The Night Shift: OAE on Handel
-# JGQL9hRuvvE 1:59 The Night Shift: Handel
 gQwBAmbwXLI 3:26 OAE on Sir Simon Rattle
 BSTXaQFfRmg 4:36 OAE: Megan's Alphabet Challenge (AKA the A-Z of touring)
 wbQYGLTWRA4 2:05 Handel: What's the appeal?
 0qhJO0DN5P4 1:05 OAE players on Handel
 BBmCi3csiTg 2:46 The Night Shift: Conductor Roy Goodman on Schubert's Symphony No.4, 'Tragic'
 tC6SPGuOOHQ 3:42 OAE: Baroque Contrasted Vox Pops
-# 1tj4xLMNIGg 7:48 OAE tour diary: Sheffield
-# mOPLCChomj8 3:06 The Night Shift Vox Pops
 vuCtJFWrXb0 5:44 OAE: Matthew Truscott (violin) on 'Baroque. Contrasted.' at Kings Place
 T4otceedkh0 6:49 OAE staff on 'Baroque. Contrasted.' at Kings Place
 7Y3EAbtruMU 8:06 On tour to Paris with the OAE: Will's video diary
 fESVfVa_gMU 5:39 The other amazing Mr. Bach
 IiVlCgCb3vQ 4:45 OAE: A Royal flute lesson
-# prMEDOFzXlU 2:15 OAE: Symphonic Enlightenment Vox-pops
 X-afM0tMIlI 5:47 OAE Released: Artwork concept
 4xosip6yBxs 4:03 OAE Released: Monteverdi's Vespers
 x2Oan94pnCc 12:05 Vladimir Jurowski Interview
@@ -3105,32 +2574,14 @@ rqbwGacYpew 5:48 Crooks Vs Valves. Martin Lawrence on Horns, Mahler, Wagner and 
 jeEhatHlwvQ 1:45 The Night Shift: OAE players on death, vomit... and Mahler
 WEYw8ca_Io0 1:52 OAE on Mahler
 lXSvlG-_Eo8 1:59 Ceri Jones 'Seraglio' OAE Tour Diary
-# PRKb_SWBFg8 1:57 Audience reactions to Mozart's 'Abduction from the Seraglio' performed by the OAE
 VgIqVSzeaLs 8:45 French Connections - Orchestra of the Age of Enlightenment
-# wAsehXN6l80 1:23 OAE staff comment on Cherubini's Overture Medée
 Rj2-ZjbzElM 3:38 The Night Shift at Wilton's Music Hall, Aug 2010
 nqwiuPRDzCs 3:23 Songs of Wars I Have Seen
 VsGlckg8gq0 3:24 Orchestra of the Age of Enlightenment perform Haydn's Symphony No.64 at The Night Shift
 UL7CVtQjIBc 4:46 The Night Shift: Backstage
 YWfSmZectL8 3:20 The Night Shift - 28 April 2008
-# zYL_I2F93tU 1:40 The Night Shift
 
-# Island Voices Videos
 
-# e3y4kKTnk9I 6:03 English documentary: Craigard, with Donald MacKinnon
-# IfPxG5Rc1R8 6:03 Gaelic documentary: Craigard, with Donald MacKinnon
-# fOGTKqNe_90 24:38 Aodán Ó Cearbhaill: Taisce bheo na nGael (2)
-# 5qL7jDY3sUI 31:32 Aodán Ó Cearbhaill: Taisce Bheo na nGael (1)
-# cnNvrkkmmJU 5:07 Jane NicLeòid: Talking Points Extract
-# VSK03u0YeKg 11:24 Doctor Joseph Farquharson: Talking Points Extract
-# 4xZmzCN2qRg 7:55 Professor Udaya Narayana Singh: Talking Points Extract
-# YRiQBOc37Pw 6:56 Audrey West: Talking Points Extract
-# mHuQEPKW5hw 5:58 Kalyan Das Gupta: Talking Points Extract
-# krLY9ATKT5w 12:46 Professor Conchúr Ó Giollagáin: Talking Points Extract
-# 10BUSDrdr6Y 49:36 Dr Will Lamb: Progress Towards Accurate Automatic Speech Recognition for Scottish Gaelic
-# ObJ-c1MT0Xs 1:16:06 Language Contact - Bilingual Balance? Talking Points Discussion 3
-# nnZOZD-l-fM 1:18:20 Language Hierarchies - English Ascendancy? Talking Points Discussion 2
-# xHWdO6mPl68 1:11:58 Language Endangerment - Gaelic Trajectory? Talking Points Discussion 1
 JnwtBGuvb0g 7:10 Norman Maclean Talking Points, Part 3. Language Contact - Bilingual Balance?
 CvcjkU-1Ybs 7:41 Norman Maclean Talking Points, Part 2. Language Hierarchies - English Ascendancy?
 vUvu8ueMecA 7:34 Norman Maclean Talking Points, Part 1. Language Endangerment - Gaelic Trajectory?
@@ -3140,26 +2591,12 @@ SBqk3mSQPM4 2:20 Language Hierarchies: Talking Points 2 (short)
 4lfvx4cF6-4 2:20 Language Endangerment: Talking Points 1 (short)
 VNgYaDP8dbM 7:02 Di Nyuuzpiepa
 m2IYhk7_xMQ 10:00 Gaelic Jorni
-# -nmZNvGw9vw 29:48 Caitlín Ní Bhroin (2): Taisce Bheo na nGael (Zoom)
-# -FgU-xdz-i0 34:37 Caitlín Ní Bhroin (1): Taisce Bheo na nGael (Zoom)
 0G4pnGencqE 9:49 Seanchas: Deireadh Sliochd nan Leòdach
-# M9IdCRVYTKI 26:19 Anna Frater (4): Stòras Beò nan Gàidheal
 NUZZi2JxqNQ 11:17 Seanchas: Coinneach Bàn, Fear-taca Lacasaigh
-# CFAdfqY0zDE 30:22 Anna Frater (3): Stòras Beò nan Gàidheal
-# FkV6H5Fw5oY 33:10 Anna Frater (2): Stòras Beò nan Gàidheal
-# 5BCcGp3yrr0 26:35 Anna Frater (1): Stòras Beò nan Gàidheal
 53S0BDgqgqA 7:21 Dijitaizieshan Senta ina di Hebrides
-# AX9y0i-baK0 30:39 Alasdair MacDhòmhnaill (4): Stòras Beò nan Gàidheal
-# bsZR7RH2N6A 29:35 Alasdair MacDhòmhnaill (3): Stòras Beò nan Gàidheal
-# 9ULYjB49MK0 33:39 Pàdruig Moireasdan (2): Stòras Beò nan Gàidheal
-# 41HK5rfgqkQ 33:49 Pàdruig Moireasdan (1): Stòras Beò nan Gàidheal
-# 605mlP1idmY 31:15 Curstaidh NicDhòmhnaill: Stòras Beò nan Gàidheal
 E5wF5Jyn488 2:20 Criomagan (English subtitles)
 QSSfLqbMi-g 2:20 Criomagan
-# r_yHflfgbEU 36:22 Guth nan Siarach agus Staing na Gàidhlig
-# hZSCw-PtDy8 25:48 New Insights on the Vernacular Gaelic Communities in the Islands
 JD8pBRRx748 6:54 Ceòlas nyári iskola
-# FiZ0GkauTqo 6:03 Tο Κέντρο ημέρας Craigard
 RFScg-VAQB8 3:27 Mi piace questo binario! (Gaelico)
 4jlJMNpP9Gc 8:39 Schnellboot nach St Kilda
 vfH9jG4w9k0 6:54 Ceòlas yaz okulu: Turkish documentary
@@ -3167,42 +2604,11 @@ PiLzZG-p3f4 0:42 Khasi Recitation
 OnTKpQokfx0 5:06 विंडसर्फिंग - Windsurfing (Hindi)
 WqGxcr81ryQ 8:39 সমুদ্রপথে সেইন্ট কিলডা - Seatrek to St Kilda (Bangla)
 Vdg9KbnG43A 3:30 আমার হাত বান্ধিবি - Traditional Baul Song
-# jkPemTDiKMU 30:27 Christine Primrose (2): Stòras Beò nan Gàidheal
-# SGB0wHMFBqo 22:35 Christine Primrose (1): Stòras Beò nan Gàidheal
-# cJRBSfQiPzg 33:34 Seònaid Mhoireach (2): Stòras Beò nan Gàidheal
-# jg9i8NjjMak 29:59 Seònaid Mhoireach (1): Stòras Beò nan Gàidheal
-# zdEm2Unuy40 22:18 Iain Greumach (2): Stòras Beò nan Gàidheal
-# zz8m6ci7h-k 21:24 Iain Greumach (1): Stòras Beò nan Gàidheal
-# SkpKC8OKHjU 29:29 Gina NicDhòmhnaill (2): Stòras Beò nan Gàidheal
-# KzFpoKS68wo 30:42 Gina NicDhòmhnaill (1): Stòras Beò nan Gàidheal
-# unbDf0APkxI 34:10 Aonghas MacPhàil (2): Stòras Beò nan Gàidheal
-# NXVLSUOZZZs 37:53 Aonghas MacPhàil (1): Stòras Beò nan Gàidheal
-# BrRnV6GgEDY 35:44 Dòmhnall MacDhòmhnaill (3): Stòras Beò nan Gàidheal
-# ZyNuFDHs8HI 35:57 Dòmhnall MacDhòmhnaill (2): Stòras Beò nan Gàidheal
-# b6oowtPH-_g 29:55 Dòmhnall MacDhòmhnaill (1): Stòras Beò nan Gàidheal
-# Hap5Jo1q1o4 23:37 Alasdair MacDhòmhnaill (2): Stòras Beò nan Gàidheal
-# IzNK8uQsI8Q 20:56 Alasdair MacDhòmhnaill (1): Stòras Beò nan Gàidheal
-# rKf21a8ma_8 34:38 Seonag Smith (3): Stòras Beò nan Gàidheal
-# oJ24vgH2z8I 31:33 Seonag Smith (2): Stòras Beò nan Gàidheal
-# jHO1uy8apEk 26:08 Seonag Smith (1): Stòras Beò nan Gàidheal
-# rvX7JEYOShs 26:48 Màiri Robasdan (2): Stòras Beò nan Gàidheal
-# n70qZv3d6V8 24:19 Màiri Robasdan (1): Stòras Beò nan Gàidheal
-# PIAlpFcwf9o 28:05 Ailig Mac a' Phì (2): Stòras Beò nan Gàidheal
-# ykesJEsmpq0 33:10 Ailig Mac a' Phì (1): Stòras Beò nan Gàidheal
-# GbbhUD-QzN4 30:13 Catrìona Nic an t-Saoir (2): Stòras Beò nan Gàidheal
-# 9yYPB_s5SJ8 27:08 Catrìona Nic an t-Saoir (1): Stòras Beò nan Gàidheal
-# __QqgB0_-zo 32:09 Alasdair MacAsgaill: Stòras Beò nan Gàidheal
 CSVFn79rb2w 22:22 Two Lands, Many Languages - दो देश, भाषाएं अनेक - Dà Dhùthaich, Iomadh Cànan
 W-MXXM8N8V0 1:19 Juri Dutta poetry reading
 mhm6BoZ-SME 7:02 அந்த செய்தித்தாள் - Am Pàipear (Tamil)
 KwfyOcHZLtg 0:57 Rusa Bhowmik
 ybWYSEmgerE 0:53 Dharani
-# jgENcQMS3Rc 21:50 Hughena NicDhòmhnaill (2): Stòras Beò nan Gàidheal
-# ZGq8t29yNAw 23:00 Hughena NicDhòmhnaill (1): Stòras Beò nan Gàidheal
-# RvazpLf5mok 29:55 Tòmas MacDhòmhnaill (1): Stòras Beò nan Gàidheal
-# mZUA0JQTlLs 32:11 Tòmas MacDhòmhnaill (2): Stòras Beò nan Gàidheal
-# Z-Q3M_eKjO8 26:36 Pàdruig Moireach - Stòras Beò nan Gàidheal
-# Vc6rGv2_XsY 26:39 Eairdsidh Caimbeul - Stòras Beò nan Gàidheal
 wtTukz3jIcM 10:00 Un viaggio gaelico - A Gaelic journey (Italian version)
 fspj74toS_o 8:02 Magaidh Smith
 v93311R1hyc 9:49 Liam Alastair Crouse, 2018
@@ -3217,11 +2623,6 @@ vLsE5iy8TyA 3:40 Liam Alastair Crouse, 2017
 WR8jgqj2iic 4:39 An Dr Dòmhnall Uilleam Stiùbhart
 j89COOGz6vQ 5:29 Urdu Documentary: Surfing
 gT_mDHN7GHA 5:09 Urdu Documentary: Restore Project
-# IP2xWdottZM 52:25 Dihaoine - Gàidhlig: Saoghal Thormoid
-# TlUzd4pKaIg 44:21 Diardaoin - Cruthachalachd: Saoghal Thormoid
-# NqUS1wwtCeA 53:48 Diciadain - Coimhearsnachdan: Saoghal Thormoid
-# eiIzDMYAI_A 35:13 Dimàirt - Foghlam: Saoghal Thormoid
-# nCR2mVnDcX0 38:33 Diluain - Sinnsireachd: Saoghal Thormoid
 K_pFGFRTEEI 4:18 Dr Will Lamb
 AxHYpaPA2xg 4:11 An Dr Uilleam Lamb
 NCJXHbbAqqg 10:00 A Gaelic Journey (Basque version): Benbecula to Ranafast
@@ -3245,7 +2646,6 @@ mVcUhG_Sx7o 4:45 Alasdair MacGillivray (English)
 qULMnzVxmC0 2:21 Stuart Dunmore aig Soillse
 tFjV1G5SCuY 3:23 Marsaili agus Nicola aig a' cho-labhairt
 SyPoihGGi-g 1:20 Co-labhairt aig Soillse
-ttnzmXJAiVA 5:22 Cothrom Nativity Play
 soBxek1baRs 8:36 Ewen MacAskill
 TCXxIcI7NuM 9:09 Donald MacCormick: Highland Soldiers
 NNSSfeErLdI 8:29 Norman Johnson - Piper
@@ -3254,10 +2654,8 @@ LAvXmN0kND0 6:50 Isa MacKillop: Companaich m' òige
 e07YWWJ2dJY 6:27 Cathie Laing: Sgìths 's Cruadal
 3lJf1q4gMz4 11:22 Alec Macaulay
 tTB4sBGzSl8 18:27 Willie MacDonald
-# cquuGRtZf10 8:54 Reverend John Smith
 SJeFpt-sbl4 6:06 Enterprise on the Edge
 TCpQaZSm4b0 6:47 Introduction to Virtual St Kilda
-# B7OczE1nBog 2:56 A Very Busy Spider - in Balivanich!
 try9ISkWaY0 3:55 The Story of the Dog
 ThCrio5wX3A 6:36 Sgeul a' Choin
 CXRO6dyYqig 4:09 Blàr Chàirinis
@@ -3268,164 +2666,85 @@ Unx1xpaWyVU 10:00 A Gaelic Journey (English Version): Benbecula to Ranafast
 Y43I66Bxi6c 4:12 Eairdsidh agus Nìall Caimbeul: Extended Conversation
 7bizb_Y_mU8 10:00 A Gaelic Journey (Scottish Version): Benbecula to Ranafast
 AP4V-QoxVtw 3:45 Aodh Mac Ruairí: Extended Interview
-# K5Rp4WyMTpY 1:45 Darragh Ó Dochartaigh: Full Recitation
 sv3tdC8jbXo 5:29 Bridanna Ni Bhaoill: Extended Interview
 RHZS4f1xagA 10:00 A Gaelic Journey (Irish version): Benbecula to Ranafast
 rNuexnaek-Y 7:28 Àiridh na h-aon oidhche
 Rj1pUb8GgQA 8:03 Iain Trumisgarry - A Conversation
 ivU7CZLbm0s 8:48 Grogarry Lodge
-# KkI-MBBPj2Q 4:59 English Interview: Greenspace Manager Donald MacRitchie
-# Wjp_LOeTIpU 7:03 Gaelic Interview: Seallam! Director Chris Lawson - Services
 Kr2Zn6S6d2E 5:55 Gaelic Documentary: Greenspace Research
-# puHYOzsj6fc 6:57 English Interview: Seallam! Director Chris Lawson - Services
 BjcDY0XBKjU 7:21 Gaelic Documentary: Tobar an Dualchais
-# NhiShBJBQVo 7:21 English Documentary: Tobar an Dualchais
 w_bD2WRw5dE 6:56 Gaelic Interview: Manager Shona MacDonald
-# oAg5xmlbTBo 6:32 English Interview: Manager Shona MacDonald
-# mMtM3eg3BsE 4:14 English Interview: Digitiser Catriona Scott
 92ZDzl77Zvo 3:31 Gaelic Interview: Digitiser Catriona Scott
-# kfqkYEpaWOw 4:28 English Documentary: Seallam! Visitor Centre
-# utbihJPiANY 4:28 Gaelic Documentary: Seallam! Visitor Centre
-# 9D625F1rr8g 5:35 English Interview: Seallam! Director Chris Lawson - Plans
-# 5sIYPeYZEKQ 4:16 Gaelic Interview: Seallam! Director Chris Lawson - Plans
-# mdVwD2LtWRQ 4:38 English Interview: Local Artist Margarita Williams
 SXxgPwXFAt8 4:03 Gaelic Interview: Local Artist Margarita Williams
-# aPRZdXED3RI 5:55 English Documentary: Greenspace Research
 k1bg47R0Spc 4:47 Gaelic Interview: Greenspace Manager Donald MacRitchie
-# AklugRUiq6I 3:18 English Interview: Greenspace Consultant Donald MacDonald
 HBux_tajzLE 4:08 Gaelic Interview: Greenspace Consultant Donald MacDonald
 6noT8JNLcIo 5:00 Gaelic Interview: Greenspace Researcher Malcolm Murray
-# Y1XvPNsebjY 5:17 English Interview: Greenspace Researcher Malcolm Murray
-# CdH0UYqeNEU 4:15 English Documentary: Urras Oighreachd Ghabhsainn
 nADAPb_ULDg 4:15 Gaelic Documentary: Urras Oighreachd Ghabhsainn
 ggr21IALMzg 5:24 Gaelic Interview: Galson Chair Agnes Rennie - History and Work
-# QAjmp6VLnWw 5:06 English Interview: Galson Chair Agnes Rennie - History and Work
-# 2Mk6yITs1Co 3:11 English Interview: Powerdown Officer Kirsty MacLennan
 QiVmdURUTfM 3:26 Gaelic Interview: Powerdown Officer Kirsty MacLennan
 PrnxTmbfH7E 3:15 Gaelic Interview: Galson Chair Agnes Rennie - Plans and Partnerships
-# _3Bwrv6EQbI 2:57 English Interview: Galson Chair Agnes Rennie - Plans and Partnerships
 RRCWwcbyhJk 8:39 Gaelic Documentary: Seatrek to St Kilda
-# Dm69bBehc98 8:39 English Documentary: Seatrek to St Kilda
-# PJtltorLDWU 5:26 English Interview: Seatrek Manager Murray MacLeod
 dj0UiV50cmA 4:26 Gaelic Interview: Seatrek Manager Murray MacLeod
 D5ywSDeeJ_A 4:39 Gaelic Interview: Uig Resident Iain Buchanan
-# r5CoQnfLbl0 4:31 English Interview: Uig Resident Iain Buchanan
-# jN3gEaU-0bA 7:02 English Documentary: Am Pàipear
 u30-ksN_ITQ 7:02 Gaelic Documentary: Am Pàipear
 0Uz4rnp8VAs 4:59 Gaelic Interview: Am Pàipear Editor Archie Mackay
-# KWJMIJb7u10 4:41 English Interview: Am Pàipear Editor Archie Mackay
 h-2d5Y6GTcU 5:59 Dhan Chamara: Gordon Wells
 brEh4uC5H6o 5:05 To Camera: Gordon Wells
-# 4MYB3_cJSV4 3:39 English Interview: Craigard Supervisor Marnie Keltie
 SQ-SPY0mE0Q 2:05 Tormod MacGill-Eain: Dhan Chamara
 9W9CahaP9cY 2:06 Norman Maclean: To Camera
-# Qq-qeP1sOkk 5:59 Gaelic Documentary: Craigard Day Centre
-# RWbgJx7b8i8 6:00 English Documentary: Craigard Day Centre
-# dSV7XmfaNXs 1:33 Gaelic Interview: Craigard Client Donald Mackinnon
-# kqsvPFGczy8 2:04 English Interview: Craigard Client Donald Mackinnon
 2I1-odilPAQ 4:35 Gaelic Interview: Community Member Flora Macdonald
 MdtddN5Eips 5:05 Gaelic Documentary: Furniture Restoration Project
-# F4HvA6hgLik 5:05 English Documentary: Furniture Restoration Project
 SX754F42cXE 4:13 Gaelic Interview: Craftsman Seumas Macdonald
-# eyXENTCY52E 4:09 English Interview: Craftsman Seumas Macdonald
 zdc3zSi4Txg 4:31 Gaelic Interview: Cothrom Director Neil Macdonald
-# 5mRz6nwCsIk 3:30 English Interview: Cothrom Director Neil Macdonald
 OwRUxJJ25IM 4:34 Gaelic Documentary: Hebridean Smokehouse
-# WE4bijFvuR8 4:34 English Documentary: Hebridean Smokehouse
 B92ah2z5Gdc 6:08 Gaelic Interview: Environmental Health, Alasdair MacEachen
-# iIc70iBFYxE 5:32 English Interview: Environmental Health, Alasdair MacEachen
-# DoLxQCv_8Kg 7:03 English Documentary: Hebridean Cookery Demonstration
 2Dji5JJQyZE 7:03 Gaelic Documentary: Hebridean Cookery Demonstration
-# tkJzq1TnfNU 2:26 English Interview: Hotelier Isabel Graham
 MCaJmD5gcOY 2:05 Gaelic Interview: Hotelier Isabel Graham
-# 4gaba9hEa7I 6:49 English Documentary: Ceolas Music Summer School
 lBH7VQwJcPI 6:49 Gaelic Documentary: Ceolas Music Summer School
-# eqA82-ICMLw 3:58 English Interview: Ceolas Chair Mary Macinnes
 KGk0yD5ysrc 4:10 Gaelic Interview: Ceolas Chair Mary Macinnes
-# 6ph4AM-gG6s 2:26 English Interview: Ceolas Administrator Mary Ellen Stewart
 IH6OY4AK5iM 2:16 Gaelic Interview: Ceolas Administrator Mary Ellen Stewart
 vTH7hzGVh84 2:04 Gaelic Interview: Ceolas Student Ruairidh MacIlleathain
-# Op9huMFXk7Q 3:31 English Interview: Ceolas Student Dale Cummings
 -O0BFGrUCro 7:22 Gaelic Documentary: Taigh Chearsabhagh Museum and Art Centre
-# lq3TAmvEats 7:22 English Documentary: Taigh Chearsabhagh Museum and Art Centre
 XLq2zi5q0Gc 2:05 Gaelic Interview: Heritage Officer Catriona MacCuish
-# pdFnlRY71tQ 1:51 English Interview: Heritage Officer Catriona MacCuish
 dMK4XTqQdKw 2:26 Gaelic Interview: Student Artist Donald Ferguson
-# ej-r01VbJhk 2:10 English Interview: Student Artist Donald Ferguson
 RRmexyUMSeI 6:20 Gaelic Documentary: Bi Beo Songwriters
-# QBXmX5C0aWk 6:20 English Documentary: Bi Beo Songwriters
-# 2gxdS9Yt4XY 4:22 English Interview: Lyricist James MacLetchie
 nktgD8WXN00 7:35 Gaelic Interview: Lyricist James MacLetchie
-# 3Bwp5Xz-Tlc 5:24 English Interview: Musician Kevin de Las Casas
 5-ujWQLfWuM 5:05 Gaelic Song: Singer James MacLetchie
 tKsWZCJ6hgg 6:51 Gaelic Interview: SMO Depute Principal John Norman Macleod
 e3u-b8ZVN3I 5:07 Gaelic Documentary: Children's Parliament in Barra
 M0CoVo10oJg 2:06 Gaelic Interview: MCP Sarah Macinnes
-# Z2FxyLkk1pE 5:07 English Documentary: Children's Parliament in Barra
-# OqvA-hqkZg4 1:59 English Interview: MCP Sarah Macinnes
 0dCR5GZH0Cw 6:23 Gaelic Interview: Parent Isabell Macinnes
-# HdyIQIGZgbs 6:48 English Interview: Parent Isabell Macinnes
 8V3Mn5w6QCA 7:10 Gaelic Documentary: Children's Parliament in Benbecula
-# 1zE217N1OcQ 7:10 English Documentary: Children's Parliament in Benbecula
 4Fe543X4v2s 5:56 Gaelic Interview: Health worker Isabel Steele
-# YJI2ABr_kQM 7:51 English Interview: Health worker Isabel Steele
 GSd976uh4LY 8:09 Gaelic Interview: Teacher Catriona Black
-# OegXYbamM2Y 7:27 English Interview: Teacher Catriona Black
 _y2QclvLeqg 7:38 Gaelic Documentary: Work Skills Courses
-# xzXQFHMwaiQ 7:38 English Documentary: Work Skills Courses
 W5vxFXSg6Dc 5:08 Gaelic Interview: Crofter/demonstrator Neil MacPherson
-# QZncNeybaaY 3:43 English Interview: Crofter/Demonstrator Neil MacPherson
 UB1TDIBqXJ0 2:54 Gaelic Interview: Boatbuilding pupils
-# _Ax25cBZ1YI 3:09 English Interview: Boatbuilding pupils
 XOc-HqsKHKo 5:32 Gaelic Documentary: Scotland's Gaelic College
-# brvfX4QOJic 5:32 English Documentary: Scotland's Gaelic College
-# bv0x5WdxgrI 5:05 English Interview: SMO Depute Principal
 5KUJBlCRAds 4:01 Gaelic Interview: SMO staff and students
-# QSrNsKXE6AA 4:42 English Interview: SMO staff and students
 5O99V5-X-6g 5:50 Gaelic Documentary: Grimsay Boat Day
-# FTzb9yK1kx0 5:50 English Documentary: Grimsay Boat Day
 USnH21qauj0 4:25 Gaelic Interview: Father, Lachie Morrison, on Grimsay and boats
 -kRntPW3k9E 2:06 Gaelic Interview: Son, Padruig Morrison
-# YyF3wfyJMgY 4:14 English Interview: Father, Lachie Morrison, on Grimsay and boats
-# bQ1MJLz0usA 2:20 English Interview: Son, Padruig Morrison
 1wjxcB9kSRk 7:50 Gaelic Interview: Lachie Morrison, Heisgeir reminiscence
-# V6bOwZ2qDRk 5:05 English Interview: Lachie Morrison, Heisgeir reminiscence
 0aDmuKJEivQ 4:45 Gaelic Interview: Crofter Roddy Red Tie Macdonald
-# zNicypDAtMk 4:08 English Interview: Crofter Roddy Red Tie Macdonald
 CLgG0vMsm3c 6:22 Gaelic Interview: Biodiversity Officer Anne Maclellan
-# yVLEmBGJXLs 6:09 English Interview: Biodiversity Officer Anne Maclellan
 FfCv_pesimY 7:03 Gaelic Documentary: Crofting and harvesting
-# SI79UOktKCI 7:03 English Documentary: Crofting and harvesting
-# QhQx8V0i1To 3:40 English Interview: Peatcutter Archie Campbell on the peatcutting process
 RN6WNGlvYcQ 6:11 Gaelic Interview: Peatcutter Archie Campbell on the peatcutting process
-# QTL_QuEVWbY 5:02 English Interview: Peatcutter Archie Campbell on Social Customs
 tSzGGE_CTNs 5:07 Gaelic Interview: Peat cutter Archie Campbell on Social Customs
-# ZdNQB86k49E 3:31 English Interview: Lazy beds co-ordinator Tommy Macdonald
 UosWZ6bxNTE 3:59 Gaelic Interview: Lazy beds co-ordinator Tommy Macdonald
-# 3E015U6h1Ns 2:03 English Interview: Lazy beds demonstrator Angus Macdonald
 CqE6Gku5yYM 2:24 Gaelic Interview: Lazy beds demonstrator Angus MacDonald
-# KMnJoV2WWmc 5:20 English Documentary: Lazy beds
 L9E0ucZDZVs 5:20 Gaelic Documentary: Lazy beds
-# I22eWfust5U 3:42 English Interview: Razorfish Cook Mary Anne Mackay
 hLm9ByfQl6g 4:24 Gaelic Interview: Razorfish cook Mary Anne Mackay
-# KvIcz5GfRzE 4:55 English Interview: Razorfish catcher Alec Beaton
 7-JUfyHCSm4 4:18 Gaelic Interview: Razorfish demonstrator Alec Beaton
-# Gsqf75JZAwY 5:00 English Documentary: Catching razorfish
 i_eaBU3EHl8 5:00 Gaelic Documentary: Catching razorfish
-# e1phTyxse-E 5:06 English Documentary: Windsurfing
-# rgs8o9LyX1A 6:29 English Interview: Surfer Will Lamb
 ag-p7au9vBU 6:46 Gaelic Interview: Surfer Will Lamb
 0nV9qsIK1sc 5:06 Gaelic Documentary: Windsurfing
-# t4BCnSdiS1k 3:29 English Interview: Windsurfer Angus Johnson
 dmGk8x-i0Lg 4:15 Gaelic Interview: Windsurfer Angus Johnson
 Xr_briCza9I 3:31 Tormod MacGill-Eain: Tighinn Dhachaidh
 u8V6JgxS_BA 3:35 Norman Maclean: Creativity and Values
-# of5cWjD9CKg 6:08 English Documentary: Peatcutting
 v0OQNvT-lAI 6:08 Gaelic Documentary: Peatcutting
-# UXM4jfriBhU 5:29 English Documentary: Surfing
 u1IJN-TiEQY 5:29 Gaelic Documentary: Surfing
 
-# Lindsay Ellis
 
 XP6uMQL9Od4 19:40 Nostalgic Woman - Lord of the Rings: The Fellowship of the Ring
 SpsdoR1hmQc 18:06 Nostalgic Woman - Lord Of The Rings: The Two Towers
@@ -3435,17 +2754,8 @@ uTRUQ-RKfUs 36:49 The Hobbit: A Long-Expected Autopsy (Part 1/2)
 ElPJr_tKkO4 34:43 The Hobbit: Battle of Five Studios (Part 2/2)
 Qi7t_g5QObs 30:38 The Hobbit: The Desolation of Warners (Part 3/2)
 
-# Celtic Source
 
 CPED6Nem0kY 10:53 Danu and Dôn, the Irish and Welsh ancestor goddesses
-# xo4eiZluC7g 1:34 Book Launch Tour
-# 4Y14EkhRx_0 14:33 The Life of Stories
-# TpFCKF1HeWw 22:32 Sir Gawain and Men's Mysteries
-# ixzq5rb6rXc 1:01 Celtic Mythology - new category on video lectures website.
-# ORVkKObUilA 26:02 Sir Gawain and the Pagan Goddess
-# 2Nbu8SvdaD8 24:36 Sir Gawain, Woman and Wild God
-# N8n2fDGKGbs 33:33 Sir Gawain, Desire and Death
-# 7PNKoy9vyHU 44:30 Sir Gawain and the Mabinogi
 s0kfq4nyVcM 30:06 A Queen Betrayed (Rhiannon's Mabinogi Part 4) with Dr Gwilym Morus-Baird
 gxB7-vWamhg 40:59 The Celtic Wonder-child Myth (Rhiannon's mabinogi Part 3) with Dr Gwilym Morus-Baird
 m-9YUVpg4sc 22:10 How can we understand the Mabinogi? With Dr Gwilym Morus-Baird.
@@ -3461,7 +2771,6 @@ HAEqrapjkxs 24:19 'The Discourse of Arthur and the Eagle' with Dr Gwilym Morus-B
 SSkF4gbB79U 15:49 A Welsh Cailleach? with Dr Gwilym Morus-Baird
 b2eIbtHhsRY 9:58 Iolo Morganwg and Fake Myths with Dr Gwilym Morus-Baird
 f9x1ZglXZIA 18:26 Barclodiad y Gawres ('The Giantess' Apronful') with Dr Gwilym Morus-Baird
-# yLt73JOQuoQ 1:33 The Magic of Meaning with Dr Gwilym Morus-Baird
 bZetJZWKckI 39:32 Who wrote The Book of Taliesin? with Dr Gwilym Morus-Baird
 wwIBemDZmWc 31:27 Was Taliesin a druid? With Dr Gwilym Morus-Baird
 M4_EmTUxIx0 29:01 What is The Book of Taliesin? with Dr Gwilym Morus-Baird
@@ -3483,7 +2792,6 @@ w_CGC28hqhk 8:02 Bardic Trickery, Gadael Tir 12.5.18
 plMtPuHTxhQ 1:30 Merched Becca, Gadael Tir 12.5.18
 UjSf0zEf0Os 2:43 Calon Lân, Gadael Tir 12.5.18
 
-# A Bit of Fry and Laurie
 
 AeOU7NNgeQg 29:18 A Bit Of Fry And Laurie S01E01
 NM8McyQCRYs 29:37 A Bit Of Fry And Laurie S01E02
@@ -3493,7 +2801,6 @@ x0X6E11G_nk 29:30 A Bit Of Fry And Laurie S01E05
 NOuAk7LX5no 28:26 A Bit Of Fry And Laurie S01E06
 s4bPsGsNGi4 24:55 A Bit of Fry & Laurie: Best Bits | BBC Comedy Greats
 
-# Jeeves and Wooster
 Te3SvM-aG04 50:45 [Support Ukraine Now] Jeeves And Wooster — Jeeves Takes Charge (S01E01) [Full HD] [subtitles]
 _uWIGhNPl0g 50:28 [Support Ukraine Now] Jeeves And Wooster — Tuppy and the Terrier (S01E02) [Full HD] [subtitles]
 TwVNIdkrfWo 49:36 [Support Ukraine Now] Jeeves And Wooster — The Purity of the Turf (S01E03) [Full HD] [subtitles]
@@ -3504,7 +2811,6 @@ uAmH0rOFOY0 49:03 [Support Ukraine Now] Jeeves And Wooster — Brinkley Manor (S
 ys6ewmHxZSA 49:57 [Support Ukraine Now] Jeeves And Wooster — Pearls Mean Tears (S02E03) [Full HD] [subtitles]
 Iz0Viqrovl4 50:51 [Support Ukraine Now] Jeeves And Wooster — Jeeves in the Country (S02E04) [Full HD] [subtitles]
 Bema4j-6mIE 50:21 [Support Ukraine Now] Jeeves And Wooster — Wooster with a Wife (S02E06) [Full HD] [subtitles]
-# dGJF3sV9EFo 49:48 [Support Ukraine Now] Jeeves And Wooster — Kidnapped! (S02E05) [Full HD] [subtitles]
 lZzA7XZyVLY 50:21 Jeeves and Wooster S02E06 Wooster with a Wife
 y9qTnHPmVZ8 50:59 Full Episode Jeeves and Wooster S03 E1:Safety in New York
 ax3f7QELTYU 49:54 [Support Ukraine Now] Jeeves And Wooster — The Full House (S03E02) [Full HD] [subtitles]
@@ -3518,7 +2824,6 @@ ETXKu03o7is 51:08 [Support Ukraine Now] Jeeves And Wooster — The Delayed Arriv
 ctsspH-2WFM 50:34 [Support Ukraine Now] Jeeves And Wooster — Trouble at Totleigh Towers (S04E05) [Full HD] [subtitles]
 vmzN-3dSCms 51:10 [Support Ukraine Now] Jeeves And Wooster — The Ties That Bind (S04E06) [Full HD] [subtitles]
 
-# Building a Medieval Castle
 
 ydoRAbpWfCU 58:51 Can We Build A Castle With Medieval Tools? | Secrets Of The Castle | Timeline
 _VHgw6epe14 58:25 How To Defend A Medieval Castle | Secrets Of The Castle | Timeline
@@ -3527,7 +2832,6 @@ s46qP1l39V8 57:53 Why Were Medieval Blacksmiths Considered Magical? | Secrets Of
 EAruY1lv6N4 58:49 How To Build A Medieval French Château | Secrets Of The Castle | Timeline
 q7bE--NVBGY 3:25 Behind the scenes: Secrets of the Castle with Ruth, Peter and Tom - BBC Two
 
-# Primitive Technology
 
 UkQfhwrlfJ4 14:51 Primitive Technology: Hut with Underfloor Heating (Ondol/Hypocaust)
 XZz-UU4pK3s 14:56 Primitive Technology: Portable pulley blower
@@ -3630,7 +2934,6 @@ z9n9rqb-lvY 4:28 Primitive Technology: Firesticks
 Uwtu_DARM9I 4:24 Primitive Technology: Thatched Dome Hut
 nCKkHqlx9dE 11:14 Primitive Technology: Wattle and Daub Hut
 
-# Concerts
 Cl2-pDsMkrw 1:48:52 Watermelon Wednesday 2015 - Peter Blanchette and Friends
 nTUegVgzxag 0-4:50 Heifetz Hootenanny: Sí Bheag, Sí Mhór | Nigel Armstrong & Peter Blanchette
 -bNGmy6QNk4 13-3:56 Bach: Allemande from French Suite No 3, BWV 814 | Peter Blanchette, Mané Lareggla, archguitars
@@ -3638,7 +2941,6 @@ qcTsZBxAWxU 15:59 András Schiff - Bach Partita No.5 in G major
 i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely
 GLQc1ypCh4c 1:09:42 "Dido and Aeneas" - Accademia degli Astrusi - Federico Ferri, conductor
 
-# MarchVivo
 QdL4BvAkIas 58:08 From Flamenco to Classical through the Spanish Guitar | Alejandro Hurtado · MarchVivo
 SQIAaE0gBJA 23:44 María de Pablos: String Quartet "Romantic Sonata" | Seikilos Quartet · MarchVivo
 xjr_RYDQC4A 1:08:19 Flamenco Night: Moon that Breaks | Leonor Leal Company · MarchVivo
@@ -3647,11 +2949,9 @@ fLrSQEuXQLA 50:13 Baroque Sonatas for Oboe | Ensemble Zefiro · MarchVivo
 VhjdlZmuLvc 1:01:16 Moisés P. Sánchez Live · MarchVivo
 nQBUWpHXmS4 1:04:19 C.P.E. Bach & the Viola da Gamba | Pandolfo, Chemin & Buccarella · MarchVivo
 9TyJgkCXPKE 1:00:52 Albéniz: Iberia (Books 3 & 4) | Luis Fernando Pérez · MarchVivo
-# 7WYV1ngxtek 54:32 Life and Death in Latin American Songs | Miró & Crexells · MarchVivo
 curKMRes4lQ 14:56 Singing through Color | Barron & Drake · MarchVivo
 Uvcp3pNv-HY 34:54 Folias and Chaconnes in Baroque Keyboard Music | Francesco Corti · MarchVivo
 yevcurq59iw 42:03 Latin America Sings to Nature | Artaza & Fernández Aguirre · MarchVivo
-# bmc1ogcoJEI 57:15 Jorge Fernández Guerra: Chamber Opera Death and the Industrialist · MarchVivo
 RiuFOLilOuw 30:25 Rachmaninoff: Variations on a Theme of Chopin, Op. 22 | Donohoe · MarchVivo
 fktkqT3z3Zs 44:25 Jazz Classics Reimagined: from Joplin to Ellington | Marco Mezquida · MarchVivo
 oNdq-lx7ea8 44:21 Songs from 19th-century Russia and Ukraine | Bondarenko & Martineau · MarchVivo
@@ -3668,7 +2968,6 @@ Q-fFnTa91j8 59:17 Albéniz and Iberian Piano Landscapes | Marta Zabaleta · Marc
 gpykIX8M3zs 45:45 Flamenco Jazz on the Flute | Jorge Pardo Trio · MarchVivo
 yGrZBLtqgVw 15:30 Piano Music from Portugal | Marta Menezes · MarchVivo
 xbsQ2EFnjD0 25:40 Schubert: Piano Sonata No. 15 in C Major, D 840, "Reliquie" | Paul Lewis · MarchVivo
-# LtFUyCvz1m8 58:43 Bach: Suites for Solo Cello, BWV 1007-1009 | Lluís Claret · MarchVivo
 1DRsU0Mpl0s 14:01 Manuel de Falla: Concerto per Clavicembalo | Esfahani & OSCyL · MarchVivo
 zwj7ksOBI3k 1:00:57 Dowland's Lachrimae: the Sound of Melancholy | Concordia Viol Consort · MarchVivo
 -PrscLO1BPI 24:28 Schubert: Piano Sonata No. 9 in B Major, D 575 | Paul Lewis · MarchVivo
@@ -3714,19 +3013,16 @@ GvAw3KiHyqc 54:31 Medieval Music inspired by Buddha and Christians | Ensemble Di
 CzRjZn-VpbQ 52:56 Birth of Jazz: From New Orleans to Chicago | Canal Street Jazz Band · MarchVivo
 QNdlDPbydb8 1:10:29 Iberian Music for Keyboard | Pierre Hantaï · MarchVivo
 l3CLj2lCEQM 22:00 Clementi: Sonata on a Square Piano | Alexander Melnikov · MarchVivo
-# 1TE6ro7WYVM 28:55 Felix Mendelssohn: Piano Trio No. 1, Op. 49 | Trío VibrArt · MarchVivo
 NeS7g7m2Jto 2:34 Tchaikovsky: Valse sentimentale | Adolfo Gutiérrez & Luis Fernando Pérez · MarchVivo
 NFBdFajEW1c 58:44 Bach, Telemann and Weiss: Baroque Lute Music | Xavier Díaz-Latorre · MarchVivo
 XsDcDGJFKig 14:50 Bach: Sonata for Viola da Gamba No. 1 in G Major, BWV 1027 | Coin & Martin · MarchVivo
 3fbJ0TzgePU 17:56 Frank Martin: Trio sur des mélodies populaires irlandaises | Trio Imàge · MarchVivo
 ktxmNXvP-zM 38:29 Choir music in the darkness | Young ORCAM Singers · MarchVivo
 XQiqqGNPPSY 49:47 From Medieval Cantigas to Popular Songs | Cantaderas · MarchVivo
-# 6X46tx5Q6pU 50:03 Russian composers sing to Spain | Stánchev & Mariño · MarchVivo
 YiR9Eqa5gGw 1:06:52 Lorca’s Poetry Through Songs | Lojendio & Viribay · MarchVivo
 kzSrBzgeEU4 46:09 Las Huelgas Codex | Psallentes · MarchVivo
 gCo1xJtZlEU 23:51 Crumb, Wolf and Berg from the piano | Rachel Fenlon · MarchVivo
 RyEBAa436c8 36:24 Irish Folk Music | Daoirí Farrell Trio · MarchVivo
-# XEchvEWwAtE 56:27 João Guilherme Ripper: Chamber Opera Domitila · MarchVivo
 30TO3NUr3sA 40:18 The Golden Era of Tap Dance | Barcelona Rhythm Tap · MarchVivo
 XgexdX3vjDI 13:08 Renaissance Music on a Recorder Ensemble | Seldom Sene · MarchVivo
 qjvFGTUp69Y 5:21 Habaneras & Tangos | Ricardo Gallén (#MarchVivoCD) · MarchVivo
@@ -3741,27 +3037,20 @@ pIMMfID9sN8 39:25 Hildegard von Bingen: Songs for St. Ursula | Psallentes · Mar
 sBlCYm4Qr7w 31:23 A Renaissance Mass for Eight Trumpets: Du Fay in Darkness | The Monochrome Project · MarchVivo
 VTvjJHk13Kk 26:48 Rameau: Suite in G Major | Mahan Esfahani · MarchVivo
 sH0pQH4E_GE 1:04:18 Harmonica & Broadway | Antonio Serrano & Ignasi Terraza · MarchVivo
-# epP9xUyl2CI 1:08:14 Schoenberg: Pierrot lunaire · MarchVivo
 JIRGvvc6zP0 1:07:27 Love in Spanish Baroque Theatre | Águeda, Martín-Cartón, Álvarez & Del Valle · MarchVivo
 CKJYPt8naUQ 1:03:19 Venice Baroque Music on The Harpsichord | Fabio Bonizzoni · MarchVivo
 pGd0rmD8CN4 37:39 Irish Folk Music | Karan Casey · MarchVivo
 tSjJ3hqia7s 1:07:24 Love songs in Renaissance Music: Adonis and Venus | Phaedrus · MarchVivo
 q6jyeEwvnV4 3:51 Domitila, an Opera About Hopeless Love · MarchVivo
-# gR2hT5_hDF0 1:14:31 Weinberg: String Quartets Nos. 15, 16 & 17 (Complete Quartets V) | Danel Quartet · MarchVivo
 Qc5z_wPaFjw 57:33 Baroque Harpsichord from Naples | Enrico Baiano · MarchVivo
-# t_XXmJc_PLA 1:00:04 Georg Anton Benda: Melodrama Medea · MarchVivo
 PMHwmR92vBc 17:29 J. S. Bach: French Suite No. 5, BWV 816 | Olga Pashchenko · MarchVivo
-# wyNIXJbfjMU 1:32:38 Weinberg: String Quartets Nos. 11, 12, 13 & 14 (Complete Quartets IV) | Danel Quartet · MarchVivo
 lBlHgNMt6pA 22:53 Renaissance Music for Harp Duo: Milán, Mudarra, Cabezón | Las Arpas Sonorosas · MarchVivo
-# bE3HLeP3saI 1:05:51 Weinberg: String Quartets Nos. 8, 9 & 10 (Complete Quartets III) | Danel Quartet · MarchVivo
 ukMm05XTnfI 1:03:24 Musicals on The Piano: From Gershwin to Porter | Baptiste Trotignon · MarchVivo
 oF70XhHvsFM 42:30 Boleros, Love Sorrows | Zenet, Ángela Cervantes & Pepe Rivero · MarchVivo
 YsTly09vULg 55:10 Viktor Ullmann: Melodrama The Love and Death of Cornet Christoph Rilke · MarchVivo
-# kMtFhIX3cLc 1:18:27 Weinberg: String Quartets Nos. 5, 6 & 7 (Complete Quartets II) | Danel Quartet · MarchVivo
 KfmWJ7e5FzY 47:57 Early Music and Songs of The Mediterranean | Devecioğlu, Heumann & Díaz-Latorre · MarchVivo
 bCMkWM-srm0 55:36 Musicals in Big Band | AP Big Band · MarchVivo
 _AVvb2BlMpo 48:51 "The Spagna": Renaissance Dance | La Danserye, Campóo & Vicedo · MarchVivo
-# W1DZap9bYSU 1:35:04 Weinberg: String Quartets Nos. 1, 2, 3 & 4 (Complete Quartets I) | Danel Quartet · MarchVivo
 ocMtbH9YEp4 52:02 Troubadours and Medieval Courtly Love | Ensemble Leones · MarchVivo
 68wz6cCi8HM 15:55 Sabicas & Sanlúcar: Flamenco Guitar and Dance | Conde · MarchVivo
 0sKu57Fh5LM 31:01 José de Nebra: Works for Keyboard | Irene Roldán · MarchVivo
@@ -3785,11 +3074,9 @@ O-eVmwVGZvI 56:06 The Viola da Gamba: An Overview | Miguel Bonal · MarchVivo
 UOdliLZDaKg 1:14:02 Mozart and the Triumph of Counterpoint | Bezuidenhout · MarchVivo
 ZCEKzHTO-6Q 1:22:36 The Spanish Real Book: Sambeat, Sanz & Rossy · MarchVivo
 1a5-7RWIcg0 1:29:43 Cuban Trova on Piano | Pepe Rivero · MarchVivo
-# EmCqXgPivLY 1:18:44 Manuel García: Chamber Opera I tre gobbi · MarchVivo
 7wPOxiapDFY 56:53 An Anthology of Flamenco | El Granaíno · MarchVivo
 mNaMIE7UNX8 44:37 Penderecki: Polish Requiem and Sonata No. 2 | Moreno, Bohorquez & Krupiński · MarchVivo
 Ol5Sako3UiA 5:54 Tchaikovsky: October for Piano | Blackshaw · MarchVivo
-# D-RhV_3kWfw 1:13:43 The Ballets Espagnols in Paris: Ballets by Óscar Esplá and Ernesto Halffter · MarchVivo
 P98GEgDiYkA 57:23 Schubert, The Arpeggione and The Guitarromanie | Riquelme & González · MarchVivo
 yvhl4QWMdog 22:27 Choral Encores | Choir of the Comunidad de Madrid · MarchVivo
 WJcNKEFQma8 22:29 The Nostalgic Guitar: Falla, Piazzolla, Ellington and Barrios | Dukić · MarchVivo
@@ -3809,7 +3096,6 @@ uvjdunLOP5c 13:44 Webern and Schoenberg Paint for Mondrian and Kandinsky | Leons
 69ErGDqRrNM 49:24 17th-century Italian Instrumental Music (Merula, Rossi and others) | La Vaghezza · MarchVivo
 v44FEToJgbE 46:06 Bartók's Piano Music | Péter Nagy · MarchVivo
 3tXrxbmMkIY 15:18 Scarlatti in Ligeti: Harpsichord & Piano | Pashchenko · MarchVivo
-# ne7lD0Hr9vw 1:00:14 Rossini: Mi lagnerò tacendo | Faus & Domené · MarchVivo
 n3pW0fxaWJo 9:49 Conrado del Campo: Elegy, from String Quartet No. 9 | Diotima Quartet · MarchVivo
 rSH3PbHrlv0 8:50 Children Choir: Bartók, Kodály & Ligeti · MarchVivo
 BqPeYG0IMsk 36:12 Chanson & Fado: From Edith Piaf to Amália Rodrigues | María Berasarte · MarchVivo
@@ -3818,7 +3104,6 @@ msuIAFKiH_E 13:55 Bach: Concerto for Two Harpischords BWV 1060 | Melnikov & Pash
 xMGfrxtow4I 1:16:38 Boccherini & Brunetti: Oboe Quintets and Sextets | Il Maniaco Ensemble · MarchVivo
 BXPyj2PYS-k 1:17:02 Frescobaldi & Froberger in Rome | Christophe Rousset · MarchVivo
 Ue70z9yjPQU 27:22 Rossini on a Historical Harp | Cermeño · MarchVivo
-# iF4NQHTTIzk 53:47 Roslavets, Mosolov & Lourié: String Quartets | Leipzig Quartet · MarchVivo
 MZco1Ohwnc0 39:18 Cortázar, Piazzolla and the Tango · MarchVivo
 C3t84x8pkbM 7:36 Schubert: Andantino from the Sonata D959 | Leonskaja · MarchVivo
 0PsQkkfh_ag 32:41 From Opera to Spanish Song | Sabina Puértolas · MarchVivo
@@ -3832,7 +3117,6 @@ rKDqua7UqBU 15:15 Bach and Vivaldi on Violone, an Extinct Instrument | Campanero
 IUa_NSQ_ngk 35:53 Dowland and the English Lute | Hopkinson Smith · MarchVivo
 gwBdRfeC9kg 1:41:13 Polyphonies from Georgia | Basiani Ensemble · MarchVivo
 d90a3Qkc5gM 57:10 Hábitat, a Dance Show | Daniel Doña · MarchVivo
-# Lz8K5SzLVAM 1:14:13 Chopin and Schubert through Adès and Widmann | Imogen Cooper · MarchVivo
 -QfTxTlmqBI 1:09:31 The Cuban-Spanish Real Book | Rivero, Brínguez, El Negrón, Olivera · MarchVivo
 fMrp5MwJ7o4 1:12:47 Cole Porter’s Classics | Andrea Motis & Ignasi Terraza · MarchVivo
 w8UGrjVo6BU 25:47 Florence Price and the African American Quartet | Ulysses Quartet · MarchVivo
@@ -3850,7 +3134,6 @@ dWEVgKF6UfE 1:06:49 Bossa Nova Classics | Fred Martins & Sergio Menem · MarchVi
 8PhQv_8pVV8 1:16:21 Baroque on the Piano: from Purcell to Handel | Varvara · MarchVivo
 kPs3Dux34uA 4:35 Conrado del Campo: String Quartets Nos. 3 & 5 (#MarchVivoCD) | Quatuor Diotima · MarchVivo
 hAfPdBrK-A4 1:23:33 Improvising on Three Keyboards | Anthony Romaniuk · MarchVivo
-# fvQLUBtv-xc 1:08:19 Mozart in London through His Letters | Egarr & Nepomnyashchaya · MarchVivo
 FT7cxm0Bodo 3:25 Moments Musicaux | Josep Colom (#MarchVivoCD) · MarchVivo
 t0MhU-q7oFM 1:14:21 Pauline Viardot: An Autobiographical Soirée · MarchVivo
 2px-qIrAJGc 14:37 Nordic Polyphonies | Svanholm Singers · MarchVivo
@@ -3858,13 +3141,11 @@ BO2zfh6Ntlw 5:09 The Couperin Family | Benjamin Alard (#MarchVivoCD) · MarchViv
 bZnQHRX5gOc 1:20:31 Buenos Aires piano: Tristes and Tangos | Horacio Lavandera · MarchVivo
 4x5skN__vK0 11:16 Improvising on Violin in Baroque Style | Saladin & Keller · MarchVivo
 Ae0rs24CktY 3:16 Conrado del Campo: String Quartets Nos. 6 & 7bis | Gerhard Quartet (#MarchVivoCD) · MarchVivo
-# Yk9enETAVXs 1:14:48 Sergei Rachmaninoff: Opera The Miserly Knight · MarchVivo
 gRXzti68eyE 47:02 Variations with Tabea Zimmermann · MarchVivo
 Xo5p5gzIgSM 31:51 Beethoven: Violin Sonata No. 5 Op. 24 "Spring" | Ibragimova & Tiberghien · MarchVivo
 ICpkE4rPIIk 16:10 Medieval Motet: Ars Antiqua et Ars Nova | La Reverdie · MarchVivo
 DjqIn1Sqfpo 22:34 Les voix humaines | Jordi Savall · MarchVivo
 
-# Südtirol in Concert
 rb44YZI_ymc 21:19 Vivaldi | Nisi dominus
 Zlh8CHYzkPQ 12:00 J. F. Fasch | Concerto in D major - FaWV L:D15
 cxBDGbX-pU4 16:31 Nicola Porpora | Salve regina
@@ -3946,14 +3227,12 @@ M7BPlOirPig 17:18 Nikolai Rimsky-Korsakov | Russian Easter Overture op. 36
 kcq6DlSYwSo 2:16 Robert Führer | Praeludium über das böhmische Weihnachtslied „Geboren ist Christus, der Herr“
 4Wvhn__jwd8 3:58 Anonymus / Kerll | Toccata con il pedali
 2RQc1rVf-9Q 3:55 Domenico Zipoli | Pastorale
-# yhp5aGqte5s 8:55 LIGETI | Sonata for cello solo - Narek Hakhnazaryan
 iX0Hf8FP09M 18:22 BACH | Suite No.1 in G-major BWV 1007 - Narek Hakhnazaryan
 ZQ8gGjFQEw4 10:06 MAHLER | Lieder
 TmGzdZGdtvw 11:17 MENDELSSOHN | Hebrides Overture, op. 26
 yVhvEY1dG1E 6:32 Martynas Levickis | Lithuanian folk song: Beauštanti aušrelė
 jaY-xTNXNM4 17:13 RICHARD STRAUSS | Don Juan op. 20
 cGamL9IcLaQ 1:58 Johannes Brahms | Geheimnis
-# i_PmPv7Pkv8 19:40 GUSTAV MAHLER | Fünf Lieder nach Friedrich Rückert
 TU91teQAC4A 7:56 ALMA MAHLER | Fünf Lieder
 XhDex_eO7Xk 38:44 SCHUBERT | Piano Quintet in A major D. 667 - Trout quintet
 BEj4t9j--sE 10:31 GUSTAV MAHLER | Piano Quartet in A minor
@@ -4089,7 +3368,6 @@ weL7QyV301s 31:53 Mozart | Clarinet Quintet in A major K. 581
 IJtypOgWsZk 29:33 Weber | Clarinet Quintet B-flat major Op. 34
 pzYSctUR-Y0 24:23 Beethoven | String Quartet No. 16 in F major, Op. 135 - Kuss Quartet
 SjIBK7A8wl4 25:28 Mozart | String Quartet No. 17 in B-flat major, K. 458 | Kuss Quartet
-# gtWOUK8xwpo 2:15:54 Mendelssohn | Elijah Oratorio
 lDqQBQu2DEI 25:06 Ravel | Le tombeau de Couperin - Zoltan Fejérvari
 breY1U3TdGE 39:03 Chopin | 24 Preludes op 28 - Zoltan Fejérvari
 8diDC-twh2c 16:57 Bach | French Suite No.5 in G major, BWV 816 - Zoltan Fejérvari
@@ -4123,15 +3401,12 @@ dd_2D9Rg_Tk 2:11:01 Vivaldi | Juditha triumphans RV 644
 5kTgI-GFg1s 30:02 Mozart | Quintet for clarinet and string quartet in A major K581
 6KWAyuvG6bs 15:45 Haydn | String quartet in g major op. 33 no. 5
 daMMimVYLaI 36:59 Schubert | Lieder
-# bZvsTlk85Xg 28:56 Schumann | Dicherliebe op. 48
 EIaSNc9V3VU 5:51 J.S. Bach | Violin concerto in E-major BWV 1042 - Adagio - Yuki Serino
 TvngjHpSAOk 4:58 J.S. Bach | Aria: Heil und Segen
 LCIpARJEi2M 10:43 Arvo Pärt | Fratres
 i-vtSWEs5aQ 14:11 J.S. Bach | Ciaccona for solo violin and 4 voices BWV 1004 - Morimur
 o7iTlsbVEJQ 8:13 Harmonium improvisation over motifs by Antonín Dvořák
 X9m65sqSMU4 40:44 Dvořák | Mass in D major op. 86 Lužanská
-# 69XCVps7tls 1:36:13 Mihaela Ursuleasa | in concert @ GUSTAV MAHLER MUSIC WEEKS 2012
-# 5hOv24NHuXE 1:28:30 Juliane Banse | Ben Kim - GUSTAV MAHLER MUSIC WEEKS 2014
 zqZPLIvmNx4 8:50 Édith Canat de Chizy | Quartet No. 4 "En noir et or"
 WdgJbFbgBmk 32:53 Mozart | String Quintet in c major KV 515
 lzEhYbyscAs 31:32 Mozart | String Quintet in G minor KV 516
@@ -4149,7 +3424,6 @@ Pb5yC9pNYh4 1:24:22 Mahler | Symphony 2
 6gmYZeIkvBU 20:19 Haydn | String Quartet in B-flat major Op.50, No.1
 fVSRebiSits 1:10:49 George Frideric Handel | L' Allegro, il Penseroso ed il Moderato HWV 55
 PaU0onMYetY 25:17 Tchaikovsky | Pianotrio op.50 - Tema con variazioni
-# OIrYERFoir4 29:07 Weinberg | Piano Trio op. 24 - Trio Marvin
 hOJ961_7tpQ 25:05 Mendelssohn | Psalm 42 - Wie der Hirsch schreit
 UxhChL58AZw 4:46 Mendelssohn | Verleih uns Frieden gnädiglich
 YTZZdOM6g5E 12:07 Mendelssohn | Drei geistliche Lieder op. 96
@@ -4175,7 +3449,6 @@ xTNbclgU3h4 30:49 Mozart | Clarinet quintet K581 in A major - Armida Quartet, Sa
 kvkCYKj7kpQ 1:22:10 George Frideric Handel | Alexander's Feast
 VkvFJ9LkrX0 11:56 Rossini | William Tell - Overture
 5M0ctCaIXaE 38:34 Meister Eckhart | Martina Gedeck & Unio Mystica (German)
-# V0VKcE0PMes 1:13:38 Schubert | Die Winterreise
 cxBhSvP3JQs 5:20 J. S. Bach | Flößt, mein Heiland, flößt dein Namen
 zymJhlpYcuA 3:51 Franz Liszt | Consolation No. 3 in D-flat major
 QBnFcBT5HrY 3:45 Franz Liszt | Consolation No. 3 in D-flat major (Historical Steinway, 1860)
@@ -4200,28 +3473,19 @@ t50-VZzYDkM 7:52 Dominique Phinot | Surge, propera amica mea - Singer Pur
 9sfuuOkCToA 18:41 Mozart | Flute Concerto D-Major No.2 K314 - Dorothea Seel & Barocksolisten München
 sG_0X4Bgsco 16:23 Mozart | Bassoon concerto B-Flat major K.191
 tbGVRW5_7Ns 12:26 Siegfried Matthus | Phantastische Zauberträume - BLJO, Ebonit-Quartet, Anna Duczmal Mrós
-# v3F7CcTvvzY 40:25 Bela Bartók | Concerto for Orchestra - BLJO, Anna Duczmal Mrós
 gVXp7IrxZ8I 24:23 Prokofiev | Sonata No 2 Op. 94
-#ek2C0ldIvVA 10:21 Ensemble Chromoson | Caroline Profanter - Neon
-#11EfSHf80ns 9:36 Ensemble Chromoson | Daniel Oliver Moser - Geister, über den Wassern
-#z8nZ-pu_0do 12:22 Ensemble Chromoson | Eduard Demetz - IPSE
-#iPuAoYzkF-E 7:52 Ensemble Chromoson | José Manuel Serrano - Sub rosa
-#dVn5wcSdCzM 10:29 Ensemble Chromoson | Hannes Kerschbaumer - llif
 qxfLIpM96fg 7:10 Johann Sebastian Bach – Prelude and Fugue in D major BWV 874 - Dina Ugorskaja
 fNM5PneeKRQ 15:26 J. S. Bach – Prelude and Fugue in B minor BWV 869 - Dina Ugorskaja
-# aDtRgWtx7eY 14:27 Galina Ustvolskaja - Sonata no.5 - Dina Ugorskaja
 yI3_-SpgR-s 9:18 Johann Sebastian Bach | Mass in B minor - Kyrie eleison
 80a3VXPGlIk 4:53 Johann Sebastian Bach | Mass in B minor BWV 232 - Christe eleison
 7sLGEkyR8qU 4:11 Johann Sebastian Bach | Mass in B minor BWV 232 - Qui sedes ad dextram Patris
 WsD8CHcZMJY 4:12 Johann Sebastian Bach | Mass in B minor BWV 232 - Et in unum Dominum
 myAnPsTihX0 8:18 Johann Sebastian Bach | Mass in B minor BWV 232 - Agnus dei, Dona nobis pacem
 IoEN4bkTf8E 6:42 Ensemble Conductus | Mazurka d'Doro
-# rz3wiov1Fw8 7:29 Ensemble Conductus | Quattro versi in purgatorio
 SgAkFkiExeM 9:12 Ensemble Conductus | Viola del pensiero - Anna Serova
 zYccvhhTmNw 10:29 Kit Armstrong | J. S. Bach - Prelude and Fugue BWV 894
 gGEZWPn2vTQ 10:36 Kit Armstrong | W. A. Mozart - Fantasia and Fugue KV 394
 0tXEhfsxQhQ 8:13 Kit Armstrong | William Byrd - Voluntary, Fancy
-# 6etYdxC9MSo 19:20 Gustav Mahler | Rückert-Lieder
 p00U0SCcKvw 35:34 Johannes Brahms | String Quartet No 2 in A minor - Op.51
 PI12uo2IC1I 44:19 Johann Zach | Stabat mater - Barocksolisten München & NovoCanto
 DMtJVgJ7CRo 10:51 Johann Zach | Sinfonia in G
@@ -4239,7 +3503,6 @@ ZNu_qnicCko 3:03 O mio babbino caro - Gianni Schicchi | Giacomo Puccini
 V6V-2eyP49U 2:53 Quando m'en vo - La Bohème | Giacomo Puccini
 4XZLOJgsYE0 8:54 Gold und Silber Walzer - Franz Lehar
 J4ewS96_qYA 8:23 Johann Strauss II | Overture: The bat - Die Fledermaus
-# QiDvv-D6TO0 5:00 Voces8 | Beautiful - Cover by Carly Rae Jepsen, Justin Bieber, Toby Gad
 Yh0byWvrz58 1:00:51 Gustav Mahler | Symphony No 4
 3Pc_LUItWQI 11:55 Franz Schubert | Die Zauberharfe - Overture
 -_bjjSH8coc 5:44 Claudio Monteverdi | Confitebor Secondo - Selva Morale e Spirituale
@@ -4262,7 +3525,6 @@ QrrdWYh9Hwc 2:33:29 Johann Sebastian Bach | Matthäus - Passion / St Matthew Pas
 iTiiSYIw33M 20:18 Alban Berg: Sieben frühe Lieder, Gustav Mahler: Des Knaben Wunderhorn
 _KczRwDV6L4 13:50 Wolfgang Amadeus Mozart - Exsultate, jubilate KV 165 (KV 158a)
 jj5eleg94DM 15:40 Joseph Haydn | Piano Trio No. 39 in G-major, Hob. XV:25
-# PD2wsobDX0k 10:32 Manuela Kerer - "Bestie Infernali!" | Haydn Chamber Ensemble
 59tH0r6eVvU 43:13 Antonin Dvorak | Piano Trio No.3 in F-minor, op. 65
 2xvAy85WfGE 12:35 Cristóbal de Morales - Missa pro Defunctis: Sanctus, Benedictus, Agnus dei, Communio
 umW2GALmY2w 11:49 Cristóbal de Morales - Missa pro Defunctis: Pie Jesu, Offertorium | C. Festa - Contrapunctus 63 à 4
@@ -4270,14 +3532,8 @@ umW2GALmY2w 11:49 Cristóbal de Morales - Missa pro Defunctis: Pie Jesu, Offerto
 TTtPxltC7_w 16:54 Cristóbal de Morales - Missa pro Defunctis: Introitus, Kyrie | Costanzo Festa - Contrapunctus 76 à 4
 BEVeGQGiKtw 4:27 Josquin Desprez - Christus mortuus est à 6 | Cristóbal de Morales - Circumdederunt me à 5
 Ugn7WpV6nyE 5:25 Antonin Dvorak | Slavonic Dance op. 72 No. 2 e-minor | BLJO, Sebastian Tewinkel
-# H1qzS4BUoso 33:59 Igor Strawinsky - Le Sacre du printemps | BLJO, Sebastian Tewinkel
 c8IUSrC4opk 7:10 Pyotr I. Tchaikovsky - Op. 11 II. Andante cantabile | BLJO, Maximilian Hornung, Sebastian Tewinkel
 tcIRIrWmMvc 39:43 Antonin Dvorak - Cello Concerto in B minor, Op. 104 | BLJO, Maximilian Hornung, Sebastian Tewinkel
-# hgmf3MVWJjk 5:58 Ensemble airborne extended | Manuela Kerer - kaput II
-# KkLs4lkG7Zo 5:56 Ensemble airborne extended | Mathias Schmidhammer - Skeleton dance
-# cQ8Aob_I61M 6:13 Ensemble airborne extended | Alexander Kaiser - The difficulty of crossing a field II
-# bTCEALQo1r0 9:08 Ensemble airborne extended | Hannes Kerschbaumer - not.to
-# _H0gR7uur28 7:30 Ensemble airborne extended | Manuel Zwerger - Condemned
 _9D_5x1ZhmA 7:34 Sonatori de la Gioiosa Marca & Dorothee Oberlinger | Antonio Vivaldi Concerto D-Dur RV 270
 fXm4qSLv5q0 9:45 Sonatori de la Gioiosa Marca & Dorothee Oberlinger | Antonio Vivaldi: Concerto - La Pastorella RV 95
 aKwgWTOo85c 1:51:18 Johann Sebastian Bach | St John Passion (BWV 245)
@@ -4288,12 +3544,7 @@ TJ0cd15DZWg 8:56 Arvo Pärt - Magnificat
 RM-5cWEpYJM 7:25 Johann Sebastian Bach - Komm, Jesu, komm!
 1eguRLT_Ces 28:51 Johann Sebastian Bach - Magnificat BWV 243
 s2UlHcPnmco 30:51 Johann Sebastian Bach - Herz und Mund und Tat und Leben BWV 147
-# JiBmq-gVlNU 18:26 Gustav Mahler - Symphony No. 9 | 2. Im Tempo eines gemächlichen Ländlers
-# qRLTWD6aOE4 29:41 Gustav Mahler - Symphony No. 9 | 1. Andante comodo
-# cLoT5ZbGHVA 29:08 Gustav Mahler - Symphony No. 9 | 4. Adagio. Sehr langsam und noch zurückhaltend
-# -T7aLv12TPQ 14:30 Gustav Mahler - Symphony No. 9 | 3. Rondo - Burleske
 
-# TA Outdoors
 KmweP8s-Rds 25:09 Building a Celtic Roundhouse with Hand Tools: Bushcraft Project (PART 1)
 dNIDCJ2HrJs 26:02 Iron Age Celtic Roundhouse: Building the Timber Frame Foundation | Bushcraft Project (PART 2)
 gH3zo6wGiFk 33:39 Building an Iron Age Roundhouse with Hand Tools: Bushcraft Project (PART 3)
@@ -4308,11 +3559,8 @@ tBiu1Emv31Q 29:23 Building a Medieval House | 10 Day Bushcraft Shelter Build
 fFK6nzwbRf8 13:56 Incredible Stone Age House: Primitive Technology 3,800BC
 D8ba5tt6Sqo 1:00:14 Viking House: Full Bushcraft Shelter Build with Hand Tools | Vikings
 
-# Vildmarksgymnasiet
 NZD5sDJduCE 3:47 Göra upp eld med bågdrill
 
-# Feynmann Lectures
-# https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2
 EYPapE-3FRw 9:59 Feynman on Scientific Method.
 kd0xTfdt6qw 55:55 Richard Feynman - The.Character.of.Physical.Law - Part 2 (full version)
 NM-zWTU7X-k 5:37 Feynman: Knowing versus Understanding
@@ -4344,12 +3592,10 @@ lytxafTXg6c 0:44 Richard Feynman explains the feeling of confusion
 xdIjYBtnvZU 21:44 Feynman's Lost Lecture (ft. 3Blue1Brown)
 OL6-x0modwY 1:03 The Scientific Method-Richard Feynman
 
-# generative films
 08eEdgqbJns 5:48 [Richard P. Gabriel] The Beginning of Writers' Workshop
 ad5XAPgKJoM 6:15 [Jenny Quillen] History from A Pattern Language to the Nature of Order
 _V0kVOLOCrY 2:37 [Ward Cunningham] The Starting Point of Software Patterns
 
-# Videos of Irish Farming Life
 A1IaWPaqbVw 38:09 The Hiring Fairs - Recruiting fairs for Irelands poor and destitute
 f6vEk91Paao 1:44 Combined Harvester cutting Barley
 4p0M8FGl_zY 41:32 Sheep Farming in Ireland Documentary - A Year in the Life of an Irish Sheep Farmer
@@ -4385,10 +3631,8 @@ kxkbbDWnjmk 7:51 Cutting Oats with a Scythe & Threshing the Corn -- Harvest Old 
 -D5GPBYQnZ8 46:24 The Story of Turf Cutting in Ireland *Those Days are Gone* Irish History Documentary
 -hbcHGDUH-Y 2:46 Forty Shades of Green - Scenery from around Ireland & music by John Watt
 9TbQLcaA_Xc 5:30 Haymaking in Old Ireland
-# _1nfT5R6WBY 3:16 Old Farming Scenes of Ireland -- The Singing Farmer performs "21 Acres Of Land"
 TW9JcU8T6Qg 4:46 Pedigree Sheep Farming in Ireland -- Rare Breeds Part 2
 wzNHvl4P6aY 9:11 Vintage Haymaking in Ireland
-# W2PBpGoa_tE 9:26 Phillip McCallen win at the 1991 NW200 + Interview with McCallen
 LyiDIrZdFz0 1:18 Old Video of Haymaking - Vinatge Farming in Ireland
 LoNvrydG8NY 3:54 Modern Turf Cutting Machine
 gHQBgBBMuiI 2:18 Potato Harvesting in back in the day -- "The Potato Spinner"
@@ -4406,8 +3650,6 @@ ExI9MYTcKaA 6:26 Working on the bog - Cutting the turf in Ireland
 0UmKRw2xOco 2:47 Thatching an Irish Cottage
 pIZFv2A6OLI 4:16 Threshing the Harvest 1960's Style in Ireland using Vintage Fordson Major Tractors
 LU7jliaxiQA 0:56 Mowing the Irish Corn -- Harvesting Oats using a Scythe in Ireland - Old Farming Videos
-# 6X68jJYA888 10:21 Robert Dunlop V Phillip McCallen 250cc NW200 **1991** Vintage Road-racing Ireland
-# XEt4i0NwyXE 34:27 Joey Dunlop Rare Interview May 1989 -- FULL UNCUT 30 MIN INTERVIEW
 h8HKg8lTn3Y 4:49 Glimpse of farming in old Ireland - Cutting the Corn with Scythe & Horse pulled Binder
 tj6TVM4nius 3:28 Vintage Farming in Ireland - Ploughing with Horses & Fordson Tractor
 TaG8RzrBAFU 3:57 Planting Potatoes 1950's Style Ireland
@@ -4426,7 +3668,6 @@ Iea9i21c5Ok 0:58 Traditional Potato planting from a seed bag in Ireland
 VYuWtpkWppM 1:26 A Threshing Mill arrives on a farm @ Muckross Farms Killarney
 rWQcbbNq4GI 1:13 A pair of horses pulling a binder cutting Oats
 BDLr_xAisD4 1:50 The history of the Green Glens of Antrim plus scenery of the coast
-# 6zo-UzbRN_0 5:24 The Ferguson Vintage Tractor World Record at Cooley Co. Louth
 YJVNjCjPsqo 1:10 Farming with Donkeys - Pulling a brake/ harrow
 4ee83nL2qL8 3:37 Rathlin Island Northern Ireland in the 1990s
 NRk8RPMjdzU 2:48 Restoration of a Fordson vintage tractor
@@ -4489,22 +3730,12 @@ qjD4887wkvs 3:41 How to make Irish Potato Bread
 8VR3PWOmokM 1:25 Ferguson Farm Systems The Bell Dropper
 MtxrFEN-_88 3:42 Story of Potato farming in Ireland through the last century.
 hZQZyzV5Q0o 2:36 Arrival of the potato blight in Ireland- Irish Famine
-# Uk6fQVQzW5g 3:56 FolkyBilly RocknRoll by Willie Drennan -- Ulster Scots Folk Music meets Rock & Roll
 DqBg-80NIRk 5:00 Traditional farming in Ireland with Horses
 LWgZt8YNts8 4:30 Potato Farming -- Harvesting Potatoes
 PpoTNWOKWtY 2:59 Making Irish Soda Bread - How to make Soda Bread
 9vakGkbPw80 4:14 An Irish Harvest Day
-# qqlGUMDKu2w 6:23 Joey v Robert -Clash of the Dunlops at NW200 1991 Honda v Norton
-# z8_HNCwaeoU 8:52 Steve Hislop wins the Superbike Race @ North West 200 NW200 1989
-# cmooXbKpVWE 5:19 Robert Dunlop v Joey Dunlop on 125cc @ NW200 1990
-# mzbwRMggS50 9:29 Robert Dunlop v Carl Fogarty on Superbikes @ NW200 plus Interview
 MdCp44an3d8 6:50 Threshing Corn in Ireland 1950s style Farming Video
 BA9tgnbEMkI 12:01 Harvesting Corn with Scythes and Vintage Tractors in Ireland - the old fashioned way!
-# RuktXUoaKOc 9:41 Pedigree Cattle Breeding in Ireland
-# 6_pGTEegcCw 6:23 Fordson, Ferguson and Massey Tractors working the land in Ireland
-# 0sSpEng64YA 6:55 Charles Thomson Founding Fathers Irish American & Ulster Scot
-# cAy8nrWxMK8 12:45 Zuruck in die Zukunft
-# yTDKtdNlTfs 9:32 Berryman Murders Garvagh N.Ireland by John Thompson Videos
 OUIOo2xIcLA 2:47 Willy Drennan The Lagonda
 -hWRxN4ryE4 20:16 Leinen aus Irland/Linen from Ireland
 iXd9YVOHRyA 3:39 David McClarty
@@ -4516,23 +3747,12 @@ IXAq7WqVA9A 0:55 Ploughing with Horses Farming the old way in Ireland
 zL_llRUxbz4 1:28 Potatoes being planted in Ireland the old way!
 Om6dvTQSEms 1:42 Potato gathering in Ireland using tractor and machines
 upfWS4iWo5k 2:00 Farming potatoes in Ireland using a bell dropper
-# qq9ncem-9eM 1:53 Ploughing a field in Ireland using a Ford Ferguson Tractor
 IXoSpLsGMQs 4:28 LINT AND LINEN scuttching the flax and making linen
 T0RKzo0agdc 2:56 LINT AND LINEN putting the flax in a lint dam
 SDCfZUIB0eY 0:47 LINT AND LINEN pullinh flax by hand
 GgbhUMKxPq4 3:22 Irish linen being weaved from flax farmed in Ireland
 9eYaLek9hKg 3:55 Sowing of Flax Seed in the Farming of Irish Linen
 b7wPUrOWqBY 0:43 Trim in County Meath show off thir Haying making festival each June
-# LrctgXIWP_o 4:58 Irish Farming -- Ferguson and Fordson Vintage Tractors
-# lTaBMsbCF90 10:28 Robert Dunlop winning Nortwest 200 Superbike race 1990
-# dxivCOGpJFo 1:50 Fly fishing for salmon on river Bann
-# c54vPb7U8VQ 1:21 Salmon fishing on carnroe
-# z7fF8DsWe14 2:20 Salmon fishing in ireland
-# CpKnEmSBpyI 0:48 Lough Neagh eels
-# 4EY-YbFqbn8 5:49 brown trout fishery Ireland
-# wsTvK7w2wtY 4:22 How to tie a trout fly
-# -Gk0S7Rp66s 3:43 fly fishing salmon caught!
-# QR5eW0C6xpA 3:31 Joey Dunlop Rare Interview May 1989
 ufwvFOXUCnc 7:25 Peat cutting and Turf cutting in Ireland
 j0yf4bNZ-fY 5:54 Hiring fairs in Ireland
 WHVwHgNnkQo 2:34 Poor Irish Dwelling in the west of Ireland in the 19th Century - Irish History
@@ -4541,11 +3761,7 @@ v8bQGmUaTzY 5:53 Irish Linen and the Flax Harvest - Lint & Linen Ireland
 vkGuMvl26-k 7:15 Potato Famine in Ireland
 lIn4MTJBOmY 8:37 Farming in Ireland
 SS7n-l7a7xk 8:16 The North Coast of Ireland
-# uGzKQ8CIyg8 4:18 Wildfowling and hunting in Ireland - Fox and Rabbit shooting
-# YY6e3yc9rHw 10:00 Fox Hunting Rabbit Shooting and wildfowling
 
-# Bennett Brook Railway
-# RovfLuEgZus 17:28 Vintage transport film - Look at Life - High, Wide and Faster - 1963
 f0h75MBhRTw 6:34 Bennett Brook Railway - 'Thomas Day' - 1996
 SjUidv4IkNI 18:02 Bennett Brook Railway - Enthusiasts Day - 1996
 xtB_03QUFs0 9:00 Vintage Transport film - Look at Life - Over and Under - 1960
@@ -4568,7 +3784,6 @@ yLwq44moaYY 3:18 Vintage railway film - Britain can make it - 1946
 sEQBnQGGzXc 1:29 Bennett Brook Railway - 'Betty Thompson' - New whistle - August 2023
 UwQSx6RmHXE 50:41 Transport film - Trouble on the line - Equinox - 1990
 AtJtO8TYTtQ 3:04 Avon valley trains - Standard and narrow gauge - See video description for details - August 2023
-# EwaV5W0gDHg 51:03 Transport Film - Running to Time - Equinox - 1988
 h3jY6AjX-SQ 10:04 Vintage railway footage - Banking the Lickey - 1958
 8VcubT02PYk 20:54 Vintage railway footage - The Age of Steam - Bromsgrove
 FpNd-X_ct7Y 9:42 Vintage railway film - Power to order - 1941
@@ -4592,7 +3807,6 @@ tgWD-5wn_eg 28:23 Track record - Broken journey - 1991
 Ecm2h8f-Q-I 29:02 Flying Scotsman - The return of Flying Scotsman - BBC Four - 2016
 p_czvQgxAFc 1:28:28 Steam trains of Australia - 1985
 yOjhF_KV2Wc 1:18 Bennett Brook Railway - Ashley & Rosalie departing Whiteman Village Junction - Ashley Day, Sept '22
-# XFaFWhL2lNk 3:07 Bennett Brook Railway - Steam and diesel hauled services near Zamia station
 YuFGaSa3_K8 1:27 Bennett Brook Railway - Ashley, Planet 7 & BT1 - Ashley & Friends Day, September 2022
 PZpRuTQ4ick 29:31 Requiem for a railway - Off the rails - 1986
 1W9MNjoZAIk 9:58 Bennett Brook Railway - Ashley & Friends Day - September 11, 2022
@@ -4607,13 +3821,11 @@ ziRiU1UUWn0 9:20 Vintage railway film - Gang warily - Southern Railway - 1944
 rZ9aEkcTJAY 2:39 Bennett Brook Railway and Perth Electric Tramway Society operations at Whiteman Village Junction
 Y3HAAiKvfOI 20:25 Vintage railway film - Decontamination and repairs - Southern Railway - 1942
 XuP6zsrqVZ0 14:26 Vintage railway film - Can we help you? - LNER
-# praXvXxf1dM 13:57 British transport film - Robbie - 1986 version
 Kf-XqNbiqQQ 53:16 British Rail - Signalling - 1989
 TI0HD1Tdpv4 10:58 Vintage railway film - The elephant will never forget - 1953
 AA9BmsHhlM8 16:46 Vintage railway film - The stone carriers - 1982
 NS06ECJQN88 4:34 Bennett Brook Railway - First steam train service of the 2022 steam season
 PPJdldNc5AY 7:14 Vintage railway safety film - Old Sam the signalman - 1982
-# l152EmsCg80 4:31 Vintage railway film - InterCity 1250 - 1982
 F-F8sl9PP9M 12:15 Vintage railway film - On track for the eighties; Rail report 13 - 1980
 8rnho6Uz_3E 6:18 Vintage railway film - Centenary express - 1980
 l3Zs3sWxjWw 16:58 Vintage railway film - Current events on the Midland - 1980
@@ -4640,20 +3852,16 @@ ZmTWybmuASY 24:06 Vintage railroad film - Norfolk & Western - The modern coal bu
 hxQEChA499I 9:15 Vintage railway film - People like us - 1962
 8BP23fxjM14 18:07 Vintage railroad film - The freight goes through - 1952
 K5SFegTVoNo 8:58 Vintage railway film - The third Sam - 1962
-# 3k-18i4n1tg 5:02 Vintage railway film - Modelling for the future - 1961
 fHHluaETDaw 2:39 Vintage railroad film - The end of the 'El' - 1950's
 P11wYc51SbA 10:35 Vintage railroad film - 3rd Ave El - 1950s
 koT6JY_rDi0 22:56 Vintage railway film - Reshaping Britains railways - 1963
-# l-sfeHhjpdc 23:06 Vintage railroad film - Loaded for war - AT&SF - 1940s
 nklClrz6wHI 19:34 Vintage railway film - The North Eastern goes forward - 1962
-# pByEcGQ-ntM 12:57 Vintage railroad film - Opening a new frontier - 1955
 DF8ETt70CCQ 18:45 Vintage railway film - Spick and Span - 1962
 K_IH9I9JRJU 2:36 Avon Valley trains
 Ql6gXTUqYWE 13:56 Vintage railroad film - Wheels of steel - 1953
 K4YPbtwffWs 9:08 Vintage railway film - Modernisation on the Southern Region - 1958
 XHdyDG5dT7Y 26:59 Vintage railroad film - Clear track ahead - 1946
 ZyLncXp_7yo 23:54 Vintage transport film - Link Span - 1956
-# _479BctLYvc 1:05 Indian Pacific - March 2021
 hsbIiZ4lCo8 20:03 Vintage railway film - This is York- 1953
 MJeW_bzfMZM 6:58 Vintage railway film - Shunter Blacks night off - 1941
 HIWWBujKwa4 1:53 Bennett Brook Railway - Ballast regulator test run
@@ -4664,15 +3872,11 @@ Fki0XzgSct4 14:02 Vintage Southern Railway film - Ladies only - 1943
 2drdydeY_Z0 3:41 Vintage railway film - A quaint little railway; The Leek and Manifold light railway - 1930
 7L9CvaMYet4 15:27 Vintage LMS railway film - Carrying the load - 1946
 0hV0obFTcN8 4:23 Bennett Brook Railway - Whiteman Park Sunday Times Show Day - 1991
-# FL9DxHPXzSw 19:45 Vintage railway film - Second report on modernisation - 1961
 plDBlQLt0EA 15:14 Vintage LMS railway film - St Pancras Junction Relaying - 1947
-# rUg2fC9Iz88 20:20 Vintage railway film - Report on modernisation - 1959
 p7-2_WeceAA 25:46 Vintage railroad film - A railroad at work - 1946
 P4nqWE26yqk 12:28 Vintage transport film - Measured for transport - 1962
-# nvc9XgFV3Go 10:53 Vintage railroad film - Troop Train - 1943
 WtJJm7rxkT0 5:30 Vintage Australian railway film - On time - 1953
 bT6oGsTqzN8 13:54 Vintage Australian railway film - Ghan to Alice - 1978
-# R1B5d8rt8xw 25:05 Vintage Australian railway film - The rail way - 1979
 nMActDF-hBk 33:58 Vintage railway film - Single line working - 1957
 53QM__dT2TI 26:27 Vintage railroad film - At this moment - 1954
 9U-d62HbEUA 1:21 Bennett Brook Railway - Perry tank engine 0-4-2T BT1 'Betty Thompson' - winter running 2019
@@ -4680,8 +3884,6 @@ nMActDF-hBk 33:58 Vintage railway film - Single line working - 1957
 gpQxDSskLxQ 8:52 Vintage railway film - The Coronation Scot - LMS - 1937
 MGszU8cA8_I 16:20 Vintage railway film - Making Tracks - 1956
 gF0vLYTuSAk 1:53 Bennett Brook Railway - ex Isis sugar mill Fowler 'Rosalie' - retiring the 1954 GM diesel engine
-# 68hs8dA9VSw 2:32 All Manner of Trains - Western Australian locations - Then and now - 1962 to 2020
-# oaaC5ct0yAQ 14:42 Vintage railroad film - General Motors motive power - 1938
 9nODhuPdrjw 19:28 Vintage railway film - British Locomotives - 1959
 KlZanA_vqaQ 17:05 Vintage railway film - The diesel train driver, part 4 - Operational requirements - 1959
 Y-wm2TY4VXU 35:52 Vintage railway film - The diesel train driver, part 3 - Dealing with faults - 1959
@@ -4696,7 +3898,6 @@ ojX9ZW6vGWw 2:02 Bennett Brook Railway - Feature on Nuts and Bolts show - 2001
 NM1-O2UGj7o 0:55 Bennett Brook Railway - Excerpt from 'Silent Legacy' ABC TV program - 1998
 cUiQ3VcEAY8 13:43 Vintage railway film - Mainline diesel - LMS 10000 - 1948
 77CPyvhl4rc 0:49 Bennett Brook Railway channel trailer
-# XsRAaPDPf1I 5:25 Vintage train film - Let's go to Birmingham - 1962
 pLpkzJ7GGAc 1:19 Loaded nickel and empty sulfur train - Brigadoon
 T41BHRQmHZo 10:18 Vintage railway film - Diesel trainride - 1959
 npZ6Y7v8CyY 9:50 Vintage railway film - Service for Southend - 1957
@@ -4710,17 +3911,11 @@ bTdxq-tRMiU 35:42 Vintage railroad safety film - Why risk your life? - Great Nor
 nCb0ayRHTCo 19:01 Portrait of an engineer - 1954
 jZLyB-_x8gA 8:23 A Future on Rail - 1957
 tmWZMRSmDQM 39:33 No. 6207, A Study in Steel - Princess Royal Class - vintage LMS film - 1951
-# hmgliO-bCi4 53:09 Transperth train driver cab view - B series - Perth/Midland/Perth - peak hour lockdown service.
-# XM4U7SWtU1k 10:39 Transperth train driver cab view - B series - peak hour lockdown Midland service - high speed
 LzoYrD8EejQ 1:12:50 Flying Scotsman and Pendennis Castle - Rail tours in Western Australia, 1989
 nZ3AN-kd66g 16:56 LMS - General Repair - 1938 - LMS Railway film
-# WDb9tVeE3W0 31:00 Bennett Brook Railway train drivers view - action cam
 Irn2mVjZjro 18:46 New York Central - The Steam Locomotive
 Uia2jH9nRb8 13:16 Safety On The Track - A London Transport safety film - 1950
-# T_0LzMzCnBs 1:42 Bennett Brook Railway termite train
-# Gcs7Wx6P9XA 20:24 Bennett Brook Railway termite train - 360 video - Bushland Loop - Volume warning!
 LC1BEc04i-0 25:20 Wash and brush up - British Transport Films - British Rail steam loco maintenance - 1950s
-# o2IsS1ZNSJU 4:53 Bennett Brook Railway - 360 video - Mussel Pool to Whiteman Village Junction - Volume warning!
 uyUkKbw3tKk 21:43 Vintage railway film - The Railwaymen - 1946
 fLFfqjB3UAM 1:16 Worlds biggest triple expansion steam engine - Kempton Steam Museum
 D8Ee5nflbec 9:32 Vintage rail film - Engine Shed - LMS 1938
@@ -4754,7 +3949,6 @@ iZC_fweTGdQ 17:16 LMS training video - Sentinels of Safety
 jdGE3a31uJQ 26:35 LMS Men Of The Footplate 1939, full version.
 F4J2wcDP3YA 13:00 LMS training video - Little & Often
 
-# Burr Stewart
 raZ6XZoUwPA 5:37 BNSF mixed freight passing Seattle's grain terminal #bnsf #freight #railway #train #railfan #seattle
 TvFKqVOUlYI 8:02 Part 133 - Eric Vannice adds Mark Twain and details to his HO 1890's layout #modelrailroad #train
 zWJmDQ_pVkE 4:00 Scanning the dead line at demise of BNSF's Interbay yard #train #engine #graffiti #art #emdtrain
@@ -4788,7 +3982,6 @@ LjGQeCuJXNQ 5:04 Part 117 - ProtoThrottle demo w GN GP9 and ore jennies #hoscale
 5sy15cvynBg 14:43 Part 116 - Running trains on Jim Radkey's BNSF Pink Lady Sub #hoscale #modelrailroad #opsig #slinky
 trb-oFa4QbE 6:14 BNSF Unit Coal Train at Carkeek Park near Seattle #bnsfrailroad #bnsf #coaltrain #export #train
 kRbZZFjejkc 1:20:53 Remembering Kirk Reddie - a tribute to his N scale dream model railroad - March 2025 #nscale #art
-# ebShL2hJgf4 3:30 CPKC's new paint job! First run ES44AH ScaleTrains models #modelrailroad #hoscale #cpkcrailway #art
 Hod6vkThusw 4:39 BNSF "Z" train at Carkeek Park near Seattle on March 17, 2025 #intermodaltrain #seattle #railfan
 5_cqrLhpcnM 10:39 Part 115 - March train fun with diesel lash-ups, steam and lotsa laughs #hoscale #modelrailroad #art
 lKLznLpmPe4 21:44 Part 114 - February fun with steam & diesel engines & trains #hoscale #modelrailroad #britishrail
@@ -4797,9 +3990,6 @@ VEmOKeaxzQw 3:07 The difference between a good bang and a bad bang! #modelrailro
 rRGnYUrJJIQ 17:17 PNW On30 modular group layout tour at Great Train Show '25 #modelrailroad #on3 #oscale #narrowgauge
 1WdCEi_UBDc 5:24 Real steam chuff from an OO steam engine?! Amazing! #modelrailroad #train #hornby #ooscale #hoscale
 npKeWjkTohA 21:41 Part 112 - Bill Sornsin's Great Northern HO layout tour & construction update #modelrailroad #train
-# iwBVgt28diQ 7:06 European Train Enthusiasts' trains and modules at Great Train Show 2025 in Puyallup, WA, USA #trains
-# 269jys9NQKU 5:54 Fast O-gauge 3-rail layouts at Great Train Show run round & round! #modeltrains #oscale #tinplate
-# LPT-2I9zhp4 5:00 Burr tours a "T-trak" N scale modular layout #train #modelrailroad #nscale #modular #art #trainshow
 e44rMO7MvIk 13:31 Part 111 - BN switching Argo, Brian's diesel sounds, and ripping up track #hoscale #train #track
 Z5VF1lob9Fo 14:48 Part 110 - British 2-10-0 steam, SD60M's & BN SW1500 switching action #modelrailroad #hoscale #art
 Sz2HwSa_gSA 15:50 Part 109 - Bob Roegge's surprisingly low-cost Gn15 "Geneseo Rwy" layout #modelrailroad #train #art
@@ -4920,8 +4110,6 @@ WnxK4iYehag 40:54 Kalevala laulettuna - Viidestoista runo
 
 NTz2-im7s9k 26:54 JRR Tolkien - All VIDEO interview compilation 2022 - CleanCut
 
-# Helge Fauskanger - "Cenindo"
-# GYOe3Gx8SVI 11:08 Speak Elf Yourself - Part 19
 wcmBeJCfFMk 12:55 Speak Elf Yourself - Part 18
 zSXe0UVDeNM 16:39 Speak Elf Yourself - Part 17
 zVwViin64Zg 15:27 Speak Elf Yourself - Part 16
@@ -4942,7 +4130,6 @@ IgepeTpRJKo 16:13 Speak Elf Yourself - Part 2
 ClhMTBoDtJQ 18:46 Speak Elf Yourself - Part 1
 yiZH_pnBFDc 5:01 Parmar
 
-# Four Keys Book Arts
 RLN4NVbUT6k 14:46 A New Set of Wheels - Under the Cover: A Bookbinder's vlog no. 2 - Making a Finishing Tool Rack
 YdQ-eeCrZrc 12:17 Bookbinding Tips & Tricks - 14 Helpful Hints - Things I Wish I Knew When I Started
 kpaca7ARsjg 33:35 Making Tiny Books - Fully Functional Leatherbound Books in Miniature
@@ -4977,20 +4164,16 @@ tXIzuN3z7WM 6:58 Making a Handmade Book - Part 1.5 - Endpapers & Trimming
 EL9NBb0ihI8 10:19 Making a Handmade Book - Part 2 - Rounding & Endbands
 8RfR_mgwNLs 10:20 Making a Handmade Book - Part 1
 
-# Northmen
 bo9hXBdTfzQ 52:34 Grandfather. Full Documentary
 
 3-Jrp6it9Ss 1:30:18 Tunnel Vision: An Unauthorized BART Ride
 
-# Edward Calcutt
 tLjPk99iR9s 48:02 A History of London through Fascinating Street Names
 
 TzjxFCqT-40 1:39:24 Sorrento, Italy Walking Tour in 4K
 
-# Will Lord
 nD3UlqgPN5U 22:12 Let’s make a Neolithic Longbow - Primitive Technology
 
-# Eddie Izzard
 3zBjNYy-yqs 1:17:48 Wunderbar. 2022.
 DxQ0ny4Najc 1:25:24 Force Majeure 2013.
 rTtpJBkU_Ko 1:29:31 Eddie Izzard - Live From Wembley 2009.
@@ -5005,57 +4188,28 @@ uihFwfZKtAI 55:50 Eddie Izzard - Dress To Circle, in Paris.
 QRB_GhLXCds 1:54:09 Eddie Izzard - Dress To Kill Show in1999.
 mDCGkasqgxQ 1:48:27 Eddie Izzard-Definite Article 1996.
 
-# Seinfeld
 2GO3X6RXIvs 0-1:09:20 Jerry Seinfeld on Broadway, I'm Telling You for the Last Time, FULL set, Stand-up Comedy, Live, 1998
 
-# CcPLsIy4tys 1:20:36 The Mouse and His Child
 
-# YXGfCKNa_9E 1:49:40 Wind in the Willows Cosgrove Hall 1983 (extended version with omitted chapters)
 mzL0pY1r5Lg 1:18:21 The Wind in the Willows (1983) - WIDESCREEN 16:9 - Cosgrove Hall
-# yW1ymeB85WU 2:10:55 The Wind in the Willows - The Feature Length Specials (Cosgrove Hall)
-# msM29o87uTs 34:41 The Wind in the Willows (1949) 50s reissue
 
-# Shakespeare
 Vd4h16DWpdU 1:28:03 The Reduced Shakespeare Company The Complete Works of William Shakespeare Abridged Comedy
 
-# Gilbert and Sullivan
 IGzv4vufN-k 1:51:53 The Pirates Of Penzance (1983) full movie watch on YouTube HD
-# 1982 G&S productions by George Walker
-# 27HwREzYQVQ 1:34:21 Gilbert & Sullivan：The Pirates Of Penzance TV Movie 1982
-# G8rDGdA9EF0 1:51:18 Gilbert & Sullivan：Patience TV Movie1982
-# DJK8SVrl3x0 1:52:43 Gilbert & Sullivan：The Mikado TV Movie 1982
 _-7q-5FYlK4 1:50:44 Gilbert & Sullivan：iolanthe TV Movie 1982
 ca1tNwX5x-8 1:38:15 H.M.S Pinafore Danish 1970 TV Movie Gilbert and Sullivan
-# D1LuwO01gi8 1:51:49 Gilbert & Sullivan：The Gondoliers TV Movie1982
 1P6ybQcD7fQ 2:27:27 Pirates of Penzance
 OVczrZAWc_4 2:10:03 Patience - Opera Australia
-# vJGY6KIfwWA 2:17:28 The Mikado  2015 Gilbert & Sullivan
 x_E0zJU9hFY 2:18:45 The Mikado 2011 Gilbert&Sullivan
 f2TW90OEU-U 2:22:11 The Mikado 1992 Buxton
 7To1E2y5Aq0 2:29:28 The Gondoliers Stratford Festival Gilbert and Sullivan
-# lY7Y4asI4iQ 38:32 Trial By Jury, by Gilbert and Sullivan (2002 production)
-# BPooR7a_kNA 1:54:52 The Sorcerer, by Gilbert and Sullivan (2002 production)
-# 2oGV6p5j95A 1:46:27 H.M.S. Pinafore, by Gilbert and Sullivan (2003 production)
-# XZUesXQvuWE 1:54:40 The Pirates of Penzance, by Gilbert and Sullivan (2003 production)
-# TgR6XbPitUk 2:04:51 Patience, by Gilbert and Sullivan (2004 production)
-# 5vXL10yXF-o 2:21:49 Iolanthe, by Gilbert and Sullivan (2005 production)
-# O9GRJESLQe4 2:11:51 Princess Ida, by Gilbert and Sullivan (2006 production)
-# qEBg46L6yV4 2:31:33 The Mikado, by Gilbert and Sullivan (2007 production)
-# CYf2XULLv5I 2:31:00 Ruddygore, by Gilbert and Sullivan (2008 production)
 VNJH8vhL32w 2:35:30 The Yeomen of the Guard, by Gilbert and Sullivan (2009 production)
-# 7wvJl52w1aI 2:25:31 The Gondoliers, by Gilbert and Sullivan (2010 production)
-# j5eycS1Gi14 2:45:25 Utopia (Limited), by Gilbert and Sullivan (2011 production)
-# cvHj7lYHqmo 36:41 Trial By Jury, by Gilbert and Sullivan (2012 production)
-# e5nmssekZII 2:47:13 The Grand Duke, by Gilbert and Sullivan (2012 production)
 ms9aoiyTJpY 1:58 Shche ne vmerla Ukrainy [Ukrainian National Anthem] - the New London Opera Group
 Ssg6tJC5hqU 56:32 Cox & Box, 2006
 O_7H162D9fI 30:56 Trial by Jury by Gilbert and Sullivan
-# h6AtEIuagK-k 2:04:21 The Mikado 1966 (Speed corrected) D'Oyly Carte Opera Company Gilbert & Sullivan
 
-# Brandon Acker
 r5K0nxMjFWU 6:03 My Favorite Baroque Piece 🎶
 
-# Carlos Simas
 MvclI-LE46k 9:57 Carlos Simas - minha biografia musical
 KIvlQaXpnrU 3:56 Fest - Noz I (Carlos Simas)
 SCVfyIs4b6s 4:20 Butterfly - Video Clip
@@ -5094,7 +4248,6 @@ VjjCDDA6s_w 3:23 Cantigas de Santa Maria - Gaita Galega - Carlos Simas
 zmbqvk1iPg0 6:44 Inisheer/Tribute to Rick Mullin: Carlos Simas (Wire Strung Harp)
 KVqXBuvnVuk 2:59 Si Bheag Si Mhor (T. Carolan 1670-1738 - Ireland) Carlos Simas and Luis FitzPatrick (Brasil)
 
-# Tanya Shpachuk
 bP4wtmFLSpI 19:43 Watch Me Bring This Martin Guitar Back to Life!
 0aUFM_rRLsI 27:05 A Young Girl and a Small Dog Do a Neck Reset on an Old Guitar
 006qLNJ8LMI 23:20 Restoration of The Heritage
@@ -5128,31 +4281,24 @@ Q3QbNPfEmWg 15:32 Fender Acoustic Guitars Are Lame
 uy77lKMv8u0 14:26 Satisfying refret on an acoustic guitar
 IPRYXyQOZ5U 8:00 Worst fretwork on a Gibson Les Paul
 
-# upy9dA5uD-U 5:36:54 The Once And Future King by T.H. White (Radio Drama)
 
-# Ball Machine Kinetic Sculptures
 nxDcvBJL1dI 3:38 1993 George Rhoads Audio-Kinetic Sculpture - Great Ball Machine Contraption Roller Coaster
 bhJl6KtgN50 3:17 Ball Machine Sculpture: Odyssey of the Spheres (George Rhoads)
 
-# Noh
 wA3CEeqMCHQ 1:29:14 Matsukaze (松風) Noh with Script & Synopsis
 eqsN6R1PfEA 59:36 能 「土蜘蛛 ササガニ 」 KYOTO de petit能　文化庁委託事業「文化芸術収益力強化事業」林宗一郎
 
-# Old Movies
 tpzEzMscj0g 1:07:45 Sherlock Holmes - An Venyn Yn Gwyrdh
-# -B7l7LSxnzU 59:38 SHERLOCK HOLMES: TERROR BY NIGHT | Basil Rathbone as Sherlock Holmes | FULL MOVIE
 r_r0dFSsiAg 1:08:55 Sherlock Holmes and the House of Fear
 VcgOCGBqnyA 1:08:14 Sherlock Holmes Faces Death 1943 movie classic
 AqQJh-kNM9Q 1:17:34 Arsenic & Old Lace 1962
 wMIcIZCivC0 1:05:09 Three Men in a Boat (1975)
 
-# Public Domain 2026
 gQ9b76eQchs 1:33:02 The Cocoanuts, The Marx Brothers - Full Feature Film (1929)
 RL2d015M8s4 1:32:56 Marx Brothers Animal Crackers (1930) Full Movie!
 pMSiUv6HdiI 26:57 Laurel and Hardy - Another Fine Mess (1930)
 CLTjFMp4DbM 1:11:33 Soup to Nuts 1930 Full Movie - The Three Stooges First Film
 
-# New England Forests
 lVx45KG-DQs 57:06 The Return of Old Growth Forests
 VvmbCc_mdWc 36:03 Plants That Cheat
 qpZNhix-Ddc 49:02 The Salamanders of New England
@@ -5212,10 +4358,6 @@ g8twezOz2h4 0:03 WGBH Boston | Title Card | 2003 | PBS Kids
   -Ms1an9I-Ok 45:03 The Canterbury Tales General Prologue, complete reading (Middle English)
   lCRi3tB4uSU 2:03:04 The Knight's Tale, from the Canterbury Tales, complete Middle English reading
   vL6NgxKv6R8 36:37 The Miller's Tale (Canterbury Tales), read in Middle English (complete reading)
-  # 4cDVjJqesys 22:26 The Reeve's Tale (Canterbury Tales), read in Middle English (complete)
-  # F6Gzi7BRnbU 2:18 The Cook's Prologue (Canterbury Tales), read in Middle English
-  # CzSbHVFMr8o 3:14 The Cook's Tale, from the Canterbury Tales, read in Middle English
-  # GxfHOHececU 5:36 The Man of Law's Tale, read in Middle English (Part 1, Canterbury Tales)
   `,`
   Cw6vJPLk6sM 17:25 The House at Pooh Corner - read by Norman Shelley - Chapter 1
   tKZRHKLrBJc 16:58 The House at Pooh Corner - read by Norman Shelley - Chapter 2
@@ -5250,18 +4392,13 @@ g8twezOz2h4 0:03 WGBH Boston | Title Card | 2003 | PBS Kids
   qwIHt6WWzgk 18:47 6 - Finn Family Moomintroll by Tove Jansson: Chapter Six
   zMsQdKMo7E0 36:16 7 - Finn Family Moomintroll by Tove Jansson: Chapter Seven
   `],videos$5=`
-# The Adventures of Sherlock Holmes
 EQuQF102O6I 0-55:10 The Adventures of Sherlock Holmes - A Scandal in Bohemia
 EQuQF102O6I 55:12-1:53:55 The Adventures of Sherlock Holmes - The Red-Headed League
-# EQuQF102O6I 1:53:57-2:36:54 The Adventures of Sherlock Holmes - A Case of Identity
 EQuQF102O6I 2:36:56-3:37:53 The Adventures of Sherlock Holmes - The Boscombe Valley Mystery
 EQuQF102O6I 4:25:57-5:23:50 The Adventures of Sherlock Holmes - The Man With the Twisted Lip
-# EQuQF102O6I 5:23:52-6:13:04 The Adventures of Sherlock Holmes - The Adventure of the Blue Carbuncle
-# eYpFjaJMiFY 49:56-1:41:05 The Adventures of Sherlock Holmes - The Adventure of the Noble Bachelor
 eYpFjaJMiFY 1:41:07-2:41:11 The Adventures of Sherlock Holmes - The Adventure of the Beryl Coronet
 eYpFjaJMiFY 2:41:13-3:42:34 The Adventures of Sherlock Holmes - The Adventure of the Copper Beeches
 
-# The Memoirs of Sherlock Holmes
 OD-lTjKMzrQ 0:00:00-0:59:45 The Memoirs of Sherlock Holmes - Silver Blaze
 OD-lTjKMzrQ 3:10:08-3:55:36 The Memoirs of Sherlock Holmes - The Musgrave Ritual
 OD-lTjKMzrQ 3:55:41-4:39:00 The Memoirs of Sherlock Holmes - The Reigate Puzzle
@@ -5269,7 +4406,6 @@ OD-lTjKMzrQ 4:39:00-5:21:38 The Memoirs of Sherlock Holmes - The Crooked Man
 OD-lTjKMzrQ 5:21:41-6:07:24 The Memoirs of Sherlock Holmes - The Resident Patient
 nsvyDd5eISc 0:36:45-1:22:42 The Memoirs of Sherlock Holmes - The Final Problem
 
-# The Return of Sherlock Holmes
 vzFCXmbdmNk 0-56:01 The Return of Sherlock Holmes - The Adventure of the Empty House
 vzFCXmbdmNk 56:05-1:54:08 The Return of Sherlock Holmes - The Adventure of the Norwood Builder
 vzFCXmbdmNk 3:44:22-5:00:35 The Return of Sherlock Holmes - The Adventure of the Priory School
@@ -5278,22 +4414,16 @@ vzFCXmbdmNk 6:36:35-7:29:00 The Return of Sherlock Holmes - The Adventure of The
 vzFCXmbdmNk 9:56:02-10:50:25 The Return of Sherlock Holmes - The Adventure of The Abbey Grange
 vzFCXmbdmNk 10:50:27-11:51:18 The Return of Sherlock Holmes - The Adventure of The Second Stain
 
-# His Last Bow - Sherlock Holmes
-# aV3MnZW-rbA 2:05:15-2:53:53 His Last Bow - The Adventure of the Red Circle
 aV3MnZW-rbA 2:53:54-4:02:15 His Last Bow - The Adventure of the Bruce-Partington Plans
 aV3MnZW-rbA 4:40:40-5:29:04 His Last Bow - The Disappearance of Lady Frances Carfax
 aV3MnZW-rbA 5:29:54-6:30:50 His Last Bow - The Adventure of the Devil's Foot
 
-# Radio Plays
 eUD6jVUxRVs 27:02 Sherlock Holmes - The Three Garridebs with Carleton Hobbs and Norman Shelley
 
-# Audiobooks
 
 k5onUh_4qv8 6:55:28 The Wind in the Willows [Full Audiobook] by Kenneth Grahame
 POSkU5goGXE 2:20:56 Winnie-the-Pooh (Version 2) by A. A. Milne read by Matthew Soanes | Full Audio Book
-# OqbX_Qs6n_8 1:54:49 Swallows and Amazons by Arthur Ransome full audiobook read by Bernard Cribbins.
 
-# Mark Twain
 
 zqNnA8tqULw 0:04-6:30 Portrait of King William III by Mark Twain | Audiobooks Youtube Free | Mark Twain Short Stories
 hgvqdpwJwrI 33:25 Fenimore Cooper's Literary Offenses, by Mark Twain, read by John Greenman
@@ -5301,13 +4431,10 @@ Qe0eRG-uUQk 2:10:04-2:33:10 Gerhardt and the Grant Bust
 Qe0eRG-uUQk 4:30:50-5:12:44 Playing Bear - Herrings - Jim Wolf and the Cats
 T1fGwc3d6s4 1:46-1:25:20 Villa Quarto
 L36c9pfRF4k 7:13:50 Mark Twain's Autobiography: With An Introduction by Albert Bigelow Paine - Volume II Part 1/2
-# bziy7Wh2ERM 6:52:50 Mark Twain's Autobiography: With An Introduction by Albert Bigelow Paine - Volume II Part 2/2
 
-# Cornish
 5LYCa0Jktkg 28:33 Ray Chubb - The Story of John of Chy-an-Hur (Cassette, Unknown Year)
 mVXZg6_JdmE 4:40 The Hobbit Chapter I in Cornish (An Hobys Chaptra I in Kernowek)
 `,channel2=Object.freeze(Object.defineProperty({__proto__:null,episodes:episodes$4,videos:videos$5},Symbol.toStringTag,{value:"Module"})),videos$4=`
-# Full album videos
 
 BecZdQvjGrY 54:49 In Gowan Ring - Compendium (Full Album)
 cCXWuAm-cqA 1:15:08 In Gowan Ring - The Twin Trees (1997) [FULL ALBUM]
@@ -5315,17 +4442,14 @@ B3oAx9VmAdA 43:52 In Gowan Ring - Hazel Steps Through A Weathered Home
 RqKtDn5ntms 53:37 Genesis - Selling England by the Pound (Full Album) 1973
 jGZaH0JEiic 39:33 Genesis - Nursery Cryme (Full Album) 1971
 c8gylOvjVoM 31:59 Moondragon - Moondragon (their first album)
-# 2F37ZjThB6s 1:13:09 Moondragon - Dream (1991)
 dfkTPeaVU50 1:09:01 Lordryk (Moondragon) - Combined Chaos (Live)
 bnaTLcFpQnE 45:45 Manu Chao - Clandestino (Full Album)
 08ozElWwpzc 35:28 Nektar - Remember The Future 1973 - Full Album - Digitally Remastered 2002
 _zmeye7-HOE 48:54 Evanescence - Fallen (FULL ALBUM)
 p0D-w-HhB64 47:46 Dire Straits - Brothers In Arms {Reissue} [Full Album]
 WzwLZKCvA3o 1:01:26 Brian Eno - New Space Music
-# _VOk5ubGg9M 29:55 The Bach Variations A Windham Hill Sampler 12 1994
 FKuHRdGeYjc 40:18 Tamarugo - Tan lejos del mar (1979) (Full album/ Album completo)
 
-# Singles
 
 Gf1RHyuuLnI 4:59 Kirsten Bråten Berg - Heiemo og Nykkjen(folkesang)
 Tt8p5AxJn18 4:14 Sinéad O'Connor - Mna na h Eireann (Women of Ireland)
@@ -5333,14 +4457,12 @@ Dhgi3wb_GB8 4:25 Ripoff Raskolnikov - Azt gondoltam eso esik
 7lvI8e3vPT4 4:04 Muzsikás - Azt gondoltam, eső esik
 apE1n63ZhMQ 3:39 Muzsikás: Repülj madár, repülj (Fly Bird, fly) + pics of Hollókő (read the info)
 8n5u_IfVLd0 5:45 Cirque Du Soleil O, Gamelan
-# OmUnDAcUddQ 3:43 LEYRIATH | Sen Calar Nen Tardar (CSM 380 - Alfonso X)
 jGacwtlb3gc 5:04 Andrew Cronshaw - Sofia, The Saracen's Daughter (Edit)
 LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
 dbVLPJvPEmM 10-5:23 Archguitar Duo P Attaingnant La Brosse
 Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
 -A89G6CRMIg 8:17 Selig
 `,episodes$3=[`
-    # In Gowan Ring - The Glinting Spade
     GCglHYJb2Yk 5:34 Two Wax Dolls
     W-gm4QANx0k 4:04 To Thrum a Glassy Stem
     O-gx9ILQogw 13:07 Cipher's String on the Tree in the Dream of the Queen
@@ -5349,7 +4471,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     ZXK1NYbjozk 8:04 Arrowsmith's Fire
     2LjJzCTfaPo 12:31 Milk Star
   `,`
-    # In Gowan Ring - The Serpent And The Dove
     Tr8BAGlGA1U 3:31 The Serpent
     xh3b1Ypy298 5:20 Thousands of Bees
     zs6OglBQyxg 7:25 Sial at Play
@@ -5359,7 +4480,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     FFPew-WtLI0 6:33 A Song, a Story and a Stone
     AlhtLYq4H5k 4:43 The Dove
   `,`
-    # Heroes of Might & Magic IV
     cvyS50v2Uts 1:37 Main Theme - Heroes of Might and Magic IV
     3k9fPBM-rPo 2:27 HOMM IV - Academy (Order) theme
     m5vEXnWQOH0 14:51 Heroes of Might & Magic IV - Grasslands Theme
@@ -5373,23 +4493,18 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     skGuDAhrkJ4 3:11 Castle Stronghold - Heroes of Might and Magic IV
     WePJVH2b_ZQ 2:33 Heroes of Might and Magic 4 ~ Wandering ~ OST
   `,`
-    # Jethro Tull - Thick As A Brick
     ldXdnZtTWp8 22:40 Thick as a Brick (Pt. 1) (1997 Remaster)
     GTWQv8RsI6s 21:10 Thick as a Brick (Pt. 2) (1997 Remaster)
   `,`
-    # Jethro Tull - Songs From The Wood
     z4UYX2qpUK0 4:54 Songs from the Wood (2003 Remaster)
     9fWzUgrYnqs 2:29 Jack-in-the-Green (2003 Remaster)
     KNc2uifQuGw 4:32 Cup of Wonder (2003 Remaster)
     royymUiwItI 5:12 Hunting Girl (2003 Remaster)
     XJS9TjjHxx8 3:44 Ring Out, Solstice Bells (2003 Remaster)
-    # 6-ANplhDJNY 6:03 Velvet Green (2003 Remaster)
     2mBaE-K4RxI 3:32 The Whistler (2003 Remaster)
-    # pkUCchG0Kls 8:34 Pibroch (Cap in Hand) (2003 Remaster)
     73LAuGkgayo 2:28 Fire at Midnight (2003 Remaster)
     XzJVZ5Uda84 5:19 Beltane (2003 Remaster)
   `,`
-    # Jethro Tull - Benefit
     gfKzPV-Ely4 6:19 With You There to Help Me (2001 Remaster)
     b1Pzk_UYnos 5:15 Nothing to Say (2001 Remaster)
     2gfeRCSNBQM 2:49 Alive and Well and Living In (2001 Remaster)
@@ -5405,7 +4520,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     qizGFSKWAvA 1:38 Just Trying to Be (2001 Remaster)
     xkzeeEU27Mw 3:48 Teacher (Single Mix) (2001 Remaster)
   `,`
-    # Jethro Tull - Best of Acoustic
     GW-TrUDrv1E 2:51 Fat Man (2001 Remaster)
     Kq2TIzIOJ-4 3:18 Life Is a Long Song (2001 Remaster)
     DoPFe76HRJw 1:21 Cheap Day Return
@@ -5431,7 +4545,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     krQyHXul-o8 3:41 One Brown Mouse (2007 Remaster)
     zwf2svLUi1Q 4:14 Pastime with Good Company (Live in Denmark)
   `,`
-    # Jethro Tull - Stand Up
     JajGBIfGWZM 4:09 A New Day Yesterday (2001 Remaster)
     wlNwOJkP5P8 2:13 Jeffrey Goes to Leicester Square (2001 Remaster)
     dnEx_rNOijs 3:47 Bourée (2001 Remaster)
@@ -5447,7 +4560,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     mfvGAG1N7g8 4:04 Sweet Dream (2001 Remaster)
     Mxr9R2GvMbk 3:08 17 (2001 Remaster)
   `,`
-    # Sting - Songs From The Labyrinth
     Bx8Wv4hlWhs 0:39 Walsingham
     RYb-7JOQRQQ 2:36 Can She Excuse My Wrongs?
     PM2efKgXGvA 4:43 Flow My Tears
@@ -5465,7 +4577,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     KRMT5xQg7SY 2:48 Clear Or Cloudy
     WMCC8IzFSl8 4:13 In Darkness Let Me Dwell
   `,`
-    # Genesis - Trespass
     E7Z_xXh7gm8 7:04 Genesis - Looking For Someone (Official Audio)
     6hgYH3-HVrY 6:45 Genesis - White Mountain (Official Audio)
     uMM8spZyEgg 6:51 Genesis - Visions Of Angels (Official Audio)
@@ -5473,7 +4584,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     v719eZmXRdE 8:56 Genesis - The Knife (Official Audio)
     zhw1gm5-nt0 4:11 Genesis - Dusk (Official Audio)
   `,`
-    # AFI - Decemberunderground
     d0Gsyr_0PpA 1:35 Prelude 12/21
     NdwM8yRAm2I 2:40 Kill Caustic
     jMxU2ToSunY 3:23 AFI - Miss Murder (Official Music Video) (Short Version)
@@ -5487,7 +4597,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     DBJkPYoSu5A 3:53 37mm
     _-h_khKeJB0 4:27 Endlessly, She Said
   `,`
-    # The Beatles - Magical Mystery Tour
     l8WMGBuNaus 2:51 Magical Mystery Tour (Remastered 2009)
     wsRatIMUSu8 3:00 The Fool On The Hill (Remastered 2009)
     Z1ONJQLdZrk 2:16 Flying (Remastered 2009)
@@ -5500,7 +4609,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     i5m-sgtwFck 3:02 Baby, You're A Rich Man (Remastered 2009)
     1A8sOOKianA 3:51 All You Need Is Love (Remastered 2009)
   `,`
-    # The Beatles - Abbey Road
     45cYwDMibGo 4:19 The Beatles - Come Together
     UelDrZ1aFeY 3:08 The Beatles - Something
     3HuXFfq79I8 3:28 Maxwell's Silver Hammer (2019 Mix)
@@ -5511,7 +4619,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     2XyuywVao7g 2:46 Because (2019 Mix)
     6CVsBOjeDzk 16:41 Medley from ABBEY ROAD
   `,`
-    # Shira Kammen - The Almanac
     DTAoc_dWJ9A 3:29 The Oar Wheel
     JMIJBSdlIPU 2:50 The Wheel of the Year
     YFG4FI_iiyo 5:47 Mirie it is
@@ -5532,7 +4639,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     0ixjT5v-Gi8 2:31 Quant Je Vois Yver Retorner
     s6jr1veNfVM 1:53 The Almanac
   `,`
-    # Fay Hield - Looking Glass
     nLEOEbIYCQ8 5:58 The Huntsman
     kep44rPk38g 2:29 Mad Family
     bfj6t9Vd918 3:52 Two Brothers
@@ -5545,7 +4651,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     ArWncy2D4Mk 2:41 The Shepherd's Daughter
     Vwi9RiT1H2k 2:35 King Henry
   `,`
-    # Baltimore Consort - La Rocque and Roll
     0Tly_wgC858 2:05 J'ai vu le loup
     KNFgW6GLo1o 2:21 Has tu point veu
     dtf_YWfYixM 0:50 Branle double
@@ -5573,7 +4678,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     w432eO-7G0U 4:46 Une nimphe jolie
     wRMw1g9CdOM 5:48 Jean de Nivelle
   `,`
-    # Calliope - A Renaissance Revel
     j0YJZDPjrdg 1:33 Early 17th Century Dances from Terpsichore: Galliarde (1)
     gorgo1rIQXo 2:11 Early 17th Century Dances from Terpsichore: Three Voltas
     if7D7Xp30sE 1:12 Early 17th Century Dances from Terpsichore: Galliarde (2)
@@ -5592,7 +4696,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     rn7ryGcOm4Y 3:15 Sixteenth Century French Dances: Bransle Simple
     G-rdQRx5AIE 5:35 Sixteenth Century French Dances: L'Homme Arme
   `,`
-    # Markahuasi - Traditional Music of the Andes
     CeOR5tsYD8s 3:24 Markahuasi - Los Refranes (The Old Sayings)
     -2kY4Bo2Ch4 4:16 Markahuasi - Balseros del Titicaca (The Rafts of Titicaca)
     Vpi1QKniaKQ 3:59 Markahuasi - Amores Hallaras (Many Loves You Will Find)
@@ -5607,7 +4710,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     zmB2ulRI_4c 6:26 Markahuasi - El Condor Pasa (Flight of the Condor)
     ZzEjGlRkdFQ 4:55 Markahuasi - Tinku
   `,`
-    # Nightwish
     NzWizk3e4MM 4:28 1.Nightwish - Dark Chest Of Wonders
     NtEAh5xPvHU 5:21 Nightwish - Gethsemane
     wEERFBI9eCg 4:03 Nightwish - Wish I Had An Angel (OFFICIAL VIDEO)
@@ -5623,7 +4725,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     Dm3k7lXNSa8 6:47 Dead Boy's Poem
     z94ip-1_khY 3:37 Nightwish - Kuolema Tekee Taiteilijan [Lyrics]
   `,`
-    # Bob Marley - Legend (Full Album)
     wsu_8UwapEI 3:52 01. Is This Love? - (Bob Marley) - [Legend]
     eo1VWOmLuJM 7:05 02. No Woman, No Cry - (Bob Marley) - [Legend]
     CgD8rao1jQ8 3:56 03. Could you Be Loved - (Bob Marley) - [Legend]
@@ -5652,7 +4753,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     BLAi3NNz2Vs 4:01 Valsapena
     cr1eD_MJ80Y 3:10 Nocturne
   `,`
-    # Cirque du Soleil Compilation - O - Dralion
     S6tE6laWTEc 4:22 Cirque Du Soleil O, Jeux d'Eau
     mUC2omNq4QE 5:56 Ombra
     Y1-Fv6k_UO0 5:40 Ballare
@@ -5665,11 +4765,8 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     1GCzME-a9sU 7:51 Cirque Du Soleil O, Desert
     ku0P5Fdv0Tk 2:38 Cirque Du Soleil O, O
   `,`
-    # Here we use time slices to replace the instrumental version of Ólafur
-    # Liljurós with the sung version.
     IYbE2coMZPc 0-7:33 Íslandsklukkur (Instrumental Icelandic Folk Music)
     QwfI6nvCShI 3:37 Ólafur Liljurós - Íslandsklukkur Icelandic folk music with Lyrics
-    # rfjaob7FsTg 3:29 "Ólafur Liljurós" Icelandic Viking Folk Song (Lyrics)
     IYbE2coMZPc 11:09-52:50 Íslandsklukkur (Instrumental Icelandic Folk Music)
     LFtRNYAZoKA 3:53 Íslandsljóð
   `,`
@@ -5686,7 +4783,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     7yAAk8469q0 5:01 Komine
     PZ9yL-Eo9wQ 3:48 Manssa Cise
   `,`
-    # A Maid in Bedlam - John Renbourn Group
     uZjC_cbWLq8 3:22 Black Waterside
     _8yLYWZuqWI 3:24 Nacht Tanz / Shaeffertanz
     guknInoA-Sw 3:56 A Maid In Bedlam
@@ -5698,37 +4794,13 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     kpG3uxdJ_Tc 5:46 Medley: The Battle of Augrham / 5 In a Line
     DH0a0L5sPvM 3:27 Talk About Suffering
   `,`
-    # lN8Ii1gGqZI 2:10 Tîr Im by The Fellowship
-    # XFOzTds_3Qk 2:51 The Longbottom Leaf by The Fellowship
-    # PYIOu7CpUAo 4:29 In Elven Lands - Dan Barliman's Jig
-    # fPy_RzFd6Vc 2:10 The Silver Bowl by The Fellowship
-    # bHqQ_IuApfA 3:03 The Man in the Moon by The Fellowship
-    # RLa4mYiLf_0 2:05 Verse to Elbereth Gilthóniel by The Fellowship
-    # mpr5vs_aXBk 3:58 In Elven Lands - Elëchoi
-    # 2WyK2DbofJo 3:54 Elechoi Mirnu Aglaron
-    # 5vd5LyKSDmU 4:20 Elo Elleth by The Fellowship
-    # zjiuFe99PA0 5:19 In Elven Lands - Beware The Wolf
-    # GSqGC5jsiDQ 6:45 The Battle of Evermore - Performed by The Fellowship
-    # IkIr_5UMx5w 5:13 Oromë: Lord of the Hunt by The Fellowship
-    # uCoJjv6b_Zw 4:49 The Fellowship - When Dûrin Woke (Official Music Video)
-    # r0-K_EcCdEs 3:20 Silmesse by The Fellowship (Official Music Video)
-    # PLeECmnHSxg 2:18 J.R.R. Tolkien's "Namárië" - Performed by The Fellowship
-    # lpQMgV8sAJ8 2:08 In Elven Lands - Eala Earendel
     QYDu4MlvDeE 3:29 In Elven Lands - Creation Hymn
-    # TV4Sn3UTvzM 5:07 The Sacred Stones
-    # 3wO8Vf1ADnc 4:44 The Fellowship - In Elven Lands - The Blood of Kings
-    # mVCLUBkko9w 4:56 Verses to Elbereth Gilthoniel
-    # gF3oD8oUlPo 5:00 Canticle to Elbereth Gilthóniel by The Fellowship
-    # uZ6P2-vEhBU 4:06 Evening Star by The Fellowship
-    # 1El5LNGvtb0 1:15 Terra Beata by The Fellowship
   `,`
     bitMdn_PbOg 18:24 The Moody Blues - Days Of Future Passed - 1967 Vinyl LP - Side 1
     jktBW1Etu3M 22:42 The Moody Blues - Days Of Future Passed - 1967 Vinyl LP - Side 2
   `,`
-    # -lgsCe-fLG4 40:05 The Alan Parsons Project - I Robot (full album)
     EKTcH4xAU-w 21:41 The Alan Parsons Project I Robot Side 1
   `,`
-    # Blue Öyster Cult - Cult Classic
     x25KqaNZurQ 5:08 [Don't Fear] The Reaper
     B_MZ_mYr_48 5:15 E.T.I. (Extraterrestrial Intelligence)
     6uwJpQGPs-s 3:11 M.E. 262 (Remastered)
@@ -5741,10 +4813,7 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     2tV-0Ukur9k 4:09 Cities on Flame with Rock 'n' Roll (Remastered)
     w-fT77g0oEw 3:58 Harvester of Eyes (Remastered)
     eYkBaQkIcQ8 6:53 Buck's Boogie (Remastered)
-    # Bl5-Oo1bdu8 5:09 [Don't Fear] The Reaper
-    # mratO9l3eCE 3:43 Godzilla (Tv Mix Remastered)
   `,`
-    # Karen Ashbrook - Hills of Erin
     CavQx4hY8c4 5:24 Good Morning To Your Nightcap - Behind The Haystack
     qx34I_WCCe0 3:08 Connaughtman's Rambles
     H2QP2tV9kQ8 3:05 Over The Moor To Maggie - The Scholar
@@ -5758,7 +4827,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     g0gGZDYRg-o 3:17 Prelude, Cello Suite #1
     Q_wKNHReSRY 5:44 Fairhaired Child Set
   `,`
-    # Chansons de la Renaissance, Disc 1 - Obsidienne
     gAfFLDXrSDE 3:10 Ce jour de l'an voudray joye mener
     kTqCPKEUIbE 3:35 Par droit je puis bien complaindre et gémir - Guillaume Dufay
     hvGGLwQUd7g 4:44 Ma belle dame souveraine
@@ -5782,7 +4850,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     Vfr1jWds5Wo 1:08 Scaramella
     tcOH73WSguo 1:10 Vive le roy
   `,`
-    # Chansons de la Renaissance, Disc 2 - Obsidienne
     nG2O7b1_FeI 3:51 L'amour de moi si est enclose II
     KHKwJilIEB8 1:50 Autant en emporte le vent
     uKPV-B9RtMA 3:11 Mais que che fut secrétement
@@ -5810,7 +4877,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     jMZeiwDQ5Tk 2:12 Plaine de dueil
     gbDDTFO54ec 4:26 Ce n'est pas jeu
   `,`
-    # Venite a Laudare - Obsidienne
     jtITD1l2GCY 2:59 Venite a laudare, laude
     F6MHIwftZj0 1:41 Kyrie
     VdWM0WgvRtM 4:35 Gloria spiritus et alme
@@ -5830,7 +4896,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     99HpCbnMF2k 2:17 Ave Maria, canon
     w75BoSNlJ2M 2:26 Kyrie, rondeau
   `,`
-    # Guillaume de Machaut : Voyage au cœur du Moyen Âge - Obsidienne
     62HkSO_Ovws 2:23 Ma fin est mon commencement - Rondeau - Guillaume de Machaut
     RB0s2UvRLdk 2:35 Dame, se vous m'estes lonteine
     nT6XeItIGlU 11:02 J'aim la flour de valour - Lai de Guillaume de Machaut
@@ -5853,7 +4918,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     UUODYF0G-1s 3:04 Nes que on porroit les estoiles nombrer
     RFx03DCICPM 1:24 Ma fin est mon commencement (Instrumental)
   `,`
-    # Trouvères et Troubadours: Aux origines de la chanson - Ensemble Obsidienne
     hR9QucmK5uA 5:35 Lo rossinholet salvatge
     vocQ3JPTO28 1:40 Ah ! Lemozin
     eOAqFoAO2Zg 1:29 A l'entrant dou temps novel
@@ -5913,7 +4977,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     WSQ6_C6NyP8 2:33 La ultime estampie real, la septime estampie real
     UVdhyWknqJE 3:41 Trop est mes maris jalos
   `,`
-    # The Watersons - For Pence and Spicy Ale
     IT3pporiNFI 2:02 The Watersons - Country Life
     3cEPM8LSfBo 5:28 Swarthfell Rocks
     hidOCY-0PZI 3:01 Barney
@@ -5931,16 +4994,13 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     Y9nW0XHhGTc 3:07 The Bonny Lighthorseman
     HLyKF4dvbvE 11:01 Tam Lyn
     Cz9bSMFtrlo 2:23 Sheepshearing
-    # 7VZlCTU7Wok 4:17 Seven Yellow Gypsies
     QSALP2o0ZlU 3:34 Beggar Man
     m9ec7bk-xcs 4:28 Swansea Town
     XH-QpfZsHJw 3:57 Bellman
   `,`
-    # Dallas Simpson
     M_-7FjNBZIY 8:57 Webster's Raft (Excerpt)
     tmhPr0J-GmM 13:20 Waterpump (Aquapump)
   `,`
-    # Erik Ask-Upmark - Himlens Polska
     djwgp9uN484 5:07 Oppningspolskor
     HCTw61XMQLU 3:13 Ornunga
     ASSqu8WpBfA 4:38 Himlens Polska
@@ -5955,7 +5015,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     FuO_Fx_H2Tc 3:22 Blomgren
     a0ie1T2YeII 6:13 Norsk Brudmarsch
   `,`
-    # Yes - Fragile
     cPCLFtxpadE 8:36 Roundabout (2008 Remaster)
     2lXCa6_VH3s 1:43 Cans and Brahms (Extracts from Brahms' 4th Symphony in E Minor, Third Movement) (2008 Remaster)
     7Eo3Bw2qLeI 1:40 We Have Heaven (2008 Remaster)
@@ -5968,7 +5027,6 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
   `],channel3=Object.freeze(Object.defineProperty({__proto__:null,episodes:episodes$3,videos:videos$4},Symbol.toStringTag,{value:"Module"})),episodes$2=[],videos$3=`
 T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] - Antique Table Clock
 `,channel4=Object.freeze(Object.defineProperty({__proto__:null,episodes:episodes$2,videos:videos$3},Symbol.toStringTag,{value:"Module"})),episodes$1=[`
-    # Windham Hill - Celtic Christmas II
     7jOsFtZghxM 3:47 Chanonry Point
     vN8nlmA8RSM 4:33 Amanecer
     dTL7l-7AJxg 3:26 The Wexford Carol
@@ -5982,7 +5040,6 @@ T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] 
     PB6MYWOao-8 5:24 Johnny Seoighe
     hcOB2m4lBqk 3:01 The Dove's Return
   `,`
-    # Mediaeval Baebes - Salva Nos
     rDDLxNxzEDI 1:44 Salve Virgo Virginum
     sOCsdR_6WN0 3:27 Now Springes The Spray
     tm0M-4CphYg 2:19 Ah Si Mon Moine
@@ -6000,7 +5057,6 @@ T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] 
     mm2GN-48QYg 1:43 This Ay Nicht
     KRn4T7HViSE 2:34 Miri It Is
   `,`
-    # Anonymous 4 - On Yoolis Night
     NXFLmXkH7dE 1:05 Antiphon: Hodie Christus natus est (chant)
     5eh00mRRI7A 0:50 Motet: O nobilis nativitas - O mira dei - O decus virgineum - Apparuit
     rtT5J1M8nVU 0:30 Antiphon: Lux de luce (chant)
@@ -6040,11 +5096,9 @@ T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] 
     75sRYWFW_Ds 1:19 Un Flambeau, Jeanette, Isabella
   `,`
     aO2YE_VAGTg 2:46 The Holly Bears a Berry
-    # IVf3HHMyDkk 2:13 The Wren in the Hurze
     _D8X1JvzTOg 1:46 Christmas Day in the Morning
     Np1NdyIq9os 2:57 Apple Tree Wassail
     QTOQ9htcDi0 4:54 Rafe's Waltz
-    # sF9sOKwueBs 3:16 Cutty Wren
     ZSR_XKKRyzs 3:01 The Brandevin
     PjlK0xZb3h0 1:41 Arranne Ny Sheeaghyn Troailtagh
     lgBl-DUjISc 2:38 An Dro Nevez
@@ -6055,7 +5109,6 @@ T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] 
     MF9aDqFGU-g 1:20 Tapster Drynker
     HHoy6ZcoZmA 2:58 Bring Us In Good Ale
   `,`
-    # Linn Barnes and Allison Hampton - Holly Eve
     1eVQkKSFsfg 2:20 Tomorrow Shall Be My Dancing Day
     3v63l5jKCAw 2:06 Noel (It Came Upon A Midnight Clear)
     ajMjTrlssss 2:52 In The Bleak Midwinter
@@ -6075,7 +5128,6 @@ T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] 
     iZzHudDT4qQ 3:23 La Lune de Noel
     09EZiwd-HGI 2:28 Blessed Be Thou Heavenly Queen
   `,`
-    # Linn Barnes and Allison Hampton - Yule
     rHeY4pU7X0Y 2:46 Merrily On High
     BxeBss66wy8 2:45 In Dulci Jubilo
     crDHyC5Weag 4:57 The Castle Keep/Masters in This Hall
@@ -6096,7 +5148,6 @@ T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] 
     imsrlobZkQY 1:53 Green Grow'th the Holly
     LvEWDKIpcuU 2:09 Blessed Be That Maid Marie
   `,`
-    # Linn Barnes and Allison Hampton - Wassail
     dNS3aXo6yRo 1:45 Gloucestershire Wassail
     EeaqAYye4xU 2:21 Sussex Carol
     NK66Aq5e5W0 2:49 How Far Is It to Bethlehem
@@ -6118,30 +5169,22 @@ T7RnlNbLox0 7:59:58 Clock Ticking - 8 Hours - [CHIMES TWICE - every 30 minutes] 
   `,`
     yzGFPQQj9BQ 33:48 Nat King Cole - "King Of Christmas"
   `,`
-    # Bing Crosby Christmas Classics
     At0gAwAvFeA 1:35 White Christmas (Remastered 2006)
     kz65UdsF45k 2:51 Have Yourself A Merry Little Christmas (Remastered 2006)
     ngJPlhrd_Iw 2:25 Winter Wonderland (Remastered 2006)
     kYUljI4Skjw 3:21 What Child Is This/The Holly And The Ivy (Medley / Remastered 2006)
-    # cag2FvYwuZs 3:01 The Little Drummer Boy (Remastered 2006)
     k_LqjLzQWkc 3:35 O Holy Night (Remastered 2006)
-    # WGfno5hoyXY 4:01 The Littlest Angel (Remastered 2006)
     mEcyvuVyuZg 2:06 Let It Snow! Let It Snow! Let It Snow! (Remastered 2006)
     VnC_BtuXwBM 3:07 Hark! The Herald Angels Sing/It Came Upon A Midnight Clear (Medley / Remastered 2006)
-    # m-cNrbbT7_8 2:14 Frosty The Snowman (Remastered 2006)
-    # MKMgBPZ_Zxk 2:16 Rudolph The Red-Nosed Reindeer
     WXERRcpXRiA 1:56 I Wish You A Merry Christmas (Remastered 2006)
     FhTnDaEmA5k 2:46 Do You Hear What I Hear? (Remastered 2006)
     sLBDE8VJeHo 2:53 Pat-A-Pan/While Shepherds Watched Their Flocks By Night (Medley / Remastered 2006)
-    # rkN6O2piD8s 2:30 Christmas Dinner, Country Style (Remastered 2006)
   `,`
-    # Ensemble Alcatraz with Kitka - Cantigas de Amigo
     gaHpnjhVGvI 5:17 Sen calar (arr. C.A. Fulton)
     tuoVTRWJtxQ 2:38 Por Deus
     CNo0CYAWmnM 8:35 Cantiga de Santa Maria 11, "Macar ome per folia" (arr. C.A. Fulton, K. Higginson, S. Kammen and...
     MelUCr7TVXs 4:16 Bailemos nos ja todas
   `,`
-    # Ancient Noëls
     2AjFT4Rcp_U 3:41 Cantiga De Santa Maria, No.48
     xPh8zlMr7xg 3:21 Gloucestershire Wassail / Tomorrow Will Be My Dancing Day / The Sussex Carol
     LR0GktoJFcw 6:01 Hoboekentanz / Schafertanz
@@ -6184,81 +5227,6 @@ KKTqN894UCc 3:49 MICHAEL PRAETORIUS: Es ist ein Ros’ entsprungen
 zG6ewYxS4Pw 8:41 La Septime Estampie Real and Istampitta in Pro - Hanneke van Proosdij and Peter Maund
 LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
 
-# Celtic Christmas III
-# pgaiDhAqQ44 3:45 The Wexford Carol
-# 9Mk8QHA9V3A 3:53 Angels In The Snow
-# 8K8UTaiNX2g 3:42 Lully Lullay
-# SUPhRLA_YFU 4:46 Circle Of Joy
-# PTOEoRzG_D4 4:46 Sails Of Galway
-# XPmJmLmIHmU 3:35 The South Wind
-# A1T76harrKo 4:09 A Raven In The Snow
-# 5FLXVSLyucI 3:37 The Snows
-# Od1wf7XvJHU 4:51 Home
-# GvveCAnh97w 5:40 Lament
-# b_kavTJhfPk 5:06 Sister Moon
-# sG7s5hUryzk 3:52 Maiden Dance
-# 7ABzGGcpHik 4:36 Fields of Gold
-# ATWktqTDlCg 4:36 Nightingale
-# jpD4TAPUrdM 4:31 Branwin's Secret
-# jQkkIKtsSIs 3:54 The Shine Of A Shane
-# IYnvN2Ubb5k 4:41 Crimson Morn
-# AY3DSuA92f0 5:01 A Gentle Place
-# ppZTePgt5p8 5:02 Way Of The World
-# pQT6swI1IAM 4:17 Gossamer Heart
-# o7fD3rys1TQ 4:59 Lake Of Dreams
-# OssyaZNYN64 5:46 O Come O Come Emmanuel
-# Z1j65-WiKFo 4:11 God Rest Ye Merry, Gentlemen
-# 75Uxnqr4N1g 3:39 The First Noél
-# UxjDLhAQHsI 3:14 Hey Ho, Nobody’s Home
-# roXhc0Yy8KM 3:56 Away In a Manger
-# IJW1uJ-cgwU 4:27 I Wonder As I Wander
-# vg9uk7-qVLs 3:44 St. Basil’s Hymn
-# 8LJdZSR64kM 2:34 Deck the Halls
-# Jq5kYhXQsiQ 4:25 We Three Kings of Orient Are
-# YrjDMptr4eI 2:47 Gaudete
-# NnRI7QyU3WQ 2:59 Entre le boeuf et l’ ane gris
-# 3h77jLw8W80 4:50 Silent Night
-# bh73TSEHTyk 3:28 Coventry Carol
-# U1ikJQI9rGc 3:48 The Flight Into Egypt
-# tLbGK5-juYI 5:08 Strathglass
-# JGQUl84J304 4:20 The Green Fields Of Amerikay
-# q7Cl7utRbnI 3:39 By The River Shannon
-# T_lG1Zlu5rA 3:26 Ga Gréine
-# rOMxFuudX1A 3:11 Flow Gently Sweet Afton
-# Ab4VfUz8KO8 6:34 Barbara Allen
-# qo5ZF3gmqc4 4:02 The Heron
-# -LUmPeXAeWw 4:34 Carolan's Farewell
-# LhH6rXI5hsE 4:44 No Room at the Inn
-# 4AuGUFoirY0 3:59 Down The Chimney
-# Z5tD-cjZUpI 3:14 Here We Come A-Wassailing
-# 0xq4lyan4UQ 3:44 Deck the Halls
-# Cj9ORqxf7io 3:55 Coventry Carol
-# nsrZ2-s0lKU 2:51 Love Came Down at Christmas
-# PaS0qJL_HHc 3:14 Joy to the World
-# fwNqd-yTdpE 4:58 Greensleeves
-# gt9yj7F1EYo 3:41 Santa Claus Is Coming to Town
-# lt4DS_Z4U_I 3:20 Christmas in Killarney
-# CzzpmCWuyEk 3:26 Adeste Fidelis
-# rp3cDcVH8u0 4:11 Sussex Carol
-# BekklrlUf1c 3:35 The Holly She Bears a Berry
-# 4fgwV3QKlBQ 3:53 Silver Bells
-# fnuqX_Z9L90 3:55 The Wexford Carol
-# hia_n-Xik28 3:44 It Came Upon a Midnight Clear
-# iFsVQiiOXoA 4:10 Once in Royal David's City
-# Kd7Lym48H9M 3:53 Lo, How a Rose Ere Blooming
-# mF-UUbI9Glo 4:46 In the Bleak Midwinter
-# WNHt9_1oehk 4:16 Sìor-Uaine (Evergreen)
-# ntqAJAbYFtE 3:49 Derdriu
-# smGClMb5dkA 5:09 Airdí Cuan
-# ItRr7UsuUww 3:48 Sweeney's Buttermilk
-# dCLiiL-sM1A 5:07 Cradle Song
-# NBllWsdc1m8 4:11 Morning Star
-# sF-d4WuXkrM 2:57 Ar Droim Na Gaothe
-# RSTzacJwOOE 3:32 Whiter Than Snow
-# s_1D1A4JGYw 4:27 St. Stephen's Green
-# JjIkeO7Pe3g 2:49 December Rain
-# rmyRBNcQAmM 3:02 Kitty Magennis
-# 0z0_ZsNZmos 2:43 Christmas Time's A Comin'
 `,christmas=Object.freeze(Object.defineProperty({__proto__:null,episodes:episodes$1,videos:videos$2},Symbol.toStringTag,{value:"Module"})),episodes=[`
   Z890lqjBkq4 0:00-1:02
   ATorS9krpDU 0:26-2:31 The Muppet Show - 108: Paul Williams - “All Of Me” (1976)
