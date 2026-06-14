@@ -635,7 +635,7 @@ ry5Du60WPGU 16:18 What did WWII Soldiers Eat?
 MrKafmzGNJc 0-3:40,4:49-20:18 Macaroni & Cheese from 1845
 1QRNJB29p6o 0-4:05,5:09-18:29 Feeding King Tut
 fkJPqxelmkY 19:50 Sin Eaters & Funeral Biscuits
-Qud0SI5ZgC0 18:51 1000 Year Old Jalebi (Zalabia)
+Qud0SI5ZgC0 0-4:16,5:22-18:51 1000 Year Old Jalebi (Zalabia)
 I4ZTRjA7NhU 16:49 History's Real Macbeth
 APeVpwejxWQ 0-2:10,3:21-20:50 Ancient Roman Jellyfish for the Black Banquet
 DUAayg3D0XA 0-3:31,4:39-20:39 Pemmican: History's Power Bar
