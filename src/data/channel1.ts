@@ -803,6 +803,13 @@ vlQZ3NPnoLk 6:49 How to Make Medieval Cheese
 
 # Sally Pointer
 
+ZNVd2ohBj0Q 12:39 Growing Flax in a Plant Pot
+amp5QP_gMjA 5:39 Lime Bast Experience Days 2026
+NqCGdgDsAmI 2:43 Lime Bast: Harvest, Preparation and Use. New book preview
+-muHqvhbM2c 6:39 Joining Knots for Net Makers
+# EjrM3aJlp0g 5:33 'Nalbinding -it's not knitting' preview of my new book
+kmAU6ndEFIc 26:17 Make an Orange Peel Box, part two
+kdkzzsGDcaM 17:27 Make an Orange Peel Box inspired by 18th century Bergamot Boxes
 kShEdlqLLdM 6:48 Hedgebotherer on Tour: part two. Yellowstone and Rabbitstick
 s-m8Ng3Qg6g 9:15 Visiting the Fourteenth Century knitted cap at St Denis, Paris
 JVYY8ra00BM 40:05 Making An Iron Age Style Leather Purse (inspired by the Jersey Hoard)
@@ -1572,6 +1579,7 @@ CPLWbeUq8Z0 2:32 Harold Macmillan
 
 # Beowulf
 2WcIK_8f7oQ 1:40-1:37:19 Beowulf: The Epic in Performance - Benjamin Bagby, voice and medieval harp
+7CpKlEiahtI 12:31 Beowulf - Old English Reading
 
 # Simon Roper
 CuXdIBRYJ58 12:30 Is It Possible to Describe Somebody's Entire Language?
