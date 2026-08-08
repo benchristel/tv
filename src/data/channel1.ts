@@ -3632,6 +3632,7 @@ Cl2-pDsMkrw 1:48:52 Watermelon Wednesday 2015 - Peter Blanchette and Friends
 nTUegVgzxag 0-4:50 Heifetz Hootenanny: Sí Bheag, Sí Mhór | Nigel Armstrong & Peter Blanchette
 -bNGmy6QNk4 13-3:56 Bach: Allemande from French Suite No 3, BWV 814 | Peter Blanchette, Mané Lareggla, archguitars
 qcTsZBxAWxU 15:59 András Schiff - Bach Partita No.5 in G major
+MHFuaaGpGKQ 1:16:31 Bach: Goldberg Variations - András Schiff (2017)
 i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely
 GLQc1ypCh4c 1:09:42 "Dido and Aeneas" - Accademia degli Astrusi - Federico Ferri, conductor
 
@@ -4668,7 +4669,6 @@ p7-2_WeceAA 25:46 Vintage railroad film - A railroad at work - 1946
 P4nqWE26yqk 12:28 Vintage transport film - Measured for transport - 1962
 # nvc9XgFV3Go 10:53 Vintage railroad film - Troop Train - 1943
 WtJJm7rxkT0 5:30 Vintage Australian railway film - On time - 1953
-bT6oGsTqzN8 13:54 Vintage Australian railway film - Ghan to Alice - 1978
 # R1B5d8rt8xw 25:05 Vintage Australian railway film - The rail way - 1979
 nMActDF-hBk 33:58 Vintage railway film - Single line working - 1957
 53QM__dT2TI 26:27 Vintage railroad film - At this moment - 1954
