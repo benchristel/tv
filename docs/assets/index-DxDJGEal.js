@@ -2942,6 +2942,7 @@ Cl2-pDsMkrw 1:48:52 Watermelon Wednesday 2015 - Peter Blanchette and Friends
 nTUegVgzxag 0-4:50 Heifetz Hootenanny: Sí Bheag, Sí Mhór | Nigel Armstrong & Peter Blanchette
 -bNGmy6QNk4 13-3:56 Bach: Allemande from French Suite No 3, BWV 814 | Peter Blanchette, Mané Lareggla, archguitars
 qcTsZBxAWxU 15:59 András Schiff - Bach Partita No.5 in G major
+MHFuaaGpGKQ 1:16:31 Bach: Goldberg Variations - András Schiff (2017)
 i0djHJBAP3U 1:18:43 Huun-Huur-Tu - Live Berkely
 GLQc1ypCh4c 1:09:42 "Dido and Aeneas" - Accademia degli Astrusi - Federico Ferri, conductor
 
@@ -3580,7 +3581,6 @@ E383eEA54DE 4:36 Richard Feynman on - philosophy, Why question, Modern science a
 OX1EK5IBSdw 57:53 Richard P. Feynman: Theory, Prediction, Observation
 VW6LYuli7VU 1:22 Richard Feynman talks about Algebra
 uY-u1qyRM5w 1:18:01 Richard Feynman Lecture -- "Los Alamos From Below"
-kW6rR9H9Vu8 41:31 Richard Feynman's Story of Particle Physics - 1973 Lecture
 iMDTcMD6pOw 1:15 You don't like it? Go somewhere else! by Richard Feynman, the QED Lecture at University of Auckland
 Ec03o-7rHLw 28:23 Richard P Feynman: Quantum Mechanical View of Reality 2 (Part 1)
 aAgcqgDc-YM 56:10 Richard Feynman - The Character of Physical Law - Part 6 Probability and Uncertainty (full version)
@@ -3593,7 +3593,6 @@ GNhlNSLQAFE 36:42 Richard Feynman - The World from another point of view
 LPDP_8X5Hug 9:46 Richard Feynman Lecture on Quantum Electrodynamics: QED. 1/8
 ZbFM3rn4ldo 1:44 Richard Feynman: The Beauty of the Flower
 lytxafTXg6c 0:44 Richard Feynman explains the feeling of confusion
-xdIjYBtnvZU 21:44 Feynman's Lost Lecture (ft. 3Blue1Brown)
 OL6-x0modwY 1:03 The Scientific Method-Richard Feynman
 
 08eEdgqbJns 5:48 [Richard P. Gabriel] The Beginning of Writers' Workshop
@@ -3880,7 +3879,6 @@ plDBlQLt0EA 15:14 Vintage LMS railway film - St Pancras Junction Relaying - 1947
 p7-2_WeceAA 25:46 Vintage railroad film - A railroad at work - 1946
 P4nqWE26yqk 12:28 Vintage transport film - Measured for transport - 1962
 WtJJm7rxkT0 5:30 Vintage Australian railway film - On time - 1953
-bT6oGsTqzN8 13:54 Vintage Australian railway film - Ghan to Alice - 1978
 nMActDF-hBk 33:58 Vintage railway film - Single line working - 1957
 53QM__dT2TI 26:27 Vintage railroad film - At this moment - 1954
 9U-d62HbEUA 1:21 Bennett Brook Railway - Perry tank engine 0-4-2T BT1 'Betty Thompson' - winter running 2019
