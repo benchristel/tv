@@ -4336,6 +4336,30 @@ RNGHTrHul1Q 39:26 Mt Tom Peregrine Falcons
 s91z2zNFGUM 0:41 Eastern Coyote expresses opinion.
 DMA_Mj-yxjw 2:13 Eastern Coyotes, Mt Tom, Mass.
 
+8W-COVkA8pU 7:07 Nate from Lowell
+
+CpB18kuwMuA 28:31 Look and Listen | Full Episode | Mister Rogers' Neighborhood
+dNA_GyeXMwU 11:55 A Visit with Koko the Gorilla | Mister Rogers' Neighborhood
+JnWpHcARx70 28:33 Giant Pandas at the Zoo (ASL) | Full Episode | Mister Rogers' Neighborhood
+PRTeK4rm3vg 35:12 King Friday Bans Play | Compilation | Mister Rogers' Neighborhood
+B7w7_6wJLZ4 28:23 Celebrating the Arts | Full Episode | Mister Rogers' Neighborhood
+iXAZZl9Pzvg 7:11 How People Make Books | Mister Roger's Neighborhood
+SvOf6if6rOI 6:09 Bill Nye Teaches A Science Experiment | Mister Rogers' Neighborhood
+slI17n7-y-g 28:45 How People Make the TV Show | Full Episode | Mister Rogers' Neighborhood
+pxfttPHDCEM 28:41 The Neighborhood Variety Show | Full Episode | Mister Rogers' Neighborhood
+eWqizWg_63Y 28:20 Artwork in the Neighborhood | Full Episode | Mister Rogers' Neighborhood
+uil_xfigoas 10:28 Making Batik Fabric with Saihou Njie | Mister Rogers' Neighborhood
+8ZQ4l4OUIyw 23:32 Iconic Singers Visit the Neighborhood | Compilation | Mister Rogers' Neighborhood
+hPhuKClqXvw 28:29 All About Music | Full Episode | Mister Rogers' Neighborhood
+ILNdFbY0Eqk 4:54 How People Make Erasers | Mister Rogers' Neighborhood
+sj23tCoLbeQ 3:04 Playing Cello and Piano with Yo-Yo and Nicholas Ma | Mister Rogers' Neighborhood
+zwvb0ajfdtg 28:34 A Rainy Day with Mister Rogers | Full Episode | Mister Rogers' Neighborhood
+sWWLiD_rxz0 4:47 How People Make Ice Cream | Mister Rogers' Neighborhood
+CT2W4VNvX-U 28:16 Mister Rogers Gets A Haircut | Full Episode | Mister Rogers' Neighborhood
+Ou-pSbUcaPg 28:24 Paint and Read Along with Eric Carle | Full Episode | Mister Rogers’ Neighborhood
+iFnEWctHOio 27:39 Fan Favorite Factory Visits | Compilation | Mister Rogers’ Neighborhood
+PcoAZGb4h5g 28:23 How People Make Crayons | Full Episode | Mister Rogers’ Neighborhood
+
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
@@ -4801,7 +4825,7 @@ Z-IK884rp1I 5:47 Stuart Forester - Swarthfell Rocks
     bitMdn_PbOg 18:24 The Moody Blues - Days Of Future Passed - 1967 Vinyl LP - Side 1
     jktBW1Etu3M 22:42 The Moody Blues - Days Of Future Passed - 1967 Vinyl LP - Side 2
   `,`
-    EKTcH4xAU-w 21:41 The Alan Parsons Project I Robot Side 1
+    8ng6N5oXZ9M 21:50 The Alan Parsons Project I Robot Side 1
   `,`
     x25KqaNZurQ 5:08 [Don't Fear] The Reaper
     B_MZ_mYr_48 5:15 E.T.I. (Extraterrestrial Intelligence)
