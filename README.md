@@ -1,5 +1,7 @@
 # Culture Machine
 
+![screenshot of Culture Machine playing 'Huun-Huur-Tu: Live at Berkeley'](screenshot.png)
+
 Like television, but for humans.
 
 Hosted at https://benchristel.github.io/tv
