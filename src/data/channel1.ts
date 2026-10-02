@@ -5222,7 +5222,6 @@ sj23tCoLbeQ 3:04 Playing Cello and Piano with Yo-Yo and Nicholas Ma | Mister Rog
 # o1G8Kmq7Bx8 10:45 A Carnival In The Neighborhood of Make-Believe | Mister Rogers' Neighborhood
 # iTpJLmooPXg 11:17 Snorkeling with Sylvia Earle | Mister Rogers' Neighborhood
 # IzFDWY5tPWw 1:10 "You Are Special" | Song | Mister Rogers' Neighborhood
-zwvb0ajfdtg 28:34 A Rainy Day with Mister Rogers | Full Episode | Mister Rogers' Neighborhood
 sWWLiD_rxz0 4:47 How People Make Ice Cream | Mister Rogers' Neighborhood
 # 3Wpw-8zBml4 7:54 Mister Rogers Builds a Kite | Mister Rogers' Neighborhood
 # rHQ6EySa_Ag 46:37 Friendship in the Neighborhood of Make-Believe | Compilation | Mister Rogers’ Neighborhood
