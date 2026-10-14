@@ -1,3 +1,4 @@
+const version = 1;
 function last(a) {return a[a.length - 1]}
 
 function scrapeVideos() {
@@ -10,16 +11,16 @@ function scrapeVideos() {
         .trim(),
     ].join(" ")
   } else if (/\/playlist\?/.test(window.location)) {
-    return [...document.querySelectorAll("ytd-playlist-video-renderer")]
+    return [...document.querySelectorAll("yt-lockup-view-model")]
       .map((v) => {
-        const link = v.querySelector("a#video-title")?.href ?? "";
+        const link = v.querySelector("a.ytLockupMetadataViewModelTitle")?.href ?? "";
         const id = /v=(.{11})/.exec(link)?.[1];
         const time = v
           .querySelector(
-            "span#text.ytd-thumbnail-overlay-time-status-renderer"
+            "div.ytBadgeShapeText"
           )
           ?.innerText.trim();
-        const title = v.querySelector("#video-title")?.innerText;
+        const title = v.querySelector("a.ytLockupMetadataViewModelTitle")?.innerText;
         return `${id} ${time} ${title}`
       })
       .join("\n")
