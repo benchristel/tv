@@ -514,7 +514,7 @@ EajBNo-rBJY 13:55 Ancient Roman Steak Sauce
 oQVCBWZSdnY 14:39 1915 Yorkshire Parkin for Bonfire Night
 4QGq4XpavQ8 17:17 450 Year Old Pumpkin Cheesecake
 -ghf587Nihw 9:27 Johnny Appleseed: American Weirdo
-Y3R_ljOuptM 16:19 Why Vampires Hate Garlic - A Transylvanian Recipe from 1580
+Y3R_ljOuptM 0-4:27,4:36-16:19 Why Vampires Hate Garlic - A Transylvanian Recipe from 1580
 tCD_eMscy0g 0-2:41,3:41-16:21 Apple & Cheese Pie from 1553
 4Glo4KM5Q_M 11:35 Weird Wedding Traditions & the Wedding Sip
 WdWcPvZg6Wc 17:57 Making A Wedding Cake From 1769
@@ -753,32 +753,8 @@ ZTGLUDEEWko 11:27 Nettle Fibre Processing
 ebYZidfmn-0 7:55 Making Natural Cordage from Horseradish
 
 
-XAMyCJP08kg 3:15 Stuart Forester & Carol Anderson Say Goodbye To Your Grimsby Lass Green Note London May 2015
-MWBT6G1u3-0 4:12 Stuart Forester & Carol Anderson Come Where The Willows Are Weeping London Green Note 2015
-09vzLvdUy3E 4:30 Stuart Forester & Carol Anderson The Watershed/Bonny Lass O' Kemnay London Green Note 2015
-Yz_1wr6s09o 6:38 Stuart Forester & Carol Anderson - London Pride
-k2_h0Y8BJkE 3:31 Stuart Forester & Carol Anderson The Factory Girl
-zpFFWPnDE6I 3:53 Stuart Forester & Carol Anderson Dead End Road Signs
-Jv5MZ6HPiG0 3:56 Stuart Forester & Carol Anderson Dead End Road Signs
-qwSld6_RCxA 4:31 Stuart Forester & Carol Anderson Mitcham Fair Green
-Cw9YTOnUMdQ 2:42 Stuart Forester & Carol Anderson Yorkshire Rose
-UkilH0QqYrA 4:07 Carol Anderson & Stuart Forester Culbokie/The Rejected Suitor/The Fourth Floor TwickFolk 2014
-Hum_aB26QM0 5:44 Stuart Forester & Carol Anderson - Star Of The West
-gusUr8bt3Zc 4:20 Stuart Forester & Carol Anderson - Red Brick Ballads
-UxnGlhcdtrk 3:11 Stuart Forester Cold Coast of Iceland
-I7jdmPiWz7Q 4:38 Stuart Forester - Mitcham Fair Green
-onqgu4sSUBw 5:41 Sequence 01
 dYWICqsbr7c 2:50 Peta Webb & Ken Hall
 IMa0C6JTPmo 4:24 Peta Webb
-bf-8_lKvi-s 6:00 Stuart Forester & Carol Anderson - London Pride
-q_ji7t2B03I 4:05 Stuart Forester & Carol Anderson - Dead End Road Sign
-DUxSIkJ8B_I 5:29 Stuart Forester & Carol Anderson - Colorado
-qwmAaDqgEvc 4:49 Stuart Forester & Carol Anderson - Valhalla
-4QCK7t0kSts 4:25 Stuart Forester & Carol Anderson - Duke & Little Renie
-NBKuIopgrBo 2:47 Stuart Forester & Carol Anderson - Yorkshire Rose
-miQ-19iau0k 5:59 Cold Rain Green Note, London, May 2012
-XibkHDKiztU 4:37 Glenlogie Wizz's Sitting Room, London, Jan 2012
-M5KqUClQ4YI 5:17 Stuart Forester - A Letter Home To England live
 Z-IK884rp1I 5:48 Stuart Forester - Swarthfell Rocks
 
 
@@ -811,6 +787,8 @@ ZTZYwZlezz8 5:05 Jon & Alfie: "Banish Set" Live
 Fb-Y1Tm1r7g 4:26 Jon & Alfie Banish Set
 
 piK6ieBiX7k 51:04 Once in a lifetime - The last place in England
+7LKs5IES3e0 54:43 Once in a lifetime - The Sea always wins
+
 pMMcl-gi0JM 32:55 A Brief History of the Welsh Language
 
 RO5P1BPT6Bc 1:46 Headframe Refurb at Crofty
@@ -3063,7 +3041,6 @@ IJ6NxIvzF1U 21:18 French Cabaret: from Club to Concert | Sandra Ferrández · Ma
 J1lZeHNDOro 50:03 The Bach-Abel Concerts in London | Anacronía · MarchVivo
 2XWX6sxImx8 31:53 Galician Concert Songs | Borja Quiza · MarchVivo
 RtWvS1nlt38 23:46 Boccherini & Brunetti: the Birth of the String Trio | Concerto 1700 · MarchVivo
--1of6F7a8oY 25:52 Monteverdi and Ariadne's harp | Invernizzi & Koell · MarchVivo
 JnSscthU_Sk 20:57 Baroque Court Dances | La Floreta & Delirivm Musica · MarchVivo
 qTAYkjp0iOY 4:35 Conrado del Campo: Quartets No. 3 & 5 | Diotima Quartet (#MarchVivoCD) · MarchVivo
 tREQR2TfPYI 49:37 Harpsichord Music from Spain to Latin America | Diego Ares · MarchVivo
@@ -3862,7 +3839,6 @@ nklClrz6wHI 19:34 Vintage railway film - The North Eastern goes forward - 1962
 DF8ETt70CCQ 18:45 Vintage railway film - Spick and Span - 1962
 K_IH9I9JRJU 2:36 Avon Valley trains
 Ql6gXTUqYWE 13:56 Vintage railroad film - Wheels of steel - 1953
-K4YPbtwffWs 9:08 Vintage railway film - Modernisation on the Southern Region - 1958
 XHdyDG5dT7Y 26:59 Vintage railroad film - Clear track ahead - 1946
 ZyLncXp_7yo 23:54 Vintage transport film - Link Span - 1956
 hsbIiZ4lCo8 20:03 Vintage railway film - This is York- 1953
@@ -4353,12 +4329,210 @@ uil_xfigoas 10:28 Making Batik Fabric with Saihou Njie | Mister Rogers' Neighbor
 hPhuKClqXvw 28:29 All About Music | Full Episode | Mister Rogers' Neighborhood
 ILNdFbY0Eqk 4:54 How People Make Erasers | Mister Rogers' Neighborhood
 sj23tCoLbeQ 3:04 Playing Cello and Piano with Yo-Yo and Nicholas Ma | Mister Rogers' Neighborhood
-zwvb0ajfdtg 28:34 A Rainy Day with Mister Rogers | Full Episode | Mister Rogers' Neighborhood
 sWWLiD_rxz0 4:47 How People Make Ice Cream | Mister Rogers' Neighborhood
 CT2W4VNvX-U 28:16 Mister Rogers Gets A Haircut | Full Episode | Mister Rogers' Neighborhood
 Ou-pSbUcaPg 28:24 Paint and Read Along with Eric Carle | Full Episode | Mister Rogers’ Neighborhood
 iFnEWctHOio 27:39 Fan Favorite Factory Visits | Compilation | Mister Rogers’ Neighborhood
 PcoAZGb4h5g 28:23 How People Make Crayons | Full Episode | Mister Rogers’ Neighborhood
+
+my-RqzRjFPQ 12:00 Hornbæk - 250 års jubilæum for Redningsdåden i 1774
+DU9lNWhaMQY 4:38 Hornbæk Fiskerleje og Havn i foråret 1973
+MJ2NndtgqGA 7:26 Skibefest i Hornbæk  1987 - istandsættelsen af korvetten Anna
+2Wzkq40ORpQ 2:01 Skibefest i Hornbæk i 1962
+mceWIpr-D80 3:40 Skibefester i Hornbæk - Kirkens 200 års jubilæum i 1937
+SobD6pJrEaM 5:54 Skibefester i Hornbæk - Kirkeskibenes istandsættelse
+QsGNboZOxeg 26:40 Skibefest i Hornbæk 2012 og Kirkeskibenes istandsættelse.
+PpYc18EnF2A 16:19 Skibefest i Hornbæk 1987
+CK1N4OD-XT0 30:29 Hornbæk Skibefest 1987 - Kirkens 250år jubilæum.
+
+HfB4VPB3EeE 45:06 Cabaret Hamlet 25 del 2 efter pausen
+xTZ_YxGt7hU 45:14 Cabaret Hamlet 25 del 1
+rVP-PtGQ15k 1:08:42 Gurre Kirke Gospelkor 2025
+I1ZOdKOfnqw 42:37 Andromedas lænke Holtr kirkes Ungdomskor
+ubRBHMstNPw 46:59 Holte børnekor med Snedronningen
+kBCE6bfd24I 23:09 Tjajkovskij Rokoko var med Etatsorkestret
+sfsYW-rYCmQ 37:37 Hamlet Cabaret 2022 del 2
+vNKSLfkvvgY 35:41 Hamlet cabaret 2022 del 1
+J7M7wEXU5rw 43:42 Holte Kirke David og Goliat
+DsyvtAuIdWM 49:55 Etatsorkestrets nytårskoncert del 2
+CHOnYsatRSY 49:55 Etatsorkestrets nytårskoncert del 1
+KFpwOobHzj0 51:36 Swingteam  Jazz del 2
+7g5rLadE3y8 53:38 swingteam jazz del 1
+G-32Q2RLEa0 45:26 Svanen koncert i Holte Kirke
+noYJLijOntQ 14:55 Kirkeskibe Hellebæk Kirke Skibsfest
+EgswU4Fyd_k 56:05 Marienlyst Slots Venner Rundvisning
+vGzKlVTqSg4 52:13 Hammermøllespil 2021 del 2
+7G_I06BwuRg 1:04:13 Hammermøllespil 2021 del1 før pausen
+EkDbKbOaI_0 6:27 hundeluftning på annemoneø
+T8a0YQbCx2Y 4:44 Helsingørs 500 års Jubilæumsmarch
+RXasaXcNRRU 54:56 De levende Sthenes jul 2018
+GIUdv--rk1g 45:54 Helsingør Musikskole Jul 2018 Kulturværftet
+5zkPa4BapfA 7:36 Mindehøj Mor Danmark Søndermarken
+jtWv30FgC30 14:56 Bag om Sundtoldsmarkedet
+bg_AxEqUHg0 41:33 Snedronningen
+0WWt5vVQMXQ 28:21 Den blå ballon MikroMakro 2018
+64nnEcLBX_k 14:00 Det ny galleri orange
+pVsTEiwLeNI 45:23 Helsingør Musikskole på Kulturværftet 10 december 17 Del 2
+HevNFcPaRAA 51:54 helsingør musikskole på kulturværftet 10 dec 17 Del 1
+DXxuAPGp3ac 1:26:54 Helsingør Musikskole i Sct Mariæ 7 dec 17
+1Lie2jGiEr4 25:23 Egedal kirkes børnekor
+pvxB3y-_OBc 9:21 Portobello Road i Helsingør
+JCY2qcWQqFQ 10:36 Glimt fra Hornbækløb 2017
+vLjyX5WGe88 20:15 Slidskeræs Hornbæk Havn 2017
+RXb1lmnwfdk 28:56 Udflugt med SS Bjørn
+SPSSaUnRvMI 14:56 KMD Ironman 70 3 i Helsingør 2017
+Kdruz30-o_w 16:35 Kunst i Teltet Hornbæk 2017
+p22W72Mxx_o 23:50 Cykling Hornbæk til Prag
+5CEbR5A_M-A 27:53 Wood stories i Fændrikhus Gribskov
+X6UAa2D_I0M 15:02 Eventyr paa Slottet
+hrwOC482Xmc 15:02 Eventyr paa Slottet
+HO-3pYfNL1U 28:32 Street Food Helsingør
+_yCOmH_qhTU 34:41 MIKROMAKRO KONCERT 2017
+_8hQIoxxK9Y 16:02 Helsingoer 1965 digitaliseret 8mm
+_m8vthsK2VY 9:55 Galleri 77 i Helsingør
+BT62TJyoQto 40:38 Helsingør Musikskole dec  16 del 2
+HvrhczTHvPU 57:17 Helsingør Musikskolen dec 16 del 1
+EPzkWL1LR-0 53:21 Cabaret Hamlet 2017, 2.akt
+unwWCBzPLXw 48:56 Cabaret Hamlet 2017 del 1
+-HN9rGbLfXo 40:36 Mini musical David og Golial
+n4wV4flSXdc 53:44 FREDENSBORG MUSIKSKOLE   1 MARTS i NIVAA
+BlShqeeNkdE 16:58 Kulturhus SYD
+P-s9bHqlJxA 14:15 CIEKUS SCHUMAN I BYCENTERET
+ATeDQDenqoU 11:13 vinterferie lege på Kronborg
+MEQU0lqS4mY 7:22 Helsingør Modelbaneland
+kF81vpA_KF4 21:14 Helsingør modelbaneland
+smQvJUR64hg 19:13 porten til verden DFDS
+mDMeP6vKkjE 13:14 smørrebrødsbager beck
+MBih6eSWO-k 12:55 Lidt fra Water Music
+rH7hEv5pTrw 26:09 Afskedssymfonien
+v-whxAEUOvA 15:55 Hamlet 200 År Udstilling på Marienlyst Slot
+sr0zbD84L7g 21:32 HORNBÆK VANDVÆRK 110 år i 2016
+0FhYEnqEGUQ 11:08 Blå March 2016 modtagelse på Kronborg
+l9M_dMihbK8 10:33 Galleri 77 Helsingør
+40Ed6NCyJuM 12:38 Helsingør Gospelkor i Hornbæk Kirke
+RyvPaAg4hG4 19:31 KULTURNAT HORNBÆK 2016
+bB0nO1FE41w 27:50 Helsingør Musikskole i Torpen  Kapel
+IrKlND5fhVg 10:52 Flynderupgaard Høstfest Marked
+8kYFOz49C24 14:22 GERT BRASK PÅ MARIENLYST SLOT
+oCKb4PgsbHQ 8:09 Helsingør Kunstgalleri Sudergade
+NEaDYRsERKQ 13:39 Kunstmaleren Bing Jørgensen
+IsHRCD5GFVA 16:02 Rundtur på Sundtoldsmarkedet
+hFr5gWuzieI 8:26 HELSINGØR BRIDGEKLUB BRIDGENSDAG
+5EH3Zo2ORA4 28:25 Andrew Morray and the Crew på Hornbæk Strand
+5wOp8UatWSw 8:55 Børnehøjde 2016 Hornbæk Havnefest
+BvAUaCWONoA 8:26 Dame frokost Hornbæk  havnefest 2016
+fY6cJl4n3VY 21:55 Hornbæk havn Plankedyst 2016
+IYNORIUFvzY 5:07 HORNBÆK LØBET 2016
+PaWZsR5VvgU 12:06 Store Badedag 2016 Hornbæk
+vdIspj8n0As 13:53 Helsingør Musikskolen i Tivoli
+3LtPiMRSlMM 32:45 Tikøb Skole snip snap  snude
+Wb21T4qQhdA 10:32 De Levende Sthene 2 maj 2016
+2FVdKsJSuog 9:21 Mikromakro på Kulturværftet
+UUeZlpmYXSI 7:20 Britten Sentimental Saraband
+YlmWGZl9YrA 39:09 Pergolesi Stabat Mater i SCT  VIncent Kirke
+SmgmV_qIjHo 31:11 CABARET HAMLET 2016
+StT2yMnZn28 26:10 ALLAN MYLIUS THOMSEN om sportsarealer i Helsingør
+DAx_wb6MKsk 22:16 Kulsviere i Gribskov
+okjkQoOpfpg 10:16 De Levende Sthenes julekoncert 2015 i uddrag
+ciRQPQmQKEw 24:28 Helsingør Kammerorkester i Vestervang Kirke
+6Lf-ZJRcRow 30:12 Lucia niaagaard 2015
+ldHdcoscWaQ 10:16 Halfdan Rasmussen Gaa stille og tyst
+lYASWJwfcaU 18:18 Den store port i Kiev
+3OrNhzpPqsA 21:49 superpee
+NX8YEGjs8QQ 5:39 Dagcenter Oasen
+7HQqIgmnL2A 6:14 heksejagt
+uqbZZWxW_HE 18:14 Nordskov Mølle
+yQV3LAsYwh4 7:02 Dronning Margretes parade march
+4ex2232jMus 4:42 signal gallop
+vfN2A5k85zw 4:39 Amerikansk latter polka
+x4-mnAejJDs 29:28 Marie skolens indvielse med talerne
+N4qVcBX4gWs 7:04 Marie skolen i Tønder indvies
+cA-8Cah5OEM 19:27 Bolsjefabrikken
+IgpekJuTuEg 16:06 Cykling Hornbæk
+us-sKDuKRyI 16:50 Honbæk krocket
+DjbXo7XvOjY 9:09 Forsvarets dag 2015
+FIdMeSfBQv8 31:22 Tikøb og Gurre Kirkes ungdomskor
+NN0-9gmDnKI 14:07 Helsingør Musikskoles dag
+7wRO04WGQ2Y 9:07 søredning 2015
+YOydksJS32Q 17:14 Hammermøllens pinsefest 2015
+WUHIqK9uC8o 9:42 Galleri Esrum
+z-SQCkaRnP4 27:47 slægtsforskning
+rg5zRUebwQE 10:49 Serenata Invano
+z4SfcFcqsXQ 28:31 Uddrag fra  koncert på Kultur Værftet med Julie Berthelsen
+IQWh0C3NRdw 29:24 Lyngby Taarbæk Harmoniorkester
+Uyi6wW26BZg 28:48 ENGLANDSBÅDEN
+GC4i1cH7Jzs 20:08 Uddrag fra Tikøb Kirkes ungdomskor
+I-u9p-4hjAc 16:07 Luzia kocert på Nivaagaard Malerisamling
+cLqV_N1zwWo 21:39 De Levende Sthene
+J0-GNTvCQbE 14:13 Nordsjællandske Keramikere
+dg25l8mBqEI 45:14 Tiden der forsvandt
+KuRqMPDRHwY 15:07 Sange fra Folk og Røvere i Kartemomme By
+lFRJK_3DYNA 17:59 Marienlyst Slots Venner ,besøg fra St Petersborg
+8Pez-ZXaEO0 17:43 Pragtvaser indvis af Prins Henrik
+Ok9E19PogGM 16:00 Kongevasen
+WR9kITIhEdU 24:56 Humlebæk Historiske Marked
+oe5_NRhIvXY 27:00 Tikøb Skoles klasser synger
+xXpZH-k0DQA 9:52 Tikøb Skole Søren Voller sidste skoledag
+CT_-vXXdr84 19:56 Afsløring af værftarbejder figurer
+Kez9Lro5KKo 28:34 Musikskolens dag i Helsingør
+PbG50kQn4cA 29:03 Sct  Jakobs Kapel og Gurre Slotsruin 500 års dag
+wKxu25w7iDA 13:33 A Little Jazz Mass af Bob Chikott
+m9nFrMSb7iI 24:07 Den Kongelige Livgarde Rex tur 2014
+tzmqxTNOoug 7:24 Besame Muchio
+UQDhEDmwN2M 28:52 Nivaagaard Malerisamlings Lucia
+kI3vZihJJqQ 50:14 Tønder Grundskole Revy 2013
+nv3ZbH0WKRI 9:26 Mozart Eine Kleine Nachtmusik
+BU8HOwaRfdg 24:37 Joseph Hayden Skolemesteren
+avOe73AqZEI 22:55 Hayden koncert for klaver og orkester
+TxQFWgj2E7g 14:57 Berlin og filmbyen Babelsberg
+KLwkSKJwThs 7:13 Den Gamle By i Aarhus
+qw9vLy_d-vg 12:39 Parkbanen i Helsingør
+vc1f_1W1z9M 25:50 Uummannaq
+76XWVGue2To 5:02 Midsommer på Maihaugen
+t3sCd5UUnIo 28:19 Gangrobot i Hornbæk
+7QxzHGsRtQk 6:54 trædrejer drejer en hat
+CEoo9seA6ro 24:07 Fuglemaler Leif Rydeng 100 aar
+-cylseGUWqg 3:47 Lars-Erik Larsson Romance
+I7O9b0r5Qzc 23:57 Janacek suite
+AaaYx7gz0lM 16:58 Bach violin koncert i a mol
+ZNqPdwe8aOw 28:24 Tønder Grundskole DEN STORE REJSE
+9Tntu7UdCHQ 23:29 Hamlet Aktivitetcentret   Helsingør
+3RYWpzH2XBE 25:16 Skomager af i dag
+q27GK4u30os 18:21 Prostata og hvad er det.
+XXNDWDOs2D8 21:49 Umbrien med Perugia og Assisi
+AxI5EJtPyd0 26:59 Tikøb Skole 100 år en skoledag som dengang
+u77ZbALqltg 24:54 Børns voksenvenner Helsingør
+J7r4Svwpgr0 14:31 Danmarks ældste Konditori lukker.
+2wxt6OlE0Uk 13:26 Lucia på Vapnagaard
+SbFh1okNb58 6:34 Garder hjemsendelse Høvelte 2012
+cWqRtyY-Trc 22:26 Blå March 2012 i Helsingør.
+-5iTz6kIRY0 24:26 mozart klarinet koncert
+QxVrOaADccg 28:05 Skt. Petersborg Musikkonservatorium spiller på Marienlyst Slot
+i-mvQZ7c7pg 22:26 Dagcenter Oasen
+wI21Pnjz74s 23:39 Kirkeskibs fest i Hornbæk 2012
+6V0nkdZu0pg 9:53 Gdansk et besøg i byen
+p3oxeM7PmD4 28:22 Marienlyst Slots venner
+VogPcwwMUAI 21:22 HORNBÆKLØB 2012 en video
+0a6-Qtz0wA8 14:47 Hamborg een dags turist og fodbold
+uWt4WdRpfIs 12:13 Alster sejltur med veteran damper
+3kEGZYSugxc 14:21 Nordkyst Hostler spiller
+ZqndSY22oyk 14:41 Tour de Future i Helsingør
+nlOBheT4Q-k 13:18 pigegarden fredagsmarch
+T_a5xAlm1IA 11:42 berlin turist i 3 dage
+7t8yc91HWvU 15:14 Marienlyst Slot
+x5xd_Ca2xHc 17:08 Ture Rangström Divertimento
+Que3CkIrkN0 15:14 telemann Concert for  to klarinetter og strygere
+-OFSyWi2-1c 15:38 Bartok folkedanse
+pW0rr5qBIY8 15:05 Berlin halvmarathon
+4PlXsjOdCW0 10:44 MIKROBRYGGERIET WIIBROE
+X6CgMjFEweM 6:43 Tur til Gozo
+4LHkTSc6xZk 4:38 Malta film byen
+yu37QNsmZsE 9:45 malta
+F-5nStUzGIo 14:22 guldhorn
+U5Vv5SrYE4o 10:48 Malta og Comino
+w6HjW-FMYS4 6:46 Helsingør Kammerorkester 2
+n2VV5cLAnWA 13:11 Helsingør Kammerorkester Orgelkoncert del 1
+2uJXnxELxF0 13:27 foråret fra vivaldi de 4 årstider
 
 AofJfWEhesg 0:10 PBS Bumper 1977
 AofJfWEhesg 0:10 PBS Bumper 1977
@@ -5242,6 +5416,7 @@ voy1pYCw9v8 3:01 Dal ciel venne messo novello, laude instrumental
 VdO-7_NRa-g 42:36 Christmas Music of the 15th and 16th Centuries
 cKMu6b2Ls8s 51:29 Christmas at the Time of Praetorius
 S3JRSz4KGmk 26:09 Bach | Christmas oratorio BWV 248 - Part 1
+DV5hkE_D_q4 14:54 Corelli: Christmas Concerto complete, Opus 6 No. 8. Voices of Music, original instruments, 8K video
 J5gZ6h2azc8 37:37 Jakub Jan Ryba | Czech Christmas mass - Česká mše vánoční - Ensemble Inégal
 eW79ejQcrDo 51:44 A Baroque Christmas
 r7adETaOYiQ 1:30 The Boar's Head Carol
@@ -5311,6 +5486,6 @@ LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
   gjsetOXNQHQ 2:06 The Muppet Show - 409: Beverly Sills - UK Spot: “Muppera” (1979)
   Z890lqjBkq4 8:19-9:11
 `],videos$1=`
-`,channelDebug=Object.freeze(Object.defineProperty({__proto__:null,episodes,videos:videos$1},Symbol.toStringTag,{value:"Module"}));function isEmpty(s){return s.length===0}__name(isEmpty,"isEmpty");function map(f){return array=>array.map(f)}__name(map,"map");function trim(s){return s.trim()}__name(trim,"trim");function episode(videos2){return{videos:videos2}}__name(episode,"episode");function duration({start,end}){return end-start}__name(duration,"duration");function videoDuration(video){return video.segments.map(duration).reduce(add$3,0)}__name(videoDuration,"videoDuration");const add$3=__name((a,b)=>a+b,"add$3");function allEpisodes({videos:videos2,episodes:episodes2}){return[...parseEpisodes(episodes2),...parseVideos(videos2).map(singleVideoEpisode)]}__name(allEpisodes,"allEpisodes");const parseEpisodes=map(raw=>episode(parseVideos(raw)));function parseVideos(raw){return raw.split(/\n+/).map(trim).filter(not(isComment)).filter(not(isEmpty)).map(line=>split(/ +/,line,3)).flatMap(([videoId,rawTimeWindow,title])=>rawTimeWindow==="SHORTS"?[]:[{videoId,segments:parseSegments(rawTimeWindow),title}])}__name(parseVideos,"parseVideos");function singleVideoEpisode(v2){return episode([v2])}__name(singleVideoEpisode,"singleVideoEpisode");function entireVideo(duration2){return{start:0,end:duration2}}__name(entireVideo,"entireVideo");function range(start,end){return{start,end}}__name(range,"range");function isComment(line){return line.startsWith("#")}__name(isComment,"isComment");function parseSegments(raw){return raw.split(",").map(parseSegment)}__name(parseSegments,"parseSegments");function parseSegment(raw){const parts=raw.split("-");return parts.length===1?entireVideo(parseDuration(parts[0])):range(parseDuration(parts[0]),parseDuration(parts[1]))}__name(parseSegment,"parseSegment");function parseDuration(raw){const multipliers=[1,60,3600,86400],parts=raw.split(":").map(n2=>parseInt(n2,10)).reverse();return zip(parts,multipliers).map(([p2,m2])=>p2*m2).reduce(add$2,0)}__name(parseDuration,"parseDuration");function split(delim,s,limit=1/0){if(typeof delim=="string"&&delim.length===0)throw"split(): empty delimiter not supported";const parts=[];let rest=s;for(;parts.length<limit-1&&rest.length>0;){const match=rest.match(delim);if(match==null)break;parts.push(rest.slice(0,match.index)),rest=rest.slice((match.index??0)+match[0].length)}return parts.push(rest),parts}__name(split,"split");function zip(a,b){const ret=[];for(let i=0;i<a.length&&i<b.length;i++){const tuple=[a[i],b[i]];ret.push(tuple)}return ret}__name(zip,"zip");function add$2(a,b){return a+b}__name(add$2,"add$2");const debug=window.ENVIRONMENT==="development",channelData=[["Channel 1","shuffle",channel1],["Channel 2","shuffle",channel2],["Channel 3","shuffle",channel3],["Channel 4","shuffle",channel4],["🎄","shuffle",christmas],debug?["🐞","shuffle",channelDebug]:null,debug?["✂️","test-segment-boundaries",channel1]:null],channels$1=channelData.filter(nonNull).map(([name,algorithm,module])=>[name,algorithm,allEpisodes(module)]);function nonNull(x2){return x2!=null}__name(nonNull,"nonNull");function useInterval(cb2,ms){const intervalRef=reactExports.useRef(),callbackRef=reactExports.useRef();callbackRef.current=cb2,reactExports.useEffect(()=>(intervalRef.current=setInterval(()=>callbackRef.current?.(),ms),()=>clearInterval(intervalRef.current)),[ms])}__name(useInterval,"useInterval");function useNow(){const[now,setNow]=reactExports.useState(+new Date);return useInterval(()=>setNow(+new Date),250),now}__name(useNow,"useNow");function nothing(nextVideoId="",nextVideoStartTimestamp=0){return{type:"nothing",nextVideoId,nextVideoStartTimestamp}}__name(nothing,"nothing");const SECONDS_BETWEEN_VIDEOS=2;function reconcile(broadcast,player){const{state:currentState,videoId:currentVideoId,time:currentTime}=player;if(broadcast.type==="nothing")switch(currentState){case State.ENDED:case State.CUED:case State.UNSTARTED:return broadcast.nextVideoId?currentVideoId!==broadcast.nextVideoId?[{type:"cue",videoId:broadcast.nextVideoId,timestamp:broadcast.nextVideoStartTimestamp}]:[{type:"seek",timestamp:broadcast.nextVideoStartTimestamp},{type:"play"}]:[];default:return[]}else{if(currentState===State.BUFFERING)return[];const{videoId:targetVideoId,currentTime:targetTime}=broadcast;if(currentVideoId!==targetVideoId)return[{type:"cue",videoId:targetVideoId,timestamp:targetTime<SECONDS_BETWEEN_VIDEOS?0:targetTime}];{const cmds=[];switch(currentState){case State.PAUSED:case State.CUED:case State.UNSTARTED:currentVideoId&&cmds.push({type:"play"})}return currentTime&&delta(currentTime,targetTime)>=SECONDS_BETWEEN_VIDEOS&&(console.debug("time is off; queueing seek command",currentTime,targetTime),cmds.push({type:"seek",timestamp:targetTime})),cmds}}}__name(reconcile,"reconcile");function delta(a,b){return Math.abs(a-b)}__name(delta,"delta");let nonce=0;function useRerender(){const[,setNonce]=reactExports.useState(0);return()=>setNonce(++nonce)}__name(useRerender,"useRerender");function useYouTubePlayer(id2){const rerender=useRerender(),playerRef=reactExports.useRef(nullPlayer());return reactExports.useEffect(()=>{createYouTubePlayer(id2).then(player=>{playerRef.current=player,player.addEventListener("onStateChange",event=>{console.debug(debugTimestamp(),"player onStateChange",stateString(event.data),videoIdFromUrl(player.getVideoUrl())),rerender()}),rerender()})},[id2]),playerRef.current}__name(useYouTubePlayer,"useYouTubePlayer");const bookmarklet="javascript:(function()%7Bfunction%20last(e)%7Breturn%20e%5Be.length-1%5D%7Dfunction%20scrapeVideos()%7Breturn%2F%5C%2Fwatch%5C%3F%7C%5C%2Fembed%5C%2F%2F.test(window.location)%3F%5B%2Fv%3D(.%7B11%7D)%2F.exec(window.location)%3F.%5B1%5D%3F%3F%2Fembed%5C%2F(.%7B11%7D)%2F.exec(window.location)%3F.%5B1%5D%2Clast(document.querySelectorAll(%22.ytp-time-duration%22)).innerText.trim()%2Cdocument.querySelector(%22a.ytp-title-link%22).innerText.split(%22%5Cn%22)%5B0%5D.trim()%5D.join(%22%20%22)%3A%2F%5C%2Fplaylist%5C%3F%2F.test(window.location)%3F%5B...document.querySelectorAll(%22ytd-playlist-video-renderer%22)%5D.map((e%3D%3E%7Bconst%20t%3De.querySelector(%22a%23video-title%22)%3F.href%3F%3F%22%22%2Cr%3D%2Fv%3D(.%7B11%7D)%2F.exec(t)%3F.%5B1%5D%2Co%3De.querySelector(%22span%23text.ytd-thumbnail-overlay-time-status-renderer%22)%3F.innerText.trim()%2Cn%3De.querySelector(%22%23video-title%22)%3F.innerText%3Breturn%60%24%7Br%7D%20%24%7Bo%7D%20%24%7Bn%7D%60%7D)).join(%22%5Cn%22)%3A%5B...document.querySelectorAll(%22ytd-rich-item-renderer%22)%5D.map((e%3D%3E%7Bconst%20t%3De.querySelector(%22a.ytLockupViewModelContentImage%22)%3F.href%3F%3F%22%22%2Cr%3D%2Fv%3D(.%7B11%7D)%2F.exec(t)%3F.%5B1%5D%2Co%3De.querySelector(%22.ytBadgeShapeText%22)%3F.innerText.trim()%2Cn%3De.querySelector(%22.ytLockupMetadataViewModelTitle%22)%3F.innerText%3Breturn%60%24%7Br%7D%20%24%7Bo%7D%20%24%7Bn%7D%60%7D)).join(%22%5Cn%22)%7Dconst%20videos%3DscrapeVideos()%3Bconsole.log(videos)%2Cnavigator.clipboard.writeText(videos).catch((e%3D%3Econsole.error(e)))%3B%7D)()";function viewModel({broadcast,player}){const hms=__name(seconds=>hoursMinutesSeconds(seconds,2),"hms");return{videoLink:broadcast.type==="video"?{text:broadcast.videoTitle,href:"https://youtube.com/watch?v="+broadcast.videoId}:null,actual:{video:player.videoId??"",playerState:stateString(player.state),currentTime:player.time!=null?hms(player.time):"-"},scheduled:{video:broadcast.type==="video"?broadcast.videoId:"-",playerState:broadcast.type,currentTime:broadcast.type==="video"?hms(broadcast.currentTime):"-"},secondsBehindSchedule:broadcast.type==="video"&&player.time!=null?(broadcast.currentTime-player.time).toFixed(2):"-",timeRemainingInVideo:player.duration!=null&&player.time!=null?hms(player.duration-player.time):"-"}}__name(viewModel,"viewModel");function VideoInfo(props){const{isOpen,broadcast,player,onClose}=props,vm=viewModel({broadcast,player}),closeButtonRef=reactExports.useRef(null);return reactExports.useEffect(()=>{if(isOpen){closeButtonRef.current?.focus();const closeOnEscape=__name(event=>{event.key==="Escape"&&onClose()},"closeOnEscape");return document.addEventListener("keydown",closeOnEscape),()=>document.removeEventListener("keydown",closeOnEscape)}},[isOpen]),reactExports.createElement("div",{role:"dialog",className:"info-pane"},reactExports.createElement("button",{ref:closeButtonRef,className:"close-button","aria-label":"close info pane",onClick:onClose},"close"),reactExports.createElement("h1",null,"Culture Machine"),reactExports.createElement("p",null,"Made by ",reactExports.createElement("a",{href:"https://github.com/benchristel"},"Ben Christel"),"."," ",reactExports.createElement("a",{href:"https://github.com/benchristel/tv"},"Source code here"),". Some rights reserved. See the"," ",reactExports.createElement("a",{href:"https://www.gnu.org/licenses/gpl-3.0.en.html"},"license"),"."),reactExports.createElement("p",null,reactExports.createElement("span",{dangerouslySetInnerHTML:{__html:`
+`,channelDebug=Object.freeze(Object.defineProperty({__proto__:null,episodes,videos:videos$1},Symbol.toStringTag,{value:"Module"}));function isEmpty(s){return s.length===0}__name(isEmpty,"isEmpty");function map(f){return array=>array.map(f)}__name(map,"map");function trim(s){return s.trim()}__name(trim,"trim");function episode(videos2){return{videos:videos2}}__name(episode,"episode");function duration({start,end}){return end-start}__name(duration,"duration");function videoDuration(video){return video.segments.map(duration).reduce(add$3,0)}__name(videoDuration,"videoDuration");const add$3=__name((a,b)=>a+b,"add$3");function allEpisodes({videos:videos2,episodes:episodes2}){return[...parseEpisodes(episodes2),...parseVideos(videos2).map(singleVideoEpisode)]}__name(allEpisodes,"allEpisodes");const parseEpisodes=map(raw=>episode(parseVideos(raw)));function parseVideos(raw){return raw.split(/\n+/).map(trim).filter(not(isComment)).filter(not(isEmpty)).map(line=>split(/ +/,line,3)).flatMap(([videoId,rawTimeWindow,title])=>rawTimeWindow==="SHORTS"?[]:[{videoId,segments:parseSegments(rawTimeWindow),title}])}__name(parseVideos,"parseVideos");function singleVideoEpisode(v2){return episode([v2])}__name(singleVideoEpisode,"singleVideoEpisode");function entireVideo(duration2){return{start:0,end:duration2}}__name(entireVideo,"entireVideo");function range(start,end){return{start,end}}__name(range,"range");function isComment(line){return line.startsWith("#")}__name(isComment,"isComment");function parseSegments(raw){return raw.split(",").map(parseSegment)}__name(parseSegments,"parseSegments");function parseSegment(raw){const parts=raw.split("-");return parts.length===1?entireVideo(parseDuration(parts[0])):range(parseDuration(parts[0]),parseDuration(parts[1]))}__name(parseSegment,"parseSegment");function parseDuration(raw){const multipliers=[1,60,3600,86400],parts=raw.split(":").map(n2=>parseInt(n2,10)).reverse();return zip(parts,multipliers).map(([p2,m2])=>p2*m2).reduce(add$2,0)}__name(parseDuration,"parseDuration");function split(delim,s,limit=1/0){if(typeof delim=="string"&&delim.length===0)throw"split(): empty delimiter not supported";const parts=[];let rest=s;for(;parts.length<limit-1&&rest.length>0;){const match=rest.match(delim);if(match==null)break;parts.push(rest.slice(0,match.index)),rest=rest.slice((match.index??0)+match[0].length)}return parts.push(rest),parts}__name(split,"split");function zip(a,b){const ret=[];for(let i=0;i<a.length&&i<b.length;i++){const tuple=[a[i],b[i]];ret.push(tuple)}return ret}__name(zip,"zip");function add$2(a,b){return a+b}__name(add$2,"add$2");const debug=window.ENVIRONMENT==="development",channelData=[["Channel 1","shuffle",channel1],["Channel 2","shuffle",channel2],["Channel 3","shuffle",channel3],["Channel 4","shuffle",channel4],["🎄","shuffle",christmas],debug?["🐞","shuffle",channelDebug]:null,debug?["✂️","test-segment-boundaries",channel1]:null],channels$1=channelData.filter(nonNull).map(([name,algorithm,module])=>[name,algorithm,allEpisodes(module)]);function nonNull(x2){return x2!=null}__name(nonNull,"nonNull");function useInterval(cb2,ms){const intervalRef=reactExports.useRef(),callbackRef=reactExports.useRef();callbackRef.current=cb2,reactExports.useEffect(()=>(intervalRef.current=setInterval(()=>callbackRef.current?.(),ms),()=>clearInterval(intervalRef.current)),[ms])}__name(useInterval,"useInterval");function useNow(){const[now,setNow]=reactExports.useState(+new Date);return useInterval(()=>setNow(+new Date),250),now}__name(useNow,"useNow");function nothing(nextVideoId="",nextVideoStartTimestamp=0){return{type:"nothing",nextVideoId,nextVideoStartTimestamp}}__name(nothing,"nothing");const SECONDS_BETWEEN_VIDEOS=2;function reconcile(broadcast,player){const{state:currentState,videoId:currentVideoId,time:currentTime}=player;if(broadcast.type==="nothing")switch(currentState){case State.ENDED:case State.CUED:case State.UNSTARTED:return broadcast.nextVideoId?currentVideoId!==broadcast.nextVideoId?[{type:"cue",videoId:broadcast.nextVideoId,timestamp:broadcast.nextVideoStartTimestamp}]:[{type:"seek",timestamp:broadcast.nextVideoStartTimestamp},{type:"play"}]:[];default:return[]}else{if(currentState===State.BUFFERING)return[];const{videoId:targetVideoId,currentTime:targetTime}=broadcast;if(currentVideoId!==targetVideoId)return[{type:"cue",videoId:targetVideoId,timestamp:targetTime<SECONDS_BETWEEN_VIDEOS?0:targetTime}];{const cmds=[];switch(currentState){case State.PAUSED:case State.CUED:case State.UNSTARTED:currentVideoId&&cmds.push({type:"play"})}return currentTime&&delta(currentTime,targetTime)>=SECONDS_BETWEEN_VIDEOS&&(console.debug("time is off; queueing seek command",currentTime,targetTime),cmds.push({type:"seek",timestamp:targetTime})),cmds}}}__name(reconcile,"reconcile");function delta(a,b){return Math.abs(a-b)}__name(delta,"delta");let nonce=0;function useRerender(){const[,setNonce]=reactExports.useState(0);return()=>setNonce(++nonce)}__name(useRerender,"useRerender");function useYouTubePlayer(id2){const rerender=useRerender(),playerRef=reactExports.useRef(nullPlayer());return reactExports.useEffect(()=>{createYouTubePlayer(id2).then(player=>{playerRef.current=player,player.addEventListener("onStateChange",event=>{console.debug(debugTimestamp(),"player onStateChange",stateString(event.data),videoIdFromUrl(player.getVideoUrl())),rerender()}),rerender()})},[id2]),playerRef.current}__name(useYouTubePlayer,"useYouTubePlayer");const bookmarklet="javascript:(function()%7Bconst%20version%3D1%3Bfunction%20last(e)%7Breturn%20e%5Be.length-1%5D%7Dfunction%20scrapeVideos()%7Breturn%2F%5C%2Fwatch%5C%3F%7C%5C%2Fembed%5C%2F%2F.test(window.location)%3F%5B%2Fv%3D(.%7B11%7D)%2F.exec(window.location)%3F.%5B1%5D%3F%3F%2Fembed%5C%2F(.%7B11%7D)%2F.exec(window.location)%3F.%5B1%5D%2Clast(document.querySelectorAll(%22.ytp-time-duration%22)).innerText.trim()%2Cdocument.querySelector(%22a.ytp-title-link%22).innerText.split(%22%5Cn%22)%5B0%5D.trim()%5D.join(%22%20%22)%3A%2F%5C%2Fplaylist%5C%3F%2F.test(window.location)%3F%5B...document.querySelectorAll(%22yt-lockup-view-model%22)%5D.map((e%3D%3E%7Bconst%20t%3De.querySelector(%22a.ytLockupMetadataViewModelTitle%22)%3F.href%3F%3F%22%22%2Co%3D%2Fv%3D(.%7B11%7D)%2F.exec(t)%3F.%5B1%5D%2Cr%3De.querySelector(%22div.ytBadgeShapeText%22)%3F.innerText.trim()%2Cn%3De.querySelector(%22a.ytLockupMetadataViewModelTitle%22)%3F.innerText%3Breturn%60%24%7Bo%7D%20%24%7Br%7D%20%24%7Bn%7D%60%7D)).join(%22%5Cn%22)%3A%5B...document.querySelectorAll(%22ytd-rich-item-renderer%22)%5D.map((e%3D%3E%7Bconst%20t%3De.querySelector(%22a.ytLockupViewModelContentImage%22)%3F.href%3F%3F%22%22%2Co%3D%2Fv%3D(.%7B11%7D)%2F.exec(t)%3F.%5B1%5D%2Cr%3De.querySelector(%22.ytBadgeShapeText%22)%3F.innerText.trim()%2Cn%3De.querySelector(%22.ytLockupMetadataViewModelTitle%22)%3F.innerText%3Breturn%60%24%7Bo%7D%20%24%7Br%7D%20%24%7Bn%7D%60%7D)).join(%22%5Cn%22)%7Dconst%20videos%3DscrapeVideos()%3Bconsole.log(videos)%2Cnavigator.clipboard.writeText(videos).catch((e%3D%3Econsole.error(e)))%3B%7D)()";function viewModel({broadcast,player}){const hms=__name(seconds=>hoursMinutesSeconds(seconds,2),"hms");return{videoLink:broadcast.type==="video"?{text:broadcast.videoTitle,href:"https://youtube.com/watch?v="+broadcast.videoId}:null,actual:{video:player.videoId??"",playerState:stateString(player.state),currentTime:player.time!=null?hms(player.time):"-"},scheduled:{video:broadcast.type==="video"?broadcast.videoId:"-",playerState:broadcast.type,currentTime:broadcast.type==="video"?hms(broadcast.currentTime):"-"},secondsBehindSchedule:broadcast.type==="video"&&player.time!=null?(broadcast.currentTime-player.time).toFixed(2):"-",timeRemainingInVideo:player.duration!=null&&player.time!=null?hms(player.duration-player.time):"-"}}__name(viewModel,"viewModel");function VideoInfo(props){const{isOpen,broadcast,player,onClose}=props,vm=viewModel({broadcast,player}),closeButtonRef=reactExports.useRef(null);return reactExports.useEffect(()=>{if(isOpen){closeButtonRef.current?.focus();const closeOnEscape=__name(event=>{event.key==="Escape"&&onClose()},"closeOnEscape");return document.addEventListener("keydown",closeOnEscape),()=>document.removeEventListener("keydown",closeOnEscape)}},[isOpen]),reactExports.createElement("div",{role:"dialog",className:"info-pane"},reactExports.createElement("button",{ref:closeButtonRef,className:"close-button","aria-label":"close info pane",onClick:onClose},"close"),reactExports.createElement("h1",null,"Culture Machine"),reactExports.createElement("p",null,"Made by ",reactExports.createElement("a",{href:"https://github.com/benchristel"},"Ben Christel"),"."," ",reactExports.createElement("a",{href:"https://github.com/benchristel/tv"},"Source code here"),". Some rights reserved. See the"," ",reactExports.createElement("a",{href:"https://www.gnu.org/licenses/gpl-3.0.en.html"},"license"),"."),reactExports.createElement("p",null,reactExports.createElement("span",{dangerouslySetInnerHTML:{__html:`
           <a href="${bookmarklet}">Bookmarklet to scrape videos from YouTube</a>
         `}})," ","(",reactExports.createElement("a",{href:"https://github.com/benchristel/tv#what-is-a-bookmarklet"},"What's this?"),")"),reactExports.createElement("p",null,reactExports.createElement("a",{href:"https://github.com/benchristel/tv#hiding-the-annoying-youtube-player-ui"},"How to hide the annoying YouTube player UI")),reactExports.createElement("p",null,"Part of ",reactExports.createElement("a",{href:"https://waywardweb.org"},"The Wayward Webring"),"!"," ",reactExports.createElement("a",{href:"https://waywardweb.org/sites/tv.benchristel.com/previous"},"Previous site")," ","·"," ",reactExports.createElement("a",{href:"https://waywardweb.org/sites/tv.benchristel.com/next"},"Next site")),reactExports.createElement("hr",null),reactExports.createElement("h2",null,"Video Info"),reactExports.createElement("p",{style:{whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis"}},"Now playing:"," ",vm.videoLink?reactExports.createElement("a",{href:vm.videoLink.href,title:vm.videoLink.text},vm.videoLink.text):"-"),reactExports.createElement("table",null,reactExports.createElement("thead",null,reactExports.createElement("tr",null,reactExports.createElement("td",null),reactExports.createElement("th",{scope:"col"},"actual"),reactExports.createElement("th",{scope:"col"},"scheduled"))),reactExports.createElement("tbody",null,reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"row"},"video"),reactExports.createElement("td",null,vm.actual.video),reactExports.createElement("td",null,vm.scheduled.video)),reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"row"},"player state"),reactExports.createElement("td",null,vm.actual.playerState),reactExports.createElement("td",null,vm.scheduled.playerState)),reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"row"},"current time"),reactExports.createElement("td",null,vm.actual.currentTime),reactExports.createElement("td",null,vm.scheduled.currentTime)))),reactExports.createElement("p",null,"Seconds behind schedule: ",vm.secondsBehindSchedule),reactExports.createElement("p",null,"Time remaining in video: ",vm.timeRemainingInVideo),reactExports.createElement("h2",null,"Channel Stats"),reactExports.createElement("table",null,reactExports.createElement("thead",null,reactExports.createElement("tr",null,reactExports.createElement("th",{scope:"col"},"name"),reactExports.createElement("th",{scope:"col"},"duration"))),reactExports.createElement("tbody",null,props.channels.map(channel=>reactExports.createElement(ChannelTableRow,{channel})))),reactExports.createElement("div",{style:{height:60}}))}__name(VideoInfo,"VideoInfo");function ChannelTableRow(props){return reactExports.createElement("tr",null,reactExports.createElement("td",null,props.channel.getName()),reactExports.createElement("td",null,durationAsWords(props.channel.getTotalDuration())))}__name(ChannelTableRow,"ChannelTableRow");class PlayerCommander extends reactExports.Component{static{__name(this,"PlayerCommander")}constructor(){super(...arguments),this.lastSeek=-1/0,this.lastVideoId=""}componentDidUpdate(){const{player,volume,commands,now}=this.props;player.setVolume(fromPerceivedVolume(volume)),commands.forEach(cmd=>{switch(cmd.type){case"play":player.playVideo();break;case"cue":this.lastVideoId!==cmd.videoId&&this.clearSeekCooldown(),this.seekCooldownElapsed(now)&&(this.lastSeek=now,player.cueVideoById(cmd.videoId,cmd.timestamp));break;case"seek":{this.seekCooldownElapsed(now)&&(this.lastSeek=now,player.seekTo(cmd.timestamp));break}default:console.error("unexpected video command type",cmd)}})}render(){return null}clearSeekCooldown(){this.lastSeek=-1/0}seekCooldownElapsed(nowMillis){return nowMillis-this.lastSeek>SECONDS_BETWEEN_VIDEOS*1e3}}function fromPerceivedVolume(perceivedVolume){return square(perceivedVolume/100)*100}__name(fromPerceivedVolume,"fromPerceivedVolume");function square(x2){return x2*x2}__name(square,"square");function status(player){return{state:player.getPlayerState(),videoId:videoIdFromUrl(player.getVideoUrl()),time:player.getCurrentTime(),duration:player.getDuration()}}__name(status,"status");function cache(maxSize,expensiveFallback){let values={};return key=>(key in values||(Object.keys(values).length===maxSize&&(values={}),values[key]=expensiveFallback(key)),values[key])}__name(cache,"cache");function cyrb128(str){let h1=1779033703,h2=3144134277,h3=1013904242,h4=2773480762,k=0;for(let i=0;i<str.length;i++)k=str.charCodeAt(i),h1=h2^Math.imul(h1^k,597399067),h2=h3^Math.imul(h2^k,2869860233),h3=h4^Math.imul(h3^k,951274213),h4=h1^Math.imul(h4^k,2716044179);return h1=Math.imul(h3^h1>>>18,597399067),h2=Math.imul(h4^h2>>>22,2869860233),h3=Math.imul(h1^h3>>>17,951274213),h4=Math.imul(h2^h4>>>19,2716044179),[(h1^h2^h3^h4)>>>0,(h2^h1)>>>0,(h3^h1)>>>0,(h4^h1)>>>0]}__name(cyrb128,"cyrb128");function sfc32(a,b,c,d){function rng(){a|=0,b|=0,c|=0,d|=0;var t2=(a+b|0)+d|0;return d=d+1|0,a=b^b>>>9,b=c+(c<<3)|0,c=c<<21|c>>>11,c=c+t2|0,(t2>>>0)/4294967296}__name(rng,"rng");for(let i=0;i<20;i++)rng();return rng}__name(sfc32,"sfc32");function randomIntInRange(low,high,rng){return low+Math.floor(rng()*(high+1-low))}__name(randomIntInRange,"randomIntInRange");function binarySearch(a,isLeftOfTarget){let firstPossible=-1,lastPossible=a.length-1;for(;firstPossible<lastPossible;){const testee=mid(firstPossible,lastPossible);isLeftOfTarget(a[testee])?firstPossible=testee:lastPossible=testee-1}return a[firstPossible]}__name(binarySearch,"binarySearch");function mid(left,right){return Math.ceil((left+right)/2)}__name(mid,"mid");const TIMEZONE_OFFSET=8*3600,SCHEDULE_GENERATION_PERIOD=24*3600;function ShuffledChannel(name,episodes2){const getSchedule=cache(1,ScheduleGenerator(episodes2));let totalDurationCache=null;return{getBroadcast,getTotalDuration,getName(){return name}};function getBroadcast(time){const seconds=time/1e3,secondsOfDay=(seconds-TIMEZONE_OFFSET)%SCHEDULE_GENERATION_PERIOD,dayBoundary=seconds-secondsOfDay,schedule=getSchedule(String(dayBoundary)),segment=binarySearch(schedule,seg=>seg.startSecondOfDay<=secondsOfDay);return segment?.type==="video"?{type:"video",videoId:segment.videoId,videoTitle:segment.videoTitle,currentTime:secondsOfDay-segment.startSecondOfDay+segment.startSecondOfVideo}:{type:"nothing",nextVideoId:segment?.nextVideoId??"",nextVideoStartTimestamp:segment?.nextVideoStartSecondOfVideo??0}}function getTotalDuration(){return totalDurationCache==null&&(totalDurationCache=episodes2.flatMap(videos).map(videoDuration).reduce(add$1,0)),totalDurationCache}}__name(ShuffledChannel,"ShuffledChannel");const ScheduleGenerator=__name(episodes2=>seed=>{if(isEmpty(episodes2))return[];episodes2=[...episodes2];const rng=sfc32(...cyrb128(seed));let totalDuration=0,schedule=[],i=0;for(;totalDuration<SCHEDULE_GENERATION_PERIOD;){i===episodes2.length&&(i=0),swap(episodes2,i,randomIntInRange(i,episodes2.length-1,rng));const episode2=episodes2[i++];for(const video of episode2.videos){schedule.push({type:"nothing",startSecondOfDay:totalDuration,nextVideoId:video.videoId,nextVideoStartSecondOfVideo:video.segments[0]?.start??0}),totalDuration+=SECONDS_BETWEEN_VIDEOS;for(const segment of video.segments)schedule.push({type:"video",videoId:video.videoId,videoTitle:video.title,startSecondOfDay:totalDuration,startSecondOfVideo:segment.start}),totalDuration+=duration(segment)}}return schedule},"ScheduleGenerator");function swap(array,i,k){const tmp=array[i];array[i]=array[k],array[k]=tmp}__name(swap,"swap");function add$1(a,b){return a+b}__name(add$1,"add$1");function videos(episode2){return episode2.videos}__name(videos,"videos");function SegmentBoundaryTestChannel(name,episodes2){const schedule=createSchedule(episodes2.flatMap(episode2=>episode2.videos)),scheduleDuration=schedule.map(s=>s.duration).reduce(add,0);return{getName,getBroadcast,getTotalDuration};function getName(){return name}function getBroadcast(time){const secondOfSchedule=time/1e3%scheduleDuration,segment=binarySearch(schedule,seg=>seg.startSecondOfSchedule<=secondOfSchedule);return segment?.type==="video"?{type:"video",videoId:segment.videoId,videoTitle:segment.videoTitle,currentTime:secondOfSchedule-segment.startSecondOfSchedule+segment.startSecondOfVideo}:{type:"nothing",nextVideoId:segment?.nextVideoId??"",nextVideoStartTimestamp:segment?.nextVideoStartSecondOfVideo??0}}function getTotalDuration(){return 0}}__name(SegmentBoundaryTestChannel,"SegmentBoundaryTestChannel");function createSchedule(videos2){let totalDuration=0,schedule=[];for(const video2 of videos2)if(video2.segments.length!==1){schedule.push({type:"nothing",nextVideoId:video2.videoId,nextVideoStartSecondOfVideo:3,duration:SECONDS_BETWEEN_VIDEOS,startSecondOfSchedule:totalDuration}),totalDuration+=SECONDS_BETWEEN_VIDEOS,schedule.push({type:"video",videoId:"TxJtoBAa2w0",videoTitle:"",duration:3,startSecondOfVideo:3,startSecondOfSchedule:totalDuration}),totalDuration+=3;for(let i=0;i<video2.segments.length;i++){const segment=video2.segments[i];if(i!==0){const slice=beginningOf(segment,7);schedule.push({type:"video",videoId:video2.videoId,videoTitle:video2.title,duration:slice.duration,startSecondOfVideo:slice.start,startSecondOfSchedule:totalDuration}),totalDuration+=slice.duration}if(i!==lastIndexOf(video2.segments)){const slice=endOf(segment,7);schedule.push({type:"video",videoId:video2.videoId,videoTitle:video2.title,duration:slice.duration,startSecondOfVideo:slice.start,startSecondOfSchedule:totalDuration}),totalDuration+=slice.duration}}}return schedule}__name(createSchedule,"createSchedule");function lastIndexOf(a){return a.length-1}__name(lastIndexOf,"lastIndexOf");function beginningOf(segment,seconds){return{start:segment.start,duration:seconds}}__name(beginningOf,"beginningOf");function endOf(segment,seconds){return{start:segment.end-seconds,duration:seconds}}__name(endOf,"endOf");const add=__name((a,b)=>a+b,"add");function VolumeControl(props){return reactExports.createElement("div",{className:"volume"},reactExports.createElement("div",{className:"volume-icon"}),reactExports.createElement("input",{"aria-label":"volume",type:"range",min:"0",max:"100",onChange:__name(e=>props.onChange(+e.target.value),"onChange"),value:props.volume}))}__name(VolumeControl,"VolumeControl");const channels=channels$1.map(([name,algorithm,episodes2])=>{switch(algorithm){case"shuffle":return ShuffledChannel(name,episodes2);case"test-segment-boundaries":return SegmentBoundaryTestChannel(name,episodes2)}});function App(){const[userRequestedPlayback,setUserRequestedPlayback]=useLatch(),[infoPaneOpen,setInfoPaneOpen]=reactExports.useState(!1),[channel,setChannel]=reactExports.useState(channels[0]),[volume,setVolume]=reactExports.useState(100),now=useNow(),broadcast=userRequestedPlayback?channel.getBroadcast(now):nothing(),hoverTitle=broadcast.type==="video"?broadcast.videoTitle:"",player=debuggingDecorator(useYouTubePlayer("player-container")),playerStatus=status(player),playerState=playerStatus.state,hideVideo=playerState!==State.PLAYING,playerCommands=reconcile(broadcast,playerStatus),infoButtonRef=reactExports.useRef(null),playerRef=reactExports.useRef(null),closeInfoPane=reactExports.useCallback(()=>{setInfoPaneOpen(!1),infoButtonRef.current?.focus()},[]),openInfoPane=reactExports.useCallback(()=>{setInfoPaneOpen(!0)},[]),fullscreen=reactExports.useCallback(()=>{playerRef.current?.querySelector("iframe")?.requestFullscreen()},[]);return reactExports.createElement(Layout,{effects:reactExports.createElement(PlayerCommander,{player,commands:playerCommands,volume,now}),screen:reactExports.createElement("div",{className:infoPaneOpen?"info-pane-open":""},reactExports.createElement("div",{className:"player-assembly",title:hoverTitle,onDoubleClick:fullscreen,ref:playerRef},reactExports.createElement("div",{id:"player-container"}),hideVideo&&reactExports.createElement("div",{className:"black-screen"},reactExports.createElement(PlayerStateView,{code:playerState,channel})),!userRequestedPlayback&&reactExports.createElement(PlayButtonOverlay,{onClick:setUserRequestedPlayback})),reactExports.createElement(VideoInfo,{isOpen:infoPaneOpen,player:playerStatus,broadcast,channels,onClose:closeInfoPane}),reactExports.createElement("div",{className:"info-pane-close-overlay","aria-hidden":!0,onClick:closeInfoPane})),controlPanel:reactExports.createElement(reactExports.Fragment,null,reactExports.createElement(ChannelSwitcher,{channels,onChannelSelected:__name(ch2=>{setChannel(ch2),setUserRequestedPlayback()},"onChannelSelected")}),reactExports.createElement(VolumeControl,{volume,onChange:setVolume}),reactExports.createElement("button",{className:infoPaneOpen?"info-button info-button-info-pane-open":"info-button",onClick:__name(()=>{(infoPaneOpen?closeInfoPane:openInfoPane)()},"onClick"),ref:infoButtonRef},"Info"))})}__name(App,"App");function Layout(props){return reactExports.createElement("div",{className:"App"},reactExports.createElement("div",{className:"bezel"},reactExports.createElement("div",{className:"screen"},props.screen),reactExports.createElement("div",{style:{height:"12px"}}),reactExports.createElement("div",{className:"controls"},props.controlPanel),props.effects))}__name(Layout,"Layout");function PlayButtonOverlay(props){return reactExports.createElement("button",{id:"start",onClick:props.onClick},"▸ Play")}__name(PlayButtonOverlay,"PlayButtonOverlay");function TestResults(){const[message,setMessage]=reactExports.useState("");return reactExports.useEffect(()=>{runTests(getAllTests()).then(formatTestResultsAsText).then(setMessage).catch(e=>setMessage(e.message))},[]),/fail/i.test(message)?reactExports.createElement("div",{className:"TestResults"},reactExports.createElement("code",null,reactExports.createElement("pre",null,message))):null}__name(TestResults,"TestResults");reactDomExports.render(reactExports.createElement(App,null),document.getElementById("app"));reactDomExports.render(reactExports.createElement(TestResults,null),document.getElementById("test-results"));
