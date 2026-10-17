@@ -4,6 +4,7 @@ import * as channel3 from "./channel3"
 import * as channel4 from "./channel4"
 import * as christmas from "./channelChristmas"
 import * as channelDebug from "./channelDebug";
+import * as channelTestSegments from "./channelTestSegments"
 import type { Episode } from "../video";
 import { allEpisodes } from "./parser";
 import { ChannelModule } from "./types"
@@ -23,7 +24,7 @@ const channelData: Array<[string, BroadcastAlgorithm, ChannelModule] | null> = [
   ["Channel 4", "shuffle", channel4],
   ["🎄", "shuffle", christmas],
   debug ? ["🐞", "shuffle", channelDebug] : null,
-  debug ? ["✂️", "test-segment-boundaries", channel1] : null,
+  debug ? ["✂️", "test-segment-boundaries", channelTestSegments] : null,
 ]
 
 export const channels: Array<[string, BroadcastAlgorithm, Episode[]]>
