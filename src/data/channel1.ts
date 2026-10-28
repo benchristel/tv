@@ -5146,7 +5146,6 @@ DMA_Mj-yxjw 2:13 Eastern Coyotes, Mt Tom, Mass.
 8W-COVkA8pU 7:07 Nate from Lowell
 
 # 4mtm7MpU2QI 8:12 Mister Rogers and Officer Clemmons Cool Their Feet in a Pool | Mister Rogers' Neighborhood
-CpB18kuwMuA 28:31 Look and Listen | Full Episode | Mister Rogers' Neighborhood
 dNA_GyeXMwU 11:55 A Visit with Koko the Gorilla | Mister Rogers' Neighborhood
 # TCO23p23cU4 6:40 Playing Basketball with Suzie McConnell | Mister Rogers' Neighborhood
 JnWpHcARx70 28:33 Giant Pandas at the Zoo (ASL) | Full Episode | Mister Rogers' Neighborhood
@@ -5156,10 +5155,8 @@ PRTeK4rm3vg 35:12 King Friday Bans Play | Compilation | Mister Rogers' Neighborh
 B7w7_6wJLZ4 28:23 Celebrating the Arts | Full Episode | Mister Rogers' Neighborhood
 iXAZZl9Pzvg 7:11 How People Make Books | Mister Roger's Neighborhood
 SvOf6if6rOI 6:09 Bill Nye Teaches A Science Experiment | Mister Rogers' Neighborhood
-slI17n7-y-g 28:45 How People Make the TV Show | Full Episode | Mister Rogers' Neighborhood
 # L1CvrzArIBE 2:18 "I Like to Take My Time" | Song | Mister Rogers' Neighborhood
 # of4RdWRPYUg 10:57 Jealousy in the Neighborhood of Make-Believe | Mister Rogers' Neighborhood
-pxfttPHDCEM 28:41 The Neighborhood Variety Show | Full Episode | Mister Rogers' Neighborhood
 # jH7M_mSptnw 3:07 A Wrong Delivery from Mr. McFeely | Mister Rogers' Neighborhood
 # dSQp71agHgI 5:30 An Up-Close Look at the Treasures of Mister Rogers’ Neighborhood
 # CLTbT6-Aqqg 6:43 Behind the Scenes of Mister Rogers' Neighborhood with Mr. McFeely
@@ -5181,7 +5178,6 @@ sj23tCoLbeQ 3:04 Playing Cello and Piano with Yo-Yo and Nicholas Ma | Mister Rog
 sWWLiD_rxz0 4:47 How People Make Ice Cream | Mister Rogers' Neighborhood
 # 3Wpw-8zBml4 7:54 Mister Rogers Builds a Kite | Mister Rogers' Neighborhood
 # rHQ6EySa_Ag 46:37 Friendship in the Neighborhood of Make-Believe | Compilation | Mister Rogers’ Neighborhood
-CT2W4VNvX-U 28:16 Mister Rogers Gets A Haircut | Full Episode | Mister Rogers' Neighborhood
 # bo2WyUvvv1s 4:11 Learning "Head and Shoulders" with Ella Jenkins | Mister Rogers' Neighborhood
 # CV8bKww54mI 0:50 “There Are Many Ways to Say I Love You” | Song | Mister Rogers’ Neighborhood
 Ou-pSbUcaPg 28:24 Paint and Read Along with Eric Carle | Full Episode | Mister Rogers’ Neighborhood
