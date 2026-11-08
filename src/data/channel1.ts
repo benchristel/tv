@@ -5226,15 +5226,15 @@ vGzKlVTqSg4 52:13 Hammermøllespil 2021 del 2
 EkDbKbOaI_0 6:27 hundeluftning på annemoneø
 T8a0YQbCx2Y 4:44 Helsingørs 500 års Jubilæumsmarch
 RXasaXcNRRU 54:56 De levende Sthenes jul 2018
-GIUdv--rk1g 45:54 Helsingør Musikskole Jul 2018 Kulturværftet
+# GIUdv--rk1g 45:54 Helsingør Musikskole Jul 2018 Kulturværftet
 5zkPa4BapfA 7:36 Mindehøj Mor Danmark Søndermarken
 jtWv30FgC30 14:56 Bag om Sundtoldsmarkedet
 bg_AxEqUHg0 41:33 Snedronningen
 0WWt5vVQMXQ 28:21 Den blå ballon MikroMakro 2018
 64nnEcLBX_k 14:00 Det ny galleri orange
-pVsTEiwLeNI 45:23 Helsingør Musikskole på Kulturværftet 10 december 17 Del 2
-HevNFcPaRAA 51:54 helsingør musikskole på kulturværftet 10 dec 17 Del 1
-DXxuAPGp3ac 1:26:54 Helsingør Musikskole i Sct Mariæ 7 dec 17
+# pVsTEiwLeNI 45:23 Helsingør Musikskole på Kulturværftet 10 december 17 Del 2
+# HevNFcPaRAA 51:54 helsingør musikskole på kulturværftet 10 dec 17 Del 1
+# DXxuAPGp3ac 1:26:54 Helsingør Musikskole i Sct Mariæ 7 dec 17
 1Lie2jGiEr4 25:23 Egedal kirkes børnekor
 pvxB3y-_OBc 9:21 Portobello Road i Helsingør
 JCY2qcWQqFQ 10:36 Glimt fra Hornbækløb 2017
@@ -5250,8 +5250,8 @@ HO-3pYfNL1U 28:32 Street Food Helsingør
 _yCOmH_qhTU 34:41 MIKROMAKRO KONCERT 2017
 _8hQIoxxK9Y 16:02 Helsingoer 1965 digitaliseret 8mm
 _m8vthsK2VY 9:55 Galleri 77 i Helsingør
-BT62TJyoQto 40:38 Helsingør Musikskole dec  16 del 2
-HvrhczTHvPU 57:17 Helsingør Musikskolen dec 16 del 1
+# BT62TJyoQto 40:38 Helsingør Musikskole dec  16 del 2
+# HvrhczTHvPU 57:17 Helsingør Musikskolen dec 16 del 1
 EPzkWL1LR-0 53:21 Cabaret Hamlet 2017, 2.akt
 unwWCBzPLXw 48:56 Cabaret Hamlet 2017 del 1
 -HN9rGbLfXo 40:36 Mini musical David og Golial
@@ -5271,7 +5271,7 @@ sr0zbD84L7g 21:32 HORNBÆK VANDVÆRK 110 år i 2016
 l9M_dMihbK8 10:33 Galleri 77 Helsingør
 40Ed6NCyJuM 12:38 Helsingør Gospelkor i Hornbæk Kirke
 RyvPaAg4hG4 19:31 KULTURNAT HORNBÆK 2016
-bB0nO1FE41w 27:50 Helsingør Musikskole i Torpen  Kapel
+# bB0nO1FE41w 27:50 Helsingør Musikskole i Torpen  Kapel
 IrKlND5fhVg 10:52 Flynderupgaard Høstfest Marked
 8kYFOz49C24 14:22 GERT BRASK PÅ MARIENLYST SLOT
 oCKb4PgsbHQ 8:09 Helsingør Kunstgalleri Sudergade
@@ -5284,7 +5284,7 @@ BvAUaCWONoA 8:26 Dame frokost Hornbæk  havnefest 2016
 fY6cJl4n3VY 21:55 Hornbæk havn Plankedyst 2016
 IYNORIUFvzY 5:07 HORNBÆK LØBET 2016
 PaWZsR5VvgU 12:06 Store Badedag 2016 Hornbæk
-vdIspj8n0As 13:53 Helsingør Musikskolen i Tivoli
+# vdIspj8n0As 13:53 Helsingør Musikskolen i Tivoli
 3LtPiMRSlMM 32:45 Tikøb Skole snip snap  snude
 Wb21T4qQhdA 10:32 De Levende Sthene 2 maj 2016
 2FVdKsJSuog 9:21 Mikromakro på Kulturværftet
@@ -5312,7 +5312,7 @@ IgpekJuTuEg 16:06 Cykling Hornbæk
 us-sKDuKRyI 16:50 Honbæk krocket
 DjbXo7XvOjY 9:09 Forsvarets dag 2015
 FIdMeSfBQv8 31:22 Tikøb og Gurre Kirkes ungdomskor
-NN0-9gmDnKI 14:07 Helsingør Musikskoles dag
+# NN0-9gmDnKI 14:07 Helsingør Musikskoles dag
 7wRO04WGQ2Y 9:07 søredning 2015
 YOydksJS32Q 17:14 Hammermøllens pinsefest 2015
 WUHIqK9uC8o 9:42 Galleri Esrum
@@ -5334,7 +5334,7 @@ WR9kITIhEdU 24:56 Humlebæk Historiske Marked
 oe5_NRhIvXY 27:00 Tikøb Skoles klasser synger
 xXpZH-k0DQA 9:52 Tikøb Skole Søren Voller sidste skoledag
 CT_-vXXdr84 19:56 Afsløring af værftarbejder figurer
-Kez9Lro5KKo 28:34 Musikskolens dag i Helsingør
+# Kez9Lro5KKo 28:34 Musikskolens dag i Helsingør
 PbG50kQn4cA 29:03 Sct  Jakobs Kapel og Gurre Slotsruin 500 års dag
 wKxu25w7iDA 13:33 A Little Jazz Mass af Bob Chikott
 m9nFrMSb7iI 24:07 Den Kongelige Livgarde Rex tur 2014
