@@ -760,6 +760,8 @@ vlQZ3NPnoLk 6:49 How to Make Medieval Cheese
 
 # Sally Pointer
 
+N57TgF7eCaU 6:32 Making a Medieval Style Netting Post
+hCNpJCO8aHY 18:56 Make a Seamless Woven Pouch
 ZNVd2ohBj0Q 12:39 Growing Flax in a Plant Pot
 amp5QP_gMjA 5:39 Lime Bast Experience Days 2026
 NqCGdgDsAmI 2:43 Lime Bast: Harvest, Preparation and Use. New book preview
@@ -5145,6 +5147,22 @@ DMA_Mj-yxjw 2:13 Eastern Coyotes, Mt Tom, Mass.
 
 8W-COVkA8pU 7:07 Nate from Lowell
 
+# GYRVDBwD8-U 3:15 "Some Things I Don't Understand" | Song | Mister Rogers' Neighborhood
+EtmuqXsd05g 28:34 Clowns and Masks | Full Episode | Mister Rogers' Neighborhood
+# HGgS55Zo63k 11:16 Being Afraid | Mister Rogers' Neighborhood
+5pvGFf_VY38 5:26 How People Make Candles | Mister Rogers' Neighborhood
+E7poXzF9G1Y 28:40 Spiders and Spiderwebs | Full Episode | Mister Rogers' Neighborhood
+# KCYkAcGmNEk 7:51 Feeling Afraid after a Scary Story | Mister Rogers’ Neighborhood
+# iiCiVBRvsCA 6:32 Making Paper Hats at Elsie's Shop | Mister Rogers' Neighborhood
+N0jiMG8N8CA 28:39 Mister Rogers Gets His Tonsils Taken Out | Full Episode | Mister Rogers' Neighborhood
+# 3uWJIQbv5d8 1:22 "I Like To Be Told" | Song | Mister Rogers' Neighborhood
+# dfyGX7VzimQ 12:22 The Sad Monster Ballet | Mister Rogers' Neighborhood
+# Durby1ymzmc 21:09 Dressing Up with Mister Rogers | Compilation | Mister Rogers' Neighborhood
+KJ2WRTCJMtc 28:43 Playing Pretend with Margaret Hamilton | Full Episode | Mister Rogers' Neighborhood
+WVpt7fSGBvs 11:32 Visiting an Underground Mushroom Farm with Mr. McFeely | Mister Rogers' Neighborhood
+# IoGOuPprX5s 5:31 How Mister Rogers Makes His Puppets Talk | Mister Rogers' Neighborhood
+O8yq4VY7sbk 28:16 Football and Ballet with Lynn Swann | Full Episode | Mister Rogers' Neighborhood
+# ZdUT9nknA0I 2:47 "You've Got To Do It" | Song | Mister Rogers' Neighborhood
 # 4mtm7MpU2QI 8:12 Mister Rogers and Officer Clemmons Cool Their Feet in a Pool | Mister Rogers' Neighborhood
 dNA_GyeXMwU 11:55 A Visit with Koko the Gorilla | Mister Rogers' Neighborhood
 # TCO23p23cU4 6:40 Playing Basketball with Suzie McConnell | Mister Rogers' Neighborhood
@@ -5185,7 +5203,7 @@ Ou-pSbUcaPg 28:24 Paint and Read Along with Eric Carle | Full Episode | Mister R
 # UF5ZTeFdx_U 1:58 "What Do You Do With the Mad That You Feel?" | Song | Mister Rogers’ Neighborhood
 # xONo4PSrp8o 7:18 LeVar Burton Reads "The Daddy Book" | Mister Rogers’ Neighborhood
 # U_cXuFACiHc 7:24 Learning How to Play Soccer | Mister Rogers’ Neighborhood
-# NUeMSO4kcoE 9:11 How People Make Stamps | Mister Rogers’ Neighborhood
+NUeMSO4kcoE 9:11 How People Make Stamps | Mister Rogers’ Neighborhood
 # UVuEGLQvAjU 1:37 "It's You I Like" | Song | Mister Rogers’ Neighborhood
 iFnEWctHOio 27:39 Fan Favorite Factory Visits | Compilation | Mister Rogers’ Neighborhood
 # ETvG4Ta7TAQ 5:17 Daniel Striped Tiger Wonders If He’s a Mistake | Mister Rogers’ Neighborhood
