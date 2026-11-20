@@ -247,6 +247,7 @@ yPcq-OhutqI 4:33 VOCES8 | Giovanni Pierluigi da Palestrina - Magnificat Primi To
 KKTqN894UCc 3:49 MICHAEL PRAETORIUS: Es ist ein Ros’ entsprungen
 zG6ewYxS4Pw 8:41 La Septime Estampie Real and Istampitta in Pro - Hanneke van Proosdij and Peter Maund
 LzP5xGcKa1k 4:14 Peter Blanchette, "Si Beag Si Mor"
+hqE1SN2_RIg 5:03 Joy to the person of my love, Molly Netter, soprano; the Voice of the Viol viola da gamba consort 8K
 
 # Celtic Christmas III
 # pgaiDhAqQ44 3:45 The Wexford Carol
