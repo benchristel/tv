@@ -5,8 +5,8 @@ function scrapeVideos() {
   if (/\/watch\?|\/embed\//.test(window.location))  {
     return [
       /v=(.{11})/.exec(window.location)?.[1] ?? /embed\/(.{11})/.exec(window.location)?.[1],
-      last(document.querySelectorAll(".ytp-time-duration")).innerText.trim(),
-      document.querySelector("a.ytp-title-link")
+      "0:00",
+      document.querySelector(".ytmVideoInfoVideoTitle")
         .innerText.split("\n")[0]
         .trim(),
     ].join(" ")
